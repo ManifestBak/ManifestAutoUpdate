@@ -324,120 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "7207566109674234568"
-				"size" "6289468169"
-				"download" "5235785552"
-			}
-			"experimental"
-			{
-				"gid" "9133057740977865798"
-				"size" "6559227346"
-				"download" "5462493760"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"design_testing"
-			{
-				"gid" "E1892F7A4079A71ADC55DB895688FFC1"
-				"size" "9980CB9B5B2E597F8B8A99D8347AEC9A"
-				"download" "EF1B5B3099767D44F2CBD1C8354037EE"
-			}
-			"design_testing_temp"
-			{
-				"gid" "0F591BAA4C79D3E8FE855F8AC01B137C"
-				"size" "88FD95804603D5AB5D94D5983C7B6B3C"
-				"download" "A2832EA032DCF5016E681A95F1C90CE7"
-			}
-			"console_experimental"
-			{
-				"gid" "3A66FB0AE4793FC6319EC2DBB19BECBA"
-				"size" "1F6491C6C7686DB54EA8430726705D8A"
-				"download" "691068CD30F2B1339E7942927D7F310F"
-			}
-			"development_testing"
-			{
-				"gid" "5BC7F42B16450439ABBDCA5973168E68"
-				"size" "9DC9014078DDF77296D7BA68161588F2"
-				"download" "1A53C3857BC08B9F5D53CB87FDDF703F"
-			}
-			"base"
-			{
-				"gid" "4D68C6D350630A0AB8749046A78141BC"
-				"size" "70C3160905B4D97AA3AB11C5072B0491"
-				"download" "D1AE6205BF1488311D035A8F1C8295B8"
-			}
-			"base_debug"
-			{
-				"gid" "EC265BA0912E1144C7B913A09F058311"
-				"size" "2124E4DC7F99534D6AEA54D17A5A9F13"
-				"download" "5D7FA82460A0A8BBDB67BF4135B3E5F1"
-			}
-			"external_agencies"
-			{
-				"gid" "621ECFD3BA27460419FE74CB4046F666"
-				"size" "F396B46AA2D1775671D30FE102B50312"
-				"download" "FD248455B5991E38F23C47C4DE476602"
-			}
-			"code"
-			{
-				"gid" "4333774C5D13FDE4C05B7D7297E92F72"
-				"size" "9E5A6A82BB0A517F665ECF2CCFBB43C6"
-				"download" "84D89A14ABBD2378CB4A3D7CB5988495"
-			}
-			"dlc_experimental"
-			{
-				"gid" "3B74933D3B07EADEA65C64971C4B7310"
-				"size" "92337BAB8E504F9319529D41ADC6516D"
-				"download" "255960A0F52344908999CECB7DB06A41"
-			}
-			"game_t"
-			{
-				"gid" "88A3DAF2B9D4134BFCDA50E3A762427D"
-				"size" "AAA1DC1C2EE2239E1526D33CCA5D5A7A"
-				"download" "039DD4CF7493F771FE212AFB5017D5A7"
-			}
-			"release_vip"
-			{
-				"gid" "3E5F74FF5F98338EC9255349277C84C7"
-				"size" "5B2553A225675FDABBE8CA62D12ABAE5"
-				"download" "2702D51B9B8F310F17E3A28FD76C671E"
-			}
-			"resistance_staging"
-			{
-				"gid" "E77DB93C0DD96889A6B37678CCC08AF5"
-				"size" "7C560286502BDDEDC451E06DC220DAF6"
-				"download" "20785EE9B8087637A6EC00A20788AD3F"
-			}
-			"the_resistance"
-			{
-				"gid" "E62D0001AA74D27310A27E1AF48A8988"
-				"size" "AA17DB59E1E9E423A31E847E9D531FEE"
-				"download" "8DCE57537369EEF051596457DF1AE5CD"
-			}
-			"vendor_qa"
-			{
-				"gid" "02DCCDC8B75F75A02929530B2EA5DC1D"
-				"size" "D289695FF13738234936A0A490827919"
-				"download" "22B0FB2785AC4F9203A812500AFA0D7E"
-			}
-			"curve_qa"
-			{
-				"gid" "DC4AA0D390BD64AEB0A6324007A928D3"
-				"size" "9B66A5F63722A94A32271B27979A979C"
-				"download" "A408C5B4CC0ED55C8E67A32DE5475EAA"
-			}
-			"staging_release"
-			{
-				"gid" "03838DB129F1D0D60891243893BC46B5"
-				"size" "1C32286E023228FB254F618662C97B30"
-				"download" "656EC1EA8063FD779BC1C679D44B04C6"
-			}
-			"staging"
-			{
-				"gid" "62E4F777C55059AB8113BB245B6ADD35"
-				"size" "06FF8156031C5335F4E2A76288CB8998"
-				"download" "4C39F34DF0E26E38BAD2A5CA0E384319"
+				"gid" "524867611879331309"
+				"size" "6289787848"
+				"download" "5235929120"
 			}
 		}
 	}
@@ -452,138 +341,16 @@
 				"download" "89043136"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"design_testing_temp"
-			{
-				"gid" "FFCEAA01598A11FC3901AEC795A042F0"
-				"size" "674C7EE2EFD65E23EBD4C60703708214"
-				"download" "352488261866B180C3FAC95C7E00CD30"
-			}
-			"release_vip"
-			{
-				"gid" "CC3A8219A86460AFC28BD11D16E8EC29"
-				"size" "7BC0FF2674F3C49EF04B05501C83C66B"
-				"download" "533043F45114698479333EE39DF85A1B"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16776541"
-			"timeupdated" "1734457472"
-		}
-		"design_testing"
-		{
-			"buildid" "15550937"
-			"pwdrequired" "1"
-			"timeupdated" "1733865791"
-		}
-		"design_testing_temp"
-		{
-			"buildid" "16128666"
-			"pwdrequired" "1"
-			"timeupdated" "1729551032"
-		}
-		"console_experimental"
-		{
-			"buildid" "16637922"
-			"pwdrequired" "1"
-			"timeupdated" "1733368067"
-		}
-		"development_testing"
-		{
-			"buildid" "16743002"
-			"pwdrequired" "1"
-			"timeupdated" "1734145875"
-		}
-		"base"
-		{
-			"buildid" "12587454"
-			"pwdrequired" "1"
-			"timeupdated" "1698973050"
-		}
-		"base_debug"
-		{
-			"buildid" "12586829"
-			"pwdrequired" "1"
-			"timeupdated" "1699282315"
-		}
-		"external_agencies"
-		{
-			"buildid" "15139908"
-			"pwdrequired" "1"
-			"timeupdated" "1721840615"
-		}
-		"code"
-		{
-			"buildid" "16743800"
-			"pwdrequired" "1"
-			"timeupdated" "1734155710"
-		}
-		"experimental"
-		{
-			"buildid" "16413004"
-			"description" "experimental testing branch"
-			"timeupdated" "1731628689"
-		}
-		"dlc_experimental"
-		{
-			"buildid" "16607728"
-			"pwdrequired" "1"
-			"timeupdated" "1733185174"
-		}
-		"game_t"
-		{
-			"buildid" "16213790"
-			"pwdrequired" "1"
-			"timeupdated" "1730196855"
-		}
-		"release_vip"
-		{
-			"buildid" "15653800"
-			"pwdrequired" "1"
-			"timeupdated" "1725986252"
-		}
-		"resistance_staging"
-		{
-			"buildid" "16448263"
-			"pwdrequired" "1"
-			"timeupdated" "1731957298"
-		}
-		"the_resistance"
-		{
-			"buildid" "16130491"
-			"pwdrequired" "1"
-			"timeupdated" "1729636825"
-		}
-		"vendor_qa"
-		{
-			"buildid" "15441273"
-			"pwdrequired" "1"
-			"timeupdated" "1724769071"
-		}
-		"curve_qa"
-		{
-			"buildid" "16743800"
-			"pwdrequired" "1"
-			"timeupdated" "1734156058"
-		}
-		"staging_release"
-		{
-			"buildid" "16745097"
-			"pwdrequired" "1"
-			"timeupdated" "1734173981"
-		}
-		"staging"
-		{
-			"buildid" "16745097"
-			"pwdrequired" "1"
-			"timeupdated" "1734173926"
+			"buildid" "16930696"
+			"timeupdated" "1736270668"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -606,6 +373,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26682115"
-"_sha" "ee1fbb506ec14b1e8f96af84b8daeae4359f32de"
-"_size" "12331"
+"_change_number" "26895870"
+"_sha" "626721c0cb4836acb8f14234dc1827ef51112082"
+"_size" "6776"
