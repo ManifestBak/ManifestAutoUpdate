@@ -343,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "4980374456424967767"
-				"size" "10474364723"
-				"download" "5959932448"
+				"gid" "8903056913616950771"
+				"size" "10534248971"
+				"download" "5979823632"
 			}
 		}
 		"encryptedmanifests"
@@ -358,15 +358,15 @@
 			}
 			"qqtest"
 			{
-				"gid" "95804A6BEA84C0EDF44902B9E4957411"
-				"size" "B62ABA1E6E00D42D47664364A6848202"
-				"download" "8648287D34986ACD4D39CE219FE6CF4C"
+				"gid" "31A6DC2521877436A3B39C8FD0236DF6"
+				"size" "69F5F7A211A40504385D1DBE5C5F4E38"
+				"download" "E042076D0393CCB56BAF787820574FAB"
 			}
 			"test"
 			{
-				"gid" "ACA4E73970ECFC17489474F8E2FE71A6"
-				"size" "E15B922331D814F3BE8FC8A578F6004B"
-				"download" "BDFB5D21FD732FC52CB627A1B491830D"
+				"gid" "E7A39667C8354B005E1A8ED3F0079F61"
+				"size" "1F06272845E4AEDA52E59A8191DF4DF1"
+				"download" "B53BE9EDD64EC2BE918A22408267A94C"
 			}
 			"teststeam"
 			{
@@ -380,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "16860850"
-			"timeupdated" "1735307628"
+			"buildid" "16927761"
+			"timeupdated" "1736254953"
 		}
 		"oldversion"
 		{
@@ -391,15 +391,15 @@
 		}
 		"qqtest"
 		{
-			"buildid" "16860850"
+			"buildid" "16927761"
 			"pwdrequired" "1"
-			"timeupdated" "1735306872"
+			"timeupdated" "1736254998"
 		}
 		"test"
 		{
-			"buildid" "16860850"
+			"buildid" "16927761"
 			"pwdrequired" "1"
-			"timeupdated" "1735306843"
+			"timeupdated" "1736251528"
 		}
 		"teststeam"
 		{
@@ -410,6 +410,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26809670"
-"_sha" "d58c8332d079c8294afbe9cf2a13f6149d59a2f6"
+"_change_number" "26892241"
+"_sha" "d0c2c3e8db428b442df16949349552e1ce865aa8"
 "_size" "7067"
