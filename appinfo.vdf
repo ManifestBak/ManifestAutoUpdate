@@ -185,13 +185,15 @@
 		"19" "8369"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "96"
 }
 "extended"
 {
 	"developer" "Black Hole Games"
 	"publisher" "Nuuvem Inc"
 	"homepage" "https://www.blackhole.games/"
+	"listofdlc" "3368680"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -255,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "2712132124488413237"
-				"size" "1112619239"
-				"download" "389284304"
+				"gid" "1552672411971465436"
+				"size" "1112631468"
+				"download" "389285664"
 			}
 		}
 	}
@@ -272,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "1962626871637115762"
-				"size" "1112393948"
-				"download" "387341840"
+				"gid" "2606497007378199410"
+				"size" "1112406177"
+				"download" "387350960"
 			}
 		}
 	}
@@ -289,9 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "2542971923050451345"
-				"size" "1136124394"
-				"download" "395475232"
+				"gid" "5109520854530894199"
+				"size" "1136136137"
+				"download" "395477968"
 			}
 		}
 	}
@@ -299,8 +301,8 @@
 	{
 		"public"
 		{
-			"buildid" "15026432"
-			"timeupdated" "1720925108"
+			"buildid" "16259508"
+			"timeupdated" "1730426256"
 		}
 	}
 }
@@ -309,3 +311,7 @@
 	"quota" "100000"
 	"maxnumfiles" "10"
 }
+"_missing_token" "False"
+"_change_number" "26737821"
+"_sha" "1f7bcf59a7ffb2ab12f509d8b0cdb0574cc24379"
+"_size" "4905"
