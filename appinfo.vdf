@@ -161,6 +161,7 @@
 	}
 	"steam_release_date" "1715691720"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1960270"
 	"store_tags"
@@ -212,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "2171445665461424210"
-				"size" "169441020"
-				"download" "61413120"
+				"gid" "8274823420454550661"
+				"size" "169462988"
+				"download" "61417360"
 			}
 			"0.6.7"
 			{
@@ -247,23 +248,14 @@
 				"download" "61265808"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C8DDF1D89DE8F3E25C2D899671B6B2AD"
-				"size" "4F2C310659A77A2384BB6BB32AA2835B"
-				"download" "C665EE49AB7DB066161A5BA112651B99"
-			}
-		}
 	}
 	"workshopdepot" "1960270"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16120122"
-			"timeupdated" "1729503206"
+			"buildid" "16918218"
+			"timeupdated" "1736175636"
 		}
 		"0.6.7"
 		{
@@ -295,13 +287,8 @@
 			"description" "Lootun Version 1.0.4"
 			"timeupdated" "1729340640"
 		}
-		"beta"
-		{
-			"buildid" "16099062"
-			"pwdrequired" "1"
-			"timeupdated" "1729270191"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -353,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25817239"
-"_sha" "ef6931f6f06a178204301f477c47894d49b6fdf7"
-"_size" "6204"
+"_change_number" "26878805"
+"_sha" "2df05e9c6f6bcddb4b7ac4b00ecafd7591d01a77"
+"_size" "5950"
