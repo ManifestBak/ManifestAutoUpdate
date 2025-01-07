@@ -3,9 +3,9 @@
 {
 	"name" "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator"
 	"type" "Game"
-	"clienticon" "332cef4ef64d8046ed505f2b30c5658843037901"
-	"clienttga" "dd127e184ac92e0c6e21b5f1d1487d53e6db8d51"
-	"icon" "40f93af32bc3bd2d7a464504f806c900146a9937"
+	"clienticon" "3495cacd6c80e9d5355517de1f5fb5623fb77fdb"
+	"clienttga" "2c9e1872a7fc5b7f7d847c9d27e927e23fa16ccc"
+	"icon" "98c2591f872700ed69ad21f7cfe4e3a7223b476a"
 	"name_localized"
 	{
 		"tchinese" "蕾斯萊莉婭娜的鍊金工房 ～忘卻的鍊金術與極夜的解放者～"
@@ -230,8 +230,8 @@
 		"3" "7208"
 		"4" "5652"
 		"5" "10695"
-		"6" "12095"
-		"7" "4085"
+		"6" "4085"
+		"7" "12095"
 		"8" "4191"
 		"9" "4726"
 		"10" "122"
@@ -297,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "3875588870232928347"
-				"size" "974907191"
-				"download" "494019168"
+				"gid" "7534358060779142929"
+				"size" "956314895"
+				"download" "488934672"
 			}
 		}
 	}
@@ -307,13 +307,13 @@
 	{
 		"public"
 		{
-			"buildid" "16598249"
-			"timeupdated" "1733973008"
+			"buildid" "16758341"
+			"timeupdated" "1736219676"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26604096"
-"_sha" "0062f6b88c1bfd062d7a9daf554df43228f6fb0f"
+"_change_number" "26891856"
+"_sha" "f1c6d197c2b55aaa444345801930bcd09d745459"
 "_size" "6053"
