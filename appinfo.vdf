@@ -164,7 +164,7 @@
 		"19" "5379"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -196,15 +196,15 @@
 		{
 			"public"
 			{
-				"gid" "1202700027518734060"
-				"size" "506731584"
-				"download" "331403680"
+				"gid" "1502736685532263141"
+				"size" "506859783"
+				"download" "331558496"
 			}
 			"compatibility"
 			{
-				"gid" "7769842958560328183"
-				"size" "471607882"
-				"download" "319929920"
+				"gid" "5083733799421467372"
+				"size" "471736074"
+				"download" "320095840"
 			}
 		}
 	}
@@ -219,9 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "4838473493182622378"
-				"size" "442294606"
-				"download" "315360480"
+				"gid" "8501934673673043466"
+				"size" "442570426"
+				"download" "315584336"
 			}
 		}
 	}
@@ -231,14 +231,14 @@
 	{
 		"public"
 		{
-			"buildid" "16917257"
-			"timeupdated" "1736166157"
+			"buildid" "16925238"
+			"timeupdated" "1736234356"
 		}
 		"compatibility"
 		{
-			"buildid" "16916881"
+			"buildid" "16924564"
 			"description" "无法进入游戏专用"
-			"timeupdated" "1736162750"
+			"timeupdated" "1736228327"
 		}
 	}
 	"privatebranches" "1"
@@ -258,6 +258,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26877650"
-"_sha" "6d0d84e18be6226f6bb456429337e183e6e04706"
+"_change_number" "26888155"
+"_sha" "1ac5675af2fcc563aba9dd37ce39b176c55986ab"
 "_size" "4222"
