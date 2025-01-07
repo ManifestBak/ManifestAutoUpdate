@@ -33,7 +33,6 @@
 		"sc_schinese" "1"
 	}
 	"releasestatesteamchina" "released"
-	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -195,17 +194,17 @@
 		"6" "1667"
 		"7" "4136"
 		"8" "5611"
-		"9" "24904"
-		"10" "150626"
-		"11" "19"
-		"12" "492"
-		"13" "493"
-		"14" "809"
-		"15" "3810"
-		"16" "3839"
-		"17" "4085"
-		"18" "4182"
-		"19" "4726"
+		"9" "150626"
+		"10" "19"
+		"11" "492"
+		"12" "493"
+		"13" "809"
+		"14" "3810"
+		"15" "3839"
+		"16" "4085"
+		"17" "4182"
+		"18" "4726"
+		"19" "10397"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -253,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "816175988903667356"
-				"size" "284055980"
-				"download" "21153088"
+				"gid" "7094167427713170224"
+				"size" "287319468"
+				"download" "21727792"
 			}
 			"1.5.1"
 			{
@@ -269,12 +268,6 @@
 				"size" "142873671"
 				"download" "12849440"
 			}
-			"1.7.0"
-			{
-				"gid" "2619522274203467081"
-				"size" "296069639"
-				"download" "65821456"
-			}
 			"1.7.1"
 			{
 				"gid" "8668801616838888203"
@@ -287,20 +280,26 @@
 				"size" "436620883"
 				"download" "75426432"
 			}
+			"1.8.6"
+			{
+				"gid" "816175988903667356"
+				"size" "284055980"
+				"download" "21153088"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"test"
-			{
-				"gid" "BC93F78F3F67FB71A40258FD2AF0E31B"
-				"size" "86074350AF5FF3B5F916A9D1A279CF79"
-				"download" "4EBAEFB85CA435373354C7AEF5B52234"
-			}
 			"steam_china_only"
 			{
-				"gid" "649100165845DA38F38708D394889BD7"
-				"size" "350ABAEDFFED2BB46AABF89BB22B453B"
-				"download" "0CAAA009B3BDCA7FD6B393EF7286527F"
+				"gid" "48F41B5363FBF35D05AA20E7C44B2EF3"
+				"size" "474604A3F6F377480F7A1181BEAA5DD1"
+				"download" "8D8398CB13D23F83FD6BCEE7FD0B5B80"
+			}
+			"test"
+			{
+				"gid" "3C79BFB6A8431C0C9B05865825D1C6E3"
+				"size" "5E52DBC8112E09F6E7E1688A029020A2"
+				"download" "C53A13A4333CD71FAAD9170C71D35CDC"
 			}
 		}
 	}
@@ -309,8 +308,8 @@
 	{
 		"public"
 		{
-			"buildid" "15254846"
-			"timeupdated" "1722764280"
+			"buildid" "16915806"
+			"timeupdated" "1736155300"
 		}
 		"1.5.1"
 		{
@@ -321,39 +320,39 @@
 		"1.6.0"
 		{
 			"buildid" "10329037"
-			"description" "last build with win7 overlay support"
+			"description" "last version for Windows 7"
 			"timeupdated" "1685640946"
-		}
-		"1.7.0"
-		{
-			"buildid" "11345490"
-			"description" "new overlay"
-			"timeupdated" "1685879280"
 		}
 		"1.7.1"
 		{
 			"buildid" "11390198"
-			"description" "last major version"
+			"description" "1.7.1"
 			"timeupdated" "1704594956"
 		}
 		"1.8.3"
 		{
 			"buildid" "13550476"
-			"description" "last version"
+			"description" "1.8.3"
 			"timeupdated" "1711220453"
 		}
-		"test"
+		"1.8.6"
 		{
-			"buildid" "7550523"
-			"pwdrequired" "1"
-			"timeupdated" "1634524999"
+			"buildid" "15254846"
+			"description" "last version"
+			"timeupdated" "1736187578"
 		}
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "15254845"
+			"buildid" "16915803"
 			"pwdrequired" "1"
-			"timeupdated" "1722764311"
+			"timeupdated" "1736154673"
+		}
+		"test"
+		{
+			"buildid" "16915806"
+			"pwdrequired" "1"
+			"timeupdated" "1736154707"
 		}
 	}
 }
@@ -363,6 +362,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26253459"
-"_sha" "cff97a45b4a121ebcae196f71c2a665b15810b43"
-"_size" "6738"
+"_change_number" "26881058"
+"_sha" "131ce81dc57b535d44db8d79ddb04f790b070d4c"
+"_size" "6679"
