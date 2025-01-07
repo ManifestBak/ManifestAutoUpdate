@@ -1,7 +1,7 @@
 "appid" "2729000"
 "common"
 {
-	"name" "Cats and Seek : at Dino Park"
+	"name" "Cats and Seek: Dino Park"
 	"type" "Game"
 	"clienticon" "44935a3f21b3033925d4063a6aadef2c71fd89b3"
 	"clienttga" "ab286c3d692a9b757639c312af8fc5340b1a3d6f"
@@ -63,7 +63,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "2a4bde3ff0c46d2fe7b5e3d026480b5a80597964/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -73,6 +73,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -82,7 +83,67 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1718266928"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "3a793a1a628da926c8d6144b1791b87873b1c50e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "3a793a1a628da926c8d6144b1791b87873b1c50e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "d60db5e14ae792cfe3f48cc4780f859edaab3dbd/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "d60db5e14ae792cfe3f48cc4780f859edaab3dbd/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d60db5e14ae792cfe3f48cc4780f859edaab3dbd/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "5322592230a591972e91a72ac433d514e21b4e76/logo.png"
+			}
+			"image2x"
+			{
+				"english" "5322592230a591972e91a72ac433d514e21b4e76/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "53.38389731621939"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a8fd9a9113155a84670de7c4405c96a42d97a3ce/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a8fd9a9113155a84670de7c4405c96a42d97a3ce/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736061741"
 	"associations"
 	{
 		"0"
@@ -99,6 +160,11 @@
 		{
 			"type" "franchise"
 			"name" "Noobzilla"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Cats and Seek"
 		}
 	}
 	"primary_genre" "4"
@@ -262,24 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "8971969367234010185"
-				"size" "306898044"
-				"download" "129435888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"linux_test"
-			{
-				"gid" "AA105549D11CFC611C2120695BAE0511"
-				"size" "375B7FADCC7900FD2D596698F609D4C5"
-				"download" "551F23B49FA827BA3090E6C87DA2DCDD"
-			}
-			"pc_test"
-			{
-				"gid" "99D5D05B646C4622DE0078297786388A"
-				"size" "0ABC2D6DDC2E0D02AAEE4F5780735757"
-				"download" "E082710CD7E0B98E9593894F1B0D88B0"
+				"gid" "8611773587265213272"
+				"size" "306890572"
+				"download" "129432336"
 			}
 		}
 	}
@@ -294,24 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "4970818514796843509"
-				"size" "427844223"
-				"download" "142081120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"linux_test"
-			{
-				"gid" "4B5064F4B2E2B3CEB6B1BB8EA18CFEF2"
-				"size" "17A42E7F90AC6B23E0B31F8F94DB1706"
-				"download" "C617078AE97B0A4A20407C83EA432038"
-			}
-			"pc_test"
-			{
-				"gid" "52A0091A69EE723E206075F4A8812501"
-				"size" "FFCE6D55CFB5BAA3567DB2B8B53F7983"
-				"download" "71BF66C8AAAD561069D5831FBE559D69"
+				"gid" "7156019463084542502"
+				"size" "427883225"
+				"download" "142113584"
 			}
 		}
 	}
@@ -319,20 +355,13 @@
 	{
 		"public"
 		{
-			"buildid" "15161104"
-			"timeupdated" "1721986129"
-		}
-		"linux_test"
-		{
-			"buildid" "13477399"
-			"pwdrequired" "1"
-			"timeupdated" "1708095837"
-		}
-		"pc_test"
-		{
-			"buildid" "13527818"
-			"pwdrequired" "1"
-			"timeupdated" "1708581467"
+			"buildid" "16909915"
+			"timeupdated" "1736067177"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26866525"
+"_sha" "41b3883f54cf36b91dc9aef555f7c892b522e236"
+"_size" "6364"
