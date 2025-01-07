@@ -41,7 +41,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "fe3576acdf719f873b43d6eea593fd59123a5797/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -60,7 +60,52 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1713442220"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "65.70176929125776"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732569785"
 	"associations"
 	{
 		"0"
@@ -271,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "1913883095717428875"
-				"size" "349698208"
-				"download" "220845344"
+				"gid" "4812270140050413372"
+				"size" "349806624"
+				"download" "220866096"
 			}
 			"speedrun_1.0.8"
 			{
@@ -286,12 +331,6 @@
 				"gid" "5974475745638960070"
 				"size" "349697824"
 				"download" "220839424"
-			}
-			"windows_beta"
-			{
-				"gid" "4812270140050413372"
-				"size" "349806624"
-				"download" "220866096"
 			}
 		}
 		"encryptedmanifests"
@@ -320,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "4636198844606783036"
-				"size" "347651485"
-				"download" "220281600"
+				"gid" "7871417264892550621"
+				"size" "352598628"
+				"download" "219302304"
 			}
 			"speedrun_1.0.8"
 			{
@@ -335,12 +374,6 @@
 				"gid" "4083409366305211679"
 				"size" "347650717"
 				"download" "220279056"
-			}
-			"windows_beta"
-			{
-				"gid" "4636198844606783036"
-				"size" "347651485"
-				"download" "220281600"
 			}
 		}
 		"encryptedmanifests"
@@ -369,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "8579504646044629255"
-				"size" "404459733"
-				"download" "231308304"
+				"gid" "5657166916277608393"
+				"size" "412331956"
+				"download" "230272112"
 			}
 			"speedrun_1.0.8"
 			{
@@ -384,12 +417,6 @@
 				"gid" "7791860103925517123"
 				"size" "404459111"
 				"download" "231294176"
-			}
-			"windows_beta"
-			{
-				"gid" "8579504646044629255"
-				"size" "404459733"
-				"download" "231308304"
 			}
 		}
 		"encryptedmanifests"
@@ -412,8 +439,8 @@
 	{
 		"public"
 		{
-			"buildid" "14804068"
-			"timeupdated" "1719059002"
+			"buildid" "16917839"
+			"timeupdated" "1736171433"
 		}
 		"speedrun_1.0.8"
 		{
@@ -439,12 +466,6 @@
 			"description" "Ato v1.1.8. For speedrunning Boss Rush All Glitches categories"
 			"timeupdated" "1717358502"
 		}
-		"windows_beta"
-		{
-			"buildid" "15401870"
-			"description" "Beta for Windows builds."
-			"timeupdated" "1723859738"
-		}
 	}
 }
 "ufs"
@@ -452,3 +473,7 @@
 	"quota" "50000000"
 	"maxnumfiles" "50"
 }
+"_missing_token" "False"
+"_change_number" "26877954"
+"_sha" "4c82668aa72d732da9dee5db97ebb55b63f84ee2"
+"_size" "7977"
