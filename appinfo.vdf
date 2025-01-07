@@ -210,8 +210,8 @@
 		"18" "4747"
 		"19" "4305"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -256,24 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "4660265672960798771"
-				"size" "721351504"
-				"download" "190719456"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"necrobouncer-ludeo-qatestlab"
-			{
-				"gid" "B72407554F1722FF7B07693EA5870014"
-				"size" "A27B2C73965C21F70FF5B44C7EE75EE9"
-				"download" "A572E4627CA7ADCD7B1C074E5016BDEF"
-			}
-			"pre-release"
-			{
-				"gid" "C554529EEF2776EB973A5CB572A46D81"
-				"size" "A8D3C621DBFE7A02F8987457C48C4030"
-				"download" "12B349F4EBB43B38913130F108D9F960"
+				"gid" "3959916009540886980"
+				"size" "721421240"
+				"download" "190736144"
 			}
 		}
 	}
@@ -292,42 +277,16 @@
 				"download" "122266768"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"necrobouncer-ludeo-qatestlab"
-			{
-				"gid" "6824384D4A3EF48A211DDF72882F2618"
-				"size" "6A02CD6271030BEB7DC0F92B0508C841"
-				"download" "BA74859575F9092D5BF2747CD1A76BD4"
-			}
-			"pre-release"
-			{
-				"gid" "ADE183D0969723B0A7E87F1B80D17065"
-				"size" "4809DD2FC2AAFE36A9DE984A9AFF6625"
-				"download" "17BDF1017201F65AA475CE9A34018E03"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13727572"
-			"timeupdated" "1710340566"
-		}
-		"necrobouncer-ludeo-qatestlab"
-		{
-			"buildid" "12609512"
-			"pwdrequired" "1"
-			"timeupdated" "1698996500"
-		}
-		"pre-release"
-		{
-			"buildid" "13727572"
-			"pwdrequired" "1"
-			"timeupdated" "1710339769"
+			"buildid" "16915535"
+			"timeupdated" "1736151327"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -370,3 +329,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26874724"
+"_sha" "7a0e5ef4b6b1005f074ef9c9dcb932460c0ea5f4"
+"_size" "5410"
