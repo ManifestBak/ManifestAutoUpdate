@@ -227,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "6808899034585576117"
-				"size" "13722841557"
-				"download" "6507072608"
+				"gid" "5948073274653453337"
+				"size" "11704949253"
+				"download" "4995115936"
 			}
 			"tavr_upgraded_steamvr_build"
 			{
@@ -237,11 +237,11 @@
 				"size" "3707950351"
 				"download" "1347007488"
 			}
-			"oculusxr_launcher"
+			"oculusxr_vdxr_launcher"
 			{
-				"gid" "8272092704923070385"
-				"size" "13730128608"
-				"download" "6509798656"
+				"gid" "842164437219090404"
+				"size" "11712260936"
+				"download" "4997858384"
 			}
 		}
 	}
@@ -249,8 +249,8 @@
 	{
 		"public"
 		{
-			"buildid" "16764907"
-			"timeupdated" "1734595245"
+			"buildid" "16920853"
+			"timeupdated" "1736221578"
 		}
 		"tavr_upgraded_steamvr_build"
 		{
@@ -258,16 +258,16 @@
 			"description" "Tactical Assault VR Upgraded Graphics Demo 0.6.6"
 			"timeupdated" "1685565408"
 		}
-		"oculusxr_launcher"
+		"oculusxr_vdxr_launcher"
 		{
-			"buildid" "16764901"
-			"description" "Launches in OculusXR Runtime"
-			"timeupdated" "1734595220"
+			"buildid" "16920949"
+			"description" "For use with OculusXR and Virtual Desktop XR Launcher"
+			"timeupdated" "1736218183"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26709553"
-"_sha" "68325295cca37cb41051d527df16cd5f7d7ecf4e"
-"_size" "5141"
+"_change_number" "26886398"
+"_sha" "ade0c08241ec262919966431460c60c50b9a6b41"
+"_size" "5175"
