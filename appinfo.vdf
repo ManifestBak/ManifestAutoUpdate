@@ -267,7 +267,7 @@
 		"19" "4191"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3585130040343264177"
-				"size" "11638416665"
-				"download" "4509098112"
+				"gid" "1680894611125475363"
+				"size" "11637003528"
+				"download" "4508886160"
 			}
 		}
 		"encryptedmanifests"
@@ -340,9 +340,9 @@
 			}
 			"internal_test2"
 			{
-				"gid" "B42085C02BF1C4498FE956B0D70655D0"
-				"size" "C2ED49304286E19DE389FC1BD9A493CC"
-				"download" "F4187CB84799E8ACFAA8F71B1D28FCC0"
+				"gid" "0DB48870294452272D165C7890CFD3B8"
+				"size" "61FAD48FA8050C42C60F13F059407BAB"
+				"download" "85E71F5FA3DE7D186706A25392F910DD"
 			}
 			"mechabellum_tv"
 			{
@@ -427,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "8762890215356523187"
-				"size" "11638416665"
-				"download" "4511145056"
+				"gid" "5532037882027696727"
+				"size" "11637003528"
+				"download" "4510936576"
 			}
 		}
 		"encryptedmanifests"
@@ -454,9 +454,9 @@
 			}
 			"internal_test2"
 			{
-				"gid" "610B617D99B4003BF4F95BE6B26E898A"
-				"size" "C2ED49304286E19DE389FC1BD9A493CC"
-				"download" "02507886FCD079D49D62FE037BDCD811"
+				"gid" "41A1BF9996B1C7AA00FEBC44889A92D9"
+				"size" "61FAD48FA8050C42C60F13F059407BAB"
+				"download" "C3B7B75744AF6B185F2B1459F4158785"
 			}
 			"mechabellum_tv"
 			{
@@ -476,8 +476,8 @@
 	{
 		"public"
 		{
-			"buildid" "16899697"
-			"timeupdated" "1735914881"
+			"buildid" "16925570"
+			"timeupdated" "1736247028"
 		}
 		"steam_china_only"
 		{
@@ -500,9 +500,9 @@
 		}
 		"internal_test2"
 		{
-			"buildid" "16899697"
+			"buildid" "16925570"
 			"pwdrequired" "1"
-			"timeupdated" "1735910815"
+			"timeupdated" "1736237366"
 		}
 		"mechabellum_tv"
 		{
@@ -519,6 +519,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26852530"
-"_sha" "4ab06a026e8dce74484d27129525dea8eac50155"
+"_change_number" "26890570"
+"_sha" "11e0a0f424ec0de877e28d3d95be1ca37dad7c59"
 "_size" "10493"
