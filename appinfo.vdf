@@ -312,60 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "2130178716849732778"
-				"size" "802394103"
-				"download" "645813664"
+				"gid" "3856196888434308429"
+				"size" "801030898"
+				"download" "644483168"
 			}
 			"public-beta"
 			{
-				"gid" "2130178716849732778"
-				"size" "802394103"
-				"download" "645813664"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gamescom2023"
-			{
-				"gid" "9DABAA493CB61C2185F74C9BE9AA63D3"
-				"size" "01F9ED3D83C58D5F2C45DCD07A31EF4B"
-				"download" "F58C0C5B81A9ABB1F9ABD5B94DE18959"
-			}
-			"gamescom2024"
-			{
-				"gid" "4EF291690AD900E762D46703110DBC31"
-				"size" "EBAC65CFFD6FB4137004738272E4ACFE"
-				"download" "19C35FB543DA90477A4D9654BE0F13AF"
-			}
-			"internal-test"
-			{
-				"gid" "0BAF84F89ADCF7C27930D718F5F51E54"
-				"size" "87BBFA00DF8B34BA36973144564AB5FC"
-				"download" "26CF8E5516E89A2956E956CA5B0B3575"
-			}
-			"localization"
-			{
-				"gid" "CAC80EA35E50298B2A238026B5E5DC81"
-				"size" "A31AACEE97CE70CF5C7DE04385FB6AA7"
-				"download" "20AC1DA00B2001BE96B7F6BD23848F5D"
-			}
-			"q-a-branch"
-			{
-				"gid" "BFDFD1F6309C0CBB8F1DED896126B696"
-				"size" "BA1546BCE90F7B0BB7FB4EFFD9B488FF"
-				"download" "23E5C8224D5164FAE18C4524680B069F"
-			}
-			"steamdeck-tests"
-			{
-				"gid" "9D5570660BFAD5A6CD33C2CFFA66F0F2"
-				"size" "192CCF9A56C67320CE2B320B08B81F81"
-				"download" "3018C84CD1391D8D22C990BDDC486082"
-			}
-			"test-builds"
-			{
-				"gid" "9D4F4FD2A62C90493C6E2F71678BCF64"
-				"size" "A429E75A19CB31CCD8D79AFBFD1834C4"
-				"download" "C0F8C826F103FA36BD4CEC837C590C4E"
+				"gid" "3856196888434308429"
+				"size" "801030898"
+				"download" "644483168"
 			}
 		}
 	}
@@ -373,58 +328,17 @@
 	{
 		"public"
 		{
-			"buildid" "16815887"
-			"timeupdated" "1734710947"
-		}
-		"gamescom2023"
-		{
-			"buildid" "12021067"
-			"pwdrequired" "1"
-			"timeupdated" "1692869297"
-		}
-		"gamescom2024"
-		{
-			"buildid" "15432604"
-			"pwdrequired" "1"
-			"timeupdated" "1724148299"
-		}
-		"internal-test"
-		{
-			"buildid" "16815887"
-			"pwdrequired" "1"
-			"timeupdated" "1734708794"
-		}
-		"localization"
-		{
-			"buildid" "15544457"
-			"pwdrequired" "1"
-			"timeupdated" "1725020408"
+			"buildid" "16928579"
+			"timeupdated" "1736269856"
 		}
 		"public-beta"
 		{
-			"buildid" "16815887"
+			"buildid" "16928579"
 			"description" "to get future updates earlier"
-			"timeupdated" "1734709992"
-		}
-		"q-a-branch"
-		{
-			"buildid" "15291289"
-			"pwdrequired" "1"
-			"timeupdated" "1723039401"
-		}
-		"steamdeck-tests"
-		{
-			"buildid" "15681559"
-			"pwdrequired" "1"
-			"timeupdated" "1726235046"
-		}
-		"test-builds"
-		{
-			"buildid" "14856555"
-			"pwdrequired" "1"
-			"timeupdated" "1719481245"
+			"timeupdated" "1736259537"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -442,6 +356,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26736062"
-"_sha" "a520cea22d5204c0bfd2663ff3450aded58b7f9e"
-"_size" "8534"
+"_change_number" "26895669"
+"_sha" "bbf2718e5656f9f7500c979bf7803efa0bce270f"
+"_size" "6514"
