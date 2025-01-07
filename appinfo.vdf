@@ -83,7 +83,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "8577b44086aa861a909f7de81e51866dcaaa8e1d/capsule_231x87.jpg"
+		"english" "eaccf0b8cc322aabac131e68358d65068d23b5a1/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -107,11 +107,11 @@
 		{
 			"image"
 			{
-				"english" "342c6fdb9531edddbf8c00902f22c4d208899697/library_600x900.jpg"
+				"english" "486fd830bf70f449085a72de802f87c79db56263/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "342c6fdb9531edddbf8c00902f22c4d208899697/library_600x900_2x.jpg"
+				"english" "486fd830bf70f449085a72de802f87c79db56263/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -139,7 +139,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734642107"
+	"store_asset_mtime" "1736107631"
 	"associations"
 	{
 		"0"
@@ -267,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "2276622064443077926"
-				"size" "1610281596"
-				"download" "650299568"
+				"gid" "6077808441800368669"
+				"size" "1613331408"
+				"download" "650946176"
 			}
 			"rolling_line_1x"
 			{
@@ -291,18 +291,18 @@
 			}
 			"testing"
 			{
-				"gid" "2276622064443077926"
-				"size" "1610281596"
-				"download" "650299568"
+				"gid" "6077808441800368669"
+				"size" "1613331408"
+				"download" "650946176"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer_testing"
 			{
-				"gid" "C5FFBCA2B97B1A79C94A0876530F4F1F"
-				"size" "93FB8B6162349D34263F76C58F7CA867"
-				"download" "69492E49EA13DFB743997DD494878B76"
+				"gid" "445FDCC8EE929622511EE0DBC9D69E54"
+				"size" "630C9BD39BED171AB89C146456EEEF0D"
+				"download" "90FB0B7B634A5560EB6AB34E4F415AC0"
 			}
 		}
 	}
@@ -311,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "16807048"
-			"timeupdated" "1734652362"
+			"buildid" "16923804"
+			"timeupdated" "1736222198"
 		}
 		"rolling_line_1x"
 		{
@@ -334,15 +334,15 @@
 		}
 		"developer_testing"
 		{
-			"buildid" "16807048"
+			"buildid" "16923804"
 			"pwdrequired" "1"
-			"timeupdated" "1734648378"
+			"timeupdated" "1736220430"
 		}
 		"testing"
 		{
-			"buildid" "16807048"
+			"buildid" "16923804"
 			"description" "Update testing branch"
-			"timeupdated" "1734648622"
+			"timeupdated" "1736220437"
 		}
 	}
 }
@@ -354,6 +354,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26723929"
-"_sha" "d0fb4914fb5645c81b83e394daff63274ada2353"
+"_change_number" "26886430"
+"_sha" "be96689614b71c310aaaafcec920e0a1ea930abb"
 "_size" "6863"
