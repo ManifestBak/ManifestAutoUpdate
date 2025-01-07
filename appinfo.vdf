@@ -22,9 +22,18 @@
 		"german" "1"
 		"french" "1"
 		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"russian" "1"
 		"japanese" "1"
+		"portuguese" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"vietnamese" "1"
+		"latam" "1"
 	}
 	"content_descriptors"
 	{
@@ -361,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "3326104832538453146"
-				"size" "3034492611"
-				"download" "1112643968"
+				"gid" "4368249866479375521"
+				"size" "3044402086"
+				"download" "1121523008"
 			}
 		}
 	}
@@ -371,8 +380,8 @@
 	{
 		"public"
 		{
-			"buildid" "16928554"
-			"timeupdated" "1736256966"
+			"buildid" "16931068"
+			"timeupdated" "1736273173"
 		}
 	}
 	"privatebranches" "1"
@@ -383,6 +392,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "26892671"
-"_sha" "4fc35ab1bf4446601bebc8a89eaffe25d4989256"
-"_size" "6719"
+"_change_number" "26896474"
+"_sha" "0abaa8e94776ca5df82998d2effdaf186ec9c7ba"
+"_size" "6890"
