@@ -53,6 +53,21 @@
 	{
 		"library_capsule" "en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_7a60dfcb622eec971de5a4478b2964bddd6177d0.jpg"
 	"store_asset_mtime" "1569405368"
 	"associations"
 	{
@@ -82,6 +97,7 @@
 		"category_28" "1"
 		"category_29" "1"
 		"category_43" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -287,7 +303,6 @@
 	}
 	"922580"
 	{
-		"dlcappid" "922580"
 		"manifests"
 		{
 			"public"
@@ -326,6 +341,6 @@
 	"maxnumfiles" "200"
 }
 "_missing_token" "False"
-"_change_number" "19623638"
-"_sha" "045def043fa4b5832885c641a889743488674b28"
-"_size" "5426"
+"_change_number" "26201212"
+"_sha" "807aca440b9c85f334412bb17d9c03ef52244a24"
+"_size" "5688"
