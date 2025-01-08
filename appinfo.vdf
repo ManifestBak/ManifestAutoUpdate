@@ -46,6 +46,40 @@
 			"height_pct" "39.236111111111114"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "21.290322580645167"
+				"height_pct" "39.236111111111114"
+			}
+		}
+	}
 	"store_asset_mtime" "1705563540"
 	"associations"
 	{
@@ -57,7 +91,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "CottonGame"
+			"name" "Cotton Game"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Cotton Game"
 		}
 	}
 	"primary_genre" "23"
@@ -121,7 +160,7 @@
 "extended"
 {
 	"developer" "Cotton Game"
-	"publisher" "CottonGame"
+	"publisher" "Cotton Game"
 	"homepage" "http://www.cottongame.com/"
 }
 "config"
@@ -221,3 +260,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26861381"
+"_sha" "6260cb9050c96b872c82811f012ad743d0b8456e"
+"_size" "4464"
