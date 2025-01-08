@@ -26,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_1dde7fec742fbf4dbd884d88d3755918f7961313.jpg"
 	"store_asset_mtime" "1506609790"
 	"associations"
 	{
@@ -249,7 +250,6 @@
 	}
 	"533230"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -274,6 +274,7 @@
 				"download" "9FF6DA9733D2FD98077DE3C25E6C3421"
 			}
 		}
+		"dlcappid" "533230"
 	}
 	"branches"
 	{
@@ -301,3 +302,7 @@
 	"quota" "1024"
 	"maxnumfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "26428288"
+"_sha" "abd9a04a783dac1b37865ccebedf77364c0dee68"
+"_size" "5173"
