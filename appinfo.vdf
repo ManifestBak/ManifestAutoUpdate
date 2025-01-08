@@ -44,6 +44,7 @@
 		}
 	}
 	"metacritic_name" "Vanguard Princess"
+	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -132,6 +133,7 @@
 		"category_44" "1"
 		"category_1" "1"
 		"category_49" "1"
+		"category_55" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -170,8 +172,8 @@
 		"15" "7368"
 		"16" "3841"
 		"17" "3859"
-		"18" "1756"
-		"19" "4305"
+		"18" "4305"
+		"19" "4562"
 	}
 	"review_score" "6"
 	"review_percentage" "70"
@@ -559,3 +561,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25719018"
+"_sha" "3ab7a5af345b328f5d111e467fd9d070253779c8"
+"_size" "9671"
