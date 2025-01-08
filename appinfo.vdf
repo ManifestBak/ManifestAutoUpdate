@@ -96,6 +96,7 @@
 	"primary_genre" "0"
 	"category"
 	{
+		"category_62" "1"
 	}
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -183,7 +184,6 @@
 				"download" "0"
 			}
 		}
-		"dlcappid" "214652"
 	}
 	"214647"
 	{
@@ -202,7 +202,6 @@
 				"download" "0"
 			}
 		}
-		"dlcappid" "214647"
 	}
 	"214645"
 	{
@@ -221,7 +220,6 @@
 				"download" "0"
 			}
 		}
-		"dlcappid" "214645"
 	}
 	"42722"
 	{
@@ -488,6 +486,6 @@
 	"foo" "bla"
 }
 "_missing_token" "False"
-"_change_number" "20377315"
-"_sha" "122e614cd3eab66868854b811fd9ff7db6d572ca"
-"_size" "8428"
+"_change_number" "26375805"
+"_sha" "90403d32596bf1bc0709d2acd8d0c695614ca2eb"
+"_size" "8378"
