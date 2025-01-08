@@ -10,6 +10,10 @@
 	"icon" "a2e674638a0c6e7e388800bd3510e2e9227980c7"
 	"clienttga" "5e1064b862cc535113a17c73cacaedd699d4d8a2"
 	"clienticon" "12f2d8e05ff8c40f9cd8e1498cdc157759dffb44"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -62,6 +66,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_20adb5502caa1cce634353db54917424e763f69f.jpg"
 	"store_asset_mtime" "1476115667"
 	"associations"
 	{
@@ -307,3 +312,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26763882"
+"_sha" "5f4f2cf026a4bbd2b57ede4799fdefc00e70399c"
+"_size" "5736"
