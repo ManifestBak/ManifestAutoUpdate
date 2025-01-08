@@ -129,7 +129,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Lixeira Publishing Ltd."
+			"name" "Lixeira Publishing"
 		}
 		"2"
 		{
@@ -140,6 +140,11 @@
 		{
 			"type" "franchise"
 			"name" "Cupid Island"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Powerfully Pink!"
 		}
 	}
 	"primary_genre" "4"
@@ -222,12 +227,12 @@
 		"15" "5611"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"developer" "Supernova Games"
-	"publisher" "Lixeira Publishing Ltd."
+	"publisher" "Lixeira Publishing"
 	"homepage" "http://supernova.games/"
 }
 "config"
@@ -266,18 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "3540546816432209222"
-				"size" "267531106"
-				"download" "38624656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "DFA60DE7A872B699EA114DAA7B9CBEC7"
-				"size" "80457A451C8D724D8316FC69E4ECFE0B"
-				"download" "DF377D2C3FE7542CA5C76107CC0521A0"
+				"gid" "1425764516412540141"
+				"size" "258722826"
+				"download" "35789344"
 			}
 		}
 	}
@@ -291,18 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "3681778020754329983"
-				"size" "262077097"
-				"download" "37215776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "9BED715875059E9675541987CE2E85D3"
-				"size" "B6269966B0DD1677E456862A158ECA33"
-				"download" "6ADEF3D99920EBB072F548397C286575"
+				"gid" "981808491178493850"
+				"size" "262107937"
+				"download" "37230960"
 			}
 		}
 	}
@@ -310,16 +297,11 @@
 	{
 		"public"
 		{
-			"buildid" "14972712"
-			"timeupdated" "1720503804"
-		}
-		"beta"
-		{
-			"buildid" "14972712"
-			"pwdrequired" "1"
-			"timeupdated" "1720503408"
+			"buildid" "15827344"
+			"timeupdated" "1727294139"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,3 +321,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "8f0f93c41b28a796780a28954984876a04f109b9"
+"_size" "5396"
