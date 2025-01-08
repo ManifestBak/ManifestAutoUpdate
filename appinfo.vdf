@@ -20,6 +20,7 @@
 	}
 	"app_retired_publisher_request" "1"
 	"app_retired_was_free" "1"
+	"restricted_countries" "DE"
 	"metacritic_name" "Just Fishing"
 	"small_capsule"
 	{
@@ -29,6 +30,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_b0c902549e4c3e51085caf7b1ca30483b5779277.jpg"
 	"store_asset_mtime" "1513556064"
 	"associations"
 	{
@@ -260,3 +262,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "10595258ff4746e71f02dbdec0373d719829c8e0"
+"_size" "4493"
