@@ -52,6 +52,53 @@
 			"height_pct" "68.61790548563286"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "32.847141190198386"
+				"height_pct" "68.61790548563286"
+			}
+		}
+	}
 	"store_asset_mtime" "1705567276"
 	"associations"
 	{
@@ -63,6 +110,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Cotton Game"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Cotton Game"
 		}
 	}
@@ -326,10 +378,10 @@
 		}
 		"steam_china_only"
 		{
+			"sc_schinese" "仅中国"
 			"buildid" "2497522"
 			"pwdrequired" "1"
 			"timeupdated" "1664439749"
-			"sc_schinese" "仅中国"
 		}
 	}
 }
@@ -377,3 +429,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25946659"
+"_sha" "224a5b13acde990d5fe63aac96e01bb439b070fe"
+"_size" "8021"
