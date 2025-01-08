@@ -10,6 +10,7 @@
 	"icon" "b8d6a2bc557097acd2f3bdfe98a78710911b9279"
 	"clienttga" "bac247e137c9ba610b7287da097bf32026ae2007"
 	"clienticon" "6c68a647f052441ca91e7d77481021cf4d585797"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -184,11 +185,11 @@
 		"12" "4947"
 		"13" "7208"
 		"14" "3871"
-		"15" "3799"
-		"16" "6650"
-		"17" "1667"
-		"18" "10235"
-		"19" "11014"
+		"15" "6650"
+		"16" "3799"
+		"17" "11014"
+		"18" "1667"
+		"19" "10235"
 	}
 	"review_score" "6"
 	"review_percentage" "74"
@@ -197,7 +198,7 @@
 {
 	"developer" "Vagabond Dog"
 	"publisher" "Vagabond Dog"
-	"homepage" "http://alwayssometimesmonsters.com"
+	"homepage" "http://vagabonddog.com"
 }
 "config"
 {
@@ -677,3 +678,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26620784"
+"_sha" "77c7854539a5b88a6777a3d34eac8832b8af9657"
+"_size" "12669"
