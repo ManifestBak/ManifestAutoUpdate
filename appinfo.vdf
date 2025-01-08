@@ -305,54 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "8480175856938533866"
-				"size" "2562830878"
-				"download" "327893104"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "1EEAC2F7C1F8F0C8C3D5347A6E65E3BA"
-				"size" "580C65305CF308323DA580DD9F679A62"
-				"download" "6C5EF126C7F03FAA5C6A12DD7E9B7A5A"
-			}
-			"devmilestones"
-			{
-				"gid" "E49FFD6DCD2936E927AACC40351E4389"
-				"size" "FED69E8ABD1D8C6B0D94041D7FB53A98"
-				"download" "2C8347B22B6309984186FDDCBE2D0A7E"
-			}
-			"development"
-			{
-				"gid" "36BC6875CD36E8D488FDC97F8D064D17"
-				"size" "64D7EC5449187A0345A918052F3BDAE7"
-				"download" "1179025655D4268900F15B4D3FEC96A9"
-			}
-			"devmilestones_23_12"
-			{
-				"gid" "8AF86C7613C3A1103201E24A76EC7724"
-				"size" "927D4ACE41892589AF6903BC8C0668EC"
-				"download" "431580DBF275906988AABB1FD48637A7"
-			}
-			"devmilestones_24_05"
-			{
-				"gid" "819EE86776B81E0F2C7B0CB42361DAF7"
-				"size" "269421F57443DEFA3A8625EBB55F8857"
-				"download" "E3D6F58A640E93BE8978104994467DA5"
-			}
-			"jp-lqa"
-			{
-				"gid" "E0CAD1D7D3B0E12DDB6CE3D7B4AACA05"
-				"size" "E8F28F445DC1F0BD2C1121BAF4ACA388"
-				"download" "71B7BCFDD6CC6A577CEA6D563199E5BA"
-			}
-			"prelaunch"
-			{
-				"gid" "5630C16443485F4238EBCDAC8AEF3E88"
-				"size" "D54A752BCDDAB7271F2880CEE5B8FF25"
-				"download" "039539223843175471AED3566108958A"
+				"gid" "1089363996951720332"
+				"size" "2562957079"
+				"download" "329995120"
 			}
 		}
 	}
@@ -360,52 +315,11 @@
 	{
 		"public"
 		{
-			"buildid" "16553772"
-			"timeupdated" "1733317928"
-		}
-		"demo"
-		{
-			"buildid" "12904433"
-			"pwdrequired" "1"
-			"timeupdated" "1701998143"
-		}
-		"devmilestones"
-		{
-			"buildid" "12646713"
-			"pwdrequired" "1"
-			"timeupdated" "1699416284"
-		}
-		"development"
-		{
-			"buildid" "14766809"
-			"pwdrequired" "1"
-			"timeupdated" "1718793248"
-		}
-		"devmilestones_23_12"
-		{
-			"buildid" "14241028"
-			"pwdrequired" "1"
-			"timeupdated" "1714634630"
-		}
-		"devmilestones_24_05"
-		{
-			"buildid" "14300617"
-			"pwdrequired" "1"
-			"timeupdated" "1715156642"
-		}
-		"jp-lqa"
-		{
-			"buildid" "15542784"
-			"pwdrequired" "1"
-			"timeupdated" "1725011235"
-		}
-		"prelaunch"
-		{
-			"buildid" "16553772"
-			"pwdrequired" "1"
-			"timeupdated" "1732718615"
+			"buildid" "16928737"
+			"timeupdated" "1736313252"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -426,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26488746"
-"_sha" "4e457c2cb291cc3dc4fb09de5bf9a4a3982570ec"
-"_size" "8157"
+"_change_number" "26903002"
+"_sha" "74d8a55e2fc6b3dbc3ee1a683148cf03559d419d"
+"_size" "6145"
