@@ -35,6 +35,48 @@
 			"height_pct" "65.57303913070349"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "75.74049230286437"
+				"height_pct" "65.57303913070349"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1612871763"
 	"associations"
 	{
@@ -65,6 +107,7 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -95,9 +138,10 @@
 		"9" "4711"
 		"10" "493"
 		"11" "492"
+		"12" "3810"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -1965,20 +2009,7 @@
 	"quota" "52428800000"
 	"maxnumfiles" "1000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status" "Spreading %religionName%"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "19318425"
-"_sha" "fe9662b2547d7555d6866cfbd14e0f863ebe2e5d"
-"_size" "34660"
+"_change_number" "26236909"
+"_sha" "5ba307487e51c26c54cd0db322c859c5f0705f98"
+"_size" "35185"
