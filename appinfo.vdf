@@ -141,8 +141,8 @@
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "Shady Corner Games"
+			"type" "franchise"
+			"name" "Holes"
 		}
 	}
 	"primary_genre" "1"
@@ -234,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "2264804496403009478"
+				"gid" "1820246156664144821"
 				"size" "45025607"
-				"download" "18296544"
+				"download" "18297776"
 			}
 		}
 	}
@@ -245,8 +245,8 @@
 	{
 		"public"
 		{
-			"buildid" "16863159"
-			"timeupdated" "1735339724"
+			"buildid" "16925129"
+			"timeupdated" "1736233311"
 		}
 	}
 }
@@ -269,6 +269,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26800592"
-"_sha" "eb19eb0cabf8146a778aa5d20dd1bd46564c9e91"
-"_size" "4594"
+"_change_number" "26887987"
+"_sha" "5ad771e6aefae70827b036005b0a8c47beebad34"
+"_size" "4581"
