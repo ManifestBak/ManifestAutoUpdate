@@ -175,8 +175,8 @@
 		"7" "21"
 		"8" "3835"
 		"9" "599"
-		"10" "3810"
-		"11" "3859"
+		"10" "3859"
+		"11" "3810"
 		"12" "1685"
 		"13" "4182"
 		"14" "1676"
@@ -237,24 +237,24 @@
 		{
 			"public"
 			{
-				"gid" "5162126886257810962"
-				"size" "293646637"
-				"download" "163035152"
+				"gid" "8862121843935247779"
+				"size" "293649968"
+				"download" "163036384"
 			}
 			"publicbeta"
 			{
-				"gid" "5162126886257810962"
-				"size" "293646637"
-				"download" "163035152"
+				"gid" "8862121843935247779"
+				"size" "293649968"
+				"download" "163036384"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"privatebeta"
 			{
-				"gid" "343CC7C923D90394E11EE391188E5099"
-				"size" "A761506B9CCDADB0FA8ED2EB511F783D"
-				"download" "01655D84350A51217300A58D31A2C39C"
+				"gid" "2B1D77883E8CE4C292447E150A7C0BC6"
+				"size" "47F9D4E50C87DA63EC6B7BC6A159E35B"
+				"download" "EF449B99B5ECF2F508D3E9D67E121ECA"
 			}
 		}
 	}
@@ -263,20 +263,20 @@
 	{
 		"public"
 		{
-			"buildid" "16084836"
-			"timeupdated" "1729188844"
+			"buildid" "16902249"
+			"timeupdated" "1735937722"
 		}
 		"privatebeta"
 		{
-			"buildid" "16084836"
+			"buildid" "16902249"
 			"pwdrequired" "1"
-			"timeupdated" "1729187652"
+			"timeupdated" "1735937215"
 		}
 		"publicbeta"
 		{
-			"buildid" "16084836"
+			"buildid" "16902249"
 			"description" "Public beta"
-			"timeupdated" "1729187675"
+			"timeupdated" "1735937229"
 		}
 	}
 }
@@ -300,6 +300,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25772465"
-"_sha" "88065dd024fd6558b2763d805ea7d8da7c1d826c"
+"_change_number" "26855910"
+"_sha" "cb007efcf967acef19acc73ec8b077053ac302c3"
 "_size" "4871"
