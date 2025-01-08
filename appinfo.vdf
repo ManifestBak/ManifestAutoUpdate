@@ -201,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "6215934288340276182"
-				"size" "8191853499"
-				"download" "2130341904"
+				"gid" "2699441334005512827"
+				"size" "8188722564"
+				"download" "2130161088"
 			}
 			"ver1.0.15"
 			{
@@ -326,52 +326,13 @@
 				"download" "1916613776"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"advanced"
-			{
-				"gid" "36FD9C2811DE5023591CC3E923EE78D4"
-				"size" "22D914A2F422FDF6CCAD6CE99AD0F899"
-				"download" "7361F406512A1123EFC82313BF6875B7"
-			}
-			"drivesim"
-			{
-				"gid" "CDF8ADE7183E9BC5B4F310EB295ABD71"
-				"size" "154E7D2CF159C48299F4576CFA53000A"
-				"download" "511940DE5E214A555518A922DCA86C20"
-			}
-			"daily"
-			{
-				"gid" "2660AD69C9FC56720B4C310CEB50CA4F"
-				"size" "D01D898C33026D3EC54B91200C399D8A"
-				"download" "11BDF2F28176FCD77ED331C7442925FC"
-			}
-			"test"
-			{
-				"gid" "2598705A10FCD7724032BD0D7E1A150C"
-				"size" "F3C00637587EC2320FF1304AEF5E1E7C"
-				"download" "B44AEFE1D9135B8D374EF285421C6A6A"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16840007"
-			"timeupdated" "1735094760"
-		}
-		"advanced"
-		{
-			"buildid" "13440460"
-			"pwdrequired" "1"
-			"timeupdated" "1707806046"
-		}
-		"drivesim"
-		{
-			"buildid" "10338374"
-			"pwdrequired" "1"
-			"timeupdated" "1673948101"
+			"buildid" "16937350"
+			"timeupdated" "1736325259"
 		}
 		"ver1.0.15"
 		{
@@ -451,18 +412,6 @@
 			"description" "ver1.8.1 rollback"
 			"timeupdated" "1713871415"
 		}
-		"daily"
-		{
-			"buildid" "16840007"
-			"pwdrequired" "1"
-			"timeupdated" "1735011904"
-		}
-		"test"
-		{
-			"buildid" "16840007"
-			"pwdrequired" "1"
-			"timeupdated" "1735011378"
-		}
 		"ver1.10.0"
 		{
 			"buildid" "14778738"
@@ -506,6 +455,7 @@
 			"timeupdated" "1718797715"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -515,6 +465,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26777822"
-"_sha" "5df9f4b27d8044a562f78a3d60d148200dfccd8a"
-"_size" "9865"
+"_change_number" "26904793"
+"_sha" "936af55aaf308b5dc415c3b5f7cb5fb63bf5cbba"
+"_size" "8754"
