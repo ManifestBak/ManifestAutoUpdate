@@ -247,7 +247,7 @@
 	"developer" "Hangar 13"
 	"publisher" "2K Games"
 	"homepage" "https://topspin.2k.com"
-	"listofdlc" "2820460,2820470,2820480,2820490,2820500,2820510,2820520,2820550,2820560,2820570"
+	"listofdlc" "2820460,2820470,2820480,2820490,2820500,2820510,2820520,2820530,2820550,2820560,2820570"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -406,144 +406,9 @@
 		{
 			"public"
 			{
-				"gid" "4883732157215174920"
-				"size" "31306147447"
-				"download" "27465133072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"agerating"
-			{
-				"gid" "EA3AB16FB59B481CECC7F33349DF85E5"
-				"size" "52953222BDDF1717C1F2E0E7B0C5248A"
-				"download" "1699C9F70D9FDDD524D6B6211F35584B"
-			}
-			"beautiful_corner"
-			{
-				"gid" "02477AC33C6517CD4BCDF44FA25E277F"
-				"size" "6D83617BCD9BB2677DCB614F22A9BBC8"
-				"download" "4FEC2E95855004BF661C3423503E5985"
-			}
-			"ccbranch"
-			{
-				"gid" "A8974C2A90D9A03147AE262108A715FB"
-				"size" "75495C7A13CE4E7841F83C2A1C2FA7DE"
-				"download" "3FA5348C95F2CEC1AF811091AB7FB709"
-			}
-			"drmtest"
-			{
-				"gid" "919684223C01E6E69BF609CD395BDD10"
-				"size" "4121F07CFC8B0F1F11E63D06C3257B6E"
-				"download" "45B601D6D661DF4147FE231764638E10"
-			}
-			"fcbranch"
-			{
-				"gid" "1CBA46FD557665C5A383A55A1D8FA991"
-				"size" "5F056397199646D91D4A51F87DD06550"
-				"download" "526075C55812C139A050DC0380C7CA76"
-			}
-			"fpmbranch"
-			{
-				"gid" "C07CB83CB5BFC8666B4836192A1C0BE3"
-				"size" "11AAEE0F55EA70C35EADF4213D75A1B8"
-				"download" "9AD1E14D519DCAF1190CA3166745210F"
-			}
-			"seasonzerolive"
-			{
-				"gid" "3AD912EE862FC1467B1B7B4D0A15D3B7"
-				"size" "B2EDAEB476D5CCF85020F0C230F2EF65"
-				"download" "91B8CFBA5C0A67DCDF1F1DB2542F4735"
-			}
-			"seasonzeroqa"
-			{
-				"gid" "5E645AD368CA850448178012E785169C"
-				"size" "59A4ACC8DA2AB3CC622C066A1455FD56"
-				"download" "44C791A34CED67B367ADB3E8153DC294"
-			}
-			"security_profiling_release"
-			{
-				"gid" "7ACE6425A816243672B47C703C4FCD68"
-				"size" "9EF6B786AFB51AB1781DAB669927D8C4"
-				"download" "2427AA7459112699C51A39E6586E94D0"
-			}
-			"vsbranch"
-			{
-				"gid" "AFE4DC0BDE29EC8B5E88AE885F3F5AB1"
-				"size" "95144503494CDDC6F25C7386893CB05A"
-				"download" "B985D2F96FB52DBD610FF839925F9463"
-			}
-			"weekly"
-			{
-				"gid" "08ED34BECD7139E213EDAC41219AE0E5"
-				"size" "F1009E40525B955D50786FD2CED173D2"
-				"download" "476C11567FE7C2B45EE9EB6C120663EF"
-			}
-			"beta"
-			{
-				"gid" "BB15C286EB05B92C66173779D37EB3C8"
-				"size" "70D97BB4699CB82E4DA1C9E0F417F9B0"
-				"download" "7F03ABD38F140AD9B7376078A64D5DD6"
-			}
-			"daily"
-			{
-				"gid" "0A0B57A3BA58C8D13C392A96594115A7"
-				"size" "114AF6DA98FD2431D7D044929FE989B9"
-				"download" "737AD75B985BCF862395AF8E1EC24117"
-			}
-			"masterqa"
-			{
-				"gid" "23F5527F4243074DE4D7A081A1258ACC"
-				"size" "53EC69F802E77B6F3D9F942DD189B640"
-				"download" "7E99EDA8C618E0D5E938B6709B0C121A"
-			}
-			"pre-release"
-			{
-				"gid" "750DAF6233CAA31EC6AE91F4B5CA4B2D"
-				"size" "024DCDDB79CB40AF5D6EF09D2C138CA2"
-				"download" "F029454A8375AFEA5AE9953007CB3409"
-			}
-			"qatest"
-			{
-				"gid" "7FC53E2AAA67B08589B1A0FBEFE9F0D7"
-				"size" "2AF50AE3F846E3558983D5D64025EE9A"
-				"download" "6336FF25D4BE6B1EA228391B79A4D8E5"
-			}
-			"security"
-			{
-				"gid" "5FDB15322E67F1B0231B100E87D7A7FD"
-				"size" "69393437D5AFABB6BEA33ECE8C090DE1"
-				"download" "69393437D5AFABB6BEA33ECE8C090DE1"
-			}
-			"socialmasterqa"
-			{
-				"gid" "AEEC831AC615ACF88C2C4B2871B9E8D4"
-				"size" "E365EEFDD7DF0DE397D513A10E73322D"
-				"download" "56C34C9A5837F9CD430C750950B7B695"
-			}
-			"socialqa"
-			{
-				"gid" "6FDDFA3E2E1F0D7BD1D26FD017B53968"
-				"size" "856141727F427FC78400CFF95AFAD2CA"
-				"download" "AF844A24871F4E84A9206C54AEFC4975"
-			}
-			"stagingqa"
-			{
-				"gid" "0A4C16A841FED1283D3E22D0FDEE041C"
-				"size" "53781B6BF3D7C57BB4CC1DF23B6737A8"
-				"download" "E91CBDC31462A7DF9230E835F317AEC1"
-			}
-			"usertest"
-			{
-				"gid" "75247AB153DAC8EA9847D588492F2A5D"
-				"size" "5985A5E873A109D1AEF98ACD0CA2F979"
-				"download" "1A27C2B5855321C0BF1836D54BC9DDF7"
-			}
-			"userteststaging"
-			{
-				"gid" "43281D8CC45D0B4BA72F332B7DF06C19"
-				"size" "D9CA9CEECEA97CD5E5C92322A7B928C7"
-				"download" "BFDF3DA01B354F31614526F0456AF430"
+				"gid" "7412128119910790490"
+				"size" "31317808184"
+				"download" "27479150112"
 			}
 		}
 	}
@@ -551,144 +416,13 @@
 	{
 		"public"
 		{
-			"buildid" "16473903"
-			"timeupdated" "1733742231"
-		}
-		"agerating"
-		{
-			"buildid" "12878856"
-			"pwdrequired" "1"
-			"timeupdated" "1701874469"
-		}
-		"beautiful_corner"
-		{
-			"buildid" "9837979"
-			"pwdrequired" "1"
-			"timeupdated" "1667232006"
-		}
-		"ccbranch"
-		{
-			"buildid" "13001960"
-			"pwdrequired" "1"
-			"timeupdated" "1703011101"
-		}
-		"drmtest"
-		{
-			"buildid" "8924071"
-			"pwdrequired" "1"
-			"timeupdated" "1655107633"
-		}
-		"fcbranch"
-		{
-			"buildid" "10902737"
-			"pwdrequired" "1"
-			"timeupdated" "1680274225"
-		}
-		"fpmbranch"
-		{
-			"buildid" "7794047"
-			"pwdrequired" "1"
-			"timeupdated" "1638187160"
-		}
-		"seasonzerolive"
-		{
-			"buildid" "12121730"
-			"pwdrequired" "1"
-			"timeupdated" "1694008117"
-		}
-		"seasonzeroqa"
-		{
-			"buildid" "14015806"
-			"pwdrequired" "1"
-			"timeupdated" "1712822473"
-		}
-		"security_profiling_release"
-		{
-			"buildid" "12214093"
-			"pwdrequired" "1"
-			"timeupdated" "1695027396"
-		}
-		"vsbranch"
-		{
-			"buildid" "8812408"
-			"pwdrequired" "1"
-			"timeupdated" "1653569882"
-		}
-		"weekly"
-		{
-			"buildid" "13735411"
-			"pwdrequired" "1"
-			"timeupdated" "1710418982"
-		}
-		"beta"
-		{
-			"buildid" "15381448"
-			"pwdrequired" "1"
-			"timeupdated" "1723723990"
-		}
-		"daily"
-		{
-			"buildid" "16676280"
-			"pwdrequired" "1"
-			"timeupdated" "1733717323"
-		}
-		"masterqa"
-		{
-			"buildid" "16473903"
-			"pwdrequired" "1"
-			"timeupdated" "1732114500"
-		}
-		"pre-release"
-		{
-			"buildid" "16473903"
-			"pwdrequired" "1"
-			"timeupdated" "1732803944"
-		}
-		"qatest"
-		{
-			"buildid" "16676280"
-			"pwdrequired" "1"
-			"timeupdated" "1733741410"
-		}
-		"security"
-		{
-			"buildid" "16635884"
-			"pwdrequired" "1"
-			"timeupdated" "1733353608"
-		}
-		"socialmasterqa"
-		{
-			"buildid" "15381448"
-			"pwdrequired" "1"
-			"timeupdated" "1723723929"
-		}
-		"socialqa"
-		{
-			"buildid" "15373732"
-			"pwdrequired" "1"
-			"timeupdated" "1723669323"
-		}
-		"stagingqa"
-		{
-			"buildid" "16472993"
-			"pwdrequired" "1"
-			"timeupdated" "1732109910"
-		}
-		"usertest"
-		{
-			"buildid" "15822395"
-			"pwdrequired" "1"
-			"timeupdated" "1727268649"
-		}
-		"userteststaging"
-		{
-			"buildid" "14256244"
-			"pwdrequired" "1"
-			"timeupdated" "1714744555"
+			"buildid" "16900256"
+			"timeupdated" "1736329585"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26555981"
-"_sha" "963d4080802021c41114998170e78ecfb35fc093"
-"_size" "14263"
+"_change_number" "26905825"
+"_sha" "9ecebe7e1c75c56ac60d19ce40c295fbfceb3718"
+"_size" "8042"
