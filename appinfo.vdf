@@ -10,6 +10,7 @@
 	"icon" "49eb15073b2d941947c98bcb7974e212c658c4e1"
 	"clienticon" "777ab9fe292d846319fa08272ff01dae9a7e975f"
 	"clienttga" "ca2352662e53404b82935915d8149909da69279d"
+	"restricted_countries" "DE"
 	"metacritic_name" "Eon Altar"
 	"small_capsule"
 	{
@@ -19,6 +20,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_ce7d9c1a00734fb5e9a01495e8f32005171f00a3.jpg"
 	"store_asset_mtime" "1484850417"
 	"associations"
 	{
@@ -278,7 +280,6 @@
 	}
 	"549751"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 		}
@@ -291,6 +292,7 @@
 				"download" "CB549190A19B54E493E08CE383405708"
 			}
 		}
+		"dlcappid" "549751"
 	}
 	"477890"
 	{
@@ -442,3 +444,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "f139de214caef6ecebfe5c0c460e5d794983698f"
+"_size" "9026"
