@@ -241,8 +241,8 @@
 		"3" "122"
 		"4" "4004"
 		"5" "4166"
-		"6" "4231"
-		"7" "29482"
+		"6" "29482"
+		"7" "4231"
 		"8" "4182"
 		"9" "1628"
 		"10" "492"
@@ -291,36 +291,15 @@
 		{
 			"public"
 			{
-				"gid" "2619592091928311067"
-				"size" "1549158638"
-				"download" "750047104"
+				"gid" "7112832242183320801"
+				"size" "1549288310"
+				"download" "750101776"
 			}
 			"beta"
 			{
-				"gid" "2619592091928311067"
-				"size" "1549158638"
-				"download" "750047104"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secret-beta"
-			{
-				"gid" "14ACAA722F3AE572AEE8BF47CCCF7D85"
-				"size" "3842FC0E4811A26B38DDD0589893449A"
-				"download" "FAAA6C645C3BC95BFDD65334400605C3"
-			}
-			"demo_mode"
-			{
-				"gid" "A7C45F33C905CCACCCD1DA4D4C6B4420"
-				"size" "656F83A07F2BD9A7F21E5AF5FE3BED79"
-				"download" "F32B7A5A6ED3C089E937B78D572312FA"
-			}
-			"localization"
-			{
-				"gid" "68A116BA3F90CF95C5DAA6EC6DF0CE52"
-				"size" "E0643DBB70AC1509DE2CC92DB2B83019"
-				"download" "BACD69DE13316516B5926E5E7D5ABB95"
+				"gid" "7112832242183320801"
+				"size" "1549288310"
+				"download" "750101776"
 			}
 		}
 	}
@@ -328,34 +307,17 @@
 	{
 		"public"
 		{
-			"buildid" "16844202"
-			"timeupdated" "1735058448"
-		}
-		"secret-beta"
-		{
-			"buildid" "13303294"
-			"pwdrequired" "1"
-			"timeupdated" "1706543350"
+			"buildid" "16932033"
+			"timeupdated" "1736281070"
 		}
 		"beta"
 		{
-			"buildid" "16844202"
+			"buildid" "16932033"
 			"description" "open-beta"
-			"timeupdated" "1735058410"
-		}
-		"demo_mode"
-		{
-			"buildid" "15605329"
-			"pwdrequired" "1"
-			"timeupdated" "1725551240"
-		}
-		"localization"
-		{
-			"buildid" "16844202"
-			"pwdrequired" "1"
-			"timeupdated" "1735058418"
+			"timeupdated" "1736280770"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -379,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26774744"
-"_sha" "4cc05ecb0f88e51897f8440b54314d3dc577d18d"
-"_size" "6828"
+"_change_number" "26897910"
+"_sha" "6f45a0da98b6dcc4ddfbd4573a55bb5151d8c6c9"
+"_size" "5966"
