@@ -14,6 +14,7 @@
 	"icon" "266252d6977c2607d9aa4b712937e97d1eb3afec"
 	"clienttga" "4971f394010532950bb1c56b424c6b6d8d26684d"
 	"clienticon" "41ca6eafe05e2f8b65afd52dc8af793bdf1770cf"
+	"restricted_countries" "DE"
 	"market_presence" "1"
 	"metacritic_name" "- Arcane Raise -"
 	"controller_support" "partial"
@@ -25,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_70e07b8a5a0cfdbe5185b32677c6bcd3f6e238d7.jpg"
 	"store_asset_mtime" "1489547185"
 	"associations"
 	{
@@ -56,6 +58,7 @@
 		"category_23" "1"
 		"category_18" "1"
 		"category_13" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -83,7 +86,7 @@
 		"8" "1742"
 	}
 	"review_score" "5"
-	"review_percentage" "49"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -466,6 +469,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21679477"
-"_sha" "4dce51c11ac464ff50bedf9f5905c44ae0370c61"
-"_size" "6619"
+"_change_number" "26542083"
+"_sha" "bb3c2812f572081d7be26f6dd5c53beaa60734d9"
+"_size" "6744"
