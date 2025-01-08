@@ -8,9 +8,9 @@
 	"clienticon" "ab7d5f0f4021e8075e2e079790ff4a602ed98996"
 	"clienttga" "c6aa09201153c4ce1e497935656cc44811256f9b"
 	"icon" "bbcab9ab907b9c7993a9c0a3f32c722b7e02edb4"
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"releasestate" "released"
 	"content_descriptors"
 	{
@@ -187,6 +187,20 @@
 			}
 			"description" "Launch"
 		}
+		"2"
+		{
+			"executable" "TheMermaidofZennor.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
 	}
 }
 "depots"
@@ -197,9 +211,9 @@
 		{
 			"public"
 			{
-				"gid" "1763151704532755218"
-				"size" "568482250"
-				"download" "436659936"
+				"gid" "7382092341751364627"
+				"size" "568490489"
+				"download" "436669952"
 			}
 		}
 	}
@@ -207,8 +221,12 @@
 	{
 		"public"
 		{
-			"buildid" "10751596"
-			"timeupdated" "1678651450"
+			"buildid" "16188405"
+			"timeupdated" "1729910379"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25906610"
+"_sha" "f680658611e02f6c20b971551480e514c00c19df"
+"_size" "3623"
