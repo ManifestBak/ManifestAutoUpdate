@@ -13,6 +13,7 @@
 	"clienticns" "cc516805f61c87cb87d7f691c226dce2ba918e1a"
 	"linuxclienticon" "192eb9e0672a127c5eb4b800d9341927cad413be"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -66,6 +67,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8a28974efd381bb8beab26aa15a32b184b12c44e.jpg"
 	"store_asset_mtime" "1562866187"
 	"associations"
 	{
@@ -412,3 +414,7 @@
 	"quota" "250000000"
 	"maxnumfiles" "250"
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "3008d3578a2653b2a641667ec6604ef007268600"
+"_size" "7973"
