@@ -252,7 +252,7 @@
 		"17" "5348"
 	}
 	"review_score" "7"
-	"review_percentage" "84"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -296,36 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "2168617221458203787"
-				"size" "3046648185"
-				"download" "2611634560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop-lvnian"
-			{
-				"gid" "E9ABEA6E6E577B43772CA3699B62FD57"
-				"size" "5D71C8E2BD22D897F0A2424AB6AD34C4"
-				"download" "87518CA1ED2B94072E364DA54E84B0A9"
-			}
-			"developtest"
-			{
-				"gid" "92E4513B3F0AED0A50780C5296F57242"
-				"size" "AC4EBF1AE5C094C3F88DEF944E289C98"
-				"download" "737BA8065A4CEA40E9833751A36A09E2"
-			}
-			"influencers-pr"
-			{
-				"gid" "6E34E41358DCF3E551F9FEB5540CF7B0"
-				"size" "0B51BCD4DB8B853A0B84CED90E6B92B2"
-				"download" "8BCA8818DF27D36C12A6D9C6010ABD7E"
-			}
-			"trailerproduction"
-			{
-				"gid" "7A9F15EF771D9D3E092CB4FC0A533C2C"
-				"size" "000C9CE3F5ED1F10100CE057AD62ED15"
-				"download" "ABF1FF0A6B92B3E7BCE29688A0D0FDEE"
+				"gid" "32576005465432703"
+				"size" "3081403182"
+				"download" "2646537520"
 			}
 		}
 	}
@@ -333,34 +306,11 @@
 	{
 		"public"
 		{
-			"buildid" "16563020"
-			"timeupdated" "1733389261"
-		}
-		"develop-lvnian"
-		{
-			"buildid" "10086053"
-			"pwdrequired" "1"
-			"timeupdated" "1670308654"
-		}
-		"developtest"
-		{
-			"buildid" "16563020"
-			"pwdrequired" "1"
-			"timeupdated" "1732781095"
-		}
-		"influencers-pr"
-		{
-			"buildid" "16235958"
-			"pwdrequired" "1"
-			"timeupdated" "1730288823"
-		}
-		"trailerproduction"
-		{
-			"buildid" "15912730"
-			"pwdrequired" "1"
-			"timeupdated" "1727941652"
+			"buildid" "16936724"
+			"timeupdated" "1736323023"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -377,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26517741"
-"_sha" "127d94b1ad9ae3001df520bf8d3545b90d59f10d"
-"_size" "6959"
+"_change_number" "26904391"
+"_sha" "c745e7f43cbd5fb374533ba7d42bd013b0cdd6e1"
+"_size" "5784"
