@@ -15,6 +15,7 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
 		"french" "1"
 		"spanish" "1"
 		"schinese" "1"
@@ -214,6 +215,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1669968964"
 	"community_visible_stats" "1"
@@ -243,7 +249,7 @@
 		"19" "1710"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -275,24 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "7141053784925925240"
-				"size" "2215759211"
-				"download" "856094352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"japanese"
-			{
-				"gid" "616FDFADE68EF804D80E73EA4522A520"
-				"size" "2232D781396BDBDB19F7D4B1EC3186FA"
-				"download" "8BF9D64ABC0759D5C9E6C92F93E3CDFB"
-			}
-			"translations"
-			{
-				"gid" "65DC059F9FBAD93128FA3D47F6B7CC15"
-				"size" "346F0A36F4238E1A2C1C77125B334218"
-				"download" "C30B859513E2C767E2080C1488A2E2E4"
+				"gid" "6461841210424179195"
+				"size" "2222343763"
+				"download" "862427792"
 			}
 		}
 	}
@@ -319,25 +310,18 @@
 	{
 		"public"
 		{
-			"buildid" "14792294"
-			"timeupdated" "1718961831"
-		}
-		"japanese"
-		{
-			"buildid" "12707705"
-			"pwdrequired" "1"
-			"timeupdated" "1700038539"
-		}
-		"translations"
-		{
-			"buildid" "12579661"
-			"pwdrequired" "1"
-			"timeupdated" "1698738177"
+			"buildid" "16897796"
+			"timeupdated" "1735892100"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "100000000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "26849095"
+"_sha" "efe899b31b24c13eb8907592a89e70668a2c305c"
+"_size" "5404"
