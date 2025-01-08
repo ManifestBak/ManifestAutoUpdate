@@ -22,8 +22,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -73,6 +71,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.651108518086346"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1568743561"
 	"associations"
 	{
@@ -101,6 +141,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -173,11 +214,11 @@
 		"11" "3814"
 		"12" "1774"
 		"13" "4026"
-		"14" "3859"
-		"15" "699"
-		"16" "7782"
-		"17" "3987"
-		"18" "5984"
+		"14" "7782"
+		"15" "3859"
+		"16" "699"
+		"17" "5984"
+		"18" "3987"
 		"19" "7481"
 	}
 	"review_score" "8"
@@ -187,7 +228,7 @@
 {
 	"developer" "Illusion Softworks"
 	"gamedir" "Mafia"
-	"homepage" "http://www.2kgames.com/"
+	"homepage" "https://mafia.2k.com/"
 	"icon" ""
 	"launcheula" "http://store.steampowered.com/eula/eula_2KGeneral"
 	"noservers" "1"
@@ -624,6 +665,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21617252"
-"_sha" "4b5b5bfdf4054d35918bf33b0d1c7a51d40be7ed"
-"_size" "10738"
+"_change_number" "26777213"
+"_sha" "10061e1d03fa6ded0590f4eaf8301fa785d25e77"
+"_size" "11306"
