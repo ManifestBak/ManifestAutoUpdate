@@ -28,6 +28,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -35,7 +36,52 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1612456704"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "40.995698013953586"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1706285555"
 	"associations"
 	{
 		"0"
@@ -74,6 +120,7 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -142,7 +189,7 @@
 		"14" "597"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -229,6 +276,18 @@
 				"size" "DE1B2EE53669B476923A48BE13194E90"
 				"download" "D0046581F185239699851BF29B07696E"
 			}
+			"beta"
+			{
+				"gid" "B6C89376BDBA55374287AE0038171711"
+				"size" "9A18364FE6CAFBD5994454BC89559FBE"
+				"download" "79BE60923EC510A98E3D22D028556B60"
+			}
+			"tuesday-trilogy-edition"
+			{
+				"gid" "9F532A5354B6CBA7C05493755A8491CA"
+				"size" "A5A8E7B13E2DDD419A5B8488634E3871"
+				"download" "80C448C7447A9E662DB132685228B27A"
+			}
 		}
 	}
 	"504132"
@@ -259,6 +318,18 @@
 				"gid" "5C06532F00E9D55B39F1328D45B2B97F"
 				"size" "4BCE82DDB4FE1467CCCCEEFB6CC00AFB"
 				"download" "D27A105463AF9FBF619F818C7C3103D1"
+			}
+			"beta"
+			{
+				"gid" "9CBF275DFB29BD591125CB6710652064"
+				"size" "96AF495C5E7F7DB47DA1F74A1F551369"
+				"download" "42C97D808B11F39F913042B9888F2A6E"
+			}
+			"tuesday-trilogy-edition"
+			{
+				"gid" "D4AC6AAC66495E0FB912BF47C5028255"
+				"size" "DDAC34706532D85767C99AC659E25B5F"
+				"download" "6C952FC7D5D49F9068A214C3EBDAB998"
 			}
 		}
 	}
@@ -291,11 +362,22 @@
 				"size" "73A2003C0E84F0EFF595D9F09BA57590"
 				"download" "2E69CFF8A40BB3CFEA54A61976D3D425"
 			}
+			"beta"
+			{
+				"gid" "3889C1735BD6CC76A8B877A0CB591B8A"
+				"size" "4C85566AD1F23A600866DD3DB261D33C"
+				"download" "C3D4DD7153D439118D2832C96A619889"
+			}
+			"tuesday-trilogy-edition"
+			{
+				"gid" "14EFAFEC0F8906FB681D8D30A0E546AA"
+				"size" "7ED7C68945F8A29A410A66822146D5CE"
+				"download" "B4FA099E98D74D8DADA2F3A1196CD405"
+			}
 		}
 	}
 	"536760"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -311,6 +393,22 @@
 				"download" "63741968"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "9F69D777D46DF5C1F0590A60ECAFBE67"
+				"size" "8A34879B99138A7AE9697D03A2463CEA"
+				"download" "F93A75922A2DC22177953FE3EC97D117"
+			}
+			"tuesday-trilogy-edition"
+			{
+				"gid" "E8747FEDA5F5FA2F3DEE78916166D3C8"
+				"size" "199755E230B96F9853E36C05EED831B1"
+				"download" "DA4B1BA58317F140BF55BDDC04B88496"
+			}
+		}
+		"dlcappid" "536760"
 	}
 	"branches"
 	{
@@ -330,6 +428,18 @@
 			"buildid" "5820331"
 			"pwdrequired" "1"
 			"timeupdated" "1605181166"
+		}
+		"beta"
+		{
+			"buildid" "16928452"
+			"pwdrequired" "1"
+			"timeupdated" "1736256185"
+		}
+		"tuesday-trilogy-edition"
+		{
+			"buildid" "16737953"
+			"pwdrequired" "1"
+			"timeupdated" "1734107864"
 		}
 	}
 }
@@ -435,6 +545,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21747816"
-"_sha" "4906243dbff81654e21b10350a3a069795fc6ebd"
-"_size" "7524"
+"_change_number" "26892524"
+"_sha" "11d59432c82e1bda105c2e98edce6774b1bab2de"
+"_size" "9908"
