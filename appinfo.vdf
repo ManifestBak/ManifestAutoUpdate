@@ -88,6 +88,48 @@
 			"height_pct" "93.92097292631792"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "54.67679311074272"
+				"height_pct" "93.92097292631792"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1689623947"
 	"associations"
 	{
@@ -188,6 +230,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"1164691"
 	{
 		"config"
@@ -200,9 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "7266012987694921056"
-				"size" "3352385722"
-				"download" "1503986160"
+				"gid" "8060822537387569007"
+				"size" "3352401330"
+				"download" "1503996752"
 			}
 		}
 	}
@@ -211,8 +262,8 @@
 	{
 		"public"
 		{
-			"buildid" "14648878"
-			"timeupdated" "1717837670"
+			"buildid" "16458846"
+			"timeupdated" "1733061875"
 		}
 	}
 }
@@ -235,6 +286,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23884714"
-"_sha" "d6572aacea79ab1eeeac77e5bcdc2f3810391017"
-"_size" "4334"
+"_change_number" "26760523"
+"_sha" "6f4f0d1c13db2c81d8c43ada5c7e3ad21c03db9a"
+"_size" "5076"
