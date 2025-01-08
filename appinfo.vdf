@@ -8,21 +8,21 @@
 	"osextended" ""
 	"name_localized"
 	{
-		"english" "F*ckable Kim"
-		"russian" "Е**чий Ким"
-		"ukrainian" "Ї**чий Кім"
-		"schinese" "性交的金"
+		"english" "Fxxkable Kim"
+		"russian" "Еxxчий Ким"
+		"ukrainian" "Їxxчий Кім"
+		"schinese" "嗜放※茎到※股的金"
 		"vietnamese" "Kim Gi*o H*p"
-		"tchinese" "性交的金"
-		"german" "F*ckbar Kim"
-		"french" "Kim P*noc*mettable"
-		"italian" "Kim Sc*pabile"
-		"koreana" "엿김"
-		"spanish" "Kim F*llable"
-		"thai" "เป็นร่*มเพศคิม"
-		"japanese" "肛門性交の金"
+		"tchinese" "嗜放※莖到※股的金"
+		"german" "Fxxkbar Kim"
+		"french" "Kim le Pxnocxmettable"
+		"italian" "Kim il Scxxabile"
+		"koreana" "엉※이에 밀어넣는 음※ 김"
+		"spanish" "Kim el Fxxlable"
+		"thai" "ค⁂ยยัดตู⁂คิม"
+		"japanese" "陰※をお※に押し込めるの金"
 		"portuguese" "Kim F*dível"
-		"polish" "J*bany Kim"
+		"polish" "Jexxchy Kim"
 		"danish" "Kn*ppelig Kim"
 		"dutch" "N**kbaar Kim"
 		"finnish" "V*ttumainen Kim"
@@ -31,12 +31,12 @@
 		"hungarian" "K*b*szott Kim"
 		"czech" "Zaj*baný Kim"
 		"romanian" "Kim F*tere"
-		"turkish" "T*rs Il*şki Kim"
-		"arabic" "كم ال*نس ال*رجي"
-		"brazilian" "Kim F*dível"
+		"turkish" "Çxk-Içine-Gxt-Koyulabilir Kim"
+		"arabic" "ق⁂يب-في-م⁂رة-القابلة-للدفع كيم"
+		"brazilian" "Kim, o Fxxível"
 		"bulgarian" "Ш*бано Ким"
 		"greek" "Γ*μ*μένο Κιμ"
-		"latam" "Kim F*llable"
+		"latam" "Kim el Fxxlable"
 	}
 	"clienticon" "b275f938fccaf8057cc8af9f8e0b053c6387f624"
 	"clienttga" "05ca7f9feb28961b05ddea5c1f63511443b16210"
@@ -132,21 +132,21 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725484847"
+	"store_asset_mtime" "1732808387"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Devilfish"
+			"name" "Beelzebub Games"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Devilfish"
+			"name" "Beelzebub Games"
 		}
 	}
-	"primary_genre" "3"
+	"primary_genre" "25"
 	"genres"
 	{
 		"0" "1"
@@ -192,32 +192,32 @@
 		"0" "21"
 		"1" "19"
 		"2" "122"
-		"3" "4736"
-		"4" "4106"
-		"5" "4231"
-		"6" "4474"
-		"7" "3798"
-		"8" "3871"
-		"9" "4195"
-		"10" "1697"
-		"11" "6915"
-		"12" "12190"
-		"13" "1719"
-		"14" "5923"
-		"15" "1651"
-		"16" "4136"
-		"17" "1742"
-		"18" "3993"
-		"19" "4182"
+		"3" "4106"
+		"4" "4231"
+		"5" "4736"
+		"6" "1742"
+		"7" "4474"
+		"8" "19995"
+		"9" "5923"
+		"10" "1719"
+		"11" "1651"
+		"12" "4136"
+		"13" "3993"
+		"14" "12190"
+		"15" "4182"
+		"16" "1697"
+		"17" "3798"
+		"18" "3871"
+		"19" "7481"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
 	"deckresolutionoverride" "Native"
-	"developer" "Devilfish"
-	"publisher" "Devilfish"
+	"developer" "Beelzebub Games"
+	"publisher" "Beelzebub Games"
 }
 "config"
 {
@@ -268,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "1902393718996361625"
-				"size" "348435412"
-				"download" "175244960"
+				"gid" "2648134740196120729"
+				"size" "348455876"
+				"download" "175252256"
 			}
 		}
 	}
@@ -278,12 +278,12 @@
 	{
 		"public"
 		{
-			"buildid" "15823930"
-			"timeupdated" "1727275714"
+			"buildid" "16567621"
+			"timeupdated" "1732804969"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25388866"
-"_sha" "7cc4ec6753b38b74073d4c2adfcb6898c3363101"
-"_size" "5454"
+"_change_number" "26568235"
+"_sha" "dd29800ceea8299cec7875bc39996f234cf53893"
+"_size" "5619"
