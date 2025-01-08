@@ -29,6 +29,11 @@
 	"icon" "4183d791378e064d24251dc00261dcf048f54ad9"
 	"clienticon" "d2266258d88c133a5dec58747074661c9d89a1d9"
 	"clienttga" "a24e35e063acfbbbdc26a0e576d33f0177d60b37"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -574,3 +579,7 @@
 	"quota" "200000000"
 	"maxnumfiles" "500"
 }
+"_missing_token" "False"
+"_change_number" "25588402"
+"_sha" "10bd14f72be198bd36af82e215e9c38eb8c174ca"
+"_size" "10033"
