@@ -231,7 +231,7 @@
 		"19" "5379"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -275,30 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "5510596735108959436"
-				"size" "1217410864"
-				"download" "948393664"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gamescom"
-			{
-				"gid" "1657EC148C7CFA3E156CAAA284E47AC2"
-				"size" "43375BEFF345BAB5080F646BAE41C620"
-				"download" "13B1D56F3EFA238F65EED6DD5D4E435D"
-			}
-			"iarc"
-			{
-				"gid" "3ADD3340758288D4BDEBE756254AFA1E"
-				"size" "DBBB7C5857DF76F3FE5707CD7E231EFB"
-				"download" "BC1E2D614B70E8D90E4B3FCB4E165EB9"
-			}
-			"localization"
-			{
-				"gid" "B3DD71D9E325C2A05C6AED8D8045704D"
-				"size" "F5E445012098860FEE14044466CF4056"
-				"download" "83173570F476E5FFBC5A0AF8E6E5F749"
+				"gid" "7678222346451560603"
+				"size" "2792297309"
+				"download" "995887424"
 			}
 		}
 	}
@@ -312,24 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "4663571305648102404"
-				"size" "1222713291"
-				"download" "953677200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gamescom"
-			{
-				"gid" "E0B9A458CDF5C872A7A92EF829A9BC90"
-				"size" "8C9CD20690D6210641DD63D7619B12DD"
-				"download" "BE87DC1A9371E3773C39627916B822C9"
-			}
-			"localization"
-			{
-				"gid" "6DAFEF9A55C868EB397E7FFE7E5E161A"
-				"size" "2499E51157BE57C5EF67176B5DEB6ABD"
-				"download" "DA2C37A2E9DBF4E72E1B046EC84A6AAE"
+				"gid" "6413682301308020247"
+				"size" "2367209237"
+				"download" "910028496"
 			}
 		}
 	}
@@ -337,28 +301,11 @@
 	{
 		"public"
 		{
-			"buildid" "13300503"
-			"timeupdated" "1706525278"
-		}
-		"gamescom"
-		{
-			"buildid" "9364726"
-			"pwdrequired" "1"
-			"timeupdated" "1661203184"
-		}
-		"iarc"
-		{
-			"buildid" "8754224"
-			"pwdrequired" "1"
-			"timeupdated" "1652784061"
-		}
-		"localization"
-		{
-			"buildid" "13300503"
-			"pwdrequired" "1"
-			"timeupdated" "1706524875"
+			"buildid" "15850079"
+			"timeupdated" "1727439023"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -375,3 +322,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "263ec88da4afa16dc6eb0ac42c2f036158cc393c"
+"_size" "5488"
