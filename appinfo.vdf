@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724015862"
+	"store_asset_mtime" "1736126744"
 	"associations"
 	{
 		"0"
@@ -178,6 +178,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_60" "1"
+		"category_43" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -223,7 +224,7 @@
 	"gamedir" ""
 	"developer" "Vitamin Games"
 	"publisher" "Top Hat Studios, Inc."
-	"homepage" "http://projectarrhythmia.com"
+	"homepage" "https://vitamin.games"
 }
 "config"
 {
@@ -314,9 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "6085614706648019723"
-				"size" "848183923"
-				"download" "465595344"
+				"gid" "716056415878896918"
+				"size" "848588886"
+				"download" "465709584"
 			}
 			"alpha"
 			{
@@ -360,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "16873568"
-			"timeupdated" "1735613745"
+			"buildid" "16879050"
+			"timeupdated" "1736299952"
 		}
 		"alpha"
 		{
@@ -449,6 +450,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26822558"
-"_sha" "e37e482090391547a1805e9205e7de9a19a0a029"
-"_size" "8061"
+"_change_number" "26900959"
+"_sha" "3dd2d648f63b7d41bb1b7a2706b03762623b82c2"
+"_size" "8075"
