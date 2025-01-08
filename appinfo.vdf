@@ -291,15 +291,6 @@
 				"download" "48531440"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EEF08FD1469FEE4E8070773C037C1384"
-				"size" "AA57DC4BD612BC82AA89DDFAAEAF0DCE"
-				"download" "3F26C484D653E0A03CD249A19BC88D75"
-			}
-		}
 	}
 	"1624325"
 	{
@@ -314,15 +305,6 @@
 				"gid" "3535983670992662441"
 				"size" "42290539"
 				"download" "33645152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "ADB161496C5A1C3EDF5E575FE3ACCCBC"
-				"size" "820334BF08072D2FC9FD8A8EA3B4A404"
-				"download" "5A45EEE9D368F4BF14E696F61AB29AA1"
 			}
 		}
 	}
@@ -341,15 +323,6 @@
 				"download" "9208112"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "7BADC6B056047E895B231EECDE4394B6"
-				"size" "6C55B75BE377C0373470C6F5B597D852"
-				"download" "C4D89777C1E4CC33442AA2A26F26AB26"
-			}
-		}
 	}
 	"1624323"
 	{
@@ -361,18 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "6815487571632979108"
-				"size" "9613448"
-				"download" "3328704"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "BE2E73E1C7ED89717A9D8010AB28EC37"
-				"size" "3EC36F1B878F9E7AE7481082F73AA64B"
-				"download" "A2D77BE5B98F277136AE1025B85FAE66"
+				"gid" "4248841575538993430"
+				"size" "9614360"
+				"download" "3328960"
 			}
 		}
 	}
@@ -391,30 +355,16 @@
 				"download" "86919712"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6BC34161D31B110FC988965C3401AEAC"
-				"size" "2F0BE41C5689585D31CC79A56AA5169F"
-				"download" "2717DDD2AF7180D7827755DB8B88BCB7"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16239219"
-			"timeupdated" "1730303813"
-		}
-		"beta"
-		{
-			"buildid" "16239219"
-			"pwdrequired" "1"
-			"timeupdated" "1730303362"
+			"buildid" "16678748"
+			"timeupdated" "1733739282"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -479,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25973607"
-"_sha" "9b8c50855ba255956d85614ab9b32d86943c7450"
-"_size" "8346"
+"_change_number" "26845279"
+"_sha" "5a9f79e3a3bc90a5be45cfebefb4b20bfaf1e6df"
+"_size" "7250"
