@@ -29415,9 +29415,9 @@
 			}
 			"dlcfixes"
 			{
-				"gid" "2976DF615331D2EE19F0D988C77AF8CC"
-				"size" "ECC9242E581D1B5C0846D8882DB675D1"
-				"download" "9D10788FFA64A63D27972993CF0724F4"
+				"gid" "852540AE4C4B0FFF5B2DE41C0BFB3B29"
+				"size" "A64EC7BEFDD90BF68B8E1B0F956D999B"
+				"download" "10725E15A61976437623266BF6EE93DD"
 			}
 		}
 	}
@@ -32078,9 +32078,9 @@
 		{
 			"dlcfixes"
 			{
-				"gid" "BE9146636B4DE4A5BDA938D812299096"
-				"size" "0A71092F8D54195E7EAAB27501328139"
-				"download" "2EA461D8946B30D69B36070DA7934658"
+				"gid" "7C8DF10D1ABF5BF4AAF0CAEEB29DF929"
+				"size" "8312964C3FE7DBDA8C0A129682457830"
+				"download" "83033E8EF75178C6D670F94A5D345C48"
 			}
 		}
 	}
@@ -32134,9 +32134,9 @@
 		{
 			"dlcfixes"
 			{
-				"gid" "2C387626548FE18BBB9BA96B78B8BEB6"
-				"size" "4A77E4CE9829B699254009527E3BDB06"
-				"download" "638C8585A2A8458D551146FBD5613328"
+				"gid" "1004327A3C2672F828B891047A308CC5"
+				"size" "2FCE69B4A64A3BEAEFA380ACC217068A"
+				"download" "41F9B1F0EC2EF77DBE0F1D9E35A521B9"
 			}
 		}
 	}
@@ -32759,10 +32759,58 @@
 	"2956120"
 	{
 		"dlcappid" "2956120"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3401701336837692935"
+				"size" "12293425"
+				"download" "8052784"
+			}
+			"public_beta"
+			{
+				"gid" "3401701336837692935"
+				"size" "12293425"
+				"download" "8052784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlcfixes"
+			{
+				"gid" "541012816428B3141899AF8EC156029B"
+				"size" "2B02BA312313EA04414B63DEFE867C61"
+				"download" "F65729D8A673DB55403C121B70A7E339"
+			}
+		}
 	}
 	"2956140"
 	{
 		"dlcappid" "2956140"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1399510142104539036"
+				"size" "324242946"
+				"download" "156539264"
+			}
+			"public_beta"
+			{
+				"gid" "1399510142104539036"
+				"size" "324242946"
+				"download" "156539264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlcfixes"
+			{
+				"gid" "5E6D4D95F50506417542550AD1FC98A5"
+				"size" "4E5A91A3A0C7A86D9EEF94CDCF0A7318"
+				"download" "6F762D277D83A9C57F4ABC358B309C7C"
+			}
+		}
 	}
 	"2956160"
 	{
@@ -32893,8 +32941,8 @@
 	{
 		"public"
 		{
-			"buildid" "16789198"
-			"timeupdated" "1734538276"
+			"buildid" "16941599"
+			"timeupdated" "1736353431"
 		}
 		"ts2019beta"
 		{
@@ -32904,15 +32952,15 @@
 		}
 		"dlcfixes"
 		{
-			"buildid" "16789185"
+			"buildid" "16941589"
 			"pwdrequired" "1"
-			"timeupdated" "1734538185"
+			"timeupdated" "1736353342"
 		}
 		"public_beta"
 		{
-			"buildid" "16789192"
+			"buildid" "16939421"
 			"description" "Public Beta branch"
-			"timeupdated" "1734538218"
+			"timeupdated" "1736338232"
 		}
 	}
 }
@@ -32922,6 +32970,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "26698328"
-"_sha" "7e31f0620759eebf566a52e8c054ef88e2e26a4f"
-"_size" "589683"
+"_change_number" "26910554"
+"_sha" "a1e9983108bb6d193cf6fd45b45d560d381cb0e8"
+"_size" "590605"
