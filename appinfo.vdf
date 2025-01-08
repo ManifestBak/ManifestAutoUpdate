@@ -143,9 +143,10 @@
 		"11" "3968"
 		"12" "3859"
 		"13" "4182"
+		"14" "15045"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -217,30 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "6189557942686985616"
-				"size" "15269480709"
-				"download" "12613655120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha_testing"
-			{
-				"gid" "CD1279611F8A3E64AF899545A4ADE72F"
-				"size" "F3E2006AF008CFC3368B095DCB948939"
-				"download" "1CD762231159D95D60653D8ECEE1A58C"
-			}
-			"neon_city"
-			{
-				"gid" "FA230E2DA69165008B337BFB28F1F764"
-				"size" "1AF55B3DE9D2EB304522E2A0BE2B6F04"
-				"download" "B6E4A2DE711CE463A2661168843A0354"
-			}
-			"video_capture"
-			{
-				"gid" "0B3E75AC735D974E76CCC09F32F7EA25"
-				"size" "89F22A1A545AD7FE6B0293CBF66292F7"
-				"download" "10A2590E8430D7168730326130F272E8"
+				"gid" "6046205968271239398"
+				"size" "15323202723"
+				"download" "12661168224"
 			}
 		}
 	}
@@ -254,30 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "7956564410981863271"
-				"size" "14911669111"
-				"download" "12394808688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha_testing"
-			{
-				"gid" "3610C927C42CB99FEFDD6C35D56925C5"
-				"size" "33D6114EB73DE85CD982B673C464767E"
-				"download" "816CFA8CDA4301A215E0C44E235BA2B2"
-			}
-			"neon_city"
-			{
-				"gid" "F1AB6DF6A72D73E0524A7A2E50127BC0"
-				"size" "15AACFF5E6F2235AF61EA4F913B725E7"
-				"download" "B328BE7043BC3E25D38A4D31514C485E"
-			}
-			"video_capture"
-			{
-				"gid" "5585F33D82D13EE6337604A315AF3CFB"
-				"size" "FB6D81A470C8A1E9631CB1B9BA361055"
-				"download" "C8574BE9F25A5E433FF5B58D988F350D"
+				"gid" "7249542262145975608"
+				"size" "14965391650"
+				"download" "12442321632"
 			}
 		}
 	}
@@ -292,30 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "432061631817854966"
-				"size" "15226144028"
-				"download" "12586190352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha_testing"
-			{
-				"gid" "3962D173E8B9942D76EBAF1847026532"
-				"size" "DA6F18B20F4EDC0F87D4351408C05597"
-				"download" "53E467A860EF1077911937A9A6749E26"
-			}
-			"neon_city"
-			{
-				"gid" "15D626A38B86C38C89C6923DC95AF6DC"
-				"size" "50C31C08F66FE510B588CD206EF693DF"
-				"download" "115928ABD0F44BFECF034DD5D20EBCFB"
-			}
-			"video_capture"
-			{
-				"gid" "3E39F731EE807BF2A1932E97448D973B"
-				"size" "0DD36F07F015D97B0B14C2735EFC67EF"
-				"download" "5103D45921763E723E72D18EA7AD61BB"
+				"gid" "4411920604553388485"
+				"size" "15279865847"
+				"download" "12633704528"
 			}
 		}
 	}
@@ -323,28 +261,11 @@
 	{
 		"public"
 		{
-			"buildid" "16474001"
-			"timeupdated" "1732116299"
-		}
-		"alpha_testing"
-		{
-			"buildid" "16489435"
-			"pwdrequired" "1"
-			"timeupdated" "1732208241"
-		}
-		"neon_city"
-		{
-			"buildid" "16235780"
-			"pwdrequired" "1"
-			"timeupdated" "1730290547"
-		}
-		"video_capture"
-		{
-			"buildid" "16463477"
-			"pwdrequired" "1"
-			"timeupdated" "1732095761"
+			"buildid" "16926447"
+			"timeupdated" "1736243961"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -352,6 +273,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26302224"
-"_sha" "48b09ea0bd2a331d996b37ab2d5dd3b479ad0ce1"
-"_size" "6576"
+"_change_number" "26900250"
+"_sha" "a86906078054a4b5bed388261548a7c87baa41e9"
+"_size" "4592"
