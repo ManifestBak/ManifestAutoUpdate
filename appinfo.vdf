@@ -33,6 +33,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1571860661"
 	"associations"
 	{
@@ -190,7 +228,6 @@
 	}
 	"514600"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -200,6 +237,7 @@
 				"download" "189004960"
 			}
 		}
+		"dlcappid" "514600"
 	}
 	"branches"
 	{
@@ -210,3 +248,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26788420"
+"_sha" "867359e308d821922d6d860da450ebc359093cd4"
+"_size" "3888"
