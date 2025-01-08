@@ -1,22 +1,15 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-08 02:56:30
+## 更新时间：2025-01-08 09:07:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1315980 | 罐舱逃生指南 Tin Can| Game |
-| 1448000 | 迷离诡夜 blurred weird night| Game |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
-| 1676840 | 为了吾王II / For The King II| Game |
-| 1700270 | 终极幸运之塔 (Lucky Tower Ultimate)| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 212680 | FTL: Faster Than Light| Game |
-| 215 | Source SDK Base 2006| Tool |
-| 222750 | Wargame: AirLand Battle| Game |
-| 22490 | Fallout: New Vegas PCR| game |
-| 218 | Source SDK Base 2007| Tool |
-| 240 | Counter-Strike: Source| game |
-| 2527500 | 米塔 MiSide| Game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 785740 | This Is the Police 2| Game |
+| 730 | Counter-Strike 2| Game |
+| 469600 | 军团战争2 / Legion TD 2| Game |
+| 768520 | Red Solstice 2: Survivors - 红至日2：幸存者| Game |
+| 784150 | 工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic| Game |
+| 1059980 | 吾王保卫战 Just King| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 2591990 | Nightwatch: Nightmare Creatures| Game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 2616460 | 《地下城守护者™ 2》| Game |
+| 2616450 | 《上帝也疯狂 2：诸神的审判》| Game |
