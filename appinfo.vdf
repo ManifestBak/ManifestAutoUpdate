@@ -19,6 +19,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_176b0a40d35ab22bbfb6eb976529131f1f3ddeb7.jpg"
 	"store_asset_mtime" "1667159599"
 	"associations"
 	{
@@ -91,7 +92,7 @@
 		"17" "1662"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -114,6 +115,16 @@
 			{
 				"oslist" "windows"
 			}
+		}
+		"1"
+		{
+			"executable" "Cube Land Arena/Cube Land Arena.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Cube Land Arena [No Launcher]"
+			}
+			"description" "Cube Land Arena [No Launcher]"
 		}
 	}
 }
@@ -148,15 +159,15 @@
 		{
 			"public"
 			{
-				"gid" "6016477611941047153"
-				"size" "146845176"
-				"download" "45406432"
+				"gid" "5984533682442336143"
+				"size" "146851848"
+				"download" "45408768"
 			}
 			"beta"
 			{
-				"gid" "6016477611941047153"
-				"size" "146845176"
-				"download" "45406432"
+				"gid" "5984533682442336143"
+				"size" "146851848"
+				"download" "45408768"
 			}
 		}
 	}
@@ -164,13 +175,13 @@
 	{
 		"public"
 		{
-			"buildid" "14237091"
-			"timeupdated" "1714601684"
+			"buildid" "14993773"
+			"timeupdated" "1720648046"
 		}
 		"beta"
 		{
-			"buildid" "14237091"
-			"timeupdated" "1714601094"
+			"buildid" "14993773"
+			"timeupdated" "1720647132"
 		}
 	}
 }
@@ -190,6 +201,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23379754"
-"_sha" "0d198ef2850131f898135b737ccd184ac9714fff"
-"_size" "3098"
+"_change_number" "26808412"
+"_sha" "4107c0b902a0ca2cb926802c291bdb7242e605c4"
+"_size" "3398"
