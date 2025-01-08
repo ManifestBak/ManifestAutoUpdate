@@ -16,6 +16,7 @@
 	{
 		"0" "5"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Heart and Seoul"
 	"small_capsule"
 	{
@@ -25,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_af553770651939c1ab92bf30d2b4fe525eae2cc1.jpg"
 	"store_asset_mtime" "1477126779"
 	"associations"
 	{
@@ -87,7 +89,7 @@
 		"11" "1756"
 	}
 	"review_score" "5"
-	"review_percentage" "44"
+	"review_percentage" "45"
 }
 "extended"
 {
@@ -334,3 +336,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26601440"
+"_sha" "cb1de045e26f9f73a80431e80566cf36df818370"
+"_size" "5468"
