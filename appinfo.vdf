@@ -191,6 +191,10 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_43" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_35" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -381,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "9204178198858465090"
-				"size" "2953814001"
-				"download" "1362406320"
+				"gid" "5532295223679521385"
+				"size" "2953873441"
+				"download" "1362375440"
 			}
 			"herosiege1"
 			{
@@ -412,8 +416,8 @@
 	{
 		"public"
 		{
-			"buildid" "16928873"
-			"timeupdated" "1736259217"
+			"buildid" "16939542"
+			"timeupdated" "1736339011"
 		}
 		"closedbeta"
 		{
@@ -441,6 +445,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26893185"
-"_sha" "bac6694da1a51dac55dd843853a544f1dfd3e9bc"
-"_size" "8566"
+"_change_number" "26907630"
+"_sha" "abb83ea08c0a1b8a7b2529f52386fa871062fd17"
+"_size" "8654"
