@@ -11,6 +11,7 @@
 	"clienticon" "dc8d19c3a8818eef2588ec5f4401cbe268707db4"
 	"clienttga" "508e1f5923d871875f582a9562d4ebbd3fcbd297"
 	"icon" "4ff8fa42e78d5f2761c794279917605205c93d7c"
+	"restricted_countries" "DE"
 	"metacritic_name" "Firewood"
 	"small_capsule"
 	{
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_1796f1940a678a14085f424b24d9e360b61e80e2.jpg"
 	"store_asset_mtime" "1497389028"
 	"associations"
 	{
@@ -80,7 +82,7 @@
 		"9" "1756"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -153,3 +155,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "d19d014156b725c7b53ede8ff2b24db8d5f67c26"
+"_size" "2587"
