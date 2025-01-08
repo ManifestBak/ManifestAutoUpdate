@@ -46,6 +46,44 @@
 			"height_pct" "33.68055555555553"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "45.05803984456918"
+				"height_pct" "33.68055555555553"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1652275853"
 	"associations"
 	{
@@ -109,7 +147,7 @@
 		"16" "1698"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -196,3 +234,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26726957"
+"_sha" "7a0f7dba136f51b7c825c74e34fd730a12ee9f4e"
+"_size" "3750"
