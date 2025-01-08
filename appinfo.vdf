@@ -37,6 +37,40 @@
 			"height_pct" "86.32153882688198"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "67.20930232558138"
+				"height_pct" "86.32153882688198"
+			}
+		}
+	}
 	"store_asset_mtime" "1605584139"
 	"associations"
 	{
@@ -110,7 +144,7 @@
 		"19" "1684"
 	}
 	"review_score" "5"
-	"review_percentage" "55"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -180,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "4775660344393580907"
-				"size" "830091240"
-				"download" "574493872"
+				"gid" "2401823909869022669"
+				"size" "832041405"
+				"download" "576311040"
 			}
 		}
 	}
@@ -197,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "5087790997921864050"
-				"size" "853736068"
-				"download" "581369648"
+				"gid" "3488087285190686712"
+				"size" "855751745"
+				"download" "583182624"
 			}
 		}
 	}
@@ -214,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "2698454485223298412"
-				"size" "827571410"
-				"download" "574501072"
+				"gid" "3659397247498401042"
+				"size" "829486731"
+				"download" "576266992"
 			}
 		}
 	}
@@ -250,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "152069097798896392"
-				"size" "869621"
-				"download" "670432"
+				"gid" "2867294842590702387"
+				"size" "2012178"
+				"download" "796048"
 			}
 		}
 	}
@@ -268,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "4604943157900262287"
-				"size" "869621"
-				"download" "670432"
+				"gid" "6303638211206397319"
+				"size" "2012178"
+				"download" "796048"
 			}
 		}
 	}
@@ -286,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "3333872588585945633"
-				"size" "869621"
-				"download" "670432"
+				"gid" "4031203070965893488"
+				"size" "2012178"
+				"download" "796048"
 			}
 		}
 	}
@@ -385,7 +419,7 @@
 		{
 			"public"
 			{
-				"gid" "4555501259725334125"
+				"gid" "5077979315703819735"
 				"size" "3961"
 				"download" "3600"
 			}
@@ -403,7 +437,7 @@
 		{
 			"public"
 			{
-				"gid" "1948952956567016737"
+				"gid" "6057373509289679741"
 				"size" "3961"
 				"download" "3600"
 			}
@@ -691,9 +725,9 @@
 		{
 			"public"
 			{
-				"gid" "7203135333308308775"
-				"size" "1032705"
-				"download" "341408"
+				"gid" "7280255809086396204"
+				"size" "1032900"
+				"download" "341664"
 			}
 		}
 	}
@@ -709,9 +743,9 @@
 		{
 			"public"
 			{
-				"gid" "3661495117614355448"
-				"size" "1032705"
-				"download" "341408"
+				"gid" "3789835448333163780"
+				"size" "1032900"
+				"download" "341664"
 			}
 		}
 	}
@@ -727,9 +761,9 @@
 		{
 			"public"
 			{
-				"gid" "343127952665945460"
-				"size" "1032705"
-				"download" "341408"
+				"gid" "8722816705323860552"
+				"size" "1032900"
+				"download" "341664"
 			}
 		}
 	}
@@ -737,9 +771,13 @@
 	{
 		"public"
 		{
-			"buildid" "12207697"
-			"timeupdated" "1694899037"
+			"buildid" "16793840"
+			"timeupdated" "1734566957"
 		}
 	}
 	"appmanagesdlc" "1"
 }
+"_missing_token" "False"
+"_change_number" "26802816"
+"_sha" "f970ca85c79262b0060aaa00399bbe56f70099c2"
+"_size" "11206"
