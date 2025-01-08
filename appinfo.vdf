@@ -180,9 +180,9 @@
 		{
 			"public"
 			{
-				"gid" "3326260617593589294"
-				"size" "57076224"
-				"download" "57751344"
+				"gid" "3567598000979561264"
+				"size" "57224704"
+				"download" "57897312"
 			}
 			"linux_branch"
 			{
@@ -195,6 +195,12 @@
 				"gid" "6046910346677449412"
 				"size" "57084928"
 				"download" "57760256"
+			}
+			"beta"
+			{
+				"gid" "3567598000979561264"
+				"size" "57224704"
+				"download" "57897312"
 			}
 		}
 	}
@@ -219,6 +225,12 @@
 				"download" "57256288"
 			}
 			"mac_branch2"
+			{
+				"gid" "4159415030903352117"
+				"size" "72435371"
+				"download" "57256288"
+			}
+			"beta"
 			{
 				"gid" "4159415030903352117"
 				"size" "72435371"
@@ -252,14 +264,20 @@
 				"size" "66842509"
 				"download" "55361600"
 			}
+			"beta"
+			{
+				"gid" "8828519561143092756"
+				"size" "66842509"
+				"download" "55361600"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "1724498"
-			"timeupdated" "1490862188"
+			"buildid" "16869261"
+			"timeupdated" "1735460445"
 		}
 		"linux_branch"
 		{
@@ -270,6 +288,11 @@
 		{
 			"buildid" "1716302"
 			"timeupdated" "1490573552"
+		}
+		"beta"
+		{
+			"buildid" "16869261"
+			"timeupdated" "1735458872"
 		}
 	}
 }
@@ -290,6 +313,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26253459"
-"_sha" "3f385bfd1ca83f694953be1e38a9a19cba4c3caa"
-"_size" "4614"
+"_change_number" "26809097"
+"_sha" "e06165ce460ca1940506d0320477ef8b274c5a94"
+"_size" "5020"
