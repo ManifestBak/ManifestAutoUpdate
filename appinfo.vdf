@@ -383,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "298748365534807613"
-				"size" "2127510575"
-				"download" "1193959872"
+				"gid" "8320877517995307396"
+				"size" "2127519791"
+				"download" "1193963168"
 			}
 		}
 		"encryptedmanifests"
@@ -422,9 +422,9 @@
 			}
 			"development"
 			{
-				"gid" "8FBBCFF7A2C09557C0B881BD7F76951B"
-				"size" "11E9F9DA7223068C67EDFE2F83892ED9"
-				"download" "D03BCDACA55A23DC0CD70EEBEA0BD8A5"
+				"gid" "3E8246221D95B490CCC7EA55A6EE1633"
+				"size" "14A80B56156A7BEABA2360959FE13887"
+				"download" "D3108259A8D416966269B8F88E0DCBD7"
 			}
 			"testing"
 			{
@@ -801,8 +801,8 @@
 	{
 		"public"
 		{
-			"buildid" "16726705"
-			"timeupdated" "1734036894"
+			"buildid" "16922306"
+			"timeupdated" "1736278897"
 		}
 		"beta"
 		{
@@ -835,9 +835,9 @@
 		}
 		"development"
 		{
-			"buildid" "16726705"
+			"buildid" "16922306"
 			"pwdrequired" "1"
-			"timeupdated" "1734036145"
+			"timeupdated" "1736207022"
 		}
 		"testing"
 		{
@@ -856,7 +856,7 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "E_Line Media/Never Alone/{64BitSteamID}"
+			"path" "E-Line Media/Never Alone/{64BitSteamID}"
 			"pattern" "scprofile.dat"
 		}
 	}
@@ -881,6 +881,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26618735"
-"_sha" "0eebf569df54b9ded7d12c26274f3b113b6f3f06"
-"_size" "17996"
+"_change_number" "26897527"
+"_sha" "c1fc3431effa236b4cb3bbaecf86083f23e2ff81"
+"_size" "17997"
