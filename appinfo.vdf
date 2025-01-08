@@ -149,6 +149,88 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"danish" "library_600x900_danish_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"portuguese" "library_600x900_portuguese_2x.jpg"
+				"vietnamese" "library_600x900_vietnamese_2x.jpg"
+				"turkish" "library_600x900_turkish_2x.jpg"
+			}
+			"image"
+			{
+				"brazilian" "library_600x900_brazilian.jpg"
+				"danish" "library_600x900_danish.jpg"
+				"english" "library_600x900.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"portuguese" "library_600x900_portuguese.jpg"
+				"vietnamese" "library_600x900_vietnamese.jpg"
+				"turkish" "library_600x900_turkish.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"brazilian" "logo_brazilian.png"
+				"danish" "logo_danish.png"
+				"english" "logo.png"
+				"french" "logo_french.png"
+				"german" "logo_german.png"
+				"italian" "logo_italian.png"
+				"russian" "logo_russian.png"
+				"schinese" "logo_schinese.png"
+				"spanish" "logo_spanish.png"
+				"tchinese" "logo_tchinese.png"
+				"japanese" "logo_japanese.png"
+				"koreana" "logo_koreana.png"
+				"latam" "logo_latam.png"
+				"polish" "logo_polish.png"
+				"portuguese" "logo_portuguese.png"
+				"vietnamese" "logo_vietnamese.png"
+				"turkish" "logo_turkish.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1708029626"
 	"associations"
 	{
@@ -163,7 +245,7 @@
 			"name" "TrampolineTales"
 		}
 	}
-	"primary_genre" "23"
+	"primary_genre" "2"
 	"genres"
 	{
 		"0" "23"
@@ -284,19 +366,19 @@
 		"4" "5125"
 		"5" "599"
 		"6" "3964"
-		"7" "16250"
-		"8" "1716"
-		"9" "4845"
-		"10" "8945"
-		"11" "1084988"
-		"12" "597"
-		"13" "12472"
-		"14" "4182"
-		"15" "492"
-		"16" "3871"
-		"17" "4004"
-		"18" "11333"
-		"19" "493"
+		"7" "1716"
+		"8" "4845"
+		"9" "8945"
+		"10" "1084988"
+		"11" "597"
+		"12" "12472"
+		"13" "4182"
+		"14" "492"
+		"15" "3871"
+		"16" "4004"
+		"17" "11333"
+		"18" "493"
+		"19" "11123"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -353,42 +435,9 @@
 		{
 			"public"
 			{
-				"gid" "8254504678043503804"
-				"size" "161012303"
-				"download" "85532432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"jp-beta"
-			{
-				"gid" "543E9CDDBB68936E1DA97FAF3BBC22B8"
-				"size" "AC31E3B810D5292E0081AB2B917853D4"
-				"download" "A928C04D21A8703AAB8B6EDD5D8E4B5F"
-			}
-			"screen-reader-beta"
-			{
-				"gid" "014BE1B8B49B3D12EBDAEF506779E1E1"
-				"size" "4E3F4732955A1FC6E33E63E0065978FA"
-				"download" "6DF7097DDE322580723B3B3806568792"
-			}
-			"zh-beta"
-			{
-				"gid" "405B27E8B639B1862AEBF263A23A4DF4"
-				"size" "0BF7AB86BBC98B30F34DB1A17E4ED251"
-				"download" "F639177F038C1EEA2B42C00FDD58A6E4"
-			}
-			"ar-beta"
-			{
-				"gid" "C33CD2A5EE5457712E11E7385B1610FB"
-				"size" "8F6F6C2D75DD0E53664CD00506E4455E"
-				"download" "A7E428FE3990B2095E4A1B890E52DE65"
-			}
-			"workshop-beta-2"
-			{
-				"gid" "59CE093C3E07AC8D8D419356913A4ADC"
-				"size" "1154DACC7C248FB30A66CAFEAF804504"
-				"download" "5E27BB6128AE2B425BAA84F070DA2263"
+				"gid" "4508801238880900098"
+				"size" "161012063"
+				"download" "85531776"
 			}
 		}
 	}
@@ -403,42 +452,9 @@
 		{
 			"public"
 			{
-				"gid" "5227471730180936993"
-				"size" "270428939"
-				"download" "97909888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"jp-beta"
-			{
-				"gid" "04A3A266792425F557C05D9EC813B1AA"
-				"size" "319B2F4433B3C0E36B69C306A579E054"
-				"download" "1EF36B9AA9150A7F7A4E25B01CD82911"
-			}
-			"screen-reader-beta"
-			{
-				"gid" "2EBD27BFF07E16D618B64F968A803C62"
-				"size" "689E1321508D07B3CE5F9D0A4DB4EB1D"
-				"download" "2C56BA9FBF4D6BD5D628C11D5B0365F4"
-			}
-			"zh-beta"
-			{
-				"gid" "5C1544A54D0473A2839296462C009AC8"
-				"size" "7981DB6425CF1112B84F53A18503EA71"
-				"download" "4F8F1CD1DA1468E06A5E4E915F632CA2"
-			}
-			"ar-beta"
-			{
-				"gid" "EBAEC947FB22250BCF864EE3ACFD5012"
-				"size" "DE360195F7D9F24050329402D7F5B941"
-				"download" "0CC136D2D0FB494AC040BA44289C255A"
-			}
-			"workshop-beta-2"
-			{
-				"gid" "E36E16BA0B9D38F4D3525242DF002371"
-				"size" "CD4D635D776B5B356EF34F84E99D345D"
-				"download" "FA030CF9B2C5812F700E80EE69287040"
+				"gid" "6888388040409228601"
+				"size" "270428699"
+				"download" "97908928"
 			}
 		}
 	}
@@ -453,42 +469,9 @@
 		{
 			"public"
 			{
-				"gid" "7965860823912772339"
-				"size" "184038676"
-				"download" "88293184"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"jp-beta"
-			{
-				"gid" "E3341961D2056CEDB752F6A54CA4239D"
-				"size" "250345BC93D9FB6F58BB1414924109F4"
-				"download" "BF5682C1C9AD1132503A585A816D5C54"
-			}
-			"screen-reader-beta"
-			{
-				"gid" "7C8787DBB47E6927244F67869BA0B243"
-				"size" "96A8BB39C1820433D24639CA6E2896C5"
-				"download" "D19092E9F06FE10117DD227892E01DF3"
-			}
-			"zh-beta"
-			{
-				"gid" "B5C465F4CA58CA9C773B1946838A9879"
-				"size" "53583B76D7E609A41DD6A8E3050E41CB"
-				"download" "E7730FADF6116311C4C1AE85C7628191"
-			}
-			"ar-beta"
-			{
-				"gid" "ABA082D9411D405C193263EA30E69659"
-				"size" "E53F96943135FC19D3EEE60AC2DA57FB"
-				"download" "2538F6DC2097EC6BF801CB344B0EB4ED"
-			}
-			"workshop-beta-2"
-			{
-				"gid" "D08D7D27BA0112679EB772DE9A2F6F0A"
-				"size" "525E5AA0847F711A9D07C195649DB6AF"
-				"download" "22BA9C76FFE9C3ADFAF2E04D0D404FA6"
+				"gid" "6575032920067735833"
+				"size" "184038436"
+				"download" "88292128"
 			}
 		}
 	}
@@ -498,40 +481,11 @@
 	{
 		"public"
 		{
-			"buildid" "15100268"
-			"timeupdated" "1721498644"
-		}
-		"jp-beta"
-		{
-			"buildid" "13468723"
-			"pwdrequired" "1"
-			"timeupdated" "1708027688"
-		}
-		"screen-reader-beta"
-		{
-			"buildid" "13254044"
-			"pwdrequired" "1"
-			"timeupdated" "1706054042"
-		}
-		"zh-beta"
-		{
-			"buildid" "13169053"
-			"pwdrequired" "1"
-			"timeupdated" "1705240009"
-		}
-		"ar-beta"
-		{
-			"buildid" "15026798"
-			"pwdrequired" "1"
-			"timeupdated" "1720937963"
-		}
-		"workshop-beta-2"
-		{
-			"buildid" "14239458"
-			"pwdrequired" "1"
-			"timeupdated" "1714619691"
+			"buildid" "16940935"
+			"timeupdated" "1736348866"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -574,6 +528,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24445669"
-"_sha" "4abf11604b1a8126f187557a3d936535646aff7a"
-"_size" "11774"
+"_change_number" "26909593"
+"_sha" "0cc0b9de91b140e58bcb38c215657c77a17c9afb"
+"_size" "11093"
