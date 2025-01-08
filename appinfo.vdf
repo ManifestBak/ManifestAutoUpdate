@@ -201,7 +201,6 @@
 		}
 	}
 	"steamcontrollertemplateindex" "4"
-	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
 	"steamconfigurator3rdpartynative" "2"
 }
@@ -214,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "210272704048734109"
-				"size" "102780750"
-				"download" "89566976"
+				"gid" "4941250243765081529"
+				"size" "58855760"
+				"download" "46581696"
 			}
 		}
 	}
@@ -236,8 +235,8 @@
 	{
 		"public"
 		{
-			"buildid" "16397583"
-			"timeupdated" "1731532291"
+			"buildid" "16685041"
+			"timeupdated" "1733775050"
 		}
 	}
 }
@@ -260,6 +259,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26182066"
-"_sha" "1e780ae7c50175920623fa91d499bfa76071d98e"
-"_size" "4284"
+"_change_number" "26566208"
+"_sha" "c842c3a4ad85137499d9635ee4b8fa210c93cd3d"
+"_size" "4241"
