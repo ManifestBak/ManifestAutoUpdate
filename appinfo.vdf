@@ -36,7 +36,9 @@
 	"type" "game"
 	"content_descriptors"
 	{
-		"0" "5"
+		"0" "1"
+		"1" "2"
+		"2" "5"
 	}
 	"steam_deck_compatibility"
 	{
@@ -574,6 +576,6 @@
 	"hidecloudui" "0"
 }
 "_missing_token" "False"
-"_change_number" "25359954"
-"_sha" "58c6a30c703a7bef0f0e88f3164b9412b600d6b0"
-"_size" "10062"
+"_change_number" "26790322"
+"_sha" "93f36fc757bc1dcf1d8fe3c4df561e9c1adec9b0"
+"_size" "10086"
