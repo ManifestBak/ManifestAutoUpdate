@@ -11,6 +11,7 @@
 	"logo" "c625ee8ce5d81412b211ed6044b69dff8d61cf86"
 	"logo_small" "c625ee8ce5d81412b211ed6044b69dff8d61cf86_thumb"
 	"osarch" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "Job the Leprechaun"
 	"controller_support" "full"
 	"small_capsule"
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_78a64f025e18f3f1a95ddf08d37b9992113ed8f0.jpg"
 	"store_asset_mtime" "1438357173"
 	"associations"
 	{
@@ -198,3 +200,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "348d5a4c872a5bbfdbc68d0e03ab2e6684e14ec2"
+"_size" "3332"
