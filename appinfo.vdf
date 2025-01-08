@@ -10,6 +10,7 @@
 	"clienticon" "0395661db9d3ef25628c234126c8baa14b07df90"
 	"oslist" "windows,macos"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -78,6 +79,40 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "77.53792298716454"
 			"height_pct" "79.63666587508905"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "77.53792298716454"
+				"height_pct" "79.63666587508905"
+			}
 		}
 	}
 	"store_asset_mtime" "1572354131"
@@ -305,3 +340,7 @@
 	"quota" "5000000"
 	"maxnumfiles" "500"
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "e6612e627e28f17e96dfede91d244e1c57407b2d"
+"_size" "6419"
