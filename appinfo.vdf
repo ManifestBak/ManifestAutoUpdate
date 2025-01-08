@@ -16,6 +16,11 @@
 		"russian" "1"
 	}
 	"osarch" "64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"metacritic_name" "Investigator"
 	"controller_support" "full"
 	"small_capsule"
@@ -35,6 +40,36 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
 		}
 	}
 	"store_asset_mtime" "1646792372"
@@ -96,8 +131,9 @@
 		"4" "599"
 		"5" "5900"
 		"6" "3835"
-		"7" "4182"
-		"8" "3839"
+		"7" "4667"
+		"8" "4182"
+		"9" "3839"
 	}
 	"review_score" "5"
 	"review_percentage" "69"
@@ -162,7 +198,6 @@
 	}
 	"491290"
 	{
-		"dlcappid" "491290"
 		"manifests"
 		{
 			"public"
@@ -293,3 +328,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25667560"
+"_sha" "20708bffc9e500864b62d54aef97a90d55b6159f"
+"_size" "5414"
