@@ -2,10 +2,10 @@
 "common"
 {
 	"name" "First Customer Soundtrack"
-	"type" "DLC"
+	"type" "Music"
 	"parent" "1086490"
 	"releasestate" "released"
-	"oslist" "windows,macos"
+	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
 	"clienticon" "75cec52c1bcecdad04bca9aeccf4c756b84210c0"
@@ -13,7 +13,6 @@
 	"icon" "4df134cae16fde01a6fc672a1959d7a02c49af49"
 	"logo" "ed2f748a75d7ec9f41685cd75090d9504f04c1c1"
 	"logo_small" "ed2f748a75d7ec9f41685cd75090d9504f04c1c1_thumb"
-	"metacritic_name" "First Customer Soundtrack"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -23,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_d69973bc87550624c6020263b79a6e61e4ef0f26.jpg"
 	"store_asset_mtime" "1564973893"
 	"associations"
 	{
@@ -119,6 +119,7 @@
 	}
 	"steam_release_date" "1564965773"
 	"gameid" "1131350"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "19"
@@ -129,13 +130,17 @@
 }
 "extended"
 {
-	"dlcforappid" "1086490"
-	"mustownapptopurchase" "1086490"
+	"musicalbumforappid" "1086490"
+	"isconverteddlc" "1"
 	"developer" "Sonic-Alpha"
 	"publisher" "NS"
-	"homepage" "https://emerose.biz/"
+	"homepage" "https://sonic-alpha.org/"
 	"isfreeapp" "1"
-	"dlcavailableonstore" "1"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "First Customer Soundtrack"
 }
 "depots"
 {
@@ -145,23 +150,191 @@
 		{
 			"public"
 			{
-				"gid" "1291453275029312008"
+				"gid" "6604168416596151688"
 				"size" "16479503"
 				"download" "16484688"
 			}
 		}
-		"dlcappid" "1131350"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "4653551"
-			"timeupdated" "1581104321"
+			"buildid" "14613380"
+			"timeupdated" "1717596235"
 		}
 	}
 }
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" "Sonic-Alpha"
+			"koreana" ""
+		}
+		"composer"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" "NS"
+			"koreana" ""
+		}
+		"label"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" "First Customer Soundtrack"
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" ""
+			"koreana" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Welcome to Paradise"
+			"m" "3"
+			"s" "11"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Anxiety"
+			"m" "2"
+			"s" "23"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "The Cave"
+			"m" "6"
+			"s" "23"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "2f6b3324f14063b75ce24b1584d6411106630700"
+	}
+}
 "_missing_token" "False"
-"_change_number" "22829738"
-"_sha" "6db6bf0103a9d7c1da57e653bf02fb0af3918d19"
-"_size" "2639"
+"_change_number" "26201212"
+"_sha" "8ba47e0ae17bbbb119a1571d9b81e7af53321637"
+"_size" "5554"
