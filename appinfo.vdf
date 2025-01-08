@@ -32,6 +32,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1699446363"
 	"associations"
 	{
@@ -61,6 +103,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -117,7 +160,7 @@
 	{
 		"0"
 		{
-			"executable" "JQchemistry.exe"
+			"executable" "JQ chemistry.exe"
 			"type" "default"
 			"config"
 			{
@@ -134,9 +177,9 @@
 		{
 			"public"
 			{
-				"gid" "5095752226402041476"
-				"size" "28544738"
-				"download" "23885040"
+				"gid" "7361176859392895725"
+				"size" "29910884"
+				"download" "23649104"
 			}
 		}
 	}
@@ -145,12 +188,12 @@
 	{
 		"public"
 		{
-			"buildid" "12652046"
-			"timeupdated" "1699542094"
+			"buildid" "16652911"
+			"timeupdated" "1733467848"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22190789"
-"_sha" "a549d9657df0698a4ee6c8016408e29d8625e508"
-"_size" "2358"
+"_change_number" "26521191"
+"_sha" "23558141f8a2c0decd551ec297798eb80c44645e"
+"_size" "2979"
