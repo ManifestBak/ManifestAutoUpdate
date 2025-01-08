@@ -31,6 +31,11 @@
 	"releasestate" "released"
 	"openvrsupport" "1"
 	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -227,14 +232,14 @@
 	"store_tags"
 	{
 		"0" "19"
-		"1" "1663"
-		"2" "492"
-		"3" "4345"
-		"4" "3859"
-		"5" "21978"
-		"6" "1685"
-		"7" "3839"
-		"8" "4667"
+		"1" "4345"
+		"2" "1663"
+		"3" "4667"
+		"4" "492"
+		"5" "1685"
+		"6" "3859"
+		"7" "21978"
+		"8" "3839"
 		"9" "1774"
 		"10" "1719"
 		"11" "4182"
@@ -1277,3 +1282,7 @@
 	"quota" "500000000"
 	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26902480"
+"_sha" "ffaa0f79d4f6d37be19f2aac46cf713e9ec50b76"
+"_size" "25645"
