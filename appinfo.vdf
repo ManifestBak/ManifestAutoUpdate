@@ -13,6 +13,7 @@
 	"linuxclienticon" "c62d67d49476de5d345410ad6e2b144c2113c058"
 	"clienticon" "88551b59c0ce1e9f74086f0988270d52ffa35b16"
 	"clienticns" "a8ba2be05719b3435afe6bf611d68fa098917fbf"
+	"restricted_countries" "DE"
 	"metacritic_name" "Parallyzed"
 	"small_capsule"
 	{
@@ -22,6 +23,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_629e3275e36230db0330c96f240fb25924d034ab.jpg"
 	"store_asset_mtime" "1493295566"
 	"associations"
 	{
@@ -242,3 +244,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "25fce491d036a73a0f9c02fb18fd4b73f5eac63d"
+"_size" "3951"
