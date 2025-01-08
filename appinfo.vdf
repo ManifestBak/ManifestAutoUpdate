@@ -195,8 +195,8 @@
 		"3" "3859"
 		"4" "3968"
 		"5" "8122"
-		"6" "1775"
-		"7" "701"
+		"6" "701"
+		"7" "1775"
 		"8" "4747"
 		"9" "4840"
 		"10" "4191"
@@ -211,7 +211,7 @@
 		"19" "1643"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -254,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "6843799740800576691"
-				"size" "2862640819"
-				"download" "623548160"
+				"gid" "1723141348229306717"
+				"size" "2873536266"
+				"download" "626375264"
 			}
 		}
 		"encryptedmanifests"
@@ -275,15 +275,27 @@
 			}
 			"staging"
 			{
-				"gid" "036BEFA4896A4AFC19B864D544154AF7"
-				"size" "67C699C08A9FC73F8C2976EF7633E02A"
-				"download" "D7E649B2A1B975B44A0C6D59458F2E72"
+				"gid" "38C81E362F6C421BBFEF28241BD27E9B"
+				"size" "B4D8619F234BE58FCF58076916356D72"
+				"download" "18987FE67E83A75763D6296FC0DCD204"
+			}
+			"test-server"
+			{
+				"gid" "4AB7110373F40A627CDCDEEF352C651C"
+				"size" "0D327F0C0095CCB34F93F4BCB51EEFF3"
+				"download" "CFAD0CD81A15BA2DF24DD04BEE60B353"
 			}
 			"v16-bug-hunting"
 			{
-				"gid" "C63093AA7B5A67B85233696588FEF731"
-				"size" "CE8DFD5A5BD6D38228DEEEADBD7A3110"
-				"download" "123BA88CDC115468C1C9B303E55056CE"
+				"gid" "6D0351761461D7BA18FF68690C04EB50"
+				"size" "7A1AD37438623E6B3244E2C62F1D575C"
+				"download" "3E5EF048266754E16C0B67A133EBD04D"
+			}
+			"v16-staging"
+			{
+				"gid" "04FF5C2BF4478C4BA3FBEC9FABD708DF"
+				"size" "23048697445EAB910B7A1B591DD49A75"
+				"download" "A90A06BCA105C29F5C06E78F466AAB56"
 			}
 			"v16-testing"
 			{
@@ -297,8 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "16590124"
-			"timeupdated" "1733010885"
+			"buildid" "16906164"
+			"timeupdated" "1735995493"
 		}
 		"archive"
 		{
@@ -314,15 +326,27 @@
 		}
 		"staging"
 		{
-			"buildid" "16544881"
+			"buildid" "16906164"
 			"pwdrequired" "1"
-			"timeupdated" "1732662820"
+			"timeupdated" "1735995415"
+		}
+		"test-server"
+		{
+			"buildid" "16790318"
+			"pwdrequired" "1"
+			"timeupdated" "1734544630"
 		}
 		"v16-bug-hunting"
 		{
-			"buildid" "14887903"
+			"buildid" "16686727"
 			"pwdrequired" "1"
-			"timeupdated" "1719772350"
+			"timeupdated" "1733785891"
+		}
+		"v16-staging"
+		{
+			"buildid" "16776873"
+			"pwdrequired" "1"
+			"timeupdated" "1734459074"
 		}
 		"v16-testing"
 		{
@@ -353,6 +377,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26438362"
-"_sha" "1c413a13d922b0fc8948682ad0c38993211d40e7"
-"_size" "6790"
+"_change_number" "26861022"
+"_sha" "88af5f7c77f9d02ddd6494660a0d46d766816704"
+"_size" "7360"
