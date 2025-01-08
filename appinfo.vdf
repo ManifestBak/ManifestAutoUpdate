@@ -45,6 +45,7 @@
 		"latam" "1"
 		"indonesian" "1"
 	}
+	"restricted_countries" "DE"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -206,7 +207,7 @@
 		"19" "4325"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -255,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "6039877863429251740"
-				"size" "451625889"
-				"download" "66126688"
+				"gid" "2710266623854502169"
+				"size" "489080311"
+				"download" "80608464"
 			}
 		}
 	}
@@ -272,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "2168410659505987226"
-				"size" "445510659"
-				"download" "64674800"
+				"gid" "5742732245834829891"
+				"size" "482964985"
+				"download" "79156352"
 			}
 		}
 	}
@@ -282,8 +283,12 @@
 	{
 		"public"
 		{
-			"buildid" "15327437"
-			"timeupdated" "1723309385"
+			"buildid" "16693104"
+			"timeupdated" "1733831068"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26574141"
+"_sha" "2b0300f1f751e4ac292b77caa1f17b42cc9ae2f6"
+"_size" "4519"
