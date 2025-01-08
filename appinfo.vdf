@@ -65,6 +65,43 @@
 			"height_pct" "63.67846117311802"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "60.03500583430568"
+				"height_pct" "63.67846117311802"
+			}
+		}
+	}
 	"store_asset_mtime" "1573642460"
 	"associations"
 	{
@@ -121,13 +158,13 @@
 	"gameid" "626510"
 	"store_tags"
 	{
-		"0" "12095"
-		"1" "9130"
-		"2" "4726"
-		"3" "6650"
-		"4" "5611"
-		"5" "3799"
-		"6" "4085"
+		"0" "9130"
+		"1" "4726"
+		"2" "5611"
+		"3" "12095"
+		"4" "3799"
+		"5" "4085"
+		"6" "6650"
 		"7" "4486"
 		"8" "9551"
 		"9" "3871"
@@ -278,7 +315,6 @@
 	}
 	"626514"
 	{
-		"dlcappid" "683090"
 		"manifests"
 		{
 			"public"
@@ -325,3 +361,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26135084"
+"_sha" "b8271babfe417d7219e40e8f11d0e11d16acb9c8"
+"_size" "6508"
