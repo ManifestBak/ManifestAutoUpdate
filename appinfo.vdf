@@ -81,6 +81,48 @@
 			"height_pct" "99.13192878414532"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "61.410000561100276"
+				"height_pct" "99.13192878414532"
+			}
+		}
+	}
 	"store_asset_mtime" "1667931805"
 	"associations"
 	{
@@ -134,8 +176,8 @@
 		"6" "4182"
 		"7" "4342"
 		"8" "1667"
-		"9" "13782"
-		"10" "1756"
+		"9" "1756"
+		"10" "13782"
 		"11" "4166"
 	}
 	"review_score" "8"
@@ -203,21 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "2345454519641525052"
-				"size" "476841501"
-				"download" "276480144"
+				"gid" "4911812781221340771"
+				"size" "476842013"
+				"download" "276480448"
 			}
 			"legacy_oct_2013"
 			{
 				"gid" "2221212811193700540"
 				"size" "479575839"
 				"download" "0"
-			}
-			"zink"
-			{
-				"gid" "4786329727728993978"
-				"size" "491398685"
-				"download" "279549680"
 			}
 		}
 	}
@@ -233,21 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "25244549939117284"
-				"size" "475580937"
-				"download" "276038544"
+				"gid" "6021534848761575379"
+				"size" "475581065"
+				"download" "276039040"
 			}
 			"legacy_oct_2013"
 			{
 				"gid" "7000995822220145097"
 				"size" "504836725"
 				"download" "0"
-			}
-			"zink"
-			{
-				"gid" "25244549939117284"
-				"size" "475580937"
-				"download" "276038544"
 			}
 		}
 	}
@@ -263,21 +293,15 @@
 		{
 			"public"
 			{
-				"gid" "5505807305117284960"
-				"size" "476425041"
-				"download" "275016448"
+				"gid" "8773573918984812078"
+				"size" "476429201"
+				"download" "275016864"
 			}
 			"legacy_oct_2013"
 			{
 				"gid" "8679076681866069867"
 				"size" "484713088"
 				"download" "0"
-			}
-			"zink"
-			{
-				"gid" "5505807305117284960"
-				"size" "476425041"
-				"download" "275016448"
 			}
 		}
 	}
@@ -287,20 +311,14 @@
 	{
 		"public"
 		{
-			"buildid" "14098604"
-			"timeupdated" "1713456308"
+			"buildid" "16397574"
+			"timeupdated" "1733357250"
 		}
 		"legacy_oct_2013"
 		{
 			"buildid" "136324"
 			"description" "previous version of the game, before the 2024 maintenance update"
 			"timeupdated" "1713144614"
-		}
-		"zink"
-		{
-			"buildid" "14134553"
-			"description" "Zink for Windows"
-			"timeupdated" "1713800873"
 		}
 	}
 }
@@ -310,6 +328,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "23253052"
-"_sha" "3d15bfef84d4ad81f5eeb2cd1f7c8591c1d2156a"
-"_size" "5915"
+"_change_number" "26857337"
+"_sha" "0059dc48951cd41428c83d34e75b67bad7e955c3"
+"_size" "6095"
