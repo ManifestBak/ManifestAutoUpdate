@@ -245,8 +245,8 @@
 		"2" "1667"
 		"3" "4106"
 		"4" "1721"
-		"5" "4726"
-		"6" "1664"
+		"5" "1664"
+		"6" "4726"
 		"7" "4791"
 		"8" "1698"
 		"9" "3871"
@@ -305,24 +305,15 @@
 		{
 			"public"
 			{
-				"gid" "5047455221468174083"
-				"size" "563749727"
-				"download" "271333936"
+				"gid" "7753709914845239673"
+				"size" "566656267"
+				"download" "271737600"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_beta"
+			"open_beta"
 			{
-				"gid" "8FE70A0351C48044EA4D98AEBADBABCC"
-				"size" "FA281DE29B6F0F0A7B3881EC74E79C99"
-				"download" "125B005FAE1DA00378007007D8BFFE3B"
-			}
-			"jorge_beta"
-			{
-				"gid" "83700EBD5265D43F6ACF6A27DDC5AF9A"
-				"size" "AEA1989D844896AF200632D5AE73F2C4"
-				"download" "14ED4EECA02303709907714618DC5BC1"
+				"gid" "6273295586498112744"
+				"size" "553977361"
+				"download" "269237504"
 			}
 		}
 	}
@@ -331,22 +322,17 @@
 	{
 		"public"
 		{
-			"buildid" "16615101"
-			"timeupdated" "1733232501"
+			"buildid" "16940611"
+			"timeupdated" "1736347059"
 		}
-		"closed_beta"
+		"open_beta"
 		{
-			"buildid" "16615101"
-			"pwdrequired" "1"
-			"timeupdated" "1733232193"
-		}
-		"jorge_beta"
-		{
-			"buildid" "15694368"
-			"pwdrequired" "1"
-			"timeupdated" "1726249815"
+			"buildid" "16940586"
+			"description" "Access to the VM Build for modding"
+			"timeupdated" "1736346409"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -377,6 +363,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26470824"
-"_sha" "7886b6bca52b776d31756ed08626371d9a5af3fc"
-"_size" "6815"
+"_change_number" "26909209"
+"_sha" "2b5951b801012328a9ab58cce645e54f0c415b87"
+"_size" "6493"
