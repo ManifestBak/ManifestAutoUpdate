@@ -109,7 +109,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1715612383"
+	"store_asset_mtime" "1730941451"
 	"associations"
 	{
 		"0"
@@ -145,6 +145,8 @@
 		"category_22" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_61" "1"
+		"category_13" "1"
 	}
 	"supported_languages"
 	{
@@ -225,19 +227,21 @@
 	{
 		"0" "699"
 		"1" "1773"
-		"2" "3859"
-		"3" "1695"
+		"2" "1695"
+		"3" "3859"
 		"4" "1644"
 		"5" "3810"
-		"6" "1775"
-		"7" "4182"
-		"8" "701"
+		"6" "701"
+		"7" "1775"
+		"8" "4182"
 		"9" "3843"
 		"10" "1685"
 		"11" "4191"
+		"12" "198913"
+		"13" "21978"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -245,7 +249,7 @@
 	"proofofpurchaseticketrevision" "2"
 	"developer" "Ubisoft Ivory Tower"
 	"publisher" "Ubisoft"
-	"listofdlc" "2716050,2805000,2805010,2849030,2849040,2865990,2898630,2898640,2934260,3251430,3251440,3251450"
+	"listofdlc" "2716050,2805000,2805010,2849030,2849040,2865990,2898630,2898640,2934260,3251420,3251430,3251440,3251450"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -275,78 +279,15 @@
 		{
 			"public"
 			{
-				"gid" "1623041375367472512"
-				"size" "55782731533"
-				"download" "51336581904"
+				"gid" "8680000655575974558"
+				"size" "55782749801"
+				"download" "51336546880"
 			}
 			"local"
 			{
 				"gid" "2915921679385542269"
 				"size" "45610605327"
 				"download" "41652408880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_s04"
-			{
-				"gid" "D99B1781D21841993631F18C2280F248"
-				"size" "F73E692789FAD4D208604AE32775A2EE"
-				"download" "D2850A4BFF88A9EA65B84BB2931EA8B0"
-			}
-			"sdk_build"
-			{
-				"gid" "8E0DCCB217F69D98BA334FD22F30103B"
-				"size" "C2F4BD9D1938D589348EE78469F6A021"
-				"download" "D1463B6D6A06DF074D8B2B848C426B04"
-			}
-			"test1"
-			{
-				"gid" "B7B73C4C7D2C3DA217A42F1171E90619"
-				"size" "420D1A403A8452FAA0CFCF164CC0E926"
-				"download" "CAE29FF8EAA5E317E9B4F4F5EE77F1E6"
-			}
-			"tu08"
-			{
-				"gid" "4888336BA35DC9DECCA62623C2F1B5F6"
-				"size" "BDFED5F6B8F2B8B05C8F4E491D2D58C0"
-				"download" "DF62B660F8EB3B7B6B570F9DCA2F8D78"
-			}
-			"tu8_s02"
-			{
-				"gid" "C868491FD6BC4B043C51F57747CFC2FE"
-				"size" "1CC34BDDACC605F4F379BEF5389277C0"
-				"download" "AFF77E20BBD34F8DF8EBFF21E8A704F9"
-			}
-			"stab2"
-			{
-				"gid" "5E6311AAE113D207FF64E398530B5F61"
-				"size" "EC23A03BDA5358EFD74896EA7C4AE5C3"
-				"download" "CBFE8766325CD85E628D8B055EB86943"
-			}
-			"tu09"
-			{
-				"gid" "D67AD201427BD78106B8578F650D7213"
-				"size" "0C624ED628AE425C27C5E455FAE2627B"
-				"download" "028C5704259A6CCCC60886EE2E4B82DE"
-			}
-			"tu10"
-			{
-				"gid" "4BF3B6F7A97350CE2F8FE1CE2CF4D77F"
-				"size" "2DFFD8AF8C9D241691D15E9E6B938DCA"
-				"download" "5873EB5135F96377B23CB1CEDD941D93"
-			}
-			"tu11"
-			{
-				"gid" "3F48E41B03596CDC5DBF0E6BBF507F02"
-				"size" "2C2255E4768BA9D70BDF471AA11F8BE9"
-				"download" "BABAFD9DA552599F5123E3E53952E59F"
-			}
-			"tu12"
-			{
-				"gid" "391F84192F4732D2F0933C5DD525A37D"
-				"size" "4BB2BAFBDEB4D501CA16A3B0C13672B9"
-				"download" "5CE683C1F880E8C7EEA3B06FC2AE8E98"
 			}
 		}
 	}
@@ -356,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6407822217219551890"
-				"size" "227545200"
-				"download" "229241360"
+				"gid" "6750736260530963906"
+				"size" "256391736"
+				"download" "258388880"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -368,14 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "16020035"
-			"timeupdated" "1730889141"
-		}
-		"beta_s04"
-		{
-			"buildid" "14054437"
-			"pwdrequired" "1"
-			"timeupdated" "1713170844"
+			"buildid" "16491132"
+			"timeupdated" "1736329397"
 		}
 		"local"
 		{
@@ -384,63 +319,10 @@
 			"lcsrequired" "1"
 			"timeupdated" "1706178281"
 		}
-		"sdk_build"
-		{
-			"buildid" "13668297"
-			"pwdrequired" "1"
-			"timeupdated" "1709810321"
-		}
-		"test1"
-		{
-			"buildid" "12759380"
-			"pwdrequired" "1"
-			"timeupdated" "1700565349"
-		}
-		"tu08"
-		{
-			"buildid" "13528755"
-			"pwdrequired" "1"
-			"timeupdated" "1708591504"
-		}
-		"tu8_s02"
-		{
-			"buildid" "13869042"
-			"pwdrequired" "1"
-			"timeupdated" "1711538217"
-		}
-		"stab2"
-		{
-			"buildid" "16311883"
-			"pwdrequired" "1"
-			"timeupdated" "1730884566"
-		}
-		"tu09"
-		{
-			"buildid" "14759824"
-			"pwdrequired" "1"
-			"timeupdated" "1718743726"
-		}
-		"tu10"
-		{
-			"buildid" "15071746"
-			"pwdrequired" "1"
-			"timeupdated" "1721284136"
-		}
-		"tu11"
-		{
-			"buildid" "16020035"
-			"pwdrequired" "1"
-			"timeupdated" "1728730599"
-		}
-		"tu12"
-		{
-			"buildid" "16250312"
-			"pwdrequired" "1"
-			"timeupdated" "1730371931"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26069882"
-"_sha" "61e94c4237f81f7092037aa06bcc3dae3915de7a"
-"_size" "8206"
+"_change_number" "26905781"
+"_sha" "bf0c4c542afb6f4a37e95e925a424c88d3c6fc92"
+"_size" "5546"
