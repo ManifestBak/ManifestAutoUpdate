@@ -60,7 +60,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "cbb38c7765830796e74e3bbbe609ce2a529d3abe/capsule_231x87.jpg"
+		"english" "9d95ef4174f04062594df9cde5c9fe100130b407/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -70,13 +70,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "34.64015085566125"
-			"height_pct" "43.75407070262804"
+			"width_pct" "48.577407429590394"
+			"height_pct" "100"
 		}
 	}
 	"library_assets_full"
@@ -85,50 +86,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "feaacabc506f488ecc90162bb982f271140a6aad/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "feaacabc506f488ecc90162bb982f271140a6aad/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "b499d9f1bcba57cea28aacf1863b91bc67d62af2/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "b499d9f1bcba57cea28aacf1863b91bc67d62af2/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b499d9f1bcba57cea28aacf1863b91bc67d62af2/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "33c2bcaf57fee5dc63a9eecf4954cf11e4093b22/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "33c2bcaf57fee5dc63a9eecf4954cf11e4093b22/logo_2x.png"
 			}
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "34.64015085566125"
-				"height_pct" "43.75407070262804"
+				"width_pct" "48.577407429590394"
+				"height_pct" "100"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "10649696264fd541506bf5c37948c9daf627b4ca/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
+				"english" "10649696264fd541506bf5c37948c9daf627b4ca/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1724717992"
+	"store_asset_mtime" "1735877992"
 	"associations"
 	{
 		"0"
@@ -360,27 +372,21 @@
 		{
 			"public"
 			{
-				"gid" "6623399526579300065"
-				"size" "1376467294"
-				"download" "216563600"
-			}
-			"deckcheck"
-			{
-				"gid" "6623399526579300065"
-				"size" "1376467294"
-				"download" "216563600"
+				"gid" "1966894242907635081"
+				"size" "1606169380"
+				"download" "297266528"
 			}
 			"experimental"
 			{
-				"gid" "6623399526579300065"
-				"size" "1376467294"
-				"download" "216563600"
+				"gid" "1966894242907635081"
+				"size" "1606169380"
+				"download" "297266528"
 			}
 			"previousbuild"
 			{
-				"gid" "5614923941414816279"
-				"size" "1387405129"
-				"download" "216667040"
+				"gid" "6623399526579300065"
+				"size" "1376467294"
+				"download" "216563600"
 			}
 			"v0.485"
 			{
@@ -429,9 +435,9 @@
 		{
 			"birdie"
 			{
-				"gid" "80BA711B82EAB3AF6F0445FC2F3E3728"
-				"size" "6BA8B8C4687270FFCF32BD2B4EEC2482"
-				"download" "A5C871905EDB206AAC64ADA50B1B9A20"
+				"gid" "98489C493EAD876666B5DF7A29DC076D"
+				"size" "5FA898C5EE1312430B4AE9AEC86593C7"
+				"download" "01356F927B675CBA7B7B7DA186067536"
 			}
 		}
 	}
@@ -445,27 +451,21 @@
 		{
 			"public"
 			{
-				"gid" "8134473318022607167"
-				"size" "1400795149"
-				"download" "227735200"
-			}
-			"deckcheck"
-			{
-				"gid" "8134473318022607167"
-				"size" "1400795149"
-				"download" "227735200"
+				"gid" "4428619518843533511"
+				"size" "1650144619"
+				"download" "323268752"
 			}
 			"experimental"
 			{
-				"gid" "8134473318022607167"
-				"size" "1400795149"
-				"download" "227735200"
+				"gid" "4428619518843533511"
+				"size" "1650144619"
+				"download" "323268752"
 			}
 			"previousbuild"
 			{
-				"gid" "2293955333793623214"
-				"size" "1413242464"
-				"download" "227899840"
+				"gid" "8134473318022607167"
+				"size" "1400795149"
+				"download" "227735200"
 			}
 			"v0.485"
 			{
@@ -514,9 +514,9 @@
 		{
 			"birdie"
 			{
-				"gid" "A7EA006F0C9C812EB96BCBCFE954DE73"
-				"size" "C87BF7682137DE27CA32F77790CCDC09"
-				"download" "DA9D9DDAB4B673E4D7B99734692FB2B1"
+				"gid" "51A49E80815CE7391DFCC6BE7CAFFE5F"
+				"size" "1FC2798FA0C2D01E58AAB001B75144A7"
+				"download" "BD57C7E82FAFAD5A7C417BEEED437406"
 			}
 		}
 	}
@@ -530,27 +530,21 @@
 		{
 			"public"
 			{
-				"gid" "3077956229048693487"
-				"size" "1448176952"
-				"download" "248964688"
-			}
-			"deckcheck"
-			{
-				"gid" "3077956229048693487"
-				"size" "1448176952"
-				"download" "248964688"
+				"gid" "4695311342983010307"
+				"size" "1726331650"
+				"download" "364371120"
 			}
 			"experimental"
 			{
-				"gid" "3077956229048693487"
-				"size" "1448176952"
-				"download" "248964688"
+				"gid" "4695311342983010307"
+				"size" "1726331650"
+				"download" "364371120"
 			}
 			"previousbuild"
 			{
-				"gid" "4066487442235239508"
-				"size" "1459143275"
-				"download" "249022736"
+				"gid" "3077956229048693487"
+				"size" "1448176952"
+				"download" "248964688"
 			}
 			"v0.55"
 			{
@@ -593,9 +587,9 @@
 		{
 			"birdie"
 			{
-				"gid" "764BD490D81370BB12312AFDA6934578"
-				"size" "4E0F3008771946D5917F88E2F388967B"
-				"download" "39ED8B7571BDBA537D8A32271D127FEA"
+				"gid" "2920522E29507419E403DFFA4772ABDD"
+				"size" "57BD935E6D8D670EF003478B369B053A"
+				"download" "9954509E7674C0A195B1E014D17DA58A"
 			}
 		}
 	}
@@ -610,17 +604,17 @@
 		{
 			"public"
 			{
-				"gid" "8186218821331308369"
-				"size" "1448176952"
-				"download" "248881264"
-			}
-			"deckcheck"
-			{
-				"gid" "8186218821331308369"
-				"size" "1448176952"
-				"download" "248881264"
+				"gid" "5950222309172618908"
+				"size" "1726331650"
+				"download" "364493392"
 			}
 			"experimental"
+			{
+				"gid" "5950222309172618908"
+				"size" "1726331650"
+				"download" "364493392"
+			}
+			"previousbuild"
 			{
 				"gid" "8186218821331308369"
 				"size" "1448176952"
@@ -631,9 +625,9 @@
 		{
 			"birdie"
 			{
-				"gid" "082671E27CCDC7275BC85E270125F454"
-				"size" "4E0F3008771946D5917F88E2F388967B"
-				"download" "111C36844553D8064598051BE1530BE6"
+				"gid" "3AC2EEFD1FE7B93186200888C811B136"
+				"size" "57BD935E6D8D670EF003478B369B053A"
+				"download" "2B7DD91F7FBE541C647E459DDA6B76F4"
 			}
 		}
 	}
@@ -641,32 +635,26 @@
 	{
 		"public"
 		{
-			"buildid" "10889590"
-			"timeupdated" "1680160733"
+			"buildid" "16831348"
+			"timeupdated" "1735018084"
 		}
 		"birdie"
 		{
-			"buildid" "10889590"
+			"buildid" "16831348"
 			"pwdrequired" "1"
-			"timeupdated" "1680159753"
-		}
-		"deckcheck"
-		{
-			"buildid" "10889590"
-			"description" "deckcheck"
-			"timeupdated" "1680159773"
+			"timeupdated" "1734913133"
 		}
 		"experimental"
 		{
-			"buildid" "10889590"
+			"buildid" "16831348"
 			"description" "experimental branch"
-			"timeupdated" "1680159814"
+			"timeupdated" "1734914567"
 		}
 		"previousbuild"
 		{
-			"buildid" "8458989"
+			"buildid" "10889590"
 			"description" "the previous build"
-			"timeupdated" "1680159982"
+			"timeupdated" "1734914706"
 		}
 		"v0.485"
 		{
@@ -713,6 +701,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "c2ba85ecb8aaab3e7cac1a88e49dc969d937afa2"
-"_size" "12403"
+"_change_number" "26847541"
+"_sha" "feff769ed27cfebc92a02acb3e8f56ad4fff2609"
+"_size" "12476"
