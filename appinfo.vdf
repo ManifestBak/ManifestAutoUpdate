@@ -43,6 +43,48 @@
 			"height_pct" "68.40277777777777"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.72345301757068"
+				"height_pct" "68.40277777777777"
+			}
+		}
+	}
 	"store_asset_mtime" "1572447580"
 	"associations"
 	{
@@ -59,12 +101,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "PAKO Franchise"
-		}
-		"3"
-		{
-			"type" "franchise"
-			"name" "PAKO/TreeMenGames"
+			"name" "PAKO"
 		}
 	}
 	"primary_genre" "1"
@@ -190,3 +227,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26738440"
+"_sha" "65ed9ef43a538ba7239bec914dc7cbae42e2d7d8"
+"_size" "3846"
