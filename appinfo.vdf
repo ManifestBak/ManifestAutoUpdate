@@ -261,7 +261,7 @@
 		"19" "5094"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -310,15 +310,6 @@
 				"download" "748944240"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "C9A01837DB1949A702C06DEF431DEA93"
-				"size" "49B23B950B39C5D92C5ECD080DF824FC"
-				"download" "DB6F6B1D69B0208D23252881912196BF"
-			}
-		}
 	}
 	"1569860"
 	{
@@ -330,15 +321,6 @@
 				"gid" "4388004218672347662"
 				"size" "87093586"
 				"download" "58255712"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "0A05C6DEA67469ED9028A7C3558C5205"
-				"size" "CDDBA5E5DDC43329DCD17994EA2CC79F"
-				"download" "384CC73DC63883158CF6C1915C77AE84"
 			}
 		}
 	}
@@ -354,15 +336,6 @@
 				"download" "58510752"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "911FE6DC4F638B12C59306535AD9A51D"
-				"size" "803BF61BCFAC39066DC72B5B77D6848B"
-				"download" "90379B50625458C554D7E19B08A131AF"
-			}
-		}
 	}
 	"2153341"
 	{
@@ -374,15 +347,6 @@
 				"gid" "6091554978474946096"
 				"size" "85714866"
 				"download" "57822944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "ECCE0D413D52B35E6951F94451CE0F03"
-				"size" "8C1BBD62337FAF8D11297AF3E5BF9149"
-				"download" "5BCFB6990A4DC466B275A8C08EB0A465"
 			}
 		}
 	}
@@ -398,15 +362,6 @@
 				"download" "67463936"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "CE186309EBA3AC301A5564EF813B5FCB"
-				"size" "8E6B8B4B95CA5CD1110FBCC59A01AF60"
-				"download" "3908965F823D8043ECF0574DCCDC8E97"
-			}
-		}
 	}
 	"2153343"
 	{
@@ -420,15 +375,6 @@
 				"download" "66036336"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"blackwitch_test"
-			{
-				"gid" "CAA1D5913315EB0311CE114F2928D633"
-				"size" "310A65DF4D8BE30406CC768BB063A598"
-				"download" "BEEC615CCFFA3B8DA15BBEF73A58D475"
-			}
-		}
 	}
 	"branches"
 	{
@@ -437,11 +383,10 @@
 			"buildid" "12982388"
 			"timeupdated" "1703119101"
 		}
-		"blackwitch_test"
-		{
-			"buildid" "12982388"
-			"pwdrequired" "1"
-			"timeupdated" "1702781245"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "b196957f5631a01cc4968a37a119c8ed8c12fad9"
+"_size" "7573"
