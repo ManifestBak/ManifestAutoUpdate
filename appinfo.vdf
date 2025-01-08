@@ -12,6 +12,7 @@
 	"clienticon" "9149b6d7a590abb566788f5ebaf152607499e093"
 	"clienttga" "eefdcba15fb1b57557d4b29e3426b6d5ce6daf31"
 	"linuxclienticon" "54fbe012dd36267f61f4fd59c8645daea5f96041"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -70,6 +71,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8a8944a75ca9ee88cfd18552b5f079abd5199041.jpg"
 	"store_asset_mtime" "1480937213"
 	"associations"
 	{
@@ -264,3 +266,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "e44030539fe56bb17ff551c0b3f2223049417791"
+"_size" "4792"
