@@ -11,6 +11,7 @@
 	"clienticns" "e2f981be10827eeb1ad0ef686f8f4742a9fc96f3"
 	"clienticon" "bc6c6c589ce9eec6d9f26f3d9d0edb31cfc8f706"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -74,6 +75,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_be9111235c60c53972992c47be7d97d609452f3f.jpg"
 	"store_asset_mtime" "1426257541"
 	"associations"
 	{
@@ -137,7 +139,7 @@
 		"10" "3965"
 	}
 	"review_score" "5"
-	"review_percentage" "55"
+	"review_percentage" "57"
 }
 "extended"
 {
@@ -245,3 +247,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26869033"
+"_sha" "49fe056928098732e987585b29f2975f511f1f7d"
+"_size" "4511"
