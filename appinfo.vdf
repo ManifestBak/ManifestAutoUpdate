@@ -19,9 +19,51 @@
 		"2" "5"
 		"3" "4"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1720656000"
+		"tested_build_id" "11096079"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -35,6 +77,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -42,7 +85,56 @@
 			"height_pct" "87.3076920842278"
 		}
 	}
-	"store_asset_mtime" "1690120868"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "94.48509657226788"
+				"height_pct" "87.3076920842278"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1704568361"
 	"associations"
 	{
 		"0"
@@ -53,6 +145,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Axyos Games"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Axyos Games"
 		}
 	}
@@ -69,6 +166,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -115,29 +213,29 @@
 	"gameid" "1834960"
 	"store_tags"
 	{
-		"0" "12095"
-		"1" "4085"
-		"2" "1664"
-		"3" "4747"
-		"4" "3871"
-		"5" "4191"
-		"6" "24904"
-		"7" "18594"
-		"8" "597"
-		"9" "1654"
-		"10" "5611"
-		"11" "4726"
-		"12" "1697"
-		"13" "6129"
-		"14" "599"
-		"15" "3834"
-		"16" "5673"
-		"17" "1695"
-		"18" "7208"
-		"19" "4182"
+		"0" "597"
+		"1" "9130"
+		"2" "11014"
+		"3" "9551"
+		"4" "1664"
+		"5" "4085"
+		"6" "5652"
+		"7" "3871"
+		"8" "12095"
+		"9" "4305"
+		"10" "6815"
+		"11" "24904"
+		"12" "4726"
+		"13" "4182"
+		"14" "6650"
+		"15" "4747"
+		"16" "4191"
+		"17" "1654"
+		"18" "5611"
+		"19" "1697"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -190,15 +288,6 @@
 				"download" "530293696"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "B3042076821722F1C6E954CABDDC83BC"
-				"size" "7C5C36F775C0EF45BDB6BE4273EF5870"
-				"download" "57F362D2F1B84145027C62F27BD0F7B2"
-			}
-		}
 	}
 	"1838880"
 	{
@@ -212,15 +301,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "26E3A26A75A119D92898D52629EC8F00"
-				"size" "2386527182ADC34A5A47E5D377A6E0FD"
-				"download" "2386527182ADC34A5A47E5D377A6E0FD"
-			}
-		}
 	}
 	"1838881"
 	{
@@ -232,15 +312,6 @@
 				"gid" "7084615963495079552"
 				"size" "272164368"
 				"download" "257676304"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "50AF3EF5263F1D536EA198D3FF40AECE"
-				"size" "052AA49318853C03707F32C0AFD8280B"
-				"download" "4E1C0D34DBF0D27D6B1AB689BB21353B"
 			}
 		}
 	}
@@ -264,13 +335,8 @@
 			"buildid" "11096079"
 			"timeupdated" "1682519424"
 		}
-		"pre-release"
-		{
-			"buildid" "8558891"
-			"pwdrequired" "1"
-			"timeupdated" "1649945574"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -291,6 +357,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21676727"
-"_sha" "05315c39249f89d3746b5f3bed577f48305e99af"
-"_size" "4826"
+"_change_number" "26845279"
+"_sha" "6859c3bbfee31f7d39ce179538e5953c895ee535"
+"_size" "5986"
