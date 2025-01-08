@@ -11,6 +11,12 @@
 	"clienticon" "f7a26cccf72f6351e5895d73bfc66811fea9b7c1"
 	"clienttga" "4c6445812c2cbf9621e6e7eca20816bf853f4277"
 	"icon" "ad2f1bc7a105f50f82fc5ab73342bb8f14e607e3"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -68,6 +74,43 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "34.90298697581673"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "34.90298697581673"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1573032702"
@@ -254,7 +297,6 @@
 	}
 	"880240"
 	{
-		"dlcappid" "880240"
 		"manifests"
 		{
 			"public"
@@ -323,3 +365,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26136344"
+"_sha" "8d0bd359d87e6e4e6718955ad848df25e8e0a172"
+"_size" "6644"
