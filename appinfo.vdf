@@ -12,15 +12,40 @@
 	"icon" "6df980eaec7eee1dfb1beba83e5ca4f9d4009ec7"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1649376000"
-		"tested_build_id" "514591"
+		"category" "2"
+		"test_timestamp" "1730246400"
+		"tested_build_id" "16102163"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -36,6 +61,7 @@
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Amazing Princess Sarah"
@@ -178,7 +204,7 @@
 }
 "depots"
 {
-	"228983"
+	"228989"
 	{
 		"config"
 		{
@@ -214,20 +240,17 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"229012"
-	{
-		"config"
-		{
-			"oslist" "windows"
-		}
-		"depotfromapp" "228980"
-		"sharedinstall" "1"
-	}
 	"315851"
 	{
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4204826705114292701"
+				"size" "60534425"
+				"download" "55348448"
+			}
+			"legacy_xna_version"
 			{
 				"gid" "1415445941681696241"
 				"size" "41772654"
@@ -239,7 +262,18 @@
 	{
 		"public"
 		{
+			"buildid" "16102163"
+			"timeupdated" "1729288805"
+		}
+		"legacy_xna_version"
+		{
 			"buildid" "514591"
+			"description" "Legacy version using XNA"
+			"timeupdated" "1729430871"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25976458"
+"_sha" "79ac608bbc4bab5199d69c4ae9e5850d7edc0bb5"
+"_size" "5069"
