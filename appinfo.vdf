@@ -16,6 +16,7 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Lighter"
 	"small_capsule"
 	{
@@ -25,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_fdb00d017559b044b5e83ff0b2c978dad4a7cba2.jpg"
 	"store_asset_mtime" "1549089496"
 	"associations"
 	{
@@ -165,3 +167,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "68c01330e330a6f659d8fc5cf42838086a32078e"
+"_size" "2716"
