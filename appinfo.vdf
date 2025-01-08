@@ -37,6 +37,40 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
 	"store_asset_mtime" "1667273894"
 	"associations"
 	{
@@ -128,13 +162,13 @@
 		"10" "7208"
 		"11" "4182"
 		"12" "1721"
-		"13" "4166"
-		"14" "4085"
+		"13" "4085"
+		"14" "4166"
 		"15" "4342"
 		"16" "4604"
 		"17" "1710"
-		"18" "122"
-		"19" "4667"
+		"18" "4667"
+		"19" "122"
 	}
 	"review_score" "8"
 	"review_percentage" "94"
@@ -349,3 +383,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25998714"
+"_sha" "a577367fd6782cc2d6b83c1c835e86524bf9006f"
+"_size" "6181"
