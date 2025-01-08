@@ -10,6 +10,7 @@
 	"logo_small" "7a9e2e2a14fef95645707972dbb3cc5340fc2870_thumb"
 	"clienticon" "92c645e9aedaa3fddf7428c5ba070ffb60a14dbc"
 	"clienttga" "6a6af2235a085c5eee5360025e053d09c9430735"
+	"restricted_countries" "DE"
 	"metacritic_name" "Claire"
 	"controller_support" "partial"
 	"small_capsule"
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_8e29e2bcd2261bb6a02079d8064d24c09f995e1e.jpg"
 	"store_asset_mtime" "1412784545"
 	"associations"
 	{
@@ -265,3 +267,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "7b3eeaa6af99447086c559dbacd55f9512af11f2"
+"_size" "4438"
