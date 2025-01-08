@@ -7,7 +7,7 @@
 	"clienttga" "0428badbb698173e0968397b3674355b0a97d5d7"
 	"clienticon" "23dd00f1e393d9d1231cb64c47ad862b9eb0739a"
 	"icon" "6754114513bcf60fb9774283162187e8ef2ffadd"
-	"oslist" "windows"
+	"oslist" "windows,linux"
 	"osarch" ""
 	"osextended" ""
 	"name_localized"
@@ -203,8 +203,8 @@
 		"0" "12095"
 		"1" "9130"
 		"2" "24904"
-		"3" "3799"
-		"4" "6650"
+		"3" "6650"
+		"4" "3799"
 		"5" "5611"
 		"6" "44868"
 		"7" "597"
@@ -237,6 +237,18 @@
 		"0"
 		{
 			"executable" "Realms Of Bondage.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Realms Of Bondage.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
 		}
 	}
 }
@@ -259,16 +271,32 @@
 			}
 		}
 	}
+	"2353702"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8827173031160362222"
+				"size" "4382847582"
+				"download" "621328496"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16608026"
-			"timeupdated" "1733478512"
+			"buildid" "16657773"
+			"timeupdated" "1733742902"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26524293"
-"_sha" "52fe215089b5d399123ed7389d9891694d989867"
-"_size" "4653"
+"_change_number" "26873640"
+"_sha" "4c5f8994740bc9e096188effd5bc460f72b69244"
+"_size" "5022"
