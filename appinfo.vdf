@@ -24,6 +24,11 @@
 	"clienticon" "de21ccf05fb48611e8b4fcc3e77e271fc412ccf6"
 	"clienttga" "89bf70c1166bd94d66048b147ae1b6191566a798"
 	"icon" "ce8a1505c309b0427f9559e1e7cf8d00c963451b"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -98,6 +103,48 @@
 			"height_pct" "71.2776062692947"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "62.95215869311552"
+				"height_pct" "71.2776062692947"
+			}
+		}
+	}
 	"store_asset_mtime" "1561128639"
 	"associations"
 	{
@@ -130,6 +177,7 @@
 		"category_1" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -205,8 +253,8 @@
 		"4" "4150"
 		"5" "3814"
 		"6" "1667"
-		"7" "7423"
-		"8" "4345"
+		"7" "4345"
+		"8" "7423"
 		"9" "1662"
 		"10" "1774"
 		"11" "4182"
@@ -220,7 +268,7 @@
 		"19" "3839"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -963,6 +1011,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "19590025"
-"_sha" "63be9185c039f99c1338d30606223f3b06bea45b"
-"_size" "19378"
+"_change_number" "25190508"
+"_sha" "6cdda04ed942b4cec7fb57c7d644ade954c33a09"
+"_size" "20079"
