@@ -11,6 +11,7 @@
 	"logo_small" "058b85d3047c351a4c56ee666fd27bdd35c21fe9_thumb"
 	"releasestate" "released"
 	"osarch" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "HoPiKo"
 	"controller_support" "full"
 	"small_capsule"
@@ -31,6 +32,40 @@
 			"pinned_position" "UpperCenter"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
 		}
 	}
 	"store_asset_mtime" "1572356898"
@@ -258,3 +293,7 @@
 	"quota" "32000000"
 	"maxnumfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "5a9f52ec9f0522885039ac10bd3d14a909dcb2fe"
+"_size" "4911"
