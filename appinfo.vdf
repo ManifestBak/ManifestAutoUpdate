@@ -6,7 +6,7 @@
 	"releasestate" "released"
 	"logo" "9ff210aa40e090fa8a9faf5ae6e800bb9f31b9c7"
 	"logo_small" "9ff210aa40e090fa8a9faf5ae6e800bb9f31b9c7_thumb"
-	"icon" "72e2a00ffd6a74df8377069b163213059728f839"
+	"icon" "f3ef0edea8f32b4bf45096545d75f3c87cab648e"
 	"clienticon" "9c2ac5e9aa8033430e0c09df4ebd9efa022ae2d6"
 	"clienttga" "c23d726452a29d53ddcb8f14bb4a98b48eb4180c"
 	"oslist" "windows,macos,linux"
@@ -23,6 +23,51 @@
 	{
 		"schinese" "司辰之书"
 		"tchinese" "司辰之书"
+	}
+	"linuxclienticon" "45cdacefd82207d7e45e2bf9fcca766e17f4fe1a"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734652800"
+		"tested_build_id" "16710039"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
 	}
 	"metacritic_name" "Book of Hours"
 	"small_capsule"
@@ -163,8 +208,8 @@
 		"9" "9"
 		"10" "8945"
 		"11" "3871"
-		"12" "3987"
-		"13" "1702"
+		"12" "1702"
+		"13" "3987"
 		"14" "17305"
 		"15" "1654"
 		"16" "6426"
@@ -175,7 +220,7 @@
 	"review_score" "8"
 	"review_percentage" "84"
 	"review_score_bombs" "8"
-	"review_percentage_bombs" "91"
+	"review_percentage_bombs" "90"
 }
 "extended"
 {
@@ -244,42 +289,15 @@
 		{
 			"public"
 			{
-				"gid" "2083617843236022925"
-				"size" "2543483581"
-				"download" "958342448"
+				"gid" "4349756323262628043"
+				"size" "2543483749"
+				"download" "958345712"
 			}
 			"beta"
 			{
-				"gid" "2083617843236022925"
-				"size" "2543483581"
-				"download" "958342448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"prototype"
-			{
-				"gid" "A0B515C63FAB2C3CE780A7B44D9FA3A7"
-				"size" "9DEA9AB62B859729BDEFE4AE6534E840"
-				"download" "04D75B8185EDA4CA0C7AE6A0260FDF79"
-			}
-			"unity_alternate"
-			{
-				"gid" "F1FDED0CB7E8F6D21B13C6331F0768C2"
-				"size" "412875E6E305E4825DF9FC5B37A14DB5"
-				"download" "E0F7303841387C724584135C7E27971B"
-			}
-			"lodge"
-			{
-				"gid" "5DF7A2334BF0341E109FC1159824E307"
-				"size" "FA72DD951A53CCFF7BE66A37F6A83E7C"
-				"download" "32901EAAE8295ADFDF15489FC929D480"
-			}
-			"steam_deck"
-			{
-				"gid" "65FDB2BA8E4C918DC346EC3FE83D7B8E"
-				"size" "ABEDE7588809F5B4DA090166F19B7C0C"
-				"download" "57752D59E612193A2E2B533D958FE7E5"
+				"gid" "4207974242146057987"
+				"size" "2543180615"
+				"download" "958103728"
 			}
 		}
 	}
@@ -293,36 +311,15 @@
 		{
 			"public"
 			{
-				"gid" "3034153592351048333"
-				"size" "2576874517"
-				"download" "967679568"
+				"gid" "6672718996701676214"
+				"size" "2576874685"
+				"download" "967682816"
 			}
 			"beta"
 			{
-				"gid" "3034153592351048333"
-				"size" "2576874517"
-				"download" "967679568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"unity_alternate"
-			{
-				"gid" "602291CE374CE32A29804402858F9B1F"
-				"size" "B1E39411959CD0111B7900B82E8452BD"
-				"download" "F8224E6C8518390F5D54FB148DB5C663"
-			}
-			"lodge"
-			{
-				"gid" "C9B91C05CA622AE8D7C393E8D85D1EFE"
-				"size" "19E2E1A73A97993C0793CDD41E2B088D"
-				"download" "F604A9A2E5A3F732CF51C0D436CBDE27"
-			}
-			"steam_deck"
-			{
-				"gid" "A9A03D4D6F9BD4FA4C9704342AFD131B"
-				"size" "35B1D81D0A59ADB7574F4D2115C29D11"
-				"download" "EFC57C600407C3C3A410CD8582CCBF36"
+				"gid" "4900237503485291616"
+				"size" "2577779042"
+				"download" "967645984"
 			}
 		}
 	}
@@ -336,36 +333,15 @@
 		{
 			"public"
 			{
-				"gid" "9220659813292961211"
-				"size" "2553809910"
-				"download" "952834752"
+				"gid" "932486851900911801"
+				"size" "2553810078"
+				"download" "952838016"
 			}
 			"beta"
 			{
-				"gid" "9220659813292961211"
-				"size" "2553809910"
-				"download" "952834752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"unity_alternate"
-			{
-				"gid" "075F6B9BA22239AA862EF8748AE580F6"
-				"size" "A9C5BFB51E251D2950F4B441A41E839E"
-				"download" "4C1A36DB2EEAB7AEA2A36674812EEFFD"
-			}
-			"lodge"
-			{
-				"gid" "F230E0B39E581A717D0967FA0BE84BF2"
-				"size" "F26F75B33845C82E2868DDCDA124046F"
-				"download" "B318B593C0E304B63683D7F5449D1A07"
-			}
-			"steam_deck"
-			{
-				"gid" "22740DCCDA3571F022056D8D44B6A736"
-				"size" "54B5CB7E66013329091DB7152673F7E8"
-				"download" "D6D1EB5D62122334630319B8D7B0AC7C"
+				"gid" "7063431364036897324"
+				"size" "2553511103"
+				"download" "952584592"
 			}
 		}
 	}
@@ -373,40 +349,17 @@
 	{
 		"public"
 		{
-			"buildid" "16599594"
-			"timeupdated" "1733296236"
-		}
-		"prototype"
-		{
-			"buildid" "9395985"
-			"pwdrequired" "1"
-			"timeupdated" "1667570207"
-		}
-		"unity_alternate"
-		{
-			"buildid" "12181111"
-			"pwdrequired" "1"
-			"timeupdated" "1696932897"
+			"buildid" "16919460"
+			"timeupdated" "1736265804"
 		}
 		"beta"
 		{
-			"buildid" "16599594"
+			"buildid" "16927572"
 			"description" "should be stable, might sometimes not be"
-			"timeupdated" "1733136943"
-		}
-		"lodge"
-		{
-			"buildid" "16599594"
-			"pwdrequired" "1"
-			"timeupdated" "1733136769"
-		}
-		"steam_deck"
-		{
-			"buildid" "16581647"
-			"pwdrequired" "1"
-			"timeupdated" "1732899086"
+			"timeupdated" "1736266913"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -467,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26483475"
-"_sha" "6f60f1bcf1035b327c6a08dde3df13fc04bb52d8"
-"_size" "8747"
+"_change_number" "26900824"
+"_sha" "4588890cff6eb6f3593373196988af84dd623ae2"
+"_size" "7649"
