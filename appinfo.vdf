@@ -367,39 +367,6 @@
 				"download" "16051817296"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "DF4D247DFD2DA0CDFB482A5DF901EA27"
-				"size" "037B6006EE3EAD534ABBBF62F427AA29"
-				"download" "C9AA9F53EA530D496C8DE28F143D74EC"
-			}
-			"development"
-			{
-				"gid" "848FD5EB78861FF04C93FA2821922C3C"
-				"size" "365D52B8E1D1443762F9EEB1ADF778E8"
-				"download" "256596887AE144D0B87976DB2C5692A5"
-			}
-			"experimental"
-			{
-				"gid" "1CC9C218115660D8464C91438C326BBB"
-				"size" "70B088F6463186215DFD0AC15975D1EE"
-				"download" "5DCAADBE97D7AA97B18C1B9D95DA4D6E"
-			}
-			"gamescon"
-			{
-				"gid" "9F2BD567F40B3C35D40C8139B05D0444"
-				"size" "D66D18A6C17553C1F31D6728C0432897"
-				"download" "4948741225D0747461D02D1B86644194"
-			}
-			"localization"
-			{
-				"gid" "A5EF1E1B27530B4D702FF24D90E239C0"
-				"size" "378846074B092FE5A6EEE4A9A5F250A6"
-				"download" "A8FE64A15C6DD314378AAE5344D3D1BB"
-			}
-		}
 	}
 	"1492072"
 	{
@@ -424,39 +391,6 @@
 				"download" "306609632"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "67D3AAF9708DECDC17A3562CA5B00A09"
-				"size" "8933385925906AB604B406E8ECF06278"
-				"download" "359BEADA155402A55EC49DD93B1E29CA"
-			}
-			"development"
-			{
-				"gid" "20F30EFB8558BA67CA9B50E58F9DD805"
-				"size" "5006B1486F244C4666EB340A9BD52E15"
-				"download" "F9FAA2BD4CF73EFEEEEFDE5CEC7A5D78"
-			}
-			"experimental"
-			{
-				"gid" "5B9A1AE7589B0C59F4298D05DB65E590"
-				"size" "17AE04375978E32B914228D0DEDB5B0E"
-				"download" "F19C01308FA3E2E8875F57DAF8C64D06"
-			}
-			"gamescon"
-			{
-				"gid" "A9E27628A463345AC16226CD22F3F383"
-				"size" "60B3688BB35BA303ED5E4ED7CBC34803"
-				"download" "CB57FE71CAC2026F5F4293FEA64EBF65"
-			}
-			"localization"
-			{
-				"gid" "50B33BB5C115B155B443B43AFE95E22F"
-				"size" "4291485341E02842AF71197617E4C65F"
-				"download" "16CA6E8562ECA20D7E57F93F133874B1"
-			}
-		}
 	}
 	"branches"
 	{
@@ -465,36 +399,6 @@
 			"buildid" "16643959"
 			"timeupdated" "1733740372"
 		}
-		"demo"
-		{
-			"buildid" "16123069"
-			"pwdrequired" "1"
-			"timeupdated" "1733740456"
-		}
-		"development"
-		{
-			"buildid" "16645266"
-			"pwdrequired" "1"
-			"timeupdated" "1733412490"
-		}
-		"experimental"
-		{
-			"buildid" "16643959"
-			"pwdrequired" "1"
-			"timeupdated" "1733740418"
-		}
-		"gamescon"
-		{
-			"buildid" "16643959"
-			"pwdrequired" "1"
-			"timeupdated" "1733740438"
-		}
-		"localization"
-		{
-			"buildid" "16643959"
-			"pwdrequired" "1"
-			"timeupdated" "1733740476"
-		}
 		"publictest"
 		{
 			"buildid" "16643959"
@@ -502,6 +406,7 @@
 			"timeupdated" "1733740429"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -509,6 +414,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26555596"
-"_sha" "c7cd66f86ad5ec653c187148b667c7a3157e384a"
-"_size" "9716"
+"_change_number" "26901985"
+"_sha" "2172d3fe5f044fb57fd522f98c00c8bbc2facb52"
+"_size" "7387"
