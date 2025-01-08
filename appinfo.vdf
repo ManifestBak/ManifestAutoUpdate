@@ -249,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "8160120156848169816"
-				"size" "5790871463"
-				"download" "5562116480"
+				"gid" "3002786923119991479"
+				"size" "5809868368"
+				"download" "5580549648"
 			}
 			"levelmoddingbranch"
 			{
@@ -266,41 +266,14 @@
 				"download" "3888865936"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"durham"
-			{
-				"gid" "0FEBD09F88BE4011629856AC937D7F1E"
-				"size" "6AD16166F6A7C07D96B23B97A494EA86"
-				"download" "E4519692F8CA63FA79F4527A52F1CDBE"
-			}
-			"bakonguy_testing"
-			{
-				"gid" "B1DFEC059CCAA2C94B112EBBACC41E29"
-				"size" "C82823104E243B843CFEDF275E274D11"
-				"download" "B8D8066816D872115DD2BD216D76DFE8"
-			}
-			"developerbranch"
-			{
-				"gid" "55DFBD4E167B33875DE17AD2ECFB35C9"
-				"size" "13EADAA22DD2EABDE449E83D6CAE830E"
-				"download" "F976AE7565AB087F659ABF3F29A2E9B7"
-			}
-		}
 	}
 	"workshopdepot" "1222300"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16826418"
-			"timeupdated" "1734826587"
-		}
-		"durham"
-		{
-			"buildid" "13309472"
-			"pwdrequired" "1"
-			"timeupdated" "1706594058"
+			"buildid" "16895600"
+			"timeupdated" "1735864492"
 		}
 		"levelmoddingbranch"
 		{
@@ -314,19 +287,8 @@
 			"description" "2020 Build"
 			"timeupdated" "1675070251"
 		}
-		"bakonguy_testing"
-		{
-			"buildid" "9958139"
-			"pwdrequired" "1"
-			"timeupdated" "1668682854"
-		}
-		"developerbranch"
-		{
-			"buildid" "16826418"
-			"pwdrequired" "1"
-			"timeupdated" "1734826639"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -334,6 +296,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26749888"
-"_sha" "ff8a81d5e613f189122c5c2ffa47fa3b6433597f"
-"_size" "5682"
+"_change_number" "26901419"
+"_sha" "51014b860138b4677ba95b24b189a726739ccb8d"
+"_size" "4811"
