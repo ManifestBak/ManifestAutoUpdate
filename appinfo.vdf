@@ -274,15 +274,6 @@
 				"download" "211994304"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"old-multiplayer-prototype"
-			{
-				"gid" "07808E617BE4A6B991652E2A9EA67DC4"
-				"size" "69A6F19DC5CDBC4E4C57C04CC22B296C"
-				"download" "4E88F7AC093FC3D2127B55D596085512"
-			}
-		}
 	}
 	"1028352"
 	{
@@ -306,15 +297,6 @@
 				"download" "213294064"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"old-multiplayer-prototype"
-			{
-				"gid" "C2A46FDDAEB5E08E1A9DE9200F3430FD"
-				"size" "8BCEB8479373E91CF69151BE3F7CE183"
-				"download" "25DA93477F85DA05B00375C9D0AE7BEC"
-			}
-		}
 	}
 	"branches"
 	{
@@ -329,15 +311,10 @@
 			"description" "currently in-dev. May have bugs or issues"
 			"timeupdated" "1645515753"
 		}
-		"old-multiplayer-prototype"
-		{
-			"buildid" "8482679"
-			"pwdrequired" "1"
-			"timeupdated" "1648833159"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25284768"
-"_sha" "c06b27a12b5bf424f2676f4351b5c07b421ccdda"
-"_size" "5980"
+"_change_number" "26900824"
+"_sha" "ab55038d9b55e3650be7a86a523195106db5549d"
+"_size" "5434"
