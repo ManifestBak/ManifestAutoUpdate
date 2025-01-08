@@ -176,6 +176,7 @@
 		"category_25" "1"
 		"category_55" "1"
 		"category_56" "1"
+		"category_43" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -343,9 +344,9 @@
 			}
 			"experimental"
 			{
-				"gid" "8967528615675029308"
-				"size" "1514386520"
-				"download" "789024176"
+				"gid" "3369293660064947621"
+				"size" "1514526856"
+				"download" "789066528"
 			}
 		}
 		"encryptedmanifests"
@@ -398,9 +399,9 @@
 			}
 			"experimental"
 			{
-				"gid" "3783325597016561259"
-				"size" "1524447408"
-				"download" "791593712"
+				"gid" "490976135008590259"
+				"size" "1524587744"
+				"download" "791613504"
 			}
 		}
 		"encryptedmanifests"
@@ -453,9 +454,9 @@
 			}
 			"experimental"
 			{
-				"gid" "8310976481707087893"
-				"size" "1572881721"
-				"download" "802090368"
+				"gid" "5370830474873861809"
+				"size" "1573022059"
+				"download" "802110160"
 			}
 		}
 		"encryptedmanifests"
@@ -528,9 +529,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "16680889"
+			"buildid" "16905480"
 			"description" "bleeding edge - latest features"
-			"timeupdated" "1733751035"
+			"timeupdated" "1735983366"
 		}
 	}
 }
@@ -568,6 +569,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26629135"
-"_sha" "6db7a6a224a03b4a7336ca6a94af7f95b1c70bdf"
-"_size" "10733"
+"_change_number" "26904576"
+"_sha" "c77b751202dcf6e4c9029b12c5d6faeee1e73175"
+"_size" "10754"
