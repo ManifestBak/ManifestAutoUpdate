@@ -242,9 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "527468899580599463"
-				"size" "404631637"
-				"download" "174006480"
+				"gid" "2925267171539885571"
+				"size" "404830450"
+				"download" "174023776"
 			}
 			"oldversion"
 			{
@@ -261,17 +261,11 @@
 				"size" "2A788B25328950C8F46DC2DDCFFBB2EB"
 				"download" "C34C1461BA9042D3ED56B95B43DE5859"
 			}
-			"experimental-multiplayer"
-			{
-				"gid" "8288D4307C265B7A1650032435DB2EF8"
-				"size" "05977001564F92830C02268552879EC5"
-				"download" "0F6F61525D8F09F0B0E74DBD7F2DCBB4"
-			}
 			"verified-testers"
 			{
-				"gid" "9CC0F4E8BEC140D738EC20EA2A8E5CB5"
-				"size" "99501047347DD13099D8C61E4F2B7708"
-				"download" "278D912AD9855FA950C46853226D826A"
+				"gid" "EAA0015226DC159556526C2366AC149C"
+				"size" "EDD70E1DCBF95DC9728BA89C7015AAA0"
+				"download" "3704AB90BAF268DFBE97F0266E7DA99D"
 			}
 		}
 	}
@@ -279,8 +273,8 @@
 	{
 		"public"
 		{
-			"buildid" "16684533"
-			"timeupdated" "1733774518"
+			"buildid" "16905974"
+			"timeupdated" "1735993648"
 		}
 		"develop"
 		{
@@ -294,17 +288,11 @@
 			"description" "ea0.1.2.2 (the pre openxr update) version"
 			"timeupdated" "1674861409"
 		}
-		"experimental-multiplayer"
-		{
-			"buildid" "16141344"
-			"pwdrequired" "1"
-			"timeupdated" "1729626650"
-		}
 		"verified-testers"
 		{
-			"buildid" "16684533"
+			"buildid" "16905974"
 			"pwdrequired" "1"
-			"timeupdated" "1733774458"
+			"timeupdated" "1735993625"
 		}
 	}
 }
@@ -323,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26655262"
-"_sha" "02399c8e069ce0c84febd9ed14c19700eb6c66c5"
-"_size" "5906"
+"_change_number" "26860875"
+"_sha" "eecc64a75045b36f23f57f52a70cf7c485154bce"
+"_size" "5596"
