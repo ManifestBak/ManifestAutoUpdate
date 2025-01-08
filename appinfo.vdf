@@ -340,6 +340,14 @@
 	}
 	"steamcontrollertemplateindex" "3"
 	"steamdecktouchscreen" "1"
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_scout"
+		}
+	}
 }
 "depots"
 {
@@ -423,27 +431,27 @@
 		{
 			"analytics"
 			{
-				"gid" "CC4CA8EDBC062CCF75D44D0846C22086"
-				"size" "DB2E7B9145A7965BB31036AD7BD8BE31"
-				"download" "75B58EA1E3DE719525BEB58F892B9A10"
+				"gid" "7964B0D5D31B3A86441DCE13350E94EC"
+				"size" "3721D1173D9C38076446479AAC36FAC2"
+				"download" "85E1E91EA5BEFC4364C36A1CCC5B5410"
 			}
 			"branchtest"
 			{
-				"gid" "FF1B74D0473FD67F6FBBB24F424D98A6"
-				"size" "D4792EEFDC8F423BB58CC740BDA3C77D"
-				"download" "93E6AD80D6EE99796086BE0105067BCD"
+				"gid" "99986B15C698500A8603AF9D719D6A5D"
+				"size" "1EC0A9F2D2F134668ABFB692FF50935B"
+				"download" "8BFA70D6AB0B0E0327CE838908B1F7E1"
 			}
 			"branchtest2"
 			{
-				"gid" "16D4187E13D6EB0510F86A51D2053CD6"
-				"size" "2D1733CCF1B1BF5CAEA1B4815DD95811"
-				"download" "C193B20159BC22374A847CE0675FD02E"
+				"gid" "6BC417C418E71395AC0C81024C14B6A3"
+				"size" "47130F6827A2889989028CFB690CDFEF"
+				"download" "2D96098DC78A6AAD568FB45572AE21B9"
 			}
 			"branchtest3"
 			{
-				"gid" "5C798F8DDA585CEB928EE98F9F960509"
-				"size" "E118F24A2337861B24793B8CA99E1437"
-				"download" "F9F40BEDC97757BC1C21815CCA0D285B"
+				"gid" "9E876D9A3CB21526915F5D511D0C977D"
+				"size" "4B6593D54D287DA6B356349F238ABF84"
+				"download" "DF20B845C9835201AC656E22F5C3AC22"
 			}
 			"closedtest"
 			{
@@ -453,9 +461,9 @@
 			}
 			"debug"
 			{
-				"gid" "2A776CD2D9E17C1A81ACF30F75F9A17B"
-				"size" "127F29EC6CC27A8EC5F1C54D2E9B1805"
-				"download" "0BE9F3842DD88187292D3F47EE152138"
+				"gid" "DB64875FD08BB0D69CC2C03547DB43CF"
+				"size" "1E52E046EF8D0534EC36369112ED9AC7"
+				"download" "54130563BA6FB10302575D2C0172CB29"
 			}
 			"development"
 			{
@@ -465,9 +473,9 @@
 			}
 			"internal"
 			{
-				"gid" "F9C4768C684602F7100413092AEC5EB6"
-				"size" "A4697DD0E2CBB47A745B3BAF3056EAC8"
-				"download" "6CC6085FB2F431C26DBC702FC6F95731"
+				"gid" "B5D9730A00C0DC05CBE4E4A859BA5015"
+				"size" "46F726AD3A25C115986F0720CCE0C22B"
+				"download" "EC04AFBCE733644A071D7AC0B69B2406"
 			}
 			"prerelease"
 			{
@@ -477,9 +485,9 @@
 			}
 			"temp"
 			{
-				"gid" "99569A4A9FD54FCF28461F834496F230"
-				"size" "EC21E4546D57C4C693F465960C8E0D15"
-				"download" "1100A0ABCFA182414B3031B80CB3DA7E"
+				"gid" "11399A0B567DC69A838973DF79FE45B7"
+				"size" "48EC592A0BDACA8E358918B8B102D98D"
+				"download" "B45F67C72B8FBFE6D2A3AF2CF9228C36"
 			}
 			"temp2"
 			{
@@ -580,9 +588,9 @@
 		{
 			"analytics"
 			{
-				"gid" "647034C5AD9C764B9080F7A9AF7E0515"
-				"size" "0E594532FBC43917BD153148CCB61A7C"
-				"download" "9BB056CA752966B5AF7CDFADFF39F437"
+				"gid" "F09131951F733956DF3977AF36B38C94"
+				"size" "835FED2738E0E9B7C94C8301E49572FF"
+				"download" "DAA9E0EF211B2621D0823F8638546805"
 			}
 			"branchtest"
 			{
@@ -610,9 +618,9 @@
 			}
 			"debug"
 			{
-				"gid" "E6515480195D1172B56F7798AA9A2579"
-				"size" "4F0B261C48E16C971DD422B5040AC107"
-				"download" "9ADF13AB83A7E6C2702B4B1BFEDAFE0B"
+				"gid" "909030D879D9E861EFF78D1777D2B0B4"
+				"size" "54CAE17BC265CB3BE06460BBBB4B96DB"
+				"download" "D41F2E77867B66E1DE4ABFAB23A903C8"
 			}
 			"development"
 			{
@@ -675,9 +683,9 @@
 		}
 		"analytics"
 		{
-			"buildid" "16784933"
+			"buildid" "16900453"
 			"pwdrequired" "1"
-			"timeupdated" "1734515982"
+			"timeupdated" "1735918288"
 		}
 		"v1.32"
 		{
@@ -687,21 +695,21 @@
 		}
 		"branchtest"
 		{
-			"buildid" "16797921"
+			"buildid" "16928622"
 			"pwdrequired" "1"
-			"timeupdated" "1734598876"
+			"timeupdated" "1736257464"
 		}
 		"branchtest2"
 		{
-			"buildid" "16799498"
+			"buildid" "16940549"
 			"pwdrequired" "1"
-			"timeupdated" "1734606204"
+			"timeupdated" "1736346098"
 		}
 		"branchtest3"
 		{
-			"buildid" "16773862"
+			"buildid" "16941731"
 			"pwdrequired" "1"
-			"timeupdated" "1734443434"
+			"timeupdated" "1736354294"
 		}
 		"closedtest"
 		{
@@ -711,9 +719,9 @@
 		}
 		"debug"
 		{
-			"buildid" "16813939"
+			"buildid" "16937740"
 			"pwdrequired" "1"
-			"timeupdated" "1734697498"
+			"timeupdated" "1736327435"
 		}
 		"development"
 		{
@@ -723,9 +731,9 @@
 		}
 		"internal"
 		{
-			"buildid" "16834507"
+			"buildid" "16928377"
 			"pwdrequired" "1"
-			"timeupdated" "1734951105"
+			"timeupdated" "1736255778"
 		}
 		"prerelease"
 		{
@@ -741,9 +749,9 @@
 		}
 		"temp"
 		{
-			"buildid" "16801640"
+			"buildid" "16940961"
 			"pwdrequired" "1"
-			"timeupdated" "1734617093"
+			"timeupdated" "1736348929"
 		}
 		"temp2"
 		{
@@ -857,6 +865,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26761707"
-"_sha" "6c5bc0c529561f8adfc6925d1441646ceec9e13d"
-"_size" "16867"
+"_change_number" "26910746"
+"_sha" "fa8e5c887283473bfeb7902f6cd796e04aa27a42"
+"_size" "16971"
