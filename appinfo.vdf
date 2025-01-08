@@ -98,7 +98,49 @@
 			"height_pct" "80.18836187410398"
 		}
 	}
-	"store_asset_mtime" "1700822106"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.858026406645678"
+				"height_pct" "80.18836187410398"
+			}
+		}
+	}
+	"store_asset_mtime" "1719408390"
 	"associations"
 	{
 		"0"
@@ -142,6 +184,7 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -199,8 +242,8 @@
 	"gameid" "360830"
 	"store_tags"
 	{
-		"0" "5652"
-		"1" "5395"
+		"0" "5395"
+		"1" "5652"
 		"2" "21"
 		"3" "5153"
 		"4" "492"
@@ -283,8 +326,16 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese"
 	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
 	{
 		"config"
 		{
@@ -302,6 +353,7 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese"
 	"360831"
 	{
 		"manifests"
@@ -381,12 +433,6 @@
 				"size" "40BF314E18955E6172A5F14D9A83AE59"
 				"download" "40BF314E18955E6172A5F14D9A83AE59"
 			}
-			"release_candidate"
-			{
-				"gid" "8AA9140A966B0CC63B974CA1A3DA20A1"
-				"size" "43F648066B9BA5E28F8BAB4ED09775D3"
-				"download" "43F648066B9BA5E28F8BAB4ED09775D3"
-			}
 			"retestee"
 			{
 				"gid" "89329E1CCD10B7D067F119332EE96055"
@@ -422,6 +468,12 @@
 				"gid" "FBCEE6D5EA30C3ADFF6381F84ABD2032"
 				"size" "38E1686386834B9F8D0378499AB1FBA0"
 				"download" "38E1686386834B9F8D0378499AB1FBA0"
+			}
+			"release_candidate"
+			{
+				"gid" "8AA9140A966B0CC63B974CA1A3DA20A1"
+				"size" "43F648066B9BA5E28F8BAB4ED09775D3"
+				"download" "43F648066B9BA5E28F8BAB4ED09775D3"
 			}
 		}
 	}
@@ -509,12 +561,6 @@
 				"size" "2071CE18B9D40E0E4C9579D1ABECD045"
 				"download" "54141FB4EE32CF1DCDA03BC490798058"
 			}
-			"release_candidate"
-			{
-				"gid" "673FD2A985AE2489D210808447BE0F0C"
-				"size" "92B3B814EC61E40218BBAC4350868678"
-				"download" "0F5F473A7C129926E3730EC3AD1D83F3"
-			}
 			"retestee"
 			{
 				"gid" "02485A410EA7C18199C35F1A02F7851A"
@@ -550,6 +596,12 @@
 				"gid" "E8BC339AFFF517391A0D2B4DA4421AA2"
 				"size" "8C872BCB23556B00A5190DCC75ECA1ED"
 				"download" "717DFB937F2F243B61B530744370429F"
+			}
+			"release_candidate"
+			{
+				"gid" "698A4F559AFD3982AAF5016402BECE8F"
+				"size" "0643FA4979E6E31A69CD30B9BB06B24B"
+				"download" "FCAE3A070B9EA806B5FDAD65842C4D6D"
 			}
 		}
 	}
@@ -636,12 +688,6 @@
 				"size" "5C8669357872364CD34A4A3EE12ADF8B"
 				"download" "6D98BA49D6E17AC32CA5DA507827F418"
 			}
-			"release_candidate"
-			{
-				"gid" "55FF6ADCD587D43191B9B232D62C5C4E"
-				"size" "63A62A2F1F540A0A885D3F17CFCF7F36"
-				"download" "E37EF583CE587E7C7E5AAF6FB552A486"
-			}
 			"retestee"
 			{
 				"gid" "EC7813CE1427E35EAFBAD09AAF05A4A3"
@@ -677,6 +723,12 @@
 				"gid" "23ED6BDD9EC99F3C85EB15B4A91E115D"
 				"size" "38E1686386834B9F8D0378499AB1FBA0"
 				"download" "38E1686386834B9F8D0378499AB1FBA0"
+			}
+			"release_candidate"
+			{
+				"gid" "A2682D27F3D645628EF3CEC5A73FC577"
+				"size" "2F9D57A4CEA8F1A3C352189613946CA3"
+				"download" "1BDF97160983998262C06E9671B41765"
 			}
 		}
 	}
@@ -763,12 +815,6 @@
 				"size" "03EFA47B03F443971B173BC5A0584FA4"
 				"download" "F07C7F7025C3683706C3205D9C5626B3"
 			}
-			"release_candidate"
-			{
-				"gid" "23D52FAC627427069DF6B07A82E1D162"
-				"size" "50741A63ACDC4FBE4B0F11284EA1E570"
-				"download" "267A240EAB93E203270DA0AE5215420C"
-			}
 			"retestee"
 			{
 				"gid" "5C82959792FBE306B04FBBABB71AE94D"
@@ -805,81 +851,11 @@
 				"size" "38E1686386834B9F8D0378499AB1FBA0"
 				"download" "38E1686386834B9F8D0378499AB1FBA0"
 			}
-		}
-	}
-	"564250"
-	{
-		"dlcappid" "564250"
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "8836779670945142052"
-				"size" "152052519"
-				"download" "151383728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"build"
-			{
-				"gid" "9B42C67D23959C613DF9A69EDFA41A21"
-				"size" "4CA91704A7A46AB34BFA2AF4E67366A1"
-				"download" "063194E36C0A0900024F11CC787800C8"
-			}
-			"patch_release_64bit_character_hotfix"
-			{
-				"gid" "6C318080B7F0F8C6774FE698B108B8F0"
-				"size" "690F3D86106F4CEBC71ACD824B2EC366"
-				"download" "1964F0B8C4ED89751F6BFD84A10579D7"
-			}
-			"patch_release_64bit_tonic"
-			{
-				"gid" "868A2D32885A855CE25790197A2C4786"
-				"size" "7D1F7D7FA3D8D27FFCB57DA50A36B4F6"
-				"download" "8E377AA96C4A06BA9E0419BD9C5B5CBD"
-			}
-			"patch_release_august_2017"
-			{
-				"gid" "6E743D1F194CCA73A841853F691F19EE"
-				"size" "FDB5561D9DBD39EF51D486D48DE84BAC"
-				"download" "C1A58DC2DD12AF56525FA7F773EDEE2C"
-			}
-			"patch_release_january_2018"
-			{
-				"gid" "26D5D62417858786F2CFC6C92423ED3E"
-				"size" "0FABB1309C2282DABE6A3440DCD13E2E"
-				"download" "CE1ADE513028086D1372599278641BD9"
-			}
-			"patch_release_june_2017"
-			{
-				"gid" "B34E98A824F1014A35A550E0BA2E4FF1"
-				"size" "3BF82D4BF7AB3F5982F09420D72B4080"
-				"download" "77E7B9116CBE83124581446DDEF898E7"
-			}
-			"release_april_2017"
-			{
-				"gid" "5AA56271222AA865414BC95D0C1CD8AE"
-				"size" "983E617ECC661DBCCCA2229430455A41"
-				"download" "5D772A7F9AAF95BED3323518651768A1"
-			}
 			"release_candidate"
 			{
-				"gid" "E7793A9CD9F293B329BBEFD32BCADC3B"
-				"size" "82E70C6A68CD6E2A2CE19F3C666CE9C2"
-				"download" "71B38DF53CA6BF81C9C036502FB82272"
-			}
-			"retestee"
-			{
-				"gid" "FE656EB391B1DE7410B2328AD954F635"
-				"size" "9471CA5DB8B40E53962B388C4042FA57"
-				"download" "FC1365CFE4C05C84C8ADF2EBF010E411"
-			}
-			"vip_camera_test"
-			{
-				"gid" "58AE92876AD18627C5034984C2F17E8C"
-				"size" "6A95A040E9521AD42B1B60D6EAD6208D"
-				"download" "512C60A9A05B4F373DAED0C61E98CF3D"
+				"gid" "F93B505154D922F9F8194EEDF7234883"
+				"size" "7FB39009A93AA6A7B6E05A8A7DA6F9DD"
+				"download" "A2CCFDB1C37394DB869E8900EA9EDFD0"
 			}
 		}
 	}
@@ -939,12 +915,6 @@
 				"size" "9E7161B2008814C1D342AFBB78EB6864"
 				"download" "376D024623C36EA000029DB2EEDB622D"
 			}
-			"release_candidate"
-			{
-				"gid" "54FA3684DE26CD86404B76022E6F0A60"
-				"size" "D7DE0A0AFDD8174A4B2F58462E739037"
-				"download" "F9A36C0AE6D5CF9007546B67B447467F"
-			}
 			"retestee"
 			{
 				"gid" "C7B11AAE576503DE5A878F4B02A01B6C"
@@ -956,6 +926,12 @@
 				"gid" "17EA963C45E8120ABADBA2CE782989D2"
 				"size" "15F5B160429A488D17434F756F291018"
 				"download" "F62A36E5794A4CEE349A4A27EC6C8C83"
+			}
+			"release_candidate"
+			{
+				"gid" "54FA3684DE26CD86404B76022E6F0A60"
+				"size" "D7DE0A0AFDD8174A4B2F58462E739037"
+				"download" "F9A36C0AE6D5CF9007546B67B447467F"
 			}
 		}
 	}
@@ -1032,12 +1008,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1499257486"
 		}
-		"release_candidate"
-		{
-			"buildid" "1751526"
-			"pwdrequired" "1"
-			"timeupdated" "1491987617"
-		}
 		"retestee"
 		{
 			"buildid" "13083609"
@@ -1074,6 +1044,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1488322938"
 		}
+		"release_candidate"
+		{
+			"buildid" "14174820"
+			"pwdrequired" "1"
+			"timeupdated" "1714059459"
+		}
 	}
 }
 "ufs"
@@ -1082,6 +1058,6 @@
 	"maxnumfiles" "5"
 }
 "_missing_token" "False"
-"_change_number" "21744151"
-"_sha" "dda5664e5bfeea71ebbb578e5dec9cafa818f3c1"
-"_size" "26121"
+"_change_number" "26659090"
+"_sha" "8224494755f6cba731776e7bb2214cb29232a26d"
+"_size" "24821"
