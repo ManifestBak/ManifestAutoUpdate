@@ -15,6 +15,7 @@
 		"english" "1"
 		"russian" "1"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Office Battle"
 	"small_capsule"
 	{
@@ -24,6 +25,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_58764b077d7e217a91de502e5686a7d367d22d1c.jpg"
 	"store_asset_mtime" "1448974646"
 	"associations"
 	{
@@ -53,6 +55,7 @@
 		"category_17" "1"
 		"category_25" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -216,6 +219,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "18987327"
-"_sha" "c766b9d21318ac66aee71ee11196ce4f0011ce41"
-"_size" "3682"
+"_change_number" "26253459"
+"_sha" "192e40629cc9e61ecaa87bd1e87719a244ac6867"
+"_size" "3807"
