@@ -297,21 +297,6 @@
 				"download" "692736544"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "0074FA9F6AA96D0FFCD195E4A0E8B812"
-				"size" "320CB15178CDDE8F25828568EBF62640"
-				"download" "52F3FF3EC093711F45F8CAFFA69ECD6A"
-			}
-			"internal"
-			{
-				"gid" "295284F808DC53F6EE253E9B837891CF"
-				"size" "17AD107CC2B77BD541AEE1529E83AFCE"
-				"download" "C0909F47C3CDF1A0D5EEE132B4726863"
-			}
-		}
 	}
 	"1140272"
 	{
@@ -327,21 +312,6 @@
 				"gid" "5928849702154749159"
 				"size" "1006402834"
 				"download" "693498384"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "DD246D44F93FD5039B06F718E42CACCF"
-				"size" "10F04712FD65541DDB70B2CC0CA1E47B"
-				"download" "F351A493173567EEB046173BEEEE0C2D"
-			}
-			"internal"
-			{
-				"gid" "D3BDA22B969ADDB598C8695D0C639CA6"
-				"size" "2F18A6EAE5ADDD5FC3A8CD4F630C4D25"
-				"download" "F47F3FDC99F631D2FC70FE3F97F8E207"
 			}
 		}
 	}
@@ -361,21 +331,6 @@
 				"download" "688477872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "63EFC8D9ADD7102E3C70A6D571AF03CD"
-				"size" "C21B9349D7D753679E92D4EA9ED11BD0"
-				"download" "963447AA77EB4450767A2DB02A76E4C3"
-			}
-			"internal"
-			{
-				"gid" "EC73EECAA431D4CFB142088993C47EF2"
-				"size" "4BE574ADCF8566044AFD4B95FE161838"
-				"download" "40ACF276E1D75622DB67250500BC4437"
-			}
-		}
 	}
 	"baselanguages" "english"
 	"workshopdepot" "1140270"
@@ -386,19 +341,8 @@
 			"buildid" "15917254"
 			"timeupdated" "1727965583"
 		}
-		"devs"
-		{
-			"buildid" "12930056"
-			"pwdrequired" "1"
-			"timeupdated" "1702304140"
-		}
-		"internal"
-		{
-			"buildid" "15059598"
-			"pwdrequired" "1"
-			"timeupdated" "1721205747"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -414,3 +358,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26904787"
+"_sha" "9691a5a133f1f847d064d6685089d4a144460eb5"
+"_size" "6487"
