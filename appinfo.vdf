@@ -12,6 +12,7 @@
 	"logo" "6c67663f001f6dd0f515e5145baabf37bb075caf"
 	"logo_small" "6c67663f001f6dd0f515e5145baabf37bb075caf_thumb"
 	"clienticns" "18419d5e4339581351cbf1991a0b01f42782c770"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -69,6 +70,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_d3ee767d674629de361be290d9ba323f7b462199.jpg"
 	"store_asset_mtime" "1429831563"
 	"associations"
 	{
@@ -230,3 +232,7 @@
 	"maxnumfiles" "0"
 	"appidredirect" "365400"
 }
+"_missing_token" "False"
+"_change_number" "26894786"
+"_sha" "7239cecdb595bd832414cf8b27b60687ad46c3f1"
+"_size" "4451"
