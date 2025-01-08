@@ -279,24 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "5137520597340498928"
-				"size" "120815958719"
-				"download" "98776387760"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"sgrtest"
-			{
-				"gid" "596AED27A0D23F8EF2C6432CC4F34964"
-				"size" "F5E5099EB86574EFAF7E820BCDEE0064"
-				"download" "554B1867B0772BCF236296DFB6201CF4"
-			}
-			"test"
-			{
-				"gid" "7E35E016B8EF2955E426E08D9B692F2F"
-				"size" "C5A81B482FD3288EB9ECD06BD2B52EF4"
-				"download" "8AD209525519AC55A6DE1B609D597773"
+				"gid" "8369233963909159549"
+				"size" "120816033591"
+				"download" "98776446592"
 			}
 		}
 	}
@@ -312,44 +297,18 @@
 				"download" "7627090000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"sgrtest"
-			{
-				"gid" "6FC09D54D0DDA7121D32081429054DB0"
-				"size" "5AEEAFD39C887C1282B2EFE7F00F307A"
-				"download" "858F03114C005ABD20F5197BF5F7E71F"
-			}
-			"test"
-			{
-				"gid" "8428A30B0179B03105A47BFF1AC20386"
-				"size" "512F691CB757602C05C3F0FCC7B3CE16"
-				"download" "533C8BCF8104C5F06BBC9BF9C52648D6"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16880407"
-			"timeupdated" "1735633763"
-		}
-		"sgrtest"
-		{
-			"buildid" "10491878"
-			"pwdrequired" "1"
-			"timeupdated" "1677002774"
-		}
-		"test"
-		{
-			"buildid" "16877860"
-			"pwdrequired" "1"
-			"timeupdated" "1735597729"
+			"buildid" "16937428"
+			"timeupdated" "1736325455"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26824248"
-"_sha" "8c56756dab3b224e8d1124f62e7b458c6f962671"
-"_size" "6654"
+"_change_number" "26904833"
+"_sha" "d037b0be9436173e3e4e5b7270df98ce93ff2771"
+"_size" "5720"
