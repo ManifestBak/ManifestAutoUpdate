@@ -149,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721634235"
+	"store_asset_mtime" "1726973977"
 	"associations"
 	{
 		"0"
@@ -257,7 +257,7 @@
 		"17" "5125"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -304,15 +304,6 @@
 				"download" "687830624"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"special"
-			{
-				"gid" "40DE0D347EE9345A66EDE33CD8661A19"
-				"size" "8975343D29A0E653E92C009000F0A47B"
-				"download" "680F51B8E4B7D104F8E42ABECEAA525E"
-			}
-		}
 	}
 	"2696322"
 	{
@@ -338,13 +329,8 @@
 			"buildid" "15234780"
 			"timeupdated" "1722569657"
 		}
-		"special"
-		{
-			"buildid" "15045593"
-			"pwdrequired" "1"
-			"timeupdated" "1721110157"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -385,3 +371,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26539239"
+"_sha" "5f37dfb722efcc79734390c8c8d00f7bdfe642a7"
+"_size" "6663"
