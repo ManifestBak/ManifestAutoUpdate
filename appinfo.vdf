@@ -29,6 +29,10 @@
 	"osarch" ""
 	"releasestate" "released"
 	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -103,6 +107,40 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1669725653"
 	"associations"
 	{
@@ -129,6 +167,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -176,16 +215,16 @@
 		"2" "1738"
 		"3" "1664"
 		"4" "5716"
-		"5" "10808"
-		"6" "1698"
-		"7" "1667"
-		"8" "5613"
+		"5" "1698"
+		"6" "10808"
+		"7" "5613"
+		"8" "1667"
 		"9" "9541"
 		"10" "4166"
 		"11" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -452,6 +491,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23071073"
-"_sha" "62f06da458b10aaa21392390442d8ace904b54e3"
-"_size" "8435"
+"_change_number" "26645241"
+"_sha" "48c80e65f967ac0cb32a9b74529804f3c6a27ae4"
+"_size" "8975"
