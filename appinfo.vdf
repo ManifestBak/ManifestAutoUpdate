@@ -288,8 +288,8 @@
 		"10" "21725"
 		"11" "4604"
 		"12" "1741"
-		"13" "122"
-		"14" "4325"
+		"13" "4325"
+		"14" "122"
 		"15" "9"
 		"16" "7332"
 		"17" "3835"
@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "16538751273156304"
-				"size" "5839909016"
-				"download" "1160320144"
+				"gid" "2173083905343027302"
+				"size" "5839909048"
+				"download" "1160325168"
 			}
 			"previous_version"
 			{
@@ -397,191 +397,20 @@
 				"download" "1112198256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"ambassadors"
-			{
-				"gid" "A2220C2F718ECF4BED110CB2EB9E5FA5"
-				"size" "2C0F942EB9586A51A967959ADC1C5833"
-				"download" "016397437AF5AB269BB9201F15052DF2"
-			}
-			"prologue"
-			{
-				"gid" "B0A47F0DACBA783A8C0C4DCE1BCC6ECA"
-				"size" "6268068FC988868D3C3EF2490E3B9DE1"
-				"download" "56A7E2CF43C10E0D3064FD70EB7A6A66"
-			}
-			"qa_beta"
-			{
-				"gid" "D9A9D071D112D7070C99B67DD759772B"
-				"size" "6C71E4E6FA95BD14761BF4024E1C739C"
-				"download" "513BAD9D8AD450CDB4D9F6F2D55E1118"
-			}
-			"com_trailer"
-			{
-				"gid" "3E57E4F2BD6D9622DA0DF699ECE3A490"
-				"size" "6A820B088C0FE1DC60E0550D8FDF47A4"
-				"download" "EB052AB0C8CD97E25174C6478B156626"
-			}
-			"external_test"
-			{
-				"gid" "329F1A657202B054532762D48295F086"
-				"size" "492264B89CE5B39CB44252DEAB8AEA49"
-				"download" "51419B06D665BC01BD878164E7528EFE"
-			}
-			"internal_test"
-			{
-				"gid" "B752F644A405C52219993BFCE110D4E1"
-				"size" "C7FDD4CB6D6DA211BF18F5479AE13B57"
-				"download" "608D91DF043B1272A7DE048C75F33053"
-			}
-			"ishtar_test"
-			{
-				"gid" "5AF5142B439C1F42D69BDB30303CFBA7"
-				"size" "02C65A76A40A82186A9CE22B40AB1069"
-				"download" "2936CD37633F3EA87E971BCC008BDBBC"
-			}
-			"march_update_preview"
-			{
-				"gid" "53954F2C5220FF236C9B1D09B39DB924"
-				"size" "4C4B636151960085E481BA2693EE3980"
-				"download" "54CED685FD7D0BB311332C1E42317FD0"
-			}
-			"milestone_delivery"
-			{
-				"gid" "0353610230DAF39594D491A55509797B"
-				"size" "85DC4E6537C1E3E766C4765E7B07B393"
-				"download" "F437F003B2788A7FFFC5AD60BD604BF0"
-			}
-			"older"
-			{
-				"gid" "356A3E281B75BA03C24850C4FCBFCB27"
-				"size" "C3AD8DE0C2A5D46E25E4BA4E3A64C968"
-				"download" "7235ADDB0E8758BEB51921C156534180"
-			}
-			"patch1"
-			{
-				"gid" "80D34A94C089ACDE270F97BCAFF564B2"
-				"size" "9694B0ECA435C5EBE44AD53EAC5A9144"
-				"download" "1996DFA76ED123BBC9DC75AB743945EE"
-			}
-			"pressrelease"
-			{
-				"gid" "26A2D368A787E9A7F1C00875045A261C"
-				"size" "CE86C7B776FEB22CD53856225356C4BD"
-				"download" "EA3CE2D24737F201238F158CBA8FEDCA"
-			}
-			"qa_test"
-			{
-				"gid" "5E88EC06BC782E567A8FF5E6AFCD4173"
-				"size" "B251AF522050FCE5F976E62FB162DAF7"
-				"download" "0B3112EA83057669BC7EA484448CFDB8"
-			}
-			"release_candidate"
-			{
-				"gid" "94661AD313940AB9EB9AC90BA9510D27"
-				"size" "BDC0779188166B4F4161273B85700B21"
-				"download" "39E40AB7FBD266F4D74FCC91725186AA"
-			}
-		}
 	}
 	"workshopdepot" "1105670"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16705522"
-			"timeupdated" "1733925523"
-		}
-		"ambassadors"
-		{
-			"buildid" "7398006"
-			"pwdrequired" "1"
-			"timeupdated" "1632391356"
-		}
-		"prologue"
-		{
-			"buildid" "16553394"
-			"pwdrequired" "1"
-			"timeupdated" "1732718212"
-		}
-		"qa_beta"
-		{
-			"buildid" "16240102"
-			"pwdrequired" "1"
-			"timeupdated" "1730307361"
-		}
-		"com_trailer"
-		{
-			"buildid" "13654250"
-			"pwdrequired" "1"
-			"timeupdated" "1709712089"
-		}
-		"external_test"
-		{
-			"buildid" "15059490"
-			"pwdrequired" "1"
-			"timeupdated" "1721294021"
-		}
-		"internal_test"
-		{
-			"buildid" "16565209"
-			"pwdrequired" "1"
-			"timeupdated" "1732792704"
-		}
-		"ishtar_test"
-		{
-			"buildid" "16705522"
-			"pwdrequired" "1"
-			"timeupdated" "1733910551"
-		}
-		"march_update_preview"
-		{
-			"buildid" "8327551"
-			"pwdrequired" "1"
-			"timeupdated" "1646845388"
-		}
-		"milestone_delivery"
-		{
-			"buildid" "13935325"
-			"pwdrequired" "1"
-			"timeupdated" "1712145746"
-		}
-		"older"
-		{
-			"buildid" "14185207"
-			"pwdrequired" "1"
-			"timeupdated" "1717773942"
-		}
-		"patch1"
-		{
-			"buildid" "14347551"
-			"pwdrequired" "1"
-			"timeupdated" "1715593632"
-		}
-		"pressrelease"
-		{
-			"buildid" "14022240"
-			"pwdrequired" "1"
-			"timeupdated" "1712912337"
+			"buildid" "16930129"
+			"timeupdated" "1736344852"
 		}
 		"previous_version"
 		{
 			"buildid" "9968252"
 			"description" "To keep on playing the past update To keep on playing the past update Master of Omens (October 2022) - Keep on playing the previous update"
 			"timeupdated" "1678290465"
-		}
-		"qa_test"
-		{
-			"buildid" "8333332"
-			"pwdrequired" "1"
-			"timeupdated" "1646744016"
-		}
-		"release_candidate"
-		{
-			"buildid" "15059490"
-			"pwdrequired" "1"
-			"timeupdated" "1721294047"
 		}
 		"v0.92.2.3-we_can_be_heroes_update"
 		{
@@ -632,6 +461,7 @@
 			"timeupdated" "1712927148"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -653,6 +483,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26594041"
-"_sha" "1baf8416a7c86943e20c4e1e0bba6109b09f84d4"
-"_size" "13967"
+"_change_number" "26908769"
+"_sha" "7a363e90f3cb7cce0c18d549702e8d86c72f4f6e"
+"_size" "9963"
