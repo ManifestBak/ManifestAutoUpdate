@@ -26,6 +26,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Anime And Your Life"
 	"small_capsule"
 	{
@@ -47,6 +48,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "49.76662777129518"
 			"height_pct" "63.904060793160774"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.76662777129518"
+				"height_pct" "63.904060793160774"
+			}
 		}
 	}
 	"store_asset_mtime" "1599337759"
@@ -82,6 +117,7 @@
 		"category_2" "1"
 		"category_25" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -149,13 +185,13 @@
 		"11" "4182"
 		"12" "5923"
 		"13" "6971"
-		"14" "12057"
-		"15" "4711"
-		"16" "9130"
+		"14" "9130"
+		"15" "12057"
+		"16" "4711"
 		"17" "4364"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "61"
 }
 "extended"
 {
@@ -325,6 +361,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22734927"
-"_sha" "5e79a45085f231e1609b5d4f28a55693681cd88b"
-"_size" "5351"
+"_change_number" "26836224"
+"_sha" "d99c98616961f4cdf7155a6389aa5fadba67c1fc"
+"_size" "5909"
