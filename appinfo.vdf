@@ -25,6 +25,7 @@
 	"eulas"
 	{
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Niko: Through The Dream"
 	"controller_support" "partial"
 	"small_capsule"
@@ -39,6 +40,31 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
 	}
 	"store_asset_mtime" "1572633174"
 	"associations"
@@ -398,3 +424,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "cf528a9f21c440602ae1cb49d83a87fb88effdd5"
+"_size" "6366"
