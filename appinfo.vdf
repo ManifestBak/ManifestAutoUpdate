@@ -328,7 +328,7 @@
 		"19" "1721"
 	}
 	"review_score" "5"
-	"review_percentage" "43"
+	"review_percentage" "44"
 }
 "extended"
 {
@@ -359,7 +359,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, percheron, ms_patch_m, brumby, shire"
+				"betakey" "poitoudonkey, pottok, quarter, qa_ms_m, percheron, ms_patch_m, brumby, shire, friesian"
 			}
 			"description_loc"
 			{
@@ -388,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "8403139345537972492"
-				"size" "11388738837"
-				"download" "8160256896"
+				"gid" "7541466308946046594"
+				"size" "11424323722"
+				"download" "8196097040"
 			}
 		}
 	}
@@ -399,8 +399,8 @@
 	{
 		"public"
 		{
-			"buildid" "16759784"
-			"timeupdated" "1734710447"
+			"buildid" "16834574"
+			"timeupdated" "1736445723"
 		}
 	}
 	"privatebranches" "1"
@@ -411,6 +411,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26736479"
-"_sha" "ef54f2f74eef752d6ff5f08186b73b40a59ea16e"
-"_size" "7666"
+"_change_number" "26928314"
+"_sha" "cffe7399aa0409b039e0f60d3b56783114f88f5b"
+"_size" "7676"
