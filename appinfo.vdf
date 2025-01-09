@@ -1,0 +1,536 @@
+"appid" "1230560"
+"common"
+{
+	"name" "Cyber Attack"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"logo" "f4a69132a147d86a47d95320083af061df32a5ce"
+	"logo_small" "f4a69132a147d86a47d95320083af061df32a5ce_thumb"
+	"icon" "0c20535c51998411e959a89a29978c736981731b"
+	"clienttga" "64f0e5e4bc634ae2d96e37a1760c07ca8cdd925d"
+	"clienticon" "cb2e72c036d60bd8d36d6ab22087e2a03ef08abe"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "83.66394399066508"
+			"height_pct" "47.565898836380896"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "83.66394399066508"
+				"height_pct" "47.565898836380896"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667494514"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LUXO Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LUK KUS SOFT"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1597943055"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1230560"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "599"
+		"3" "5502"
+		"4" "3810"
+		"5" "597"
+		"6" "12472"
+		"7" "19"
+		"8" "493"
+		"9" "1695"
+		"10" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "LUXO Interactive"
+	"publisher" "LUK KUS SOFT"
+	"homepage" "https://cyberattack-game.com/"
+}
+"config"
+{
+	"installdir" "CyberAttack"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cyber Attack.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Cyber Attack.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "CyberAttack.app\\Contents\\MacOS\\Cyber Attack"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1230561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1566434633057351653"
+				"size" "781640654"
+				"download" "158525648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_test"
+			{
+				"gid" "FC3D99217D1D118B0187EDFE4619109C"
+				"size" "14CB19D72D90C14D5C79A91BDC7C72DE"
+				"download" "EDCBA8ABA50D29D3CD8E16629D4CD28B"
+			}
+			"v0.1"
+			{
+				"gid" "B54F1860785920F1F49496E21DC58B54"
+				"size" "459008F98ADE27B8BD0EAF67EB28AE4D"
+				"download" "C8E1FCBC11823F489CD7A9EAFA54A644"
+			}
+			"v0.2"
+			{
+				"gid" "EF2198F6F5FA186BA4B1ABF768508FA2"
+				"size" "05C248A76EFE895B042C0744E057C84F"
+				"download" "08CA37C54ADDEF0667FF7A1AEC150723"
+			}
+			"v0.3"
+			{
+				"gid" "9C91839AEFF3B977F2C5535F2F8D2E91"
+				"size" "16A0A057BAF5F8D7C9F56FA2B337F708"
+				"download" "EC1B5DCA698920E695E64C5A5CCB55BB"
+			}
+			"v0.4"
+			{
+				"gid" "4FCC149FD69FCF75C08821BCA0ED6227"
+				"size" "7EF9D3BF28EAB70A174F1CD68EA40B04"
+				"download" "563E51450766431DA777B0B9F6CE2A48"
+			}
+			"v0.5"
+			{
+				"gid" "882F99F4846629B59AF5709EAD3F7164"
+				"size" "5A44FA843347812E378438EABFAB030E"
+				"download" "806FF5F4AA13166A77ED72EC1148B6DF"
+			}
+			"v0.6"
+			{
+				"gid" "B868E6AD5D058AEE0AD7EB771F532342"
+				"size" "54C6CE4EA122B83059BD8ED313E1A4FC"
+				"download" "E0960D5F87E28A9AAACCC30A2E0D5AAD"
+			}
+			"v1.0"
+			{
+				"gid" "B97F608F54282B5832ABCA3D3E405F80"
+				"size" "800C572662C873288D5B48FAC8E4C427"
+				"download" "5752824F2A64C0A9565CBB5C332A1571"
+			}
+			"v1.1"
+			{
+				"gid" "DA74BFDDAF1377F8D24B86F9FA2E9C82"
+				"size" "7168CF68B1374580FB58E3888861CBD4"
+				"download" "4CBAAF4DB3BE61C6E9BFFAE9B06A6CE1"
+			}
+			"v1_2"
+			{
+				"gid" "95D11C931E8DDAB4C5A2586495D43534"
+				"size" "2A16D0E79F1B5C587D18C01E6BAE2042"
+				"download" "38E90CF94C2A04AFD8F4BC97550FA89E"
+			}
+			"v1_3"
+			{
+				"gid" "B1A2CC7380750EEF39D0456E7484EFEF"
+				"size" "2ED84BB2F64C36CCAD2D8E8DDCF1423B"
+				"download" "4542C8025E3FCF9A31C7D63B48C189FE"
+			}
+		}
+	}
+	"1230562"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6686660708200870993"
+				"size" "805725933"
+				"download" "165204064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v1_2"
+			{
+				"gid" "E7D26A7A4285651AD9A881EBC71E7698"
+				"size" "E303DC70E216B09E87E46054D2F78DF3"
+				"download" "D172A488BE5E8D522A6093512F258E2F"
+			}
+			"v1_3"
+			{
+				"gid" "F03317F72A762BBA331DE0ECF384C1DB"
+				"size" "D2CF66C88B0800F24E38AAC9389370F6"
+				"download" "A7AB6026CA49A30EB5E90CAFD989CC80"
+			}
+		}
+	}
+	"1230563"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8175398732690241141"
+				"size" "794457447"
+				"download" "162826752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v1_2"
+			{
+				"gid" "321E950DC12F93C2043F49F826F9A97A"
+				"size" "34B8B6A659A924B2BD88761DD76095A5"
+				"download" "87D0DCAC26D0DF0DE638CE42B6E71D1E"
+			}
+			"v1_3"
+			{
+				"gid" "E8A038750B590603CD1EC3972EB4ECE7"
+				"size" "7CC7F16338A8E82E4D35F93B446B465D"
+				"download" "FCE0402B4FE15B8D69538E0580469604"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10524324"
+			"timeupdated" "1676037845"
+		}
+		"dlc_test"
+		{
+			"buildid" "8140304"
+			"pwdrequired" "1"
+			"timeupdated" "1643912540"
+		}
+		"v0.1"
+		{
+			"buildid" "4904567"
+			"pwdrequired" "1"
+			"timeupdated" "1603563549"
+		}
+		"v0.2"
+		{
+			"buildid" "4972254"
+			"pwdrequired" "1"
+			"timeupdated" "1603563537"
+		}
+		"v0.3"
+		{
+			"buildid" "5036388"
+			"pwdrequired" "1"
+			"timeupdated" "1589584135"
+		}
+		"v0.4"
+		{
+			"buildid" "5112527"
+			"pwdrequired" "1"
+			"timeupdated" "1591145677"
+		}
+		"v0.5"
+		{
+			"buildid" "5205360"
+			"pwdrequired" "1"
+			"timeupdated" "1592940725"
+		}
+		"v0.6"
+		{
+			"buildid" "5399864"
+			"pwdrequired" "1"
+			"timeupdated" "1597185417"
+		}
+		"v1.0"
+		{
+			"buildid" "5447508"
+			"pwdrequired" "1"
+			"timeupdated" "1598149263"
+		}
+		"v1.1"
+		{
+			"buildid" "5534086"
+			"pwdrequired" "1"
+			"timeupdated" "1599868526"
+		}
+		"v1_2"
+		{
+			"buildid" "6062709"
+			"pwdrequired" "1"
+			"timeupdated" "1610324035"
+		}
+		"v1_3"
+		{
+			"buildid" "10524324"
+			"pwdrequired" "1"
+			"timeupdated" "1676036781"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LUXO Interactive/Cyber Attack/Saves"
+			"pattern" "*.casave"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LUXO Interactive/Cyber Attack"
+			"pattern" "*.ca"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "LUXO Interactive/Cyber Attack"
+			"pattern" "hacker_names.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "LUXO Interactive/Cyber Attack/Saves"
+			"pattern" "*.casave"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"4"
+		{
+			"root" "MacAppSupport"
+			"path" "LUXO Interactive/Cyber Attack"
+			"pattern" "*.ca"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"5"
+		{
+			"root" "MacAppSupport"
+			"path" "LUXO Interactive/Cyber Attack"
+			"pattern" "hacker_names.txt"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"6"
+		{
+			"root" "LinuxHome"
+			"path" ".config/unity3d/LUXO Interactive/Cyber Attack/Saves"
+			"pattern" "*.casave"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"7"
+		{
+			"root" "LinuxHome"
+			"path" ".config/unity3d/LUXO Interactive/Cyber Attack"
+			"pattern" "*.ca"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"8"
+		{
+			"root" "LinuxHome"
+			"path" ".config/unity3d/LUXO Interactive/Cyber Attack"
+			"pattern" "hacker_names.txt"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25594461"
+"_sha" "130af7676ac5cd1937a504e1d86f2aed93eb4a47"
+"_size" "9570"
