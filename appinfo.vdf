@@ -77,15 +77,15 @@
 		{
 			"image"
 			{
-				"english" "9a9d6bd613fe117eaccbecba3dccdebb6721c8fd/library_header.jpg"
+				"english" "55bb98b8125103ce1bdef3ca4c81dae995b7ae6f/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "9a9d6bd613fe117eaccbecba3dccdebb6721c8fd/library_header_2x.jpg"
+				"english" "55bb98b8125103ce1bdef3ca4c81dae995b7ae6f/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1733392632"
+	"store_asset_mtime" "1736166240"
 	"associations"
 	{
 		"0"
@@ -213,8 +213,8 @@
 		"9" "3810"
 		"10" "15172"
 		"11" "492"
-		"12" "6869"
-		"13" "4182"
+		"12" "4182"
+		"13" "6869"
 		"14" "3968"
 		"15" "6276"
 		"16" "8945"
@@ -223,7 +223,7 @@
 		"19" "35079"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -253,7 +253,13 @@
 		"3369466527"
 		{
 			"controller_type" "controller_xboxone"
-			"enabled_branches" "default"
+			"enabled_branches" "default,blocked-interaction-fix-testing,internal-testing,release-candidate"
+			"use_action_block" "false"
+		}
+		"3369467773"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,blocked-interaction-fix-testing,internal-testing,release-candidate"
 			"use_action_block" "false"
 		}
 	}
@@ -284,9 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "809333863494175088"
-				"size" "3047465060"
-				"download" "693542384"
+				"gid" "6232120364175537477"
+				"size" "1974673387"
+				"download" "577198032"
 			}
 		}
 	}
@@ -294,8 +300,8 @@
 	{
 		"public"
 		{
-			"buildid" "16860438"
-			"timeupdated" "1735301436"
+			"buildid" "16948418"
+			"timeupdated" "1736406741"
 		}
 	}
 	"privatebranches" "1"
@@ -319,6 +325,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26806257"
-"_sha" "46967ad073cc07d60b40160760e62ce60893040c"
-"_size" "5131"
+"_change_number" "26919648"
+"_sha" "089f23b7ff203277a0fd0604559b281e4f94ba31"
+"_size" "5402"
