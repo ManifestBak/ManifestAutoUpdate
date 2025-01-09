@@ -1,0 +1,266 @@
+"appid" "568670"
+"common"
+{
+	"name" "Trapped Souls"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "a9b346121f091dc9b64711b8ac3c74d43d7144ea"
+	"clienticon" "baf399cc7a98b4a7a515102931aa15ab4fd1afd5"
+	"icon" "e8e2ae3344538af2df93b13a7a5de7280a690ac5"
+	"logo" "b0471b11ffe26f880c14bcd03139e48042714413"
+	"logo_small" "b0471b11ffe26f880c14bcd03139e48042714413_thumb"
+	"releasestate" "released"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "4072f3c84e1b982d4bbea88859d8530246a7b6cd/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "62.877583465818766"
+			"height_pct" "98.0969696969697"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "62.877583465818766"
+				"height_pct" "98.0969696969697"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731958996"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fullmetal Developer"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fullmetal Developer"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_24" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_9" "1"
+		"category_1" "1"
+		"category_44" "1"
+		"category_39" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1483580477"
+	"community_hub_visible" "1"
+	"gameid" "568670"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "122"
+		"2" "42804"
+		"3" "4236"
+		"4" "1716"
+		"5" "1646"
+		"6" "5395"
+		"7" "1720"
+		"8" "4026"
+		"9" "4508"
+		"10" "4231"
+		"11" "1697"
+		"12" "10816"
+		"13" "7481"
+		"14" "3834"
+		"15" "19"
+		"16" "4057"
+		"17" "4604"
+		"18" "3841"
+		"19" "4191"
+	}
+	"review_score" "7"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Fullmetal Developer"
+	"publisher" "Fullmetal Developer"
+}
+"config"
+{
+	"installdir" "Trapped Souls"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Trapped Souls.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Trapped Souls.exe"
+			"arguments" "-show-screen-selector"
+			"type" "config"
+			"description_loc"
+			{
+				"english" "Configuration menu"
+			}
+			"description" "Configuration menu"
+		}
+	}
+}
+"depots"
+{
+	"568671"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5356194170989914058"
+				"size" "1773990552"
+				"download" "522622176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testnovakpomigzrobutu"
+			{
+				"gid" "8BFA0AC550347FA0BB4EC40ECE29148E"
+				"size" "CA21B891D6EA3CB0962DB58412AAECA7"
+				"download" "56A074AB16247C045968A0ABB9E6178D"
+			}
+		}
+	}
+	"568672"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6460004228076363921"
+				"size" "1773990552"
+				"download" "522618912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testnovakpomigzrobutu"
+			{
+				"gid" "69AE631A77CB226BEAE6ED9158ABD21D"
+				"size" "CA21B891D6EA3CB0962DB58412AAECA7"
+				"download" "D2151B96A8137A8724CF341B3FB1F9B3"
+			}
+		}
+	}
+	"baselanguages" "english,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16550780"
+			"timeupdated" "1732703859"
+		}
+		"testnovakpomigzrobutu"
+		{
+			"buildid" "15782245"
+			"pwdrequired" "1"
+			"timeupdated" "1727352532"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26718238"
+"_sha" "8cf65229fdf5df3ee3910b2d71202622591129de"
+"_size" "4447"
