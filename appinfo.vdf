@@ -1,0 +1,326 @@
+"appid" "1691750"
+"common"
+{
+	"name" "Sky Oceans: Wings for Hire"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "9a92c753d7313fe40f110380ec6f02f953c9f7a8"
+	"clienttga" "7b48573b12641caebd34fbc8c1daac3c1eb7b404"
+	"clienticon" "86ad5dd0c521856afe0e85891ec0785ebec6c1b0"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728560816"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Octeto Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PQube"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PQube"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728561101"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1691750"
+	"store_tags"
+	{
+		"0" "1741"
+		"1" "1742"
+		"2" "4434"
+		"3" "4085"
+		"4" "4325"
+		"5" "10695"
+		"6" "1681"
+		"7" "21"
+		"8" "3834"
+		"9" "5608"
+		"10" "4562"
+		"11" "4305"
+		"12" "15045"
+		"13" "7702"
+		"14" "8945"
+		"15" "1684"
+		"16" "4182"
+		"17" "4057"
+		"18" "92092"
+		"19" "1697"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Octeto Studios"
+	"publisher" "PQube"
+	"homepage" "https://pqube.co.uk/games/sky-oceans-wings-for-hire/"
+}
+"config"
+{
+	"installdir" "Sky Oceans Wings for Hire"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Sky Oceans.exe"
+		}
+	}
+}
+"depots"
+{
+	"1691751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4804666996336183293"
+				"size" "9472992304"
+				"download" "2537306448"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16074668"
+			"timeupdated" "1729263568"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1500000"
+	"maxnumfiles" "6"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "SLOT_1"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" ".config/unity3d/.config/unity3d/OctetoStudios/Sky Oceans"
+			"pattern" "SLOT_1"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "SLOT_2"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "SLOT_3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "AUTO"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" ".config/unity3d/.config/unity3d/OctetoStudios/Sky Oceans"
+			"pattern" "SLOT_1"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"7"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" ".config/unity3d/.config/unity3d/OctetoStudios/Sky Oceans"
+			"pattern" "SLOT_2"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"8"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "SLOT_3"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"9"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "OctetoStudios\\Sky Oceans"
+			"pattern" "AUTO"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26869048"
+"_sha" "6bc4516a6532ecfc95114f1f12e2056d9a66f7d7"
+"_size" "5154"
