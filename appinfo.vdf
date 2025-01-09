@@ -178,7 +178,7 @@
 		"15" "5363"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -211,24 +211,9 @@
 		{
 			"public"
 			{
-				"gid" "4467857450254390377"
-				"size" "5446446270"
-				"download" "4587431168"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "69A0D16EFB448B98AD953E296E70DB13"
-				"size" "23D63A7A8F5AA5901F4DDE2DBB82A806"
-				"download" "650767A89D19CF61B32F2FF3B5397190"
-			}
-			"2024internaltesting"
-			{
-				"gid" "D63DF3E8F9DE9662C689A9934E8DF6D9"
-				"size" "58A2C682393C9A63B726446D19F03B27"
-				"download" "3C938A363501FF84980324C170627B4F"
+				"gid" "7351693804121793328"
+				"size" "5460938712"
+				"download" "4592482864"
 			}
 		}
 	}
@@ -238,24 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "7202949126683517011"
-				"size" "5446446270"
-				"download" "4587431168"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closedbeta"
-			{
-				"gid" "55BC05EBA67B47C10934C086355E5D5D"
-				"size" "23D63A7A8F5AA5901F4DDE2DBB82A806"
-				"download" "650767A89D19CF61B32F2FF3B5397190"
-			}
-			"2024internaltesting"
-			{
-				"gid" "9CADF6A703F3A29FFD4F098CBC21CAFB"
-				"size" "58A2C682393C9A63B726446D19F03B27"
-				"download" "3C938A363501FF84980324C170627B4F"
+				"gid" "2546158004082062045"
+				"size" "5460938712"
+				"download" "4592482864"
 			}
 		}
 	}
@@ -263,22 +233,11 @@
 	{
 		"public"
 		{
-			"buildid" "16252886"
-			"timeupdated" "1730392622"
-		}
-		"closedbeta"
-		{
-			"buildid" "4985213"
-			"pwdrequired" "1"
-			"timeupdated" "1588688257"
-		}
-		"2024internaltesting"
-		{
-			"buildid" "16252886"
-			"pwdrequired" "1"
-			"timeupdated" "1730385358"
+			"buildid" "16940538"
+			"timeupdated" "1736347808"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -286,6 +245,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26156029"
-"_sha" "cdf5d4968e51b00805e4cf17ab97ff421e91e5b7"
-"_size" "5299"
+"_change_number" "26909388"
+"_sha" "65ad153f973191bd1ee97c0aae8301e786ce6f46"
+"_size" "4312"
