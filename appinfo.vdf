@@ -337,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "6366677103085791528"
-				"size" "544862744"
-				"download" "287184960"
+				"gid" "982080477560026016"
+				"size" "544861720"
+				"download" "287118480"
 			}
 			"0.5.7.8"
 			{
@@ -521,9 +521,9 @@
 		{
 			"public"
 			{
-				"gid" "618444944752318145"
+				"gid" "7413635644783498768"
 				"size" "441338112"
-				"download" "269814096"
+				"download" "269815040"
 			}
 			"0.5.7.8.18"
 			{
@@ -600,8 +600,8 @@
 	{
 		"public"
 		{
-			"buildid" "16951301"
-			"timeupdated" "1736424940"
+			"buildid" "16954286"
+			"timeupdated" "1736443311"
 		}
 		"0.5.7.8"
 		{
@@ -679,21 +679,26 @@
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "100000000"
+	"maxnumfiles" "500"
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 	"savefiles"
 	{
 		"0"
 		{
-			"root" "gameinstall"
-			"path" "SavesDir"
-			"pattern" "*.sav"
+			"root" "WinAppDataLocal"
+			"path" "StoneShard/characters_cloud_test"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26923429"
-"_sha" "b6d06872cd2b4e81b18a2a5eee0406dff72af667"
-"_size" "12908"
+"_change_number" "26927921"
+"_sha" "c5d84c1b299e3f7bb25f6c569521f81be5cd92c7"
+"_size" "13011"
