@@ -200,7 +200,7 @@
 		"19" "1199779"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -273,42 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "3737373966395251995"
-				"size" "22339748823"
-				"download" "10184520272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "296C7855DD7FA3CC8644415D10607586"
-				"size" "095B879EF67FA93E7A79927D5C0CFDF8"
-				"download" "D3022A3516DA9A4AD5CBC08B4227F9B3"
-			}
-			"preprod"
-			{
-				"gid" "2DEBFEAF1C6D8B0AFD904283DCD90170"
-				"size" "7C129FF0D7325969FAD554FF73B0F090"
-				"download" "21DDA31B2BFDA1E8859D751230BC0226"
-			}
-			"psvr"
-			{
-				"gid" "3DFEB94B699D2B87B9B8E00BF5BF7618"
-				"size" "89914EDE0FC2EC30B9E2ECCE8AD6F75A"
-				"download" "EA325BAE01A135BB8E69E2FE67052561"
-			}
-			"qatest"
-			{
-				"gid" "1D0B53F95DA25205825367617F759339"
-				"size" "6493E0ADDA3F353031AC7E7C1B86C2F0"
-				"download" "EFC1115768C2F70EDB2BC93E587293BA"
-			}
-			"research"
-			{
-				"gid" "4EBD9B0EB2D67658E6FE2509ECF86CD6"
-				"size" "B628DCF9012344F6A379A5CAD3F7BEA0"
-				"download" "7CF8284D55F5EF2F294867C85CAF1B15"
+				"gid" "1575377534782775079"
+				"size" "22055350267"
+				"download" "10132706640"
 			}
 		}
 	}
@@ -317,42 +284,13 @@
 	{
 		"public"
 		{
-			"buildid" "16819800"
-			"timeupdated" "1734737030"
-		}
-		"internal"
-		{
-			"buildid" "16819093"
-			"pwdrequired" "1"
-			"timeupdated" "1734729262"
-		}
-		"preprod"
-		{
-			"buildid" "16819427"
-			"pwdrequired" "1"
-			"timeupdated" "1734731676"
-		}
-		"psvr"
-		{
-			"buildid" "15020192"
-			"pwdrequired" "1"
-			"timeupdated" "1720832925"
-		}
-		"qatest"
-		{
-			"buildid" "16818881"
-			"pwdrequired" "1"
-			"timeupdated" "1734727900"
-		}
-		"research"
-		{
-			"buildid" "16240928"
-			"pwdrequired" "1"
-			"timeupdated" "1730310883"
+			"buildid" "16947433"
+			"timeupdated" "1736439059"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26741215"
-"_sha" "d78e71a4c30fb05b9a2722820bd788587dc232ee"
-"_size" "6443"
+"_change_number" "26929397"
+"_sha" "31638c4313303f908e27756fca115599cd445fa4"
+"_size" "5053"
