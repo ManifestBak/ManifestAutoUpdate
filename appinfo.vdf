@@ -1,0 +1,69 @@
+"appid" "214646"
+"common"
+{
+	"name" "Call of Duty Black Ops First Strike OSX SP"
+	"type" "DLC"
+	"parent" "214630"
+	"oslist" "macos"
+	"gameid" "214646"
+}
+"extended"
+{
+	"developer" ""
+	"dlcforappid" "214630"
+	"gamedir" "Call of Duty Black Ops"
+	"homepage" ""
+	"icon" ""
+	"mustownapptopurchase" "214630"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "214646"
+	"sdk_notownedbydefault" "1"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"validoslist" "macos"
+}
+"depots"
+{
+	"214646"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "798339939879005009"
+				"size" "53103328"
+				"download" "52650864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"macbeta"
+			{
+				"gid" "A7F38B0205CF27804C9A922811526B8E"
+				"size" "3510FA9F756777A88441575829CF6289"
+				"download" "BED1DDF70E3E249E08CA6B06244589C1"
+			}
+		}
+		"dlcappid" "214646"
+		"depotfromapp" "214630"
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"macbeta"
+		{
+			"buildid" "596763"
+			"pwdrequired" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26685919"
+"_sha" "108ce638565d992f69b72d5813033b173df60c66"
+"_size" "1128"
