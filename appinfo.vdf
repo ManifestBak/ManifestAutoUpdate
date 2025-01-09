@@ -111,13 +111,13 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1735119090"
+	"store_asset_mtime" "1736322604"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "TDGame"
+			"name" "TDGame Studio"
 		}
 		"1"
 		{
@@ -181,7 +181,7 @@
 }
 "extended"
 {
-	"developer" "TDGame"
+	"developer" "TDGame Studio"
 	"publisher" "Anotherindie"
 }
 "config"
@@ -206,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "2347643929108677674"
-				"size" "756276033"
-				"download" "190629056"
+				"gid" "7197726641416036402"
+				"size" "756285409"
+				"download" "190699584"
 			}
 		}
 	}
@@ -216,8 +216,8 @@
 	{
 		"public"
 		{
-			"buildid" "16853180"
-			"timeupdated" "1735203239"
+			"buildid" "16948028"
+			"timeupdated" "1736403707"
 		}
 	}
 	"privatebranches" "1"
@@ -241,6 +241,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26787019"
-"_sha" "84f11e3139e1510a41553a296820b00309e0d3c4"
-"_size" "4721"
+"_change_number" "26919149"
+"_sha" "aef919c62cdbca15e2665466737175e449093bfc"
+"_size" "4735"
