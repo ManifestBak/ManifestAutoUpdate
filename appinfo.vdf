@@ -219,6 +219,10 @@
 		{
 			"supported" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1543511411"
 	"metacritic_score" "83"
@@ -243,8 +247,8 @@
 		"11" "16689"
 		"12" "5851"
 		"13" "4328"
-		"14" "1669"
-		"15" "3859"
+		"14" "3859"
+		"15" "1669"
 		"16" "3810"
 		"17" "597"
 		"18" "4845"
@@ -332,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "4819968764712176908"
-				"size" "1230487503"
-				"download" "708151504"
+				"gid" "1162207834869033858"
+				"size" "1233884926"
+				"download" "711577296"
 			}
 			"alpha_01"
 			{
@@ -431,9 +435,9 @@
 			}
 			"testing"
 			{
-				"gid" "8C6F10E863BC13F5921A78D15D399DA2"
-				"size" "F3A75567FF05410C24FCB7CFAECF5B8C"
-				"download" "2829C34195E20AB033CBA984E2B3F4D2"
+				"gid" "5272DE614AE972BABF35D8B82A4FD1D7"
+				"size" "B2C520472EFF170D1DFB6A422A98016A"
+				"download" "FC8B63D07740C689CAFCCC89B5543CDE"
 			}
 		}
 	}
@@ -449,9 +453,9 @@
 		{
 			"public"
 			{
-				"gid" "6444046058050036640"
-				"size" "1256038077"
-				"download" "714779456"
+				"gid" "1171101734290981067"
+				"size" "1259435500"
+				"download" "718204080"
 			}
 			"alpha_01"
 			{
@@ -548,9 +552,9 @@
 			}
 			"testing"
 			{
-				"gid" "DA5AB8E4E3C3CADE9FB0A7FA7D8E444D"
-				"size" "9FD5A4C6931A767C7004642DB73CFD1D"
-				"download" "5BBAC243D6AF8DB54E3B31517DF09BA3"
+				"gid" "19328F4A387DF9F870ADAD3C00761006"
+				"size" "002E34A3F1C83B32C0B1528FF04E8F1C"
+				"download" "20482253B5F236C10982DA56BC595905"
 			}
 		}
 	}
@@ -565,9 +569,9 @@
 		{
 			"public"
 			{
-				"gid" "3252414021306529745"
-				"size" "1245866765"
-				"download" "713231584"
+				"gid" "2091517699808469518"
+				"size" "1249269264"
+				"download" "716657728"
 			}
 			"alpha_01"
 			{
@@ -619,9 +623,9 @@
 			}
 			"apple_silicon"
 			{
-				"gid" "4813597749697902365"
-				"size" "1233981899"
-				"download" "709650848"
+				"gid" "7910267627044238509"
+				"size" "1237384398"
+				"download" "713077104"
 			}
 			"multiplayer_test"
 			{
@@ -664,9 +668,9 @@
 			}
 			"testing"
 			{
-				"gid" "084BD6215BEFB3FBE7688F57A44326B2"
-				"size" "0A6CAC03D5CEA496CA3CEBBB768ED656"
-				"download" "8463A815511579837DCF5C7FAD1BE166"
+				"gid" "755D379FF4CD30BB4632E90047A6DFA3"
+				"size" "FF40BE23C57F775BACD8049C4660A9B7"
+				"download" "D6125BC540F461BD86F9C5ECA4DE4E3E"
 			}
 		}
 	}
@@ -681,9 +685,9 @@
 		{
 			"public"
 			{
-				"gid" "5063445872597442605"
-				"size" "1314503936"
-				"download" "727377648"
+				"gid" "784094040849403157"
+				"size" "1317901359"
+				"download" "730802240"
 			}
 			"alpha_01"
 			{
@@ -780,9 +784,9 @@
 			}
 			"testing"
 			{
-				"gid" "F800C213CBA5F5714966334B90C5BF4D"
-				"size" "D351A0948CAD21E31C4DFDFD44330420"
-				"download" "8669A641BAE53010E26C64466D866C38"
+				"gid" "C8BDE3B99549B016076360A415F7F003"
+				"size" "53384E80DCD7EC22CC074929F60FDE10"
+				"download" "42674FA6FAA52536B4C2B9AAB267C3F7"
 			}
 		}
 	}
@@ -799,9 +803,9 @@
 		{
 			"public"
 			{
-				"gid" "3339252833457649866"
+				"gid" "4124258130065558835"
 				"size" "23409696"
-				"download" "7649744"
+				"download" "7649776"
 			}
 			"previous_version"
 			{
@@ -856,9 +860,9 @@
 			}
 			"testing"
 			{
-				"gid" "EF3623501E1A305E4BB96AD25A81CF05"
+				"gid" "11B14C6D3CAE17FCAEDBD5BEF8DD955D"
 				"size" "2BF061E3B5221EEB4702BB405000904D"
-				"download" "B3D66CEFB5CE9DBBF86B023BF890A9E8"
+				"download" "1B4975AB6B4F52D534444693084B3BCF"
 			}
 		}
 	}
@@ -875,9 +879,9 @@
 		{
 			"public"
 			{
-				"gid" "691881555676034541"
+				"gid" "6065795182460705472"
 				"size" "23409696"
-				"download" "7649248"
+				"download" "7649120"
 			}
 			"previous_version"
 			{
@@ -932,9 +936,9 @@
 			}
 			"testing"
 			{
-				"gid" "617F184C76CA7F47937C332B6D95B5D5"
+				"gid" "F57597DB0D8EF3549E19BEEAF30F4304"
 				"size" "2BF061E3B5221EEB4702BB405000904D"
-				"download" "EF1F03D806F4E3106C5D06393DD000DC"
+				"download" "8A45C9BCF76B975334A1673A5F358681"
 			}
 		}
 	}
@@ -950,9 +954,9 @@
 		{
 			"public"
 			{
-				"gid" "5426958458065620208"
+				"gid" "4251206600748430028"
 				"size" "25405248"
-				"download" "8455632"
+				"download" "8455696"
 			}
 			"previous_version"
 			{
@@ -962,9 +966,9 @@
 			}
 			"apple_silicon"
 			{
-				"gid" "5426958458065620208"
+				"gid" "4251206600748430028"
 				"size" "25405248"
-				"download" "8455632"
+				"download" "8455696"
 			}
 			"multiplayer_test"
 			{
@@ -1007,9 +1011,9 @@
 			}
 			"testing"
 			{
-				"gid" "A757084A3C3D9D6847897736F2E7B41C"
+				"gid" "D395A6637D5636A5ADBB03EC93E429EF"
 				"size" "7E828A5FCE07D22B79DF529340F08533"
-				"download" "722D68EAFE805206C75F5F2B7E77A795"
+				"download" "27A519378C12D5B7CB63719C93B93BE2"
 			}
 		}
 	}
@@ -1025,9 +1029,9 @@
 		{
 			"public"
 			{
-				"gid" "5406622209233076281"
+				"gid" "2887113937192901542"
 				"size" "28473024"
-				"download" "10211040"
+				"download" "10211008"
 			}
 			"previous_version"
 			{
@@ -1082,9 +1086,9 @@
 			}
 			"testing"
 			{
-				"gid" "0D7616B4338515E6FE91973511A28B0F"
+				"gid" "4F28737A5F3E08C0EC765EFA647B951D"
 				"size" "CC536348E777D037D0D051137DDE027E"
-				"download" "F35F75B0F9FE4AB079998F0C3B7A7B9F"
+				"download" "296AB8D456D16D7978C682F522A50DB6"
 			}
 		}
 	}
@@ -1101,9 +1105,9 @@
 		{
 			"public"
 			{
-				"gid" "1811150675906519074"
+				"gid" "5459084720513341480"
 				"size" "17596256"
-				"download" "10062768"
+				"download" "10062608"
 			}
 			"previous_version"
 			{
@@ -1146,9 +1150,9 @@
 			}
 			"testing"
 			{
-				"gid" "4DAFB5101C3630730E2A560DCE40ABE7"
+				"gid" "BC3A0B4163F2FF30E9933708C53BBDAF"
 				"size" "94C7CA86266473810A7B21B4883EE0A3"
-				"download" "FA6BBBE5924C888109585E33F4889198"
+				"download" "14D7782D84726B95446869CC3A7C5425"
 			}
 		}
 	}
@@ -1165,9 +1169,9 @@
 		{
 			"public"
 			{
-				"gid" "8540514719532094101"
+				"gid" "6180842296598834333"
 				"size" "17596256"
-				"download" "10062736"
+				"download" "10062576"
 			}
 			"previous_version"
 			{
@@ -1210,9 +1214,9 @@
 			}
 			"testing"
 			{
-				"gid" "DD2E8AE94B33E8E591C102FDE981010A"
+				"gid" "05760315A0190AB4FCECD6375D930755"
 				"size" "94C7CA86266473810A7B21B4883EE0A3"
-				"download" "AF637F16D889BBDB10BFFA6D256DFAED"
+				"download" "B85089D1A47B3CA4145C28B8DCFE4E5C"
 			}
 		}
 	}
@@ -1228,7 +1232,7 @@
 		{
 			"public"
 			{
-				"gid" "7081794439629445620"
+				"gid" "3448027736638290236"
 				"size" "19817392"
 				"download" "10970384"
 			}
@@ -1240,7 +1244,7 @@
 			}
 			"apple_silicon"
 			{
-				"gid" "7081794439629445620"
+				"gid" "3448027736638290236"
 				"size" "19817392"
 				"download" "10970384"
 			}
@@ -1273,7 +1277,7 @@
 			}
 			"testing"
 			{
-				"gid" "BAD8E96A100387AF49A86CDFFFA8EC73"
+				"gid" "42A1381DCCEA73DD57566FAB56A40164"
 				"size" "3805CFDCA7515B400E9800544C269436"
 				"download" "5B90EE9F835A26F0D15746D3E26B2554"
 			}
@@ -1291,9 +1295,9 @@
 		{
 			"public"
 			{
-				"gid" "4745599733487649863"
+				"gid" "6341403037690320557"
 				"size" "22774064"
-				"download" "12497408"
+				"download" "12497488"
 			}
 			"previous_version"
 			{
@@ -1336,9 +1340,9 @@
 			}
 			"testing"
 			{
-				"gid" "D2FE6C5AE0734871EE033CE5D26A5F4F"
+				"gid" "D84492730FA6E2F76870CC42A1A8ED6A"
 				"size" "5E516B795F187B7CEA178E27E975E391"
-				"download" "2DE8A458251771EDD90D8E6175C6D8CC"
+				"download" "43D4B35480AABD6E55ED769550778446"
 			}
 		}
 	}
@@ -1346,8 +1350,8 @@
 	{
 		"public"
 		{
-			"buildid" "16704232"
-			"timeupdated" "1733906044"
+			"buildid" "16950792"
+			"timeupdated" "1736423936"
 		}
 		"alpha_01"
 		{
@@ -1417,9 +1421,9 @@
 		}
 		"apple_silicon"
 		{
-			"buildid" "16704680"
+			"buildid" "16951146"
 			"description" "Experimental Apple Silicon test version"
-			"timeupdated" "1733906054"
+			"timeupdated" "1736423946"
 		}
 		"multiplayer_test"
 		{
@@ -1435,9 +1439,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16704232"
+			"buildid" "16950792"
 			"pwdrequired" "1"
-			"timeupdated" "1733906022"
+			"timeupdated" "1736423910"
 		}
 	}
 }
@@ -1447,6 +1451,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26589309"
-"_sha" "6b794d530401df121390cf0228b1914f5a65d3ec"
-"_size" "30064"
+"_change_number" "26923202"
+"_sha" "c16566afc1b0c35079eaf2fd0f51eaf37d1dbbf1"
+"_size" "30112"
