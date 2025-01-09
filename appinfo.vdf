@@ -258,12 +258,14 @@
 		"18" "6650"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "75"
 }
 "extended"
 {
 	"developer" "五条虾仁(5 shrimps)"
 	"publisher" "五条虾仁(5 shrimps)"
+	"listofdlc" "3429690"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -298,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "3146435934069007234"
-				"size" "4754545179"
-				"download" "946742016"
+				"gid" "1546856824737114384"
+				"size" "4772231331"
+				"download" "961705456"
 			}
 		}
 	}
@@ -319,8 +321,8 @@
 	{
 		"public"
 		{
-			"buildid" "16906702"
-			"timeupdated" "1736004999"
+			"buildid" "16949286"
+			"timeupdated" "1736413680"
 		}
 	}
 	"privatebranches" "1"
@@ -344,6 +346,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26862383"
-"_sha" "342de65e771a6c3fb53062522141f0e9bd054fb1"
-"_size" "5904"
+"_change_number" "26920886"
+"_sha" "0642d56d798ba8da3f7efe118b4b5818839c122c"
+"_size" "5958"
