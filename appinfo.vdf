@@ -1,0 +1,476 @@
+"appid" "352460"
+"common"
+{
+	"name" "Dead Realm"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"icon" "9b60ed7eb2f4047b3e59952b5600d6d8b7da83ca"
+	"logo" "8a7fe9a6ea136f489f0b70135e1ba328ba59256b"
+	"logo_small" "8a7fe9a6ea136f489f0b70135e1ba328ba59256b_thumb"
+	"clienttga" "3fce11379d7ccf288a10a118a5b93e8d8cbdf296"
+	"clienticon" "30a73a4847b9dcaaacf9bf310819d47e864ce326"
+	"releasestate" "released"
+	"app_retired_publisher_request" "1"
+	"restricted_countries" "DE"
+	"metacritic_name" "Dead Realm"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_ecd4f4404719255bde6012e271b7fb520a5efc00.jpg"
+	"store_asset_mtime" "1495662411"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Section Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "3BLACKDOT"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1438585200"
+	"steam_release_date" "1495583940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "352460"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "3978"
+		"3" "3839"
+		"4" "19"
+		"5" "3843"
+		"6" "493"
+		"7" "1662"
+		"8" "4136"
+		"9" "1685"
+		"10" "492"
+		"11" "21"
+		"12" "9"
+		"13" "4166"
+		"14" "128"
+		"15" "4342"
+		"16" "1721"
+		"17" "42089"
+		"18" "7478"
+		"19" "1663"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Section Studios"
+	"publisher" "3BLACKDOT"
+	"homepage" "http://www.deadrealmgame.com"
+	"listofdlc" "414520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DeadRealm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadRealm.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DeadRealm.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,portuguese"
+	"352461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7532514830843963473"
+				"size" "10267800878"
+				"download" "3218010352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betabranch"
+			{
+				"gid" "05D51F678FC85496A235B8782E4C1813"
+				"size" "EE3ADA693012CD58F73404D06A28538B"
+				"download" "1BEF8EA519D9BF24A8068562C1549845"
+			}
+			"betabranch2"
+			{
+				"gid" "51C81FB35B73F7931961997A3F49A8CE"
+				"size" "757E88DE08C2C33DBA0739F70AE3515D"
+				"download" "0A9925A086CEACE73D73DDB593BE7B45"
+			}
+			"devbranch"
+			{
+				"gid" "7A87FB59AF203CD620BDB3AF6709C14E"
+				"size" "49370325765870D73A4C5A7AE425A4EF"
+				"download" "8EEAEAD1B361D9409B878F8B874528CD"
+			}
+			"devbranch2"
+			{
+				"gid" "A3675DD0A7844CE666BC6894964C29F3"
+				"size" "29D03C8F70586EE3144E42F0059F4C34"
+				"download" "ECD0678F479D9ADEFC18976E3CDCE25F"
+			}
+			"drinsomnia58"
+			{
+				"gid" "507303729947A2B8CD0440AFFC1DF0A6"
+				"size" "A687FA08EC4B454313C5463D368A8924"
+				"download" "A03B3B445E3AA042A063DF6450F3D068"
+			}
+			"legacy"
+			{
+				"gid" "C11BD59C4AC38BEDEAA73EF0A3A400AC"
+				"size" "D5FF5EAD295F69D233ECCE6C92C77F2E"
+				"download" "7FE05369B675FFD57A828312FBA97D05"
+			}
+			"localtest"
+			{
+				"gid" "8B2DDF2CA9EC433A9241E40CF87F0389"
+				"size" "D1E498E2505F1E3CA9DB6CC58D1E702E"
+				"download" "41035B1D8A2BCDDADFEA430E1B67A0DB"
+			}
+			"stripped"
+			{
+				"gid" "DAEBA2571F87D126D167275BD31ADAD6"
+				"size" "95DB91FB8714F325D0979B5EADBFE6AA"
+				"download" "23648FD2550469808AC8B9BF9E5784F3"
+			}
+		}
+	}
+	"352463"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5265433611729249939"
+				"size" "10248778082"
+				"download" "3213663792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betabranch"
+			{
+				"gid" "3AB9183D798CDC2F87444CEF63BF9EDA"
+				"size" "8F313DED07C40DA8288BF4FDE93404F8"
+				"download" "7330A28E3D9B8A911495D338AF6B3E91"
+			}
+			"betabranch2"
+			{
+				"gid" "F10DF21698804F5B130AE1E5A036B8BC"
+				"size" "1264E1A182E7AF4ACD2135036E9CB117"
+				"download" "C716B9A6E02DB461A3EE2957C55690D0"
+			}
+			"drinsomnia58"
+			{
+				"gid" "212F0B9E60B3E76A97EF58EC13E7F98A"
+				"size" "9A6A1F0D82E691DC872096CAE5517E06"
+				"download" "3AB73014D9A5091ADD4EDAE204D6DA20"
+			}
+			"localtest"
+			{
+				"gid" "45D5A97635EC48DCBA78E4C41220C8F1"
+				"size" "7653FC7B792A787AFE61F90AB9EA18D4"
+				"download" "165E0609B96EF9F20761833216ECD0EE"
+			}
+			"stripped"
+			{
+				"gid" "E7211ADD7CFE12614DB4262E358A2DEB"
+				"size" "31B929AD11CF51E9EA750D2CC813896E"
+				"download" "A6521946A5453DF51F8DCC55F3C6E9CD"
+			}
+		}
+	}
+	"352462"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2279717878190135759"
+				"size" "10274821459"
+				"download" "3220895904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betabranch"
+			{
+				"gid" "324FC7D0DFBBCF9263BBE3D50CF59AFD"
+				"size" "D6E2054BA1BC2F8699A9703AF9600C00"
+				"download" "843D681089B66103AA6BCFE3D2543410"
+			}
+			"betabranch2"
+			{
+				"gid" "12ECEC6E8FE5B9F08F3CFE946492207B"
+				"size" "35318E656F4D63356310E40BA2C8216E"
+				"download" "00E6B87DFE82B035FF0C7B2719D4968D"
+			}
+			"devbranch"
+			{
+				"gid" "C0CDA5207BA2EDA5FE99FCC039CC0344"
+				"size" "A34282EACB098F3B9BE10FAC2ABB8830"
+				"download" "213A0EF37954C820330A70156EB30078"
+			}
+			"devbranch2"
+			{
+				"gid" "F29D4689FE0963C060EF668AC89B8B3B"
+				"size" "9C151B86A1BA3CF23906EAB9CCC67F16"
+				"download" "90DBFFD8273DE292C97D35B27DEEA74B"
+			}
+			"drinsomnia58"
+			{
+				"gid" "05D42627F0E6E4AB8464D2BF884E3C2C"
+				"size" "BD69C71C6B75B78A6DE9BFE012453976"
+				"download" "ACD58EF6C6A34DBD3F9258AB1117F942"
+			}
+			"legacy"
+			{
+				"gid" "1044C905C16E58592DE47DBC4C341914"
+				"size" "988456539B6AA3AF3999C5050F45261F"
+				"download" "646CC34AFBADDF74479CD82377EF971C"
+			}
+			"localtest"
+			{
+				"gid" "8F3D80A8C8B853826362C1870257BCD0"
+				"size" "3216293CDE831E44D91B061172F8FB6A"
+				"download" "7B7E70866973DB5FBC09ED797668EE54"
+			}
+			"stripped"
+			{
+				"gid" "02B1F8AD0485E3E45E72D794E67E9BFE"
+				"size" "6EE821A7A10D273BF90B4E4BBA5FA551"
+				"download" "A4C98F96AFF6D001A1A37E0841FA34D2"
+			}
+		}
+	}
+	"414520"
+	{
+		"dlcappid" "414520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1747691134434086778"
+				"size" "180527405"
+				"download" "179909200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betabranch"
+			{
+				"gid" "A76769197EA1ABDD16E5ADA02B42CD61"
+				"size" "447FCE39420D4D7E6DE1606EBC7C6984"
+				"download" "52ECAD18AB3088C92660E340737155D7"
+			}
+			"betabranch2"
+			{
+				"gid" "1DD8E63F5EA347DE6017A973E9982B28"
+				"size" "336430F1DE8C7ABCF52DD889ECFFB04C"
+				"download" "0FFA247573A523903EFF8747B2A610CC"
+			}
+			"devbranch"
+			{
+				"gid" "C7CCDC4564B40B7707F94DF721B25AF4"
+				"size" "EAEB1BDD3A6AE4F329508A322611252D"
+				"download" "64E62576631F3FA58CC15E4C238EE68D"
+			}
+			"devbranch2"
+			{
+				"gid" "9CCB49F276C7C3CACE849E679286EB66"
+				"size" "B0FBBFD0033320F9EA26697545361DC8"
+				"download" "B145B962FC8107025EF4D1200E04F65A"
+			}
+			"drinsomnia58"
+			{
+				"gid" "E094535B8B3D7ABAAB4BE6A6DE7CD148"
+				"size" "0340961BB9F480B2A21D70258173B083"
+				"download" "018CACB82F6AB8E53C0DDA9E9F3388FF"
+			}
+			"legacy"
+			{
+				"gid" "9D9B3C6ADBCCAC09A377EF5CF13E5358"
+				"size" "DD67BD2FB02CE313502FBA3F41935845"
+				"download" "316C201DDA4DDE4F5A5B5510A2E2FDB4"
+			}
+			"localtest"
+			{
+				"gid" "1BFC72F9BCDFC9FEC5E670D65206BBB0"
+				"size" "301E0A7255D0BB2B3B77C81FF8317F27"
+				"download" "654306F218357AF62168D732D6013369"
+			}
+			"stripped"
+			{
+				"gid" "681046937211535065440E4396CA4A54"
+				"size" "6999D2F04ABF2CDB8629AD673987052B"
+				"download" "8F96042DF86DD65A17C85750A6BEBCAF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2581945"
+			"timeupdated" "1520388899"
+		}
+		"betabranch"
+		{
+			"buildid" "1834860"
+			"pwdrequired" "1"
+			"timeupdated" "1495240197"
+		}
+		"betabranch2"
+		{
+			"buildid" "1826724"
+			"pwdrequired" "1"
+			"timeupdated" "1494993456"
+		}
+		"devbranch"
+		{
+			"buildid" "854877"
+			"pwdrequired" "1"
+		}
+		"devbranch2"
+		{
+			"buildid" "870260"
+			"pwdrequired" "1"
+		}
+		"drinsomnia58"
+		{
+			"buildid" "2581945"
+			"pwdrequired" "1"
+			"timeupdated" "1520383687"
+		}
+		"legacy"
+		{
+			"buildid" "870260"
+			"pwdrequired" "1"
+			"timeupdated" "1476912541"
+		}
+		"localtest"
+		{
+			"buildid" "1684603"
+			"pwdrequired" "1"
+			"timeupdated" "1489202237"
+		}
+		"stripped"
+		{
+			"buildid" "1555551"
+			"pwdrequired" "1"
+			"timeupdated" "1483737917"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "e6f1e8fdef2b2eb8b84d16e7f906e819176a0c17"
+"_size" "9810"
