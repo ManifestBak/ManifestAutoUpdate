@@ -1,30 +1,23 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-09 16:54:28
+## 更新时间：2025-01-09 17:12:55
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1011290 | Hotel R'n'R| Game |
-| 1137320 | Screeps: Arena| Game |
-| 1254120 | 神佑释放| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 207930 | Sacred Citadel| Game |
-| 212680 | FTL: Faster Than Light| Game |
-| 2194730 | ServiceIT: You can do IT| Game |
-| 22380 | Fallout: New Vegas| game |
-| 2694490 | Path of Exile 2| Game |
-| 2704110 | 彼方的她-Aliya| Game |
-| 2816950 | 妖之乡| Game |
-| 3042680 | 逐光：致监星官| Game |
-| 322450 | FRAMED Collection| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 349250 | Copy Kitty| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
-| 626510 | LoveKami -Useless Goddess-| Game |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 785740 | This Is the Police 2| Game |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 855640 | My Brother Rabbit| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 222750 | Wargame: AirLand Battle| Game |
+| 215 | Source SDK Base 2006| Tool |
+| 22490 | Fallout: New Vegas PCR| game |
+| 218 | Source SDK Base 2007| Tool |
+| 240 | Counter-Strike: Source| game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 324160 | CLANNAD| Game |
+| 33770 | Drakensang The River of Time| game |
+| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
+| 730 | Counter-Strike 2| Game |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 914310 | Copy Kitty OST| Music |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
