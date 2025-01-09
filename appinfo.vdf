@@ -11,6 +11,13 @@
 	"icon" "4db235394b860089409665efde93e13ddedc4474"
 	"logo" "2c45064f6abd30bd49a6c72d82a22de04732281a"
 	"logo_small" "2c45064f6abd30bd49a6c72d82a22de04732281a_thumb"
+	"name_localized"
+	{
+		"schinese" "豆豆争霸"
+		"tchinese" "豆豆争霸"
+		"koreana" "빈 배틀즈"
+		"japanese" "ビーンバトル"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -62,10 +69,18 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"tchinese" "d0950343f0ae2439c5291bd3be3f67f7ddd180b4/capsule_231x87_tchinese.jpg"
+		"schinese" "d0950343f0ae2439c5291bd3be3f67f7ddd180b4/capsule_231x87_schinese.jpg"
+		"japanese" "946390d4f3ed1f92e291f5310683ff73d5b3bdc1/capsule_231x87_japanese.jpg"
+		"koreana" "c5015b50e5ff88c37ff6ccb8de052ffba93cf59f/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
 	}
 	"library_assets"
 	{
@@ -82,7 +97,7 @@
 		}
 	}
 	"store_screenshot" "ss_0dc627486303aab368efc0fc543107f53c8920d8.jpg"
-	"store_asset_mtime" "1663285415"
+	"store_asset_mtime" "1734685063"
 	"associations"
 	{
 		"0"
@@ -109,6 +124,7 @@
 		"category_22" "1"
 		"category_15" "1"
 		"category_49" "1"
+		"category_25" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -156,6 +172,30 @@
 			"subtitles" "true"
 		}
 		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"full_audio" "true"
@@ -226,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "8560901879218206795"
-				"size" "1425075192"
-				"download" "388952528"
+				"gid" "7306461839912159866"
+				"size" "1425075704"
+				"download" "388955376"
 			}
 		}
 	}
@@ -236,12 +276,12 @@
 	{
 		"public"
 		{
-			"buildid" "16646609"
-			"timeupdated" "1733419830"
+			"buildid" "16946206"
+			"timeupdated" "1736387604"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26513716"
-"_sha" "53f4d806b048b623fa3505612b05c8d0eeb63507"
-"_size" "4328"
+"_change_number" "26916770"
+"_sha" "cc5e5f36a61f2f128bf2b763ffce1ddec23eebac"
+"_size" "5379"
