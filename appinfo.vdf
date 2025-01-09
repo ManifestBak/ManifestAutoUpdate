@@ -1,0 +1,158 @@
+"appid" "2131710"
+"common"
+{
+	"name" "CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents"
+	"type" "DLC"
+	"parent" "1608070"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "c84d403c79f3c575ea19d6a3ba9c74dcddc276d0"
+	"clienticon" "6e90f31e397248b188b51dc8cc6db505cee77d3f"
+	"clienttga" "4681ab1d3871bf22d39ca0c65527e8301ccf857f"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_f039b84665cc01af732605010f6c9f657364e369.jpg"
+	"store_asset_mtime" "1670238635"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "TOSE CO., LTD."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_50" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1670950800"
+	"gameid" "2131710"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "21"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1608070"
+	"mustownapptopurchase" "1608070"
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://CrisisCoreFF7R.com"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents"
+}
+"depots"
+{
+	"2131710"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2399211558851438525"
+				"size" "183861"
+				"download" "184016"
+			}
+		}
+		"dlcappid" "2131710"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12671967"
+			"timeupdated" "1699625897"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "ae84ea8c405aefeb9d85fc7320bc71e054ecb94b"
+"_size" "2584"
