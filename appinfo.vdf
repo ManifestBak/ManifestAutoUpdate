@@ -75,7 +75,8 @@
 		}
 	}
 	"metacritic_name" "Dishonored: Death of the Outsider"
-	"controller_support" "full"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -94,6 +95,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "56.02071126143833"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "56.02071126143833"
+			}
 		}
 	}
 	"store_asset_mtime" "1569528949"
@@ -120,9 +163,10 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
-		"category_28" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -202,15 +246,15 @@
 		"5" "1777"
 		"6" "4182"
 		"7" "4166"
-		"8" "4667"
-		"9" "1742"
+		"8" "1742"
+		"9" "4667"
 		"10" "4057"
 		"11" "21"
 		"12" "9204"
 		"13" "4342"
 		"14" "6426"
-		"15" "4345"
-		"16" "1695"
+		"15" "1695"
+		"16" "4345"
 		"17" "1663"
 		"18" "4036"
 		"19" "1684"
@@ -308,9 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "5164951428459741018"
-				"size" "384700581"
-				"download" "136395472"
+				"gid" "7757379324423034072"
+				"size" "382941754"
+				"download" "114654832"
 			}
 			"public-beta-update"
 			{
@@ -1331,8 +1375,8 @@
 	{
 		"public"
 		{
-			"buildid" "3364114"
-			"timeupdated" "1635864623"
+			"buildid" "7715854"
+			"timeupdated" "1736438420"
 		}
 		"beta"
 		{
@@ -1403,6 +1447,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21700920"
-"_sha" "c5246cc77a655b43f3b3ff066f8e7279f30d9046"
-"_size" "31260"
+"_change_number" "26926581"
+"_sha" "ed03090cc6a3bcd8076914048fee04e518a8fb1c"
+"_size" "31923"
