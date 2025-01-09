@@ -345,8 +345,8 @@
 		"6" "30358"
 		"7" "597"
 		"8" "1741"
-		"9" "4726"
-		"10" "17389"
+		"9" "17389"
+		"10" "4726"
 		"11" "1775"
 		"12" "4182"
 		"13" "8945"
@@ -367,7 +367,7 @@
 	"developer" "Monster Couch"
 	"publisher" "Monster Couch"
 	"homepage" "https://www.monstercouch.com/wingspan/"
-	"listofdlc" "1741470,1816700,1962870,2924770"
+	"listofdlc" "1741470,1816700,1962870,2924770,3320750"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -429,54 +429,9 @@
 		{
 			"public"
 			{
-				"gid" "3764584557384824911"
-				"size" "1852809744"
-				"download" "1418915360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"frogmouth"
-			{
-				"gid" "20DCEEBE1B5FC68342121CE9522A7278"
-				"size" "5E05FA551AF18D546764E00CA592B0ED"
-				"download" "C72DAEE6A9DAFCED5628BC4EC05F51B4"
-			}
-			"media_preview"
-			{
-				"gid" "E1EB723CAC9262360C07A34FE2C81376"
-				"size" "9EDC8CF409994771C2370AB7BD75B59A"
-				"download" "9E4B57C8687D7FD4E87D56D943D5F822"
-			}
-			"archive"
-			{
-				"gid" "9BD862FFFE9F57FF82923E41694AE79C"
-				"size" "D6CF142160C2F0101968F32E39A98BCE"
-				"download" "83E4AC2ED648ACDD54F2BE02454A7505"
-			}
-			"develop"
-			{
-				"gid" "A2101989B7577A8D61B07BBCBBB81A70"
-				"size" "34E59B44BF19D837508F46527D10E44F"
-				"download" "B06EFC078AC1AA90EF3F0E41C5BF0359"
-			}
-			"main"
-			{
-				"gid" "4C62B4E41E895EB0F8060D6B834CACBC"
-				"size" "8A04DB465E00B535F95F8DB9A23EB798"
-				"download" "22238CDD4468D4EB6CC9BAC177B478C5"
-			}
-			"preview"
-			{
-				"gid" "D2858B02B6CA2FD8232C40989CF608C8"
-				"size" "DF4B1937B01F8B6A09D297334A19FD4B"
-				"download" "DB7934E97D6AE7499B4035497D96291E"
-			}
-			"prototyping"
-			{
-				"gid" "41898483F21E9ADE2B550690BB889251"
-				"size" "413510AFB43892C3B813D842DDBE8792"
-				"download" "24D6087765B437E370E43AC78771B218"
+				"gid" "1234173501101734259"
+				"size" "1856681891"
+				"download" "1420642208"
 			}
 		}
 	}
@@ -492,54 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "3504355896340426893"
-				"size" "1963078357"
-				"download" "1443998208"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"frogmouth"
-			{
-				"gid" "412465B63F13690BC1EBEB23D775F838"
-				"size" "A8D01378269D3E299466D39A27CF1A88"
-				"download" "7842CEA352476CCA43993B8C2CD9623B"
-			}
-			"media_preview"
-			{
-				"gid" "CBD3D21D90738B554580533A0151C285"
-				"size" "D606EB3F31BA4BA98AC68F59425BB51C"
-				"download" "9767AD6A29CD58ADF2710C26D988F2B8"
-			}
-			"archive"
-			{
-				"gid" "C0720206DD58075070F784CE0C8C4908"
-				"size" "8C0B8D37DDBB97D9D37C064BEF041D63"
-				"download" "CCE522F6A97D7AB06B6BBC0ACF96D92B"
-			}
-			"develop"
-			{
-				"gid" "1F890801B48E7155D21141543785C7FE"
-				"size" "02F56F47CD417D18F616C4CB608B5799"
-				"download" "2A156AC5F232ECFF07C8E1E60522D848"
-			}
-			"main"
-			{
-				"gid" "E60878A5DC2C7F2588C7B73F1C7FD984"
-				"size" "7CC337C622252B43EC2C7707B277E573"
-				"download" "2CE9BF3F2B0C0F8F9E6F3A63C2FE179E"
-			}
-			"preview"
-			{
-				"gid" "4F6992552D722189B30C7DAA47BBC35F"
-				"size" "D12198286A5589EDE98F7469A50AABC9"
-				"download" "EB44B5AE612E6A83CD42DE342FBB1D4B"
-			}
-			"prototyping"
-			{
-				"gid" "D41D54F77D79EF0B576C17F215396912"
-				"size" "29C09A8DBA8244B3B208A3EA997492B7"
-				"download" "195B007C477082F976A02E3CA6B3F4DD"
+				"gid" "8981221538054503992"
+				"size" "1968719639"
+				"download" "1445752816"
 			}
 		}
 	}
@@ -548,52 +458,11 @@
 	{
 		"public"
 		{
-			"buildid" "16614357"
-			"timeupdated" "1733242222"
-		}
-		"frogmouth"
-		{
-			"buildid" "12425301"
-			"pwdrequired" "1"
-			"timeupdated" "1697123940"
-		}
-		"media_preview"
-		{
-			"buildid" "13432002"
-			"pwdrequired" "1"
-			"timeupdated" "1707748490"
-		}
-		"archive"
-		{
-			"buildid" "15653550"
-			"pwdrequired" "1"
-			"timeupdated" "1730112173"
-		}
-		"develop"
-		{
-			"buildid" "16602806"
-			"pwdrequired" "1"
-			"timeupdated" "1733154867"
-		}
-		"main"
-		{
-			"buildid" "16614357"
-			"pwdrequired" "1"
-			"timeupdated" "1733228355"
-		}
-		"preview"
-		{
-			"buildid" "16204506"
-			"pwdrequired" "1"
-			"timeupdated" "1730111731"
-		}
-		"prototyping"
-		{
-			"buildid" "16534339"
-			"pwdrequired" "1"
-			"timeupdated" "1732606861"
+			"buildid" "16759288"
+			"timeupdated" "1736427750"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -601,6 +470,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "26473242"
-"_sha" "46e6e5ed4d5e126d02e7fbd02aa974ee0b064e21"
-"_size" "13458"
+"_change_number" "26924044"
+"_sha" "ffcf07e6f7d066736fd2a5202ddce3352145484a"
+"_size" "10246"
