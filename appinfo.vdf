@@ -1,0 +1,278 @@
+"appid" "1134150"
+"common"
+{
+	"name" "X Wars Deluxe"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "b4867fd37c152f4a60a285498d31237f95be00e2"
+	"logo_small" "b4867fd37c152f4a60a285498d31237f95be00e2_thumb"
+	"clienticon" "d75c513291786f410241d1d6ab39c2cc053d3622"
+	"clienttga" "99278ba85ed32ae1ac50189cea0f7bcff0ac154a"
+	"icon" "d5ee004c39978fd29f94e9c3a4f85f455de95869"
+	"market_presence" "0"
+	"metacritic_name" "X Wars Deluxe"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1715863181"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Black Stairs Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Black Stairs Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1566976680"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1134150"
+	"store_tags"
+	{
+		"0" "14139"
+		"1" "1678"
+		"2" "1775"
+		"3" "1741"
+		"4" "9"
+		"5" "4191"
+		"6" "599"
+		"7" "7569"
+		"8" "4840"
+		"9" "7368"
+		"10" "3859"
+		"11" "4182"
+		"12" "19"
+		"13" "4168"
+		"14" "113"
+		"15" "4305"
+		"16" "5851"
+		"17" "6650"
+		"18" "4085"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"developer" "Black Stairs Games"
+	"publisher" "Black Stairs Games"
+	"listofdlc" "1442900,2025850"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "X Wars Deluxe"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X Wars Deluxe.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "X Wars Deluxe.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "XWDMac.app\\Contents\\MacOS\\X Wars Deluxe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"workshopdepot" "1134150"
+	"1134151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1446494578592024808"
+				"size" "221142073"
+				"download" "93094144"
+			}
+		}
+	}
+	"1134152"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4576267894783255779"
+				"size" "233860527"
+				"download" "96449648"
+			}
+		}
+	}
+	"1134153"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7159544798597271022"
+				"size" "246372227"
+				"download" "100631232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9155426"
+			"timeupdated" "1658310507"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26873874"
+"_sha" "2e086843764555e9cfb8e9604107064db80f7d1b"
+"_size" "4421"
