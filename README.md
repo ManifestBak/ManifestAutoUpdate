@@ -1,48 +1,45 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-09 21:59:44
+## 更新时间：2025-01-09 22:06:33
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1036580 | National Park Girls| Game |
-| 107300 | Breath of Death VII | game |
-| 1034370 | Iron Heart| Game |
-| 1075790 | Fox and Bunny| Game |
-| 108110 | Starpoint Gemini| game |
-| 1086410 | Golf Around!| Game |
-| 1054490 | WINGSPAN (展翅翱翔)| Game |
-| 1092140 | Exit From| Game |
-| 1110380 | Fit For a King| Game |
-| 1120240 | Ded Inside| Game |
-| 1122690 | Last Stop| Game |
-| 1126190 | Disney Classic Games Aladdin and the Lion King| Game |
-| 1128450 | 光与暗之恋曲| Game |
-| 1127250 | Deadly Maze: Phase 1| Game |
-| 1134150 | X Wars Deluxe| Game |
-| 11360 | Chains| Game |
-| 1166990 | Kukoro: Stream chat games| Game |
-| 1171380 | Mo:Astray - OST| Music |
-| 1197340 | Dead territory| Game |
-| 1194050 | Orange Cast| Game |
-| 1196080 | Space Simulation Toolkit| Game |
-| 1206230 | Sokpop S04: Kart kids| Game |
-| 1209440 | Sokpop S04: capy hoky| Game |
-| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
-| 1207480 | Sokpop S07: Pupper park| Game |
-| 1232980 | Alien 911 Prologue| Game |
-| 1210550 | Hohokum| Game |
-| 1230560 | Cyber Attack| Game |
-| 1265870 | Cave Digger PC| Game |
-| 1240630 | Hex of Steel| Game |
-| 1333490 | Dead Event| Game |
-| 1346860 | Spirit of dungeon| Game |
-| 1338830 | 最后的大法师 光明之旅(Last Archmage Journey of Light)| Game |
-| 1332760 | Nienix| Game |
-| 1361230 | Cleo - a pirate's tale| Game |
-| 1389880 | Space Monster| Game |
-| 1376370 | Hentai Jigsaw Emma| Game |
-| 1415540 | ElementalsFight| Game |
-| 1418170 | Runescape: The Orchestral Collection| Music |
-| 1426570 | 51号太空站| Game |
-| 1419850 | Saleblazers| Game |
-| 1437940 | Glasses and Girls| Game |
-| 1458590 | Anime Artist 3: Harem| Game |
+| 1479470 | Maniac Path 2| Game |
+| 1493360 | Clouzy!| Game |
+| 1491470 | Kids Memory Game| Game |
+| 1505980 | Cat Go! Ultimate Challenge| Game |
+| 1499920 | Pixel Piano| Game |
+| 1512050 | World Turtles| Game |
+| 1511250 | Vector Race| Game |
+| 1532800 | Squirrel Divorce| Game |
+| 1555160 | Frog story| Game |
+| 1559500 | Happy Halloween| Game |
+| 1566910 | Riddle Girl| Game |
+| 1547340 | Puzzlecar| Game |
+| 1568290 | Best Miner| Game |
+| 1573680 | The Fabled Woods Soundtrack| Music |
+| 1588000 | Archer boy| Game |
+| 1590670 | Erotic Jigsaw Puzzle| Game |
+| 1611460 | Hide and Run| Game |
+| 1614250 | 地牢少女| Game |
+| 1642250 | Swift Elf| Game |
+| 1630 | Disciples II: Rise of the Elves| game |
+| 1670522 | Succubus - Soundtrack| Music |
+| 1681120 | Dark Side of Fate| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1691750 | Sky Oceans: Wings for Hire| Game |
+| 1729950 | Hentai Jigsaw Girls 3| Game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 1765800 | Hidden Caves| Game |
+| 1766200 | Apocalich| Game |
+| 1782120 | ZERO Sievert| Game |
+| 1807730 | Lab Bio-Terror| Game |
+| 1812850 | Race for Your Life| Game |
+| 1815880 | Maze Art: Blue| Game |
+| 1820890 | Princess Sera adventures| Game |
+| 1787960 | 铣削机模拟器| Game |
+| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
+| 1832590 | RPG Maker MZ - Castle of Shikigami 2| DLC |
+| 1828940 | Hidden Magic Town| Game |
+| 1852990 | Disaster| Game |
+| 1882670 | Sex Adventures - The Job Interview| Game |
+| 1879910 | The House of Big people| Game |
