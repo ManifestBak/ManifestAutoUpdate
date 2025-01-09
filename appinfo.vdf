@@ -122,6 +122,8 @@
 		"17" "4136"
 		"18" "6971"
 	}
+	"review_score" "7"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -144,18 +146,9 @@
 		{
 			"public"
 			{
-				"gid" "1536807574222123150"
-				"size" "1868417599"
-				"download" "1276271584"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "67B5E6F326058B15857471CE7AC87AC4"
-				"size" "5D732F83BC716BD242AE78437FFAD268"
-				"download" "398B63D26B46AF57A3CDD46256E63739"
+				"gid" "5460016189873080517"
+				"size" "1900156560"
+				"download" "1305237504"
 			}
 		}
 		"dlcappid" "2662040"
@@ -164,18 +157,13 @@
 	{
 		"public"
 		{
-			"buildid" "16483849"
-			"timeupdated" "1732183392"
-		}
-		"beta"
-		{
-			"buildid" "16483849"
-			"pwdrequired" "1"
-			"timeupdated" "1732180895"
+			"buildid" "16947509"
+			"timeupdated" "1736415651"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26295470"
-"_sha" "ce88b206bc1418b7b6bbfeae9e2f62eac10aee17"
-"_size" "2840"
+"_change_number" "26921356"
+"_sha" "f6d1c40ef0024c9083c763478897899e74195f16"
+"_size" "2610"
