@@ -101,12 +101,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "A Corsican Frog"
+			"name" "War Frogs Studio"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "A Corsican Frog"
+			"name" "War Frogs Studio"
 		}
 	}
 	"primary_genre" "2"
@@ -250,8 +250,8 @@
 }
 "extended"
 {
-	"developer" "A Corsican Frog"
-	"publisher" "A Corsican Frog"
+	"developer" "War Frogs Studio"
+	"publisher" "War Frogs Studio"
 	"gamemanualurl" "https://store.steampowered.com/manual/1240630/"
 	"listofdlc" "1484260"
 	"dlcavailableonstore" "1"
@@ -313,27 +313,21 @@
 		{
 			"public"
 			{
-				"gid" "2352637891943223856"
-				"size" "811044121"
-				"download" "414608752"
+				"gid" "7435612555185468980"
+				"size" "654770328"
+				"download" "430103568"
 			}
-			"7.7.23"
+			"7.7.25"
 			{
-				"gid" "6135442926365343487"
-				"size" "810970349"
-				"download" "414582400"
+				"gid" "7435612555185468980"
+				"size" "654770328"
+				"download" "430103568"
 			}
 			"7.7.24"
 			{
 				"gid" "2352637891943223856"
 				"size" "811044121"
 				"download" "414608752"
-			}
-			"7.7.22"
-			{
-				"gid" "2214668861563341723"
-				"size" "810972189"
-				"download" "414578736"
 			}
 			"6.8.4"
 			{
@@ -360,27 +354,21 @@
 		{
 			"public"
 			{
-				"gid" "2662771885891502005"
-				"size" "792619896"
-				"download" "406791536"
+				"gid" "8677588545877071694"
+				"size" "630096257"
+				"download" "422253856"
 			}
-			"7.7.23"
+			"7.7.25"
 			{
-				"gid" "4706377142559389480"
-				"size" "788349132"
-				"download" "406724288"
+				"gid" "8677588545877071694"
+				"size" "630096257"
+				"download" "422253856"
 			}
 			"7.7.24"
 			{
 				"gid" "2662771885891502005"
 				"size" "792619896"
 				"download" "406791536"
-			}
-			"7.7.22"
-			{
-				"gid" "7637555077218935934"
-				"size" "786253420"
-				"download" "406717504"
 			}
 			"6.8.4"
 			{
@@ -407,27 +395,21 @@
 		{
 			"public"
 			{
-				"gid" "6000700462611178050"
-				"size" "789271529"
-				"download" "405654096"
+				"gid" "1661498144007653541"
+				"size" "630934843"
+				"download" "421194656"
 			}
-			"7.7.23"
+			"7.7.25"
 			{
-				"gid" "6352130889911362004"
-				"size" "793394749"
-				"download" "405673072"
+				"gid" "1661498144007653541"
+				"size" "630934843"
+				"download" "421194656"
 			}
 			"7.7.24"
 			{
 				"gid" "6000700462611178050"
 				"size" "789271529"
 				"download" "405654096"
-			}
-			"7.7.22"
-			{
-				"gid" "340158828364971392"
-				"size" "793396589"
-				"download" "405668416"
 			}
 			"6.8.4"
 			{
@@ -451,23 +433,18 @@
 	{
 		"public"
 		{
-			"buildid" "16866925"
-			"timeupdated" "1735408815"
+			"buildid" "16944283"
+			"timeupdated" "1736372346"
 		}
-		"7.7.23"
+		"7.7.25"
 		{
-			"buildid" "16804333"
-			"timeupdated" "1734631162"
+			"buildid" "16944283"
+			"timeupdated" "1736372331"
 		}
 		"7.7.24"
 		{
 			"buildid" "16866925"
 			"timeupdated" "1735408795"
-		}
-		"7.7.22"
-		{
-			"buildid" "16593216"
-			"timeupdated" "1733064493"
 		}
 		"6.8.4"
 		{
@@ -489,6 +466,6 @@
 	"maxnumfiles" "10"
 }
 "_missing_token" "False"
-"_change_number" "26805789"
-"_sha" "3f382d9585024808d3a75cac91b10f02124a6e8f"
-"_size" "8098"
+"_change_number" "26914273"
+"_sha" "7b3ff420d41cba837cd9fd0c2f2fce0e7d30973f"
+"_size" "7684"
