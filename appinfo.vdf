@@ -6,7 +6,7 @@
 	"releasestate" "released"
 	"clienticon" "932e54819a0b2114abe386f847a8666f165d9f0a"
 	"clienttga" "b8cc58865488ef7640d0c633b39a187eec55b9c6"
-	"icon" "818ec17544eb16bcb5559d7d832e94df230e3f73"
+	"icon" "4730a0d138d106590baf379169b02b140530821e"
 	"logo" "daa2e72c93c194b4162e227d654be2d5d156fa1d"
 	"logo_small" "daa2e72c93c194b4162e227d654be2d5d156fa1d_thumb"
 	"oslist" "windows"
@@ -119,7 +119,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729270547"
+	"store_asset_mtime" "1736423342"
 	"associations"
 	{
 		"0"
@@ -136,6 +136,11 @@
 		{
 			"type" "franchise"
 			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "GameHunters"
 		}
 	}
 	"primary_genre" "28"
@@ -326,24 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "826126939892217361"
-				"size" "20324537050"
-				"download" "9421134944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E4785690FB4DFA61C429E444B40A573E"
-				"size" "FD4EE20047F634F2E87CCB2E7275AD80"
-				"download" "F1FD21F36F66D335BD495FCD2C4F0258"
-			}
-			"develop"
-			{
-				"gid" "652C6FA2B7C038FEE6688A99ED8662B8"
-				"size" "8C27A10902682184B2C88325CDF276CA"
-				"download" "D1097CB55800E1EC4C2A85B1EE01CFBE"
+				"gid" "6916466392991995517"
+				"size" "21466677186"
+				"download" "9990732032"
 			}
 		}
 	}
@@ -353,22 +343,11 @@
 	{
 		"public"
 		{
-			"buildid" "16501451"
-			"timeupdated" "1732289844"
-		}
-		"beta"
-		{
-			"buildid" "16252537"
-			"pwdrequired" "1"
-			"timeupdated" "1730383495"
-		}
-		"develop"
-		{
-			"buildid" "16501451"
-			"pwdrequired" "1"
-			"timeupdated" "1732286302"
+			"buildid" "16950920"
+			"timeupdated" "1736430492"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -386,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26319459"
-"_sha" "c9f21a8245f3ff00393d618e1eea79667d9f8ff1"
-"_size" "6679"
+"_change_number" "26924758"
+"_sha" "8fda503a5adfd6938d04c19c1e8acc6700e0b149"
+"_size" "6190"
