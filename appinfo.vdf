@@ -243,6 +243,8 @@
 {
 	"developer" "Unwound Games"
 	"publisher" "indie.io"
+	"listofdlc" "3373350"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -266,12 +268,27 @@
 				"oslist" "macos"
 			}
 		}
+		"2"
+		{
+			"executable" "EchoesOfThePlumGrove_ArtBook.pdf"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "3373350"
+			}
+			"description_loc"
+			{
+				"english" "Artbook"
+			}
+			"description" "Artbook"
+		}
 	}
 	"steamcontrollertemplateindex" "4"
 	"steamdecktouchscreen" "1"
 }
 "depots"
 {
+	"hasdepotsindlc" "1"
 	"1536091"
 	{
 		"config"
@@ -283,42 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "98491360697928437"
-				"size" "2187388942"
-				"download" "383978800"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0250DBB69B0857F9A2230B7A2DEA0BF8"
-				"size" "F5758C5A702CBC07C6466A515298126A"
-				"download" "AAE22C79A524D08B6C75F085E9A40625"
-			}
-			"experimental"
-			{
-				"gid" "84B186A71192B51039BDAAAC9D35706E"
-				"size" "DE505A36B01C059D938348AB07871B3F"
-				"download" "A0EA4BA316BF4A62953806ABFB67632B"
-			}
-			"legacy"
-			{
-				"gid" "E689EFF218D66EC9BB91621D6F8F0299"
-				"size" "2A8FFB6225BF11CDA31ADE5717E5DF87"
-				"download" "0A031F83CC13F381C484898A67894D69"
-			}
-			"milestones"
-			{
-				"gid" "577C9EA6B5C52A4BC0705BDC130F0BF9"
-				"size" "F5013F70F02165C9F41E28C0BE17E3E1"
-				"download" "A8DCCE7377FA94167839A63AC701E0D5"
-			}
-			"mods"
-			{
-				"gid" "CD2596D187066D23C7A9C9521B672C09"
-				"size" "58E79814FDCD06FDD21D87FDBA2FD894"
-				"download" "4E5CDFAF74DBCEDBB1D70D2494A2D59E"
+				"gid" "8619968460281644331"
+				"size" "2188574708"
+				"download" "384197856"
 			}
 		}
 	}
@@ -338,39 +322,6 @@
 				"download" "573476384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "7DAA0B18A313C411CBAC7406FE2F7D8A"
-				"size" "C91DEF15875AAA0B88464A09B129D1AA"
-				"download" "EF3FF46E057F7CB278CD7B692338E746"
-			}
-			"experimental"
-			{
-				"gid" "EA266C46618BC7B32BCEA56C9952C704"
-				"size" "E6EBAAAA3997C484809DFF2214F57A89"
-				"download" "816F6BDC691CD26ADB8D2F5208EC9FA2"
-			}
-			"legacy"
-			{
-				"gid" "2F95131227EC061F7A15C10BB991F434"
-				"size" "FBE6DC3608F9CA7719ECB93B23ADAFB4"
-				"download" "35F848B30C5BA77DEDDE7E444DE6DA8F"
-			}
-			"milestones"
-			{
-				"gid" "37911A543958F301933E1047A20D8B59"
-				"size" "048F91FFF344FE07A1760E02F0105807"
-				"download" "FA37A75F3744B8EB2E9FD32D52697990"
-			}
-			"mods"
-			{
-				"gid" "F51524D4E60AA41A71086298E2E436BF"
-				"size" "10E4DD829279FC86FDC7B491F718C496"
-				"download" "4A427D601E3F706B90829494102AD4E7"
-			}
-		}
 	}
 	"1536093"
 	{
@@ -382,36 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "7310365264322099712"
-				"size" "2214242292"
-				"download" "392490096"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "CC405070371997A8FF16F90073E0B2ED"
-				"size" "5F5B4D0B1F79B1E66BA1472D9A0A13AE"
-				"download" "875AB451333E785C696F69745821FC9C"
-			}
-			"legacy"
-			{
-				"gid" "4F7CFD23292BBF9B8C79C3CDC14E4DC7"
-				"size" "E63C63661A8AC3F02A83E59143988E8F"
-				"download" "F6C8FF203B1E55E851790C1D4F81C237"
-			}
-			"milestones"
-			{
-				"gid" "30DA6402F0088EF2F4BE2AF343A0B0AD"
-				"size" "88A10AF66C6FF579F963B5E6EC72053C"
-				"download" "F566CEF523AB1895CD57E80F0C25E418"
-			}
-			"mods"
-			{
-				"gid" "AA800C6EF664AE95B6F4E17CABD959CA"
-				"size" "D060A0293F9A6C362589C5A50B157DA8"
-				"download" "D863E8C380166D3804BD94DB4FAB7BB7"
+				"gid" "3669845075182789986"
+				"size" "2215400762"
+				"download" "392667120"
 			}
 		}
 	}
@@ -419,40 +343,11 @@
 	{
 		"public"
 		{
-			"buildid" "16168932"
-			"timeupdated" "1729791070"
-		}
-		"beta"
-		{
-			"buildid" "14166275"
-			"pwdrequired" "1"
-			"timeupdated" "1714005506"
-		}
-		"experimental"
-		{
-			"buildid" "16168932"
-			"pwdrequired" "1"
-			"timeupdated" "1729790930"
-		}
-		"legacy"
-		{
-			"buildid" "15658350"
-			"pwdrequired" "1"
-			"timeupdated" "1728174819"
-		}
-		"milestones"
-		{
-			"buildid" "16130605"
-			"pwdrequired" "1"
-			"timeupdated" "1729565609"
-		}
-		"mods"
-		{
-			"buildid" "16168932"
-			"pwdrequired" "1"
-			"timeupdated" "1729790938"
+			"buildid" "16938696"
+			"timeupdated" "1736379010"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -494,6 +389,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25881666"
-"_sha" "376383f1c7b73264b2fbc0fe0b7b367ddc0ff555"
-"_size" "9341"
+"_change_number" "26915339"
+"_sha" "df1e4321a368e2f99191d5d7766f54f4a68d0cba"
+"_size" "6627"
