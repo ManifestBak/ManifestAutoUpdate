@@ -66,7 +66,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "e0f640c0838b27a1a05a91ae748fc687820b4c73/capsule_231x87.jpg"
+		"english" "961e9002939ebd5da6c3d6e63758b8fe07a15078/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -92,29 +92,25 @@
 		{
 			"image2x"
 			{
-				"english" "6da65dce6d1e1a84acea1a6bd84481c4a8bb0a08/library_600x900_2x.jpg"
+				"english" "c8869b753a53162b280fb38a2dfdcc578cd92209/library_600x900_2x.jpg"
 			}
 			"image"
 			{
-				"english" "6da65dce6d1e1a84acea1a6bd84481c4a8bb0a08/library_600x900.jpg"
+				"english" "c8869b753a53162b280fb38a2dfdcc578cd92209/library_600x900.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image2x"
-			{
-				"english" "0a30acdef29b6d5b5f623f90c88b720758708659/library_hero_2x.jpg"
-			}
 			"image"
 			{
-				"english" "0a30acdef29b6d5b5f623f90c88b720758708659/library_hero.jpg"
+				"english" "f812a1a3bb51cd05527dcf417b4c30dfb92c990b/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "0a30acdef29b6d5b5f623f90c88b720758708659/library_hero_blur.jpg"
+				"english" "f812a1a3bb51cd05527dcf417b4c30dfb92c990b/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -138,15 +134,15 @@
 		{
 			"image"
 			{
-				"english" "3d41984d4ec7103e744d1ffb2b8a74b9caad2e33/library_header.jpg"
+				"english" "1a336b4aec5ca34333b92f54079e12ef9331ae73/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "3d41984d4ec7103e744d1ffb2b8a74b9caad2e33/library_header_2x.jpg"
+				"english" "1a336b4aec5ca34333b92f54079e12ef9331ae73/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729694393"
+	"store_asset_mtime" "1736252726"
 	"associations"
 	{
 		"0"
@@ -258,10 +254,10 @@
 		"4" "4791"
 		"5" "1774"
 		"6" "19"
-		"7" "1695"
-		"8" "3964"
-		"9" "492"
-		"10" "4182"
+		"7" "3964"
+		"8" "1695"
+		"9" "4182"
+		"10" "492"
 		"11" "21"
 		"12" "493"
 		"13" "599"
@@ -309,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "5573247774663770608"
-				"size" "343476219"
-				"download" "187747904"
+				"gid" "3390722224532106506"
+				"size" "343476277"
+				"download" "187748864"
 			}
 			"legacy"
 			{
@@ -320,136 +316,13 @@
 				"download" "183542208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "9A652EB6F5B697EB9A90A3B24004E450"
-				"size" "E6E1FC95CB046557A09113995E09EBE4"
-				"download" "17FF63E7E1931F796FA24C4FE0FE27D1"
-			}
-			"partners"
-			{
-				"gid" "E23DCE8911E90177154E73027775DA09"
-				"size" "B848127C4B98AFBE1D31E7E46206A59A"
-				"download" "B39B22A0D3CF7B1E9EB95DFD0FBCBBB1"
-			}
-			"closedbeta"
-			{
-				"gid" "C079487480AF96647367329E927FEA62"
-				"size" "983F11678BAA49ADE660271E920952EA"
-				"download" "7FCF025AA48734A361FA3CAF4084C7B1"
-			}
-			"designtest"
-			{
-				"gid" "6BC028B134CB6C18C34A9C57B40FDE10"
-				"size" "87DA02F78B18F1D6D7BD7720E28EB30F"
-				"download" "D7A5ABEFB80B737A0EB044DC8583F710"
-			}
-			"experimental"
-			{
-				"gid" "17F41C6D1A48BC630DC3A721C8C9CCEB"
-				"size" "B8D0857E8F5C7CEF9E9C060EA6E3E0AE"
-				"download" "787B976442F32988471A8C6201454983"
-			}
-			"experimental2"
-			{
-				"gid" "C3A849954D215FC4FE6D0D88607AED2F"
-				"size" "2B414B4CBFC4B04E368354DBFA00716A"
-				"download" "E29B53BE04824907FAEAB394978E13CC"
-			}
-			"influencer"
-			{
-				"gid" "477A0B976648DF40AFB8C7492863E1B9"
-				"size" "9F9C231E97468172DC4753D03D41F18D"
-				"download" "02B74A10C59F4533342CB957A6960354"
-			}
-			"juju-test"
-			{
-				"gid" "75359C6CA2F2C7AADED97CCEF4CBF8BF"
-				"size" "34A8B4DC2472C5943D0DBFDB837B1F93"
-				"download" "684B8BBC7A256E31EE533029536F843F"
-			}
-			"press"
-			{
-				"gid" "77537F68559D230CCFD470A6393C658B"
-				"size" "63DCD2F11333D0E530E244CCDD43045C"
-				"download" "7D51CDFBA53FDF1258DBFC2ED8C2F994"
-			}
-			"qa-branch-1"
-			{
-				"gid" "B5F2703DB294B6B40F63B723B4932A82"
-				"size" "D3D7A4D73AC3652381DAF4C59DD6E2F6"
-				"download" "BF77D7AF2C1F00B06A2C9AB9CC5D98F6"
-			}
-			"qa-branch-2"
-			{
-				"gid" "D3C4EBE415634B8FC3ED0297463BAEEB"
-				"size" "EB768300C65D1D1A7D900D254E6E1C6C"
-				"download" "C65FB953513BF8CF27708EE762B99E71"
-			}
-			"testdonotdownload"
-			{
-				"gid" "2719A0D44D429BBBA40A525E2710990D"
-				"size" "2192E9D793AB9945F809992072B3743A"
-				"download" "5907DA3499EB16C7188B4B5D27DD3CC2"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16652945"
-			"timeupdated" "1733760039"
-		}
-		"demo"
-		{
-			"buildid" "13794668"
-			"pwdrequired" "1"
-			"timeupdated" "1711017025"
-		}
-		"partners"
-		{
-			"buildid" "12847573"
-			"pwdrequired" "1"
-			"timeupdated" "1701421498"
-		}
-		"closedbeta"
-		{
-			"buildid" "15147821"
-			"pwdrequired" "1"
-			"timeupdated" "1722351841"
-		}
-		"designtest"
-		{
-			"buildid" "15111796"
-			"pwdrequired" "1"
-			"timeupdated" "1721650595"
-		}
-		"experimental"
-		{
-			"buildid" "16248375"
-			"pwdrequired" "1"
-			"timeupdated" "1730366240"
-		}
-		"experimental2"
-		{
-			"buildid" "15435968"
-			"pwdrequired" "1"
-			"timeupdated" "1724165785"
-		}
-		"influencer"
-		{
-			"buildid" "15990739"
-			"pwdrequired" "1"
-			"timeupdated" "1729069384"
-		}
-		"juju-test"
-		{
-			"buildid" "11038836"
-			"pwdrequired" "1"
-			"timeupdated" "1730219614"
+			"buildid" "16949520"
+			"timeupdated" "1736424353"
 		}
 		"legacy"
 		{
@@ -457,31 +330,8 @@
 			"description" "Build 0.52.7"
 			"timeupdated" "1729690791"
 		}
-		"press"
-		{
-			"buildid" "15898149"
-			"pwdrequired" "1"
-			"timeupdated" "1727964385"
-		}
-		"qa-branch-1"
-		{
-			"buildid" "16652945"
-			"pwdrequired" "1"
-			"timeupdated" "1733472052"
-		}
-		"qa-branch-2"
-		{
-			"buildid" "16598082"
-			"pwdrequired" "1"
-			"timeupdated" "1733387052"
-		}
-		"testdonotdownload"
-		{
-			"buildid" "16032245"
-			"pwdrequired" "1"
-			"timeupdated" "1730219640"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -489,6 +339,6 @@
 	"maxnumfiles" "4"
 }
 "_missing_token" "False"
-"_change_number" "26560059"
-"_sha" "21c0c02401d61669ba9a56e88921887e8f92fb2e"
-"_size" "9737"
+"_change_number" "26923299"
+"_sha" "bdff81557916d6464396c278575436d84e01f7ff"
+"_size" "6227"
