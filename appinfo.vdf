@@ -149,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734521114"
+	"store_asset_mtime" "1736281157"
 	"associations"
 	{
 		"0"
@@ -361,54 +361,9 @@
 		{
 			"public"
 			{
-				"gid" "9188889928186368639"
-				"size" "11794140139"
-				"download" "5371104608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gdc2023_demo"
-			{
-				"gid" "D3356032A92AE22F59C4DA2063D624D2"
-				"size" "88ECDDFED3B4D5304B64A838C5DA80F9"
-				"download" "428F0A2EC7F6BADC193190FEE66976CC"
-			}
-			"macintosh"
-			{
-				"gid" "76DB4B51527D0493F98EF8737937B85C"
-				"size" "93BB7AE3E621E92048071D64B6275D0A"
-				"download" "D812456051E36FC72A38B4DE277A3992"
-			}
-			"partners"
-			{
-				"gid" "E3F039FDFB4138A098332B1427A4BFD9"
-				"size" "C1B9FA7FBD1E69B2461D035313F5CEC1"
-				"download" "B173A9DA347469C8D5387B5238116B67"
-			}
-			"nightly"
-			{
-				"gid" "A999DE0076AF13BA78D9A04696AA9161"
-				"size" "33322CDA406624851A6C4BB83410CD34"
-				"download" "E2E22E78168701DEF9C9C2D097E753A8"
-			}
-			"nightlydev"
-			{
-				"gid" "E1C53993EF6233A0363DF1385E943D29"
-				"size" "2DE77445CE277B30813F20B1BBCFE2F3"
-				"download" "261BE922E7C00D4488AB10B943C25157"
-			}
-			"shipping"
-			{
-				"gid" "AD5A0851E203500DED4372412B736589"
-				"size" "F5790FC840059F055D301020482B7EBC"
-				"download" "CA4EA7FE7739455834E90E2D1071A01C"
-			}
-			"stable"
-			{
-				"gid" "E1C562AE45CCB4B2AA0023676BA74120"
-				"size" "EAE3B9155C644989B9726A525BDC5611"
-				"download" "E47B9677AC96CDCAF61BD18642053971"
+				"gid" "7356745487723738161"
+				"size" "11794166251"
+				"download" "5371423632"
 			}
 		}
 	}
@@ -425,21 +380,6 @@
 				"gid" "5493042209246812368"
 				"size" "4731186534"
 				"download" "3893779792"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"macintosh"
-			{
-				"gid" "D527433B0EEB2762EAE74BD6B949E70F"
-				"size" "6E6CFE390C95F82963663672D1CC8906"
-				"download" "5490DDFED73E5FBF8D9BE4811B1A4E31"
-			}
-			"shipping"
-			{
-				"gid" "8523FD4B35F84747EC0D9847AB08F483"
-				"size" "AD2D228B7C085B2D4EC3C25E6E2691CA"
-				"download" "0B93BD1E17CEC9535441BBBB124CA619"
 			}
 		}
 	}
@@ -475,52 +415,11 @@
 	{
 		"public"
 		{
-			"buildid" "16800736"
-			"timeupdated" "1734612385"
-		}
-		"gdc2023_demo"
-		{
-			"buildid" "10686219"
-			"pwdrequired" "1"
-			"timeupdated" "1677867447"
-		}
-		"macintosh"
-		{
-			"buildid" "12606003"
-			"pwdrequired" "1"
-			"timeupdated" "1698959069"
-		}
-		"partners"
-		{
-			"buildid" "11938463"
-			"pwdrequired" "1"
-			"timeupdated" "1692028954"
-		}
-		"nightly"
-		{
-			"buildid" "16815026"
-			"pwdrequired" "1"
-			"timeupdated" "1734703738"
-		}
-		"nightlydev"
-		{
-			"buildid" "16757598"
-			"pwdrequired" "1"
-			"timeupdated" "1734344386"
-		}
-		"shipping"
-		{
-			"buildid" "15713902"
-			"pwdrequired" "1"
-			"timeupdated" "1726483744"
-		}
-		"stable"
-		{
-			"buildid" "16499692"
-			"pwdrequired" "1"
-			"timeupdated" "1733303300"
+			"buildid" "16940110"
+			"timeupdated" "1736342936"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -551,6 +450,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26734244"
-"_sha" "6f26bf5479188647ee69fdd2600f56f6ed84ce52"
-"_size" "10032"
+"_change_number" "26908397"
+"_sha" "2379ff2702ca31f06a892c3468aff40eceb2af92"
+"_size" "7679"
