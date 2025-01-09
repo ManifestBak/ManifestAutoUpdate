@@ -254,12 +254,12 @@
 		"7" "1685"
 		"8" "1775"
 		"9" "7108"
-		"10" "5350"
-		"11" "3843"
+		"10" "3843"
+		"11" "5350"
 		"12" "7368"
 		"13" "3968"
-		"14" "6506"
-		"15" "4840"
+		"14" "4840"
+		"15" "6506"
 		"16" "3841"
 		"17" "492"
 		"18" "5711"
@@ -313,36 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "2225057480781249376"
-				"size" "11289256950"
-				"download" "7899893040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "3D6F4F4243C09153E3C71C246B3AAA3D"
-				"size" "A73C0CE995D6416F3CCCF3CF2AB8FCEC"
-				"download" "F1697794F5BE4F5E622507739DF2E63D"
-			}
-			"festival-autumn-edition"
-			{
-				"gid" "B9AF1DF56ACFFC5DAF7FAD47A49AE462"
-				"size" "360D9D86F064AA09A1FCFCFCF5FE57D2"
-				"download" "BF351FCDDE7C97DB3F396B1984DD94AF"
-			}
-			"interal"
-			{
-				"gid" "C910DA306493D38D709CF56C9F1CE622"
-				"size" "398D7ED29B288D367A385F5595BABB9C"
-				"download" "8FFD236577EE387F012F02C48539B934"
-			}
-			"re-cand"
-			{
-				"gid" "99B4F55C7D4629E3DE16C59675B4C246"
-				"size" "133F0329B4DD2CE7A01325F52D62901E"
-				"download" "DEC192728FF03FAEEC01AEB0513A5006"
+				"gid" "1037537278732404280"
+				"size" "11308319341"
+				"download" "7917210688"
 			}
 		}
 	}
@@ -350,34 +323,11 @@
 	{
 		"public"
 		{
-			"buildid" "16860851"
-			"timeupdated" "1735309045"
-		}
-		"demo"
-		{
-			"buildid" "5144394"
-			"pwdrequired" "1"
-			"timeupdated" "1704945933"
-		}
-		"festival-autumn-edition"
-		{
-			"buildid" "5636620"
-			"pwdrequired" "1"
-			"timeupdated" "1669105280"
-		}
-		"interal"
-		{
-			"buildid" "16860851"
-			"pwdrequired" "1"
-			"timeupdated" "1735307087"
-		}
-		"re-cand"
-		{
-			"buildid" "16860851"
-			"pwdrequired" "1"
-			"timeupdated" "1735307097"
+			"buildid" "16945562"
+			"timeupdated" "1736417626"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -408,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26797509"
-"_sha" "adb745c6dacd0b25583c2f22a5845af351b96d23"
-"_size" "7504"
+"_change_number" "26921786"
+"_sha" "51529052071ed1c42b25020b822127b9aa533f2c"
+"_size" "6363"
