@@ -130,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719824216"
+	"store_asset_mtime" "1734069095"
 	"associations"
 	{
 		"0"
@@ -141,6 +141,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Firestoke"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Firestoke"
 		}
 	}
@@ -240,7 +245,7 @@
 		"19" "97376"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -279,15 +284,15 @@
 		{
 			"public"
 			{
-				"gid" "4629910728925097762"
-				"size" "4703728202"
-				"download" "630739648"
+				"gid" "8038386853524132716"
+				"size" "4804163981"
+				"download" "659967872"
 			}
 			"open_beta"
 			{
-				"gid" "503037972700599228"
-				"size" "4716318243"
-				"download" "638695504"
+				"gid" "8038386853524132716"
+				"size" "4804163981"
+				"download" "659967872"
 			}
 			"local"
 			{
@@ -296,70 +301,19 @@
 				"download" "540220784"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closed_beta"
-			{
-				"gid" "503A88ED141E99BBB122FA7A07BEFF9F"
-				"size" "3A8EBB77BA37FBE3562FDC81AE86F417"
-				"download" "B4497A288DCEDD1727A1805112FC87F4"
-			}
-			"demonstration"
-			{
-				"gid" "24CD2821AB277FA746196ABCCA0781B4"
-				"size" "BB3D7D7B5382B423B4A94167AD62BBDA"
-				"download" "15C7DC68941D4E7400261094CAFBD8D5"
-			}
-			"localisation"
-			{
-				"gid" "DB3E3975BB317F323DC973E8FFB4F944"
-				"size" "0283EC7FA2CB134048C89496525A5D16"
-				"download" "58573AAB27BEFECD8E5894CD8BAED65B"
-			}
-			"marketing"
-			{
-				"gid" "478467914F48B49E4E9DB566E86CFF8A"
-				"size" "0108577780010517FE873843F5192C9A"
-				"download" "CD67361DA3B37BD6E291E22CF3D16095"
-			}
-			"test_builds"
-			{
-				"gid" "08848CECC6621B50215E5DB98409102E"
-				"size" "BF41731C401C039F7BFE92985F46158F"
-				"download" "114B5B590CD8D07724855BEB8A714A3B"
-			}
-			"test_builds_debug"
-			{
-				"gid" "FEEE236360F2E6C6BB13CAFB3EA0A7BD"
-				"size" "33F515498B55DBBE1419379CFB7BF105"
-				"download" "BFE8646D2FE976476741BC827D3591C4"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15033818"
-			"timeupdated" "1721376766"
-		}
-		"closed_beta"
-		{
-			"buildid" "15637277"
-			"pwdrequired" "1"
-			"timeupdated" "1725880679"
+			"buildid" "16519655"
+			"timeupdated" "1732681319"
 		}
 		"open_beta"
 		{
-			"buildid" "15637277"
+			"buildid" "16519655"
 			"description" "open beta for testing new features"
-			"timeupdated" "1725880695"
-		}
-		"demonstration"
-		{
-			"buildid" "14701847"
-			"pwdrequired" "1"
-			"timeupdated" "1721031374"
+			"timeupdated" "1732504205"
 		}
 		"local"
 		{
@@ -368,31 +322,8 @@
 			"lcsrequired" "1"
 			"timeupdated" "1682323747"
 		}
-		"localisation"
-		{
-			"buildid" "14701847"
-			"pwdrequired" "1"
-			"timeupdated" "1721031386"
-		}
-		"marketing"
-		{
-			"buildid" "14701847"
-			"pwdrequired" "1"
-			"timeupdated" "1721031405"
-		}
-		"test_builds"
-		{
-			"buildid" "14701847"
-			"pwdrequired" "1"
-			"timeupdated" "1718713370"
-		}
-		"test_builds_debug"
-		{
-			"buildid" "14778603"
-			"pwdrequired" "1"
-			"timeupdated" "1718872341"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -433,3 +364,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26624119"
+"_sha" "872c2d12d14a71f7d08f8c4ece9e50efbbc625b7"
+"_size" "6726"
