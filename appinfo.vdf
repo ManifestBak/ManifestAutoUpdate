@@ -1,0 +1,438 @@
+"appid" "1036580"
+"common"
+{
+	"name" "National Park Girls"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"clienticon" "389d3a391092f211320b2c315ef7846c6fa068e1"
+	"clienttga" "30410e0094583f52e440cbbf5091a12c28524a4a"
+	"icon" "f25d7967dafa4588f11facfb8631fd7a46897d1b"
+	"logo" "9dc494de920ad95fbda34c16b506c03b43ddeb02"
+	"logo_small" "9dc494de920ad95fbda34c16b506c03b43ddeb02_thumb"
+	"osextended" "macos64,macosapplesilicon"
+	"metacritic_name" "National Park Girls"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1694201538"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Élan"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Studio Élan"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Studio Elan"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "National Park Girls"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1552600933"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1036580"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "4085"
+		"2" "7208"
+		"3" "13190"
+		"4" "4726"
+		"5" "10808"
+		"6" "597"
+		"7" "7250"
+		"8" "492"
+		"9" "4242"
+		"10" "4136"
+		"11" "1742"
+		"12" "44868"
+		"13" "21"
+		"14" "1721"
+		"15" "1719"
+		"16" "4562"
+		"17" "4182"
+		"18" "4305"
+		"19" "4598"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Studio Élan"
+	"publisher" "Studio Élan"
+	"listofdlc" "1167520,1448920,1693720,2310480,2578730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "National Park Girls"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NationalParkGirls.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "NationalParkGirls.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "NationalParkGirls.sh"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "9"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1167522"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3343459386161485440"
+				"size" "1578509640"
+				"download" "1110396880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "862FBDED73D109762A2E346D0733DBFA"
+				"size" "020B8D85839E180A9618E40E2F6ED1D0"
+				"download" "F250214509927EEF89A77024577E9C9D"
+			}
+		}
+	}
+	"2578730"
+	{
+		"dlcappid" "2578730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3124915146521116204"
+				"size" "94561772"
+				"download" "91089888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "40BF3F555D2DCF5D40B205754053F07C"
+				"size" "7CD59C4F7D96338F0D39A852504A72F2"
+				"download" "4DB21AC9DB87D08279FE713851A26F36"
+			}
+		}
+	}
+	"1167520"
+	{
+		"dlcappid" "1167520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "292716356956163283"
+				"size" "49598958"
+				"download" "47734960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "D938BFBE49BDA081FC783540A6DD0E25"
+				"size" "CE82E7B3ED0AD29FCFA76A3A898A70EF"
+				"download" "C59F41432BD91C80A9C30823F34C03A7"
+			}
+		}
+	}
+	"1448920"
+	{
+		"dlcappid" "1448920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5700764495926789720"
+				"size" "111397837"
+				"download" "110901776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "DA84DC0076CFB3F08177353D8F5A38F4"
+				"size" "1151350DE5A679F1953EDCD39329DF44"
+				"download" "FEAEA9B5E20B3F04DC66D7A89C58D387"
+			}
+		}
+	}
+	"1693720"
+	{
+		"dlcappid" "1693720"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "887004283464791237"
+				"size" "124034640"
+				"download" "120740672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "A4B53CC78C86E61C1D71220C0E73EBD9"
+				"size" "8F7C692AC302174F5623F46372F7ED99"
+				"download" "CC93A41A01EA4C449C678053BCF8960A"
+			}
+		}
+	}
+	"2310480"
+	{
+		"dlcappid" "2310480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8571596514599038552"
+				"size" "261597892"
+				"download" "248018688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "770B4355E252FD7CB8719C9CED45F3D8"
+				"size" "F92E5DE0022ECFE689938EBF3E26592D"
+				"download" "538E0F7BC589C04822F3BF438AC58D19"
+			}
+		}
+	}
+	"1036582"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7343170147002302896"
+				"size" "85"
+				"download" "128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "90EC2765BB47F91C1675BD4EC2F566F8"
+				"size" "C26BB904001AB5F6D31E1E9B7463A419"
+				"download" "A4497681515D63B525CBF71566C42D12"
+			}
+		}
+	}
+	"1036581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2707263434331179367"
+				"size" "85"
+				"download" "128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "44C8610BA2D4C9F8DDA1831D2A9BDBAC"
+				"size" "C26BB904001AB5F6D31E1E9B7463A419"
+				"download" "A4497681515D63B525CBF71566C42D12"
+			}
+		}
+	}
+	"1036583"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3422962104607531587"
+				"size" "85"
+				"download" "128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"melanieinternal"
+			{
+				"gid" "B062F0F1EBBD810B21EED369C6BA43BD"
+				"size" "C26BB904001AB5F6D31E1E9B7463A419"
+				"download" "A4497681515D63B525CBF71566C42D12"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13749479"
+			"timeupdated" "1710491117"
+		}
+		"melanieinternal"
+		{
+			"buildid" "13749479"
+			"pwdrequired" "1"
+			"timeupdated" "1710490030"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "90"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26519425"
+"_sha" "884144fe8451275c02b628598c255a59739b1c44"
+"_size" "7359"
