@@ -1,0 +1,301 @@
+"appid" "1689640"
+"common"
+{
+	"name" "Warden\'s Will"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "6ba90d8eef21da78a784cd01ba1303d33c1735c7"
+	"logo_small" "6ba90d8eef21da78a784cd01ba1303d33c1735c7_thumb"
+	"icon" "66784aafe2e085c8e906e806f3708454befe91e0"
+	"clienttga" "41c432d0c7d96ac15a2be0b98bae5c3072c72bd2"
+	"clienticon" "5bbfbe5d54ab78275796a2165837a93841f7615d"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "3fdaffd05290a10250a0152a40a891410a6aecac/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.207616907376796"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "5c5f18b3582c3f49993d8e4debbbdbaa8fac4912/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "5c5f18b3582c3f49993d8e4debbbdbaa8fac4912/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.207616907376796"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "23fd189d141e1cdbce1ad31428d89a023178ab31/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "0d64f4a84c4a570c40a97bed0bf8d2c6989c6cd4/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9bca0d6ea1c1ab33073f13e6348c25b72c08bc76/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "9bca0d6ea1c1ab33073f13e6348c25b72c08bc76/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736181855"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ELYZIO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ELYZIO"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1736352046"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1689640"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "42804"
+		"2" "1697"
+		"3" "5125"
+		"4" "3942"
+		"5" "4252"
+		"6" "1774"
+		"7" "4885"
+		"8" "3859"
+		"9" "3843"
+		"10" "19"
+		"11" "4182"
+		"12" "1685"
+		"13" "5752"
+		"14" "3993"
+		"15" "21"
+		"16" "620519"
+		"17" "4255"
+		"18" "3814"
+		"19" "6730"
+	}
+	"review_score" "5"
+	"review_percentage" "64"
+}
+"extended"
+{
+	"developer" "ELYZIO"
+	"publisher" "ELYZIO"
+	"homepage" "https://wardenswill.com"
+}
+"config"
+{
+	"installdir" "Wardens Will"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WardensWill.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1689641"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8029495768593185835"
+				"size" "1342842848"
+				"download" "1020242976"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16945550"
+			"timeupdated" "1736383924"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "WardensWill/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26921800"
+"_sha" "64072d9d96243ce1313479895fa0018bea0d7f72"
+"_size" "4851"
