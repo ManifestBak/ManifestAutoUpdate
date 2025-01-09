@@ -290,42 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "8971018239276290446"
-				"size" "31273891023"
-				"download" "30805755568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dq-build"
-			{
-				"gid" "64BCBD41B168AA8D933ED1920AF4D19A"
-				"size" "38B67AD8CF99C481208D04455B7BB693"
-				"download" "EC537318747C5D1985DC42B076B0831D"
-			}
-			"dq-build-dev"
-			{
-				"gid" "75A98A942ADBE0EA9D8F8CEF3710E9A5"
-				"size" "1C8D3E4F5A771FB7CAFCB5427AB39EE8"
-				"download" "33B7702B509C52311709467602FF194C"
-			}
-			"next-mileston-dev"
-			{
-				"gid" "6F233DE0AE819FC3FBE68DE9586EA7D6"
-				"size" "845CAF1CDAA26AA2B76F977557A41E2B"
-				"download" "7C6FD68A7A545AF5F0389BE0FE756766"
-			}
-			"test-build"
-			{
-				"gid" "948824508E22125A55393F19B7C12978"
-				"size" "DF3C7B0680E5BFB8A75447C114E18339"
-				"download" "83B2F4DBE9D10291744D88CF479984D0"
-			}
-			"next-mileston"
-			{
-				"gid" "9C009576834EA4197B5A2213105A802C"
-				"size" "9EE042A886383B7BA8F91F44AF0154BC"
-				"download" "1119C1696F6E9BDD3BCC25DC96C7523A"
+				"gid" "3980551043934763210"
+				"size" "31284640310"
+				"download" "30816662592"
 			}
 		}
 	}
@@ -338,39 +305,6 @@
 				"gid" "7772892075143925040"
 				"size" "5503439"
 				"download" "2786656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dq-build"
-			{
-				"gid" "24E28D698FD6976C6450534CB82EF923"
-				"size" "28A1B3FD7E7A8BE2C73926EAE4CDFE43"
-				"download" "7918BDA1EA694839E66AAAEF197BE528"
-			}
-			"dq-build-dev"
-			{
-				"gid" "60D8137AE37487D6B944BD3B442175FC"
-				"size" "55E6A7ACEE7BA1AC887E567A2DD59690"
-				"download" "27706E24BE0962BC9425F7BD096D9336"
-			}
-			"next-mileston-dev"
-			{
-				"gid" "7600377BBA28E53CE11CB2CD2B22EE41"
-				"size" "3AA1654A1C8BEE112ADB2EB87ED3EDA2"
-				"download" "B0686772DC2482A09273FF5920BAE66E"
-			}
-			"test-build"
-			{
-				"gid" "61AD3F7EB8F00D7A608299EED3A8DC85"
-				"size" "99031077259C20EFC3E4231665228736"
-				"download" "BCD2742852C91CB41FDBE9842D025117"
-			}
-			"next-mileston"
-			{
-				"gid" "E525C611DE107EA0686E220CF0F38F38"
-				"size" "AF81CFBB00660DBB7611DDFD8698EDCC"
-				"download" "5FA79C69FA27517314C033D630FBF94F"
 			}
 		}
 	}
@@ -390,42 +324,13 @@
 	{
 		"public"
 		{
-			"buildid" "16847625"
-			"timeupdated" "1735113502"
-		}
-		"dq-build"
-		{
-			"buildid" "7727098"
-			"pwdrequired" "1"
-			"timeupdated" "1637136071"
-		}
-		"dq-build-dev"
-		{
-			"buildid" "7727227"
-			"pwdrequired" "1"
-			"timeupdated" "1637137268"
-		}
-		"next-mileston-dev"
-		{
-			"buildid" "7846343"
-			"pwdrequired" "1"
-			"timeupdated" "1638945402"
-		}
-		"test-build"
-		{
-			"buildid" "13082752"
-			"pwdrequired" "1"
-			"timeupdated" "1704274727"
-		}
-		"next-mileston"
-		{
-			"buildid" "16847625"
-			"pwdrequired" "1"
-			"timeupdated" "1735111557"
+			"buildid" "16939339"
+			"timeupdated" "1736387674"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26779347"
-"_sha" "b7c40ed066c69df93e6003662046cffcd707d4ef"
-"_size" "7912"
+"_change_number" "26916782"
+"_sha" "31d3bbef34685f78a746c2786f561428c880c005"
+"_size" "5547"
