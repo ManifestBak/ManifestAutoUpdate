@@ -304,18 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "2397708488941201883"
-				"size" "499835960"
-				"download" "270131936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"wicked_realm"
-			{
-				"gid" "B01687A883E9DC5B2A3DD78E132873E0"
-				"size" "4A8D6AFD41BE0DB350936190E15CBF30"
-				"download" "C9EBF227B1A121A34AC15D48D014C1D5"
+				"gid" "2901895827668102221"
+				"size" "515994269"
+				"download" "273814416"
 			}
 		}
 	}
@@ -324,16 +315,11 @@
 	{
 		"public"
 		{
-			"buildid" "16933520"
-			"timeupdated" "1736292100"
-		}
-		"wicked_realm"
-		{
-			"buildid" "13150516"
-			"pwdrequired" "1"
-			"timeupdated" "1705007182"
+			"buildid" "16944198"
+			"timeupdated" "1736371786"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -341,6 +327,6 @@
 	"maxnumfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26899760"
-"_sha" "66b036dd746efaebc5733ae60706e7666579d928"
-"_size" "6163"
+"_change_number" "26914158"
+"_sha" "6ffe8cebb7881a5a54b0f55e540c64a3e2de9117"
+"_size" "5867"
