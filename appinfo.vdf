@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "7400222340113929872"
-				"size" "81065401430"
-				"download" "77371502480"
+				"gid" "89751145685313783"
+				"size" "81065795950"
+				"download" "77371639152"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +351,9 @@
 			}
 			"pa_beta"
 			{
-				"gid" "C940FDEE0904D827E9A5EAA52E1A41D3"
-				"size" "A7CF455A2238B09C4C26026C5C1C60C6"
-				"download" "845495A9E43E62346908069E7595D40C"
+				"gid" "64561930F52866CED8D5FFF1B61FDD87"
+				"size" "41D31191D0AA5262B60908EC74E6A3D2"
+				"download" "2CD1960491756DDD350A6D9390F9B0D3"
 			}
 		}
 	}
@@ -444,9 +444,9 @@
 		{
 			"public"
 			{
-				"gid" "5562131669009776556"
-				"size" "75272695437"
-				"download" "72079340000"
+				"gid" "7834984946170078027"
+				"size" "75273092549"
+				"download" "72079682864"
 			}
 		}
 		"encryptedmanifests"
@@ -525,18 +525,18 @@
 		{
 			"public"
 			{
-				"gid" "3096785155666519633"
-				"size" "75070316935"
-				"download" "71877106912"
+				"gid" "1365185604909205690"
+				"size" "75070698911"
+				"download" "71877162864"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"pa_beta"
 			{
-				"gid" "58F4377E9ADB4891A62209A068F60FFB"
-				"size" "389CF0524FE67A8295A37EA77893AB6E"
-				"download" "1EB7F2D30CE21C64481C0E85B2C7C917"
+				"gid" "BAAD0A17AE26A83230202E9A828626E6"
+				"size" "162418B32E83FAE8D2EB6391C4E795F2"
+				"download" "C3EC1BE1CE1F02061D32746E000B8E1F"
 			}
 		}
 	}
@@ -572,8 +572,8 @@
 	{
 		"public"
 		{
-			"buildid" "16962693"
-			"timeupdated" "1736503209"
+			"buildid" "16963621"
+			"timeupdated" "1736508461"
 		}
 		"eac_test"
 		{
@@ -583,9 +583,9 @@
 		}
 		"pa_beta"
 		{
-			"buildid" "16962782"
+			"buildid" "16963621"
 			"pwdrequired" "1"
-			"timeupdated" "1736503227"
+			"timeupdated" "1736508291"
 		}
 	}
 }
@@ -595,6 +595,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26938963"
-"_sha" "9fb288df25d31351555249950c0b6668ec9815ed"
-"_size" "12084"
+"_change_number" "26940191"
+"_sha" "64b19a5e28c547486ef9a71ff5b9101dace03199"
+"_size" "12082"
