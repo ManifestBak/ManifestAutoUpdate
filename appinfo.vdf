@@ -360,6 +360,16 @@
 				"betakey" "latest-dev"
 			}
 		}
+		"3"
+		{
+			"executable" "Ultimate Zombie Defense 2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "latest-profile"
+			}
+		}
 	}
 }
 "depots"
@@ -385,9 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "4428151281231559574"
-				"size" "21658424158"
-				"download" "17852772928"
+				"gid" "4106514125992036642"
+				"size" "15498495502"
+				"download" "13465828704"
 			}
 		}
 	}
@@ -403,9 +413,9 @@
 		{
 			"public"
 			{
-				"gid" "1300510352944554857"
-				"size" "22493182939"
-				"download" "18420747056"
+				"gid" "4833114144875114442"
+				"size" "15850442971"
+				"download" "13678003536"
 			}
 		}
 	}
@@ -413,8 +423,8 @@
 	{
 		"public"
 		{
-			"buildid" "16886494"
-			"timeupdated" "1735989957"
+			"buildid" "16943147"
+			"timeupdated" "1736426017"
 		}
 	}
 	"privatebranches" "1"
@@ -448,6 +458,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26865379"
-"_sha" "24905d790f51f92d704a7ee8ec09e660436ac5d1"
-"_size" "9223"
+"_change_number" "26928590"
+"_sha" "c8e6024a9495db75062d46464d4bfb4a4094bc7e"
+"_size" "9396"
