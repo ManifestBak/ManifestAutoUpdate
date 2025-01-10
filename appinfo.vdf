@@ -27,30 +27,51 @@
 	"osextended" "macos64"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1648771200"
-		"tested_build_id" "136095"
+		"category" "2"
+		"test_timestamp" "1735948800"
+		"tested_build_id" "16867790"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
 		"configuration"
 		{
-			"supported_input" "simultaneous_gamepad_mouse"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Night of the Rabbit"
@@ -337,46 +358,6 @@
 			}
 			"description" "The Night of the Rabbit (64 Bit)"
 		}
-		"5"
-		{
-			"executable" "VisionaireConfigurationTool.bat"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
-		"6"
-		{
-			"executable" "The Night of the Rabbit.app/Contents/Applications/visconfig.app"
-			"config"
-			{
-				"oslist" "macos"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
-		"7"
-		{
-			"executable" "configure"
-			"config"
-			{
-				"oslist" "linux"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
 	}
 	"steamdecktouchscreen" "4"
 	"steamconfigurator3rdpartynative" "65520"
@@ -444,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "3761512753746561177"
-				"size" "179366834"
-				"download" "56040528"
+				"gid" "3998684325621096733"
+				"size" "179366322"
+				"download" "56037632"
 			}
 			"local"
 			{
@@ -465,9 +446,9 @@
 			}
 			"testing"
 			{
-				"gid" "BD00D2982D2F25F33BCE797BAD2939C3"
-				"size" "2D0870492D83E8422E38F2C4D6E7473D"
-				"download" "5CF8354B3CABDFD96CA886CF4DAFE064"
+				"gid" "121CA7A2AF027B65195267D2DD679F1D"
+				"size" "6922BDE6F2207437C522D743E41A22A6"
+				"download" "42AA9BAB10918F2AC628036629D99150"
 			}
 		}
 	}
@@ -482,9 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "6823045134916259325"
-				"size" "3195765871"
-				"download" "3173485376"
+				"gid" "7878637117247073454"
+				"size" "3195768217"
+				"download" "3173487056"
 			}
 			"local"
 			{
@@ -503,9 +484,9 @@
 			}
 			"testing"
 			{
-				"gid" "308348C8BC1D85090969431E536F922E"
-				"size" "ADF1AFCD4A91615C1E84F5048B9522D4"
-				"download" "C8885C1898268C8F1009B3C9463AF53A"
+				"gid" "2E0F051A9B662C2AE692AFB5514EFFA3"
+				"size" "37AE4DC567FE29DE34455DE4C423FCF1"
+				"download" "734F04FAEABE8C9AD7D1E3672A422FB7"
 			}
 		}
 	}
@@ -520,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "8497637766310466301"
+				"gid" "2727188511812118460"
 				"size" "57434634"
-				"download" "19633664"
+				"download" "19633536"
 			}
 			"local"
 			{
@@ -541,9 +522,9 @@
 			}
 			"testing"
 			{
-				"gid" "A4623AE4472461AA119F62EA48D07359"
+				"gid" "8A60D54C3A688E4119FD55927E527D55"
 				"size" "7C105830C231258F3BAACFA33CC876FD"
-				"download" "8129B1106FC1BFB0EC6D7EFAE7646DF8"
+				"download" "2A9F9F8A11BF28EE68449B00FDDF0E0E"
 			}
 		}
 	}
@@ -558,9 +539,9 @@
 		{
 			"public"
 			{
-				"gid" "5208780445042384087"
-				"size" "3195765993"
-				"download" "3173490448"
+				"gid" "3364768730402300660"
+				"size" "3195768217"
+				"download" "3173492064"
 			}
 			"local"
 			{
@@ -579,9 +560,9 @@
 			}
 			"testing"
 			{
-				"gid" "3857E3C9E1D50677CA3F233C50E3111A"
-				"size" "8BAB6A1E8D94E4ABD54E1F94DDE91049"
-				"download" "48A4DA097D01CA958E8A8BD191E1D4B5"
+				"gid" "E22FEE3C90DCF20AFCB037F1831A2BF9"
+				"size" "37AE4DC567FE29DE34455DE4C423FCF1"
+				"download" "9667542B57F73BB1965BD77407FB8D64"
 			}
 		}
 	}
@@ -630,18 +611,18 @@
 		{
 			"public"
 			{
-				"gid" "998618544640947662"
+				"gid" "5169948876310654310"
 				"size" "97674894"
-				"download" "30194576"
+				"download" "30195008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "C2A073C176718F0922264BB8A248817B"
+				"gid" "42EBE24FECC71FF3CC8306C792853573"
 				"size" "18089E7ABAC2393F8D90C79D28D145E0"
-				"download" "5591C36FB3B6B011C389AC7E5D54E6AC"
+				"download" "BFBCF522965E91C920B51313875E79DF"
 			}
 		}
 	}
@@ -656,18 +637,18 @@
 		{
 			"public"
 			{
-				"gid" "6209142089579829504"
-				"size" "3195765871"
-				"download" "3175145840"
+				"gid" "4299892072570138348"
+				"size" "3195768217"
+				"download" "3175147520"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "3F2403E048DB69BD2014F36CEF15828D"
-				"size" "ADF1AFCD4A91615C1E84F5048B9522D4"
-				"download" "51615BD9E66F727DB1C4DDDEE3538096"
+				"gid" "B8832636BE4D00A45475F4448272DFF7"
+				"size" "37AE4DC567FE29DE34455DE4C423FCF1"
+				"download" "7A0355E86D9098D289CBD18FB4867D83"
 			}
 		}
 	}
@@ -675,8 +656,8 @@
 	{
 		"public"
 		{
-			"buildid" "16867790"
-			"timeupdated" "1735426167"
+			"buildid" "16962867"
+			"timeupdated" "1736503806"
 		}
 		"local"
 		{
@@ -691,9 +672,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16867790"
+			"buildid" "16962867"
 			"pwdrequired" "1"
-			"timeupdated" "1735425405"
+			"timeupdated" "1736503784"
 		}
 	}
 }
@@ -731,6 +712,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26807111"
-"_sha" "a696f2df484e914c9f6eed7eeb0de8549cf932a7"
-"_size" "13443"
+"_change_number" "26939114"
+"_sha" "ebf031bf7d2c22c343e184b233a8af05d03d2856"
+"_size" "13144"
