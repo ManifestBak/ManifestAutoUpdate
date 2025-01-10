@@ -320,7 +320,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -375,15 +375,15 @@
 		{
 			"public"
 			{
-				"gid" "627060403566602115"
-				"size" "1140338320"
-				"download" "421932624"
+				"gid" "8330818210051712343"
+				"size" "1144062960"
+				"download" "425695392"
 			}
 			"staging"
 			{
-				"gid" "627060403566602115"
-				"size" "1140338320"
-				"download" "421932624"
+				"gid" "8330818210051712343"
+				"size" "1144062960"
+				"download" "425695392"
 			}
 		}
 	}
@@ -397,15 +397,15 @@
 		{
 			"public"
 			{
-				"gid" "7605837386537423295"
-				"size" "1165783099"
-				"download" "429836672"
+				"gid" "3774342002374668432"
+				"size" "1169507739"
+				"download" "433604496"
 			}
 			"staging"
 			{
-				"gid" "7605837386537423295"
-				"size" "1165783099"
-				"download" "429836672"
+				"gid" "3774342002374668432"
+				"size" "1169507739"
+				"download" "433604496"
 			}
 		}
 	}
@@ -419,15 +419,15 @@
 		{
 			"public"
 			{
-				"gid" "3831108814353337440"
-				"size" "1147857455"
-				"download" "424961552"
+				"gid" "2471277963043004675"
+				"size" "1151582095"
+				"download" "428720256"
 			}
 			"staging"
 			{
-				"gid" "3831108814353337440"
-				"size" "1147857455"
-				"download" "424961552"
+				"gid" "2471277963043004675"
+				"size" "1151582095"
+				"download" "428720256"
 			}
 		}
 	}
@@ -436,14 +436,14 @@
 	{
 		"public"
 		{
-			"buildid" "16798110"
-			"timeupdated" "1734631959"
+			"buildid" "16950289"
+			"timeupdated" "1736419382"
 		}
 		"staging"
 		{
-			"buildid" "16798110"
+			"buildid" "16950289"
 			"description" "Beta stating branch for Stellar Settlers usually full of bugs"
-			"timeupdated" "1734599912"
+			"timeupdated" "1736419366"
 		}
 	}
 }
@@ -481,6 +481,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26730255"
-"_sha" "c30ba284c896605ec2dbdd664d91bed2bc82fb0f"
-"_size" "11616"
+"_change_number" "26922192"
+"_sha" "2891dc7628ed3fc5c9ac1ad4113126132b0357cf"
+"_size" "11618"
