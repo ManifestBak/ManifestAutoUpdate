@@ -25,14 +25,14 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1652486400"
-		"tested_build_id" "1456975"
+		"test_timestamp" "1736467200"
+		"tested_build_id" "16875030"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
 			}
 			"1"
 			{
@@ -42,9 +42,14 @@
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -52,17 +57,18 @@
 		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "0"
+			"requires_non_controller_launcher_nav" "1"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "native"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Dark Eye: Chains of Satinav"
@@ -319,46 +325,6 @@
 			}
 			"description" "The Dark Eye: Chains of Satinav (64 Bit)"
 		}
-		"4"
-		{
-			"executable" "VisionaireConfigurationTool.bat"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
-		"5"
-		{
-			"executable" "Satinav.app/Contents/Applications/visconfig.app"
-			"config"
-			{
-				"oslist" "macos"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
-		"6"
-		{
-			"executable" "configure"
-			"config"
-			{
-				"oslist" "linux"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "Visionaire Configuration Tool"
-			}
-			"description" "Visionaire Configuration Tool"
-		}
 	}
 	"contenttype" "3"
 	"installdir" "TheDarkEye Cos"
@@ -424,18 +390,18 @@
 		{
 			"public"
 			{
-				"gid" "1130792872954220958"
-				"size" "179599304"
-				"download" "56274784"
+				"gid" "2177585027178015399"
+				"size" "179598792"
+				"download" "56267424"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "A031BD97BA2875015D64FD2C240894DB"
-				"size" "8A454D01F7D6A045000186486173463F"
-				"download" "BE4822FC0C690CC265D3D8B81BB37DBA"
+				"gid" "012FE3C6C250521E891D53177AD76642"
+				"size" "10CA61DFE816B993299B8DFBD9E0F082"
+				"download" "DBDFD25430DC082FCBEA8906D57CD48D"
 			}
 		}
 	}
@@ -450,18 +416,18 @@
 		{
 			"public"
 			{
-				"gid" "4618357918362537416"
-				"size" "2409300638"
-				"download" "2335669968"
+				"gid" "1730912031264434979"
+				"size" "2409302514"
+				"download" "2335671824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "DE7DE30E092F433B2196F788C76CC7B3"
-				"size" "EA0B9818B08AA0D75CB489D5FB59557D"
-				"download" "7AD13E2B16701C9041D5CF8FC45C4817"
+				"gid" "44FB53AC42C2EA7F302A45A9B0A9F199"
+				"size" "9129A3802774BB2921D1E78945590EFB"
+				"download" "BDF47040FB3CC718D5CC6E1B16453814"
 			}
 		}
 	}
@@ -476,18 +442,18 @@
 		{
 			"public"
 			{
-				"gid" "5472045329428159151"
+				"gid" "1275088541173296471"
 				"size" "60275826"
-				"download" "22232848"
+				"download" "22232016"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "90E08CFA8F216E096941407069660D95"
+				"gid" "FE8C33BAC4DEEA6F927C42944E6863FD"
 				"size" "D8DAE7595F740E9C9F7EA24C64BC74F0"
-				"download" "D93AA33A029E40984C696DBF8B77DF8D"
+				"download" "9141695E24A86C6B6CE1D595339D1311"
 			}
 		}
 	}
@@ -502,18 +468,18 @@
 		{
 			"public"
 			{
-				"gid" "5741039068642056314"
-				"size" "2409300746"
-				"download" "2335732112"
+				"gid" "2644249155190959317"
+				"size" "2409302514"
+				"download" "2335734000"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "44EDD52892252CD1383F5083CED14C90"
-				"size" "758E011DBF8A78FCCC1AF1E1D8DAC5F2"
-				"download" "6CCA712EC157B137C38F7041668640B5"
+				"gid" "C5748203BD9BCCAC078DF7110BFB1815"
+				"size" "9129A3802774BB2921D1E78945590EFB"
+				"download" "D805BC1609C4EC89E70096B6337F1F18"
 			}
 		}
 	}
@@ -528,18 +494,18 @@
 		{
 			"public"
 			{
-				"gid" "1225783445715944959"
+				"gid" "5763046162785205302"
 				"size" "97687724"
-				"download" "30207472"
+				"download" "30208112"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "A347E96DB8BA8BC3CC879545DB6F4068"
+				"gid" "26FD0CD0D6811D9BDF7A4E0143997422"
 				"size" "290A25CF3C7DBE4CF121CECC2BD02A15"
-				"download" "E2737D4C46955DE1B41E69BBE8B2C352"
+				"download" "0245A1B4DB2CD9B58CFD62EAC60684DB"
 			}
 		}
 	}
@@ -554,18 +520,18 @@
 		{
 			"public"
 			{
-				"gid" "3758000839220684723"
-				"size" "2409300638"
-				"download" "2339143968"
+				"gid" "3325897061483777473"
+				"size" "2409302514"
+				"download" "2339145824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testing"
 			{
-				"gid" "FD2810632073972EC59DF6972E8C8B2A"
-				"size" "EA0B9818B08AA0D75CB489D5FB59557D"
-				"download" "5247ADA82620D92369961A0935FF86C4"
+				"gid" "DDC408DC2BE4AE8852038194B50579D6"
+				"size" "9129A3802774BB2921D1E78945590EFB"
+				"download" "E8205940BE1AD37A5863163BAAECC593"
 			}
 		}
 	}
@@ -573,14 +539,14 @@
 	{
 		"public"
 		{
-			"buildid" "16875030"
-			"timeupdated" "1735560873"
+			"buildid" "16961944"
+			"timeupdated" "1736500342"
 		}
 		"testing"
 		{
-			"buildid" "16875030"
+			"buildid" "16961944"
 			"pwdrequired" "1"
-			"timeupdated" "1735559944"
+			"timeupdated" "1736498707"
 		}
 	}
 }
@@ -618,6 +584,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26816951"
-"_sha" "870a6412aff208ad7115dffd89979b53a4ae2543"
-"_size" "11859"
+"_change_number" "26938369"
+"_sha" "799104da5c8a235e08770beb12a461b4ad6ca5cb"
+"_size" "11219"
