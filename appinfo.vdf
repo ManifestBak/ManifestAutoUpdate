@@ -161,6 +161,47 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1663682298"
@@ -225,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "904563881165638517"
-				"size" "2294787732"
-				"download" "1842485024"
+				"gid" "6467052569448702076"
+				"size" "2296260282"
+				"download" "1843570112"
 			}
 			"2023.1.9"
 			{
@@ -249,9 +290,9 @@
 			}
 			"beta"
 			{
-				"gid" "904563881165638517"
-				"size" "2294787732"
-				"download" "1842485024"
+				"gid" "6467052569448702076"
+				"size" "2296260282"
+				"download" "1843570112"
 			}
 			"previous"
 			{
@@ -269,12 +310,13 @@
 	{
 		"dlcappid" "2118590"
 	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,brazilian,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16861662"
-			"timeupdated" "1735837667"
+			"buildid" "16862763"
+			"timeupdated" "1736170857"
 		}
 		"2023.1.9"
 		{
@@ -297,9 +339,9 @@
 		}
 		"beta"
 		{
-			"buildid" "16861662"
+			"buildid" "16862763"
 			"description" "Test upcoming patches"
-			"timeupdated" "1735321912"
+			"timeupdated" "1736096270"
 		}
 		"previous"
 		{
@@ -325,6 +367,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26845279"
-"_sha" "36ee47111d74c72fcf7c31fce960441f5cb34ec8"
-"_size" "6017"
+"_change_number" "26878438"
+"_sha" "5b80b212e0d503a7a7bb04430071a289139c9737"
+"_size" "6702"
