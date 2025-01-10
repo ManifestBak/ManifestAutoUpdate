@@ -199,7 +199,7 @@
 		"19" "9204"
 	}
 	"review_score" "5"
-	"review_percentage" "51"
+	"review_percentage" "50"
 }
 "extended"
 {
@@ -280,21 +280,21 @@
 		{
 			"public"
 			{
-				"gid" "4558133132272767639"
-				"size" "15985341008"
-				"download" "15272726128"
+				"gid" "2715397251670849040"
+				"size" "15985351264"
+				"download" "15272741376"
 			}
 			"patch_test"
 			{
-				"gid" "8056885567711431113"
-				"size" "15985343072"
-				"download" "15272735056"
+				"gid" "2715397251670849040"
+				"size" "15985351264"
+				"download" "15272741376"
 			}
 			"previous_version"
 			{
-				"gid" "5721832818922539807"
-				"size" "15985334556"
-				"download" "15272712576"
+				"gid" "8898953596318315258"
+				"size" "15985347152"
+				"download" "15272739296"
 			}
 		}
 		"encryptedmanifests"
@@ -307,9 +307,9 @@
 			}
 			"beta_test_dev"
 			{
-				"gid" "1F2AE4B987198A8DF6664FC4588BD987"
-				"size" "35107C215A82F43B866065CDFB8E1AF2"
-				"download" "F862D9A4D89BF6083415FCCB2FEC9270"
+				"gid" "CF198C017627D5A3E1A0D407984286A0"
+				"size" "4C3CD8593FE2D2945B5863E29F983747"
+				"download" "90DB326BB9C23001C7DEEC7DEECAFC76"
 			}
 			"closed_beta_test"
 			{
@@ -324,14 +324,14 @@
 	{
 		"public"
 		{
-			"buildid" "16928060"
-			"timeupdated" "1736289639"
+			"buildid" "16952961"
+			"timeupdated" "1736437118"
 		}
 		"patch_test"
 		{
-			"buildid" "16948445"
+			"buildid" "16952961"
 			"description" "The latest patch is being tested here. Warning, there may be bugs!"
-			"timeupdated" "1736408488"
+			"timeupdated" "1736437227"
 		}
 		"patch_test_closed"
 		{
@@ -341,15 +341,15 @@
 		}
 		"previous_version"
 		{
-			"buildid" "16877183"
+			"buildid" "16933176"
 			"description" "Did something go wrong\? Do you want to go back to a previous version\? Here you will find it"
-			"timeupdated" "1736203980"
+			"timeupdated" "1736437192"
 		}
 		"beta_test_dev"
 		{
-			"buildid" "16948445"
+			"buildid" "16952961"
 			"pwdrequired" "1"
-			"timeupdated" "1736407185"
+			"timeupdated" "1736435900"
 		}
 		"closed_beta_test"
 		{
@@ -365,6 +365,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26920982"
-"_sha" "858e24526b0885a40ec937c8b261fcde11cb7b38"
+"_change_number" "26935573"
+"_sha" "a83fdf0189ad13c16bbac44ccddabb132e380159"
 "_size" "6249"
