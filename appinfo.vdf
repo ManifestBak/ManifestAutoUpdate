@@ -14,14 +14,20 @@
 	{
 		"schinese" "将熄之焰 The Last Flame"
 		"tchinese" "將熄之焰 The Last Flame"
+		"koreana" "The Last Flame 더 라스트 플레임"
 	}
 	"languages"
 	{
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -70,7 +76,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "e8034609605accac7fad9a9f10625db13682117b/capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
 	}
@@ -85,6 +91,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-tw,zh-cn,en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -98,11 +105,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "13fd8d7c949be605467ac5aabad6a0e94e9a2a27/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "13fd8d7c949be605467ac5aabad6a0e94e9a2a27/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -120,13 +127,13 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "a43d7b4f08609d4f77bb21a22cc596dfef94cfac/logo.png"
 				"schinese" "logo_schinese.png"
 				"tchinese" "logo_tchinese.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "a43d7b4f08609d4f77bb21a22cc596dfef94cfac/logo_2x.png"
 				"schinese" "logo_schinese_2x.png"
 				"tchinese" "logo_tchinese_2x.png"
 			}
@@ -137,8 +144,23 @@
 				"height_pct" "55.59487057706008"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"tchinese" "83522e3e2063e4a76288f7d660a89b1f1c8f7e58/library_header_tchinese.jpg"
+				"schinese" "83522e3e2063e4a76288f7d660a89b1f1c8f7e58/library_header_schinese.jpg"
+				"english" "1a3dd91e6842eb3f8411b3f5217601862d3d958f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "83522e3e2063e4a76288f7d660a89b1f1c8f7e58/library_header_tchinese_2x.jpg"
+				"schinese" "83522e3e2063e4a76288f7d660a89b1f1c8f7e58/library_header_schinese_2x.jpg"
+				"english" "1a3dd91e6842eb3f8411b3f5217601862d3d958f/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1732312201"
+	"store_asset_mtime" "1736327567"
 	"associations"
 	{
 		"0"
@@ -164,7 +186,6 @@
 		"1" "23"
 		"2" "3"
 		"3" "2"
-		"4" "70"
 	}
 	"category"
 	{
@@ -200,16 +221,41 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1705510760"
+	"steam_release_date" "1736445763"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1830970"
 	"store_tags"
 	{
 		"0" "1716"
-		"1" "3959"
-		"2" "1084988"
+		"1" "1084988"
+		"2" "3959"
 		"3" "9"
 		"4" "1708"
 		"5" "1741"
@@ -223,13 +269,13 @@
 		"13" "5125"
 		"14" "4191"
 		"15" "17305"
-		"16" "493"
-		"17" "492"
+		"16" "492"
+		"17" "493"
 		"18" "1677"
 		"19" "12472"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -257,18 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "8145436457750672791"
-				"size" "5037966935"
-				"download" "1805882576"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"betabranch"
-			{
-				"gid" "BE703BA7F6389B8376619D86223FDAC8"
-				"size" "5C996FDF254C9AEB4ACCBEF3E76516E0"
-				"download" "BBE7B8EBA15966F96AF1F8B05DC2ED01"
+				"gid" "3190951542640680748"
+				"size" "5325899876"
+				"download" "1873527760"
 			}
 		}
 	}
@@ -279,16 +316,11 @@
 	{
 		"public"
 		{
-			"buildid" "16529971"
-			"timeupdated" "1732573514"
-		}
-		"betabranch"
-		{
-			"buildid" "16491566"
-			"pwdrequired" "1"
-			"timeupdated" "1732220423"
+			"buildid" "16958563"
+			"timeupdated" "1736472567"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -309,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26356789"
-"_sha" "b3209a10fde15973b352680f14c571aaf0242963"
-"_size" "5502"
+"_change_number" "26933310"
+"_sha" "437944ccd5f65937cb63aca02a2ad819621fccef"
+"_size" "6544"
