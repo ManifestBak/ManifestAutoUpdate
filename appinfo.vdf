@@ -214,6 +214,10 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1622822283"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/1601970/discussions/0/4034725629424768485/"
@@ -305,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "3637541407787851208"
-				"size" "4885269148"
-				"download" "2291027808"
+				"gid" "3601060577332043755"
+				"size" "4885815686"
+				"download" "2291176560"
 			}
 		}
 	}
@@ -324,8 +328,8 @@
 	{
 		"public"
 		{
-			"buildid" "16915586"
-			"timeupdated" "1736152116"
+			"buildid" "16961906"
+			"timeupdated" "1736498484"
 		}
 	}
 	"privatebranches" "1"
@@ -417,6 +421,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26889343"
-"_sha" "54aa2678aebc740ff1a2cbf726be28a0ece042c5"
-"_size" "7647"
+"_change_number" "26938356"
+"_sha" "76c7c337996fa81e7120c83e87e48f831ad26145"
+"_size" "7693"
