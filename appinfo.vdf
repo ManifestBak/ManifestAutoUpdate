@@ -21,6 +21,17 @@
 	{
 		"library_logo" "en"
 	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_26acc261b901216fb9840e929d8f344cb8a099a5.jpg"
 	"store_asset_mtime" "1697707973"
 	"associations"
 	{
@@ -63,24 +74,9 @@
 		{
 			"public"
 			{
-				"gid" "385634463565376353"
-				"size" "233621970"
-				"download" "229639168"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"update"
-			{
-				"gid" "6392AE5D8E8A654F44984AB1ED758833"
-				"size" "FD2F3AD08C84E1DCBDF92C8C9770D925"
-				"download" "67E85E9DB3E159B39E140F735A57B419"
-			}
-			"update-dlc1"
-			{
-				"gid" "D99DED88760DD710CD42C645AC5B8847"
-				"size" "58BB335B7BBAFF4E6A6423DC4E0BDC5F"
-				"download" "2B6DC935E0480F3B36C368D465DAB811"
+				"gid" "4981466934511910411"
+				"size" "263388211"
+				"download" "259136720"
 			}
 		}
 	}
@@ -94,24 +90,9 @@
 		{
 			"public"
 			{
-				"gid" "971743929908855739"
-				"size" "1064384008"
-				"download" "871265296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"update"
-			{
-				"gid" "CA6E624D0028B06E8067BC0C27C26532"
-				"size" "73AAB5CE399B88A3F3BB3BF60F8CFC4D"
-				"download" "96847B59CA207FC19A902F36EC7E964B"
-			}
-			"update-dlc1"
-			{
-				"gid" "9D698CE14B62188BB8EC90E66D66A33B"
-				"size" "4ABEFB9894CA2724023B5FA6DFA3A37C"
-				"download" "A9A7064C0B65822CDC03F340581DD09A"
+				"gid" "5999983798838551357"
+				"size" "1181377434"
+				"download" "959401920"
 			}
 		}
 	}
@@ -119,22 +100,11 @@
 	{
 		"public"
 		{
-			"buildid" "14999224"
-			"timeupdated" "1723117231"
-		}
-		"update"
-		{
-			"buildid" "12988994"
-			"pwdrequired" "1"
-			"timeupdated" "1702899719"
-		}
-		"update-dlc1"
-		{
-			"buildid" "14999224"
-			"pwdrequired" "1"
-			"timeupdated" "1720689852"
+			"buildid" "16599164"
+			"timeupdated" "1733837681"
 		}
 	}
+	"privatebranches" "1"
 }
 "albummetadata"
 {
@@ -376,6 +346,22 @@
 			"m" "2"
 			"s" "36"
 		}
+		"29"
+		{
+			"discnumber" "3"
+			"tracknumber" "1"
+			"originalname" "You\'ve Got A Sibling In Me"
+			"m" "8"
+			"s" "1"
+		}
+		"30"
+		{
+			"discnumber" "3"
+			"tracknumber" "2"
+			"originalname" "Eye Of The Tristan"
+			"m" "2"
+			"s" "37"
+		}
 	}
 	"metadata"
 	{
@@ -513,3 +499,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26583711"
+"_sha" "8c0c23a486bf943cb46eb4968b1512b05c68dcf3"
+"_size" "8571"
