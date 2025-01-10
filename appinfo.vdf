@@ -254,15 +254,6 @@
 				"download" "112"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E0218A9A3DA10449235BC8103E09ED88"
-				"size" "BAE2D6E3367C42D5A967741E6DBC2354"
-				"download" "35FA3EE26D6B662277A17C85C1076439"
-			}
-		}
 	}
 	"1748392"
 	{
@@ -274,18 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "840044042812930531"
-				"size" "69581144"
-				"download" "30879408"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C9B0F040380D7FF395A576509C704A93"
-				"size" "D2C454A1C82689215D6EEA00AA5F9479"
-				"download" "AE4D58A5388CCC74DCF1189FC87100CB"
+				"gid" "4706484310598072719"
+				"size" "70298904"
+				"download" "31325824"
 			}
 		}
 	}
@@ -299,18 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "8923376270155039389"
-				"size" "78587220"
-				"download" "32953184"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "10435A0972E119D6B658902D2A17CAD9"
-				"size" "FBDFF0F85E7849DDE596B51E63B6BC03"
-				"download" "B888530EBF8E53BEDB761FFFC0D83925"
+				"gid" "8323183342069054684"
+				"size" "79338308"
+				"download" "33417952"
 			}
 		}
 	}
@@ -324,18 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6881510878720537905"
-				"size" "76888280"
-				"download" "32927056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E4472B075C949943D414F32E42208607"
-				"size" "6BCA66D89DF27FBE8744FCBAB70EBEE4"
-				"download" "C2021515D698B3213255CB0BEA3A26B6"
+				"gid" "3850896566279945293"
+				"size" "77607448"
+				"download" "33398496"
 			}
 		}
 	}
@@ -343,18 +307,13 @@
 	{
 		"public"
 		{
-			"buildid" "16792578"
-			"timeupdated" "1734558625"
-		}
-		"beta"
-		{
-			"buildid" "16792578"
-			"pwdrequired" "1"
-			"timeupdated" "1734558637"
+			"buildid" "16953426"
+			"timeupdated" "1736441523"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26702870"
-"_sha" "ccd21f2fe7c89f35c9c5d27178bdb1fcb6c18af2"
-"_size" "6305"
+"_change_number" "26927326"
+"_sha" "030801fdbc32083888f26281456e45375aeb47df"
+"_size" "5414"
