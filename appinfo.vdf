@@ -91,6 +91,48 @@
 			"height_pct" "92.4012161578974"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.798133022170326"
+				"height_pct" "92.4012161578974"
+			}
+		}
+	}
 	"store_asset_mtime" "1702566197"
 	"associations"
 	{
@@ -192,8 +234,8 @@
 		"1" "1667"
 		"2" "3843"
 		"3" "7432"
-		"4" "21"
-		"5" "3859"
+		"4" "3859"
+		"5" "21"
 		"6" "1662"
 		"7" "1685"
 		"8" "5716"
@@ -209,7 +251,7 @@
 		"18" "4345"
 	}
 	"review_score" "5"
-	"review_percentage" "66"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -259,18 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "6869107696176418240"
-				"size" "29270571327"
-				"download" "13926912624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developertest"
-			{
-				"gid" "E38EC75FBD58A5DBCB6D91228F5A3E3D"
-				"size" "FAA1EF9F97F5A0D693690A6FE808D7D6"
-				"download" "66E0A512C05A7744399F11187865504F"
+				"gid" "3999622666753742973"
+				"size" "29271198537"
+				"download" "13927204352"
 			}
 		}
 	}
@@ -281,16 +314,11 @@
 	{
 		"public"
 		{
-			"buildid" "13916845"
-			"timeupdated" "1712054616"
-		}
-		"developertest"
-		{
-			"buildid" "12984748"
-			"pwdrequired" "1"
-			"timeupdated" "1702837796"
+			"buildid" "16955953"
+			"timeupdated" "1736454437"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -337,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24483107"
-"_sha" "ceb7b78590f052ac91346a3c66e1108ea838ed6d"
-"_size" "5973"
+"_change_number" "26930109"
+"_sha" "7e83557b10202638e9862c98051147fb4d749327"
+"_size" "6299"
