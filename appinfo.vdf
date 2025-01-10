@@ -10,6 +10,7 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -290,28 +291,27 @@
 	"store_tags"
 	{
 		"0" "597"
-		"1" "4191"
-		"2" "3859"
+		"1" "3859"
+		"2" "4191"
 		"3" "745697"
 		"4" "3839"
-		"5" "122"
-		"6" "1719"
+		"5" "1719"
+		"6" "122"
 		"7" "6691"
-		"8" "10695"
-		"9" "1697"
-		"10" "9"
-		"11" "21725"
-		"12" "1685"
-		"13" "3843"
+		"8" "1697"
+		"9" "9"
+		"10" "10695"
+		"11" "1685"
+		"12" "3843"
+		"13" "21725"
 		"14" "4747"
-		"15" "4754"
-		"16" "1775"
+		"15" "1775"
+		"16" "4754"
 		"17" "4136"
 		"18" "12095"
-		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -356,18 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "1747338637349860759"
-				"size" "1589499666"
-				"download" "740759632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "ADCD34764ECD8C738A514022F79C739C"
-				"size" "7ED759C323924608726ADDD85717779C"
-				"download" "112432573ADEFB2DAEFC4907926D2DAE"
+				"gid" "2995496652732337299"
+				"size" "2317605829"
+				"download" "1008084384"
 			}
 		}
 	}
@@ -375,16 +366,11 @@
 	{
 		"public"
 		{
-			"buildid" "16420764"
-			"timeupdated" "1731677035"
-		}
-		"beta"
-		{
-			"buildid" "16237301"
-			"pwdrequired" "1"
-			"timeupdated" "1730294880"
+			"buildid" "16967783"
+			"timeupdated" "1736532771"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -403,6 +389,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26212534"
-"_sha" "576f61501831197c8d80f771ed1173b63f725e46"
-"_size" "6761"
+"_change_number" "26946444"
+"_sha" "8f2cb684d981903974186b3c8c5302c9e18c169a"
+"_size" "6489"
