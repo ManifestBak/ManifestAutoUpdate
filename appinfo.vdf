@@ -174,26 +174,26 @@
 	"gameid" "1360810"
 	"store_tags"
 	{
-		"0" "10235"
-		"1" "4726"
+		"0" "1742"
+		"1" "10235"
 		"2" "9551"
-		"3" "1742"
+		"3" "4726"
 		"4" "4145"
 		"5" "16689"
-		"6" "791774"
-		"7" "1036"
-		"8" "4747"
-		"9" "9"
-		"10" "122"
+		"6" "122"
+		"7" "32322"
+		"8" "6426"
+		"9" "599"
+		"10" "9"
 		"11" "1751"
 		"12" "3871"
 		"13" "3854"
-		"14" "4175"
-		"15" "1654"
+		"14" "1654"
+		"15" "4175"
 		"16" "1721"
 		"17" "4136"
-		"18" "6426"
-		"19" "6971"
+		"18" "6971"
+		"19" "791774"
 	}
 	"review_score" "8"
 	"review_percentage" "87"
@@ -245,30 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "2446677581884488767"
-				"size" "2434517048"
-				"download" "1446847120"
+				"gid" "4554097557351756732"
+				"size" "2434711772"
+				"download" "1446896928"
 			}
 			"test"
 			{
-				"gid" "2446677581884488767"
-				"size" "2434517048"
-				"download" "1446847120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bestlinker"
-			{
-				"gid" "0183BF50304BC14FEACE49D525387D2D"
-				"size" "833FD8950F53A96B9833309BC40147E5"
-				"download" "3C928249D212BD18ED8D5A0BA4CD1F32"
-			}
-			"leiyuntest"
-			{
-				"gid" "84344FAABF006B21EC91543400EAFC6B"
-				"size" "AEC8FF1B81F9E3E2ECD0DF75C6DFF646"
-				"download" "EE1E213C7621A17D545B479BB99FEBE3"
+				"gid" "4554097557351756732"
+				"size" "2434711772"
+				"download" "1446896928"
 			}
 		}
 	}
@@ -282,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "5586109468463355757"
-				"size" "2375744067"
-				"download" "1426907040"
+				"gid" "3147478031040543995"
+				"size" "2327600364"
+				"download" "1388635024"
 			}
 			"test"
 			{
@@ -293,48 +278,22 @@
 				"download" "1325466384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bestlinker"
-			{
-				"gid" "FFF47A2839282BD94B1EDB3618199704"
-				"size" "C7FB890CC03527C7BCFCCC1C614903B3"
-				"download" "F36F05EE6D593CF47D71A256AC919D51"
-			}
-			"leiyuntest"
-			{
-				"gid" "3229CBE45623D4A809D3D6048DEF0743"
-				"size" "9CE3767285240B7BDD92E5EC6688ADDE"
-				"download" "B19D9D2A098BC2C2CBB7B7DCAB8FAB55"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16913993"
-			"timeupdated" "1736131717"
-		}
-		"bestlinker"
-		{
-			"buildid" "16853328"
-			"pwdrequired" "1"
-			"timeupdated" "1735264422"
-		}
-		"leiyuntest"
-		{
-			"buildid" "16857432"
-			"pwdrequired" "1"
-			"timeupdated" "1735263808"
+			"buildid" "16959110"
+			"timeupdated" "1736476646"
 		}
 		"test"
 		{
-			"buildid" "16898310"
+			"buildid" "16949002"
 			"description" "测试版本"
-			"timeupdated" "1735898051"
+			"timeupdated" "1736411168"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -366,3 +325,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26934052"
+"_sha" "53c167261033a0fa4ab2bf101c530ff0efda9b94"
+"_size" "6406"
