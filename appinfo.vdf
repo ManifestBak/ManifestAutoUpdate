@@ -334,15 +334,15 @@
 		{
 			"public"
 			{
-				"gid" "483460175671113234"
-				"size" "5545856937"
-				"download" "5331847552"
+				"gid" "712330952637205685"
+				"size" "5555536013"
+				"download" "5341651376"
 			}
 			"beta"
 			{
-				"gid" "483460175671113234"
-				"size" "5545856937"
-				"download" "5331847552"
+				"gid" "712330952637205685"
+				"size" "5555536013"
+				"download" "5341651376"
 			}
 			"beta2"
 			{
@@ -369,71 +369,20 @@
 				"download" "5331899168"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_exp"
-			{
-				"gid" "2CE02428ADB6E2F94AF7CF79AC485B17"
-				"size" "B8D5EE5F3E8A61270BE59A6750FB5D70"
-				"download" "6729E401FAEACF9213042D7E13CF1A8D"
-			}
-			"beta_exp2"
-			{
-				"gid" "9B934B6F1CA62F9E538339ADD46EA709"
-				"size" "38BC8D8070F5310663F0AB836228DFE7"
-				"download" "FD9F6A8E4FAAFF3243625023A355A092"
-			}
-			"beta_exp3"
-			{
-				"gid" "88EE58124A8978C4FE407D077732BC13"
-				"size" "45801DAA1BD9355F6E1A7BBB74ADDBB3"
-				"download" "FD65B42B3E6855B751F17146805570E1"
-			}
-			"galaktus"
-			{
-				"gid" "A71AE2331CE3BD4FF1EDBFBD64661549"
-				"size" "915B0ED2284A8C5CC2A57F155A3CADA6"
-				"download" "ED3B08BF76A2EA6E28B4CB9636F924EC"
-			}
-			"media"
-			{
-				"gid" "D5DB332D6C586A6F1B8B310011B129D5"
-				"size" "BB752551A2CE66DB519D68ABEB8FA203"
-				"download" "4481A7189FD263689486031BD741D4F0"
-			}
-		}
 	}
 	"baselanguages" "english,russian"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16906012"
-			"timeupdated" "1735993427"
+			"buildid" "16953982"
+			"timeupdated" "1736441874"
 		}
 		"beta"
 		{
-			"buildid" "16906012"
-			"description" "BETA 0.95.66"
-			"timeupdated" "1735993096"
-		}
-		"beta_exp"
-		{
-			"buildid" "16643202"
-			"pwdrequired" "1"
-			"timeupdated" "1733402913"
-		}
-		"beta_exp2"
-		{
-			"buildid" "16855222"
-			"pwdrequired" "1"
-			"timeupdated" "1735398707"
-		}
-		"beta_exp3"
-		{
-			"buildid" "16803869"
-			"pwdrequired" "1"
-			"timeupdated" "1735395828"
+			"buildid" "16953982"
+			"description" "BETA 0.95.80"
+			"timeupdated" "1736441821"
 		}
 		"beta2"
 		{
@@ -446,18 +395,6 @@
 			"buildid" "16543000"
 			"description" "Beta 0.94.57"
 			"timeupdated" "1734114580"
-		}
-		"galaktus"
-		{
-			"buildid" "16543000"
-			"pwdrequired" "1"
-			"timeupdated" "1735447901"
-		}
-		"media"
-		{
-			"buildid" "16543000"
-			"pwdrequired" "1"
-			"timeupdated" "1732652055"
 		}
 		"previous"
 		{
@@ -472,6 +409,7 @@
 			"timeupdated" "1736161806"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -489,6 +427,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26876490"
-"_sha" "44422adee1e6a91fa09327abb53651f79af44dca"
-"_size" "8887"
+"_change_number" "26935577"
+"_sha" "db0babc87bf0052ffa9f8aa0d0025b6c4229f1ae"
+"_size" "7485"
