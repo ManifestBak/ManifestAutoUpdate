@@ -103,6 +103,55 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "84.08051341890314"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1715401686"
 	"associations"
 	{
@@ -203,8 +252,8 @@
 		"15" "6426"
 		"16" "1743"
 	}
-	"review_score" "6"
-	"review_percentage" "71"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -338,72 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "4904450795649862343"
-				"size" "17024436953"
-				"download" "13075901920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"anticheat"
-			{
-				"gid" "2516ECFA5CB23FB259073F3EDE6E9D2B"
-				"size" "7114054614A29C692A39F489259C1384"
-				"download" "A3FACA85C3752FAED5C0E4C3F98CB818"
-			}
-			"bos_playtest"
-			{
-				"gid" "1F3235F8280500E3BA2A48DB19DB78DD"
-				"size" "86E42F80F34A81B096C41321E3A888F4"
-				"download" "BB48DBE2DC0E328B5B7CE3F5D13957A6"
-			}
-			"bosgigk8sdev01"
-			{
-				"gid" "1AA19B25FD1D854F719DB9ACD1C026B2"
-				"size" "F6C74160CE743D26E98C260701CE212C"
-				"download" "7662BAD2F41F4D7D351AB1DE62C8359E"
-			}
-			"ms_cert"
-			{
-				"gid" "89AC15E3A2CBE4510753F7563DDC02F0"
-				"size" "71802466F7F7AFF9F4D5CE0733B61E27"
-				"download" "1D80B2DF359FDDE51696DC6918641399"
-			}
-			"tencent"
-			{
-				"gid" "6997C452A9C9A051A5EB78A57F426712"
-				"size" "0CE572CAF9F8FBDBF4A8962BD2672362"
-				"download" "976F0F1F454E99345E34104A8AD114EC"
-			}
-			"ag_cluster"
-			{
-				"gid" "22C810E4A57C5E6948DEBA86A4EC45C0"
-				"size" "94FB2C9D7AEA361DED27942D6CF4F2AB"
-				"download" "13DEEABF103C483D7DE6CF10A0E28048"
-			}
-			"development"
-			{
-				"gid" "CA5024B0A485A0D792E3C142B1BBB784"
-				"size" "8C44BF14E55243EBFBBC036BB4247973"
-				"download" "845D1261D721E5FD970A847AB7128B04"
-			}
-			"development_pwe"
-			{
-				"gid" "2326FE2FA921B16E8179CE01B51F0F82"
-				"size" "83223B206B746200D94E07F7329331C0"
-				"download" "644097EE2C8F830331CE63943DCCF85A"
-			}
-			"playtest"
-			{
-				"gid" "F78038407900E8F2BCE636354489E0E1"
-				"size" "785759B9ABA5B7F57A2460799B5738CC"
-				"download" "0378CC439EEE4E1E300F218E08BDA4F2"
-			}
-			"stable"
-			{
-				"gid" "C8EDA8B1CBA286899DA84FA454BDB77B"
-				"size" "2AC47A72CFFC22424B6F66E38B05D134"
-				"download" "8658A8FD7D94E6B093AD0B0D2453DEAB"
+				"gid" "2028694415110830711"
+				"size" "17032987028"
+				"download" "13083204720"
 			}
 		}
 	}
@@ -411,93 +397,13 @@
 	{
 		"public"
 		{
-			"buildid" "15370317"
-			"timeupdated" "1724166360"
-		}
-		"anticheat"
-		{
-			"buildid" "9563210"
-			"pwdrequired" "1"
-			"timeupdated" "1663834118"
-		}
-		"bos_playtest"
-		{
-			"buildid" "8502461"
-			"pwdrequired" "1"
-			"timeupdated" "1649183400"
-		}
-		"bosgigk8sdev01"
-		{
-			"buildid" "13940164"
-			"pwdrequired" "1"
-			"timeupdated" "1712779599"
-		}
-		"ms_cert"
-		{
-			"buildid" "10374332"
-			"pwdrequired" "1"
-			"timeupdated" "1674470344"
-		}
-		"tencent"
-		{
-			"buildid" "13636045"
-			"pwdrequired" "1"
-			"timeupdated" "1710433579"
-		}
-		"ag_cluster"
-		{
-			"buildid" "14930355"
-			"pwdrequired" "1"
-			"timeupdated" "1720099976"
-		}
-		"development"
-		{
-			"buildid" "15370317"
-			"pwdrequired" "1"
-			"timeupdated" "1723649130"
-		}
-		"development_pwe"
-		{
-			"buildid" "15370317"
-			"pwdrequired" "1"
-			"timeupdated" "1723791723"
-		}
-		"playtest"
-		{
-			"buildid" "15005472"
-			"pwdrequired" "1"
-			"timeupdated" "1720771921"
-		}
-		"stable"
-		{
-			"buildid" "14870904"
-			"pwdrequired" "1"
-			"timeupdated" "1719991590"
+			"buildid" "16804604"
+			"timeupdated" "1736438503"
 		}
 	}
+	"privatebranches" "1"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#rp_inmenu" "In Main Menu"
-				"#rp_inheroselect" "In Hero Select"
-				"#rp_ingame" "In Game"
-				"#rp_inquickplayqueue" "In Quickplay Queue"
-				"#rp_inrushqueue" "In Rush Queue"
-				"#rp_inpowerracequeue" "In Clash Queue"
-				"#rp_inrankedqueue" "In Ranked Queue"
-				"#rp_inrushmatch" "In Rush Match"
-				"#rp_inpowerracematch" "In Clash Match"
-				"#rp_inrankedmatch" "In Ranked Match"
-				"#rp_inpractice" "In Practice"
-				"#rp_incustom" "In Custom Match"
-				"#rp_intutorial" "In Tutorial"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26926603"
+"_sha" "9229f8e5a71b7c9e64ffc59ba28f6cb89f5abd5c"
+"_size" "7637"
