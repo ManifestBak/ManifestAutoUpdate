@@ -99,7 +99,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1705492537"
+	"store_asset_mtime" "1733945547"
 	"associations"
 	{
 		"0"
@@ -223,6 +223,10 @@
 		{
 			"supported" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1545995840"
 	"community_hub_visible" "1"
@@ -233,9 +237,9 @@
 		"0" "87"
 		"1" "8013"
 		"2" "3964"
-		"3" "3871"
-		"4" "4191"
-		"5" "1663"
+		"3" "1663"
+		"4" "3871"
+		"5" "4191"
 	}
 	"review_score" "8"
 	"review_percentage" "87"
@@ -244,6 +248,7 @@
 {
 	"developer" "THS"
 	"publisher" "THS"
+	"homepage" "https://losslessscaling.net"
 }
 "config"
 {
@@ -287,15 +292,15 @@
 		{
 			"public"
 			{
-				"gid" "1464889532802595216"
-				"size" "6048377"
-				"download" "1837744"
+				"gid" "1239553535240086492"
+				"size" "6562026"
+				"download" "1956480"
 			}
 			"beta"
 			{
-				"gid" "1464889532802595216"
-				"size" "6048377"
-				"download" "1837744"
+				"gid" "2312960512711374924"
+				"size" "179919656"
+				"download" "56179008"
 			}
 			"legacy_2.10"
 			{
@@ -326,9 +331,9 @@
 		{
 			"review"
 			{
-				"gid" "456F7492AA52B570C140AC2D7E4405E6"
-				"size" "B0C7EFA789B3D96D9F6FF82E2812B684"
-				"download" "5E3C5F7720A88EAC7F49E76245ECA4FE"
+				"gid" "C0A91D3B65664680239EF49258BF5F43"
+				"size" "B4E26E6A5398D478D03E6B1DF4983BF7"
+				"download" "513D66FF44322F89B3CF0A1A4EFD679C"
 			}
 		}
 	}
@@ -337,14 +342,14 @@
 	{
 		"public"
 		{
-			"buildid" "16522883"
-			"timeupdated" "1732531919"
+			"buildid" "16964006"
+			"timeupdated" "1736510732"
 		}
 		"beta"
 		{
-			"buildid" "16522883"
+			"buildid" "16964103"
 			"description" "beta"
-			"timeupdated" "1732531852"
+			"timeupdated" "1736511189"
 		}
 		"legacy_2.10"
 		{
@@ -372,13 +377,13 @@
 		}
 		"review"
 		{
-			"buildid" "15310581"
+			"buildid" "16912158"
 			"pwdrequired" "1"
-			"timeupdated" "1723154607"
+			"timeupdated" "1736105948"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26347089"
-"_sha" "ce7d977e0505a84d4da5a83426ddaacd453aa638"
-"_size" "6070"
+"_change_number" "26940817"
+"_sha" "73ab920040826dc19f0b6923a352084b19a8d801"
+"_size" "6166"
