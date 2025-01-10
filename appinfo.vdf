@@ -13,6 +13,7 @@
 	"osarch" "64"
 	"osextended" ""
 	"metacritic_name" "The Hive"
+	"controllertagwizard" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -26,6 +27,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -66,8 +68,19 @@
 				"height_pct" "50"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a404a704fb99231d7cb9b5072add594cec990443/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a404a704fb99231d7cb9b5072add594cec990443/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1685105500"
+	"store_asset_mtime" "1736334136"
 	"associations"
 	{
 		"0"
@@ -84,12 +97,10 @@
 	"primary_genre" "2"
 	"genres"
 	{
-		"0" "1"
-		"1" "25"
-		"2" "4"
-		"3" "23"
-		"4" "3"
-		"5" "2"
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
 	}
 	"category"
 	{
@@ -115,26 +126,26 @@
 	"gameid" "325730"
 	"store_tags"
 	{
-		"0" "9"
-		"1" "1676"
-		"2" "7332"
-		"3" "21006"
-		"4" "4166"
-		"5" "1673"
-		"6" "1742"
-		"7" "4305"
-		"8" "1684"
-		"9" "5716"
-		"10" "122"
-		"11" "4191"
-		"12" "4182"
-		"13" "3854"
-		"14" "3813"
-		"15" "7432"
+		"0" "3813"
+		"1" "7332"
+		"2" "8945"
+		"3" "1643"
+		"4" "17305"
+		"5" "6730"
+		"6" "1676"
+		"7" "9"
+		"8" "4191"
+		"9" "4791"
+		"10" "21006"
+		"11" "5160"
+		"12" "3835"
+		"13" "1742"
+		"14" "4305"
+		"15" "1684"
 		"16" "3993"
-		"17" "4791"
-		"18" "21"
-		"19" "1643"
+		"17" "1673"
+		"18" "4182"
+		"19" "492"
 	}
 	"review_score" "6"
 	"review_percentage" "72"
@@ -205,9 +216,9 @@
 		{
 			"public"
 			{
-				"gid" "4818718872146855850"
-				"size" "3208507422"
-				"download" "1223822512"
+				"gid" "9054338789429245519"
+				"size" "3226489131"
+				"download" "1228735456"
 			}
 		}
 		"encryptedmanifests"
@@ -274,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "11612309"
-			"timeupdated" "1688373036"
+			"buildid" "16951627"
+			"timeupdated" "1736426800"
 		}
 		"beta"
 		{
@@ -338,3 +349,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26923824"
+"_sha" "abe0704bbd09239558d11560f6f65547413feb9c"
+"_size" "5832"
