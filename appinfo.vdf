@@ -320,25 +320,25 @@
 		"1" "4328"
 		"2" "599"
 		"3" "7332"
-		"4" "4364"
-		"5" "12472"
-		"6" "1643"
-		"7" "8945"
-		"8" "3810"
-		"9" "220585"
-		"10" "3987"
-		"11" "1662"
-		"12" "1695"
-		"13" "1669"
-		"14" "4182"
-		"15" "4172"
-		"16" "493"
-		"17" "1676"
-		"18" "4695"
-		"19" "4711"
+		"4" "12472"
+		"5" "1643"
+		"6" "4364"
+		"7" "3810"
+		"8" "3987"
+		"9" "1695"
+		"10" "1676"
+		"11" "1669"
+		"12" "4182"
+		"13" "1670"
+		"14" "4711"
+		"15" "7107"
+		"16" "8945"
+		"17" "4695"
+		"18" "220585"
+		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -416,72 +416,9 @@
 		{
 			"public"
 			{
-				"gid" "4993108567859603717"
-				"size" "11435663138"
-				"download" "5371647264"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_testing"
-			{
-				"gid" "5AD9497ACBE19CC7D57AF719E1E0CCCA"
-				"size" "067359D9A1460EBD7483ED9B8E7F106C"
-				"download" "C09E08499183D4E786CA80FBB44B688C"
-			}
-			"closed_testing_shipping"
-			{
-				"gid" "1890B5DB7683CB448577C3140A8F1DF3"
-				"size" "D3A7216C7448240D617901B0C2AC950D"
-				"download" "5B6B06A60962D87FEBECFBC71D8C98FB"
-			}
-			"engine_compare"
-			{
-				"gid" "E93BF282A83CD219D405C4D93B4CD84B"
-				"size" "B29B8B9292811DF902B83216BF5672FA"
-				"download" "567A78C1911CE621669BFFFB3DAB131D"
-			}
-			"gputest_amd"
-			{
-				"gid" "5A3FEBE9D248716CD99F355C6FA22818"
-				"size" "F0B63E97C3776A532FB171FAC0D79443"
-				"download" "65A8F6D2E4E06236E3C97B07CD6F2D71"
-			}
-			"gputest_intel"
-			{
-				"gid" "88AABC8F3DD1AD0D855DD0A4FE3E0F4A"
-				"size" "D3B496C5075F852DB7626BA17F093F6F"
-				"download" "4C49D3DFF79E6651ED5CF474C4DEF074"
-			}
-			"gputest_nvidia"
-			{
-				"gid" "F88CA1285B16E92B2E4FD70926C8C6D3"
-				"size" "176838E7B6681AECE95DC98712DE897E"
-				"download" "42EC97337C9FA807C9E3E9DF95EC3BDE"
-			}
-			"legacy_0_3"
-			{
-				"gid" "A09DDD13A4CBBA2D03761270F4F25ACD"
-				"size" "1C3D944683B1D07090C5170E379BED04"
-				"download" "1A1E2C1B76C082FEDF199459A8C0D841"
-			}
-			"legacy_0_4"
-			{
-				"gid" "D8C00509662AEAE0A38ACD6B8C94C34F"
-				"size" "7B264C1753DCCF268852B7E4973304FF"
-				"download" "C87CEC2D34486F101F1FCEF69AAD5E02"
-			}
-			"pre_release"
-			{
-				"gid" "6FDE9B42C1945F47069FAA30B2AB7C38"
-				"size" "874D25BFF237FD9001B2710D8847EFCB"
-				"download" "51A0BA67EE8BE2DDF3C3F1E85BBB6F0B"
-			}
-			"secret"
-			{
-				"gid" "B35DD8FB55A917E27599D1D81B0DF754"
-				"size" "5929D1DCD9EC02823B76554983BBDB61"
-				"download" "97A88DD218716DB8C70B6619F14B4EAE"
+				"gid" "537409498967172905"
+				"size" "12648074636"
+				"download" "5750833472"
 			}
 		}
 	}
@@ -490,70 +427,11 @@
 	{
 		"public"
 		{
-			"buildid" "15797823"
-			"timeupdated" "1727370127"
-		}
-		"closed_testing"
-		{
-			"buildid" "15764319"
-			"pwdrequired" "1"
-			"timeupdated" "1726794496"
-		}
-		"closed_testing_shipping"
-		{
-			"buildid" "15797823"
-			"pwdrequired" "1"
-			"timeupdated" "1727111757"
-		}
-		"engine_compare"
-		{
-			"buildid" "14669803"
-			"pwdrequired" "1"
-			"timeupdated" "1721680768"
-		}
-		"gputest_amd"
-		{
-			"buildid" "15445652"
-			"pwdrequired" "1"
-			"timeupdated" "1724325003"
-		}
-		"gputest_intel"
-		{
-			"buildid" "15445652"
-			"pwdrequired" "1"
-			"timeupdated" "1724325012"
-		}
-		"gputest_nvidia"
-		{
-			"buildid" "15445652"
-			"pwdrequired" "1"
-			"timeupdated" "1724325021"
-		}
-		"legacy_0_3"
-		{
-			"buildid" "8447429"
-			"pwdrequired" "1"
-			"timeupdated" "1726935797"
-		}
-		"legacy_0_4"
-		{
-			"buildid" "9635622"
-			"pwdrequired" "1"
-			"timeupdated" "1726939611"
-		}
-		"pre_release"
-		{
-			"buildid" "15771914"
-			"pwdrequired" "1"
-			"timeupdated" "1726843007"
-		}
-		"secret"
-		{
-			"buildid" "15440783"
-			"pwdrequired" "1"
-			"timeupdated" "1724195952"
+			"buildid" "16942643"
+			"timeupdated" "1736510422"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -576,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25410213"
-"_sha" "0d86a9a1eb4508ab3d8c025e904e3ca682fe8cb7"
-"_size" "11114"
+"_change_number" "26940630"
+"_sha" "0c6892c3ba330328ecadac6523070f2e5c42a0e2"
+"_size" "8224"
