@@ -237,7 +237,7 @@
 		"19" "11333"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -291,9 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "3475431826953092160"
-				"size" "13966758746"
-				"download" "13773633168"
+				"gid" "4233108564677767006"
+				"size" "13966785834"
+				"download" "13773626976"
 			}
 			"unrealengine4"
 			{
@@ -303,36 +303,36 @@
 			}
 			"public_test"
 			{
-				"gid" "3475431826953092160"
-				"size" "13966758746"
-				"download" "13773633168"
+				"gid" "4233108564677767006"
+				"size" "13966785834"
+				"download" "13773626976"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"progresowanie"
 			{
-				"gid" "7F3519B5BE48F37C2B21D9DE4E8BB4B1"
-				"size" "14DDECC86E2989192AAB7D2DB7D8BF15"
-				"download" "A9816915E408AAB7207F609E5C9DD4D0"
+				"gid" "41FE2AAEA9A4B9945F67B964CE6432AC"
+				"size" "D6661040A16F4DFE4D98E2B5F1822949"
+				"download" "693E33502E0CFA41FDC46053CC1EC076"
 			}
 			"rebeliawew"
 			{
-				"gid" "F0A96F3EF47BEDB892F70D8F5523DF5F"
-				"size" "2D3F51F9779E1C72D23D001F53E4F744"
-				"download" "A7CC1228A1EAD483E801D33A00F0A4DF"
+				"gid" "F88CA0A226098A890BB9102BE396757C"
+				"size" "A92CFFB29D7B3501D13789BAA96E074D"
+				"download" "76EB8CAAFEC0822D9F334491C89033DC"
 			}
 			"rg_test"
 			{
-				"gid" "D59B72669386B13A9A1C58054C7BDED7"
-				"size" "FB08BAE1150D3E1F6EF6AA8ED80F9D17"
-				"download" "09DC525DBFB4F173EEADCD2AF9F45BF2"
+				"gid" "7E23DB124EA89D879E1F6256E61BFC84"
+				"size" "73E4E42EF9612425F1017D7FB09589B8"
+				"download" "2698E86BF3DB5A1FFA5B28FFD213E668"
 			}
 			"testfull"
 			{
-				"gid" "1BBEFB1611273A1C8228568BE902A0BA"
-				"size" "82A051CE6018E1DA24E65E1A068CE55F"
-				"download" "AB777A93E0960A14F9DBA33DB25F1AFF"
+				"gid" "62A96691FDD21FF81D3A1983DE5190C7"
+				"size" "D1FA4E11CDD4613DEFA2C6CD5DDEB1F9"
+				"download" "D8E97B6ABADD1D555117974061AD029F"
 			}
 		}
 	}
@@ -340,8 +340,8 @@
 	{
 		"public"
 		{
-			"buildid" "16900210"
-			"timeupdated" "1735919189"
+			"buildid" "16964229"
+			"timeupdated" "1736517451"
 		}
 		"unrealengine4"
 		{
@@ -351,33 +351,33 @@
 		}
 		"progresowanie"
 		{
-			"buildid" "16900210"
+			"buildid" "16964229"
 			"pwdrequired" "1"
-			"timeupdated" "1735916382"
+			"timeupdated" "1736516429"
 		}
 		"public_test"
 		{
-			"buildid" "16900210"
+			"buildid" "16964229"
 			"description" "Public_Test"
-			"timeupdated" "1735916392"
+			"timeupdated" "1736516437"
 		}
 		"rebeliawew"
 		{
-			"buildid" "16900210"
+			"buildid" "16964229"
 			"pwdrequired" "1"
-			"timeupdated" "1735916052"
+			"timeupdated" "1736516413"
 		}
 		"rg_test"
 		{
-			"buildid" "16900210"
+			"buildid" "16964229"
 			"pwdrequired" "1"
-			"timeupdated" "1735916399"
+			"timeupdated" "1736516394"
 		}
 		"testfull"
 		{
-			"buildid" "16900210"
+			"buildid" "16964229"
 			"pwdrequired" "1"
-			"timeupdated" "1735916416"
+			"timeupdated" "1736511751"
 		}
 	}
 }
@@ -387,6 +387,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "26853227"
-"_sha" "12ac8e673382be03e3f8aa5c5487780bc9769ff2"
+"_change_number" "26942401"
+"_sha" "c992abfea7a9204573d17f3495d25dc7d8b70031"
 "_size" "6745"
