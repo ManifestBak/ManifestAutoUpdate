@@ -208,24 +208,15 @@
 		{
 			"public"
 			{
-				"gid" "1972457707572075852"
-				"size" "316119276"
-				"download" "178697728"
+				"gid" "911711527541881440"
+				"size" "316103499"
+				"download" "178692912"
 			}
 			"beta"
 			{
-				"gid" "3060158808293061356"
-				"size" "310787360"
-				"download" "162161392"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "FB4E178DA900F489622F71321122A7FA"
-				"size" "C0EA982FD35D524888498E3CE8B2BEEF"
-				"download" "CFDB1296BD70E66E000134F7DE8263E5"
+				"gid" "6564371111182831566"
+				"size" "309698348"
+				"download" "162154784"
 			}
 		}
 	}
@@ -240,24 +231,15 @@
 		{
 			"public"
 			{
-				"gid" "2043056098133290785"
-				"size" "309304193"
-				"download" "176643056"
+				"gid" "4488162140712804976"
+				"size" "309310773"
+				"download" "176662960"
 			}
 			"beta"
 			{
-				"gid" "9079264116002410543"
-				"size" "292096428"
-				"download" "158173056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "CC79592775855CDB32415DEF8BC34637"
-				"size" "9D52137331B65FB732B7B418A4F4E80A"
-				"download" "03E21BA45A84A3E32074D01BC66DBC3A"
+				"gid" "171224205186155069"
+				"size" "292203648"
+				"download" "158213056"
 			}
 		}
 	}
@@ -283,38 +265,24 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "8022B51F8C8B520A428A402DD10DFC27"
-				"size" "E6089862BEBE4E2D3E81094B624FBD75"
-				"download" "E6089862BEBE4E2D3E81094B624FBD75"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16906513"
-			"timeupdated" "1736000952"
-		}
-		"alpha"
-		{
-			"buildid" "5942952"
-			"pwdrequired" "1"
-			"timeupdated" "1607511593"
+			"buildid" "16962906"
+			"timeupdated" "1736503920"
 		}
 		"beta"
 		{
-			"buildid" "16906441"
+			"buildid" "16962700"
 			"description" "Private Beta"
-			"timeupdated" "1736000040"
+			"timeupdated" "1736502691"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26861493"
-"_sha" "f9c1fe8850d032f68011e61ae0c72443104bc593"
-"_size" "5532"
+"_change_number" "26939144"
+"_sha" "04721c317003a5354518af2e29e141a8eb09d0a1"
+"_size" "4839"
