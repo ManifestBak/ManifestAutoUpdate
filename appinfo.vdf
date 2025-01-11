@@ -122,6 +122,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -145,7 +146,7 @@
 		"0" "122"
 		"1" "9"
 		"2" "4236"
-		"3" "3964"
+		"3" "615955"
 		"4" "4325"
 		"5" "21"
 		"6" "9564"
@@ -196,15 +197,15 @@
 		{
 			"public"
 			{
-				"gid" "3489462558316869141"
-				"size" "506900180"
-				"download" "331592736"
+				"gid" "1000857679607369767"
+				"size" "506861940"
+				"download" "331574752"
 			}
 			"compatibility"
 			{
-				"gid" "7060409019599582709"
-				"size" "471776469"
-				"download" "320120768"
+				"gid" "6532830010106306349"
+				"size" "471738233"
+				"download" "320097184"
 			}
 		}
 	}
@@ -231,14 +232,14 @@
 	{
 		"public"
 		{
-			"buildid" "16966029"
-			"timeupdated" "1736521548"
+			"buildid" "16974572"
+			"timeupdated" "1736600330"
 		}
 		"compatibility"
 		{
-			"buildid" "16965819"
+			"buildid" "16974587"
 			"description" "无法进入游戏专用"
-			"timeupdated" "1736520456"
+			"timeupdated" "1736600692"
 		}
 	}
 	"privatebranches" "1"
@@ -252,12 +253,12 @@
 		"0"
 		{
 			"root" "gameinstall"
-			"path" "SaveDir"
+			"path" "savedir"
 			"pattern" "*.dat"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26943472"
-"_sha" "10565cc7f1a0eb237e2b6b59412dd788ac183559"
-"_size" "4222"
+"_change_number" "26954597"
+"_sha" "db6e875c70ad7cae046c5af4bf8d8ef66ffa3d9a"
+"_size" "4246"
