@@ -18,6 +18,10 @@
 	{
 		"english" "Elven Magic: The Witch, The Elf & The Fairy"
 	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"metacritic_name" "Elven Magic"
 	"small_capsule"
 	{
@@ -27,6 +31,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_38b477bfbd129f235cb30f4de5cec76db1d6ed26.jpg"
 	"store_asset_mtime" "1680027724"
 	"associations"
 	{
@@ -50,6 +55,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -184,24 +190,24 @@
 		{
 			"public"
 			{
-				"gid" "6935782420554761246"
-				"size" "9161382329"
-				"download" "3895140128"
+				"gid" "4217518659907777463"
+				"size" "9184920329"
+				"download" "3903176416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devcomp"
 			{
-				"gid" "923A1B0CDBAF1241252232AF6A0E0064"
-				"size" "8EE0D60255AE399E63A89A692B81BA1B"
-				"download" "B24B9388BDCF159AB36FF68C0454BDD7"
+				"gid" "368F0FD63321F7E22C48180A28CF34CE"
+				"size" "1B075405FEF1B2A4860BFEB91ABDB735"
+				"download" "1BF4F8B4F58E26E6F7C15F9AF9AEA6E3"
 			}
 			"store"
 			{
-				"gid" "3C6DF6AA2E3162A4269C35407C16590B"
-				"size" "38AF7C192E70359DCC8D7BE1C8E24C4E"
-				"download" "03571EE067578DDD2310BDFC2F7A6275"
+				"gid" "A9F1CE868DC59C6EEA869101FE41CB67"
+				"size" "69F47804282857AEC613932B24061F1F"
+				"download" "4B639B0757E39C7CE903CE4024CB07F8"
 			}
 		}
 	}
@@ -282,24 +288,24 @@
 		{
 			"public"
 			{
-				"gid" "5003654309841799942"
-				"size" "7155541984"
-				"download" "2481903280"
+				"gid" "7855407846450864354"
+				"size" "8168862323"
+				"download" "2710809952"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devcomp"
 			{
-				"gid" "6780BC21E19A358408124F05D4718A77"
-				"size" "CF7CEF7E81146E1AD08FBEA7F17FF2C4"
-				"download" "1DDDC2BC0CD36655B528F31BDE099088"
+				"gid" "B3B7449A647964D0D45ED15E43963EC1"
+				"size" "D1F6DFCA32F89052D884B3E9020C8D16"
+				"download" "AE724D39B99F4CDC8399D147960B597E"
 			}
 			"store"
 			{
-				"gid" "F0CF5F27EE795194D2746CB0298E3780"
-				"size" "5E87EF3A85B8CB33A32D4C0F1C2B439B"
-				"download" "771577A9287BA967EF300FA006EE6277"
+				"gid" "CA56967FDFA2FC37697FCD1D1E5DE025"
+				"size" "C680E6C20050D6E8B94FEC4461F684E0"
+				"download" "934422B2362999D00F4C6739D1259D5C"
 			}
 		}
 	}
@@ -369,24 +375,24 @@
 		{
 			"public"
 			{
-				"gid" "8159255253994595260"
-				"size" "4519390732"
-				"download" "1819991536"
+				"gid" "3455767369793786049"
+				"size" "4542928732"
+				"download" "1828027824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devcomp"
 			{
-				"gid" "789CC583BD8C3AAFF985242E3B003D47"
-				"size" "358DCFCD4C71BBDC84DF867977EC6602"
-				"download" "BBE83B328125926A54EE83EBA392E337"
+				"gid" "3FD8C49AEEB896A145FD0FAA63F543CF"
+				"size" "4571F6DCDB3D70005E1547F8859CA952"
+				"download" "5DC4A34E5BEC4EFF7D579D20C10544B3"
 			}
 			"store"
 			{
-				"gid" "ABD744EFDB407C829EE0E1431AF96907"
-				"size" "B7340DF97F8999F811639B9EDAA980BF"
-				"download" "C3DECDF7C40846C66BC5425F4ED68FE9"
+				"gid" "AD82A2C3BD783E7209CB7189F6EFC710"
+				"size" "70C7C60D5121BF1A13263882E9FB493F"
+				"download" "A69B4F254EF933FA0B23289E07F14030"
 			}
 		}
 	}
@@ -466,24 +472,24 @@
 	{
 		"public"
 		{
-			"buildid" "12542919"
-			"timeupdated" "1698327361"
+			"buildid" "16973177"
+			"timeupdated" "1736580359"
 		}
 		"devcomp"
 		{
-			"buildid" "12542904"
+			"buildid" "16973175"
 			"pwdrequired" "1"
-			"timeupdated" "1698327273"
+			"timeupdated" "1736580287"
 		}
 		"store"
 		{
-			"buildid" "12542904"
+			"buildid" "16973175"
 			"pwdrequired" "1"
-			"timeupdated" "1698327284"
+			"timeupdated" "1736580312"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "20851231"
-"_sha" "b4f3134e558a93ace6d2f9fe5d6363d6c92dcc34"
-"_size" "8958"
+"_change_number" "26952729"
+"_sha" "b8cbe955ba7e09fe55d7a43d9ace5f958aae5f49"
+"_size" "9096"
