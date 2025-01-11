@@ -213,13 +213,13 @@
 	"gameid" "353090"
 	"store_tags"
 	{
-		"0" "597"
-		"1" "19"
+		"0" "19"
+		"1" "597"
 		"2" "492"
 		"3" "4255"
 		"4" "3859"
-		"5" "3841"
-		"6" "1685"
+		"5" "1685"
+		"6" "3841"
 		"7" "1773"
 		"8" "4885"
 		"9" "1774"
@@ -343,6 +343,20 @@
 				"ownsdlc" "543610"
 			}
 		}
+		"9"
+		{
+			"executable" "CIep5/CIep5.exe"
+			"workingdir" "CIep5"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "NEW! Episode 5"
+			}
+			"description" "NEW! Episode 5"
+		}
 	}
 }
 "depots"
@@ -352,6 +366,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8335827679852042999"
+				"size" "233778208"
+				"download" "38829296"
+			}
+			"episode_beta"
 			{
 				"gid" "8335827679852042999"
 				"size" "233778208"
@@ -378,9 +398,15 @@
 		{
 			"public"
 			{
-				"gid" "1979523963178150314"
-				"size" "7049351"
-				"download" "1957728"
+				"gid" "3108424845861554492"
+				"size" "7035199"
+				"download" "1949952"
+			}
+			"episode_beta"
+			{
+				"gid" "3108424845861554492"
+				"size" "7035199"
+				"download" "1949952"
 			}
 		}
 		"encryptedmanifests"
@@ -402,6 +428,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1659071140104618518"
+				"size" "10187313"
+				"download" "2359888"
+			}
+			"episode_beta"
 			{
 				"gid" "1659071140104618518"
 				"size" "10187313"
@@ -432,6 +464,12 @@
 				"size" "16280291"
 				"download" "4399120"
 			}
+			"episode_beta"
+			{
+				"gid" "3562426333350940911"
+				"size" "16280291"
+				"download" "4399120"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -449,6 +487,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6309747981987192312"
+				"size" "241117968"
+				"download" "39568960"
+			}
+			"episode_beta"
 			{
 				"gid" "6309747981987192312"
 				"size" "241117968"
@@ -476,9 +520,15 @@
 		{
 			"public"
 			{
-				"gid" "3963672448430037742"
-				"size" "7055495"
-				"download" "1972768"
+				"gid" "7911910276378017857"
+				"size" "7040831"
+				"download" "1959584"
+			}
+			"episode_beta"
+			{
+				"gid" "7911910276378017857"
+				"size" "7040831"
+				"download" "1959584"
 			}
 		}
 		"encryptedmanifests"
@@ -501,6 +551,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7026430597939822670"
+				"size" "10195505"
+				"download" "2359392"
+			}
+			"episode_beta"
 			{
 				"gid" "7026430597939822670"
 				"size" "10195505"
@@ -532,6 +588,12 @@
 				"size" "16697185"
 				"download" "4805888"
 			}
+			"episode_beta"
+			{
+				"gid" "4238421067110291382"
+				"size" "16697185"
+				"download" "4805888"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -548,6 +610,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "5214307131675202492"
+				"size" "235689432"
+				"download" "38483712"
+			}
+			"episode_beta"
 			{
 				"gid" "5214307131675202492"
 				"size" "235689432"
@@ -576,9 +644,15 @@
 		{
 			"public"
 			{
-				"gid" "2879181042548033507"
-				"size" "7056007"
-				"download" "1946416"
+				"gid" "5358768902510036199"
+				"size" "7041855"
+				"download" "1926992"
+			}
+			"episode_beta"
+			{
+				"gid" "5358768902510036199"
+				"size" "7041855"
+				"download" "1926992"
 			}
 		}
 		"encryptedmanifests"
@@ -601,6 +675,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7884190406373316286"
+				"size" "10195505"
+				"download" "2360672"
+			}
+			"episode_beta"
 			{
 				"gid" "7884190406373316286"
 				"size" "10195505"
@@ -632,6 +712,12 @@
 				"size" "16143525"
 				"download" "4263152"
 			}
+			"episode_beta"
+			{
+				"gid" "2465916110565804156"
+				"size" "16143525"
+				"download" "4263152"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -643,23 +729,91 @@
 			}
 		}
 	}
+	"402992"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4043360651179100777"
+				"size" "582745961"
+				"download" "122957920"
+			}
+			"episode_beta"
+			{
+				"gid" "4043360651179100777"
+				"size" "582745961"
+				"download" "122957920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "39B9A997DA4B0E747CE5A22CB7F69128"
+				"size" "51FA77F956714EF1CF58F8EA0F8B5EFE"
+				"download" "A175A64A5CF3085589E273594B73C97C"
+			}
+		}
+	}
+	"402993"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7950183758288618426"
+				"size" "19163975"
+				"download" "4299936"
+			}
+			"episode_beta"
+			{
+				"gid" "7950183758288618426"
+				"size" "19163975"
+				"download" "4299936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "D46C4A6D05FDF31813BDF3287A7E8BFA"
+				"size" "C1759C33893A9ABDA885ECE2E8DC931D"
+				"download" "6E7AA06B2C5484E3BC4D8553671A0935"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "7689178"
-			"timeupdated" "1636556208"
+			"buildid" "16953807"
+			"timeupdated" "1736606377"
 		}
 		"beta"
 		{
-			"buildid" "7689178"
+			"buildid" "16829182"
 			"pwdrequired" "1"
-			"timeupdated" "1636548972"
+			"timeupdated" "1734878836"
+		}
+		"episode_beta"
+		{
+			"buildid" "16953807"
+			"description" "CIep5"
+			"timeupdated" "1736440552"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "10000000"
-	"maxnumfiles" "100"
+	"quota" "100000000"
+	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "26955118"
+"_sha" "417941593324c1461ae0aaa5a93f352f5466496c"
+"_size" "14437"
