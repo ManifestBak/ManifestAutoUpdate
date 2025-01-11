@@ -18,14 +18,14 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1716854400"
-		"tested_build_id" "14290135"
+		"test_timestamp" "1732147200"
+		"tested_build_id" "16376332"
 		"tests"
 		{
 			"0"
 			{
 				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 			}
 		}
 		"configuration"
@@ -38,7 +38,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -154,6 +154,10 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_9" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -247,8 +251,8 @@
 		"18" "4175"
 		"19" "4845"
 	}
-	"review_score" "6"
-	"review_percentage" "70"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -295,24 +299,15 @@
 		{
 			"public"
 			{
-				"gid" "6321244671082040409"
-				"size" "11676815522"
-				"download" "6254066752"
+				"gid" "930445541841928980"
+				"size" "11676490030"
+				"download" "6253845312"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"devbuild"
+			"publicbeta"
 			{
-				"gid" "F94BE1B9047A10E4F1BC6983722291D7"
-				"size" "005FA126F23B36711C678A76B5876AA0"
-				"download" "405BD56C45368FDD0120946DFA8BB82F"
-			}
-			"releasepreview"
-			{
-				"gid" "1CF404A00543F3EE89FC59DF5EC0A6E7"
-				"size" "D79E16E24B51F8B6DF6922D69738BAE6"
-				"download" "A94E59CCBCEDB88D6E9A87B249CDD72D"
+				"gid" "2148903529122113430"
+				"size" "11675768249"
+				"download" "6253089440"
 			}
 		}
 	}
@@ -321,22 +316,17 @@
 	{
 		"public"
 		{
-			"buildid" "16436680"
-			"timeupdated" "1731860389"
+			"buildid" "16964712"
+			"timeupdated" "1736515269"
 		}
-		"devbuild"
+		"publicbeta"
 		{
-			"buildid" "16447874"
-			"pwdrequired" "1"
-			"timeupdated" "1731954749"
-		}
-		"releasepreview"
-		{
-			"buildid" "16436680"
-			"pwdrequired" "1"
-			"timeupdated" "1731859817"
+			"buildid" "16758389"
+			"description" "public beta"
+			"timeupdated" "1734349380"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -367,6 +357,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26249517"
-"_sha" "fabae273e1b28726276db68039d5989a48996ccd"
-"_size" "6165"
+"_change_number" "26950041"
+"_sha" "49ec149e177c0990d2abcb067f0a8654a2276bb0"
+"_size" "5916"
