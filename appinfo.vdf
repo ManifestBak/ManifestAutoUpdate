@@ -199,7 +199,7 @@
 		"19" "9204"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -280,9 +280,9 @@
 		{
 			"public"
 			{
-				"gid" "2715397251670849040"
-				"size" "15985351264"
-				"download" "15272741376"
+				"gid" "541007847773097717"
+				"size" "15951520430"
+				"download" "15239667040"
 			}
 			"patch_test"
 			{
@@ -292,9 +292,9 @@
 			}
 			"previous_version"
 			{
-				"gid" "8898953596318315258"
-				"size" "15985347152"
-				"download" "15272739296"
+				"gid" "2715397251670849040"
+				"size" "15985351264"
+				"download" "15272741376"
 			}
 		}
 		"encryptedmanifests"
@@ -307,9 +307,9 @@
 			}
 			"beta_test_dev"
 			{
-				"gid" "CF198C017627D5A3E1A0D407984286A0"
-				"size" "4C3CD8593FE2D2945B5863E29F983747"
-				"download" "90DB326BB9C23001C7DEEC7DEECAFC76"
+				"gid" "C3816C5B56C3BE1D2796813DBC69A7B0"
+				"size" "0C76188B163E56E37ACB0D8AB743E82C"
+				"download" "12B745139F75D471351F58282E42C145"
 			}
 			"closed_beta_test"
 			{
@@ -324,8 +324,8 @@
 	{
 		"public"
 		{
-			"buildid" "16952961"
-			"timeupdated" "1736437118"
+			"buildid" "16965530"
+			"timeupdated" "1736525771"
 		}
 		"patch_test"
 		{
@@ -341,15 +341,15 @@
 		}
 		"previous_version"
 		{
-			"buildid" "16933176"
+			"buildid" "16952961"
 			"description" "Did something go wrong\? Do you want to go back to a previous version\? Here you will find it"
-			"timeupdated" "1736437192"
+			"timeupdated" "1736525700"
 		}
 		"beta_test_dev"
 		{
-			"buildid" "16952961"
+			"buildid" "16965530"
 			"pwdrequired" "1"
-			"timeupdated" "1736435900"
+			"timeupdated" "1736520929"
 		}
 		"closed_beta_test"
 		{
@@ -365,6 +365,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26935573"
-"_sha" "a83fdf0189ad13c16bbac44ccddabb132e380159"
-"_size" "6249"
+"_change_number" "26951705"
+"_sha" "a34d75f0badd426d962b0e34398c12eb2871b58e"
+"_size" "6248"
