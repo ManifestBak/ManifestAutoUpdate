@@ -282,24 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "4217051408642041264"
-				"size" "237481096"
-				"download" "170810640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"github_actions"
-			{
-				"gid" "03BB83F9127A67E56D3E6E29EBDA8E6A"
-				"size" "821ABC5E6F31577AC1D130A0B9C8EFCA"
-				"download" "80DD22EBF0E7A5F46048A5E870060CAD"
-			}
-			"newfeaturepreview"
-			{
-				"gid" "8E15E361CDE495B7985EF20FE18FB2DF"
-				"size" "15D1B126389F5B9FD62D878A1C8F5B7B"
-				"download" "234A598BDF8C2A15DE5DC2ADAA94F8A2"
+				"gid" "6081705847027699380"
+				"size" "237495816"
+				"download" "170822432"
 			}
 		}
 	}
@@ -313,24 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "710830745449802079"
-				"size" "311162105"
-				"download" "186068880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"github_actions"
-			{
-				"gid" "B8326D15F0A197A5D29BF7DFAA53973B"
-				"size" "1845CBEA2BC2D09B15574B7CD8DDFACB"
-				"download" "6FFB4F0AC539E0E052BD2DB1E522491F"
-			}
-			"newfeaturepreview"
-			{
-				"gid" "053B57217157F9C8090D81D89FAD0990"
-				"size" "D2404D490729298446EB03E074A3C3AF"
-				"download" "25541975FCCD424682A31015C80822BF"
+				"gid" "5400948885845600924"
+				"size" "311176809"
+				"download" "186080192"
 			}
 		}
 	}
@@ -344,24 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "6079657517324673942"
-				"size" "231688480"
-				"download" "168619120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"github_actions"
-			{
-				"gid" "D2EA9A5F9BD741C73B9DEB44A96014EF"
-				"size" "96F741E6C88FB94304BC21C2764172C5"
-				"download" "CB98727F7E18671E14989DF13B4F884D"
-			}
-			"newfeaturepreview"
-			{
-				"gid" "27C50B4359B6CDF028475A7EC19D0C71"
-				"size" "D2538F5885C4A4403754F081A52000CA"
-				"download" "00565B24272FE53E4A1B442BEFAB52EA"
+				"gid" "4044648687775660358"
+				"size" "231703200"
+				"download" "168630560"
 			}
 		}
 	}
@@ -369,24 +324,13 @@
 	{
 		"public"
 		{
-			"buildid" "16457250"
-			"timeupdated" "1732013807"
-		}
-		"github_actions"
-		{
-			"buildid" "16457250"
-			"pwdrequired" "1"
-			"timeupdated" "1732013746"
-		}
-		"newfeaturepreview"
-		{
-			"buildid" "15621510"
-			"pwdrequired" "1"
-			"timeupdated" "1725660745"
+			"buildid" "16969802"
+			"timeupdated" "1736546302"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26259838"
-"_sha" "8730d17bece4ce38ab7636770ee5c8f9c9a236e9"
-"_size" "6967"
+"_change_number" "26948730"
+"_sha" "9f5d824cbc9807ab3dd33c82c3ca90c460a00b64"
+"_size" "5577"
