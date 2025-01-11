@@ -10,6 +10,12 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"name_localized"
+	{
+		"tchinese" "秘湯女孩"
+		"japanese" "秘湯ガール"
+		"schinese" "秘汤女孩"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -195,6 +201,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1720835451"
 	"community_visible_stats" "1"
@@ -211,8 +222,8 @@
 		"6" "4947"
 		"7" "552282"
 		"8" "597"
-		"9" "4085"
-		"10" "4975"
+		"9" "4975"
+		"10" "4085"
 		"11" "5851"
 		"12" "12095"
 		"13" "4305"
@@ -224,7 +235,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -259,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "1748485174566097020"
-				"size" "467504552"
-				"download" "112705984"
+				"gid" "6581483262607397883"
+				"size" "469117995"
+				"download" "112781472"
 			}
 		}
 	}
@@ -269,8 +280,12 @@
 	{
 		"public"
 		{
-			"buildid" "14953407"
-			"timeupdated" "1720293993"
+			"buildid" "16972655"
+			"timeupdated" "1736573443"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26952167"
+"_sha" "772a35f4a1faf8d70bfe23c2dde133bd52987922"
+"_size" "5336"
