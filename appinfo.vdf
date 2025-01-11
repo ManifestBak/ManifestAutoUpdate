@@ -146,7 +146,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1708005590"
+	"store_asset_mtime" "1736348592"
 	"associations"
 	{
 		"0"
@@ -273,7 +273,7 @@
 {
 	"developer" "YYZ"
 	"publisher" "Pretty Soon"
-	"homepage" "https://differenttales.com/havendock"
+	"homepage" "https://linktr.ee/havendock"
 }
 "config"
 {
@@ -323,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "7582996052719648029"
-				"size" "1273449449"
-				"download" "375531376"
+				"gid" "2043380298819669787"
+				"size" "1276639734"
+				"download" "375689920"
 			}
 			"experimental"
 			{
-				"gid" "2423066221298353797"
-				"size" "1274824949"
-				"download" "376091840"
+				"gid" "2288545565173806000"
+				"size" "1276409206"
+				"download" "375883488"
 			}
 		}
 	}
@@ -367,7 +367,7 @@
 		{
 			"public"
 			{
-				"gid" "4925635723433001096"
+				"gid" "5334335869192204483"
 				"size" "1398658453"
 				"download" "436817264"
 			}
@@ -383,14 +383,14 @@
 	{
 		"public"
 		{
-			"buildid" "16746300"
-			"timeupdated" "1734191023"
+			"buildid" "16965134"
+			"timeupdated" "1736516629"
 		}
 		"experimental"
 		{
-			"buildid" "16718117"
+			"buildid" "16965109"
 			"description" "Windows experimental builds"
-			"timeupdated" "1733990905"
+			"timeupdated" "1736516530"
 		}
 	}
 	"privatebranches" "1"
@@ -416,6 +416,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26643664"
-"_sha" "648f84a3310245d465a05cd8b056f42a45d7e2c5"
-"_size" "7179"
+"_change_number" "26942204"
+"_sha" "37fbf46a57e7f9632d2a4934ec6c0589c3f04f93"
+"_size" "7170"
