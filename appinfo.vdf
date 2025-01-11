@@ -236,10 +236,10 @@
 	{
 		"0" "87"
 		"1" "8013"
-		"2" "3964"
-		"3" "1663"
-		"4" "3871"
-		"5" "4191"
+		"2" "3871"
+		"3" "4191"
+		"4" "1663"
+		"5" "3964"
 	}
 	"review_score" "8"
 	"review_percentage" "87"
@@ -292,15 +292,15 @@
 		{
 			"public"
 			{
-				"gid" "1239553535240086492"
-				"size" "6562026"
-				"download" "1956480"
+				"gid" "6820772511401626376"
+				"size" "6581994"
+				"download" "1961920"
 			}
 			"beta"
 			{
-				"gid" "2312960512711374924"
-				"size" "179919656"
-				"download" "56179008"
+				"gid" "3028840966602169698"
+				"size" "179901839"
+				"download" "56168560"
 			}
 			"legacy_2.10"
 			{
@@ -313,6 +313,12 @@
 				"gid" "5168007125103771877"
 				"size" "5908958"
 				"download" "1933600"
+			}
+			"legacy_2.12"
+			{
+				"gid" "1464889532802595216"
+				"size" "6048377"
+				"download" "1837744"
 			}
 			"legacy_2.8"
 			{
@@ -331,9 +337,9 @@
 		{
 			"review"
 			{
-				"gid" "C0A91D3B65664680239EF49258BF5F43"
-				"size" "B4E26E6A5398D478D03E6B1DF4983BF7"
-				"download" "513D66FF44322F89B3CF0A1A4EFD679C"
+				"gid" "6CCBC2076D2BB3627022B512624B4114"
+				"size" "9035489040B124500457EA243CFE7717"
+				"download" "71F523E646EF5F9F80929FD3625B549A"
 			}
 		}
 	}
@@ -342,14 +348,14 @@
 	{
 		"public"
 		{
-			"buildid" "16964006"
-			"timeupdated" "1736510732"
+			"buildid" "16976846"
+			"timeupdated" "1736635177"
 		}
 		"beta"
 		{
-			"buildid" "16964103"
+			"buildid" "16976854"
 			"description" "beta"
-			"timeupdated" "1736511189"
+			"timeupdated" "1736635241"
 		}
 		"legacy_2.10"
 		{
@@ -362,6 +368,12 @@
 			"buildid" "15335194"
 			"description" "2.11"
 			"timeupdated" "1731756956"
+		}
+		"legacy_2.12"
+		{
+			"buildid" "16522883"
+			"description" "2.12"
+			"timeupdated" "1736516110"
 		}
 		"legacy_2.8"
 		{
@@ -377,13 +389,13 @@
 		}
 		"review"
 		{
-			"buildid" "16912158"
+			"buildid" "16976846"
 			"pwdrequired" "1"
-			"timeupdated" "1736105948"
+			"timeupdated" "1736635142"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26940817"
-"_sha" "73ab920040826dc19f0b6923a352084b19a8d801"
-"_size" "6166"
+"_change_number" "26958041"
+"_sha" "2736f6b0d50e558e5ae5bc8f42e0b2b47b936ff0"
+"_size" "6391"
