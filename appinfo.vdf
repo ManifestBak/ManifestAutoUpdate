@@ -207,24 +207,15 @@
 		{
 			"public"
 			{
-				"gid" "1657245524847937816"
-				"size" "3081061460"
-				"download" "2603155184"
+				"gid" "6151245966781931796"
+				"size" "3081902134"
+				"download" "2604130368"
 			}
 			"v1.3.25"
 			{
 				"gid" "1245073278362696873"
 				"size" "2796525587"
 				"download" "2356457936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "23A04A990713D6A18ADA097983942100"
-				"size" "E09BA5C5A512964F56F70DB19D33FCC3"
-				"download" "E8DECD9A8B0BFDD30ACFC31A5D713418"
 			}
 		}
 	}
@@ -240,28 +231,13 @@
 				"download" "87072"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "6FCC0DC70CD6182019694934128DF8A4"
-				"size" "B0EF2CEBFF8462D41D1FB5E88D288E27"
-				"download" "FA65A8F726F683836B880E0C89E98F57"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16923896"
-			"timeupdated" "1736221497"
-		}
-		"debug"
-		{
-			"buildid" "16897864"
-			"pwdrequired" "1"
-			"timeupdated" "1735892974"
+			"buildid" "16973054"
+			"timeupdated" "1736578248"
 		}
 		"v1.3.25"
 		{
@@ -270,6 +246,7 @@
 			"timeupdated" "1734189620"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -291,6 +268,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26886333"
-"_sha" "c6e913cce6e354b6650ceb056745441c321eaae3"
-"_size" "5129"
+"_change_number" "26952554"
+"_sha" "0c1146be519661e55e657b551335fa8dfd7816e6"
+"_size" "4642"
