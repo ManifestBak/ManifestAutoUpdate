@@ -324,8 +324,8 @@
 		"5" "4172"
 		"6" "19"
 		"7" "9"
-		"8" "4747"
-		"9" "3810"
+		"8" "3810"
+		"9" "4747"
 		"10" "1754"
 		"11" "4598"
 		"12" "1678"
@@ -433,18 +433,18 @@
 		{
 			"public"
 			{
-				"gid" "7998971585935919512"
-				"size" "64110178363"
-				"download" "47069883664"
+				"gid" "8746086488718212992"
+				"size" "64110220583"
+				"download" "47069926512"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"cb_beta"
 			{
-				"gid" "942B30A6AE8F0C4719C58F6CC0251DB8"
-				"size" "9903E869311E7A463183600C457354A8"
-				"download" "4633439AF7E2797CCAF0CC81A97661E0"
+				"gid" "30097E237D46930C56C33A8D8FD7E56B"
+				"size" "13F6650F41F3267C02C92C7C51CA390D"
+				"download" "F21B0FF5F008960ED9E572805606DC03"
 			}
 			"cbs_test"
 			{
@@ -497,14 +497,14 @@
 	{
 		"public"
 		{
-			"buildid" "16963161"
-			"timeupdated" "1736505478"
+			"buildid" "16975224"
+			"timeupdated" "1736611708"
 		}
 		"cb_beta"
 		{
-			"buildid" "16962491"
+			"buildid" "16975007"
 			"pwdrequired" "1"
-			"timeupdated" "1736501669"
+			"timeupdated" "1736607641"
 		}
 		"cbs_test"
 		{
@@ -521,6 +521,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26939507"
-"_sha" "ec7b7421b17c8a3e9389fe8d7952616c3e89ed10"
+"_change_number" "26955664"
+"_sha" "2fac4b6b014492d92f159dce557166e3ea434240"
 "_size" "11399"
