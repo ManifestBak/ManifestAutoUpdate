@@ -1,39 +1,44 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-11 17:20:03
+## 更新时间：2025-01-11 18:20:11
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1052440 | 黑色規則：西格瑪| Game |
-| 1079460 | Descenders Soundtrack| Music |
-| 1104660 | MO:Astray| Game |
-| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 1732390 | 那由多之轨迹：改| Game |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 215 | Source SDK Base 2006| Tool |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 22490 | Fallout: New Vegas PCR| game |
-| 218 | Source SDK Base 2007| Tool |
-| 2341710 | Commander Tiberius Troubleson| Game |
-| 240 | Counter-Strike: Source| game |
-| 239140 | Dying Light| Game |
-| 278570 | Labyrinthine Dreams| Game |
-| 322450 | FRAMED Collection| Game |
-| 324160 | CLANNAD| Game |
-| 33770 | Drakensang The River of Time| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 409850 | Criminal Girls: Invite Only| Game |
-| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
-| 548840 | A Rose in the Twilight| Game |
-| 559210 | Rakuen| Game |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
-| 730 | Counter-Strike 2| Game |
-| 914310 | Copy Kitty OST| Music |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
-| 922580 | My Brother Rabbit - Original Soundtrack| Music |
+| 1098170 | Dark Nights with Poe and Munro| Game |
+| 1171380 | Mo:Astray - OST| Music |
+| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
+| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
+| 205 | Source Dedicated Server| Tool |
+| 207930 | Sacred Citadel| Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
+| 22380 | Fallout: New Vegas| game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 2715370 | 旧日女修| Game |
+| 2816950 | 妖之乡| Game |
+| 3057400 | 七日求生：新世界| Game |
+| 3070340 | 逃离克里夫| Game |
+| 3070350 | 越来越危险：逃离暗影| Game |
+| 310 | Source 2007 Dedicated Server| Tool |
+| 3147550 | 守望联盟| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 3196460 | 悟空：猴王西游记| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 349250 | Copy Kitty| Game |
+| 372140 | Labyrinthine Dreams - Soundtrack| Music |
+| 42710 | Call of Duty: Black Ops - Multiplayer| game |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 42700 | Call of Duty: Black Ops| game |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 681280 | Descenders| Game |
+| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 785740 | This Is the Police 2| Game |
+| 798540 | Dying Light Original Soundtrack| Music |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 855640 | My Brother Rabbit| Game |
