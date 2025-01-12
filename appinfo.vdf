@@ -154,7 +154,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734337055"
+	"store_asset_mtime" "1735339384"
 	"associations"
 	{
 		"0"
@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "8614876943461309585"
-				"size" "8654498353"
-				"download" "8557330416"
+				"gid" "7808805008807347028"
+				"size" "9903599835"
+				"download" "9814785840"
 			}
 		}
 	}
@@ -276,8 +276,8 @@
 	{
 		"public"
 		{
-			"buildid" "16828717"
-			"timeupdated" "1734869819"
+			"buildid" "16979394"
+			"timeupdated" "1736680485"
 		}
 	}
 	"privatebranches" "1"
@@ -294,9 +294,39 @@
 			"path" "game/saves"
 			"pattern" "*.save"
 		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "RenPy/CityLightsLoveBites"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "MacHome"
+			"path" "/Library/RenPy/CityLightsLoveBites"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"3"
+		{
+			"root" "LinuxHome"
+			"path" ".renpy/CityLightsLoveBites"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26753469"
-"_sha" "b5ba4720ba7890dd9d5765cf93989bbe7d2c2561"
-"_size" "5492"
+"_change_number" "26961378"
+"_sha" "974bcf7b2c265a83288ae65ae7df4772c15d3028"
+"_size" "5961"
