@@ -254,30 +254,15 @@
 		{
 			"public"
 			{
-				"gid" "6934071593749620779"
-				"size" "14000427582"
-				"download" "13292765616"
+				"gid" "568849866601898425"
+				"size" "13925763655"
+				"download" "13218211232"
 			}
 			"developer"
 			{
-				"gid" "6934071593749620779"
-				"size" "14000427582"
-				"download" "13292765616"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"versiontestbuild"
-			{
-				"gid" "240634B78F107DCB2F4586623CA88204"
-				"size" "AAFFA9C07FCD43459B7DB02EBD42D8C8"
-				"download" "14A5254CAD6966D4838E66ED4A321853"
-			}
-			"steamdeck"
-			{
-				"gid" "4FE62DEDEB5A1A08C659EFFDF61FB001"
-				"size" "AD3122575E81AA6A4F79076227E76F8C"
-				"download" "DF14B5157ED5C4EF20E1A2F1C9B3B0A8"
+				"gid" "568849866601898425"
+				"size" "13925763655"
+				"download" "13218211232"
 			}
 		}
 	}
@@ -285,28 +270,17 @@
 	{
 		"public"
 		{
-			"buildid" "16881625"
-			"timeupdated" "1735652498"
-		}
-		"versiontestbuild"
-		{
-			"buildid" "13728602"
-			"pwdrequired" "1"
-			"timeupdated" "1710348083"
+			"buildid" "16939731"
+			"timeupdated" "1736503178"
 		}
 		"developer"
 		{
-			"buildid" "16881625"
+			"buildid" "16939731"
 			"description" "Developer Build with log to detect crashes"
-			"timeupdated" "1735647497"
-		}
-		"steamdeck"
-		{
-			"buildid" "16881625"
-			"pwdrequired" "1"
-			"timeupdated" "1735647505"
+			"timeupdated" "1736340527"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +313,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26826131"
-"_sha" "056b971f4f9b9b7fb88e3fb4735b45e8d691e148"
-"_size" "5967"
+"_change_number" "26938954"
+"_sha" "397760612ce88e3399776fab4c56d981ea992624"
+"_size" "5380"
