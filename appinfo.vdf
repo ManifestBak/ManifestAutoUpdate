@@ -29,28 +29,28 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "9606c87d44f8fad721d37b6739d8aa7049e17fce/capsule_231x87_schinese.jpg"
+		"english" "2727e245e075767067bc14440076785628557093/capsule_231x87.jpg"
+		"tchinese" "9606c87d44f8fad721d37b6739d8aa7049e17fce/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
-		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn,zh-tw"
+		"library_capsule" "zh-cn,en,zh-tw"
 		"library_hero" "en"
 		"library_hero_blur" "en"
 		"library_logo" "en"
-		"library_header" "en,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "54.306416998891"
-			"height_pct" "71.36848955264024"
+			"width_pct" "68.84130071982122"
+			"height_pct" "76.3018804829668"
 		}
 	}
 	"library_assets_full"
@@ -59,33 +59,33 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"schinese" "library_600x900_schinese.jpg"
-				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900_schinese.jpg"
+				"english" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900.jpg"
+				"tchinese" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
-				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"english" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900_2x.jpg"
+				"schinese" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900_schinese_2x.jpg"
+				"tchinese" "925971a8d7e4a6a0f741d7f3d423781eb4f968f3/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "3b94787bc7eba6c7d711a6793574ae754b6b6492/library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "3b94787bc7eba6c7d711a6793574ae754b6b6492/library_hero_2x.jpg"
+				"english" "a4200375a3ca5a3df7e45f8f4c8479b3c0206d5f/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "a4200375a3ca5a3df7e45f8f4c8479b3c0206d5f/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "3b94787bc7eba6c7d711a6793574ae754b6b6492/library_hero_blur.jpg"
+				"english" "a4200375a3ca5a3df7e45f8f4c8479b3c0206d5f/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -93,8 +93,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "54.306416998891"
-				"height_pct" "71.36848955264024"
+				"width_pct" "68.84130071982122"
+				"height_pct" "76.3018804829668"
 			}
 			"image2x"
 			{
@@ -109,12 +109,19 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"tchinese" "library_header_tchinese.jpg"
+				"english" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header.jpg"
+				"schinese" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header_schinese.jpg"
+				"tchinese" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header_2x.jpg"
+				"schinese" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header_schinese_2x.jpg"
+				"tchinese" "96ddd97c092c01acfdd31a527cf11b14ef89b049/library_header_tchinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1730256979"
+	"store_asset_mtime" "1735123952"
 	"associations"
 	{
 		"0"
@@ -321,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "6916814000323491865"
-				"size" "11605429842"
-				"download" "8384631152"
+				"gid" "3447829194801714654"
+				"size" "11622839875"
+				"download" "8402323936"
 			}
 		}
 	}
@@ -331,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16816263"
-			"timeupdated" "1734710880"
+			"buildid" "16979329"
+			"timeupdated" "1736678912"
 		}
 	}
 }
@@ -346,6 +353,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26736043"
-"_sha" "b348280e6ed1b001629eedfd4ecd07f1d3906943"
-"_size" "6342"
+"_change_number" "26961258"
+"_sha" "773f7ff04b47de65b90fc64cf9d6d080b0f23a61"
+"_size" "7178"
