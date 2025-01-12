@@ -186,6 +186,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1707933466"
 	"community_visible_stats" "1"
@@ -266,21 +271,21 @@
 		{
 			"public"
 			{
-				"gid" "4839841216915911755"
-				"size" "1021449375"
-				"download" "816712864"
+				"gid" "9011756202943496315"
+				"size" "1022751229"
+				"download" "817014144"
 			}
 			"android"
 			{
-				"gid" "5710906570788494335"
-				"size" "805871168"
-				"download" "794451776"
+				"gid" "2571144467699687287"
+				"size" "805873976"
+				"download" "794441936"
 			}
 			"testing"
 			{
-				"gid" "4839841216915911755"
-				"size" "1021449375"
-				"download" "816712864"
+				"gid" "9011756202943496315"
+				"size" "1022751229"
+				"download" "817014144"
 			}
 		}
 	}
@@ -289,20 +294,20 @@
 	{
 		"public"
 		{
-			"buildid" "16881621"
-			"timeupdated" "1735908979"
+			"buildid" "16977875"
+			"timeupdated" "1736653478"
 		}
 		"android"
 		{
-			"buildid" "16899829"
+			"buildid" "16978002"
 			"description" "APK Version of the game"
-			"timeupdated" "1735911982"
+			"timeupdated" "1736653844"
 		}
 		"testing"
 		{
-			"buildid" "16881621"
+			"buildid" "16977875"
 			"description" "Public testing branch; expect broken stuff"
-			"timeupdated" "1735647711"
+			"timeupdated" "1736651826"
 		}
 	}
 }
@@ -393,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26852041"
-"_sha" "a3e45ab4b07e372b3fbdc3fa4b79357b65e3c9da"
-"_size" "6736"
+"_change_number" "26959519"
+"_sha" "8ac9573b2af538ecdf78115e61db576c67099eb1"
+"_size" "6804"
