@@ -247,15 +247,15 @@
 		{
 			"public"
 			{
-				"gid" "2064191558169242466"
-				"size" "561627643"
-				"download" "519030080"
+				"gid" "924286213074174653"
+				"size" "561668288"
+				"download" "519040320"
 			}
 			"beta"
 			{
-				"gid" "2064191558169242466"
-				"size" "561627643"
-				"download" "519030080"
+				"gid" "924286213074174653"
+				"size" "561668288"
+				"download" "519040320"
 			}
 			"console"
 			{
@@ -270,15 +270,6 @@
 				"download" "515516192"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "2060A07DC2466798845BF34AFA375F56"
-				"size" "18B68E79820CFBB7238494ACBD6C9F6B"
-				"download" "0F8C3FB4A984644539C21D4DB332C091"
-			}
-		}
 	}
 	"1637732"
 	{
@@ -290,15 +281,15 @@
 		{
 			"public"
 			{
-				"gid" "3787706452802552213"
-				"size" "583805099"
-				"download" "525680672"
+				"gid" "1929396781198335815"
+				"size" "583845744"
+				"download" "525691040"
 			}
 			"beta"
 			{
-				"gid" "3787706452802552213"
-				"size" "583805099"
-				"download" "525680672"
+				"gid" "1929396781198335815"
+				"size" "583845744"
+				"download" "525691040"
 			}
 			"console"
 			{
@@ -313,15 +304,6 @@
 				"download" "522261360"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "C1DA2862D293B7A3E8D1BF7BFB1F6450"
-				"size" "6B2C79538F0017815497C862E53E0B46"
-				"download" "B2D3F9C876595B9EA2E998AD7E7CF497"
-			}
-		}
 	}
 	"1637733"
 	{
@@ -333,15 +315,15 @@
 		{
 			"public"
 			{
-				"gid" "7857018951167975927"
-				"size" "598233484"
-				"download" "528873456"
+				"gid" "2432496587921911277"
+				"size" "598274129"
+				"download" "528883824"
 			}
 			"beta"
 			{
-				"gid" "7857018951167975927"
-				"size" "598233484"
-				"download" "528873456"
+				"gid" "2432496587921911277"
+				"size" "598274129"
+				"download" "528883824"
 			}
 			"console"
 			{
@@ -356,29 +338,20 @@
 				"download" "525286736"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "76F3A7DEB344B2E459BE62403BB359C0"
-				"size" "5E43A298C708C40AB36E094E57B61871"
-				"download" "7071FA703DE569171775E0A8F349D151"
-			}
-		}
 	}
 	"workshopdepot" "1637730"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16425128"
-			"timeupdated" "1731702585"
+			"buildid" "16922561"
+			"timeupdated" "1736540369"
 		}
 		"beta"
 		{
-			"buildid" "16425128"
+			"buildid" "16922561"
 			"description" "For testing the latest build before it goes live."
-			"timeupdated" "1731702559"
+			"timeupdated" "1736540319"
 		}
 		"console"
 		{
@@ -392,13 +365,8 @@
 			"description" "The previous build that was still 32 bit (version 1.1.1)."
 			"timeupdated" "1728354128"
 		}
-		"staging"
-		{
-			"buildid" "16425128"
-			"pwdrequired" "1"
-			"timeupdated" "1731701725"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -446,6 +414,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26219042"
-"_sha" "d5fd0929b34c88ae6839d06e6447adb6069f51eb"
-"_size" "7911"
+"_change_number" "26947730"
+"_sha" "82ed1535ac1f39c359062c0ee97644c8cae6fdcc"
+"_size" "7209"
