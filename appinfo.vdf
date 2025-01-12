@@ -293,7 +293,7 @@
 	{
 		"0"
 		{
-			"executable" "LoopstructorLauncher.exe"
+			"executable" "Loopstructor.exe"
 			"type" "default"
 			"config"
 			{
@@ -306,6 +306,16 @@
 			}
 			"description" "Default Launcher"
 		}
+		"1"
+		{
+			"executable" "LoopstructorLauncher.exe"
+			"description_loc"
+			{
+				"english" " Launcher With Mod"
+				"schinese" "以Mod方式运行"
+			}
+			"description" " Launcher With Mod"
+		}
 	}
 }
 "depots"
@@ -317,9 +327,15 @@
 		{
 			"public"
 			{
-				"gid" "6513353962776871458"
-				"size" "1848371852"
-				"download" "534313552"
+				"gid" "5673249670608980407"
+				"size" "1845191703"
+				"download" "534151632"
+			}
+			"alpha"
+			{
+				"gid" "5673249670608980407"
+				"size" "1845191703"
+				"download" "534151632"
 			}
 		}
 	}
@@ -331,8 +347,14 @@
 	{
 		"public"
 		{
-			"buildid" "16828684"
-			"timeupdated" "1734870114"
+			"buildid" "16978823"
+			"timeupdated" "1736675971"
+		}
+		"alpha"
+		{
+			"buildid" "16978823"
+			"description" "alpha test branch"
+			"timeupdated" "1736669700"
 		}
 	}
 	"privatebranches" "1"
@@ -358,6 +380,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26752992"
-"_sha" "8a1def15e8a35c6665c45c955a2b54ed230fd8b7"
-"_size" "6303"
+"_change_number" "26961040"
+"_sha" "c086261f91bbd4cf79c0133248800f16e484eaef"
+"_size" "6737"
