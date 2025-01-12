@@ -12,8 +12,7 @@
 	"releasestate" "released"
 	"content_descriptors"
 	{
-		"0" "1"
-		"1" "5"
+		"0" "5"
 	}
 	"restricted_countries" "DE"
 	"steam_deck_compatibility"
@@ -165,6 +164,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1697639880"
 	"community_visible_stats" "1"
@@ -194,7 +198,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -231,9 +235,9 @@
 		{
 			"public"
 			{
-				"gid" "4916539376981850895"
-				"size" "598503111"
-				"download" "431575808"
+				"gid" "4024154857834578941"
+				"size" "599029125"
+				"download" "431735280"
 			}
 		}
 	}
@@ -259,8 +263,8 @@
 	{
 		"public"
 		{
-			"buildid" "16750415"
-			"timeupdated" "1734260314"
+			"buildid" "16842864"
+			"timeupdated" "1735042336"
 		}
 	}
 }
@@ -283,6 +287,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26649261"
-"_sha" "0f58b8fbc03095c40a34016539dcd0bc5ee75f4f"
-"_size" "4882"
+"_change_number" "26785778"
+"_sha" "ff49ba55f8be793aab35ee8d42e291adb0acd29d"
+"_size" "4941"
