@@ -175,13 +175,15 @@
 		"18" "4325"
 		"19" "4182"
 	}
-	"review_score" "4"
-	"review_percentage" "38"
+	"review_score" "5"
+	"review_percentage" "41"
 }
 "extended"
 {
 	"developer" "滑稽工作室"
 	"publisher" "滑稽工作室"
+	"listofdlc" "3427100"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -208,9 +210,9 @@
 		{
 			"public"
 			{
-				"gid" "2637977270486700419"
-				"size" "686262612"
-				"download" "471091360"
+				"gid" "1648511129142370940"
+				"size" "686262588"
+				"download" "471098512"
 			}
 		}
 	}
@@ -219,8 +221,8 @@
 	{
 		"public"
 		{
-			"buildid" "16975526"
-			"timeupdated" "1736616147"
+			"buildid" "16980454"
+			"timeupdated" "1736698886"
 		}
 	}
 	"privatebranches" "1"
@@ -240,6 +242,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26956069"
-"_sha" "23528816d8ecba8c18795cf76e641ec9aa3cda7e"
-"_size" "4299"
+"_change_number" "26963179"
+"_sha" "2e23aa5847f0169649af84ad5656ad6b04888946"
+"_size" "4353"
