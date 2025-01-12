@@ -12,6 +12,8 @@
 	"languages"
 	{
 		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
 	}
 	"releasestate" "released"
 	"controllertagwizard" "1"
@@ -126,6 +128,18 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1714114843"
 	"community_visible_stats" "1"
@@ -155,7 +169,7 @@
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -203,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "206768858264156226"
-				"size" "1945293297"
-				"download" "157495440"
+				"gid" "5643968896319458032"
+				"size" "1982253415"
+				"download" "170632912"
 			}
 		}
 	}
@@ -219,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "8551200941570604749"
-				"size" "1958939408"
-				"download" "163308720"
+				"gid" "7767191091464773620"
+				"size" "1995901318"
+				"download" "176470784"
 			}
 		}
 	}
@@ -229,10 +243,11 @@
 	{
 		"public"
 		{
-			"buildid" "14539713"
-			"timeupdated" "1717022640"
+			"buildid" "16556089"
+			"timeupdated" "1732730169"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -267,3 +282,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "53a59c6e1b157c3000e0ea2f606ec0a4dcd0f12b"
+"_size" "4554"
