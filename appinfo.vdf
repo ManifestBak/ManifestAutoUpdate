@@ -219,9 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "2025102006517071698"
-				"size" "244988763"
-				"download" "53568928"
+				"gid" "3508937526843013720"
+				"size" "245568399"
+				"download" "53632480"
 			}
 			"v0.2.5.2_2020-09-27_old_ui"
 			{
@@ -331,6 +331,12 @@
 				"size" "247927732"
 				"download" "51302448"
 			}
+			"v0.8.0.6_windows11"
+			{
+				"gid" "4701277418536349379"
+				"size" "245002276"
+				"download" "53574624"
+			}
 		}
 	}
 	"workshopdepot" "1196080"
@@ -338,8 +344,8 @@
 	{
 		"public"
 		{
-			"buildid" "16944126"
-			"timeupdated" "1736371376"
+			"buildid" "16976861"
+			"timeupdated" "1736635546"
 		}
 		"v0.2.5.2_2020-09-27_old_ui"
 		{
@@ -449,6 +455,12 @@
 			"description" "backward version"
 			"timeupdated" "1734986216"
 		}
+		"v0.8.0.6_windows11"
+		{
+			"buildid" "16976368"
+			"description" "backward version"
+			"timeupdated" "1736635529"
+		}
 	}
 }
 "ufs"
@@ -457,6 +469,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26914067"
-"_sha" "d48e304debe4a769ba1ebadd58be9f23f881deb2"
-"_size" "8837"
+"_change_number" "26958060"
+"_sha" "3f1f1ef4bbcf42c46ecffce5fb94e4df5a03aa6f"
+"_size" "9091"
