@@ -159,11 +159,6 @@
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "PlayMeow"
-		}
-		"3"
-		{
 			"type" "franchise"
 			"name" "Hide Games"
 		}
@@ -219,6 +214,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1704700828"
 	"community_visible_stats" "1"
@@ -228,10 +228,10 @@
 	{
 		"0" "12095"
 		"1" "1741"
-		"2" "198631"
-		"3" "10679"
-		"4" "1720"
-		"5" "9130"
+		"2" "9130"
+		"3" "198631"
+		"4" "10679"
+		"5" "1720"
 		"6" "5711"
 		"7" "21"
 		"8" "9"
@@ -244,11 +244,11 @@
 		"15" "4182"
 		"16" "3854"
 		"17" "4191"
-		"18" "14139"
-		"19" "6650"
+		"18" "6650"
+		"19" "14139"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -353,6 +353,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "25839201"
-"_sha" "0d9f85bf7993ea54938bda1d4903444880f7b210"
-"_size" "6122"
+"_change_number" "26849385"
+"_sha" "59506be8443fe9f375e7bf404b423ea3fb8fe7a7"
+"_size" "6128"
