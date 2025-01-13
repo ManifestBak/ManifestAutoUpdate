@@ -449,9 +449,9 @@
 			}
 			"gameshow"
 			{
-				"gid" "E7755214B93A439BE3EF2E2F15DFED92"
-				"size" "56861E296F4CAC6EF99415BB0A79A66C"
-				"download" "A118F135794C93F4042CA3598A95BEC0"
+				"gid" "BDC7D4D8F541A5503E016C745CE8B2A8"
+				"size" "BD9C7FF9730EA217CD215D64239736E7"
+				"download" "76D915B299FC09AA900E50662D69272A"
 			}
 			"linux_dev_test"
 			{
@@ -520,6 +520,12 @@
 				"size" "EBD342D7145DF6638402946FA9E01545"
 				"download" "BF33F34E09A580C4111DB160B44D1EF3"
 			}
+			"gameshow"
+			{
+				"gid" "78136C616E24AA11DF4529AC7F73A7BE"
+				"size" "D79E9FAFB3AAA0218073A00197960BB9"
+				"download" "737F3707085E56BA9157EF637C422ADD"
+			}
 			"linux_dev_test"
 			{
 				"gid" "418764EF9CF1BF19D97CEFED12BAA73C"
@@ -562,9 +568,9 @@
 		{
 			"public"
 			{
-				"gid" "1578245851317396599"
-				"size" "1644080008"
-				"download" "1650812752"
+				"gid" "1030969037272700418"
+				"size" "1650116676"
+				"download" "1648189648"
 			}
 			"legacy_3.23.1"
 			{
@@ -581,6 +587,12 @@
 				"size" "C9D5C78E9A120E83188A22BADBDD74F3"
 				"download" "98C6EDAEDC2BC4624DCF8B1B3D297145"
 			}
+			"gameshow"
+			{
+				"gid" "431D0F026B8592E4088FB66D5EC0B41B"
+				"size" "0899CBD64AD52EAF4B58BF7B6B6C55B2"
+				"download" "8565281007E0C55EE78B7D07F4D57B5C"
+			}
 			"linux_dev_test"
 			{
 				"gid" "504932D226124E1F863015AE09BE9144"
@@ -595,9 +607,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "C043F4B58204357E33469E1E4BC45791"
-				"size" "C2B5234AEF577A36F73ED14FF7DDA35C"
-				"download" "292EC2E291F22787094FADD9EB6F0B40"
+				"gid" "6019FAA54EEF3AAFA8397D3EA54B79E3"
+				"size" "693CED85B5B00CC61BE3A355D1461C6A"
+				"download" "9C2A66FF7BA09DF99A15E60A5BB5EB05"
 			}
 			"temp_directx_backup"
 			{
@@ -623,9 +635,9 @@
 		{
 			"public"
 			{
-				"gid" "2582750789617534930"
-				"size" "1702234111"
-				"download" "1663025040"
+				"gid" "8533563779123590048"
+				"size" "1708270779"
+				"download" "1660402096"
 			}
 		}
 		"encryptedmanifests"
@@ -636,6 +648,12 @@
 				"size" "93C2398596FFCEEF45C5A0607E168C20"
 				"download" "ADDFFD1767E0238DE2C86127122A5AAB"
 			}
+			"gameshow"
+			{
+				"gid" "4D90A1CFE17446371E99B0B923BCCC15"
+				"size" "93BE70A6785A8317B30A529566B39EC0"
+				"download" "3D580671758005049CB9D5BEA3F1DDC2"
+			}
 			"osx_test"
 			{
 				"gid" "A9CC60EDAEFA3A2814A74DBD4D537077"
@@ -644,9 +662,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "D1BEB79B0BA474DEC8C989A8710FFF05"
-				"size" "B64140AF099FC9405D4DAF9592687CD6"
-				"download" "99AE0FCEE15F494F245D1CA895932F05"
+				"gid" "B8E95C50DB370F05C914A987CE669CC0"
+				"size" "665E7D434154919B4D8381192A5D1AA7"
+				"download" "E9B1FE9C7C83A5DBA4502F5D93390B2A"
 			}
 			"temp_directx_backup"
 			{
@@ -666,8 +684,8 @@
 	{
 		"public"
 		{
-			"buildid" "16899048"
-			"timeupdated" "1735938181"
+			"buildid" "16908365"
+			"timeupdated" "1736726886"
 		}
 		"devs"
 		{
@@ -695,9 +713,9 @@
 		}
 		"gameshow"
 		{
-			"buildid" "15822949"
+			"buildid" "16969230"
 			"pwdrequired" "1"
-			"timeupdated" "1727271055"
+			"timeupdated" "1736541957"
 		}
 		"legacy_3.23.1"
 		{
@@ -719,9 +737,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "16899048"
+			"buildid" "16908365"
 			"pwdrequired" "1"
-			"timeupdated" "1735905256"
+			"timeupdated" "1736034068"
 		}
 		"temp_directx_backup"
 		{
@@ -776,6 +794,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26855974"
-"_sha" "21f170286f64d74dcf2e029b53ebeb035bccd919"
-"_size" "16061"
+"_change_number" "26965836"
+"_sha" "bb1e7872e5fbb6cac7493c652f2d8a41415a0da3"
+"_size" "16583"
