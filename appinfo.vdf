@@ -28,6 +28,7 @@
 		"english" "header.jpg"
 		"russian" "header_russian.jpg"
 	}
+	"store_screenshot" "ss_170faa5eec7324db1d608f0c8735273b1fce09fb.jpg"
 	"store_asset_mtime" "1719814302"
 	"associations"
 	{
@@ -84,13 +85,13 @@
 	{
 		"0" "492"
 		"1" "597"
-		"2" "4345"
-		"3" "4667"
+		"2" "4667"
+		"3" "4345"
 		"4" "9130"
 		"5" "1721"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -109,9 +110,9 @@
 		{
 			"public"
 			{
-				"gid" "7518042180350825148"
-				"size" "1302453954"
-				"download" "1116114112"
+				"gid" "3466807075744562645"
+				"size" "1343225393"
+				"download" "1155163632"
 			}
 		}
 	}
@@ -121,9 +122,9 @@
 		{
 			"public"
 			{
-				"gid" "2036896922169625688"
-				"size" "1302453954"
-				"download" "1117339440"
+				"gid" "2519064771526414027"
+				"size" "1343225393"
+				"download" "1156231136"
 			}
 		}
 		"dlcappid" "3058410"
@@ -132,9 +133,13 @@
 	{
 		"public"
 		{
-			"buildid" "15745290"
-			"timeupdated" "1726677480"
+			"buildid" "16768385"
+			"timeupdated" "1734407953"
 		}
 	}
 	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26900183"
+"_sha" "3b7cc3823ce51816875d58d27141d542e4552f17"
+"_size" "2280"
