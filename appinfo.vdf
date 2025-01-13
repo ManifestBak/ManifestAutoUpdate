@@ -389,15 +389,15 @@
 		{
 			"public"
 			{
-				"gid" "3238171373848461270"
+				"gid" "2030170902967222386"
 				"size" "1070342624"
-				"download" "225480352"
+				"download" "225480880"
 			}
 			"beta"
 			{
-				"gid" "3238171373848461270"
+				"gid" "2030170902967222386"
 				"size" "1070342624"
-				"download" "225480352"
+				"download" "225480880"
 			}
 		}
 	}
@@ -411,15 +411,15 @@
 		{
 			"public"
 			{
-				"gid" "6869747494111758704"
+				"gid" "8373901495241074854"
 				"size" "1095347303"
-				"download" "233031968"
+				"download" "233031808"
 			}
 			"beta"
 			{
-				"gid" "6869747494111758704"
+				"gid" "8373901495241074854"
 				"size" "1095347303"
-				"download" "233031968"
+				"download" "233031808"
 			}
 		}
 	}
@@ -433,15 +433,15 @@
 		{
 			"public"
 			{
-				"gid" "36498820838763061"
+				"gid" "5826825855456543513"
 				"size" "1071604065"
-				"download" "225356048"
+				"download" "225356176"
 			}
 			"beta"
 			{
-				"gid" "36498820838763061"
+				"gid" "5826825855456543513"
 				"size" "1071604065"
-				"download" "225356048"
+				"download" "225356176"
 			}
 		}
 	}
@@ -450,14 +450,14 @@
 	{
 		"public"
 		{
-			"buildid" "16979765"
-			"timeupdated" "1736687569"
+			"buildid" "16983183"
+			"timeupdated" "1736736671"
 		}
 		"beta"
 		{
-			"buildid" "16979765"
+			"buildid" "16983183"
 			"description" "Staging branch of Dice & Fold, usually full of bugs"
-			"timeupdated" "1736687384"
+			"timeupdated" "1736736653"
 		}
 	}
 }
@@ -511,6 +511,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26962003"
-"_sha" "20734c46679e3ccfa8fa5ba1e8d491b382aafd10"
-"_size" "9985"
+"_change_number" "26966900"
+"_sha" "9f98dd931ec32fe8abe7c6a8e44df922182d2943"
+"_size" "9989"
