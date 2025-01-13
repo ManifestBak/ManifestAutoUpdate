@@ -24,6 +24,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_5ba75b82a68620c147330517eaea5fe374ff4fd1.jpg"
 	"store_asset_mtime" "1671985431"
 	"associations"
 	{
@@ -132,8 +133,8 @@
 		"0" "599"
 		"1" "492"
 		"2" "597"
-		"3" "6650"
-		"4" "12095"
+		"3" "12095"
+		"4" "6650"
 	}
 	"review_score" "7"
 	"review_percentage" "100"
@@ -165,15 +166,6 @@
 				"download" "142787152"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "858F975C5C3075339621728C3A7A686F"
-				"size" "BE68AAED15651D67B5298A8EC55B2517"
-				"download" "FD54B7A29EE2341CEE22AEFA0441FC3F"
-			}
-		}
 		"dlcappid" "2261480"
 	}
 	"2261482"
@@ -191,15 +183,6 @@
 				"download" "142787152"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "1334FF238B06D377D2EB3439F0BF5ED0"
-				"size" "BE68AAED15651D67B5298A8EC55B2517"
-				"download" "FD54B7A29EE2341CEE22AEFA0441FC3F"
-			}
-		}
 		"dlcappid" "2261480"
 	}
 	"branches"
@@ -209,11 +192,10 @@
 			"buildid" "13252809"
 			"timeupdated" "1706044148"
 		}
-		"beta"
-		{
-			"buildid" "13252809"
-			"pwdrequired" "1"
-			"timeupdated" "1706043572"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "d9322bcb3c990b2b751cc4456f90ff7238af6a81"
+"_size" "2979"
