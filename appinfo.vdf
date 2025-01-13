@@ -220,6 +220,8 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_25" "1"
+		"category_29" "1"
+		"category_15" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -289,6 +291,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1692255515"
 	"community_visible_stats" "1"
@@ -344,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "3534809837847279244"
-				"size" "699726344"
-				"download" "372202080"
+				"gid" "7398246489924701665"
+				"size" "699337038"
+				"download" "371679296"
 			}
 		}
 	}
@@ -354,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "16796474"
-			"timeupdated" "1734588318"
+			"buildid" "16987218"
+			"timeupdated" "1736774040"
 		}
 	}
 }
@@ -378,6 +385,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26709446"
-"_sha" "04bbff5e4f90681c870a96705819a139d968ccaf"
-"_size" "8838"
+"_change_number" "26972534"
+"_sha" "3d824b7a05626166c587825e31bb1283ba7ca6ca"
+"_size" "8953"
