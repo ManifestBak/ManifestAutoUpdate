@@ -195,7 +195,7 @@
 		"19" "8945"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -224,18 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "5687598646575116462"
-				"size" "411822966"
-				"download" "231719600"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "6EBDDCDD5FC9567D0D8FF93C78F41F7A"
-				"size" "D15777E287BD820CE57ADB7D0360BC9A"
-				"download" "8548B4FAD9BD05677F3BA983CC377264"
+				"gid" "7003879959666735042"
+				"size" "412103030"
+				"download" "231805328"
 			}
 		}
 	}
@@ -254,31 +245,17 @@
 				"download" "966496"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "88AE1A9D32C60A18022558FD5D5E0F0B"
-				"size" "183223C424B68F99C068D9DD256B3F4A"
-				"download" "97A7D0796B8D2F82CB3E141B90639644"
-			}
-		}
 	}
 	"baselanguages" "english,german,french,italian,spanish,tchinese,russian,polish"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13575804"
-			"timeupdated" "1709038169"
-		}
-		"testing"
-		{
-			"buildid" "13575804"
-			"pwdrequired" "1"
-			"timeupdated" "1709038102"
+			"buildid" "16984690"
+			"timeupdated" "1736755460"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -295,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25798643"
-"_sha" "6637f8ebfb7ce781eb6d2b271d678b8119045187"
-"_size" "4907"
+"_change_number" "26968965"
+"_sha" "121eb24b43c3455701806176a37c8ba3be882332"
+"_size" "4414"
