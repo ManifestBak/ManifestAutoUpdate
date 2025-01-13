@@ -1,0 +1,433 @@
+"appid" "3226080"
+"common"
+{
+	"name" "Tiny Glade Soundtrack"
+	"type" "Music"
+	"parent" "2198150"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "cabab057d40458476ae363e7c6b8281d561cde7f"
+	"small_capsule"
+	{
+		"english" "04e34a74d1939044b8ab95afb5144bc4fd841300/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_79f2e5e387cf4eb9befa4970b5c234a99a3082e6.jpg"
+	"store_asset_mtime" "1726042955"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pounce Light"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Oda Tilset"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Pounce Light"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1727106802"
+	"gameid" "3226080"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "2198150"
+	"developer" "Pounce Light"
+	"publisher" "Pounce Light"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Tiny Glade Soundtrack"
+}
+"depots"
+{
+	"3226081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3742668533922808718"
+				"size" "55615488"
+				"download" "54712544"
+			}
+		}
+	}
+	"3226082"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5004857357516561148"
+				"size" "1000752708"
+				"download" "837191152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15794016"
+			"timeupdated" "1727091117"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "a72583b337b1bf02496d0c4c0bd5f7bac89f9bab"
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Oda Tilset"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "Oda Tilset"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" "Noknok Audio"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "Flute - Bente Gilbu Tilset, Trumpet - Oda Tilset, Album mix and master - Ali Cedroni, Encouragement, artistic input and feedback: Tom, Ana and Martin"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Tiny Glade"
+			"m" "1"
+			"s" "44"
+			"isrc" "QZWFH2435677"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Tiny Summer Glade"
+			"m" "2"
+			"s" "37"
+			"isrc" "QZWFH2435678"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Hello Fellow Waddler"
+			"m" "2"
+			"s" "20"
+			"isrc" "QZWFH2435679"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Seriously Summer"
+			"m" "3"
+			"s" "36"
+			"isrc" "QZWFH2435680"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Bah-bah Little Lamb"
+			"m" "2"
+			"s" "34"
+			"isrc" "QZWFH2435681"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Tiny Flowery Glade"
+			"m" "2"
+			"s" "38"
+			"isrc" "QZWFH2435682"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Beams and Ivy"
+			"m" "2"
+			"s" "13"
+			"isrc" "QZWFH2435683"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Springtime Blossoms"
+			"m" "3"
+			"s" "0"
+			"isrc" "QZWFH2435684"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Swaying Flowers"
+			"m" "2"
+			"s" "59"
+			"isrc" "QZWFH2435685"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Tiny Autumn Glade"
+			"m" "2"
+			"s" "39"
+			"isrc" "QZWFH2435686"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Leafy Breeze"
+			"m" "2"
+			"s" "34"
+			"isrc" "QZWFH2435687"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Autumn Sun"
+			"m" "3"
+			"s" "29"
+			"isrc" "QZWFH2435688"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Actual Autumn"
+			"m" "2"
+			"s" "28"
+			"isrc" "QZWFH2435689"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Tiny Olden Glade"
+			"m" "2"
+			"s" "38"
+			"isrc" "QZWFH2435690"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Morning Mist"
+			"m" "3"
+			"s" "38"
+			"isrc" "QZWFH2435691"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Enchanted Forest"
+			"m" "2"
+			"s" "49"
+			"isrc" "QZWFH2435692"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Forgotten Ruins"
+			"m" "3"
+			"s" "11"
+			"isrc" "QZWFH2435693"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Tiny Winter Glade"
+			"m" "2"
+			"s" "38"
+			"isrc" "QZWFH2435694"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Snowflakes"
+			"m" "2"
+			"s" "21"
+			"isrc" "QZWFH2435695"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "New Snow"
+			"m" "2"
+			"s" "32"
+			"isrc" "QZWFH2435696"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Wishful Winter"
+			"m" "3"
+			"s" "18"
+			"isrc" "QZWFH2435697"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26373315"
+"_sha" "923fb143fd3f92f389b8d0ff18e5746c802a7414"
+"_size" "7394"
