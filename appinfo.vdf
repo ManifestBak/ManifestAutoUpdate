@@ -6,9 +6,9 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
-	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
-	"icon" "479421494d92c11b6e780cb1992cb33e372c976a"
-	"clienticon" "f7ea92abfa33ec03e1d1aa050375de5d457e427b"
+	"clienttga" "1c00ecf2c39f7f99317940fb96ed8ac385ff288d"
+	"icon" "c43f9080337f709ae1843886e721dd4740fd7aba"
+	"clienticon" "7c6fd4a59b1526093287f2e9a404f9779c4c344b"
 	"name_localized"
 	{
 		"schinese" "彼方的她-Aliya"
@@ -206,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "157450708798178592"
+				"gid" "7428963449909877519"
 				"size" "756285361"
-				"download" "190697440"
+				"download" "190661968"
 			}
 		}
 	}
@@ -216,8 +216,8 @@
 	{
 		"public"
 		{
-			"buildid" "16949762"
-			"timeupdated" "1736415428"
+			"buildid" "16983927"
+			"timeupdated" "1736747073"
 		}
 	}
 	"privatebranches" "1"
@@ -241,6 +241,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26921320"
-"_sha" "12fc32fb1432c8c07eeb4a98bd8f0cb0cbe18bbc"
-"_size" "4734"
+"_change_number" "26968036"
+"_sha" "eb6e84bc6311b6f5d16722ee8efca4c8af98a821"
+"_size" "4735"
