@@ -151,7 +151,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730969290"
+	"store_asset_mtime" "1734375842"
 	"associations"
 	{
 		"0"
@@ -256,10 +256,10 @@
 		"0" "21"
 		"1" "3859"
 		"2" "599"
-		"3" "19"
-		"4" "1695"
-		"5" "597"
-		"6" "3810"
+		"3" "1695"
+		"4" "19"
+		"5" "3810"
+		"6" "597"
 		"7" "492"
 		"8" "4136"
 		"9" "1685"
@@ -314,30 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "2958094465099565104"
-				"size" "1789467438"
-				"download" "1143984832"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "391CADB14C76A9A09E4EDBC3B247C9FB"
-				"size" "0C2260A6164FEFF1B967AB88F8588AB2"
-				"download" "79C5FCA2E26CB7E33E56664B7B73F626"
-			}
-			"development-release"
-			{
-				"gid" "AE4AC93A00A5B5C7B6FD8A0523943950"
-				"size" "8A0CEA2EDAC13D32A4A1068B2BE41619"
-				"download" "39866CD72E0A136FA2996C17B48F068F"
-			}
-			"pre-release"
-			{
-				"gid" "BFCEC92CA32EB091C248B0642E3DF2CF"
-				"size" "342FD8EF1884FBD3BFA886507CAA16ED"
-				"download" "258C46190D9D252652275F30A65AD061"
+				"gid" "2306889510541484343"
+				"size" "1763684330"
+				"download" "1128457552"
 			}
 		}
 	}
@@ -357,55 +336,17 @@
 				"download" "183219184"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "DA81ADF01F03C3EDB6F74523682791A3"
-				"size" "D4E4A24F5EF349E43AF7C7BA2CEF3CCC"
-				"download" "DDC9EA062FE64561231E47734245231F"
-			}
-			"development-release"
-			{
-				"gid" "EFF88640411384AE6F63FC73D5F45D06"
-				"size" "DE6B6E1D9C467C995A265EEF686E0599"
-				"download" "8DF16D8EB3F9D2CE05611F92C8A93764"
-			}
-			"pre-release"
-			{
-				"gid" "CB8F7CF339302C7ED346D026767D3852"
-				"size" "9841ACD7EC75AF0582A8E8435F1D698F"
-				"download" "7AB1A0F79EC7412322984230AC1FBE20"
-			}
-		}
 	}
 	"workshopdepot" "1211020"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16657470"
-			"timeupdated" "1733493809"
-		}
-		"development"
-		{
-			"buildid" "16650270"
-			"pwdrequired" "1"
-			"timeupdated" "1733442999"
-		}
-		"development-release"
-		{
-			"buildid" "16265851"
-			"pwdrequired" "1"
-			"timeupdated" "1730472728"
-		}
-		"pre-release"
-		{
-			"buildid" "16657403"
-			"pwdrequired" "1"
-			"timeupdated" "1733493495"
+			"buildid" "16985452"
+			"timeupdated" "1736761624"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -438,6 +379,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26526984"
-"_sha" "7e15ac75af18755b0d92a144da965fac6a908a48"
-"_size" "8143"
+"_change_number" "26969977"
+"_sha" "60d5e77a068f0a28eab473b7bce55936f22344e8"
+"_size" "6690"
