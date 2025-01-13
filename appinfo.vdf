@@ -17,6 +17,10 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"name_localized"
+	{
+		"tchinese" "海軍藝術 NavalArt"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -123,7 +127,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724084617"
+	"store_asset_mtime" "1735882846"
 	"associations"
 	{
 		"0"
@@ -134,7 +138,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Rig&Zig Entertainment"
+			"name" "RZ Entertainment"
 		}
 	}
 	"primary_genre" "28"
@@ -152,6 +156,8 @@
 		"category_1" "1"
 		"category_49" "1"
 		"category_36" "1"
+		"category_22" "1"
+		"category_25" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -159,10 +165,12 @@
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1529504885"
@@ -199,7 +207,7 @@
 "extended"
 {
 	"developer" "Rigidbody"
-	"publisher" "Rig&Zig Entertainment"
+	"publisher" "RZ Entertainment"
 	"listofdlc" "2843420"
 	"dlcavailableonstore" "1"
 }
@@ -235,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "1052078365516247678"
-				"size" "2772441193"
-				"download" "680327088"
+				"gid" "8900846663609740855"
+				"size" "2769825227"
+				"download" "677201504"
 			}
 			"version0.8"
 			{
@@ -250,12 +258,6 @@
 				"gid" "6058497597524340199"
 				"size" "1199790125"
 				"download" "444784160"
-			}
-			"1.0_openbeta"
-			{
-				"gid" "1052078365516247678"
-				"size" "2772441193"
-				"download" "680327088"
 			}
 			"version0.7"
 			{
@@ -278,6 +280,12 @@
 				"size" "250EEFAA1E15AACD9209B20B5847A49A"
 				"download" "EA9C2126F0BCCCCBB8C9F260C6F0C171"
 			}
+			"navalarttest"
+			{
+				"gid" "75D31AFA26564F7BCFF528E7A3FBE1C2"
+				"size" "8E0B1C58F75CBD7049ED745EE7FD59E0"
+				"download" "41EC01398053484955D69577DC7A37BD"
+			}
 		}
 	}
 	"2843420"
@@ -293,8 +301,8 @@
 	{
 		"public"
 		{
-			"buildid" "16849925"
-			"timeupdated" "1735144945"
+			"buildid" "16989401"
+			"timeupdated" "1736787886"
 		}
 		"version0.8"
 		{
@@ -308,12 +316,6 @@
 			"description" "old version"
 			"timeupdated" "1687623763"
 		}
-		"1.0_openbeta"
-		{
-			"buildid" "16849925"
-			"description" "work in progress"
-			"timeupdated" "1735144966"
-		}
 		"dogfighttest"
 		{
 			"buildid" "15221548"
@@ -325,6 +327,12 @@
 			"buildid" "15533333"
 			"pwdrequired" "1"
 			"timeupdated" "1724944658"
+		}
+		"navalarttest"
+		{
+			"buildid" "16989401"
+			"pwdrequired" "1"
+			"timeupdated" "1736787819"
 		}
 		"version0.7"
 		{
@@ -342,6 +350,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26782438"
-"_sha" "69943b2ea6d2becd7e444e229f670772430f5155"
-"_size" "6258"
+"_change_number" "26975657"
+"_sha" "15dc6613bb145a52a38fc7fee4698da6613db234"
+"_size" "6449"
