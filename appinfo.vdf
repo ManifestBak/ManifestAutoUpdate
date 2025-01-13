@@ -38,6 +38,17 @@
 	{
 		"library_logo" "en"
 	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_313131d85114993f7aacc064252a62946b941706.jpg"
 	"store_asset_mtime" "1697683493"
 	"associations"
 	{
@@ -178,3 +189,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "42e78b0f790ab86ef7b2c6aadf89ef70e7872973"
+"_size" "3164"
