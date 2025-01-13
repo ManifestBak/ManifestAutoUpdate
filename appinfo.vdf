@@ -7,7 +7,7 @@
 	"clienticon" "a7feddd6d5b2916a70874149482a5703d0ad79f1"
 	"clienttga" "4e2e92c9825be7ada6f7db7a4176b92cec3b9978"
 	"icon" "cc68599f93145e4240dc43701bb721fda4196b92"
-	"oslist" "windows"
+	"oslist" "windows,linux"
 	"osarch" ""
 	"osextended" ""
 	"name_localized"
@@ -209,7 +209,7 @@
 		"19" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -229,6 +229,14 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "EC1.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
 	}
 }
 "depots"
@@ -239,9 +247,25 @@
 		{
 			"public"
 			{
-				"gid" "8167904196154930092"
-				"size" "1541994443"
-				"download" "254921296"
+				"gid" "2072035483834825935"
+				"size" "1542115346"
+				"download" "254974480"
+			}
+		}
+	}
+	"2399672"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1913181624804068979"
+				"size" "1539859747"
+				"download" "252763072"
 			}
 		}
 	}
@@ -249,12 +273,12 @@
 	{
 		"public"
 		{
-			"buildid" "15987816"
-			"timeupdated" "1728521152"
+			"buildid" "16703918"
+			"timeupdated" "1733899669"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25638462"
-"_sha" "d038582c410573195162d3153fd8f744a0408cc1"
-"_size" "4351"
+"_change_number" "26897186"
+"_sha" "c0c80c2c1084e6d7ff536f4d180689626880d429"
+"_size" "4656"
