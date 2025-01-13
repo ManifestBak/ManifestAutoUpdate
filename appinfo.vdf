@@ -236,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "4276398088603636991"
-				"size" "877817307"
-				"download" "251391072"
+				"gid" "6961761045321890030"
+				"size" "858550795"
+				"download" "242732992"
 			}
 			"1.0.0-rebooted"
 			{
@@ -259,15 +259,6 @@
 				"download" "278238192"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "595DEA467CCE26A265AF0827461BE343"
-				"size" "841413429BE9657A144ECA895AF3C7CF"
-				"download" "2F375E78261F22A9E1732994353DE4E2"
-			}
-		}
 	}
 	"1500741"
 	{
@@ -279,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "7825018980755736872"
-				"size" "903661373"
-				"download" "259294656"
+				"gid" "8126084578056220048"
+				"size" "884385893"
+				"download" "250604304"
 			}
 			"1.0.0-rebooted"
 			{
@@ -302,23 +293,14 @@
 				"download" "286024352"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "FF3294B985BEB2CAA2EDFE7BDE570598"
-				"size" "A0E93D49BDAC2F726FD5C4A61E790E17"
-				"download" "CABC7B76F6923B8F9F405B5F79CA89AC"
-			}
-		}
 	}
 	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16880361"
-			"timeupdated" "1735633113"
+			"buildid" "16983621"
+			"timeupdated" "1736742052"
 		}
 		"1.0.0-rebooted"
 		{
@@ -338,13 +320,8 @@
 			"description" "Party like it\'s... March!"
 			"timeupdated" "1732161201"
 		}
-		"alpha"
-		{
-			"buildid" "16880361"
-			"pwdrequired" "1"
-			"timeupdated" "1735632990"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -352,6 +329,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "26824193"
-"_sha" "f57beb1c5c8290f0437a8e3ce4abdd183974f780"
-"_size" "6434"
+"_change_number" "26967567"
+"_sha" "6459446d369c03cd3111d90f3d7b9443bdb824fd"
+"_size" "5947"
