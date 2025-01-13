@@ -314,48 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "9067144716374176377"
-				"size" "6409034168"
-				"download" "2719848848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"0.4.44demo"
-			{
-				"gid" "81896B985B555FC42A4B8CF3219A0BB1"
-				"size" "CB7345963980604E3E6EEFEC39B6FFD2"
-				"download" "2E246BB45F285DFBAEDBFFD2C7E196B4"
-			}
-			"console"
-			{
-				"gid" "889A309F013880CA057697D2521154F9"
-				"size" "8DEB592AD7AB4ACFF381734B0CC8011E"
-				"download" "E802768BF8A615DCF8A96A738CED8378"
-			}
-			"deck"
-			{
-				"gid" "CCA4CB1F56AC5238DDD3D2F82292307E"
-				"size" "A835A9D210FFA5019DECFFFEB1CACC1C"
-				"download" "05903CB759BD5B1BF93308FAE3F121F7"
-			}
-			"alpha"
-			{
-				"gid" "5F1FE7187BE2C7486AB3CE82723850AE"
-				"size" "7699EE40A9DB1C5B0719A4555EED8D48"
-				"download" "D9462A56BC9B53A1B410B720004496F0"
-			}
-			"test"
-			{
-				"gid" "8C2ACF5D885C16A6AC10A24112D8255E"
-				"size" "85A6EB99C1BE899583A02C9701650646"
-				"download" "6249EEBD40E259FA65B8A0A6258F89DB"
-			}
-			"test2"
-			{
-				"gid" "41EA4A6ED186DF819A590C274418D009"
-				"size" "302862D65822EA93014AE7706D4C38AA"
-				"download" "BDB0970A6563D51583C10E8A8C0BC881"
+				"gid" "5111197260864736295"
+				"size" "6409121552"
+				"download" "2719910784"
 			}
 		}
 	}
@@ -364,47 +325,11 @@
 	{
 		"public"
 		{
-			"buildid" "16798277"
-			"timeupdated" "1734665229"
-		}
-		"0.4.44demo"
-		{
-			"buildid" "8956924"
-			"pwdrequired" "1"
-			"timeupdated" "1655470291"
-		}
-		"console"
-		{
-			"buildid" "9069902"
-			"pwdrequired" "1"
-			"timeupdated" "1657099328"
-		}
-		"deck"
-		{
-			"buildid" "13713142"
-			"pwdrequired" "1"
-			"timeupdated" "1710241851"
-		}
-		"alpha"
-		{
-			"buildid" "16798277"
-			"pwdrequired" "1"
-			"timeupdated" "1734665194"
-		}
-		"test"
-		{
-			"buildid" "16798277"
-			"pwdrequired" "1"
-			"timeupdated" "1734665208"
-		}
-		"test2"
-		{
-			"sc_schinese" "test2"
-			"buildid" "16798277"
-			"pwdrequired" "1"
-			"timeupdated" "1734600582"
+			"buildid" "16963202"
+			"timeupdated" "1736733793"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -422,6 +347,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26726560"
-"_sha" "34e8a31e5bb22e41c78683b483aa53df495de9eb"
-"_size" "8495"
+"_change_number" "26966557"
+"_sha" "500f754111e50753aa376c74c08bf711ec529b87"
+"_size" "6813"
