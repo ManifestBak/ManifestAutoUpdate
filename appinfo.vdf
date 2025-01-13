@@ -262,20 +262,20 @@
 	"gameid" "1883090"
 	"store_tags"
 	{
-		"0" "12095"
-		"1" "44868"
+		"0" "44868"
+		"1" "12095"
 		"2" "5611"
 		"3" "3799"
 		"4" "4947"
 		"5" "6426"
 		"6" "4085"
-		"7" "3871"
-		"8" "6650"
-		"9" "21"
-		"10" "599"
+		"7" "6650"
+		"8" "3871"
+		"9" "599"
+		"10" "21"
 		"11" "1673"
-		"12" "6971"
-		"13" "24904"
+		"12" "24904"
+		"13" "6971"
 		"14" "4486"
 		"15" "6815"
 		"16" "1742"
@@ -343,15 +343,6 @@
 				"download" "688183344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E53A7A4E19A481780CC4D971FBD5F784"
-				"size" "B3E1667E7E7405E1DCD2365734B8E682"
-				"download" "41F7DB9D5F44304C63B090619666698E"
-			}
-		}
 	}
 	"1883092"
 	{
@@ -368,15 +359,6 @@
 				"download" "653670384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EFF1497B8CE1952A42A454ABAF1350E9"
-				"size" "929ACA43F9AF6E542F3A6B8542E1FB4F"
-				"download" "854D4F7703FCE2AA99015D3CAD5EEA12"
-			}
-		}
 	}
 	"1883094"
 	{
@@ -388,15 +370,6 @@
 				"gid" "4622580170244066923"
 				"size" "169355443"
 				"download" "142861008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "BDF3FA6EEB51F8F55E05F650360501F6"
-				"size" "F57CC53E2E8F7D856172FB2C033F9649"
-				"download" "33753BD6E806FFE29619B19F7F2DBFB3"
 			}
 		}
 	}
@@ -415,13 +388,8 @@
 			"buildid" "13906688"
 			"timeupdated" "1711888910"
 		}
-		"beta"
-		{
-			"buildid" "13906688"
-			"pwdrequired" "1"
-			"timeupdated" "1711882055"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -463,3 +431,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "eca1918113dfb83be9e007366d57e41f57c62107"
+"_size" "7240"
