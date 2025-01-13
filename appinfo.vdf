@@ -154,7 +154,7 @@
 {
 	"developer" "星愿游戏制作组"
 	"publisher" "星愿游戏制作组"
-	"listofdlc" "2167710,2180520"
+	"listofdlc" "2167710,2180520,3432370"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -182,9 +182,9 @@
 		{
 			"public"
 			{
-				"gid" "847902338633999724"
-				"size" "1490847770"
-				"download" "1349071008"
+				"gid" "5616183030941726248"
+				"size" "1477701188"
+				"download" "1354826224"
 			}
 		}
 	}
@@ -199,8 +199,8 @@
 	{
 		"public"
 		{
-			"buildid" "16703470"
-			"timeupdated" "1733896249"
+			"buildid" "16984651"
+			"timeupdated" "1736754942"
 		}
 	}
 }
@@ -224,6 +224,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26587639"
-"_sha" "8772132febafb9239e04b7c139bbab2c4fa54344"
-"_size" "3632"
+"_change_number" "26968902"
+"_sha" "8cca6bc0b47480e3afa0a120cba53bcacdad7e18"
+"_size" "3641"
