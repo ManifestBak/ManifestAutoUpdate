@@ -236,8 +236,8 @@
 	{
 		"0" "42804"
 		"1" "4885"
-		"2" "1662"
-		"3" "3959"
+		"2" "3959"
+		"3" "1662"
 		"4" "492"
 		"5" "4791"
 		"6" "6426"
@@ -256,7 +256,7 @@
 		"19" "5125"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -299,18 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "7421808618825657733"
-				"size" "1055952980"
-				"download" "916313120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "0CBEC92DD91562311FF2E27620257F39"
-				"size" "39B9F1BFAED5CF0E961FF0A41A3BA69C"
-				"download" "E9E94A2112C797B063735FC9968B383B"
+				"gid" "6030225730630033254"
+				"size" "1056819740"
+				"download" "917058928"
 			}
 		}
 	}
@@ -331,15 +322,6 @@
 				"download" "208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "3528B935BFD8D4522D5C4BDCA708BD6F"
-				"size" "31D671A0DA977838E6D8568726375E6A"
-				"download" "41049013001C032A4DE6AAE6017071F6"
-			}
-		}
 	}
 	"3054612"
 	{
@@ -357,15 +339,6 @@
 				"download" "918083520"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "989AE3AB7582E880B722EDFA63639354"
-				"size" "F647985C3E78A30FB2B49F6D113BEDEE"
-				"download" "13E9E2C13EB5EB9BCCCC307755B1992E"
-			}
-		}
 	}
 	"3229410"
 	{
@@ -379,30 +352,16 @@
 				"download" "64"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "4E187BF4568A30A8CE2DAAD3C698CC55"
-				"size" "5DAE9A2B2B23BA8ABED01DAE97C11226"
-				"download" "53809AEEB117CCD3C5CC3E4019328512"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16187761"
-			"timeupdated" "1729903583"
-		}
-		"test"
-		{
-			"buildid" "16176630"
-			"pwdrequired" "1"
-			"timeupdated" "1729840162"
+			"buildid" "16983707"
+			"timeupdated" "1736742869"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -419,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25905786"
-"_sha" "fc0ea5c165f9108b6a8b6c7394485a4d2b66800d"
-"_size" "7366"
+"_change_number" "26967638"
+"_sha" "4614fc429e31cce9f00b9620980230d094e97d82"
+"_size" "6474"
