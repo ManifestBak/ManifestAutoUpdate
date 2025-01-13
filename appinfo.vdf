@@ -54,6 +54,8 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -136,6 +138,7 @@
 		"category_27" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -223,7 +226,7 @@
 		"19" "13070"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -259,18 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "102494667638479796"
-				"size" "481018125"
-				"download" "178945328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4300EC756FEFA7B02DBD6302C721BE8A"
-				"size" "34FEF922AACDD86222A49F6B54A66978"
-				"download" "4B5F9BA69E9CB1D39716D739A1EC722A"
+				"gid" "5554111602286592108"
+				"size" "481026347"
+				"download" "178947936"
 			}
 		}
 	}
@@ -278,16 +272,11 @@
 	{
 		"public"
 		{
-			"buildid" "15267236"
-			"timeupdated" "1722882921"
-		}
-		"beta"
-		{
-			"buildid" "15267236"
-			"pwdrequired" "1"
-			"timeupdated" "1722882656"
+			"buildid" "16958925"
+			"timeupdated" "1736475615"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -304,3 +293,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26933860"
+"_sha" "77fcbe8f7c1642b9b7556a270a3ac343e7ec6b7e"
+"_size" "4946"
