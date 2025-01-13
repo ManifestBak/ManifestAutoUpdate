@@ -13,6 +13,7 @@
 	"clienticon" "361d426792502735857afbeb08e5423cfac8f7ed"
 	"clienticns" "5e7a02244559afa1b388c72b1fa0f47ee2be6846"
 	"linuxclienticon" "52b4a1ebc6c3b7c5d97d2cd064c5a9a2e84d978d"
+	"restricted_countries" "DE"
 	"metacritic_name" "Lozenge"
 	"small_capsule"
 	{
@@ -22,6 +23,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_6b951599e9b62a3ae15eafbf5df706e1180b25e5.jpg"
 	"store_asset_mtime" "1518524464"
 	"associations"
 	{
@@ -167,3 +169,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "8a567dd2fcd24288bf5000a6328197983df8adf9"
+"_size" "2792"
