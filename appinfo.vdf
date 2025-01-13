@@ -74,10 +74,10 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
-		"schinese" "2a1309dca5a6ac2cdb010af44405e03363cb90b3/capsule_231x87_schinese.jpg"
-		"japanese" "00286945533c5b50f5afbf9755841f7591c0c5f7/capsule_231x87_japanese.jpg"
+		"schinese" "3be21cfa9e137a0c9677dd9a3529e73985fadc68/capsule_231x87_schinese.jpg"
+		"japanese" "b013c2fe6be0ed8c4d9fdd9a616f98daa181ccd2/capsule_231x87_japanese.jpg"
 		"koreana" "dee4f075173e83f83e250685d61612f6a2e559b6/capsule_231x87_koreana.jpg"
-		"tchinese" "2bd99d056ac1c45d06165a612641cb071112f461/capsule_231x87_tchinese.jpg"
+		"tchinese" "1f53c958e9c94a4612ddf4c0f3b567ff32bd1ce5/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -186,7 +186,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736335557"
+	"store_asset_mtime" "1736740138"
 	"associations"
 	{
 		"0"
@@ -232,6 +232,11 @@
 			"subtitles" "true"
 		}
 		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -299,8 +304,8 @@
 		{
 			"public"
 			{
-				"gid" "4707883883882443851"
-				"size" "640912245"
+				"gid" "1993407969724441245"
+				"size" "640912757"
 				"download" "236468896"
 			}
 		}
@@ -323,8 +328,8 @@
 		{
 			"public"
 			{
-				"gid" "7779795058761678934"
-				"size" "640912245"
+				"gid" "8499039145134118153"
+				"size" "640912757"
 				"download" "236482752"
 			}
 		}
@@ -333,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16971037"
-			"timeupdated" "1736555631"
+			"buildid" "16982457"
+			"timeupdated" "1736727780"
 		}
 	}
 }
@@ -386,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26952702"
-"_sha" "33a90c2caf023fdaa26bd2a1aa11c286fea99c08"
-"_size" "8992"
+"_change_number" "26967368"
+"_sha" "386a10a9889e8c4a2d0bb32faa4199ef4ec9e8d3"
+"_size" "9064"
