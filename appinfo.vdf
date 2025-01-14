@@ -235,10 +235,10 @@
 		"3" "16689"
 		"4" "8945"
 		"5" "1741"
-		"6" "17770"
-		"7" "3859"
-		"8" "1654"
-		"9" "4182"
+		"6" "3859"
+		"7" "17770"
+		"8" "4182"
+		"9" "1654"
 		"10" "3871"
 		"11" "4845"
 		"12" "4695"
@@ -406,9 +406,9 @@
 		{
 			"public"
 			{
-				"gid" "3947162739161013077"
-				"size" "1849072723"
-				"download" "171772592"
+				"gid" "3487005447028648861"
+				"size" "1849192411"
+				"download" "171857216"
 			}
 			"old_campaign_compatible"
 			{
@@ -445,9 +445,9 @@
 			}
 			"development"
 			{
-				"gid" "1AF77B8E37F22705332CF9A227F48239"
-				"size" "BC83FB0C1EC53FFA5B9C77621743933B"
-				"download" "8E1580A8C5BA1009A20B89F2F9AC78B1"
+				"gid" "38FC1ABC92E38115F6DF264BA66FA4DA"
+				"size" "31602F1BC7BCF59D3056E47A991C202B"
+				"download" "AF7A2060961B6960BBB23DD362B22060"
 			}
 			"teamcity"
 			{
@@ -467,9 +467,9 @@
 		{
 			"public"
 			{
-				"gid" "9165050166591213567"
-				"size" "1950119347"
-				"download" "183504720"
+				"gid" "7936323191919935685"
+				"size" "1874000449"
+				"download" "171433008"
 			}
 			"old_campaign_compatible"
 			{
@@ -506,9 +506,9 @@
 			}
 			"development"
 			{
-				"gid" "5C84593AC5F70CCE57A15B03FDF1065E"
-				"size" "AF73C623806E3941154C70B26813BF63"
-				"download" "421C7E9D3DDB60F9357993093A5D4114"
+				"gid" "7864F118A652C29D513831090451AF05"
+				"size" "A180B0628F8BC3C9E350B965B9958CBA"
+				"download" "F02BFC82DEE9130399EC7B27CB0944EA"
 			}
 			"teamcity"
 			{
@@ -528,9 +528,9 @@
 		{
 			"public"
 			{
-				"gid" "8087942950444177983"
-				"size" "1987320448"
-				"download" "187262000"
+				"gid" "2947060921186777871"
+				"size" "1987440126"
+				"download" "187343104"
 			}
 			"old_campaign_compatible"
 			{
@@ -567,9 +567,9 @@
 			}
 			"development"
 			{
-				"gid" "C328DF978B46149CEAAED55A6AC77E30"
-				"size" "22EC0A2D6B73920F8A1ED72078C5845C"
-				"download" "EE2C8DC0EEA60EEE19E0A98F89E589B4"
+				"gid" "9624C23ECE17AB030A557327695032FD"
+				"size" "590658BA840DFE7549C7944F34D02BB9"
+				"download" "F5820FDB6B41CDAC5AA03B4D928F7A22"
 			}
 			"teamcity"
 			{
@@ -642,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "16252213"
-			"timeupdated" "1730383657"
+			"buildid" "17001710"
+			"timeupdated" "1736869666"
 		}
 		"multiplayer_pre_launch"
 		{
@@ -665,9 +665,9 @@
 		}
 		"development"
 		{
-			"buildid" "16252213"
+			"buildid" "17001710"
 			"pwdrequired" "1"
-			"timeupdated" "1730381905"
+			"timeupdated" "1736869613"
 		}
 		"teamcity"
 		{
@@ -695,6 +695,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "25990454"
-"_sha" "2877d705ee7726d5fb35e439e963b7efd6acb5a0"
+"_change_number" "26992353"
+"_sha" "e6940294ba92631009f424d0b3078243c2fd34e1"
 "_size" "13405"
