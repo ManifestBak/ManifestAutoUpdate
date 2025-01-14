@@ -89,7 +89,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "VR-WR"
+			"name" "VR-WRG"
 		}
 		"1"
 		{
@@ -205,12 +205,12 @@
 		"18" "7481"
 		"19" "3968"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
-	"developer" "VR-WR"
+	"developer" "VR-WRG"
 	"publisher" "Whale Rock Games"
 	"homepage" "https://store.steampowered.com/app/673450/_Time_Lock_VR1/"
 }
@@ -262,9 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "3131157219955950068"
-				"size" "916718819"
-				"download" "688063056"
+				"gid" "1261354737904651753"
+				"size" "919580467"
+				"download" "690988480"
 			}
 		}
 	}
@@ -273,8 +273,8 @@
 	{
 		"public"
 		{
-			"buildid" "13873834"
-			"timeupdated" "1711564218"
+			"buildid" "16990058"
+			"timeupdated" "1736793357"
 		}
 	}
 }
@@ -284,6 +284,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26444706"
-"_sha" "f752cc871770b6032fb3f27e41af4b0f56e3e855"
-"_size" "4409"
+"_change_number" "26976907"
+"_sha" "54ea348ea7838d3fef341063dd8712e3b3c24896"
+"_size" "4411"
