@@ -252,8 +252,8 @@
 		"5" "9"
 		"6" "1669"
 		"7" "599"
-		"8" "4695"
-		"9" "3810"
+		"8" "3810"
+		"9" "4695"
 		"10" "12472"
 		"11" "4711"
 		"12" "5125"
@@ -302,15 +302,15 @@
 		{
 			"public"
 			{
-				"gid" "464700243958071076"
-				"size" "646583107"
-				"download" "378591280"
+				"gid" "6318359628825972630"
+				"size" "648042992"
+				"download" "377997904"
 			}
 			"experimental"
 			{
-				"gid" "1210075960785043226"
-				"size" "687634069"
-				"download" "389659984"
+				"gid" "2497073895814978766"
+				"size" "688151801"
+				"download" "388796128"
 			}
 			"save-migration"
 			{
@@ -325,83 +325,20 @@
 				"download" "237038272"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"modding"
-			{
-				"gid" "8ABBA0EB9E568F4A3B16DA603257F0DB"
-				"size" "0687DCC4C79736AA507620D34809855D"
-				"download" "38F3D8C0714842EAEBBD26F118F0E082"
-			}
-			"staging"
-			{
-				"gid" "36CFFF07F104FDB319478B6FA14DE014"
-				"size" "DB1EB8ADADE31A27FBDCF5EA6C0F2B8E"
-				"download" "D06AC6769F3350467156B3E5058A6AAF"
-			}
-			"internal"
-			{
-				"gid" "D9BACC31F35C873352A1135902EB0506"
-				"size" "3D00E14FA811D3528894792B5CA35466"
-				"download" "FF0F192C9FB901E086329CBCD865421C"
-			}
-			"qadev"
-			{
-				"gid" "C592DFEE0CF66D4EDF5997C76E05B018"
-				"size" "EB715726B19D505EFFA7F24EE438276B"
-				"download" "38E8C2A541F140F047167B6A5D50DF46"
-			}
-			"audio"
-			{
-				"gid" "F22B17A834988268291A5CC88CD5C4E1"
-				"size" "3EF86FA389A2A47819EBE94ABCD2FFC6"
-				"download" "A55CE3CE2A730440FDDC172E8F721C2E"
-			}
-		}
 	}
 	"workshopdepot" "1029780"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16853886"
-			"timeupdated" "1735215232"
+			"buildid" "17001821"
+			"timeupdated" "1736870313"
 		}
 		"experimental"
 		{
-			"buildid" "16854568"
+			"buildid" "16999609"
 			"description" "Home of future updates"
-			"timeupdated" "1735223821"
-		}
-		"modding"
-		{
-			"buildid" "16854568"
-			"pwdrequired" "1"
-			"timeupdated" "1735223840"
-		}
-		"staging"
-		{
-			"buildid" "16854568"
-			"pwdrequired" "1"
-			"timeupdated" "1735219849"
-		}
-		"internal"
-		{
-			"buildid" "16628815"
-			"pwdrequired" "1"
-			"timeupdated" "1733411710"
-		}
-		"qadev"
-		{
-			"buildid" "16499907"
-			"pwdrequired" "1"
-			"timeupdated" "1734343755"
-		}
-		"audio"
-		{
-			"buildid" "13739918"
-			"pwdrequired" "1"
-			"timeupdated" "1710424663"
+			"timeupdated" "1736868163"
 		}
 		"save-migration"
 		{
@@ -416,6 +353,7 @@
 			"timeupdated" "1653993660"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -444,6 +382,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26789217"
-"_sha" "fdb8d6e2d81aa376ae0038687ec24d945f14d98c"
-"_size" "8230"
+"_change_number" "26992558"
+"_sha" "ee344132f3f9b0732e3d13a582547a9da1053a48"
+"_size" "6843"
