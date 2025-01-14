@@ -233,7 +233,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -279,30 +279,15 @@
 		{
 			"public"
 			{
-				"gid" "2436901727688479426"
-				"size" "1166408887"
-				"download" "243820528"
+				"gid" "407321048810453284"
+				"size" "1166406655"
+				"download" "243826400"
 			}
 			"macostest"
 			{
 				"gid" "145481980253212341"
 				"size" "1166254955"
 				"download" "243830800"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "E88115BE80C3FF531E3FEFBFB6F3EB8A"
-				"size" "CC511789CF2934C501E927A898797336"
-				"download" "F22281525B9A736EFAB1FA8C6FC00099"
-			}
-			"playertest"
-			{
-				"gid" "B53004FD83AD260064865218C2A83C0D"
-				"size" "CD68B968AD27C9C8F3D1A45B2CA70638"
-				"download" "B31AB7D7E067090FF33B7729E2CFF5DA"
 			}
 		}
 	}
@@ -327,34 +312,13 @@
 				"download" "251181600"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "1C4949424D2B8D5C0028FD8B940325EE"
-				"size" "A14DB6745AF266BFE40F7E7644BA3686"
-				"download" "B63CC2BF9EE7572F1FF9545C46067A95"
-			}
-			"playertest"
-			{
-				"gid" "4EEDA4258A5E9FC7AEF71DB2D0AB9A84"
-				"size" "9601209592D0AEA6BD0EB4D532C355E2"
-				"download" "DCE0A1D1F5410CFF953C08590C1F3E7A"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15976696"
-			"timeupdated" "1728459355"
-		}
-		"internaltest"
-		{
-			"buildid" "15976696"
-			"pwdrequired" "1"
-			"timeupdated" "1728456787"
+			"buildid" "16917939"
+			"timeupdated" "1736172243"
 		}
 		"macostest"
 		{
@@ -362,13 +326,8 @@
 			"description" "测试苹果电脑"
 			"timeupdated" "1722990446"
 		}
-		"playertest"
-		{
-			"buildid" "15316683"
-			"pwdrequired" "1"
-			"timeupdated" "1723202021"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -413,6 +372,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25623619"
-"_sha" "9492bcc8e4dacf0f16c3e409e1743dca719aa230"
-"_size" "7944"
+"_change_number" "26878078"
+"_sha" "5b08a440489225b7aef1b7a98109f4a4df751da8"
+"_size" "6976"
