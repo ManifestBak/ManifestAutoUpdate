@@ -138,6 +138,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -152,6 +153,7 @@
 			"subtitles" "true"
 		}
 	}
+	"steam_release_date" "1735854738"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3281300"
@@ -171,13 +173,15 @@
 		"11" "4885"
 		"12" "4637"
 		"13" "3871"
-		"14" "4726"
-		"15" "3964"
+		"14" "3964"
+		"15" "4726"
 		"16" "4791"
 		"17" "1684"
 		"18" "21006"
 		"19" "4236"
 	}
+	"review_score" "8"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -218,9 +222,9 @@
 		{
 			"public"
 			{
-				"gid" "2656432789628844612"
-				"size" "102984751"
-				"download" "93941376"
+				"gid" "317910637216582678"
+				"size" "98521100"
+				"download" "89740960"
 			}
 		}
 	}
@@ -228,8 +232,8 @@
 	{
 		"public"
 		{
-			"buildid" "16894580"
-			"timeupdated" "1735853854"
+			"buildid" "16976587"
+			"timeupdated" "1736631599"
 		}
 	}
 }
@@ -255,6 +259,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26845146"
-"_sha" "43b6c741cd922085f0c8e61eef2301a4599c0607"
-"_size" "5057"
+"_change_number" "26976033"
+"_sha" "42129ab5326feb7c436ad1b26e6be61549cb6616"
+"_size" "5164"
