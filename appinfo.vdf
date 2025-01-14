@@ -294,9 +294,9 @@
 		"3" "1643"
 		"4" "7332"
 		"5" "9"
-		"6" "4191"
-		"7" "6052"
-		"8" "4115"
+		"6" "4115"
+		"7" "4191"
+		"8" "6052"
 		"9" "1654"
 		"10" "1695"
 		"11" "5125"
@@ -310,7 +310,7 @@
 		"19" "4182"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -367,6 +367,21 @@
 			}
 			"description" "Dystopika (internal)"
 		}
+		"4"
+		{
+			"executable" "Dystopika.exe"
+			"arguments" "-experimental"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "internal"
+			}
+			"description_loc"
+			{
+				"english" "Dystopika (experimental)"
+			}
+			"description" "Dystopika (experimental)"
+		}
 	}
 }
 "depots"
@@ -377,31 +392,32 @@
 		{
 			"public"
 			{
-				"gid" "3742508586762611931"
-				"size" "938848849"
-				"download" "491482528"
+				"gid" "4478183752387890833"
+				"size" "938646736"
+				"download" "491098144"
 			}
 			"experimental"
 			{
-				"gid" "3742508586762611931"
-				"size" "938848849"
-				"download" "491482528"
+				"gid" "4478183752387890833"
+				"size" "938646736"
+				"download" "491098144"
 			}
 		}
 	}
 	"baselanguages" "english"
+	"workshopdepot" "2379910"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16784098"
-			"timeupdated" "1734574471"
+			"buildid" "16971631"
+			"timeupdated" "1736829546"
 		}
 		"experimental"
 		{
-			"buildid" "16784098"
+			"buildid" "16971631"
 			"description" "Pre-release of patches and hotfixes."
-			"timeupdated" "1734512170"
+			"timeupdated" "1736561643"
 		}
 	}
 	"privatebranches" "1"
@@ -450,6 +466,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26705863"
-"_sha" "cd203d1542cbd91aa0b959d4f6f3a177a3f83330"
-"_size" "8219"
+"_change_number" "26983425"
+"_sha" "2b3e45a0fdbbbb6c141391707a75ef149d51ed12"
+"_size" "8529"
