@@ -24,6 +24,7 @@
 		"english" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"japanese" "1"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -98,7 +99,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1684412816"
+	"store_asset_mtime" "1734431904"
 	"associations"
 	{
 		"0"
@@ -144,6 +145,11 @@
 			"subtitles" "true"
 		}
 		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -224,7 +230,7 @@
 "depots"
 {
 	"hasdepotsindlc" "0"
-	"baselanguages" "schinese,tchinese"
+	"baselanguages" "schinese,tchinese,japanese"
 	"2298571"
 	{
 		"config"
@@ -235,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "8547421162754842405"
-				"size" "549181189"
-				"download" "323995856"
+				"gid" "5628176430778916787"
+				"size" "549179869"
+				"download" "323995728"
 			}
 		}
 	}
@@ -251,43 +257,25 @@
 		{
 			"public"
 			{
-				"gid" "1939491966611975480"
-				"size" "549131521"
-				"download" "323987584"
+				"gid" "5284839941474680009"
+				"size" "549129955"
+				"download" "323987408"
 			}
 		}
 	}
-	"2298573"
+	"2298575"
 	{
 		"config"
 		{
-			"language" "tchinese"
-			"steamdeck" "1"
+			"language" "japanese"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1558844772058864347"
-				"size" "549181189"
-				"download" "323995856"
-			}
-		}
-	}
-	"2298574"
-	{
-		"config"
-		{
-			"language" "schinese"
-			"steamdeck" "1"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "2392039732019013286"
-				"size" "549131521"
-				"download" "323987584"
+				"gid" "1532228519345393404"
+				"size" "526109443"
+				"download" "309565376"
 			}
 		}
 	}
@@ -295,8 +283,8 @@
 	{
 		"public"
 		{
-			"buildid" "12343733"
-			"timeupdated" "1696335185"
+			"buildid" "16798076"
+			"timeupdated" "1734599750"
 		}
 	}
 }
@@ -326,6 +314,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "cb36334e7301fecc19284047db6da80dfed3f2de"
-"_size" "5543"
+"_change_number" "26710351"
+"_sha" "951bb4328659aecb2b75127587b7daceb1be7db0"
+"_size" "5394"
