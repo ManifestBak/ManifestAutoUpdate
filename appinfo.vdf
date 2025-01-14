@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "2173083905343027302"
+				"gid" "5637570973850077775"
 				"size" "5839909048"
-				"download" "1160325168"
+				"download" "1160325920"
 			}
 			"previous_version"
 			{
@@ -390,12 +390,6 @@
 				"size" "4351492066"
 				"download" "773832112"
 			}
-			"v1.0.2.21_tls_basegame_release"
-			{
-				"gid" "3063565900905274619"
-				"size" "5648922001"
-				"download" "1112198256"
-			}
 		}
 	}
 	"workshopdepot" "1105670"
@@ -403,8 +397,8 @@
 	{
 		"public"
 		{
-			"buildid" "16930129"
-			"timeupdated" "1736344852"
+			"buildid" "16986954"
+			"timeupdated" "1736865459"
 		}
 		"previous_version"
 		{
@@ -454,12 +448,6 @@
 			"description" "To keep on playing the past update Master of Omens (October 2022).\t"
 			"timeupdated" "1678290402"
 		}
-		"v1.0.2.21_tls_basegame_release"
-		{
-			"buildid" "11837617"
-			"description" "TLS avant DLC 1"
-			"timeupdated" "1712927148"
-		}
 	}
 	"privatebranches" "1"
 }
@@ -483,6 +471,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26908769"
-"_sha" "7a363e90f3cb7cce0c18d549702e8d86c72f4f6e"
-"_size" "9963"
+"_change_number" "26991222"
+"_sha" "1ffbf22b25f8d236876bc2d4eee42e22c1fc5371"
+"_size" "9683"
