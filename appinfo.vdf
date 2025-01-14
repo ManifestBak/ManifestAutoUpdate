@@ -213,7 +213,7 @@
 		"19" "9"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -250,24 +250,15 @@
 		{
 			"public"
 			{
-				"gid" "1501478892934702964"
-				"size" "485351504"
-				"download" "183150896"
+				"gid" "8816997726605266246"
+				"size" "485621526"
+				"download" "183152448"
 			}
 			"beta"
 			{
-				"gid" "1501478892934702964"
-				"size" "485351504"
-				"download" "183150896"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"doveling"
-			{
-				"gid" "5121FF7E568BBAF691F1023D04458DF0"
-				"size" "74DE7020A0CCF113C21D6F430E2CFE13"
-				"download" "DBB99A9B3FE0EAEA0AE1D9766AD0FFED"
+				"gid" "8816997726605266246"
+				"size" "485621526"
+				"download" "183152448"
 			}
 		}
 	}
@@ -275,20 +266,14 @@
 	{
 		"public"
 		{
-			"buildid" "16695943"
-			"timeupdated" "1733845473"
+			"buildid" "16746802"
+			"timeupdated" "1736833806"
 		}
 		"beta"
 		{
-			"buildid" "16695943"
+			"buildid" "16746802"
 			"description" "小白鼠臻享版"
-			"timeupdated" "1733845453"
-		}
-		"doveling"
-		{
-			"buildid" "16695943"
-			"pwdrequired" "1"
-			"timeupdated" "1733845495"
+			"timeupdated" "1734198418"
 		}
 	}
 }
@@ -311,6 +296,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26577834"
-"_sha" "d70abafb96f48499f982fc1669e3117b74d8ad03"
-"_size" "5696"
+"_change_number" "26984190"
+"_sha" "de1b98a69c3a1be9c2a24e53a7928f3147d19990"
+"_size" "5383"
