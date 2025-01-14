@@ -271,24 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "4801315373253561419"
-				"size" "2084491959"
-				"download" "532316416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"old_version_test"
-			{
-				"gid" "F0FE577930CEC1F2A7A653C812E5F296"
-				"size" "1B4A48B3ED8E4D8D3C41969DFE7327BA"
-				"download" "D6845F58FE94DD3D94CFC8F913325C0A"
-			}
-			"alpha"
-			{
-				"gid" "D5D922AC92B8811DA8C5AD42854C8987"
-				"size" "19FDEA6FCDF7601CD40B9BCC6763DF15"
-				"download" "E57C20553C4A0F4E79DE4DA0B55BDA7B"
+				"gid" "6724278344343262296"
+				"size" "2159563719"
+				"download" "548641744"
 			}
 		}
 	}
@@ -296,22 +281,11 @@
 	{
 		"public"
 		{
-			"buildid" "16729711"
-			"timeupdated" "1734057904"
-		}
-		"old_version_test"
-		{
-			"buildid" "8265712"
-			"pwdrequired" "1"
-			"timeupdated" "1654857742"
-		}
-		"alpha"
-		{
-			"buildid" "16729711"
-			"pwdrequired" "1"
-			"timeupdated" "1734056482"
+			"buildid" "16914526"
+			"timeupdated" "1736820093"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -321,6 +295,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26622509"
-"_sha" "ee2b0c5582a7523983fc3c12f0ad59e48484471d"
-"_size" "6146"
+"_change_number" "26982152"
+"_sha" "48ccf2f255819eb1b9a8e0a7d209756548b3375d"
+"_size" "5570"
