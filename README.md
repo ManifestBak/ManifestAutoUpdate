@@ -1,62 +1,46 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-14 10:39:38
+## 更新时间：2025-01-14 12:17:32
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1025600 | Battle Realms: Zen Edition| Game |
-| 1171380 | Mo:Astray - OST| Music |
-| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
-| 1606180 | 下一站江湖Ⅱ| Game |
-| 1761380 | 战魂铭人| Game |
-| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
-| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
-| 207930 | Sacred Citadel| Game |
-| 212680 | FTL: Faster Than Light| Game |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 1938090 | 使命召唤®| Game |
-| 2193540 | Wizard of Legend 2| Game |
-| 2353250 | Astrometica| Game |
-| 2430930 | ARK: Survival Ascended Dedicated Server| Tool |
-| 22380 | Fallout: New Vegas| game |
-| 2513280 | 索尼克×夏特 世代重启| Game |
-| 2644470 | PICO PARK 2| Game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2679460 | 暗喻幻想：ReFantazio| Game |
-| 2696780 | Space Accident VR| Game |
-| 2707490 | Tower Factory| Game |
-| 2759810 | VR驾校| Application |
-| 2835110 | 海洋幻想 / Sea Fantasy| Game |
-| 288120 | Dungeonmans| Game |
-| 2949580 | 琉隐九绝| Game |
-| 2996040 | 忍者神龟：破碎命运| Game |
-| 3057410 | 骑战：烈火之剑| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 320 | Half-Life 2: Deathmatch| game |
-| 3292260 | Amenti| Game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 372140 | Labyrinthine Dreams - Soundtrack| Music |
-| 406160 | 尘埃舰队| Game |
-| 42710 | Call of Duty: Black Ops - Multiplayer| game |
-| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
-| 42700 | Call of Duty: Black Ops| game |
-| 469600 | 军团战争2 / Legion TD 2| Game |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
-| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
-| 572910 | Rakuen Original Soundtrack| Music |
-| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
-| 626510 | LoveKami -Useless Goddess-| Game |
-| 670160 | D'LIRIUM| Game |
-| 681280 | Descenders| Game |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 704450 | Neverwinter Nights: Enhanced Edition| Game |
-| 782250 | Hush Hush - Only Your Love Can Save Them| Game |
-| 785740 | This Is the Police 2| Game |
-| 798540 | Dying Light Original Soundtrack| Music |
-| 801550 | VAIL| Game |
-| 856840 | FRAMED Collection - The Original Soundtrack| Music |
-| 858210 | 新星漂移 Nova Drift| Game |
-| 855640 | My Brother Rabbit| Game |
-| 914310 | Copy Kitty OST| Music |
-| 964570 | DCL - The Game| Game |
+| 1052440 | 黑色規則：西格瑪| Game |
+| 1079460 | Descenders Soundtrack| Music |
+| 1104660 | MO:Astray| Game |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 1732390 | 那由多之轨迹：改| Game |
+| 1999520 | CATO 黄油猫| Game |
+| 2020710 | 海港物语 Havendock| Game |
+| 205 | Source Dedicated Server| Tool |
+| 2094070 | Quest Master| Game |
+| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
+| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
+| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
+| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
+| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 215 | Source SDK Base 2006| Tool |
+| 214630 | Call of Duty: Black Ops - OSX| game |
+| 222750 | Wargame: AirLand Battle| Game |
+| 2252680 | 星球田园诗| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 218 | Source SDK Base 2007| Tool |
+| 240 | Counter-Strike: Source| game |
+| 239140 | Dying Light| Game |
+| 278570 | Labyrinthine Dreams| Game |
+| 2823080 | Sketchy's Contract| Game |
+| 322450 | FRAMED Collection| Game |
+| 324160 | CLANNAD| Game |
+| 3281300 | DUNGEON RAZE| Game |
+| 33770 | Drakensang The River of Time| game |
+| 349250 | Copy Kitty| Game |
+| 409850 | Criminal Girls: Invite Only| Game |
+| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
+| 548840 | A Rose in the Twilight| Game |
+| 559210 | Rakuen| Game |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 625340 | XERA: Survival| Game |
+| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
+| 730 | Counter-Strike 2| Game |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
