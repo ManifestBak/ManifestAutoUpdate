@@ -129,11 +129,11 @@
 			}
 			"image2x"
 			{
-				"english" "476e7611a5a5ab46b06936f90e58224113a16ee2/logo_2x.png"
+				"english" "82f6c28a01723df9bd2c265c1ff86ff082f2f894/logo_2x.png"
 			}
 			"image"
 			{
-				"english" "476e7611a5a5ab46b06936f90e58224113a16ee2/logo.png"
+				"english" "82f6c28a01723df9bd2c265c1ff86ff082f2f894/logo.png"
 			}
 		}
 		"library_header"
@@ -148,7 +148,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733953076"
+	"store_asset_mtime" "1736191188"
 	"associations"
 	{
 		"0"
@@ -247,13 +247,13 @@
 	"store_tags"
 	{
 		"0" "42804"
-		"1" "1734"
-		"2" "3843"
+		"1" "3843"
+		"2" "1734"
 		"3" "1716"
 		"4" "1720"
 		"5" "4057"
-		"6" "5851"
-		"7" "3859"
+		"6" "3859"
+		"7" "5851"
 		"8" "492"
 		"9" "21"
 		"10" "3959"
@@ -268,7 +268,7 @@
 		"19" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "66"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -292,6 +292,8 @@
 			}
 		}
 	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
 }
 "depots"
 {
@@ -319,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "7295956824533273095"
-				"size" "4020908040"
-				"download" "3603398448"
+				"gid" "7059095781475097301"
+				"size" "3338546061"
+				"download" "2941800560"
 			}
 		}
 	}
@@ -329,8 +331,8 @@
 	{
 		"public"
 		{
-			"buildid" "16788712"
-			"timeupdated" "1734896692"
+			"buildid" "16941910"
+			"timeupdated" "1736793651"
 		}
 	}
 	"privatebranches" "1"
@@ -351,6 +353,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26761004"
-"_sha" "a06247c8414b06e6b0cd35a4c5ec01c1e91e8ed4"
-"_size" "6205"
+"_change_number" "26976986"
+"_sha" "3fbe2da33caa97432accf9eed7c133617b902411"
+"_size" "6276"
