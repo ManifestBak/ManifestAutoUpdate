@@ -177,24 +177,25 @@
 	{
 		"0" "16598"
 		"1" "3839"
-		"2" "21"
-		"3" "1695"
-		"4" "255534"
+		"2" "1695"
+		"3" "1662"
+		"4" "21"
 		"5" "1702"
 		"6" "1755"
-		"7" "1662"
+		"7" "255534"
 		"8" "3942"
 		"9" "493"
-		"10" "492"
-		"11" "4182"
+		"10" "4182"
+		"11" "7332"
 		"12" "6276"
 		"13" "8945"
-		"14" "7332"
+		"14" "492"
 		"15" "3834"
 		"16" "1100689"
+		"17" "3859"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -250,21 +251,15 @@
 		{
 			"public"
 			{
-				"gid" "1798841975346071296"
-				"size" "7220636217"
-				"download" "6866097248"
+				"gid" "4865184020421639087"
+				"size" "7855892577"
+				"download" "7497181024"
 			}
-			"performance"
+			"experimental"
 			{
-				"gid" "6473314841542501086"
-				"size" "6369517764"
-				"download" "6035726464"
-			}
-			"previous"
-			{
-				"gid" "8016106070905406970"
-				"size" "6873027593"
-				"download" "6520255040"
+				"gid" "4865184020421639087"
+				"size" "7855892577"
+				"download" "7497181024"
 			}
 		}
 	}
@@ -272,20 +267,14 @@
 	{
 		"public"
 		{
-			"buildid" "16779394"
-			"timeupdated" "1734485190"
+			"buildid" "16969599"
+			"timeupdated" "1736793426"
 		}
-		"performance"
+		"experimental"
 		{
-			"buildid" "16334487"
-			"description" "a build for testing the performance"
-			"timeupdated" "1731021755"
-		}
-		"previous"
-		{
-			"buildid" "16572854"
-			"description" "Previous Build"
-			"timeupdated" "1732987462"
+			"buildid" "16969599"
+			"description" "Future content beta build"
+			"timeupdated" "1736793383"
 		}
 	}
 	"privatebranches" "1"
@@ -308,26 +297,8 @@
 			"recursive" "1"
 		}
 	}
-	"rootoverrides"
-	{
-		"0"
-		{
-			"root" "gameinstall"
-			"os" "Windows"
-			"oscompare" "="
-			"useinstead" "WinAppDataLocal"
-			"pathtransforms"
-			{
-				"0"
-				{
-					"find" ""
-					"replace" "Astrometica_V2_Clone\\Saved\\SaveGames"
-				}
-			}
-		}
-	}
 }
 "_missing_token" "False"
-"_change_number" "26687061"
-"_sha" "589d1e5d8aff6279a4611b2906299f1bc6da9e83"
-"_size" "5334"
+"_change_number" "26976927"
+"_sha" "3d772795dc7331c95b01b151b769fb8ef1512720"
+"_size" "4830"
