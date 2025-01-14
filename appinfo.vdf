@@ -312,7 +312,7 @@
 		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -384,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "9161061843425783390"
-				"size" "2272968916"
-				"download" "1580730080"
+				"gid" "7540515497147530633"
+				"size" "2274391873"
+				"download" "1581921616"
 			}
 			"console-crossplay"
 			{
@@ -396,18 +396,18 @@
 			}
 			"public-test-realm"
 			{
-				"gid" "9161061843425783390"
-				"size" "2272968916"
-				"download" "1580730080"
+				"gid" "7540515497147530633"
+				"size" "2274391873"
+				"download" "1581921616"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop-release-build"
 			{
-				"gid" "B6F6C476A57E97050EA9B425B5BF501D"
-				"size" "98DAF725BFBCA15ECD24885929A96A31"
-				"download" "4C5DF1FFCA2762852E74BAECA487C3C0"
+				"gid" "92A32B455CBC087ECCD3F4595C409FB7"
+				"size" "B485363849D2574AC43FFCCA69FF0BCF"
+				"download" "D7BB86D1236F5C7BA3D389406CE3D2DE"
 			}
 			"balancing"
 			{
@@ -423,21 +423,21 @@
 			}
 			"pre-master"
 			{
-				"gid" "EBFF882813A17DF07E664E07220EC3BD"
-				"size" "E39ACA177CFD69947C7DCE97588F8B52"
-				"download" "FB9943A3AEAA980C9B04FE40216290A3"
+				"gid" "FE5A7A19D1023E3185E17E879D66D9C3"
+				"size" "CD39A4BF9B275F1A5F6A50D9C8603B22"
+				"download" "D1FB26BA5A8C65B020D923798B25891B"
 			}
 			"hillar"
 			{
-				"gid" "98EAB28AB9AEEA9097F001C13BBCA5C3"
-				"size" "469978CAD0627BF5CD7A59B02FC07994"
-				"download" "B3F9656EA85129E77E2416CDEF65FA5F"
+				"gid" "3D6ABDFD7609E1B9DB2B298ADC8F9295"
+				"size" "9BFF6193402F7BC98190E71729E205E4"
+				"download" "F44194DAABFE07A669F3BCE8AAEB95D2"
 			}
 			"develop"
 			{
-				"gid" "AAFEA79AF9CB3326A44722CDC957E6E7"
-				"size" "C29F8D88BC83D3C06BFEBD91E146D3B9"
-				"download" "BE8EA61885624430C5434CD2FC3BDFA7"
+				"gid" "5B998FAAE756FACDA2F41BDE1C5D47EC"
+				"size" "228AFB01DB71E28874652BF56D37A043"
+				"download" "CD2ACBBE02F8E499602922D50F7A3129"
 			}
 		}
 	}
@@ -451,9 +451,9 @@
 		{
 			"public"
 			{
-				"gid" "5074245443421420950"
-				"size" "2358180965"
-				"download" "1599954880"
+				"gid" "7095357618499909756"
+				"size" "2359595366"
+				"download" "1601142256"
 			}
 			"console-crossplay"
 			{
@@ -463,18 +463,18 @@
 			}
 			"public-test-realm"
 			{
-				"gid" "5074245443421420950"
-				"size" "2358180965"
-				"download" "1599954880"
+				"gid" "7095357618499909756"
+				"size" "2359595366"
+				"download" "1601142256"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"develop-release-build"
 			{
-				"gid" "29FEDF887708AB80FAF61CFB35DC8B75"
-				"size" "37E56EEE639CFCD6A6FC8EF13EACE93C"
-				"download" "42BE9B09E3912BE6B2855EC71645A6AB"
+				"gid" "5FFE7041C7ADCE3B6B3F646B6B239005"
+				"size" "467D97137C93383B6D5EBDFF6CC2940C"
+				"download" "AE7BC81A98AC5C45CD1AC976363B8CD4"
 			}
 			"balancing"
 			{
@@ -490,21 +490,21 @@
 			}
 			"pre-master"
 			{
-				"gid" "14BB59816EA9AEF822F1E69112C84FC1"
-				"size" "06B0D97B159F7BDD8363B43A82420EBD"
-				"download" "0E34B98D45576ACCFF3720AD61523C7C"
+				"gid" "CF7FBDB6D3C0E3741F761232719011F0"
+				"size" "7587FB630161DCBE2702A5E7FF0D5728"
+				"download" "3094730A2C90FB39F1602CF679DDB9C8"
 			}
 			"hillar"
 			{
-				"gid" "60544CC9470A981A1318098677526185"
-				"size" "AE0B52A47FD24059CFA377B734EE50A3"
-				"download" "548F1D64A2236581B3DE4077A4ED2155"
+				"gid" "CDE19BF0EA57D337AC1B2D9F9B7A17CF"
+				"size" "1E7B82F76EADABDC6F2C9DED99DB1823"
+				"download" "FB941A4A7EA98B89EF12C9C511056FC1"
 			}
 			"develop"
 			{
-				"gid" "C78749698BB75755FC30A5779B7A412F"
-				"size" "E20D69589478F12B8EB94009E6E2CA24"
-				"download" "6E2656243C9F5E8305DC6D19DA76E073"
+				"gid" "84490614FD816CFD1868D800E97599E3"
+				"size" "4F4FC3A6693D0F511D821F19E3227100"
+				"download" "4FAD5F449547BE1A204653CEFB8E9B4F"
 			}
 		}
 	}
@@ -574,8 +574,8 @@
 	{
 		"public"
 		{
-			"buildid" "16900625"
-			"timeupdated" "1735921166"
+			"buildid" "16990168"
+			"timeupdated" "1736849327"
 		}
 		"console-crossplay"
 		{
@@ -585,9 +585,9 @@
 		}
 		"develop-release-build"
 		{
-			"buildid" "16901549"
+			"buildid" "16999358"
 			"pwdrequired" "1"
-			"timeupdated" "1735929552"
+			"timeupdated" "1736856642"
 		}
 		"balancing"
 		{
@@ -603,27 +603,27 @@
 		}
 		"pre-master"
 		{
-			"buildid" "16900625"
+			"buildid" "16990168"
 			"pwdrequired" "1"
-			"timeupdated" "1735919790"
+			"timeupdated" "1736792946"
 		}
 		"hillar"
 		{
-			"buildid" "16892368"
+			"buildid" "16925707"
 			"pwdrequired" "1"
-			"timeupdated" "1735830060"
+			"timeupdated" "1736238406"
 		}
 		"develop"
 		{
-			"buildid" "16901217"
+			"buildid" "16998917"
 			"pwdrequired" "1"
-			"timeupdated" "1735926007"
+			"timeupdated" "1736854199"
 		}
 		"public-test-realm"
 		{
-			"buildid" "16900625"
+			"buildid" "16990168"
 			"description" "Experimental branch where you can test the next version or patch before it goes live"
-			"timeupdated" "1735921094"
+			"timeupdated" "1736849169"
 		}
 	}
 }
@@ -738,6 +738,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26854741"
-"_sha" "80e51146c19652fb8e95d2fa43186bf89b312220"
+"_change_number" "26989085"
+"_sha" "ab0cf22276d1b30f19822de2698ee3c12357ecda"
 "_size" "14714"
