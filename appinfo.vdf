@@ -32,6 +32,7 @@
 		"brazilian" "1"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -143,6 +144,10 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -226,7 +231,7 @@
 		"19" "6971"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -259,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "8416948446645059360"
-				"size" "3863850273"
-				"download" "321203552"
+				"gid" "2214897569046063977"
+				"size" "3863865004"
+				"download" "321182912"
 			}
 		}
 	}
@@ -270,8 +275,8 @@
 	{
 		"public"
 		{
-			"buildid" "16950771"
-			"timeupdated" "1736421967"
+			"buildid" "16999302"
+			"timeupdated" "1736857063"
 		}
 	}
 	"privatebranches" "1"
@@ -309,6 +314,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26933857"
-"_sha" "cc06a10d217bbc12bc032d2c1d797b6fc4852791"
-"_size" "5320"
+"_change_number" "26989170"
+"_sha" "901975b0289833c1bcb60395bc982c212d36c141"
+"_size" "5439"
