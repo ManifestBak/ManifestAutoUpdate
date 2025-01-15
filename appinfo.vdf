@@ -251,7 +251,7 @@
 		"19" "1775"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -467,9 +467,9 @@
 		{
 			"public"
 			{
-				"gid" "7936323191919935685"
-				"size" "1874000449"
-				"download" "171433008"
+				"gid" "4508072189152184844"
+				"size" "1950117793"
+				"download" "183502784"
 			}
 			"old_campaign_compatible"
 			{
@@ -506,9 +506,9 @@
 			}
 			"development"
 			{
-				"gid" "7864F118A652C29D513831090451AF05"
-				"size" "A180B0628F8BC3C9E350B965B9958CBA"
-				"download" "F02BFC82DEE9130399EC7B27CB0944EA"
+				"gid" "B61007E01D0ACF7C1615159A52677663"
+				"size" "1AAB4D42B51F8C391034BE43BE207434"
+				"download" "E6D3AB5EB65B2E963460F1C5F3C526DB"
 			}
 			"teamcity"
 			{
@@ -642,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "17001710"
-			"timeupdated" "1736869666"
+			"buildid" "17014328"
+			"timeupdated" "1736952916"
 		}
 		"multiplayer_pre_launch"
 		{
@@ -665,9 +665,9 @@
 		}
 		"development"
 		{
-			"buildid" "17001710"
+			"buildid" "17014328"
 			"pwdrequired" "1"
-			"timeupdated" "1736869613"
+			"timeupdated" "1736952839"
 		}
 		"teamcity"
 		{
@@ -695,6 +695,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "26992353"
-"_sha" "e6940294ba92631009f424d0b3078243c2fd34e1"
+"_change_number" "27009217"
+"_sha" "89619d44d1dcb3d5235e3133f595f5f0d14be1a9"
 "_size" "13405"
