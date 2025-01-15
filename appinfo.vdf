@@ -342,33 +342,12 @@
 			{
 				"oslist" "linux"
 				"osarch" "64"
-				"betakey" "latest-production"
 			}
 			"description_loc"
 			{
 				"english" "Linux and SteamOS"
 			}
 			"description" "Linux and SteamOS"
-		}
-		"2"
-		{
-			"executable" "Ultimate Zombie Defense 2.x86_64"
-			"type" "default"
-			"config"
-			{
-				"oslist" "linux"
-				"betakey" "latest-dev"
-			}
-		}
-		"3"
-		{
-			"executable" "Ultimate Zombie Defense 2.x86_64"
-			"type" "default"
-			"config"
-			{
-				"oslist" "linux"
-				"betakey" "latest-profile"
-			}
 		}
 	}
 }
@@ -395,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "4106514125992036642"
-				"size" "15498495502"
-				"download" "13465828704"
+				"gid" "1269456178803739161"
+				"size" "15503223862"
+				"download" "13469739936"
 			}
 		}
 	}
@@ -413,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "4833114144875114442"
-				"size" "15850442971"
-				"download" "13678003536"
+				"gid" "6670327391619377095"
+				"size" "15855171665"
+				"download" "13681114512"
 			}
 		}
 	}
@@ -423,8 +402,8 @@
 	{
 		"public"
 		{
-			"buildid" "16943147"
-			"timeupdated" "1736426017"
+			"buildid" "17003797"
+			"timeupdated" "1736928791"
 		}
 	}
 	"privatebranches" "1"
@@ -440,24 +419,28 @@
 			"root" "WinAppDataLocalLow"
 			"path" "TerrorDogStudio/Ultimate Zombie Defense 2/steam_userdata/{64BitSteamID}"
 			"pattern" "*.save"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 		}
-		"1"
+	}
+	"rootoverrides"
+	{
+		"0"
 		{
-			"root" "MacAppSupport"
-			"path" "TerrorDogStudio/Ultimate Zombie Defense 2/steam_userdata/{64BitSteamID}"
-			"pattern" "*.save"
-			"platforms"
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
 			{
-				"1" "MacOS"
+				"0"
+				{
+					"find" "TerrorDogStudio/Ultimate Zombie Defense 2/steam_userdata/{64BitSteamID}"
+					"replace" ".config/unity3d/TerrorDogStudio/Ultimate Zombie Defense 2/steam_userdata/{64BitSteamID}"
+				}
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26928590"
-"_sha" "c8e6024a9495db75062d46464d4bfb4a4094bc7e"
-"_size" "9396"
+"_change_number" "27003499"
+"_sha" "79246b323f37b9b5f24ff4b10e774286bb9b1351"
+"_size" "9165"
