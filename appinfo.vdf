@@ -321,15 +321,15 @@
 		{
 			"public"
 			{
-				"gid" "3095758954607414048"
-				"size" "1164024410"
-				"download" "1130125136"
+				"gid" "1940143586530568267"
+				"size" "1164447399"
+				"download" "1130553584"
 			}
 			"32bit-windows"
 			{
-				"gid" "831803944220999537"
-				"size" "1177802685"
-				"download" "1137760576"
+				"gid" "4864712091828191346"
+				"size" "1178221371"
+				"download" "1138185360"
 			}
 		}
 		"encryptedmanifests"
@@ -342,21 +342,21 @@
 			}
 			"certification"
 			{
-				"gid" "F2EBE4A46080B5A6917CF3666F273BCA"
-				"size" "F974F5507D41FCD824B6D12AEDFBB8AB"
-				"download" "2BAC1E8E0470ADB212F4001235E4B545"
+				"gid" "B83CF695739648CB8B3C0CC4978A7270"
+				"size" "4686D4D74B12550A9B4B5063B9A9399C"
+				"download" "2703D25301EE4E4ECA1686DB6C7E9F6D"
 			}
 			"certification-32bit-windows"
 			{
-				"gid" "7DAB96BD8A4F75EBF11C365C3DB5F3EC"
-				"size" "4BFACB4CCD9611CA42E5E057EF81D42B"
-				"download" "0DA8FD8A7362E61011205AFDE0E6FDE2"
+				"gid" "722645B3B7E440E3251143CB851F97ED"
+				"size" "0CC009124DF474B8A0B3EDA9CEFC36C6"
+				"download" "B480FA36CFB972EBB406C63E5CDB04F8"
 			}
 			"daily"
 			{
-				"gid" "BF1CF8E0E59DD1394B727CFD03389967"
-				"size" "C618C4AA472BAB5DBFEBDBA06D1F01A8"
-				"download" "CD12843FC65B86D8686D06FCCCBD08CB"
+				"gid" "463AFA12CB1969820AB5E69CFCF33152"
+				"size" "6D1C2F20938AF38C979AB6FC6EB7AE41"
+				"download" "162A838B978C7E72535672AAF9400F6D"
 			}
 			"fleet"
 			{
@@ -407,15 +407,15 @@
 		{
 			"public"
 			{
-				"gid" "7575659481111649068"
-				"size" "1178921630"
-				"download" "1131415216"
+				"gid" "8803153610235795890"
+				"size" "1179344539"
+				"download" "1131843872"
 			}
 			"32bit-windows"
 			{
-				"gid" "3010398531434244686"
-				"size" "1178922690"
-				"download" "1131415568"
+				"gid" "2809621027955366880"
+				"size" "1179340759"
+				"download" "1131839568"
 			}
 		}
 		"encryptedmanifests"
@@ -428,21 +428,21 @@
 			}
 			"certification"
 			{
-				"gid" "5E58EBBC7E0A9E209C5989DF88596A53"
-				"size" "E4F8FDB3C90972CB835F6812A8F7B510"
-				"download" "38EA9E7A66C8BEE91E66F2E39970BA7E"
+				"gid" "23F79B2BEC80C045592C98DBA8748FCD"
+				"size" "439726097BA43774248BBB8F108E286A"
+				"download" "C092B571C6364F12437AB0BC01E45320"
 			}
 			"certification-32bit-windows"
 			{
-				"gid" "549C0D7BAB1E5177EA09F5B0451719E2"
-				"size" "BCB485A09DF5066FDB285E470497E80E"
-				"download" "84DF042666630893855B71D49CC5EDD8"
+				"gid" "6226CAA4CCAE2B9B03E84024368C58C0"
+				"size" "F845214F5A64D2D75A1ED1ED81586627"
+				"download" "823EB9CDEB7E4C50E2F41F7B1002900C"
 			}
 			"daily"
 			{
-				"gid" "B642297CB05A6EB1563EEEEB49B85B31"
-				"size" "FD01057B3341862BA1F23B8633F7C3C2"
-				"download" "7D3E440576B9D2F826273F5F6F689E94"
+				"gid" "917D02FEE563B09AB9EA2E85B6DFFA14"
+				"size" "2081E06BA2BEDBD3DB8FBE0C0027EA77"
+				"download" "A56A778F31255495D4DE96F1277B8C2B"
 			}
 			"fleet"
 			{
@@ -487,14 +487,14 @@
 	{
 		"public"
 		{
-			"buildid" "16815108"
-			"timeupdated" "1734714294"
+			"buildid" "16955001"
+			"timeupdated" "1736949910"
 		}
 		"32bit-windows"
 		{
-			"buildid" "16815304"
+			"buildid" "16955089"
 			"description" "32-bit Brawlhalla for older computers"
-			"timeupdated" "1734714266"
+			"timeupdated" "1736949832"
 		}
 		"agent"
 		{
@@ -504,21 +504,21 @@
 		}
 		"certification"
 		{
-			"buildid" "16777273"
+			"buildid" "16955001"
 			"pwdrequired" "1"
-			"timeupdated" "1734461659"
+			"timeupdated" "1736448323"
 		}
 		"certification-32bit-windows"
 		{
-			"buildid" "16777807"
+			"buildid" "16955089"
 			"pwdrequired" "1"
-			"timeupdated" "1734465253"
+			"timeupdated" "1736448822"
 		}
 		"daily"
 		{
-			"buildid" "16812941"
+			"buildid" "16998458"
 			"pwdrequired" "1"
-			"timeupdated" "1734691677"
+			"timeupdated" "1736851766"
 		}
 		"fleet"
 		{
@@ -559,6 +559,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26736887"
-"_sha" "69239272ae35e8375ff28e9e964b03e0de228063"
-"_size" "11862"
+"_change_number" "27008465"
+"_sha" "5dc03d40f5257f3b2477619aabb9995d5dd0bbeb"
+"_size" "11863"
