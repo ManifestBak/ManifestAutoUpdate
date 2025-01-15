@@ -321,24 +321,24 @@
 		{
 			"public"
 			{
-				"gid" "8096531825244122734"
-				"size" "22190082591"
-				"download" "17416618400"
+				"gid" "2715468286480333615"
+				"size" "22048975774"
+				"download" "17401852128"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"external.qa"
 			{
-				"gid" "C4314B8FC65B2DA09B20D516C7DF7320"
-				"size" "54AB335FB9B0C450BD5194B82FB5DC79"
-				"download" "F5A62A4F4F786904C2651FFBC0322291"
+				"gid" "B3D38430F4203693789C11A5F6D27B7B"
+				"size" "EB2D1867A66776976501E7629A4FC7E3"
+				"download" "498A39F204566B8813D2318E15F6FBF3"
 			}
 			"internal.qa"
 			{
-				"gid" "74875D7FACFD9C70B42865A1DE8CD54E"
-				"size" "F953C3639FED2F4C71D50E222BDFF19E"
-				"download" "4CCEC97A457CA791595CD74F07C0D47F"
+				"gid" "B5CC3DA735AC708A22617EBD9745D0E6"
+				"size" "A0E613C42246188E881E93B72FDD8BD7"
+				"download" "66FD71B3DCAE4463B0E1902F3CF8A511"
 			}
 			"orangebeastdlc.qa"
 			{
@@ -354,9 +354,9 @@
 			}
 			"release.qa"
 			{
-				"gid" "5E2D3E436703FB39E315F920A07BD332"
-				"size" "63F391A9A5FE487CB01CE0A08F073613"
-				"download" "49C2C4C6AE98872CBA5D55417041FAE8"
+				"gid" "D9162FD17460A89276E5554DB3A452A4"
+				"size" "412AE6EE4ABD4A2C22B7C11DAF92ED70"
+				"download" "02BCE2AE2686D6BDC0FEDF5DAA20E1BA"
 			}
 			"unstable.qa"
 			{
@@ -371,20 +371,20 @@
 	{
 		"public"
 		{
-			"buildid" "16941723"
-			"timeupdated" "1736356309"
+			"buildid" "17000134"
+			"timeupdated" "1736951135"
 		}
 		"external.qa"
 		{
-			"buildid" "16900591"
+			"buildid" "17000134"
 			"pwdrequired" "1"
-			"timeupdated" "1735923395"
+			"timeupdated" "1736877362"
 		}
 		"internal.qa"
 		{
-			"buildid" "16928593"
+			"buildid" "16965582"
 			"pwdrequired" "1"
-			"timeupdated" "1736257265"
+			"timeupdated" "1736519195"
 		}
 		"orangebeastdlc.qa"
 		{
@@ -400,9 +400,9 @@
 		}
 		"release.qa"
 		{
-			"buildid" "16941723"
+			"buildid" "17000134"
 			"pwdrequired" "1"
-			"timeupdated" "1736354188"
+			"timeupdated" "1736860857"
 		}
 		"unstable.qa"
 		{
@@ -432,6 +432,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26911178"
-"_sha" "88f5071e24b857d6c6df71236fc14c99de504f47"
+"_change_number" "27008761"
+"_sha" "1461bf3e804585a41c09f5631d6fe484c127cd85"
 "_size" "7902"
