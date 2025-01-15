@@ -258,24 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "879712077318461007"
-				"size" "609419955"
-				"download" "535748704"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "F066072D1455CE6D04EBADC70760312B"
-				"size" "AB5F2E4F177654452B94EFB115A3F2AE"
-				"download" "C37C2E2571BCC3A9099A42C0846F6E1D"
-			}
-			"backer"
-			{
-				"gid" "0248FED3A306ADC9F74545774FD04AAA"
-				"size" "99824DA1B5B4C361BC30A45EF5DB92BA"
-				"download" "B857A5410BF3C8033B6EF53D3C45D632"
+				"gid" "3010590474956777754"
+				"size" "627173224"
+				"download" "552828400"
 			}
 		}
 	}
@@ -291,24 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "2745401204567998076"
+				"gid" "8477642106343866419"
 				"size" "189781010"
-				"download" "66600480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "D307826F92272E52BBD93836F9D21862"
-				"size" "98A38C64DE6B9DA3BE59778D02536E8D"
-				"download" "F1A563A70E8EA60B5B1EF00544D4E89F"
-			}
-			"backer"
-			{
-				"gid" "1210C4E89A1077BE89C8EF55CDACBAF5"
-				"size" "57BBE4FC50B16E3AFB130303B61BDCAC"
-				"download" "79D2949EACF21F201FBB84D7ECFCDB22"
+				"download" "66600448"
 			}
 		}
 	}
@@ -329,42 +299,16 @@
 				"download" "61484704"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "7A98A99F15FF87B89811752F36A3EBEE"
-				"size" "FB58A6A8E0895FDE7FED323E8F66EAE1"
-				"download" "F3D0676F5C92FD263196FE191C943ACA"
-			}
-			"backer"
-			{
-				"gid" "737FADB0F496F3386075ADD0851466E3"
-				"size" "850B7AC7729D471CE967C89C7F6F0FE1"
-				"download" "AD5224AFE1A3C6D2F1AEBF6F03826375"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16749125"
-			"timeupdated" "1734238317"
-		}
-		"developer"
-		{
-			"buildid" "12674926"
-			"pwdrequired" "1"
-			"timeupdated" "1699649688"
-		}
-		"backer"
-		{
-			"buildid" "16749125"
-			"pwdrequired" "1"
-			"timeupdated" "1734238292"
+			"buildid" "17008597"
+			"timeupdated" "1736918835"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -372,6 +316,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26647701"
-"_sha" "1033386c0cc3bf5d6dd52d0560f8ed3da964ca63"
-"_size" "6744"
+"_change_number" "27001688"
+"_sha" "93674cd5db2f5b9d27efd436d40c4afab599088a"
+"_size" "5418"
