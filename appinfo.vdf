@@ -144,6 +144,11 @@
 			"type" "franchise"
 			"name" "indie.io"
 		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Telepath"
+		}
 	}
 	"primary_genre" "3"
 	"genres"
@@ -233,18 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "1180306058390669477"
-				"size" "10142696703"
-				"download" "1296112976"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qatesting"
-			{
-				"gid" "F138D602BF415DF48C4CBC01EEED6F35"
-				"size" "D88A579E451B25012CB27105D4C932BC"
-				"download" "DEBFBCB910B485C15816E10B5E429F01"
+				"gid" "6087007021048531242"
+				"size" "10142696847"
+				"download" "1296111568"
 			}
 		}
 	}
@@ -253,16 +249,11 @@
 	{
 		"public"
 		{
-			"buildid" "16673760"
-			"timeupdated" "1733684586"
-		}
-		"qatesting"
-		{
-			"buildid" "15294931"
-			"pwdrequired" "1"
-			"timeupdated" "1723059519"
+			"buildid" "16957112"
+			"timeupdated" "1736462355"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -297,6 +288,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26585774"
-"_sha" "0162a4d0647c732f024a4980659499ae8b3d3574"
-"_size" "5474"
+"_change_number" "26931517"
+"_sha" "2278127ad988033a5424077a324db6761ec6708a"
+"_size" "5248"
