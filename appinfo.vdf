@@ -11,6 +11,7 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"freetodownload" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -101,18 +102,9 @@
 		{
 			"public"
 			{
-				"gid" "8785811027675960099"
-				"size" "3359003184"
-				"download" "1667105280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ds_beta_testing"
-			{
-				"gid" "38F21E3A303E9884298B458086928881"
-				"size" "C5B904AFABA2759F10666167D751ED92"
-				"download" "1B4FFAB9AAD6EB853152662C5E671C12"
+				"gid" "8339489651980496398"
+				"size" "3356588795"
+				"download" "1670280720"
 			}
 		}
 	}
@@ -120,18 +112,13 @@
 	{
 		"public"
 		{
-			"buildid" "14775608"
-			"timeupdated" "1718907021"
-		}
-		"ds_beta_testing"
-		{
-			"buildid" "14775608"
-			"pwdrequired" "1"
-			"timeupdated" "1718850470"
+			"buildid" "17002561"
+			"timeupdated" "1736963036"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "24054590"
-"_sha" "249084e6bcc881ad8906abf33ccbceb3dacd695b"
-"_size" "2109"
+"_change_number" "27011580"
+"_sha" "431ce8820f2ecffc07554085d0615b416c408ff9"
+"_size" "1831"
