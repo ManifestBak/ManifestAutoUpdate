@@ -222,6 +222,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1713837560"
 	"community_visible_stats" "1"
@@ -282,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "7549667939492116473"
-				"size" "1135745053"
-				"download" "861086272"
+				"gid" "5242877391470896976"
+				"size" "1141249212"
+				"download" "865340000"
 			}
 		}
 	}
@@ -292,8 +297,8 @@
 	{
 		"public"
 		{
-			"buildid" "16890557"
-			"timeupdated" "1735810220"
+			"buildid" "17008430"
+			"timeupdated" "1736916238"
 		}
 	}
 	"privatebranches" "1"
@@ -304,6 +309,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26838501"
-"_sha" "662c56a2afb94dacf0fa83bee3c6fcd1bb7a01ee"
-"_size" "5392"
+"_change_number" "27001302"
+"_sha" "f22950b1b951b629d3c00688de88eb04b6e0ff30"
+"_size" "5466"
