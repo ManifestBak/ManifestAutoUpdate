@@ -22,6 +22,8 @@
 	"name_localized"
 	{
 		"koreana" "STONKS-9800: 주식 시장 시뮬레이터"
+		"japanese" "STONKS-9800: 株式取引ゲーム"
+		"ukrainian" "STONKS-9800: Симулятор фондового ринку"
 	}
 	"steam_deck_compatibility"
 	{
@@ -268,15 +270,15 @@
 		{
 			"public"
 			{
-				"gid" "4105973261594542474"
-				"size" "101326352"
-				"download" "78144720"
+				"gid" "1921056374829989277"
+				"size" "101848022"
+				"download" "78307200"
 			}
 			"beta"
 			{
-				"gid" "4105973261594542474"
-				"size" "101326352"
-				"download" "78144720"
+				"gid" "1921056374829989277"
+				"size" "101848022"
+				"download" "78307200"
 			}
 			"v.0.1"
 			{
@@ -314,15 +316,15 @@
 		{
 			"public"
 			{
-				"gid" "3949608697577048473"
-				"size" "99356863"
-				"download" "77554960"
+				"gid" "4097130890064517024"
+				"size" "99861364"
+				"download" "77714112"
 			}
 			"beta"
 			{
-				"gid" "3949608697577048473"
-				"size" "99356863"
-				"download" "77554960"
+				"gid" "4097130890064517024"
+				"size" "99861364"
+				"download" "77714112"
 			}
 			"v.0.1"
 			{
@@ -388,14 +390,14 @@
 	{
 		"public"
 		{
-			"buildid" "16950962"
-			"timeupdated" "1736422773"
+			"buildid" "17005518"
+			"timeupdated" "1736893042"
 		}
 		"beta"
 		{
-			"buildid" "16950962"
+			"buildid" "17005518"
 			"description" "Branch with more frequent but possibly unstable updates"
-			"timeupdated" "1736422742"
+			"timeupdated" "1736892479"
 		}
 		"v.0.1"
 		{
@@ -471,6 +473,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26922961"
-"_sha" "b2ebb8fd72ab6c1e2ed4c87e5b0bb940e4dca44e"
-"_size" "8332"
+"_change_number" "26997300"
+"_sha" "c0466cf366b35f6671c3d44a7298d9ef41b4742b"
+"_size" "8464"
