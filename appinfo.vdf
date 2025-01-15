@@ -241,8 +241,8 @@
 	{
 		"0" "3942"
 		"1" "4182"
-		"2" "492"
-		"3" "3871"
+		"2" "3871"
+		"3" "492"
 		"4" "1755"
 		"5" "1643"
 		"6" "9"
@@ -252,13 +252,13 @@
 		"10" "1662"
 		"11" "3859"
 		"12" "3843"
-		"13" "4166"
-		"14" "599"
+		"13" "599"
+		"14" "4166"
 		"15" "21"
 		"16" "3964"
 		"17" "7107"
-		"18" "493"
-		"19" "4291"
+		"18" "4291"
+		"19" "493"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -355,7 +355,7 @@
 		{
 			"public"
 			{
-				"gid" "3420269340352719499"
+				"gid" "2804828325262333756"
 				"size" "1297187829"
 				"download" "1256696688"
 			}
@@ -397,48 +397,15 @@
 			}
 			"previous-build"
 			{
-				"gid" "446672229530150962"
-				"size" "1295012577"
-				"download" "1254563968"
-			}
-			"unstable"
-			{
 				"gid" "3420269340352719499"
 				"size" "1297187829"
 				"download" "1256696688"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-preview"
+			"unstable"
 			{
-				"gid" "324C4CBE88E70C5F926CC2082A5DAB2C"
-				"size" "5146796690826476A30F74894CE0682D"
-				"download" "F3FDBC7A0BA0563BE88D7C4BCF27E920"
-			}
-			"dev-preview-2"
-			{
-				"gid" "4F56C5CFF0AD77BAF4F95CF6BA24C538"
-				"size" "98BDF56C7D20B24FD646CEE4B6EB743B"
-				"download" "A8E57FB26B8FBBEDA9EA14605899B174"
-			}
-			"developer"
-			{
-				"gid" "AE460EC4C802A9ABFEB682F5FB2DDD11"
-				"size" "7039A64432DC67FECC9A61779E05C37B"
-				"download" "30A4CA169514865F319E866F64D04FC2"
-			}
-			"preview"
-			{
-				"gid" "F1E9472C4AE31410A8DA2813ED4343DE"
-				"size" "C4DDC3CF0AE7BB6B0D67181B4CBBF0B4"
-				"download" "B2345244B779A3441317F6ADE780EF0D"
-			}
-			"test"
-			{
-				"gid" "78F50A07A40D3D006C19660A87087BC4"
-				"size" "50E8B60347F61C3B9FA709C954C793F2"
-				"download" "8969E00743AB350FC3629C43125569AB"
+				"gid" "2804828325262333756"
+				"size" "1297187829"
+				"download" "1256696688"
 			}
 		}
 	}
@@ -453,9 +420,9 @@
 		{
 			"public"
 			{
-				"gid" "6782330683807923006"
-				"size" "236034979"
-				"download" "74065872"
+				"gid" "1561139701589850975"
+				"size" "236039143"
+				"download" "74061584"
 			}
 			"0.21.0"
 			{
@@ -495,48 +462,15 @@
 			}
 			"previous-build"
 			{
-				"gid" "8325081747853598775"
-				"size" "262654973"
-				"download" "78027232"
-			}
-			"unstable"
-			{
 				"gid" "6782330683807923006"
 				"size" "236034979"
 				"download" "74065872"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-preview"
+			"unstable"
 			{
-				"gid" "8F3EC83AF2C980E6B0E01F93CBA535F4"
-				"size" "0A8B858CA06CBF0030B399F9850572BD"
-				"download" "A169F0B1AA5436A1D6CCA98B0B531F7B"
-			}
-			"dev-preview-2"
-			{
-				"gid" "F6DF3C2C8783EC76E92C50173B878E32"
-				"size" "D81D339C687AC91D428DD02D61EBFA20"
-				"download" "673922438DECBD7D62C249A7BB274915"
-			}
-			"developer"
-			{
-				"gid" "2E240B8A08124B6E9796949132A3B46C"
-				"size" "B4485ADDEC4CF7395CE9815FE4E0E808"
-				"download" "3342BD6BC0DC2E675CF6B5F391D81D8D"
-			}
-			"preview"
-			{
-				"gid" "ACD4D724CEC8F5C8C21D00CD2B189698"
-				"size" "C70DFC0C03DA62E510E702F382E4A95E"
-				"download" "006759027EDD538DB37F93337D4C50D7"
-			}
-			"test"
-			{
-				"gid" "BE9C45915AEE880F9FDA0BB679D8A30B"
-				"size" "DFA4003CDF48768B2CAEAE420D6B33D0"
-				"download" "3960E5BD780C60807F2442B19DBE07A2"
+				"gid" "1561139701589850975"
+				"size" "236039143"
+				"download" "74061584"
 			}
 		}
 	}
@@ -551,9 +485,9 @@
 		{
 			"public"
 			{
-				"gid" "8177692037469916953"
-				"size" "253291849"
-				"download" "81386528"
+				"gid" "5159413916169116248"
+				"size" "253295997"
+				"download" "81385456"
 			}
 			"0.21.0"
 			{
@@ -593,59 +527,26 @@
 			}
 			"previous-build"
 			{
-				"gid" "708674801360715411"
-				"size" "281231755"
-				"download" "86437216"
-			}
-			"unstable"
-			{
 				"gid" "8177692037469916953"
 				"size" "253291849"
 				"download" "81386528"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-preview"
+			"unstable"
 			{
-				"gid" "02EBBD998727F1F572BBA8FF9C621592"
-				"size" "8BD82D7D1B6E9D40E59B203B0EC4E223"
-				"download" "DA3F208AB5EB0C9F71E4929173145357"
-			}
-			"dev-preview-2"
-			{
-				"gid" "D3E41DEFE4CEA89B140BAB6AA1DD2B5B"
-				"size" "7B1634B9C15EF79D9FEE91F9A568113F"
-				"download" "58942F0D1312C8145650BFA44BF163AE"
-			}
-			"developer"
-			{
-				"gid" "1F574A1A8C4528339B4D6A411DF5EA4C"
-				"size" "30A379FE4AE9143FBEBFEC5FB74AF925"
-				"download" "3EEC5187C6C9FB10787628FD2596174F"
-			}
-			"preview"
-			{
-				"gid" "B66E01A5DAB2182AE662704BA22E17A1"
-				"size" "ECDC67FE97D303F0F35C713114DEECBA"
-				"download" "20F89D3F81664081052754F9608DCDE1"
-			}
-			"test"
-			{
-				"gid" "E4F1AB74B53EC999F09308F7282B58B5"
-				"size" "1D6D43258157E581D27DA669EA6B353E"
-				"download" "73DA92416FA2B2D03C4B7B178C50990C"
+				"gid" "5159413916169116248"
+				"size" "253295997"
+				"download" "81385456"
 			}
 		}
 	}
 	"workshopdepot" "799600"
-	"baselanguages" "english,german,french,schinese,russian,brazilian,latam"
+	"baselanguages" "english,german,french,schinese,russian,japanese,brazilian,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16790820"
-			"timeupdated" "1734547760"
+			"buildid" "17006686"
+			"timeupdated" "1736901607"
 		}
 		"0.21.0"
 		{
@@ -683,49 +584,20 @@
 			"description" "Update 0.27.0 broke some mods, so use this version to keep playing them."
 			"timeupdated" "1721773744"
 		}
-		"dev-preview"
-		{
-			"buildid" "16650587"
-			"pwdrequired" "1"
-			"timeupdated" "1733445591"
-		}
-		"dev-preview-2"
-		{
-			"buildid" "16001569"
-			"pwdrequired" "1"
-			"timeupdated" "1728603513"
-		}
-		"developer"
-		{
-			"buildid" "16790820"
-			"pwdrequired" "1"
-			"timeupdated" "1734547648"
-		}
-		"preview"
-		{
-			"buildid" "16413379"
-			"pwdrequired" "1"
-			"timeupdated" "1731631286"
-		}
 		"previous-build"
 		{
-			"buildid" "16072530"
+			"buildid" "16790820"
 			"description" "The previous game build, in case the latest build has any issues."
-			"timeupdated" "1732666120"
-		}
-		"test"
-		{
-			"buildid" "16699767"
-			"pwdrequired" "1"
-			"timeupdated" "1733867779"
+			"timeupdated" "1736901577"
 		}
 		"unstable"
 		{
-			"buildid" "16790820"
+			"buildid" "17006686"
 			"description" "Bleeding-edge updates; possibly very buggy!"
-			"timeupdated" "1734547736"
+			"timeupdated" "1736901585"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -749,6 +621,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26700756"
-"_sha" "fdcd7edcbe20b66093ed64a409c7175c4844fec8"
-"_size" "15476"
+"_change_number" "26998835"
+"_sha" "b07013a6a6540bd788cb324a00e66494dd22d763"
+"_size" "12259"
