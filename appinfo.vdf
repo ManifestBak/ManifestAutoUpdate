@@ -21,6 +21,7 @@
 		"tchinese" "1"
 		"russian" "1"
 		"japanese" "1"
+		"ukrainian" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -320,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "963758002718658126"
-				"size" "2069816844"
-				"download" "526404928"
+				"gid" "6447322435287827208"
+				"size" "2069838960"
+				"download" "526423216"
 			}
 		}
 	}
@@ -337,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "4512092122730236697"
-				"size" "2094683451"
-				"download" "534219968"
+				"gid" "4640125084094485204"
+				"size" "2094705295"
+				"download" "534237056"
 			}
 		}
 	}
@@ -349,8 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "16995642"
-			"timeupdated" "1736834291"
+			"buildid" "17001895"
+			"timeupdated" "1736870468"
 		}
 	}
 }
@@ -385,6 +386,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26984266"
-"_sha" "da3411de80ef87e81cd4fd305b8ebd6a6caa3824"
-"_size" "6762"
+"_change_number" "26992614"
+"_sha" "4e97a25bf1d23df02db584541d826e009a78b0c5"
+"_size" "6783"
