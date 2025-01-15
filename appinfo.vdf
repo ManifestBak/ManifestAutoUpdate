@@ -67,7 +67,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "a6507aa40d52f7af2048e4c8e09e29f712a1ed25/capsule_231x87.jpg"
+		"english" "1b4bc9f2cf3a7180edd71ada21d8f65969518224/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -135,7 +135,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731696959"
+	"store_asset_mtime" "1736383739"
 	"associations"
 	{
 		"0"
@@ -155,7 +155,8 @@
 		"0" "25"
 		"1" "4"
 		"2" "23"
-		"3" "70"
+		"3" "28"
+		"4" "70"
 	}
 	"category"
 	{
@@ -165,6 +166,7 @@
 		"category_23" "1"
 		"category_28" "1"
 		"category_59" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -213,24 +215,24 @@
 	{
 		"0" "12095"
 		"1" "6650"
-		"2" "24904"
-		"3" "6426"
-		"4" "5611"
-		"5" "3799"
-		"6" "4947"
-		"7" "3934"
-		"8" "1742"
-		"9" "1684"
-		"10" "4057"
-		"11" "6971"
-		"12" "11014"
-		"13" "1719"
-		"14" "9551"
-		"15" "599"
-		"16" "4486"
-		"17" "4175"
-		"18" "4136"
-		"19" "4191"
+		"2" "5611"
+		"3" "3799"
+		"4" "9130"
+		"5" "4175"
+		"6" "24904"
+		"7" "4191"
+		"8" "9551"
+		"9" "6426"
+		"10" "597"
+		"11" "1742"
+		"12" "4136"
+		"13" "599"
+		"14" "4947"
+		"15" "3934"
+		"16" "1684"
+		"17" "4057"
+		"18" "6971"
+		"19" "4182"
 	}
 	"review_score" "8"
 	"review_percentage" "85"
@@ -305,18 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "27603949050578479"
-				"size" "4744533013"
-				"download" "4593322128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"c10beta"
-			{
-				"gid" "2A7A4FAF077EDAE5CA2B6FB7C16154E0"
-				"size" "2DC60F5F0C99837EAB8F0C1D97B33867"
-				"download" "AC49EAB7FD756D4DAAD4DD16E8CD3A1B"
+				"gid" "126036655589260534"
+				"size" "4744534196"
+				"download" "4593322336"
 			}
 		}
 	}
@@ -335,30 +328,16 @@
 				"download" "1767454720"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"c10beta"
-			{
-				"gid" "B84134C1665ABADE3752E1E4C041C757"
-				"size" "D6714A73E86C1D19E30C3577FFBEBEE0"
-				"download" "CDF264C6375127EC11AF7AF360D2DF2E"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16574961"
-			"timeupdated" "1732906204"
-		}
-		"c10beta"
-		{
-			"buildid" "16574961"
-			"pwdrequired" "1"
-			"timeupdated" "1732862380"
+			"buildid" "16982735"
+			"timeupdated" "1736731589"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -375,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26427467"
-"_sha" "bbe4da52978440a50d20925563851bcc6fd88acd"
-"_size" "6381"
+"_change_number" "26966326"
+"_sha" "db6915e187126b5f3260e8c6e95676cd4fc6e634"
+"_size" "5922"
