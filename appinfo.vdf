@@ -20,6 +20,7 @@
 			"version" "4"
 		}
 	}
+	"restricted_countries" "DE"
 	"small_capsule"
 	{
 		"english" "3cb3d0d905043c110b546f3ff89c19babf5f6c02/capsule_231x87.jpg"
@@ -63,6 +64,13 @@
 			"image2x"
 			{
 				"english" "f4b2ca50ab0ca46e7ada5233870e21c5301d8e09/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "f4b2ca50ab0ca46e7ada5233870e21c5301d8e09/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -173,7 +181,7 @@
 		"18" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "96"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -269,18 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "1126408670817519971"
-				"size" "6310563405"
-				"download" "4051482448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"insider"
-			{
-				"gid" "1E881BF9D7895E3E22061142ABF9EFDA"
-				"size" "DA8A3A61FA84413909ADC094BF6C1DE8"
-				"download" "BBF9716DD3B72A36D1DD687E37BC2B7B"
+				"gid" "4458289021113131702"
+				"size" "6401960756"
+				"download" "4112919840"
 			}
 		}
 	}
@@ -296,18 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "4530472135751020038"
-				"size" "3409579503"
-				"download" "2657387056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"insider"
-			{
-				"gid" "399529D27E0616B4D39E621BA4FD1682"
-				"size" "FB8025C860203C79443BA0CA6F33E012"
-				"download" "41BB03363F5FB6354253C63FE8238332"
+				"gid" "1455244191971549314"
+				"size" "3439368700"
+				"download" "2676078256"
 			}
 		}
 	}
@@ -315,16 +305,11 @@
 	{
 		"public"
 		{
-			"buildid" "16035069"
-			"timeupdated" "1728903052"
-		}
-		"insider"
-		{
-			"buildid" "16035069"
-			"pwdrequired" "1"
-			"timeupdated" "1728903017"
+			"buildid" "16962969"
+			"timeupdated" "1736504866"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -341,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25710241"
-"_sha" "ae8360f88edcfc25449b4329d5be0eafc5559875"
-"_size" "5826"
+"_change_number" "26963717"
+"_sha" "238d60b0f7f0e304972fd8f7520bc28a7a4db7cc"
+"_size" "5503"
