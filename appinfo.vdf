@@ -10,6 +10,10 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "酒馆经理模拟器"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -316,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "445751284163519151"
-				"size" "2147865752"
-				"download" "924007504"
+				"gid" "2722723549211815430"
+				"size" "2134346492"
+				"download" "919778048"
 			}
 		}
 	}
@@ -333,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "2127951763760305625"
-				"size" "2147865752"
-				"download" "924139840"
+				"gid" "3610931670604257357"
+				"size" "2134346492"
+				"download" "919921424"
 			}
 		}
 	}
@@ -352,8 +356,8 @@
 	{
 		"public"
 		{
-			"buildid" "16870333"
-			"timeupdated" "1735480524"
+			"buildid" "17003969"
+			"timeupdated" "1736882405"
 		}
 	}
 	"privatebranches" "1"
@@ -377,6 +381,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26810377"
-"_sha" "58b34f870795aed4c56ce196a15fbd88fa229e14"
-"_size" "6316"
+"_change_number" "26995525"
+"_sha" "6b4a7f0e5da3c677450e49ece42031b4d8a9cbf2"
+"_size" "6383"
