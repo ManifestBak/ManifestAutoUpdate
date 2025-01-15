@@ -282,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "6081705847027699380"
-				"size" "237495816"
-				"download" "170822432"
+				"gid" "638877088939763880"
+				"size" "237496968"
+				"download" "170822784"
 			}
 		}
 	}
@@ -298,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "5400948885845600924"
-				"size" "311176809"
-				"download" "186080192"
+				"gid" "8481601686470840677"
+				"size" "311177977"
+				"download" "186081568"
 			}
 		}
 	}
@@ -314,9 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "4044648687775660358"
-				"size" "231703200"
-				"download" "168630560"
+				"gid" "535869580185208385"
+				"size" "231704352"
+				"download" "168629984"
 			}
 		}
 	}
@@ -324,13 +324,53 @@
 	{
 		"public"
 		{
-			"buildid" "16969802"
-			"timeupdated" "1736546302"
+			"buildid" "17005579"
+			"timeupdated" "1736895036"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "/Godot/app_userdata/Gourdlets/SavedGames/UserFiles/"
+			"pattern" "*.gourd"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Godot/app_userdata/Gourdlets/SavedGames/UserFiles"
+			"pattern" "*.gourd"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxHome"
+			"path" "/.local/share/godot/app_userdata/Gourdlets/SavedGames/UserFiles/"
+			"pattern" "*.gourd"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "26948730"
-"_sha" "9f5d824cbc9807ab3dd33c82c3ca90c460a00b64"
-"_size" "5577"
+"_change_number" "26999260"
+"_sha" "48720c5d66dece292d57268a233fe94b0ef40962"
+"_size" "6269"
