@@ -455,9 +455,9 @@
 		{
 			"public"
 			{
-				"gid" "4661722553438607475"
-				"size" "7233416231"
-				"download" "6294338976"
+				"gid" "1851466530266002952"
+				"size" "7233409335"
+				"download" "6292843504"
 			}
 			"oldversion"
 			{
@@ -467,30 +467,9 @@
 			}
 			"testpublic"
 			{
-				"gid" "5598107501623712803"
-				"size" "3077567275"
-				"download" "2605232800"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "F950597BB7C88EAE67F3EDE7F37CEDC8"
-				"size" "B0904640BA9762D96567C720300701B3"
-				"download" "917D056D0525B6C767BBAC7122DB1EE3"
-			}
-			"kato"
-			{
-				"gid" "EC12FDC521936D65DF2C99EBD4410560"
-				"size" "7CA18CF92815697E2343B730B7932E0D"
-				"download" "F72361F244F5A0509D875D893F2D2021"
-			}
-			"testing"
-			{
-				"gid" "ADFB8A108B7F9231E5E026699559061F"
-				"size" "86881154913F6DA669A16999D99C0166"
-				"download" "77515F2AE96FDD8860D9A4DB40916E32"
+				"gid" "3154195194345938915"
+				"size" "3364806189"
+				"download" "2862333984"
 			}
 		}
 	}
@@ -507,20 +486,8 @@
 	{
 		"public"
 		{
-			"buildid" "16895166"
-			"timeupdated" "1736021494"
-		}
-		"developer"
-		{
-			"buildid" "16895166"
-			"pwdrequired" "1"
-			"timeupdated" "1735926249"
-		}
-		"kato"
-		{
-			"buildid" "14854825"
-			"pwdrequired" "1"
-			"timeupdated" "1719855890"
+			"buildid" "16992489"
+			"timeupdated" "1736851581"
 		}
 		"oldversion"
 		{
@@ -528,19 +495,14 @@
 			"description" "Version Old 126.4"
 			"timeupdated" "1735931940"
 		}
-		"testing"
-		{
-			"buildid" "16400954"
-			"pwdrequired" "1"
-			"timeupdated" "1732259091"
-		}
 		"testpublic"
 		{
-			"buildid" "16851914"
+			"buildid" "17010140"
 			"description" "testpublic"
-			"timeupdated" "1735182671"
+			"timeupdated" "1736928539"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -550,6 +512,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26863346"
-"_sha" "b9b9a1ebc618f7da51b14b073b1ef162e735dfef"
-"_size" "9608"
+"_change_number" "27003456"
+"_sha" "d687003bb881ba604d3a79273301de7daa01cfca"
+"_size" "8770"
