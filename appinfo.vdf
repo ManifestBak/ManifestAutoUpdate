@@ -20,6 +20,7 @@
 		"english" "1"
 		"french" "1"
 		"schinese" "1"
+		"russian" "1"
 		"japanese" "1"
 	}
 	"content_descriptors"
@@ -169,6 +170,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -189,6 +191,11 @@
 			"subtitles" "true"
 		}
 		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -254,7 +261,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,french,schinese,japanese"
+	"baselanguages" "english,french,schinese,russian,japanese"
 	"2353701"
 	{
 		"config"
@@ -265,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "8952124076356018096"
-				"size" "4340168469"
-				"download" "620672064"
+				"gid" "4154821071667505652"
+				"size" "4340294141"
+				"download" "620750736"
 			}
 		}
 	}
@@ -281,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "8827173031160362222"
-				"size" "4382847582"
-				"download" "621328496"
+				"gid" "99311507274495801"
+				"size" "4382973748"
+				"download" "621397312"
 			}
 		}
 	}
@@ -291,12 +298,44 @@
 	{
 		"public"
 		{
-			"buildid" "16657773"
-			"timeupdated" "1733742902"
+			"buildid" "16993954"
+			"timeupdated" "1736833204"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PinkTea/Realms of Bondage"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "PinkTea/Realms of Bondage"
+					"replace" ".config/unity3d/PinkTea/Realms of Bondage"
+				}
+			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26873640"
-"_sha" "4c5f8994740bc9e096188effd5bc460f72b69244"
-"_size" "5022"
+"_change_number" "26984692"
+"_sha" "938ff7255d5b5940bc1c72b286b10bfb297a349b"
+"_size" "5637"
