@@ -186,8 +186,8 @@
 		"0" "3810"
 		"1" "7332"
 		"2" "1695"
-		"3" "9204"
-		"4" "1643"
+		"3" "1643"
+		"4" "9204"
 		"5" "255534"
 		"6" "15045"
 		"7" "1775"
@@ -305,24 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "4006864147577789075"
-				"size" "2257522552"
-				"download" "391124784"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"major-testing"
-			{
-				"gid" "3460A4B32BF9603F4E4790B83991B2BC"
-				"size" "2084BBB1BD1529BCE33475A50404592E"
-				"download" "9472F911BA9E244088AB2B15DCF9742D"
-			}
-			"minor-testing"
-			{
-				"gid" "AB4B3C001BF76ADA46C34B96B406474B"
-				"size" "42486EC4DBC9F1A4AA559690011B63BB"
-				"download" "6C2F9C1BDDC75E2DC62950927D052327"
+				"gid" "4589818117125378833"
+				"size" "2257646993"
+				"download" "391149376"
 			}
 		}
 	}
@@ -336,24 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "4059367148726127683"
-				"size" "1323942152"
-				"download" "278850800"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"major-testing"
-			{
-				"gid" "BC2FC90B1FF096081FACF3E36A51E343"
-				"size" "6749FB227D7BB6E36C6726E795F111FA"
-				"download" "85E2FF995104CD8B2A91AE516B7F86EC"
-			}
-			"minor-testing"
-			{
-				"gid" "872684945E85AA7F2BD7AC2882B248FC"
-				"size" "5FDF39E79B7C7FE5D4E81B6F9579DDC9"
-				"download" "B5598D3C5A789B675D470004704B92E9"
+				"gid" "3520002203052352415"
+				"size" "1323980226"
+				"download" "278860160"
 			}
 		}
 	}
@@ -361,22 +331,11 @@
 	{
 		"public"
 		{
-			"buildid" "16900309"
-			"timeupdated" "1735923720"
-		}
-		"major-testing"
-		{
-			"buildid" "16680443"
-			"pwdrequired" "1"
-			"timeupdated" "1734510498"
-		}
-		"minor-testing"
-		{
-			"buildid" "16900309"
-			"pwdrequired" "1"
-			"timeupdated" "1735916689"
+			"buildid" "16985870"
+			"timeupdated" "1736961409"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -386,6 +345,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26853898"
-"_sha" "b38106f16d179515eb7dc2acdb1c418f02f9fa73"
-"_size" "7010"
+"_change_number" "27011233"
+"_sha" "3b4af3484e8b790ca8227370d55ccbd71c7ce775"
+"_size" "6031"
