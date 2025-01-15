@@ -156,6 +156,17 @@
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "MyStepmomIsAFutanari3-32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
 			}
 		}
 	}
@@ -164,13 +175,17 @@
 {
 	"1757751"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4133053866895592263"
-				"size" "105010120"
-				"download" "44865520"
+				"gid" "1659374505994704534"
+				"size" "156529077"
+				"download" "59427408"
 			}
 		}
 	}
@@ -178,8 +193,12 @@
 	{
 		"public"
 		{
-			"buildid" "7435878"
-			"timeupdated" "1632806603"
+			"buildid" "17006844"
+			"timeupdated" "1736902537"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26999014"
+"_sha" "d26044f7b7e3afba91f557d40c477511f4b9c2bb"
+"_size" "3114"
