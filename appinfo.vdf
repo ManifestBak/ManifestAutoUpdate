@@ -56,7 +56,7 @@
 	"metacritic_name" "Eximius: Seize the Frontline"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "fe4504dbc9741f8736bea2004f1bdc98a19ea00c/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -66,7 +66,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -74,7 +76,67 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1671694555"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "90c381a30a233ac904971f2d3560ded7505c72f6/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "90c381a30a233ac904971f2d3560ded7505c72f6/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "707704fd56989d836a3132ae44440b55ac84b848/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "707704fd56989d836a3132ae44440b55ac84b848/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "707704fd56989d836a3132ae44440b55ac84b848/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "70.12697049557073"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "984592cf32bd8731a6b4c6f627b65020d3631154/logo.png"
+			}
+			"image2x"
+			{
+				"english" "984592cf32bd8731a6b4c6f627b65020d3631154/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "eb29127629befa12e4947deac728c5fcb39b3a31/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "eb29127629befa12e4947deac728c5fcb39b3a31/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736940355"
 	"associations"
 	{
 		"0"
@@ -106,6 +168,7 @@
 		"category_49" "1"
 		"category_35" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -130,6 +193,10 @@
 		{
 			"supported" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1615904405"
 	"metacritic_score" "53"
@@ -139,26 +206,26 @@
 	"gameid" "505740"
 	"store_tags"
 	{
-		"0" "1685"
-		"1" "3839"
-		"2" "4191"
-		"3" "4295"
-		"4" "3859"
-		"5" "1676"
-		"6" "3843"
-		"7" "3942"
-		"8" "1663"
-		"9" "19"
-		"10" "6730"
-		"11" "9"
-		"12" "3878"
-		"13" "1775"
-		"14" "1723"
-		"15" "1774"
-		"16" "3835"
-		"17" "5055"
-		"18" "4182"
-		"19" "620519"
+		"0" "5711"
+		"1" "4191"
+		"2" "5851"
+		"3" "1663"
+		"4" "1676"
+		"5" "9"
+		"6" "7332"
+		"7" "1774"
+		"8" "6730"
+		"9" "1775"
+		"10" "3839"
+		"11" "3813"
+		"12" "4168"
+		"13" "4295"
+		"14" "19"
+		"15" "1678"
+		"16" "620519"
+		"17" "3835"
+		"18" "3878"
+		"19" "5055"
 	}
 	"review_score" "6"
 	"review_percentage" "73"
@@ -224,36 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "2642245400658591803"
-				"size" "36243333360"
-				"download" "15844216288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ammoboxinternal"
-			{
-				"gid" "2DA55243DD3F41C171CA097F7F628DBC"
-				"size" "67382EF0E6B6DA4ACE2C63953E49EAB6"
-				"download" "FD3B16C659000012BC92FB947F940E1C"
-			}
-			"linktest"
-			{
-				"gid" "38F4B1437C3B4FAC57E730E80D39EC19"
-				"size" "94E036B2082FFD79B8F90F73A2AF80BD"
-				"download" "7B77865E82EE002E64B18079E090AD56"
-			}
-			"livestaging"
-			{
-				"gid" "EA3F13EF7DA183A1BF1918DF193EAABC"
-				"size" "E650BAD65B3E1E41ECCEA887499229F1"
-				"download" "234D2B5080DC7783064AC754D83F213F"
-			}
-			"publicbeta"
-			{
-				"gid" "41E60BD763F52F99BB259D9A906B1506"
-				"size" "491E7F62C8E92B61F20B69D1180250CC"
-				"download" "27F36ECBF017BA6FFCA4C90091086DFE"
+				"gid" "4961492608674483484"
+				"size" "39568183458"
+				"download" "16258364336"
 			}
 		}
 	}
@@ -278,34 +318,11 @@
 	{
 		"public"
 		{
-			"buildid" "12409497"
-			"timeupdated" "1697513221"
-		}
-		"ammoboxinternal"
-		{
-			"buildid" "12409497"
-			"pwdrequired" "1"
-			"timeupdated" "1696993689"
-		}
-		"linktest"
-		{
-			"buildid" "11619300"
-			"pwdrequired" "1"
-			"timeupdated" "1688443978"
-		}
-		"livestaging"
-		{
-			"buildid" "10305388"
-			"pwdrequired" "1"
-			"timeupdated" "1673513955"
-		}
-		"publicbeta"
-		{
-			"buildid" "9575248"
-			"pwdrequired" "1"
-			"timeupdated" "1671429473"
+			"buildid" "17011559"
+			"timeupdated" "1736939390"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -346,6 +363,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23013390"
-"_sha" "713bbbdab16e91bb159191d068335aeb52f91972"
-"_size" "6388"
+"_change_number" "27006512"
+"_sha" "9fda7f25e4b7e1476775d811a3a6378af91581ec"
+"_size" "6641"
