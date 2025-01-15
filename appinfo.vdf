@@ -243,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "2668521168872484879"
-				"size" "2769825787"
-				"download" "677203072"
+				"gid" "3348570855150983281"
+				"size" "2769905335"
+				"download" "677219168"
 			}
 			"version0.8"
 			{
@@ -266,27 +266,6 @@
 				"download" "432502944"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dogfighttest"
-			{
-				"gid" "77B458A573CD9D3B92C149F04FF96D0B"
-				"size" "80929F7792F63039496CF83200A949F8"
-				"download" "EE3B9636213DEC6AAB667C42F432CAC9"
-			}
-			"jiawuspecialversion"
-			{
-				"gid" "DE3C18456750ADB71679B5A70FFA4329"
-				"size" "250EEFAA1E15AACD9209B20B5847A49A"
-				"download" "EA9C2126F0BCCCCBB8C9F260C6F0C171"
-			}
-			"navalarttest"
-			{
-				"gid" "E7CD6655BF199CC75A6F20A698628F59"
-				"size" "66F958AFFF46914D1CEE03D5B3411893"
-				"download" "9F1203E8704713A14BF42EE859D76B01"
-			}
-		}
 	}
 	"2843420"
 	{
@@ -301,8 +280,8 @@
 	{
 		"public"
 		{
-			"buildid" "17001275"
-			"timeupdated" "1736867204"
+			"buildid" "17015864"
+			"timeupdated" "1736961837"
 		}
 		"version0.8"
 		{
@@ -316,24 +295,6 @@
 			"description" "old version"
 			"timeupdated" "1687623763"
 		}
-		"dogfighttest"
-		{
-			"buildid" "15221548"
-			"pwdrequired" "1"
-			"timeupdated" "1722484212"
-		}
-		"jiawuspecialversion"
-		{
-			"buildid" "15533333"
-			"pwdrequired" "1"
-			"timeupdated" "1724944658"
-		}
-		"navalarttest"
-		{
-			"buildid" "17001275"
-			"pwdrequired" "1"
-			"timeupdated" "1736867174"
-		}
 		"version0.7"
 		{
 			"buildid" "6475801"
@@ -341,6 +302,7 @@
 			"timeupdated" "1719550954"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -350,6 +312,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26991665"
-"_sha" "2e9719f4496b30c6ffa182b5eff5140aa530c0aa"
-"_size" "6449"
+"_change_number" "27011316"
+"_sha" "ff7e04bb2ee369be19895b3ac7eeda18d376cc40"
+"_size" "5565"
