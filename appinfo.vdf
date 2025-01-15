@@ -20,9 +20,6 @@
 		"3" "5"
 		"4" "4"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"restricted_countries" "CN,DE"
 	"steam_deck_compatibility"
 	{
@@ -72,6 +69,44 @@
 			"height_pct" "71.52777777777779"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.01875532821822"
+				"height_pct" "71.52777777777779"
+			}
+		}
+	}
 	"store_asset_mtime" "1633927448"
 	"associations"
 	{
@@ -99,6 +134,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -130,7 +166,7 @@
 		"14" "21"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -149,6 +185,17 @@
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "MyStepsisIsAFutanari-32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
 			}
 		}
 	}
@@ -157,13 +204,17 @@
 {
 	"1757761"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7079865439868203394"
-				"size" "104414931"
-				"download" "42598032"
+				"gid" "126554686735109952"
+				"size" "155375598"
+				"download" "56713200"
 			}
 		}
 	}
@@ -171,12 +222,12 @@
 	{
 		"public"
 		{
-			"buildid" "7510522"
-			"timeupdated" "1633911980"
+			"buildid" "17006849"
+			"timeupdated" "1736902597"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "20657154"
-"_sha" "51ffd7f00af2bb1b612484b8c1a8d24d14679b61"
-"_size" "3171"
+"_change_number" "26999016"
+"_sha" "bd38f61e7212947191d2928721138272fdb08a1e"
+"_size" "3882"
