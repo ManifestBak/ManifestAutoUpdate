@@ -227,6 +227,18 @@
 		{
 			"supported" "true"
 		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1545995840"
 	"community_hub_visible" "1"
@@ -292,15 +304,15 @@
 		{
 			"public"
 			{
-				"gid" "6820772511401626376"
-				"size" "6581994"
-				"download" "1961920"
+				"gid" "5746454646351584498"
+				"size" "6774058"
+				"download" "1972304"
 			}
 			"beta"
 			{
-				"gid" "3028840966602169698"
-				"size" "179901839"
-				"download" "56168560"
+				"gid" "3032591445215994467"
+				"size" "180093994"
+				"download" "56179200"
 			}
 			"legacy_2.10"
 			{
@@ -333,29 +345,20 @@
 				"download" "1639712"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"review"
-			{
-				"gid" "6CCBC2076D2BB3627022B512624B4114"
-				"size" "9035489040B124500457EA243CFE7717"
-				"download" "71F523E646EF5F9F80929FD3625B549A"
-			}
-		}
 	}
 	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16976846"
-			"timeupdated" "1736635177"
+			"buildid" "17002899"
+			"timeupdated" "1736876145"
 		}
 		"beta"
 		{
-			"buildid" "16976854"
+			"buildid" "17002893"
 			"description" "beta"
-			"timeupdated" "1736635241"
+			"timeupdated" "1736876077"
 		}
 		"legacy_2.10"
 		{
@@ -387,15 +390,10 @@
 			"description" "2.9"
 			"timeupdated" "1721341166"
 		}
-		"review"
-		{
-			"buildid" "16976846"
-			"pwdrequired" "1"
-			"timeupdated" "1736635142"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26958041"
-"_sha" "2736f6b0d50e558e5ae5bc8f42e0b2b47b936ff0"
-"_size" "6391"
+"_change_number" "26998583"
+"_sha" "3e588010e1561a8c15df2be8492a5434ff22ca26"
+"_size" "6245"
