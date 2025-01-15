@@ -122,7 +122,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734101351"
+	"store_asset_mtime" "1735308376"
 	"associations"
 	{
 		"0"
@@ -160,6 +160,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_23" "1"
+		"category_43" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -199,8 +200,8 @@
 		"7" "3871"
 		"8" "7208"
 		"9" "1638"
-		"10" "1695"
-		"11" "1742"
+		"10" "1742"
+		"11" "1695"
 		"12" "3834"
 		"13" "6971"
 		"14" "1721"
@@ -243,24 +244,9 @@
 		{
 			"public"
 			{
-				"gid" "3149756334039117795"
-				"size" "7885711797"
-				"download" "4910392272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"0.10_beta_fechado"
-			{
-				"gid" "023BA1115812A35B2FCDBFA3DB8A6768"
-				"size" "35FD08B352A4721D72B6039F84D78CB1"
-				"download" "B46F15152BE551FF0C5C54D62154D242"
-			}
-			"zumbi_imortal_reloaded"
-			{
-				"gid" "8DEE7E8356A3A42392913050F03BA64D"
-				"size" "879491DC7531360B080054D29D1FBB38"
-				"download" "9EF47E9870CAB07EF907FF84761FE298"
+				"gid" "4020181566701120005"
+				"size" "7889094823"
+				"download" "4913788544"
 			}
 		}
 	}
@@ -269,22 +255,11 @@
 	{
 		"public"
 		{
-			"buildid" "16823069"
-			"timeupdated" "1734805868"
-		}
-		"0.10_beta_fechado"
-		{
-			"buildid" "16823069"
-			"pwdrequired" "1"
-			"timeupdated" "1734778343"
-		}
-		"zumbi_imortal_reloaded"
-		{
-			"buildid" "16693998"
-			"pwdrequired" "1"
-			"timeupdated" "1733839424"
+			"buildid" "16919276"
+			"timeupdated" "1736804342"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -320,6 +295,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26748060"
-"_sha" "0da807a0b7020022e753a644d9749f2eeefb2e80"
-"_size" "6712"
+"_change_number" "26979216"
+"_sha" "c770759435a00359d745a4aba192860282450e2c"
+"_size" "6121"
