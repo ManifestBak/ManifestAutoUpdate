@@ -17,6 +17,7 @@
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"italian" "1"
 		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
@@ -261,15 +262,15 @@
 			}
 			"description_loc"
 			{
-				"english" "Endzone 2 (Vulkan, recommended)"
-				"german" "Endzone 2 (Vulkan, empfohlen)"
+				"english" "Endzone 2 (DirectX 11, recommended)"
+				"german" "Endzone 2 (DirectX 11, empfohlen)"
 			}
-			"description" "Endzone 2 (Vulkan, recommended)"
+			"description" "Endzone 2 (DirectX 11, recommended)"
 		}
 		"1"
 		{
 			"executable" "Endzone2.exe"
-			"arguments" "-force-d3d11"
+			"arguments" "-force-vulkan"
 			"type" "option2"
 			"config"
 			{
@@ -278,37 +279,10 @@
 			}
 			"description_loc"
 			{
-				"english" "Endzone 2 (DirectX 11)"
-				"german" "Endzone 2 (DirectX 11)"
-				"french" "Endzone 2 (DirectX 11)"
-				"italian" "Endzone 2 (DirectX 11)"
-				"koreana" "Endzone 2 (DirectX 11)"
-				"spanish" "Endzone 2 (DirectX 11)"
-				"schinese" "Endzone 2 (DirectX 11)"
-				"tchinese" "Endzone 2 (DirectX 11)"
-				"russian" "Endzone 2 (DirectX 11)"
-				"thai" "Endzone 2 (DirectX 11)"
-				"japanese" "Endzone 2 (DirectX 11)"
-				"portuguese" "Endzone 2 (DirectX 11)"
-				"polish" "Endzone 2 (DirectX 11)"
-				"danish" "Endzone 2 (DirectX 11)"
-				"dutch" "Endzone 2 (DirectX 11)"
-				"finnish" "Endzone 2 (DirectX 11)"
-				"norwegian" "Endzone 2 (DirectX 11)"
-				"swedish" "Endzone 2 (DirectX 11)"
-				"hungarian" "Endzone 2 (DirectX 11)"
-				"czech" "Endzone 2 (DirectX 11)"
-				"romanian" "Endzone 2 (DirectX 11)"
-				"turkish" "Endzone 2 (DirectX 11)"
-				"brazilian" "Endzone 2 (DirectX 11)"
-				"bulgarian" "Endzone 2 (DirectX 11)"
-				"greek" "Endzone 2 (DirectX 11)"
-				"ukrainian" "Endzone 2 (DirectX 11)"
-				"latam" "Endzone 2 (DirectX 11)"
-				"vietnamese" "Endzone 2 (DirectX 11)"
-				"indonesian" "Endzone 2 (DirectX 11)"
+				"english" "Endzone 2 (Vulkan, UNSTABLE)"
+				"german" "Endzone 2 (Vulkan, INSTABIL)"
 			}
-			"description" "Endzone 2 (DirectX 11)"
+			"description" "Endzone 2 (Vulkan, UNSTABLE)"
 		}
 	}
 }
@@ -328,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "8835244227538861984"
-				"size" "6010136854"
-				"download" "4271833712"
+				"gid" "797326380988576211"
+				"size" "6010154874"
+				"download" "4271839088"
 			}
 		}
 	}
@@ -338,8 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "16952529"
-			"timeupdated" "1736501529"
+			"buildid" "17014883"
+			"timeupdated" "1736957426"
 		}
 	}
 	"privatebranches" "1"
@@ -393,6 +367,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26939215"
-"_sha" "bc1851e7a85d2d40e41438166e9812268c263c26"
-"_size" "7186"
+"_change_number" "27010338"
+"_sha" "1f5157803097e75c36133da7e96bf10cdfb3f9cc"
+"_size" "6118"
