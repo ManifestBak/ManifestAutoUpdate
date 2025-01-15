@@ -329,36 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "1250638428683401260"
-				"size" "23439241333"
-				"download" "10892553296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"hurdygurdy"
-			{
-				"gid" "FCD9224EC159A1F046C08772E856C0FD"
-				"size" "3EAFED889433E270AB5CAFE0C0340C69"
-				"download" "A82EEDD0D7F240F63F3E2484E7866D8E"
-			}
-			"steam-deck-validation"
-			{
-				"gid" "3F0277BCFE839C90E0CB70F2C03014B2"
-				"size" "2B74F0454CDD2004D14CF3BF38D56D0D"
-				"download" "69AAE29761C1058B0E837CB6CF9193E6"
-			}
-			"validation"
-			{
-				"gid" "6B50F9D8D122154F4F9AC10B1164E24F"
-				"size" "0EBF1C1CE74D9BBFEFC8A044B1029176"
-				"download" "787C827242EB524D7839F007640CCCA4"
-			}
-			"yellow"
-			{
-				"gid" "14843482A50F3B60D8BA48AB8A498E1E"
-				"size" "37AF1E0DAF068CB705E4A6E1482F5C10"
-				"download" "DB5CB6E301514449E0315F8A5747CB2C"
+				"gid" "6311798415431912860"
+				"size" "23438681099"
+				"download" "10890319072"
 			}
 		}
 	}
@@ -366,34 +339,11 @@
 	{
 		"public"
 		{
-			"buildid" "16920161"
-			"timeupdated" "1736353882"
-		}
-		"hurdygurdy"
-		{
-			"buildid" "13734354"
-			"pwdrequired" "1"
-			"timeupdated" "1710385386"
-		}
-		"steam-deck-validation"
-		{
-			"buildid" "14889734"
-			"pwdrequired" "1"
-			"timeupdated" "1719798402"
-		}
-		"validation"
-		{
-			"buildid" "14968499"
-			"pwdrequired" "1"
-			"timeupdated" "1720467830"
-		}
-		"yellow"
-		{
-			"buildid" "14224995"
-			"pwdrequired" "1"
-			"timeupdated" "1715780662"
+			"buildid" "17002381"
+			"timeupdated" "1736878270"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -458,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26910907"
-"_sha" "bc147e1a32adb1c44e521e9b5ea26e0e23a4ac3d"
-"_size" "8565"
+"_change_number" "26998583"
+"_sha" "fa621b8cc519a9b751d3a5a72793ae348a2bd3b0"
+"_size" "7410"
