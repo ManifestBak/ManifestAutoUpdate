@@ -236,13 +236,13 @@
 		"2" "1755"
 		"3" "3942"
 		"4" "4364"
-		"5" "1670"
-		"6" "3810"
-		"7" "3859"
-		"8" "3834"
-		"9" "12472"
-		"10" "6310"
-		"11" "1669"
+		"5" "3859"
+		"6" "1670"
+		"7" "3810"
+		"8" "12472"
+		"9" "3834"
+		"10" "1669"
+		"11" "6310"
 		"12" "7107"
 		"13" "4168"
 		"14" "4182"
@@ -253,7 +253,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "5118885978628108579"
-				"size" "2471156879"
-				"download" "1967010640"
+				"gid" "2145889412952582672"
+				"size" "2472802960"
+				"download" "1967709360"
 			}
 			"conquest-unfinished-build"
 			{
@@ -312,30 +312,9 @@
 			}
 			"testing"
 			{
-				"gid" "1595968653086331282"
-				"size" "2326471822"
-				"download" "1792766832"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"carrier_preview"
-			{
-				"gid" "7AC7F91AB68EA3D253F959B599D3FD6C"
-				"size" "AAA77A838BCEFFE5D257AFD7DEA42DC1"
-				"download" "772121367235F3D191154005670F4F36"
-			}
-			"carriers"
-			{
-				"gid" "B981A2E90DD913C29851E67011415D08"
-				"size" "2F9636BABD141F870CB9791DA1E09B00"
-				"download" "8DAE4715F470E8D34FD82573D28942E3"
-			}
-			"experimental"
-			{
-				"gid" "FA63FEBD4839A786FC06BF287AE2A12D"
-				"size" "09DEDA73A5BBABDB56B0CC3E9EA094DF"
-				"download" "CF884DE3684E62A1D8283686BA867713"
+				"gid" "2145889412952582672"
+				"size" "2472802960"
+				"download" "1967709360"
 			}
 		}
 	}
@@ -344,20 +323,8 @@
 	{
 		"public"
 		{
-			"buildid" "16958111"
-			"timeupdated" "1736517711"
-		}
-		"carrier_preview"
-		{
-			"buildid" "16958111"
-			"pwdrequired" "1"
-			"timeupdated" "1736468936"
-		}
-		"carriers"
-		{
-			"buildid" "16958111"
-			"pwdrequired" "1"
-			"timeupdated" "1736468929"
+			"buildid" "17018214"
+			"timeupdated" "1736977647"
 		}
 		"conquest-unfinished-build"
 		{
@@ -365,19 +332,14 @@
 			"description" "Incomplete build of the original Conquest update design"
 			"timeupdated" "1719034534"
 		}
-		"experimental"
-		{
-			"buildid" "15972154"
-			"pwdrequired" "1"
-			"timeupdated" "1728420851"
-		}
 		"testing"
 		{
-			"buildid" "15972154"
+			"buildid" "17018214"
 			"description" "For test builds only"
-			"timeupdated" "1728456231"
+			"timeupdated" "1736977748"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -405,9 +367,16 @@
 			"pattern" "*.ship"
 			"recursive" "1"
 		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "Saves/SpacecraftTemplates"
+			"pattern" "*.craft"
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26942473"
-"_sha" "439f61d1554150f9dba0e269ef9579e5df76a7f9"
-"_size" "8524"
+"_change_number" "27014573"
+"_sha" "56900eb7957bcd691dee895daa05e18a57414e54"
+"_size" "7785"
