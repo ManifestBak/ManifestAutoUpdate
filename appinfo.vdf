@@ -8,7 +8,7 @@
 	"osarch" "64"
 	"clienticon" "6bf096367e72c698286ce7532223173274227bcb"
 	"clienttga" "44c6500f825ce26f483388041b3e46772b41a100"
-	"icon" "7329ebc3a65e8093a6bef52cb8e8118338d10f74"
+	"icon" "015feb0aa056dd763c0ead2b98a774719ca62ac0"
 	"clienticns" "ca6376d108e02515edc437f5f8e48d712c3890af"
 	"logo" "90145067d6b7cdfb81ef0e7810700921a0505cae"
 	"logo_small" "90145067d6b7cdfb81ef0e7810700921a0505cae_thumb"
@@ -180,7 +180,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730383660"
+	"store_asset_mtime" "1736449902"
 	"associations"
 	{
 		"0"
@@ -313,6 +313,7 @@
 	"developer" "Mohawk Games"
 	"publisher" "Hooded Horse"
 	"homepage" "https://mohawkgames.com/oldworld/"
+	"gamemanualurl" "https://store.steampowered.com/manual/597180/"
 	"listofdlc" "1952840,2261870,2587410,2587420,2587430"
 	"dlcavailableonstore" "1"
 }
@@ -446,60 +447,15 @@
 		{
 			"public"
 			{
-				"gid" "518162752386852265"
-				"size" "7330308223"
-				"download" "3504769984"
+				"gid" "7660325789901918472"
+				"size" "7418806776"
+				"download" "3546170176"
 			}
 			"test"
 			{
-				"gid" "5876175750924698979"
-				"size" "7192212794"
-				"download" "3481318880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"async_internal"
-			{
-				"gid" "181E896DADF42E083A8982881D84F75A"
-				"size" "635B50E93B0642294F413197851BCAD3"
-				"download" "9D26F4D62B613188526AB866BE0B2A1C"
-			}
-			"async_public"
-			{
-				"gid" "D0ABB9E38DF8085D10F5E4CF137F5973"
-				"size" "DAAB1F11E6208C6EAF28D4EB6EDAF58D"
-				"download" "61E0D1DB9331F097FEB76E7F921BEBC7"
-			}
-			"dev_public"
-			{
-				"gid" "DAB837C862832C58EEC0869D4DF12F29"
-				"size" "CD87E8FAD95D117E6387BF0DDCF72799"
-				"download" "B80F8C7CC705D0A0CFB6B9BB261B61C1"
-			}
-			"next_version"
-			{
-				"gid" "0FA4387C0928BD56DF0387DAA81C3FB3"
-				"size" "0FC496083A25E7DB9CA390DD23EBD16D"
-				"download" "94148298C02991CE56D611FD0B461F6E"
-			}
-			"dev_internal"
-			{
-				"gid" "44A716BFEFC6E8D78220A1E283E76032"
-				"size" "0F284A953C18F131BDF76DD727E17736"
-				"download" "0AB2F97340595B2CBADD62B0431A89D3"
-			}
-			"qa_internal"
-			{
-				"gid" "A563533D5F5E6D253CF01025E87B9E16"
-				"size" "5530CDA0D782297A50ACCC2C15306EBA"
-				"download" "57641B7E675C50816B310E41B0778FF7"
-			}
-			"qa_public"
-			{
-				"gid" "CCE35D74070FE37EDE52A89C7FC21DAD"
-				"size" "E919F4F0C3D8F2D5DB60E492CFF6831B"
-				"download" "0090D7F99A164D4B41870D959CD79B69"
+				"gid" "127303137006613915"
+				"size" "7191575795"
+				"download" "3481316656"
 			}
 		}
 	}
@@ -514,60 +470,15 @@
 		{
 			"public"
 			{
-				"gid" "3662685192907926346"
-				"size" "6984165780"
-				"download" "3289510336"
+				"gid" "2303271012973233657"
+				"size" "7072667997"
+				"download" "3330638464"
 			}
 			"test"
 			{
-				"gid" "2862138405713471252"
-				"size" "6943219015"
-				"download" "3277052368"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"async_internal"
-			{
-				"gid" "8562D998A6FAAC48E06AC680032DDF16"
-				"size" "C0D9A93A2E04F1ABC62F6BFB7E9680F3"
-				"download" "6F57A799A2EC33F891A395B109FB8BCA"
-			}
-			"async_public"
-			{
-				"gid" "DD970EC02DE53499059FC3752E4E2238"
-				"size" "846458845D0471B388974ACB8E1A5015"
-				"download" "11EBA655A7FC28465235CC0FC933C681"
-			}
-			"dev_public"
-			{
-				"gid" "3E3A71AB1995D5923D72E19516243897"
-				"size" "0B6816642F64B6E9225F7B2D0D770972"
-				"download" "00B30E5C89B29665A525105E66266FAE"
-			}
-			"next_version"
-			{
-				"gid" "23475165030372917E8CD5EF691289AE"
-				"size" "E6D3F7816370F4EBAE98BFC363567350"
-				"download" "227B1FED0BF6C1739CAEE0F32D6CBB17"
-			}
-			"dev_internal"
-			{
-				"gid" "0AC666C700894FAEFCE50DB82E00BB6F"
-				"size" "9037BAB3A4422B61E2B829218257EB57"
-				"download" "27454265CD3D41D23305341981E3BFFE"
-			}
-			"qa_internal"
-			{
-				"gid" "F3407DFB11340FC660610B12A03C0B0F"
-				"size" "933B5AC0191AFC72613BF8366DC2EC69"
-				"download" "971F59620C9D8E68249B789C67E86E0C"
-			}
-			"qa_public"
-			{
-				"gid" "9AF7AA431FD7EB97350ACC3E6834E6A2"
-				"size" "A9422298AC61D36FDB7D31964EDD4178"
-				"download" "A6505A1D861A44F41CFC85243AE48B84"
+				"gid" "5951070271868206346"
+				"size" "6942582529"
+				"download" "3277049648"
 			}
 		}
 	}
@@ -582,48 +493,15 @@
 		{
 			"public"
 			{
-				"gid" "5724236600290441818"
-				"size" "6809392579"
-				"download" "3155407760"
+				"gid" "1091175264036052487"
+				"size" "6897968260"
+				"download" "3197257968"
 			}
 			"test"
 			{
-				"gid" "4959359034917475004"
-				"size" "6698511931"
-				"download" "3132698640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"async_public"
-			{
-				"gid" "D3DFDEE1C45A2B2C32E13DE56607715A"
-				"size" "5B8183567A566952678D4BEFE1D5E801"
-				"download" "68940235E035E2E90C5286244B186C6F"
-			}
-			"next_version"
-			{
-				"gid" "25FD526F9A0DDBF823F27465B5941152"
-				"size" "C215809596653388CFDDCC671940C675"
-				"download" "BF39DD1BD1E264D0307D7242C9B58824"
-			}
-			"dev_internal"
-			{
-				"gid" "2CA27BCEF0ED12F2A747A2A6477009CE"
-				"size" "2BC1E04285941BAF62A76DE12FEA5263"
-				"download" "8410C2A73FF59DDCCCC54A4BECF4276D"
-			}
-			"qa_internal"
-			{
-				"gid" "442E8B7B6DEC2C67E9D51DE67643DA2A"
-				"size" "7E7F802F938DE5E4A053B7A55761262E"
-				"download" "933866B0B0CA17050E25A665B513CEE9"
-			}
-			"qa_public"
-			{
-				"gid" "776A4A0C46A5546A19780E6751360DC9"
-				"size" "9F9AF77FC88492C6E6D2477FE65FEAFF"
-				"download" "E96E921A2F31DE45A55693CBFA83AD1E"
+				"gid" "218962043357748720"
+				"size" "6697875444"
+				"download" "3132697616"
 			}
 		}
 	}
@@ -631,58 +509,17 @@
 	{
 		"public"
 		{
-			"buildid" "16472179"
-			"timeupdated" "1732138082"
-		}
-		"async_internal"
-		{
-			"buildid" "7652754"
-			"pwdrequired" "1"
-			"timeupdated" "1635975181"
-		}
-		"async_public"
-		{
-			"buildid" "13247070"
-			"pwdrequired" "1"
-			"timeupdated" "1706004164"
-		}
-		"dev_public"
-		{
-			"buildid" "4891754"
-			"pwdrequired" "1"
-			"timeupdated" "1586784880"
-		}
-		"next_version"
-		{
-			"buildid" "13908782"
-			"pwdrequired" "1"
-			"timeupdated" "1711924136"
-		}
-		"dev_internal"
-		{
-			"buildid" "16937193"
-			"pwdrequired" "1"
-			"timeupdated" "1736323784"
-		}
-		"qa_internal"
-		{
-			"buildid" "16941178"
-			"pwdrequired" "1"
-			"timeupdated" "1736350444"
-		}
-		"qa_public"
-		{
-			"buildid" "16472179"
-			"pwdrequired" "1"
-			"timeupdated" "1732105434"
+			"buildid" "17018357"
+			"timeupdated" "1736978693"
 		}
 		"test"
 		{
-			"buildid" "16813997"
+			"buildid" "16941178"
 			"description" "Testing Branch for the next version"
-			"timeupdated" "1734698994"
+			"timeupdated" "1736372228"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -740,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26909897"
-"_sha" "46a15c8254925ff1d3199e4da9286a5d9aae8640"
-"_size" "16673"
+"_change_number" "27015283"
+"_sha" "70da5bda37f205faa2c208e716d8b6932f124ef4"
+"_size" "12535"
