@@ -282,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "5877240581999378697"
-				"size" "3576255122"
-				"download" "2857574864"
+				"gid" "8841860926351964196"
+				"size" "3576272509"
+				"download" "2857589696"
 			}
 			"frame-test"
 			{
@@ -306,36 +306,9 @@
 			}
 			"test"
 			{
-				"gid" "5877240581999378697"
-				"size" "3576255122"
-				"download" "2857574864"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "F6A2926752E02861B1583984BB6A99F0"
-				"size" "B55571121B8D393477D73A9184075BC6"
-				"download" "AB64E930F5AC583BB074D5B73C5E4C12"
-			}
-			"alpha1"
-			{
-				"gid" "C3C9A571BC2D1EE62C855C00D3BC84E7"
-				"size" "5CE845B35987F140A8080CF1D3B4F991"
-				"download" "4EDF0354973BBE337CD279B5D11AAB9C"
-			}
-			"alpha2"
-			{
-				"gid" "2DAAB7BDDE638BD4B26835048CDB9EE1"
-				"size" "8669EAEE4BD7DF00EA3B52F7D32EB1E0"
-				"download" "F4A90558ED6EC639E4B361120A5EE6F7"
-			}
-			"longterm-test"
-			{
-				"gid" "BA0D46288093CCFD91F0C99ED88A7F81"
-				"size" "D99F53E6BA60BC00AC144DDAF819A79A"
-				"download" "29327D96150C9FECA9C79281F76CCBFA"
+				"gid" "8841860926351964196"
+				"size" "3576272509"
+				"download" "2857589696"
 			}
 		}
 	}
@@ -375,33 +348,6 @@
 				"download" "1087279040"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "3030723567BEE0437223FB5507AF7B0B"
-				"size" "5A6CE509F1782190A5A460C0C8C22322"
-				"download" "6642FCC23EAD0CE7285F7E2538781CFF"
-			}
-			"alpha1"
-			{
-				"gid" "687D38430C392103D5712F78705D7AF6"
-				"size" "08F307D5500765B4651A0F3054A42D12"
-				"download" "70EF2BA2FE63824488DDD50338346891"
-			}
-			"alpha2"
-			{
-				"gid" "8AF2C47BE34F8701CBE9E95E433E5656"
-				"size" "7A7BF28F78E792179BF8551B34941B5A"
-				"download" "723BD4165F419B701EEBFB64CFBCBF10"
-			}
-			"longterm-test"
-			{
-				"gid" "A6A7873CF3BCEF685D4E5D50321A259E"
-				"size" "2750A929343191CA1A24C7B21E0C17DA"
-				"download" "D717756774DD03D6F2EF2C643084CEF8"
-			}
-		}
 	}
 	"2172691"
 	{
@@ -418,8 +364,8 @@
 	{
 		"public"
 		{
-			"buildid" "16948602"
-			"timeupdated" "1736418567"
+			"buildid" "17024381"
+			"timeupdated" "1737021489"
 		}
 		"frame-test"
 		{
@@ -427,35 +373,11 @@
 			"description" "框架测试分支"
 			"timeupdated" "1711605870"
 		}
-		"alpha"
-		{
-			"buildid" "16948602"
-			"pwdrequired" "1"
-			"timeupdated" "1736408542"
-		}
-		"alpha1"
-		{
-			"buildid" "15087254"
-			"pwdrequired" "1"
-			"timeupdated" "1734579839"
-		}
-		"alpha2"
-		{
-			"buildid" "15087254"
-			"pwdrequired" "1"
-			"timeupdated" "1721383032"
-		}
 		"event-test"
 		{
 			"buildid" "16926399"
 			"description" "事件编辑器分支"
 			"timeupdated" "1736249181"
-		}
-		"longterm-test"
-		{
-			"buildid" "16948602"
-			"pwdrequired" "1"
-			"timeupdated" "1736418532"
 		}
 		"taiwu"
 		{
@@ -465,11 +387,12 @@
 		}
 		"test"
 		{
-			"buildid" "16948602"
+			"buildid" "17024381"
 			"description" "测试分支"
-			"timeupdated" "1736418543"
+			"timeupdated" "1737021441"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -479,6 +402,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26921990"
-"_sha" "364378b22d076e22953b1d531ff8ef5f2053c7c6"
-"_size" "9494"
+"_change_number" "27022490"
+"_sha" "5e92912e8cb5d71898f504237b7348ec1d40b975"
+"_size" "7645"
