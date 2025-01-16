@@ -146,6 +146,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -203,7 +204,7 @@
 		"19" "7208"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -258,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "4571582762593691051"
-				"size" "1047092416"
-				"download" "173722160"
+				"gid" "3756658883140288272"
+				"size" "1069503090"
+				"download" "187332176"
 			}
 		}
 	}
@@ -274,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "7170092840544267124"
-				"size" "316315691"
-				"download" "210296080"
+				"gid" "4293547491826688493"
+				"size" "332342165"
+				"download" "225546064"
 			}
 		}
 	}
@@ -285,13 +286,63 @@
 	{
 		"public"
 		{
-			"buildid" "16833495"
-			"timeupdated" "1734943495"
+			"buildid" "16996073"
+			"timeupdated" "1737020582"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "CatSociety/Dungeon Inn/SaveData"
+			"pattern" "*.es3"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "CatSociety/Dungeon Inn/SaveData"
+					"replace" "CatSociety/Dungeon Inn/SaveData"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "CatSociety/Dungeon Inn/SaveData"
+					"replace" ".confing/unity3d/CatSociety/Dungeon Inn/SaveData"
+				}
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "26760568"
-"_sha" "6ece8e4dcbf5a85fc9dc47e39051ae2e68095572"
-"_size" "5291"
+"_change_number" "27022244"
+"_sha" "2e0efea7b60b65327dc16e46e67c3510b47c019d"
+"_size" "6186"
