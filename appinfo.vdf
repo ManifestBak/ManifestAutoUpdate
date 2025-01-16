@@ -38,9 +38,6 @@
 			"version" "1"
 		}
 	}
-	"openvrsupport" "1"
-	"othervrsupport" "1"
-	"othervrsupport_rift_13" "1"
 	"content_descriptors"
 	{
 		"0" "2"
@@ -135,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734971103"
+	"store_asset_mtime" "1737049610"
 	"associations"
 	{
 		"0"
@@ -167,7 +164,6 @@
 	{
 		"category_2" "1"
 		"category_52" "1"
-		"category_54" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -317,7 +313,6 @@
 	"steam_release_date" "1603401775"
 	"community_hub_visible" "1"
 	"gameid" "1294760"
-	"onlyvrsupport" "1"
 	"store_tags"
 	{
 		"0" "21978"
@@ -328,8 +323,8 @@
 		"5" "4667"
 		"6" "3968"
 		"7" "492"
-		"8" "493"
-		"9" "1774"
+		"8" "1774"
+		"9" "493"
 		"10" "21"
 		"11" "3839"
 		"12" "4145"
@@ -342,7 +337,7 @@
 		"19" "5547"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -359,34 +354,12 @@
 		"0"
 		{
 			"executable" "Hard Bullet.exe"
-			"arguments" "-oculus"
-			"type" "othervr"
+			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
-			"description_loc"
-			{
-				"english" "Meta Quest Oculus"
-			}
-			"description" "Meta Quest Oculus"
-		}
-		"1"
-		{
-			"executable" "Hard Bullet.exe"
-			"arguments" "-steamVR"
-			"type" "vr"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "SteamVR"
-			}
-			"description" "SteamVR"
 		}
 	}
 }
@@ -404,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "7964226888408683652"
-				"size" "20121631602"
-				"download" "7552503552"
+				"gid" "7567978970229669207"
+				"size" "19856433148"
+				"download" "7462840144"
 			}
 			"2020"
 			{
@@ -432,6 +405,12 @@
 				"size" "18544260119"
 				"download" "6738538704"
 			}
+			"2024"
+			{
+				"gid" "7964226888408683652"
+				"size" "20121631602"
+				"download" "7552503552"
+			}
 			"halloween2024"
 			{
 				"gid" "71042941673330865"
@@ -445,58 +424,13 @@
 				"download" "4903115072"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "E0AC44D6DA7A7B192924347046EBFFBE"
-				"size" "6BA1D85934527B50D98F5BDC56EAC167"
-				"download" "B9C8DF5AC89B05237DE53B6F0F9CC15C"
-			}
-			"demotest"
-			{
-				"gid" "12754EE67639A350630035E8C5A0C424"
-				"size" "7373B6CA0DC143BAB122DA5A2F02A780"
-				"download" "D0090D9DA6DCD102A4E076148CFBD337"
-			}
-			"location"
-			{
-				"gid" "EBA938E13DBC035B5A4103B15FD2A52F"
-				"size" "FDDCE27F205DEEC8F2533FA8D9A4CEFF"
-				"download" "0490D47D947C0DF50DC8D5568488EE31"
-			}
-			"patreonbeta"
-			{
-				"gid" "71CDD60B4162D8A71415AEDC21296C58"
-				"size" "638E2D4F1F8F1D5093603540E5F49CDA"
-				"download" "983BD589948ADAB503BA8E0AC8F2578E"
-			}
-			"rougelike"
-			{
-				"gid" "657C75765B51A3292E0B9949E8FBE71B"
-				"size" "E038E2767709DA103DD9A427B97CE2C7"
-				"download" "8F678ACB4F1039397BB909CF54EDEF38"
-			}
-			"seasontest"
-			{
-				"gid" "E3C0EEAC98D1C3E5580FD42BE5E70BDD"
-				"size" "178F0271B7B608F244CA7F86962A2612"
-				"download" "BD8D41FB447D75F9DFD9BC30DCA0957B"
-			}
-			"soundworks"
-			{
-				"gid" "0F6359783BC95D123B268249934FFF4F"
-				"size" "E517AA2F1B8A6523037E7992B57F5256"
-				"download" "CFE37F3ABEA286E5B94C1385D81979BF"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16855675"
-			"timeupdated" "1735239912"
+			"buildid" "17027836"
+			"timeupdated" "1737046602"
 		}
 		"2020"
 		{
@@ -522,17 +456,11 @@
 			"description" "December 2023"
 			"timeupdated" "1726137722"
 		}
-		"alpha"
+		"2024"
 		{
-			"buildid" "16855511"
-			"pwdrequired" "1"
-			"timeupdated" "1735234362"
-		}
-		"demotest"
-		{
-			"buildid" "15278660"
-			"pwdrequired" "1"
-			"timeupdated" "1722958322"
+			"buildid" "16855675"
+			"description" "December 2024"
+			"timeupdated" "1737050580"
 		}
 		"halloween2024"
 		{
@@ -540,45 +468,16 @@
 			"description" "Pumpkin Event"
 			"timeupdated" "1734811590"
 		}
-		"location"
-		{
-			"buildid" "16849862"
-			"pwdrequired" "1"
-			"timeupdated" "1735143439"
-		}
 		"oldhb"
 		{
 			"buildid" "6569678"
 			"description" "April 2021"
 			"timeupdated" "1627598620"
 		}
-		"patreonbeta"
-		{
-			"buildid" "16855675"
-			"pwdrequired" "1"
-			"timeupdated" "1735236718"
-		}
-		"rougelike"
-		{
-			"buildid" "15341615"
-			"pwdrequired" "1"
-			"timeupdated" "1723464663"
-		}
-		"seasontest"
-		{
-			"buildid" "16218440"
-			"pwdrequired" "1"
-			"timeupdated" "1734614248"
-		}
-		"soundworks"
-		{
-			"buildid" "15371699"
-			"pwdrequired" "1"
-			"timeupdated" "1723656747"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26790809"
-"_sha" "2a33464c5baa672144d64f875a9cc783a6aaf2f2"
-"_size" "10067"
+"_change_number" "27029712"
+"_sha" "3397290c7a4c183d0c510da2b2425dd36de644d7"
+"_size" "7805"
