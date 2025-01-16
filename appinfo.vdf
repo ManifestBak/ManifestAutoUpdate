@@ -4,9 +4,9 @@
 	"name" "Assetto Corsa EVO"
 	"type" "Game"
 	"icon" "b595c7a71a36842b625d99420c5e3ad0c25fce7b"
-	"clienttga" "32162e009d1f610602836294f11a39fcb990a2b1"
+	"clienttga" "41fbc5cf44ea10790eb788decf96a1b0254b87f3"
 	"clienticns" "31d7314eb19e7d2eac0f29075b8d806df962e30c"
-	"clienticon" "7fe23033c560a5a0286d707a92180c412ac22bf6"
+	"clienticon" "71fd07174acfa525c479cc0e20b7e214cfd28ea9"
 	"linuxclienticon" "31d7314eb19e7d2eac0f29075b8d806df962e30c"
 	"releasestate" "released"
 	"name_localized"
@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736956559"
+	"store_asset_mtime" "1737046391"
 	"associations"
 	{
 		"0"
@@ -180,8 +180,8 @@
 		"5" "4175"
 		"6" "21978"
 		"7" "3968"
-		"8" "3859"
-		"9" "7926"
+		"8" "7926"
+		"9" "3859"
 		"10" "1775"
 		"11" "3839"
 		"12" "7481"
@@ -193,6 +193,8 @@
 		"18" "8075"
 		"19" "1695"
 	}
+	"review_score" "5"
+	"review_percentage" "48"
 }
 "extended"
 {
@@ -254,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "2830250555540466405"
-				"size" "41850425278"
-				"download" "14980773536"
+				"gid" "4846019878964622002"
+				"size" "41850429374"
+				"download" "14980497248"
 			}
 		}
 	}
@@ -264,13 +266,13 @@
 	{
 		"public"
 		{
-			"buildid" "17018530"
-			"timeupdated" "1737042223"
+			"buildid" "17029859"
+			"timeupdated" "1737053292"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27028032"
-"_sha" "2d62fb1144d54e0ae589b4a3bdfc60081be73d10"
-"_size" "4425"
+"_change_number" "27031248"
+"_sha" "a920a6a32dd5cafd8564a3367080f6cc386fa4b1"
+"_size" "4475"
