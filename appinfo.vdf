@@ -16,6 +16,7 @@
 	{
 		"schinese" "猛兽派对"
 		"tchinese" "猛獸派對"
+		"sc_schinese" "猛兽派对"
 	}
 	"languages"
 	{
@@ -30,6 +31,7 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
+	"releasestatesteamchina" "prerelease"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -74,14 +76,17 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"sc_schinese" "06cb8a91e0f7349e9f78e9b10de917cde7921cdf/capsule_231x87_sc_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
 	}
 	"library_assets"
 	{
@@ -103,10 +108,12 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"sc_schinese" "b76d42c5b334186dad500618235547f51fb431d2/library_600x900_sc_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "b76d42c5b334186dad500618235547f51fb431d2/library_600x900_sc_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -121,6 +128,7 @@
 			"image"
 			{
 				"english" "logo.png"
+				"sc_schinese" "db4f0b647a9f481d2a35c197f853475cedb5cbcd/logo_sc_schinese.png"
 			}
 			"logo_position"
 			{
@@ -131,6 +139,7 @@
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"sc_schinese" "db4f0b647a9f481d2a35c197f853475cedb5cbcd/logo_sc_schinese_2x.png"
 			}
 		}
 		"library_header"
@@ -180,6 +189,11 @@
 		"category_39" "1"
 		"category_24" "1"
 		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -295,6 +309,10 @@
 		}
 	}
 	"uselaunchcommandline" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
 }
 "depots"
 {
@@ -313,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "1037537278732404280"
-				"size" "11308319341"
-				"download" "7917210688"
+				"gid" "190653407145455736"
+				"size" "11313951284"
+				"download" "7922610416"
 			}
 		}
 	}
@@ -323,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "16945562"
-			"timeupdated" "1736417626"
+			"buildid" "17019694"
+			"timeupdated" "1737023626"
 		}
 	}
 	"privatebranches" "1"
@@ -358,6 +376,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26921786"
-"_sha" "51529052071ed1c42b25020b822127b9aa533f2c"
-"_size" "6363"
+"_change_number" "27023019"
+"_sha" "604f486bf89743458e7c1fba815a438a5389c652"
+"_size" "7149"
