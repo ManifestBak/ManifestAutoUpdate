@@ -247,9 +247,9 @@
 		"5" "4604"
 		"6" "4236"
 		"7" "5851"
-		"8" "1720"
-		"9" "21"
-		"10" "1754"
+		"8" "1754"
+		"9" "1720"
+		"10" "21"
 		"11" "3859"
 		"12" "113"
 		"13" "3843"
@@ -265,6 +265,8 @@
 }
 "extended"
 {
+	"disable_shader_precaching" "1"
+	"disableshaderreporting" "1"
 	"developer" "Grinding Gear Games"
 	"publisher" "Grinding Gear Games"
 	"homepage" "http://www.pathofexile2.com"
@@ -301,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "1753480073813111452"
-				"size" "92769857419"
-				"download" "90003161616"
+				"gid" "3048308254353412051"
+				"size" "93346033628"
+				"download" "90385056512"
 			}
 		}
 	}
@@ -317,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "280845278667775746"
-				"size" "219536456"
-				"download" "103413680"
+				"gid" "4705888868106726485"
+				"size" "219618376"
+				"download" "103427056"
 			}
 		}
 	}
@@ -343,12 +345,12 @@
 	{
 		"public"
 		{
-			"buildid" "16956409"
-			"timeupdated" "1736462238"
+			"buildid" "17021898"
+			"timeupdated" "1737062034"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26931493"
-"_sha" "c8dfd2c5896e4c533c4034d7d64f20be6a55aa6d"
-"_size" "6073"
+"_change_number" "27031941"
+"_sha" "48031ee1d52bfee48206a03d1f157541d13b16ef"
+"_size" "6141"
