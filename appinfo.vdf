@@ -309,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "3606391610853125096"
-				"size" "271874280"
-				"download" "199970880"
+				"gid" "408630445890268430"
+				"size" "271967267"
+				"download" "200045360"
 			}
 			"0.90.11"
 			{
@@ -356,23 +356,14 @@
 				"download" "131608272"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "CC8FDDB76314EE04ACB42CA347947644"
-				"size" "8DECE6D8195E4C74696DC4D7AAA3AE95"
-				"download" "045F7168499C89FD5DC3F1E42189B222"
-			}
-		}
 	}
 	"workshopdepot" "576770"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16520745"
-			"timeupdated" "1732580353"
+			"buildid" "17013527"
+			"timeupdated" "1737007275"
 		}
 		"0.90.11"
 		{
@@ -416,13 +407,8 @@
 			"description" "Previous stable version"
 			"timeupdated" "1633181169"
 		}
-		"test"
-		{
-			"buildid" "16520745"
-			"pwdrequired" "1"
-			"timeupdated" "1732519264"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -440,6 +426,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26357889"
-"_sha" "8e3229c52607f35387875fa014a2823d05d51522"
-"_size" "8787"
+"_change_number" "27019463"
+"_sha" "54550da2ff171c2c926484f025508ca37ed97ffb"
+"_size" "8506"
