@@ -11,6 +11,7 @@
 		"schinese" "超侦探事件簿 雾雨谜宫 Plus　The Book of Death"
 		"japanese" "超探偵事件簿 レインコード プラス　The Book of Death"
 		"english" "Master Detective Archives: RAIN CODE Plus - The Book of Death"
+		"koreana" "초탐정사건부 레인코드 Plus The Book of Death"
 	}
 	"oslist" "windows"
 	"osarch" ""
@@ -25,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_f6aeeddd4517bfd535543222c8f4b54e27825a2f.jpg"
 	"store_asset_mtime" "1713488712"
 	"associations"
 	{
@@ -77,6 +79,31 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1721228593"
 	"gameid" "2903990"
@@ -111,9 +138,9 @@
 		{
 			"public"
 			{
-				"gid" "4355993965901449192"
-				"size" "2561036039"
-				"download" "2512187328"
+				"gid" "4742908682597040890"
+				"size" "2566376208"
+				"download" "2516416576"
 			}
 		}
 		"dlcappid" "2903990"
@@ -122,8 +149,13 @@
 	{
 		"public"
 		{
-			"buildid" "14403080"
-			"timeupdated" "1715948672"
+			"buildid" "16915349"
+			"timeupdated" "1737039910"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27027037"
+"_sha" "e692092a95041b696a0cfeeac4d7d89b957fbe53"
+"_size" "2780"
