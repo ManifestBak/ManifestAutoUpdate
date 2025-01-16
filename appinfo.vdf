@@ -254,54 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "1723141348229306717"
-				"size" "2873536266"
-				"download" "626375264"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"archive"
-			{
-				"gid" "CA7780A067E85694F93C3D9DF893BF8B"
-				"size" "5A0EEB73EE6A3DB354200D2FDCDEB0C4"
-				"download" "22C9417AC09068179F0CEEBB27B81C5F"
-			}
-			"legacy"
-			{
-				"gid" "2AB843A2E92FEB6ADAAA77FC87837E0B"
-				"size" "AC12CC1B49571F13E3B52ABBBC728841"
-				"download" "DCDF934BEE55F157D8848E5454AD3B3A"
-			}
-			"staging"
-			{
-				"gid" "38C81E362F6C421BBFEF28241BD27E9B"
-				"size" "B4D8619F234BE58FCF58076916356D72"
-				"download" "18987FE67E83A75763D6296FC0DCD204"
-			}
-			"test-server"
-			{
-				"gid" "4AB7110373F40A627CDCDEEF352C651C"
-				"size" "0D327F0C0095CCB34F93F4BCB51EEFF3"
-				"download" "CFAD0CD81A15BA2DF24DD04BEE60B353"
-			}
-			"v16-bug-hunting"
-			{
-				"gid" "6D0351761461D7BA18FF68690C04EB50"
-				"size" "7A1AD37438623E6B3244E2C62F1D575C"
-				"download" "3E5EF048266754E16C0B67A133EBD04D"
-			}
-			"v16-staging"
-			{
-				"gid" "04FF5C2BF4478C4BA3FBEC9FABD708DF"
-				"size" "23048697445EAB910B7A1B591DD49A75"
-				"download" "A90A06BCA105C29F5C06E78F466AAB56"
-			}
-			"v16-testing"
-			{
-				"gid" "D76920EB36EA09B799657CF370E98721"
-				"size" "1D806E6DA5E399267AF32A779A87796B"
-				"download" "E5EAC5A0AAA260B5613FE4514ACAD376"
+				"gid" "2418496175491460155"
+				"size" "2873558258"
+				"download" "626380240"
 			}
 		}
 	}
@@ -309,52 +264,11 @@
 	{
 		"public"
 		{
-			"buildid" "16906164"
-			"timeupdated" "1735995493"
-		}
-		"archive"
-		{
-			"buildid" "6136468"
-			"pwdrequired" "1"
-			"timeupdated" "1698681552"
-		}
-		"legacy"
-		{
-			"buildid" "6136468"
-			"pwdrequired" "1"
-			"timeupdated" "1642942332"
-		}
-		"staging"
-		{
-			"buildid" "16906164"
-			"pwdrequired" "1"
-			"timeupdated" "1735995415"
-		}
-		"test-server"
-		{
-			"buildid" "16790318"
-			"pwdrequired" "1"
-			"timeupdated" "1734544630"
-		}
-		"v16-bug-hunting"
-		{
-			"buildid" "16686727"
-			"pwdrequired" "1"
-			"timeupdated" "1733785891"
-		}
-		"v16-staging"
-		{
-			"buildid" "16776873"
-			"pwdrequired" "1"
-			"timeupdated" "1734459074"
-		}
-		"v16-testing"
-		{
-			"buildid" "14887335"
-			"pwdrequired" "1"
-			"timeupdated" "1719772373"
+			"buildid" "17016550"
+			"timeupdated" "1736965916"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -377,6 +291,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26861022"
-"_sha" "88af5f7c77f9d02ddd6494660a0d46d766816704"
-"_size" "7360"
+"_change_number" "27012235"
+"_sha" "0b543a3fc3e548d57a1f5a0ebb218a883c28fc87"
+"_size" "5376"
