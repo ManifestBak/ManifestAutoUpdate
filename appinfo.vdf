@@ -352,24 +352,15 @@
 		{
 			"public"
 			{
-				"gid" "8296977505337919181"
-				"size" "1975578745"
-				"download" "333687744"
+				"gid" "3566198041840255343"
+				"size" "1973695185"
+				"download" "333364144"
 			}
 			"legacy_version"
 			{
 				"gid" "7911698314792274347"
 				"size" "903874051"
 				"download" "193017776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_secret"
-			{
-				"gid" "4B7C3009055ED57C201B1BEFC3A43F5F"
-				"size" "6FD84EEF5AA63F35E9B7D89D719E4296"
-				"download" "8C90BE9D79D0EDCD09BFC4739D4947C8"
 			}
 		}
 	}
@@ -384,24 +375,15 @@
 		{
 			"public"
 			{
-				"gid" "4605798917575638353"
-				"size" "1057597719"
-				"download" "224274288"
+				"gid" "8432849164512654682"
+				"size" "1056607803"
+				"download" "224106912"
 			}
 			"legacy_version"
 			{
 				"gid" "1498672270706767204"
 				"size" "955839142"
 				"download" "172493920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_secret"
-			{
-				"gid" "E38D392E7A7478B121E90823F90F140A"
-				"size" "86D89F2C6872CCE4632452A65915432F"
-				"download" "91188A6131F1BAB7F7C6E7C8E02B7CDA"
 			}
 		}
 	}
@@ -413,8 +395,8 @@
 	{
 		"public"
 		{
-			"buildid" "16670114"
-			"timeupdated" "1733623971"
+			"buildid" "17021716"
+			"timeupdated" "1737003352"
 		}
 		"legacy_version"
 		{
@@ -422,13 +404,8 @@
 			"description" "Compatible with old OS (Win7 | MacOS 10.12 and below)"
 			"timeupdated" "1621670202"
 		}
-		"test_secret"
-		{
-			"buildid" "16670114"
-			"pwdrequired" "1"
-			"timeupdated" "1733623807"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -473,6 +450,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26543828"
-"_sha" "33ee9e18a848acb49c3dad3ef5a291b190d5e9a3"
-"_size" "8332"
+"_change_number" "27018910"
+"_sha" "e0d8b7e02274be4f449f9af24153d4464df30d52"
+"_size" "7827"
