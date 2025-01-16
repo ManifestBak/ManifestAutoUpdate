@@ -9,6 +9,7 @@
 		"tchinese" "超偵探事件簿 霧雨謎宮 Plus"
 		"schinese" "超侦探事件簿 雾雨谜宫 Plus"
 		"english" "Master Detective Archives: RAIN CODE Plus"
+		"koreana" "초탐정사건부 레인코드 Plus"
 	}
 	"oslist" "windows"
 	"osarch" "64"
@@ -21,6 +22,7 @@
 		"german" "1"
 		"french" "1"
 		"italian" "1"
+		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
@@ -154,7 +156,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727955517"
+	"store_asset_mtime" "1728466693"
 	"associations"
 	{
 		"0"
@@ -239,16 +241,16 @@
 	{
 		"0" "21"
 		"1" "3834"
-		"2" "4106"
-		"3" "4085"
+		"2" "4085"
+		"3" "4106"
 		"4" "4191"
-		"5" "4305"
-		"6" "1697"
-		"7" "1742"
-		"8" "4166"
+		"5" "1742"
+		"6" "4305"
+		"7" "4166"
+		"8" "1697"
 		"9" "4182"
-		"10" "19"
-		"11" "5613"
+		"10" "5613"
+		"11" "19"
 		"12" "5716"
 		"13" "3799"
 	}
@@ -304,7 +306,7 @@
 "depots"
 {
 	"hasdepotsindlc" "1"
-	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,japanese,latam"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
 	"228988"
 	{
 		"config"
@@ -333,30 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "5371274149986680912"
-				"size" "52841243994"
-				"download" "46872643824"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta01"
-			{
-				"gid" "4A5434EE0DF61F010F9369680BAA6692"
-				"size" "F644998AA5D3ABD2C509347605E8A813"
-				"download" "57DBB9D500030E0735A2F03038F8F046"
-			}
-			"beta02"
-			{
-				"gid" "BEA7DF2F9FED9AEDBBB0862D9E17072D"
-				"size" "539D9DBF4BEAD0C3C8E4113384C7CB39"
-				"download" "C6AC5352823507B06E2119C893A84340"
-			}
-			"other01"
-			{
-				"gid" "888D522A0A98A3CEB86750F8763EC7D0"
-				"size" "86E10647A0D2D7A700B6FF72183D4DCB"
-				"download" "A61ECE2BE57EF7D074C43B4817F29663"
+				"gid" "4285774256745523215"
+				"size" "53236172740"
+				"download" "47250477840"
 			}
 		}
 	}
@@ -364,28 +345,11 @@
 	{
 		"public"
 		{
-			"buildid" "15318904"
-			"timeupdated" "1727766392"
-		}
-		"beta01"
-		{
-			"buildid" "15233342"
-			"pwdrequired" "1"
-			"timeupdated" "1722566218"
-		}
-		"beta02"
-		{
-			"buildid" "15318904"
-			"pwdrequired" "1"
-			"timeupdated" "1725264258"
-		}
-		"other01"
-		{
-			"buildid" "14541731"
-			"pwdrequired" "1"
-			"timeupdated" "1717037416"
+			"buildid" "16805879"
+			"timeupdated" "1737039874"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -405,3 +369,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27027096"
+"_sha" "b3ca5af6f06e540426bdbc31ad50fc79efc439fa"
+"_size" "6739"
