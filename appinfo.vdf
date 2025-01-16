@@ -128,7 +128,7 @@
 		"13" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -147,6 +147,17 @@
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FemboysofthePhalanx-32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
 			}
 		}
 	}
@@ -163,9 +174,9 @@
 		{
 			"public"
 			{
-				"gid" "1494567673893593001"
-				"size" "137884024"
-				"download" "76192480"
+				"gid" "4466042804050441434"
+				"size" "189007874"
+				"download" "90653456"
 			}
 		}
 	}
@@ -174,8 +185,12 @@
 	{
 		"public"
 		{
-			"buildid" "6837178"
-			"timeupdated" "1623215156"
+			"buildid" "17005479"
+			"timeupdated" "1736893725"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26997501"
+"_sha" "f00e26e8fcd4e20c2842e85756ea22dcdd0368aa"
+"_size" "3048"
