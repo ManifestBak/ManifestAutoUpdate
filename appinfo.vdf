@@ -204,7 +204,7 @@
 	{
 		"0"
 		{
-			"executable" "Dark Hunting Ground.exe"
+			"executable" "Standard/Dark Hunting Ground.exe"
 			"type" "default"
 			"config"
 			{
@@ -225,6 +225,21 @@
 				"oslist" "macos"
 			}
 		}
+		"2"
+		{
+			"executable" "Beta/Dark Hunting Ground.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Beta"
+			}
+			"description" "Beta"
+		}
 	}
 }
 "depots"
@@ -241,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "913270442992552263"
-				"size" "902221497"
-				"download" "160916256"
+				"gid" "2831737670490806650"
+				"size" "1806196566"
+				"download" "164925264"
 			}
 		}
 	}
@@ -268,8 +283,8 @@
 	{
 		"public"
 		{
-			"buildid" "16859716"
-			"timeupdated" "1735293674"
+			"buildid" "17024684"
+			"timeupdated" "1737021920"
 		}
 	}
 }
@@ -322,6 +337,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26795882"
-"_sha" "b797e69cc409e0db74b5aa2785749c17c7023c7e"
-"_size" "5331"
+"_change_number" "27026840"
+"_sha" "239e8e5c79f2ae7bcfe1eb53691f9cc38903bc0f"
+"_size" "5583"
