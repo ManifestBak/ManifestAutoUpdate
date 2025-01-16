@@ -24,8 +24,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1654732800"
-		"tested_build_id" "7326454"
+		"test_timestamp" "1733961600"
+		"tested_build_id" "16688869"
 		"tests"
 		{
 			"0"
@@ -48,20 +48,26 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "0"
+			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "1"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Beach Buggy Racing 2"
@@ -69,7 +75,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "6a7aa956f2b7c1a44be0a6bc9ca7f840f2e2cd37/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -129,7 +135,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1691547893"
+	"store_asset_mtime" "1733896284"
 	"associations"
 	{
 		"0"
@@ -196,6 +202,38 @@
 			"supported" "true"
 		}
 		"latam"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
 		{
 			"supported" "true"
 		}
@@ -267,18 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "1368372699042860775"
-				"size" "574491315"
-				"download" "405801376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "9690026C938DBA76FB80992A6D5C6E9E"
-				"size" "AF8BE2A3CDE1B29A3FC9A73152CD58F5"
-				"download" "D0058CF55F0C37AE8BE2CCF926C3EFE5"
+				"gid" "7104810708271007269"
+				"size" "596774481"
+				"download" "422926688"
 			}
 		}
 	}
@@ -297,18 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "5607875283094607807"
-				"size" "35692160"
-				"download" "24172352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "4ED34133B0A11F27CFBE54EE1A0D0C6C"
-				"size" "2BABE3470FAC0E97EC3E4C2BFF2AD279"
-				"download" "CB84821004AD6943D7B91297750FAC8C"
+				"gid" "6437576336083972464"
+				"size" "35728140"
+				"download" "24197632"
 			}
 		}
 	}
@@ -319,18 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "5945869229761663437"
+				"gid" "7418186902017671907"
 				"size" "60"
 				"download" "80"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "8F80847DEAD97C22E32A0E9AE0763941"
-				"size" "574E3F806D22D081866F3281373696BB"
-				"download" "A1A9A1FCBC93EA37F2880749DD078E8A"
 			}
 		}
 	}
@@ -341,18 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "160021728710449353"
+				"gid" "8428566084159950040"
 				"size" "60"
 				"download" "80"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "246F326F81D11F994BDB4059120D3A15"
-				"size" "574E3F806D22D081866F3281373696BB"
-				"download" "A1A9A1FCBC93EA37F2880749DD078E8A"
 			}
 		}
 	}
@@ -363,18 +365,9 @@
 		{
 			"public"
 			{
-				"gid" "812079769320276103"
+				"gid" "575906873764523828"
 				"size" "60"
 				"download" "80"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "87A22016D6A00251DF573B3E52D7ABC9"
-				"size" "574E3F806D22D081866F3281373696BB"
-				"download" "A1A9A1FCBC93EA37F2880749DD078E8A"
 			}
 		}
 	}
@@ -382,16 +375,11 @@
 	{
 		"public"
 		{
-			"buildid" "12193112"
-			"timeupdated" "1694732319"
-		}
-		"internal"
-		{
-			"buildid" "12193112"
-			"pwdrequired" "1"
-			"timeupdated" "1694731629"
+			"buildid" "16728268"
+			"timeupdated" "1736983021"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -399,6 +387,6 @@
 	"maxnumfiles" "256"
 }
 "_missing_token" "False"
-"_change_number" "26348251"
-"_sha" "d49fb12e57b9f4b150fdc814284c5fdd1b0b3c03"
-"_size" "7072"
+"_change_number" "27015683"
+"_sha" "73e32def463ec9d056f8507c1554871cf98a676f"
+"_size" "6533"
