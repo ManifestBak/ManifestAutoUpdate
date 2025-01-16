@@ -1,48 +1,67 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-16 18:15:49
+## 更新时间：2025-01-16 20:29:09
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1052440 | 黑色規則：西格瑪| Game |
-| 1079460 | Descenders Soundtrack| Music |
-| 1104660 | MO:Astray| Game |
+| 1000360 | Hellish Quart| Game |
+| 1022980 | Ostranauts| Game |
+| 1085660 | 命运2| Game |
+| 1102930 | KoboldKare| Game |
+| 1171380 | Mo:Astray - OST| Music |
+| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
+| 1260320 | 猛兽派对| Game |
+| 1240630 | Hex of Steel| Game |
+| 1315980 | 罐舱逃生指南 Tin Can| Game |
+| 1292690 | Corruption of Champions II| Game |
+| 1407180 | Lawgivers II| Game |
 | 1477070 | 人格解体| Game |
-| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 1732390 | 那由多之轨迹：改| Game |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 215 | Source SDK Base 2006| Tool |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 218 | Source SDK Base 2007| Tool |
-| 22490 | Fallout: New Vegas PCR| game |
-| 239140 | Dying Light| Game |
-| 2544720 | 职场幻想| Game |
-| 278570 | Labyrinthine Dreams| Game |
-| 2835110 | 海洋幻想 / Sea Fantasy| Game |
-| 3059010 | 二战前线合集| Game |
-| 3167180 | 你好！我们还有场恋爱没谈| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 3218600 | 命运游戏2：百年之约| Game |
-| 322450 | FRAMED Collection| Game |
-| 324160 | CLANNAD| Game |
-| 3241590 | 命运游戏2：百年之约-4K版| DLC |
-| 3332950 | 潜行者2：切尔诺贝利之心原声和原画| Music |
-| 33770 | Drakensang The River of Time| game |
-| 349250 | Copy Kitty| Game |
-| 409850 | Criminal Girls: Invite Only| Game |
-| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
-| 548840 | A Rose in the Twilight| Game |
-| 559210 | Rakuen| Game |
-| 625980 | Yomawari: Midnight Shadows| Game |
-| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
-| 704270 | Generation Zero®| Game |
-| 730 | Counter-Strike 2| Game |
-| 838350 | 太吾绘卷 The Scroll Of Taiwu| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
-| 922580 | My Brother Rabbit - Original Soundtrack| Music |
+| 1677740 | Stumble Guys| Game |
+| 1842730 | Nightmare: The Lunatic| Game |
+| 1890860 | Arma Reforger Experimental| Game |
+| 1809540 | 九日| Game |
+| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
+| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
+| 2056210 | 孤星猎人| Game |
+| 205 | Source Dedicated Server| Tool |
+| 207930 | Sacred Citadel| Game |
+| 211500 | RaceRoom Racing Experience | Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
+| 240 | Counter-Strike: Source| game |
+| 22380 | Fallout: New Vegas| game |
+| 2445690 | 失落城堡2| Game |
+| 2453360 | 鸡械绿洲| Game |
+| 2437170 | 《神之浩劫2》| Game |
+| 2641630 | 悪夢の家 -6 Day Nightmare-| Game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 2776450 | 诸天刷宝录| Game |
+| 2816950 | 妖之乡| Game |
+| 2832400 | The Lust City 2| Game |
+| 2972990 | hololive 宝藏山| Game |
+| 3035500 | 架空地图模拟器| Game |
+| 310 | Source 2007 Dedicated Server| Tool |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 3403880 | KLAWS| Game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 2669320 | 《EA SPORTS FC™ 25》| Game |
+| 372140 | Labyrinthine Dreams - Soundtrack| Music |
+| 42710 | Call of Duty: Black Ops - Multiplayer| game |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 42700 | Call of Duty: Black Ops| game |
+| 469600 | 军团战争2 / Legion TD 2| Game |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 585190 | A Gummy's Life| Game |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 681280 | Descenders| Game |
+| 582660 | Black Desert| Game |
+| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 785740 | This Is the Police 2| Game |
+| 798540 | Dying Light Original Soundtrack| Music |
+| 835570 | 战意| Game |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 855640 | My Brother Rabbit| Game |
+| 914310 | Copy Kitty OST| Music |
