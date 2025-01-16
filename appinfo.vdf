@@ -442,15 +442,15 @@
 			}
 			"nightly-live"
 			{
-				"gid" "44539AD285913C19A33EEDF12A49EF99"
-				"size" "A8CCBA221018CB8EF3B918F35118599C"
-				"download" "AB9ED998872DBB4BE1D5DE2D3E3FE6F4"
+				"gid" "795A77069996E484298448DD7285E462"
+				"size" "99D6D0AAD9657AD9F6FAA849B39B6315"
+				"download" "659DD2A4B8E92589C9F7EF030D1D421B"
 			}
 			"nightly-stable"
 			{
-				"gid" "1935E4D72174F1038D36B04FF529837E"
-				"size" "F1E005FCDCE97422171D3BC0E91590A6"
-				"download" "3ACADA3DDD79FD509CA7A75FF59A5EC8"
+				"gid" "02DB391171BE40A41C6D7CB8B8D94072"
+				"size" "1867542649949CE9F3F1E1E8CAFB45CA"
+				"download" "C9AD031638B27BB833E1691FDBA4F6F9"
 			}
 			"nightly-test"
 			{
@@ -472,9 +472,9 @@
 			}
 			"rc-retail"
 			{
-				"gid" "C7A8C1F6002DE3E769492ACB59FD0237"
-				"size" "9B011A1BEED7EEC77D5BD15A2F13D727"
-				"download" "0593F497967DBFF116C57F306D53A428"
+				"gid" "A38F3FDF4A29E1AD1A68F1ECEC985AF2"
+				"size" "DBE1EB656DE10A64FD7CADF2AC743A75"
+				"download" "0A9757CC99F34BCA0BF0D82A20D89B53"
 			}
 			"retail_backup1"
 			{
@@ -577,15 +577,15 @@
 			}
 			"nightly-live"
 			{
-				"gid" "63711CA37E590E38380DE5F657643D97"
-				"size" "488B4FD3906BCE24ACF8DDD588313B9D"
-				"download" "B5108B4DA36F156582597A21BB539C66"
+				"gid" "3E40FB810092464B0A7D6658961FFF73"
+				"size" "C1E9D612EEBA6DA1978E2B8A9DFB3005"
+				"download" "A261DEE4008E69891C6E911816D17A5D"
 			}
 			"nightly-stable"
 			{
-				"gid" "1F9CE1EDB5CCAD007147281C19E643E6"
-				"size" "10E0E88F1BAC05375B31CF5F68635020"
-				"download" "5A8BB731F5E1809C857CDA0B9AB38D39"
+				"gid" "E958FEF672BC227F1B800AF9A2214074"
+				"size" "E335B8F5352B70C7221EB0F0AB4059C1"
+				"download" "3724B4185EDD4FBFE21A4BADC2B5BA1D"
 			}
 			"nightly-test"
 			{
@@ -607,9 +607,9 @@
 			}
 			"rc-retail"
 			{
-				"gid" "1BAA22DFC968B9354DDC5B1B440CB6A1"
-				"size" "D758E7589A5D87026065DA2C3B5B4237"
-				"download" "0222457D67DD8D1EC82D2F2CF21A708B"
+				"gid" "1B4DB9E18B76D37DF3769AF4628ECE13"
+				"size" "866B74A87373B7D17415FE070BD39C8C"
+				"download" "85EE0BDB85F761015090EDA32AD6C1D8"
 			}
 			"retail_backup1"
 			{
@@ -939,15 +939,15 @@
 		}
 		"nightly-live"
 		{
-			"buildid" "17006376"
+			"buildid" "17021606"
 			"pwdrequired" "1"
-			"timeupdated" "1736898728"
+			"timeupdated" "1737000936"
 		}
 		"nightly-stable"
 		{
-			"buildid" "16996575"
+			"buildid" "17021808"
 			"pwdrequired" "1"
-			"timeupdated" "1736841029"
+			"timeupdated" "1737002717"
 		}
 		"nightly-test"
 		{
@@ -969,9 +969,9 @@
 		}
 		"rc-retail"
 		{
-			"buildid" "16994234"
+			"buildid" "17017674"
 			"pwdrequired" "1"
-			"timeupdated" "1736822506"
+			"timeupdated" "1736973264"
 		}
 		"retail_backup1"
 		{
@@ -995,6 +995,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27009542"
-"_sha" "27b121fdd9cadd37d4acc22f59e7e04043d4d7ce"
+"_change_number" "27018827"
+"_sha" "9e5631419170c196ed2b73825a617e4e7f3804d4"
 "_size" "22688"
