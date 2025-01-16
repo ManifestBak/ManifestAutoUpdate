@@ -195,7 +195,7 @@
 		"19" "4195"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -272,6 +272,12 @@
 		{
 			"public"
 			{
+				"gid" "4134295447119869982"
+				"size" "3269556157"
+				"download" "610639904"
+			}
+			"feature_newui"
+			{
 				"gid" "2133457482040516297"
 				"size" "3887016457"
 				"download" "1101143728"
@@ -294,8 +300,14 @@
 	{
 		"public"
 		{
+			"buildid" "14856267"
+			"timeupdated" "1737013663"
+		}
+		"feature_newui"
+		{
 			"buildid" "16799661"
-			"timeupdated" "1734607899"
+			"description" "New UI branch"
+			"timeupdated" "1737012881"
 		}
 		"feature_preview"
 		{
@@ -313,6 +325,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26712393"
-"_sha" "16a9bc80599e11b0770563571473c0dc4f7deb2b"
-"_size" "5663"
+"_change_number" "27020562"
+"_sha" "eaf27606e2e0a01d2f9fa5bebe0cd628c27ecddf"
+"_size" "5906"
