@@ -93,7 +93,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "0 Deer Soft Partnership"
+			"name" "0 Deer Soft"
 		}
 		"2"
 		{
@@ -154,12 +154,12 @@
 		"19" "7250"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
 	"developer" "0 Deer Soft"
-	"publisher" "0 Deer Soft Partnership"
+	"publisher" "0 Deer Soft"
 	"homepage" "https://www.0deersoft.com/"
 }
 "config"
@@ -213,18 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "7721087456548878433"
-				"size" "6711464756"
-				"download" "2699339168"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developmentbetabranch"
-			{
-				"gid" "B91CA20A910ED228C32577BD8CE26900"
-				"size" "5F56B0ACCE3A736E5B72B8680C1AD007"
-				"download" "1288FDCDE5511B00AA6956334668F93F"
+				"gid" "2505935084100305325"
+				"size" "6721827974"
+				"download" "2702066336"
 			}
 		}
 	}
@@ -232,18 +223,13 @@
 	{
 		"public"
 		{
-			"buildid" "16551649"
-			"timeupdated" "1732726720"
-		}
-		"developmentbetabranch"
-		{
-			"buildid" "16551649"
-			"pwdrequired" "1"
-			"timeupdated" "1732707937"
+			"buildid" "17013682"
+			"timeupdated" "1736952552"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26389842"
-"_sha" "1a7099c2a49a43408ae8c5a9ac25485c1907cba5"
-"_size" "3974"
+"_change_number" "27009107"
+"_sha" "eb51df9a4f8fed26aada84907d097989b0c579d0"
+"_size" "3636"
