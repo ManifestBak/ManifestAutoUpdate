@@ -1,0 +1,127 @@
+"appid" "3359730"
+"common"
+{
+	"name" "初音ミク DLC"
+	"type" "DLC"
+	"parent" "3301060"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "9cb77ae0478225714a5a3f23b01c390794caa1e5/capsule_231x87.jpg"
+		"japanese" "9cb77ae0478225714a5a3f23b01c390794caa1e5/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_6ebf74e39b8b333881b63d381c3869afb0d8fae8.jpg"
+	"store_asset_mtime" "1734672456"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "infiniteloop"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "infiniteloop"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "37"
+		"1" "51"
+		"2" "57"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1736297038"
+	"gameid" "3359730"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "872"
+		"2" "113"
+		"3" "4726"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"dlcforappid" "3301060"
+	"mustownapptopurchase" "3301060"
+	"developer" "infiniteloop"
+	"publisher" "infiniteloop"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"3359730"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8356093180782969861"
+				"size" "8923069"
+				"download" "9045152"
+			}
+			"debug"
+			{
+				"gid" "8356093180782969861"
+				"size" "8923069"
+				"download" "9045152"
+			}
+			"temp"
+			{
+				"gid" "5802250238596820277"
+				"size" "8923069"
+				"download" "9045312"
+			}
+		}
+		"dlcappid" "3359730"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16853491"
+			"timeupdated" "1735206368"
+		}
+		"debug"
+		{
+			"buildid" "16853491"
+			"description" "debug"
+			"timeupdated" "1735205826"
+		}
+		"temp"
+		{
+			"buildid" "16797213"
+			"description" "pg test branch"
+			"timeupdated" "1734593882"
+		}
+	}
+}
