@@ -69,6 +69,21 @@
 	{
 		"library_capsule" "en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_feb9c4effb305d37cad17aa34a3e8433ba423089.jpg"
 	"store_asset_mtime" "1601396329"
 	"associations"
 	{
@@ -103,6 +118,10 @@
 			"supported" "true"
 		}
 		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
 		{
 			"supported" "true"
 		}
@@ -194,24 +213,15 @@
 		{
 			"public"
 			{
-				"gid" "1104806577663048392"
-				"size" "922327010"
-				"download" "462016992"
+				"gid" "2737287812132578201"
+				"size" "925096879"
+				"download" "464530832"
 			}
 			"beta"
 			{
-				"gid" "4552248885177447941"
-				"size" "922341938"
-				"download" "462024672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devel"
-			{
-				"gid" "65B8208AAA4EA1E553FD8D01380EDCAB"
-				"size" "51A95844FDE5043D22F3ECAC34D35D4C"
-				"download" "F836CFCBED5E4B97609B63F59EF46DBD"
+				"gid" "2737287812132578201"
+				"size" "925096879"
+				"download" "464530832"
 			}
 		}
 	}
@@ -219,20 +229,18 @@
 	{
 		"public"
 		{
-			"buildid" "9994140"
-			"timeupdated" "1669142831"
+			"buildid" "16824522"
+			"timeupdated" "1735466108"
 		}
 		"beta"
 		{
-			"buildid" "10110161"
-			"description" "Public Beta 2022.1 (7700)"
-			"timeupdated" "1670546336"
-		}
-		"devel"
-		{
-			"buildid" "13483941"
-			"pwdrequired" "1"
-			"timeupdated" "1708154463"
+			"buildid" "16824522"
+			"description" "Public Beta 2024.1 (7784)"
+			"timeupdated" "1734796902"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26809951"
+"_sha" "b13d654cff03d89b101949703ea24f17162d384b"
+"_size" "4293"
