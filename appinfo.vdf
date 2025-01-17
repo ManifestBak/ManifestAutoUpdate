@@ -377,120 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "5968349374662392942"
-				"size" "14721328593"
-				"download" "11981354352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"actest"
-			{
-				"gid" "37C16D195902B8DFE99854BFBB0A0282"
-				"size" "AE715BE28FF059BC1F6828F5E2843BD4"
-				"download" "BF0371F8BC3DB1C19BD6557079DE7190"
-			}
-			"eabuild1"
-			{
-				"gid" "6E075DB6673066305F2A949347BD5FA6"
-				"size" "111070657671F12E89ED051E4446C0E0"
-				"download" "928BB0D75575C1848A9DF920908F9C98"
-			}
-			"ebtest"
-			{
-				"gid" "FC8A6966847E12D2EBA972B375E7C2F8"
-				"size" "76CB2EF538683ED814BB7BC853F6661D"
-				"download" "D68B554F8F971C760E97D107B57A55FB"
-			}
-			"hardware-support"
-			{
-				"gid" "922B972FAAB6DC4B9820D0B81843861D"
-				"size" "B43A1904EC2F3367389028466E6A9F21"
-				"download" "79FF029E9287789532CF0C2E6AD12829"
-			}
-			"host_migration_test"
-			{
-				"gid" "69B791CBC017CD8DFCB186C9B31AF338"
-				"size" "B6FBC1BA417A3DF2BACBBDEE1457C7BA"
-				"download" "794BF58E6D4A2BE18D2A74AE2FA5587F"
-			}
-			"internal-crossplat"
-			{
-				"gid" "3CB03B963F51A5B3A3CEDD0A45B4823B"
-				"size" "9B04CEEE3DC30360BBAD609853739C97"
-				"download" "A2ED90D0E74B524A5B343AC3000EE91C"
-			}
-			"internalreview"
-			{
-				"gid" "3DB55815B2FD644175D8899C48C9BB5C"
-				"size" "EC7B5B88AE203B93345D80DD79181474"
-				"download" "4C9BF001DC67CCCAA7C9CFF7B7C4D0E0"
-			}
-			"internalstaging"
-			{
-				"gid" "5B2C282461E550F68C3F009E01776ED3"
-				"size" "794F2D44FE8B9756FE6802664CC4E441"
-				"download" "36669CBA59BC3CDB0978D36AC5F7662D"
-			}
-			"pingle"
-			{
-				"gid" "E0B28C7F701D8197E0E1386A4626DDA4"
-				"size" "78EE709AE1F0E1D8C2C8697A5E578717"
-				"download" "12E6A3279DEBCE02D549FEDEE931CF08"
-			}
-			"public-staging"
-			{
-				"gid" "CA43F47BFD36F32DE40F0297C2E3DD8B"
-				"size" "F077602E44F7DD685201AD28B8ADDE83"
-				"download" "9C04BEE16E558A76940D573A0FC6DCCA"
-			}
-			"internal"
-			{
-				"gid" "6478CA806E3387405E642C60D608CFF6"
-				"size" "73119390C90B1E34A64D42AA47E57FC2"
-				"download" "7D1F9F3DB62602FB0CA820573E9E2A23"
-			}
-			"pingle2"
-			{
-				"gid" "1FD0EC48BF41DD56C02D7D720DEB40DF"
-				"size" "4DAAF34D027D11F3D76C609635B559BC"
-				"download" "B5CFCB17BD81822BBA85C63F3D7005A0"
-			}
-			"press"
-			{
-				"gid" "58505B46938C0D1E590DF0D56BF76B9C"
-				"size" "E00610E75D3741E8E0521EE469B262A2"
-				"download" "A4ECBAA0CF5F2AD44E05B85F9B5A09F5"
-			}
-			"qa-test"
-			{
-				"gid" "7F01A959C09011733022F07FD9C4E623"
-				"size" "C70809EF0D5E2427C9A00C291EC68EDF"
-				"download" "BEB634BA4A5E578175706F35B1C806C5"
-			}
-			"reset"
-			{
-				"gid" "A1EE6187CDD12E5500341A10CBE8BACC"
-				"size" "BD7D56ACB38512502F08B4A30AAAAACA"
-				"download" "7B426C0FCCDA02438701422420E33E82"
-			}
-			"review"
-			{
-				"gid" "2B1485047C2E22AB9101714230B9C753"
-				"size" "B0BAD4BC15E987CF813AF43A19C3DBA7"
-				"download" "2CB82EA88ADB51D4B5BD1CC2645125E7"
-			}
-			"sharingiscaring"
-			{
-				"gid" "3EA3EFEBA81A7776A5A19C764EF31F5E"
-				"size" "75C852209C0CC4E0A199A5C0E97E33EC"
-				"download" "6ADC3AF90EE8B8F2A5C634262E113C4E"
-			}
-			"sketest"
-			{
-				"gid" "E7FC23476A7E7F2B488684D06B7BB4E2"
-				"size" "82E051CF350CE4B78FB1AC72906C2893"
-				"download" "5CA8968FA7D533F6592C17E18681324C"
+				"gid" "4298528379309509579"
+				"size" "14722376704"
+				"download" "11981192704"
 			}
 		}
 	}
@@ -498,118 +387,11 @@
 	{
 		"public"
 		{
-			"buildid" "16781440"
-			"timeupdated" "1734631427"
-		}
-		"actest"
-		{
-			"buildid" "12970867"
-			"pwdrequired" "1"
-			"timeupdated" "1708456187"
-		}
-		"eabuild1"
-		{
-			"buildid" "11504396"
-			"pwdrequired" "1"
-			"timeupdated" "1687168111"
-		}
-		"ebtest"
-		{
-			"buildid" "13007966"
-			"pwdrequired" "1"
-			"timeupdated" "1703057857"
-		}
-		"hardware-support"
-		{
-			"buildid" "9197235"
-			"pwdrequired" "1"
-			"timeupdated" "1658951239"
-		}
-		"host_migration_test"
-		{
-			"buildid" "13906519"
-			"pwdrequired" "1"
-			"timeupdated" "1711877642"
-		}
-		"internal-crossplat"
-		{
-			"buildid" "10236115"
-			"pwdrequired" "1"
-			"timeupdated" "1672472306"
-		}
-		"internalreview"
-		{
-			"buildid" "11177146"
-			"pwdrequired" "1"
-			"timeupdated" "1683518033"
-		}
-		"internalstaging"
-		{
-			"buildid" "10219057"
-			"pwdrequired" "1"
-			"timeupdated" "1672123332"
-		}
-		"pingle"
-		{
-			"buildid" "11369395"
-			"pwdrequired" "1"
-			"timeupdated" "1685619523"
-		}
-		"public-staging"
-		{
-			"buildid" "4103293"
-			"pwdrequired" "1"
-			"timeupdated" "1565751931"
-		}
-		"internal"
-		{
-			"buildid" "16781440"
-			"pwdrequired" "1"
-			"timeupdated" "1734631105"
-		}
-		"pingle2"
-		{
-			"buildid" "15337569"
-			"pwdrequired" "1"
-			"timeupdated" "1723481516"
-		}
-		"press"
-		{
-			"buildid" "15337569"
-			"pwdrequired" "1"
-			"timeupdated" "1723481526"
-		}
-		"qa-test"
-		{
-			"buildid" "15337569"
-			"pwdrequired" "1"
-			"timeupdated" "1723481537"
-		}
-		"reset"
-		{
-			"buildid" "15337569"
-			"pwdrequired" "1"
-			"timeupdated" "1723482061"
-		}
-		"review"
-		{
-			"buildid" "15337569"
-			"pwdrequired" "1"
-			"timeupdated" "1723481548"
-		}
-		"sharingiscaring"
-		{
-			"buildid" "16781440"
-			"pwdrequired" "1"
-			"timeupdated" "1734631115"
-		}
-		"sketest"
-		{
-			"buildid" "16781440"
-			"pwdrequired" "1"
-			"timeupdated" "1734491739"
+			"buildid" "17006709"
+			"timeupdated" "1737053945"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -631,6 +413,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26719172"
-"_sha" "4d92ba6f1df07c22218e0e29b0cc9a7affc2006c"
-"_size" "12507"
+"_change_number" "27031018"
+"_sha" "21b31a2417ae3bc71f93f5c10d552c917ce418f4"
+"_size" "7402"
