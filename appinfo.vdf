@@ -82,7 +82,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724742825"
+	"store_asset_mtime" "1737135929"
 	"associations"
 	{
 		"0"
@@ -93,7 +93,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Weasel Games "
+			"name" "Weasel Games"
 		}
 		"2"
 		{
@@ -218,7 +218,7 @@
 "extended"
 {
 	"developer" "Weasel Games"
-	"publisher" "Weasel Games "
+	"publisher" "Weasel Games"
 	"homepage" "https://weasel.games"
 	"listofdlc" "2466030"
 	"dlcavailableonstore" "1"
@@ -291,24 +291,15 @@
 		{
 			"public"
 			{
-				"gid" "5134074764825131750"
-				"size" "1613146025"
-				"download" "1483940848"
+				"gid" "4814275987809997483"
+				"size" "1600474777"
+				"download" "1471444192"
 			}
 			"public_beta"
 			{
-				"gid" "2907425498201112903"
-				"size" "1611775833"
-				"download" "1482896640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pwwt"
-			{
-				"gid" "015112BC6F434691C5864A32F0660F4A"
-				"size" "7CB04378EB533CB839FF2B173D48F4D8"
-				"download" "DB6D812492AE14273723473A86F36362"
+				"gid" "4814275987809997483"
+				"size" "1600474777"
+				"download" "1471444192"
 			}
 		}
 	}
@@ -316,22 +307,17 @@
 	{
 		"public"
 		{
-			"buildid" "16869434"
-			"timeupdated" "1735463445"
+			"buildid" "17043180"
+			"timeupdated" "1737135818"
 		}
 		"public_beta"
 		{
-			"buildid" "16027207"
+			"buildid" "17043180"
 			"description" "Public Beta"
-			"timeupdated" "1728834581"
-		}
-		"pwwt"
-		{
-			"buildid" "16875841"
-			"pwdrequired" "1"
-			"timeupdated" "1735570808"
+			"timeupdated" "1737136088"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -350,6 +336,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26818006"
-"_sha" "0e896091ec827c826a75803bf8c1e81da37aac38"
-"_size" "5622"
+"_change_number" "27046843"
+"_sha" "34f23cdfd374a607459e15b08f89a3fd87e4d5da"
+"_size" "5340"
