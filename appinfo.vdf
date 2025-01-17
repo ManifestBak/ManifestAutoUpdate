@@ -226,10 +226,6 @@
 		{
 			"supported" "true"
 		}
-		"dutch"
-		{
-			"supported" "true"
-		}
 		"japanese"
 		{
 			"supported" "true"
@@ -239,10 +235,6 @@
 			"supported" "true"
 		}
 		"latam"
-		{
-			"supported" "true"
-		}
-		"swedish"
 		{
 			"supported" "true"
 		}
@@ -262,10 +254,6 @@
 		{
 			"supported" "true"
 		}
-		"polish"
-		{
-			"supported" "true"
-		}
 		"russian"
 		{
 			"supported" "true"
@@ -275,6 +263,10 @@
 			"supported" "true"
 		}
 		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
 		{
 			"supported" "true"
 		}
@@ -327,6 +319,7 @@
 			"config"
 			{
 				"oslist" "macos"
+				"realm" "steamglobal"
 			}
 		}
 		"1"
@@ -336,6 +329,16 @@
 			"config"
 			{
 				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+		"2"
+		{
+			"executable" "Peglin.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
 			}
 		}
 	}
@@ -353,6 +356,7 @@
 		"config"
 		{
 			"oslist" "macos"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
@@ -367,27 +371,6 @@
 				"gid" "7273311003256496292"
 				"size" "274256528"
 				"download" "116440480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo-build"
-			{
-				"gid" "300A6E68F8B771D175524525C8412A6F"
-				"size" "6D501792BAC4CB0BA10E282172FFE3A1"
-				"download" "EAD331553F371852F36E4DF2D7D47C2B"
-			}
-			"closed-beta"
-			{
-				"gid" "0D814E1B950479E0CD1FAAD08F4F2BB6"
-				"size" "C70E2DE4AA5B945E491D7DD67EC03F69"
-				"download" "85D872848AF03A9DC27FAC6C73565658"
-			}
-			"dev-only"
-			{
-				"gid" "498CD0DB5BDFA7AE75CFA234655B1AF9"
-				"size" "DAF4AC0901A1FC2F63B6F7CBEEDEF380"
-				"download" "49BA4B42AC0A25CEECE6FC6581BA13D5"
 			}
 		}
 	}
@@ -396,6 +379,7 @@
 		"config"
 		{
 			"oslist" "windows"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
@@ -410,27 +394,6 @@
 				"gid" "1314370070121455081"
 				"size" "364444220"
 				"download" "146773904"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo-build"
-			{
-				"gid" "939C120209F1AF989BED891EF04B0601"
-				"size" "634BED6AF9162CD99865CA63B55A51D2"
-				"download" "790DCDF0A0F841472627338689B5281C"
-			}
-			"closed-beta"
-			{
-				"gid" "CCCAB00FA977C8433DF6B11DA8F2D1A7"
-				"size" "CD630D6399EB64D2F9C9FA6416CCFF87"
-				"download" "470880430D2D5C09002BCDA33AD5E1AE"
-			}
-			"dev-only"
-			{
-				"gid" "D69FD4FF94C034599C6ED314B8F6BAB2"
-				"size" "A3B0E7A5ED51DC7C173DE511E30CC44F"
-				"download" "A89A042A29B22F0DDB41F1B87F02B4C8"
 			}
 		}
 	}
@@ -439,6 +402,7 @@
 		"config"
 		{
 			"oslist" "windows"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
@@ -453,27 +417,6 @@
 				"gid" "7316218674859168621"
 				"size" "364444220"
 				"download" "146773904"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo-build"
-			{
-				"gid" "70607CC7EED6F415D00C5A2EC8FD39D7"
-				"size" "634BED6AF9162CD99865CA63B55A51D2"
-				"download" "790DCDF0A0F841472627338689B5281C"
-			}
-			"closed-beta"
-			{
-				"gid" "E35251CE95B422F679F635814CEE8B6A"
-				"size" "CD630D6399EB64D2F9C9FA6416CCFF87"
-				"download" "470880430D2D5C09002BCDA33AD5E1AE"
-			}
-			"dev-only"
-			{
-				"gid" "3BFC147B80A74CAF79DED33215D63800"
-				"size" "A3B0E7A5ED51DC7C173DE511E30CC44F"
-				"download" "A89A042A29B22F0DDB41F1B87F02B4C8"
 			}
 		}
 	}
@@ -482,6 +425,7 @@
 		"config"
 		{
 			"oslist" "macos"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
@@ -498,25 +442,21 @@
 				"download" "116440480"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"1296615"
+	{
+		"config"
 		{
-			"demo-build"
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "47D94B7886F87ED82349AC8527906E62"
-				"size" "6D501792BAC4CB0BA10E282172FFE3A1"
-				"download" "EAD331553F371852F36E4DF2D7D47C2B"
-			}
-			"closed-beta"
-			{
-				"gid" "F11F71C7CFD60241596E0D0E115E0FB5"
-				"size" "C70E2DE4AA5B945E491D7DD67EC03F69"
-				"download" "85D872848AF03A9DC27FAC6C73565658"
-			}
-			"dev-only"
-			{
-				"gid" "119C201039FA3772F56A0EC8210ED6EF"
-				"size" "DAF4AC0901A1FC2F63B6F7CBEEDEF380"
-				"download" "49BA4B42AC0A25CEECE6FC6581BA13D5"
+				"gid" "678275319967292900"
+				"size" "272444359"
+				"download" "113412336"
 			}
 		}
 	}
@@ -524,26 +464,8 @@
 	{
 		"public"
 		{
-			"buildid" "16449497"
-			"timeupdated" "1731967772"
-		}
-		"demo-build"
-		{
-			"buildid" "10815501"
-			"pwdrequired" "1"
-			"timeupdated" "1679357150"
-		}
-		"closed-beta"
-		{
-			"buildid" "16449497"
-			"pwdrequired" "1"
-			"timeupdated" "1731965661"
-		}
-		"dev-only"
-		{
-			"buildid" "14294178"
-			"pwdrequired" "1"
-			"timeupdated" "1715108953"
+			"buildid" "17035909"
+			"timeupdated" "1737091382"
 		}
 		"experimental"
 		{
@@ -552,6 +474,7 @@
 			"timeupdated" "1731967745"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -587,6 +510,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26673923"
-"_sha" "61138ff6febea00e1001281c26e12bcc53b2ccb8"
-"_size" "10926"
+"_change_number" "27036995"
+"_sha" "be27bf4c164f21ee0a7837b2dc0978e795f28eb0"
+"_size" "8814"
