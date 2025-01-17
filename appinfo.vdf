@@ -1,0 +1,333 @@
+"appid" "1236720"
+"common"
+{
+	"name" "Spirit Island"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"clienttga" "1b2e7f5b8f7fa7ac32c49a360f664fec9c4572be"
+	"clienticon" "3bdc02126cbcff5712e3fda49fcc00a8142ade7b"
+	"icon" "c5baf5709f5befd211e0a01b8455451a35a266e9"
+	"clienticns" "9604ff045b460aa88c45251204aecd371a38432c"
+	"logo" "ecfb944ba27f7684d78d3b519513c642383040b6"
+	"logo_small" "ecfb944ba27f7684d78d3b519513c642383040b6_thumb"
+	"linuxclienticon" "5190e35e84559653016470953d8686cd911b426d"
+	"timeline_marker_updated" "1734630091"
+	"timeline_marker_svg" "71eea417c480b64692bd08550e984481bdd122c8/markers.svg"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1697500800"
+		"tested_build_id" "12389329"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Spirit Island"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61.20826709062004"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "61.20826709062004"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708968777"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Handelabra Games Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Handelabra Games Inc."
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_15" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_63" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1596039452"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1236720"
+	"store_tags"
+	{
+		"0" "30358"
+		"1" "1770"
+		"2" "5363"
+		"3" "14139"
+		"4" "492"
+		"5" "4364"
+		"6" "9"
+		"7" "17389"
+		"8" "1666"
+		"9" "3841"
+		"10" "3871"
+		"11" "32322"
+		"12" "1684"
+		"13" "1685"
+		"14" "4182"
+		"15" "7368"
+		"16" "493"
+		"17" "3859"
+		"18" "4057"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Handelabra Games Inc."
+	"publisher" "Handelabra Games Inc."
+	"homepage" "http://spiritislanddigital.com"
+	"listofdlc" "1409120,1516480,2419040,2419041"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Spirit Island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpiritIsland.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SpiritIsland.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "SpiritIsland.x86_64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2790705644"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,beta,internal,mpbeta,partner"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1236721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9018244525897551620"
+				"size" "675289059"
+				"download" "588743872"
+			}
+		}
+	}
+	"1236722"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5793280834119800068"
+				"size" "701033646"
+				"download" "597099280"
+			}
+		}
+	}
+	"1236723"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5495081391997476661"
+				"size" "720031256"
+				"download" "589700928"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16984633"
+			"timeupdated" "1736811121"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26980405"
+"_sha" "9dafe4282dfbf7e4fbce2d2c05b473f638d61137"
+"_size" "5960"
