@@ -227,7 +227,7 @@
 	"anti_cheat_support_url" ""
 	"developer" "Neonovice Co., Ltd."
 	"publisher" "Neonovice Co., Ltd."
-	"listofdlc" "1758560,1926200,1926210,1926230,2052630,2130530,2325460,2427370,2459810,2688850,2688860"
+	"listofdlc" "1758560,1926200,1926210,1926230,2052630,2130530,2325460,2427370,2459810,2688850,2688860,3279470"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -283,42 +283,15 @@
 		{
 			"public"
 			{
-				"gid" "4767173419623613293"
-				"size" "70403367911"
-				"download" "62990992896"
+				"gid" "2355722322624643169"
+				"size" "73280795769"
+				"download" "65712971456"
 			}
 			"public_testserver"
 			{
-				"gid" "8894098524488655177"
-				"size" "71695680670"
-				"download" "63321080656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"back_version"
-			{
-				"gid" "15D393F4272B9C4A85B8B65FBA4C1901"
-				"size" "63786A0BD360849DCE86277DF2016497"
-				"download" "DEA802741A4C9986E97531EB14F1564B"
-			}
-			"eme_version"
-			{
-				"gid" "585751B191DE0DCD9AA923F733B4AEC2"
-				"size" "C6935B53F6F4A9B976C75B669FC719BF"
-				"download" "56D89A70AED2C42B64FDFE9A13984469"
-			}
-			"testserver_private"
-			{
-				"gid" "C7112DA3222201F2878E8C1F6FFE14D3"
-				"size" "A5241C11B24DA30DFC569FDA35653635"
-				"download" "34BDFCCB68D2421055097B5E2BE95DC9"
-			}
-			"testserver_protected"
-			{
-				"gid" "12CAB8AF976379FD182197D1E8B214B3"
-				"size" "C478E34AED4F333E6B0BA82025E05EBC"
-				"download" "F2FFA31D8CEE866B58A740C37E1840C9"
+				"gid" "632162973800232846"
+				"size" "71517430376"
+				"download" "63353557504"
 			}
 		}
 	}
@@ -334,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "8965769259358816791"
-				"size" "61038014654"
-				"download" "53173868720"
+				"gid" "6103640953926367282"
+				"size" "63430531411"
+				"download" "55377676480"
 			}
 			"public_testserver"
 			{
@@ -345,72 +318,22 @@
 				"download" "52979394352"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"back_version"
-			{
-				"gid" "A8BC4F2DA2C5DFD44E886D1B1DDE20DD"
-				"size" "B5886831DEA91B09F7305AB1C1C5421E"
-				"download" "18EF2BE2F383E4DF80548C9E54C94544"
-			}
-			"eme_version"
-			{
-				"gid" "B128C29001CBCF88C47C9083B9AF5F61"
-				"size" "438871D0564EF156CB4BD98EB1D9BBBA"
-				"download" "610F01B4A60F65A285C7735099D39720"
-			}
-			"testserver_private"
-			{
-				"gid" "CF3D7AFC3B116C59BD112FF3469C4858"
-				"size" "B14D6C93F4B88C969D36DFB229AAEF81"
-				"download" "146781A057104BC7910C967800C86A81"
-			}
-			"testserver_protected"
-			{
-				"gid" "C04B9B32D5FCE8C4F6258B45AC75D57C"
-				"size" "861907417B1D2D7F1FDD311951EDD310"
-				"download" "84545D21FF06D14A67A8827F56FBA0DF"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16867125"
-			"timeupdated" "1735412677"
-		}
-		"back_version"
-		{
-			"buildid" "16871298"
-			"pwdrequired" "1"
-			"timeupdated" "1735500054"
-		}
-		"eme_version"
-		{
-			"buildid" "16867180"
-			"pwdrequired" "1"
-			"timeupdated" "1735413827"
+			"buildid" "17038119"
+			"timeupdated" "1737107402"
 		}
 		"public_testserver"
 		{
-			"buildid" "16867180"
+			"buildid" "16894249"
 			"description" "PUBLIC TEST SERVER"
-			"timeupdated" "1735413934"
-		}
-		"testserver_private"
-		{
-			"buildid" "16867120"
-			"pwdrequired" "1"
-			"timeupdated" "1735412616"
-		}
-		"testserver_protected"
-		{
-			"buildid" "16875450"
-			"pwdrequired" "1"
-			"timeupdated" "1735565871"
+			"timeupdated" "1735850946"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -418,6 +341,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "26817472"
-"_sha" "0c8bc54bac86edabc5c37dda9185958c87392ceb"
-"_size" "8193"
+"_change_number" "27041408"
+"_sha" "e99d4a5b98036c00c051b763fe67ccd3cb92f40a"
+"_size" "6258"
