@@ -448,15 +448,15 @@
 		{
 			"public"
 			{
-				"gid" "7163767848965269805"
+				"gid" "1033288231699696627"
 				"size" "317874215"
-				"download" "108214000"
+				"download" "108213312"
 			}
 			"steampipe"
 			{
-				"gid" "7163767848965269805"
+				"gid" "1033288231699696627"
 				"size" "317874215"
-				"download" "108214000"
+				"download" "108213312"
 			}
 		}
 		"encryptedmanifests"
@@ -476,15 +476,15 @@
 		{
 			"public"
 			{
-				"gid" "448470058718906777"
+				"gid" "7950154663745719820"
 				"size" "3975125103"
-				"download" "2044522432"
+				"download" "2044522048"
 			}
 			"steampipe"
 			{
-				"gid" "448470058718906777"
+				"gid" "7950154663745719820"
 				"size" "3975125103"
-				"download" "2044522432"
+				"download" "2044522048"
 			}
 		}
 		"encryptedmanifests"
@@ -508,15 +508,15 @@
 		{
 			"public"
 			{
-				"gid" "8596511492054188973"
+				"gid" "552987824516701103"
 				"size" "6634592"
-				"download" "2162944"
+				"download" "2163328"
 			}
 			"steampipe"
 			{
-				"gid" "8596511492054188973"
+				"gid" "552987824516701103"
 				"size" "6634592"
-				"download" "2162944"
+				"download" "2163328"
 			}
 		}
 		"encryptedmanifests"
@@ -568,15 +568,15 @@
 		{
 			"public"
 			{
-				"gid" "6996879821573103743"
-				"size" "648932565"
-				"download" "574378448"
+				"gid" "3278262610261574277"
+				"size" "648928349"
+				"download" "574378960"
 			}
 			"steampipe"
 			{
-				"gid" "6996879821573103743"
-				"size" "648932565"
-				"download" "574378448"
+				"gid" "3278262610261574277"
+				"size" "648928349"
+				"download" "574378960"
 			}
 		}
 		"encryptedmanifests"
@@ -747,8 +747,8 @@
 	{
 		"public"
 		{
-			"buildid" "16546340"
-			"timeupdated" "1733167053"
+			"buildid" "17033350"
+			"timeupdated" "1737147723"
 		}
 		"beta"
 		{
@@ -758,8 +758,8 @@
 		}
 		"steampipe"
 		{
-			"buildid" "16546340"
-			"timeupdated" "1733169416"
+			"buildid" "17033350"
+			"timeupdated" "1737147931"
 		}
 	}
 }
@@ -769,6 +769,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "26458447"
-"_sha" "a0a36f3184c8bd453a6dc217ae1dac876bb74d93"
+"_change_number" "27049308"
+"_sha" "e5ffe99660dbfb4561e8c1d0ce19b9e4ac6e302f"
 "_size" "14008"
