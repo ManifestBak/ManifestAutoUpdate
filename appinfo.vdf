@@ -1,0 +1,302 @@
+"appid" "2275940"
+"common"
+{
+	"name" "Rogue Hex"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "757ba9627799899a19083f8dd6381f693a291093"
+	"clienticon" "751979f857181733f23a4dc852cca34f928ce59e"
+	"clienttga" "41cca77314370c13ae4e26bce2273a15d7fa86a1"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "c59db8a13cff74841351b5a579cfba4e03019c5a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.79755931678795"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "635a34936efc3af7cae85ffab4da4af62bcdba71/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "635a34936efc3af7cae85ffab4da4af62bcdba71/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "d9ce6bb80cfebe6c3c62fcff5ca48276ec526c64/logo.png"
+			}
+			"image2x"
+			{
+				"english" "d9ce6bb80cfebe6c3c62fcff5ca48276ec526c64/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.79755931678795"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e2750b58c3665750ef7225e0ea7285eca1d63968/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736441545"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Topstitch Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Topstitch Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1736758984"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2275940"
+	"store_tags"
+	{
+		"0" "1670"
+		"1" "1091588"
+		"2" "9"
+		"3" "1716"
+		"4" "4364"
+		"5" "32322"
+		"6" "1741"
+		"7" "4711"
+		"8" "1717"
+		"9" "1666"
+		"10" "3987"
+		"11" "3959"
+		"12" "1643"
+		"13" "4328"
+		"14" "12472"
+		"15" "599"
+		"16" "3834"
+		"17" "791774"
+		"18" "4182"
+		"19" "4094"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Topstitch Games"
+	"publisher" "Topstitch Games"
+	"homepage" "http://www.roguehex.com/press/index.php"
+	"listofdlc" "3405240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rogue Hex"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rogue Hex.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2275941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4882520944232656433"
+				"size" "3514640414"
+				"download" "922835968"
+			}
+			"preview"
+			{
+				"gid" "8684761597763321751"
+				"size" "3514474332"
+				"download" "924434992"
+			}
+		}
+	}
+	"3405240"
+	{
+		"dlcappid" "3405240"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17004096"
+			"timeupdated" "1736884760"
+		}
+		"preview"
+		{
+			"buildid" "17041906"
+			"description" "Preview branch with the newest public build. May be unstable."
+			"timeupdated" "1737128753"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Topstitch Games/Rogue Hex"
+			"pattern" "*.es3"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27045051"
+"_sha" "116445f758dc08869bd7edc9855b501365450cea"
+"_size" "4907"
