@@ -77,6 +77,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1683628708"
 	"associations"
 	{
@@ -227,12 +265,12 @@
 		"2" "3810"
 		"3" "4175"
 		"4" "1669"
-		"5" "699"
-		"6" "1644"
+		"5" "1644"
+		"6" "699"
 		"7" "4191"
-		"8" "1036"
-		"9" "3839"
-		"10" "4182"
+		"8" "4182"
+		"9" "1036"
+		"10" "3839"
 		"11" "9204"
 		"12" "1664"
 		"13" "1695"
@@ -240,8 +278,8 @@
 		"15" "21"
 		"16" "8093"
 		"17" "492"
-		"18" "9"
-		"19" "21978"
+		"18" "21978"
+		"19" "9"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -250,7 +288,7 @@
 {
 	"developer" "Red Dot Games"
 	"publisher" "PlayWay S.A."
-	"listofdlc" "1685720,1685721,1748990,1748991,1773800,1773801,1931780,1981550,2085260,2112230,2112231,2112232,2282030,2464230,2546830,2601200,2721070,2889700"
+	"listofdlc" "1685720,1685721,1748990,1748991,1773800,1773801,1931780,1981550,2085260,2112230,2112231,2112232,2282030,2464230,2546830,2601200,2721070,2889700,3335470"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -347,24 +385,15 @@
 		{
 			"public"
 			{
-				"gid" "8494830287236633141"
-				"size" "26112016825"
-				"download" "13326360016"
+				"gid" "701829254999378568"
+				"size" "26343691989"
+				"download" "13435496976"
 			}
 			"previous"
 			{
-				"gid" "7806948707306914889"
-				"size" "26106439893"
-				"download" "13321088832"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "AEE5EAE9464C744ED52B5A1F2F1903B8"
-				"size" "DBC593E3DD3EE2313CC9FC08B694D0CE"
-				"download" "B0385969FF3A6701ED77FD32D361EB44"
+				"gid" "8494830287236633141"
+				"size" "26112016825"
+				"download" "13326360016"
 			}
 		}
 	}
@@ -373,22 +402,17 @@
 	{
 		"public"
 		{
-			"buildid" "14315908"
-			"timeupdated" "1715581056"
+			"buildid" "16962302"
+			"timeupdated" "1737110478"
 		}
 		"previous"
 		{
-			"buildid" "14131557"
-			"description" "Previous vesion of game"
-			"timeupdated" "1715580972"
-		}
-		"testing"
-		{
 			"buildid" "14315908"
-			"pwdrequired" "1"
-			"timeupdated" "1715262779"
+			"description" "Previous vesion of game"
+			"timeupdated" "1737102646"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -409,57 +433,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#console_richtxt_barn" "Dusting the barn"
-				"#console_richtxt_dyno" "Measuring the power"
-				"#console_richtxt_garage" "Working in garage"
-				"#console_richtxt_junkyard" "Searching through the rust"
-				"#console_richtxt_menu" "Browsing menu"
-				"#console_richtxt_paint" "Checking new colors"
-				"#console_richtxt_parking" "Arranging a collection"
-				"#console_richtxt_path" "Testing the suspension"
-				"#console_richtxt_race" "Racing with time"
-				"#console_richtxt_repair" "Fixing the parts"
-				"#console_richtxt_salon" "Configuring a dream car"
-				"#console_richtxt_scrap" "Scrapping the junk"
-				"#console_richtxt_speed" "Speeding"
-				"#console_richtxt_test" "Road testing"
-				"#console_richtxt_workoncar" "Fixing car"
-				"#console_richtxt_tutorialt" "Training to be a mechanic"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#console_richtxt_barn" "Odkurza stodołę"
-				"#console_richtxt_dyno" "Mierzy moc"
-				"#console_richtxt_garage" "Pracuje w garażu"
-				"#console_richtxt_junkyard" "Szuka wśród rdzy"
-				"#console_richtxt_menu" "Przegląda menu"
-				"#console_richtxt_paint" "Sprawdza nowe lakiery"
-				"#console_richtxt_parking" "Porządkuje kolekcję"
-				"#console_richtxt_path" "Testuje zawieszenie"
-				"#console_richtxt_race" "Ściga się z czasem"
-				"#console_richtxt_repair" "Naprawia części"
-				"#console_richtxt_salon" "Konfiguruje wymarzony samochód"
-				"#console_richtxt_scrap" "Odzyskuje materiały"
-				"3console_richtxt_speed" "Pędzi"
-				"#console_richtxt_test" "Przeprowadza test drogowy"
-				"#console_richtxt_workoncar" "Pracuje przy samochodzie"
-				"#console_richtxt_tutorialt" "Stawia pierwsze kroki"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23512151"
-"_sha" "a3dd4ae8431a619d8362a0b9b2b4bcc6cb47c38b"
-"_size" "9286"
+"_change_number" "27040864"
+"_sha" "94078e894f7230f0fbc7dd1f68a70bb47660bcf4"
+"_size" "7709"
