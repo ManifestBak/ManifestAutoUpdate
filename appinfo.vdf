@@ -11,6 +11,23 @@
 	"oslist" "windows,macos,linux"
 	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -90,7 +107,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1713276532"
+	"store_asset_mtime" "1736772004"
 	"associations"
 	{
 		"0"
@@ -109,11 +126,11 @@
 	{
 		"0" "25"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -194,7 +211,8 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1714028629"
+	"steam_release_date" "1737116982"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2578880"
 	"store_tags"
@@ -271,18 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "2498764152596728423"
-				"size" "7297860032"
-				"download" "7029668544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "687B5EA185140CDEAD6B3C5D5A99A21C"
-				"size" "30D58509B62F4B3997B2E469A1A4C8EE"
-				"download" "6540AA030B3D4352135E4F536AC1B03C"
+				"gid" "7671327434105504227"
+				"size" "10244764745"
+				"download" "9934582704"
 			}
 		}
 	}
@@ -290,16 +299,11 @@
 	{
 		"public"
 		{
-			"buildid" "15946244"
-			"timeupdated" "1728280593"
-		}
-		"beta"
-		{
-			"buildid" "15946244"
-			"pwdrequired" "1"
-			"timeupdated" "1728235574"
+			"buildid" "17039282"
+			"timeupdated" "1737115168"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -317,3 +321,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27042222"
+"_sha" "04d97ec07c18bb3aebd2d721a68c5a20944c1f7c"
+"_size" "4955"
