@@ -154,6 +154,7 @@
 		"category_18" "1"
 		"category_55" "1"
 		"category_56" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -291,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "4233108564677767006"
-				"size" "13966785834"
-				"download" "13773626976"
+				"gid" "3127770141621950879"
+				"size" "13968367621"
+				"download" "13775167888"
 			}
 			"unrealengine4"
 			{
@@ -303,36 +304,9 @@
 			}
 			"public_test"
 			{
-				"gid" "4233108564677767006"
-				"size" "13966785834"
-				"download" "13773626976"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"progresowanie"
-			{
-				"gid" "41FE2AAEA9A4B9945F67B964CE6432AC"
-				"size" "D6661040A16F4DFE4D98E2B5F1822949"
-				"download" "693E33502E0CFA41FDC46053CC1EC076"
-			}
-			"rebeliawew"
-			{
-				"gid" "F88CA0A226098A890BB9102BE396757C"
-				"size" "A92CFFB29D7B3501D13789BAA96E074D"
-				"download" "76EB8CAAFEC0822D9F334491C89033DC"
-			}
-			"rg_test"
-			{
-				"gid" "7E23DB124EA89D879E1F6256E61BFC84"
-				"size" "73E4E42EF9612425F1017D7FB09589B8"
-				"download" "2698E86BF3DB5A1FFA5B28FFD213E668"
-			}
-			"testfull"
-			{
-				"gid" "62A96691FDD21FF81D3A1983DE5190C7"
-				"size" "D1FA4E11CDD4613DEFA2C6CD5DDEB1F9"
-				"download" "D8E97B6ABADD1D555117974061AD029F"
+				"gid" "3127770141621950879"
+				"size" "13968367621"
+				"download" "13775167888"
 			}
 		}
 	}
@@ -340,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "16964229"
-			"timeupdated" "1736517451"
+			"buildid" "17040134"
+			"timeupdated" "1737123477"
 		}
 		"unrealengine4"
 		{
@@ -349,44 +323,30 @@
 			"description" "Premiere version"
 			"timeupdated" "1667858893"
 		}
-		"progresowanie"
-		{
-			"buildid" "16964229"
-			"pwdrequired" "1"
-			"timeupdated" "1736516429"
-		}
 		"public_test"
 		{
-			"buildid" "16964229"
+			"buildid" "17040134"
 			"description" "Public_Test"
-			"timeupdated" "1736516437"
-		}
-		"rebeliawew"
-		{
-			"buildid" "16964229"
-			"pwdrequired" "1"
-			"timeupdated" "1736516413"
-		}
-		"rg_test"
-		{
-			"buildid" "16964229"
-			"pwdrequired" "1"
-			"timeupdated" "1736516394"
-		}
-		"testfull"
-		{
-			"buildid" "16964229"
-			"pwdrequired" "1"
-			"timeupdated" "1736511751"
+			"timeupdated" "1737122086"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "4000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "JunkYard/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "26942401"
-"_sha" "c992abfea7a9204573d17f3495d25dc7d8b70031"
-"_size" "6745"
+"_change_number" "27043805"
+"_sha" "7ee56f292fe0536acc91b4ff0457fa858fddf16a"
+"_size" "5768"
