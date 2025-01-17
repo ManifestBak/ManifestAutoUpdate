@@ -201,6 +201,10 @@
 		{
 			"supported" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1716814696"
 	"community_visible_stats" "1"
@@ -284,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "2129715138309222763"
-				"size" "737631574"
-				"download" "122138880"
+				"gid" "8458481358041478163"
+				"size" "737697830"
+				"download" "122289584"
 			}
 		}
 	}
@@ -300,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "866901153409540934"
-				"size" "770388114"
-				"download" "126933072"
+				"gid" "3548882807387882204"
+				"size" "770454370"
+				"download" "127084016"
 			}
 		}
 	}
@@ -316,9 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "702394439604929201"
-				"size" "761638118"
-				"download" "129482048"
+				"gid" "6777936656887872930"
+				"size" "761704886"
+				"download" "129633248"
 			}
 		}
 	}
@@ -326,8 +330,8 @@
 	{
 		"public"
 		{
-			"buildid" "16787699"
-			"timeupdated" "1734616728"
+			"buildid" "17019772"
+			"timeupdated" "1736986827"
 		}
 	}
 }
@@ -379,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26714586"
-"_sha" "3384acd36855155d34e7b9946f54ca0d30cbe5d3"
-"_size" "6861"
+"_change_number" "27016179"
+"_sha" "5166d32be7b885bc2c4073415010648c5b895cc4"
+"_size" "6910"
