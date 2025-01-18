@@ -293,8 +293,8 @@
 		"1" "3843"
 		"2" "3859"
 		"3" "4791"
-		"4" "42804"
-		"5" "7368"
+		"4" "7368"
+		"5" "42804"
 		"6" "19"
 		"7" "1716"
 		"8" "5125"
@@ -412,6 +412,34 @@
 				"english" "Supporter Pack Content"
 			}
 			"description" "Supporter Pack Content"
+		}
+		"9"
+		{
+			"executable" "Unrailed2.app"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "develper-testing"
+			}
+			"description_loc"
+			{
+				"english" "Unrailed2.app"
+			}
+			"description" "Unrailed2.app"
+		}
+		"10"
+		{
+			"executable" "Unrailed2.app/Contents/MacOS/Unrailed2"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "develper-testing"
+			}
+			"description_loc"
+			{
+				"english" "Unrailed2.app/Contents/MacOS/Unrailed2"
+			}
+			"description" "Unrailed2.app/Contents/MacOS/Unrailed2"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -578,6 +606,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26819905"
-"_sha" "d49a4ffa8395701b1797c79c602f3b98c3a91476"
-"_size" "11250"
+"_change_number" "27056858"
+"_sha" "f3c88af5b565271e5cf12661127eab66ae2e8b9e"
+"_size" "11796"
