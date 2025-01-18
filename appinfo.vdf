@@ -147,7 +147,7 @@
 		"15" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -180,15 +180,6 @@
 				"download" "250747808"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "07BCFD9418705E9F407C3D4E6E40B13C"
-				"size" "E7639CB410F766B1C36541D1B7CCE0F4"
-				"download" "34B035B5F33F16BBE0E90CF6977C03ED"
-			}
-		}
 	}
 	"2360032"
 	{
@@ -203,15 +194,6 @@
 				"gid" "8660617501164438481"
 				"size" "159164"
 				"download" "22672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "8066F67AC102E0F44D05A3E0B707D9A9"
-				"size" "A50241DBF22C694B19856D2CC5336C77"
-				"download" "3ED1E71A7CE2D76DC366428C1875CA65"
 			}
 		}
 	}
@@ -230,15 +212,6 @@
 				"download" "14640"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "A3A838E652660C3C6C9BA371A68D4B1E"
-				"size" "3092B33C5F194530D03F10A02FF40368"
-				"download" "273DA4ABCAEDDA5D92EED1385C2F9CEB"
-			}
-		}
 	}
 	"branches"
 	{
@@ -247,11 +220,10 @@
 			"buildid" "11341046"
 			"timeupdated" "1685455246"
 		}
-		"testing"
-		{
-			"buildid" "11341046"
-			"pwdrequired" "1"
-			"timeupdated" "1685354736"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26959613"
+"_sha" "cc0f592ac475e31219e22ec2969044eca443dfc3"
+"_size" "3465"
