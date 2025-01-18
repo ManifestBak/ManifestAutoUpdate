@@ -1,0 +1,183 @@
+"appid" "2917370"
+"common"
+{
+	"name" "Construction Helper"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "7e4b198cdc436305df4c257953baf40c224efd6c"
+	"clienticon" "a7fc934b64265e8f7ebf59f36a7de6dccd9e238b"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.24918326820831"
+			"height_pct" "70.83163805028886"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.24918326820831"
+				"height_pct" "70.83163805028886"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1712149314"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PL Wakub"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PL Wakub"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715056897"
+	"community_hub_visible" "1"
+	"gameid" "2917370"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "597"
+		"2" "599"
+		"3" "701"
+		"4" "4106"
+		"5" "1773"
+		"6" "1716"
+		"7" "87"
+		"8" "784"
+		"9" "4145"
+		"10" "4305"
+		"11" "4726"
+		"12" "4094"
+		"13" "4252"
+		"14" "4791"
+		"15" "4182"
+	}
+	"review_score" "7"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "PL Wakub"
+	"publisher" "PL Wakub"
+}
+"config"
+{
+	"installdir" "Construction Helper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Construction Helper\\Construction Helper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2917371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7525106598573086417"
+				"size" "341426986"
+				"download" "111433808"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13935982"
+			"timeupdated" "1713185684"
+		}
+	}
+}
