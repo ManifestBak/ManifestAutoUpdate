@@ -1,0 +1,241 @@
+"appid" "3086060"
+"common"
+{
+	"name" "Date Banger"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "4438b4a8a1629a30e43863d6e6c4647787567488"
+	"clienticon" "08588f1778be16cbbf19767378205a76604e3cd5"
+	"clienttga" "1f1cb4c2b9f45cdee50be99768982686181bdb01"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "cb5190177f6886c89f15dcc602ab536b639e8ba4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27.803203661327217"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "7f65598ee90983e598e543b127a64e46d323177a/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "7f65598ee90983e598e543b127a64e46d323177a/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "52800943de133561067a47b6f83b0578d8b96ea5/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "52800943de133561067a47b6f83b0578d8b96ea5/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "52800943de133561067a47b6f83b0578d8b96ea5/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "d29708e417be33ccd2e29b1df8a492cfcbfc8127/logo.png"
+			}
+			"image2x"
+			{
+				"english" "d29708e417be33ccd2e29b1df8a492cfcbfc8127/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "27.803203661327217"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "7a3b3a7366ecc295e6c5083ef6148386f0497684/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "7a3b3a7366ecc295e6c5083ef6148386f0497684/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731326881"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dijimit"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dijimit"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734969826"
+	"community_hub_visible" "1"
+	"gameid" "3086060"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "597"
+		"2" "122"
+		"3" "4191"
+		"4" "9130"
+		"5" "599"
+		"6" "9551"
+		"7" "4166"
+		"8" "1654"
+		"9" "1742"
+		"10" "4182"
+		"11" "493"
+		"12" "4085"
+		"13" "4726"
+		"14" "492"
+		"15" "9204"
+		"16" "5611"
+		"17" "6650"
+		"18" "24904"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Dijimit"
+	"publisher" "Dijimit"
+	"homepage" "https://discord.gg/Zun5Hf8Jz7"
+}
+"config"
+{
+	"installdir" "Date Banger"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+		}
+	}
+}
+"depots"
+{
+	"3086061"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "897128984221385122"
+				"size" "1316244908"
+				"download" "325187520"
+			}
+		}
+	}
+	"baselanguages" "english,koreana,spanish,schinese,russian,japanese,turkish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16845351"
+			"timeupdated" "1735075710"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27009712"
+"_sha" "1e9856ad290e900b03f970ad44155f6f1adb72c5"
+"_size" "4025"
