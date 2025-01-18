@@ -220,7 +220,7 @@
 		"19" "1685"
 	}
 	"review_score" "5"
-	"review_percentage" "57"
+	"review_percentage" "59"
 }
 "extended"
 {
@@ -262,9 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "7892199843370963414"
-				"size" "5462445386"
-				"download" "5021511904"
+				"gid" "4271339248221142868"
+				"size" "5462339914"
+				"download" "5021349392"
 			}
 		}
 	}
@@ -272,8 +272,8 @@
 	{
 		"public"
 		{
-			"buildid" "17032445"
-			"timeupdated" "1737070102"
+			"buildid" "17043629"
+			"timeupdated" "1737150643"
 		}
 	}
 	"privatebranches" "1"
@@ -290,6 +290,18 @@
 			"path" "Breaker/Saved"
 			"pattern" "*.bsf"
 		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Breaker/Steam/{Steam3AccountID}/SaveGames"
+			"pattern" "*.bsf"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Breaker/Steam/{Steam3AccountID}/SaveGames"
+			"pattern" "*.bsf"
+		}
 	}
 	"rootoverrides"
 	{
@@ -304,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27033394"
-"_sha" "e2450a0fb582110cc6ab04e747aad3c410e5f647"
-"_size" "5111"
+"_change_number" "27050938"
+"_sha" "217df65476aa20ba3397eb35fbc9eb241f79b6c8"
+"_size" "5359"
