@@ -12,6 +12,10 @@
 	"osarch" ""
 	"osextended" ""
 	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "悠久之翼-前篇"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -21,16 +25,19 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "acbeb324f2516f084529dd978b66fdc9e7986307/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
-		"library_logo" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -45,10 +52,12 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"schinese" "b699f47470366bf908f3c8d27454c5d001941636/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"schinese" "b699f47470366bf908f3c8d27454c5d001941636/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -67,10 +76,12 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "45ed737f6f305c68a656d9b3cfd7982d85b607d7/logo_schinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "45ed737f6f305c68a656d9b3cfd7982d85b607d7/logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -79,8 +90,21 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "fbab8c4529074ff79b14f82d9e4add351c46204c/library_header_schinese.jpg"
+				"english" "b9f305a030572ad652af51d59fa4f16837474dc3/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "b9f305a030572ad652af51d59fa4f16837474dc3/library_header_2x.jpg"
+				"schinese" "fbab8c4529074ff79b14f82d9e4add351c46204c/library_header_schinese_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1725512394"
+	"store_asset_mtime" "1734527567"
 	"associations"
 	{
 		"0"
@@ -131,6 +155,11 @@
 		{
 			"full_audio" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1571353526"
 	"community_hub_visible" "1"
@@ -138,16 +167,16 @@
 	"store_tags"
 	{
 		"0" "21"
-		"1" "12095"
-		"2" "3799"
+		"1" "3799"
+		"2" "12095"
 		"3" "4085"
-		"4" "4947"
-		"5" "1742"
+		"4" "1742"
+		"5" "4947"
 		"6" "1756"
 		"7" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -179,15 +208,6 @@
 				"download" "1875390912"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"scbeta"
-			{
-				"gid" "E5DAEBA6A49DC490D06BB38E2FA5679E"
-				"size" "4A71146D2E30C7F55C3AD87580C26251"
-				"download" "D2604A6CD6008737F08B3AE0718C343B"
-			}
-		}
 	}
 	"1144302"
 	{
@@ -197,14 +217,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"scbeta"
+			"public"
 			{
-				"gid" "FFD0488376D8E1E1678C4C2E65591AED"
-				"size" "3B89F6AE993C3F6DC6FCA7DA1ABF47DF"
-				"download" "611E2B595884D3C436AC5136B6229617"
+				"gid" "2285937270932589987"
+				"size" "1744703928"
+				"download" "1765703648"
 			}
 		}
 	}
@@ -212,16 +229,11 @@
 	{
 		"public"
 		{
-			"buildid" "16702449"
-			"timeupdated" "1733887111"
-		}
-		"scbeta"
-		{
-			"buildid" "16702497"
-			"pwdrequired" "1"
-			"timeupdated" "1733887265"
+			"buildid" "16786924"
+			"timeupdated" "1734631405"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -242,6 +254,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26595268"
-"_sha" "d9636af09b2d85181df9f5959f95da3731c9a552"
-"_size" "3823"
+"_change_number" "26915699"
+"_sha" "9c48a0d9f4037e6763ab4190dcac0f76ff4485f0"
+"_size" "4509"
