@@ -209,12 +209,30 @@
 		}
 		"dlcappid" "2377850"
 	}
+	"2377858"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1325649038166433589"
+				"size" "9917700026"
+				"download" "6003579872"
+			}
+		}
+		"dlcappid" "2377850"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14852412"
-			"timeupdated" "1719451323"
+			"buildid" "16260823"
+			"timeupdated" "1730436651"
 		}
 	}
 }
