@@ -200,8 +200,8 @@
 	"store_tags"
 	{
 		"0" "7208"
-		"1" "3799"
-		"2" "31579"
+		"1" "31579"
+		"2" "3799"
 		"3" "1721"
 		"4" "4486"
 		"5" "4064"
@@ -221,7 +221,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -288,15 +288,6 @@
 				"download" "1613123872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "6CF31F7E5F1FFE7A35763006A4EB6DD5"
-				"size" "8F161CFCECF71BEE58B646D12824E288"
-				"download" "A3E6800B35765BC7FF296013CF23B1AC"
-			}
-		}
 	}
 	"2734452"
 	{
@@ -311,15 +302,6 @@
 				"gid" "1202347804357752634"
 				"size" "165129997"
 				"download" "51357952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "4752DE54074AF2E45E3D0AA3269EBA9B"
-				"size" "2D5725C759C860E5A7B5E97B73628FD6"
-				"download" "28307E90725C1837F4227AC2137BC105"
 			}
 		}
 	}
@@ -338,15 +320,6 @@
 				"download" "1565243568"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "A8910A9BE371491F477C266C1F0605D4"
-				"size" "D593194D873F31EC292BF8A478B2AD3D"
-				"download" "64E742B6312A496667DFB09ED354877A"
-			}
-		}
 	}
 	"2734456"
 	{
@@ -361,15 +334,6 @@
 				"gid" "3900672508270623761"
 				"size" "708"
 				"download" "288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "F7AE5E2100CDE961E9A121854C8E5E36"
-				"size" "0A1EC553573ECCBC53BA20A1081AF6F2"
-				"download" "FC2002C6907D47AA385990C337EEF077"
 			}
 		}
 	}
@@ -388,15 +352,6 @@
 				"download" "288"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "E207239DC486CA662512703FA3E27963"
-				"size" "0A1EC553573ECCBC53BA20A1081AF6F2"
-				"download" "FC2002C6907D47AA385990C337EEF077"
-			}
-		}
 	}
 	"workshopdepot" "0"
 	"branches"
@@ -406,11 +361,10 @@
 			"buildid" "14942175"
 			"timeupdated" "1720200792"
 		}
-		"staging"
-		{
-			"buildid" "14942175"
-			"pwdrequired" "1"
-			"timeupdated" "1720178819"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26539940"
+"_sha" "ff47507b77813b61e673140f54eb7de627b48671"
+"_size" "6502"
