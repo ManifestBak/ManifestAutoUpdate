@@ -76,6 +76,40 @@
 			"height_pct" "67.47803372120637"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.76779463243874"
+				"height_pct" "67.47803372120637"
+			}
+		}
+	}
 	"store_asset_mtime" "1666983754"
 	"associations"
 	{
@@ -110,6 +144,11 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -152,6 +191,12 @@
 		"koreana"
 		{
 			"subtitles" "true"
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1526545311"
@@ -173,8 +218,8 @@
 		"10" "5984"
 		"11" "4085"
 		"12" "4231"
-		"13" "7743"
-		"14" "3798"
+		"13" "3798"
+		"14" "7743"
 		"15" "6915"
 		"16" "3834"
 		"17" "4106"
@@ -232,6 +277,12 @@
 		{
 			"public"
 			{
+				"gid" "6887050459196965865"
+				"size" "126597342"
+				"download" "105945424"
+			}
+			"before_ex"
+			{
 				"gid" "4621490429406714466"
 				"size" "123381552"
 				"download" "104363216"
@@ -241,15 +292,6 @@
 				"gid" "5626375107785326239"
 				"size" "112121344"
 				"download" "113454128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"coop_beta"
-			{
-				"gid" "92C129F39DD19FB1A381410C575EF2D3"
-				"size" "4B141EA7E832E80E960562AD1A542745"
-				"download" "309290A6AC72C45F56D37F6AFC90D886"
 			}
 		}
 	}
@@ -268,20 +310,17 @@
 				"size" "147599232"
 				"download" "112262496"
 			}
-			"old_version"
+			"before_ex"
 			{
 				"gid" "3708019933986383688"
 				"size" "147599232"
 				"download" "112262496"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"coop_beta"
+			"old_version"
 			{
-				"gid" "F1A55A983DFB25ED516D661831131455"
-				"size" "DFD64AF869BB5D340B78754A4FC229A7"
-				"download" "DCF228317A5375CCDAC352B2B9874B26"
+				"gid" "3708019933986383688"
+				"size" "147599232"
+				"download" "112262496"
 			}
 		}
 	}
@@ -300,6 +339,12 @@
 				"size" "771171510"
 				"download" "36840256"
 			}
+			"before_ex"
+			{
+				"gid" "3395704931592066088"
+				"size" "771171510"
+				"download" "36840256"
+			}
 			"old_version"
 			{
 				"gid" "3395704931592066088"
@@ -307,34 +352,25 @@
 				"download" "36840256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"coop_beta"
-			{
-				"gid" "AA87C4FA6F45354CB0F8E33A768415A0"
-				"size" "43C7DB15162EB7A9F0D32B8EABBD788D"
-				"download" "4B6556240C71D92FD8C498DD9BCE608B"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
+			"buildid" "17050606"
+			"timeupdated" "1737209480"
+		}
+		"before_ex"
+		{
 			"buildid" "14948388"
-			"timeupdated" "1720222389"
+			"description" "Version before ex update"
+			"timeupdated" "1736977357"
 		}
 		"old_version"
 		{
 			"buildid" "6393967"
 			"description" "Old version before GMS 2.3 update"
 			"timeupdated" "1719308992"
-		}
-		"coop_beta"
-		{
-			"buildid" "14877027"
-			"pwdrequired" "1"
-			"timeupdated" "1719610955"
 		}
 	}
 }
@@ -367,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24257058"
-"_sha" "bea2ff991b254f09d3918459beb145889a885c9f"
-"_size" "6557"
+"_change_number" "27056323"
+"_sha" "c74a8060d914f0b9a7a67726a5d19b50a1e006dc"
+"_size" "7009"
