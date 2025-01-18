@@ -3,7 +3,7 @@
 {
 	"name" "Rocksmith® 2014 Edition - Remastered"
 	"type" "Game"
-	"oslist" "windows,macos"
+	"oslist" "windows"
 	"languages"
 	{
 		"english" "1"
@@ -31,8 +31,7 @@
 		}
 	}
 	"osarch" ""
-	"osextended" "macos64"
-	"app_retired_publisher_request" "1"
+	"osextended" ""
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -64,7 +63,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "84e612e826e79c986f3f61bdc5dba8b4dc000a04/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -124,7 +123,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1576502211"
+	"store_asset_mtime" "1734364578"
 	"associations"
 	{
 		"0"
@@ -133,6 +132,11 @@
 			"name" "Ubisoft - San Francisco"
 		}
 		"1"
+		{
+			"type" "developer"
+			"name" "Ubisoft - Osaka"
+		}
+		"2"
 		{
 			"type" "publisher"
 			"name" "Ubisoft"
@@ -160,33 +164,39 @@
 	{
 		"english"
 		{
-			"supported" "1"
+			"supported" "true"
 			"full_audio" "1"
+			"subtitles" "true"
 		}
 		"german"
 		{
-			"supported" "1"
 			"full_audio" "1"
+			"subtitles" "true"
+			"supported" "true"
 		}
 		"french"
 		{
-			"supported" "1"
 			"full_audio" "1"
+			"subtitles" "true"
+			"supported" "true"
 		}
 		"italian"
 		{
-			"supported" "1"
 			"full_audio" "1"
+			"subtitles" "true"
+			"supported" "true"
 		}
 		"spanish"
 		{
-			"supported" "1"
 			"full_audio" "1"
+			"subtitles" "true"
+			"supported" "true"
 		}
 		"japanese"
 		{
-			"supported" "1"
 			"full_audio" "1"
+			"subtitles" "true"
+			"supported" "true"
 		}
 	}
 	"steam_release_date" "1382461200"
@@ -289,26 +299,32 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "8918188356915973501"
+				"size" "5857456194"
+				"download" "5623960560"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"rs2014_essential_srm"
 			{
-				"gid" "8429A54F79A792B66DF3CC36D6EC7F32"
-				"size" "9EF92356E3281C69D559C884E90BAC0F"
-				"download" "7A0EDED469803EBBD77A037030D2DE16"
+				"gid" "5B88F9F80FD303ED583DD3951061CE11"
+				"size" "D703D76E7F1CBF8E4E19A62C4A5B3D2B"
+				"download" "A373A310A774F06D813366D70A1456B5"
 			}
 			"rs2014_essential_test"
 			{
-				"gid" "7F56C4DC6BCC344FA30FFBE4441C147F"
-				"size" "D6FCC94622E7F4458545301C794BC59F"
-				"download" "ADA1B4D4F32A12C98CCE4915405CD4B1"
+				"gid" "DF3933E99E583C5020690AE08D6A3F3C"
+				"size" "7A74062F3696BAFFDE16CCC0508CE5E9"
+				"download" "EC6DB81747F9B19C6490D312EA33BFEB"
 			}
 			"rs2014_essetinal_dev"
 			{
-				"gid" "A223DD37BD25AC433EB6499F72402DD3"
-				"size" "A6E58CED280086574AE13B7F9E05CDBB"
-				"download" "78709E6E16A40F00933D5374781BBBAA"
+				"gid" "305B0FD5159531120600133DFC2B164D"
+				"size" "DBD1AD642F8FFFA57909F405F7ABA73C"
+				"download" "912F45D96A1AA4FA2C409CFF295D7A1F"
 			}
 		}
 	}
@@ -58553,8 +58569,8 @@
 	{
 		"public"
 		{
-			"buildid" "10150735"
-			"timeupdated" "1671070545"
+			"buildid" "16576867"
+			"timeupdated" "1734655308"
 		}
 		"beta"
 		{
@@ -58576,21 +58592,21 @@
 		}
 		"rs2014_essential_srm"
 		{
-			"buildid" "16533777"
+			"buildid" "16566084"
 			"pwdrequired" "1"
-			"timeupdated" "1732602720"
+			"timeupdated" "1732796747"
 		}
 		"rs2014_essential_test"
 		{
-			"buildid" "16533777"
+			"buildid" "16576867"
 			"pwdrequired" "1"
-			"timeupdated" "1732602737"
+			"timeupdated" "1732874468"
 		}
 		"rs2014_essetinal_dev"
 		{
-			"buildid" "16533777"
+			"buildid" "16566084"
 			"pwdrequired" "1"
-			"timeupdated" "1732602794"
+			"timeupdated" "1732796835"
 		}
 	}
 }
@@ -58600,6 +58616,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26361591"
-"_sha" "fdd93354690f3aeb772889885767b458400e668d"
-"_size" "1447159"
+"_change_number" "26729380"
+"_sha" "c4b475eb6067cb664de6810e98003ddacfb14fc5"
+"_size" "1447496"
