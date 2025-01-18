@@ -1,0 +1,653 @@
+"appid" "383790"
+"common"
+{
+	"name" "The Ship: Remasted"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "bb09917fc3792699bef881ae3a8b8e98dc4009b7"
+	"logo_small" "bb09917fc3792699bef881ae3a8b8e98dc4009b7_thumb"
+	"oslist" "windows,macos,linux"
+	"clienttga" "b342b17e0b5ef2d96ba8c051f5ac6af81c47362e"
+	"clienticon" "768ddd4d76129d9b8a125a0d2b5908e5f09475d8"
+	"icon" "de54185795014585bc27f4649f85f926f7ea63e5"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690848000"
+		"tested_build_id" "2328361"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Ship: Remasted"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "65.37852194425645"
+			"height_pct" "68.094802013896"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "65.37852194425645"
+				"height_pct" "68.094802013896"
+			}
+		}
+	}
+	"store_asset_mtime" "1576684774"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blazing Griffin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Blazing Griffin"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1477933514"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "383790"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "3859"
+		"2" "492"
+		"3" "5708"
+		"4" "3839"
+		"5" "493"
+		"6" "4166"
+		"7" "1687"
+		"8" "4252"
+		"9" "10397"
+		"10" "1719"
+		"11" "5716"
+		"12" "4136"
+		"13" "4711"
+		"14" "1662"
+		"15" "1667"
+		"16" "4853"
+		"17" "4754"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"gamedir" "The Ship Remasted"
+	"serverbrowsername" "The Ship: Remasted"
+	"developer" "Blazing Griffin"
+	"publisher" "Blazing Griffin"
+	"homepage" "http://www.blazinggriffin.com/games/the-ship-remasted/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Ship Remasted"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheShipRemasted.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TheShipRemasted.app/Contents/MacOS/TheShipRemasted"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "TheShipRemasted.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigfileids" "709126138"
+}
+"depots"
+{
+	"383791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9169904365091347821"
+				"size" "2134404797"
+				"download" "845000944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"branch-development"
+			{
+				"gid" "8FC0B1720C23BBA65EDB8EE086B64F58"
+				"size" "F7E4713ED3DFB41081D78176D0833872"
+				"download" "1567BE623039745996CAEBD1F9906F1E"
+			}
+			"branch-release"
+			{
+				"gid" "13E0C8E028CCEDBED259863A4A5478F8"
+				"size" "0957BD045CA6D40BD5B6C6E07BBA23E5"
+				"download" "A067FED288DDDE2AADE0474EFF864980"
+			}
+			"dev_nd"
+			{
+				"gid" "C4A531B215ADF7A20D783A9F257639B9"
+				"size" "DEAE2EE079D8106E60C303A8D9747840"
+				"download" "7CEC2FA84C75944A567A4FF4AE7CB627"
+			}
+			"external"
+			{
+				"gid" "BFCB65BD78761C292BA8116E79A5B600"
+				"size" "B71493F99A2222BDBA6666B9D1815ECE"
+				"download" "6E211FF78E817C515185E5BE232D5345"
+			}
+			"internal-dev"
+			{
+				"gid" "1A7A5FEA47C78A6D25DC0CF9CA379767"
+				"size" "393A2E7E7432F2AC7EB7DCA455519F9D"
+				"download" "1D69D8743EDDC390C1A8457ABB0EA4AA"
+			}
+			"internal-qa"
+			{
+				"gid" "EC5D3901AE0446E2852854F3064EABFC"
+				"size" "298F9358E82C7A82FE1AB0974269430F"
+				"download" "202B238F1376ADCDB8B8345047525151"
+			}
+			"internal-rc"
+			{
+				"gid" "BEAD95132A3B46210677AE0107467D1F"
+				"size" "60C6AFB27FB0F841578957245BB992BA"
+				"download" "D65094C0FD3B45A41CF866B3666F973A"
+			}
+			"internal-rel-test"
+			{
+				"gid" "F7E315CA9AB4D0571179A6B16646198C"
+				"size" "4C16E432C29DA696830B1D5BAB8AA758"
+				"download" "B7FE980CDCFCE81E0A4331BDF8C74370"
+			}
+			"internal-release"
+			{
+				"gid" "CC0BE8CD9D360063B347B9A6481AA389"
+				"size" "47388F5B845323BEFEF25295EA503FBE"
+				"download" "C07D55AC7D29A982C068D51613CDD60C"
+			}
+			"internal-special"
+			{
+				"gid" "C9633DA1E82E3E0F3E394555070C2DC0"
+				"size" "C091261E5A0A3A2E3982C32F71D6A097"
+				"download" "D909BE9C9FC42353092227B9A9A95054"
+			}
+			"jmk_special"
+			{
+				"gid" "27FDF031E1AAA730A5101E88D42B1E5F"
+				"size" "0E551A1020E6A6C2F6935263DBE85A85"
+				"download" "722BC2984314DE4D22433C2497500A64"
+			}
+			"mainline-development"
+			{
+				"gid" "2324E89E5EF5ED81880D8887D54D7C08"
+				"size" "099F18DB7C16AA81E3D0E337F90AE9F9"
+				"download" "045817185E3E6BF708E893B7DF582261"
+			}
+			"mainline-release"
+			{
+				"gid" "F744183CC50DA627078B7D66ED7B3110"
+				"size" "0711A46DFF86694B4266AA5F5FBBC41E"
+				"download" "78C3E6994A1D46FE9BB936353DE2893B"
+			}
+			"playtest"
+			{
+				"gid" "D80449BBCC0E6BF24E5BFD5934C3C826"
+				"size" "4FCC119766AD9F40032FF954966FAE34"
+				"download" "3354EE3B3F4F77584F195AED5A613570"
+			}
+			"studio-development"
+			{
+				"gid" "78D5A497E8BFBABE44D7276557388B42"
+				"size" "917551990C12D27841BBD89A697B314C"
+				"download" "008A4B4DA9C514AD4C008234BAF668D0"
+			}
+			"studio-release"
+			{
+				"gid" "FCC1B62ED171F539FF3AF7D15CA6A1ED"
+				"size" "FF95AC857D5B96653A933921631AC290"
+				"download" "AB23A275B6E3A43C882FAF119ED51428"
+			}
+		}
+	}
+	"383792"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6334599675747531417"
+				"size" "2170082945"
+				"download" "853940752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"branch-development"
+			{
+				"gid" "71945CE0992804587874D2A24904299B"
+				"size" "B48B3614B92D9EE5F1D6AE0D1C76BC8D"
+				"download" "488EAD47DB8114A2C2807D010AC4AE6A"
+			}
+			"branch-release"
+			{
+				"gid" "73D0C5A7E1D9BA28E7282037B9269C8B"
+				"size" "49E6F45746FA850F1576BFA7CAA8E3FA"
+				"download" "EB335999DB1454D398AA5CD52427C775"
+			}
+			"external"
+			{
+				"gid" "AA6731D24877AEFEBB127ECD120C1DC4"
+				"size" "73CED26F528F25865F90674A7A59B62E"
+				"download" "14DB648D97C0BA1C7F2A05D9CFDB71B1"
+			}
+			"internal-dev"
+			{
+				"gid" "EE0B38DE1545F33AD718FB4DA590AFD4"
+				"size" "4A52F2BA2BFD216FDFA1FC2AB5A931BB"
+				"download" "382999AA2C1B7BC826E4DA01AA1D8FA6"
+			}
+			"internal-qa"
+			{
+				"gid" "28E9EAC21FA07E6A20AF6A9EB1141FE6"
+				"size" "92DA00E05C59557589C89CC3E929824E"
+				"download" "9AAE531181BE9D1C6A9733A2FBCE9AC1"
+			}
+			"internal-rc"
+			{
+				"gid" "A0BB13DBEBCEFB811928D7CF890E0123"
+				"size" "864A914AE90D47A3872BD188C7108FD1"
+				"download" "EE376934859F53AFA3A8353244688640"
+			}
+			"internal-rel-test"
+			{
+				"gid" "9CDF5849EE4C938325823081D1216BC7"
+				"size" "7A2355D26788908F7625B161D69AB262"
+				"download" "B5A6E9F574BAA26DCC707EAA28BF7D96"
+			}
+			"internal-special"
+			{
+				"gid" "ACC09007C8FFE16FF937031C711E1BB6"
+				"size" "57B50FCD1C608BF82D38D18ABF56E845"
+				"download" "94621812ACFF8846C9FD5CE249A33791"
+			}
+			"mainline-development"
+			{
+				"gid" "690E8D6D4869E8DA1178A7E98AB5B59E"
+				"size" "7D512B4E7B4CA0471E91F57499A9CADB"
+				"download" "D11689892E6CB1E0E6967A249864CE49"
+			}
+			"mainline-release"
+			{
+				"gid" "D65E2DDBBAA78847571A0E94C21D1639"
+				"size" "1EA8582DABBCA97AD64C02DEED56AB09"
+				"download" "3F721D9A530D6B0D20BFF25F4020C34A"
+			}
+			"playtest"
+			{
+				"gid" "9EDDCB1E62CF9787EEAE7BDFE8588730"
+				"size" "2D0588B807D92D94F9F1CFDF3AE78F43"
+				"download" "9A82277D097C94AEB99C321EA6FB2FA9"
+			}
+			"studio-development"
+			{
+				"gid" "ABFAC11372FEEBDDF870CBB97E392E3E"
+				"size" "EBEF33D4A011ECC0CEC5A6798E9AD4D2"
+				"download" "0B37B54F18354C1EA512A29CD323B850"
+			}
+			"studio-release"
+			{
+				"gid" "0B8E21AD1978F18135199C52F0961040"
+				"size" "36239F4EEAF66F393943C44F3DF6C157"
+				"download" "53159299AE74B99ADCC4731B8AA0D2E0"
+			}
+		}
+	}
+	"383793"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7279332024254005252"
+				"size" "2184882029"
+				"download" "860062192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"branch-development"
+			{
+				"gid" "629826E05AE3576D3DF9DCA042D2259C"
+				"size" "632AFB386E2406DDABEE8E6ABBBAC11D"
+				"download" "FB72D81698D9F775ADA65F04AC1D7674"
+			}
+			"branch-release"
+			{
+				"gid" "407EF6E67CAA8CD3E7D0FB1527DD5B3B"
+				"size" "5AFC26ECC9E6C8A1B6663A22A4039A95"
+				"download" "A922A241377FAEF1817310AA6C42C7A4"
+			}
+			"external"
+			{
+				"gid" "8F6A2C3517CBC2E85F7AB15AF8C72B29"
+				"size" "43FF20A6B67A519116030DC2D18E2CDF"
+				"download" "CF8FD54CEB32E2238D3468D33D2F2483"
+			}
+			"internal-dev"
+			{
+				"gid" "AD1732544B45CAF3B670E827CA63967F"
+				"size" "416D7F36242C197EE966D48D08517E62"
+				"download" "EEA9DF6A270EA2526597328A55E8CD39"
+			}
+			"internal-qa"
+			{
+				"gid" "CAAAC8070464A0F4DB9DFEC95540A83E"
+				"size" "6C9407A04F82F0516C54AD7AD94DCD70"
+				"download" "4A752A07F437BA5E580FBA082B701A33"
+			}
+			"internal-rc"
+			{
+				"gid" "852F429F71A968F44FD8D7F9EDA4ECAC"
+				"size" "6F6BF2B831555D3E49475E31FF2F7DE5"
+				"download" "FED3BE5B13C9B9FAC55AB120AFED3E22"
+			}
+			"internal-rel-test"
+			{
+				"gid" "FB8E64085F80973480719AB38A23DD63"
+				"size" "CAB25F6AFAC640F78503AD592DAE5B98"
+				"download" "8C6247C48FB85783B55092C3062CFB88"
+			}
+			"internal-special"
+			{
+				"gid" "B8DFF454A7E5A603E2BE7D9568A6B709"
+				"size" "9ED4F15D2534D44DFDBE481552D06C1A"
+				"download" "1A68CAB4DB7DDAEF30ACB84DB5BF1DDF"
+			}
+			"mainline-development"
+			{
+				"gid" "C146063F5F0BF046CB5D8E1AF6877BD9"
+				"size" "5C68C27FD3A812AEE0C045EC43432BF1"
+				"download" "E2EA6C838EF490706ECFFF23907B0168"
+			}
+			"mainline-release"
+			{
+				"gid" "4B6E8D71AECB649CC7F9A7372AA0CD6A"
+				"size" "AA2370A9DEF76211C10F00820B9A2061"
+				"download" "4A2C89B1B8FBC98B95CBC11137DF3512"
+			}
+			"playtest"
+			{
+				"gid" "02D8903894D69A7817DE26AA8BF593B4"
+				"size" "FEEFA48B02AFA939D186347B8F2FE4C3"
+				"download" "6F6E92E0D51D64A14A56E4849B035A50"
+			}
+			"studio-development"
+			{
+				"gid" "40BFD45AA324261BDF23FC60A533C89A"
+				"size" "36390B06B5AB139C3F25ABB3B0E4FCED"
+				"download" "132882FBAFF8ECC1E9F871C25B4AF16B"
+			}
+			"studio-release"
+			{
+				"gid" "46E1E645A3A0FC29CFF231CBA5957B66"
+				"size" "A62A21D854DD78063E9BEFA1F3BB70F6"
+				"download" "F67C1DCE94EC28F11ACFFD50914074B1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2328361"
+			"timeupdated" "1512050640"
+		}
+		"branch-development"
+		{
+			"buildid" "2328349"
+			"pwdrequired" "1"
+			"timeupdated" "1512035113"
+		}
+		"branch-release"
+		{
+			"buildid" "2328361"
+			"pwdrequired" "1"
+			"timeupdated" "1512035272"
+		}
+		"dev_nd"
+		{
+			"buildid" "1097812"
+			"pwdrequired" "1"
+			"timeupdated" "1461779077"
+		}
+		"external"
+		{
+			"buildid" "1357061"
+			"pwdrequired" "1"
+			"timeupdated" "1475068668"
+		}
+		"internal-dev"
+		{
+			"buildid" "1558274"
+			"pwdrequired" "1"
+			"timeupdated" "1483963647"
+		}
+		"internal-qa"
+		{
+			"buildid" "2311418"
+			"pwdrequired" "1"
+			"timeupdated" "1511454484"
+		}
+		"internal-rc"
+		{
+			"buildid" "1617947"
+			"pwdrequired" "1"
+			"timeupdated" "1486564570"
+		}
+		"internal-rel-test"
+		{
+			"buildid" "1385528"
+			"pwdrequired" "1"
+			"timeupdated" "1476180396"
+		}
+		"internal-release"
+		{
+			"buildid" "1035584"
+			"pwdrequired" "1"
+			"timeupdated" "1458655628"
+		}
+		"internal-special"
+		{
+			"buildid" "1451231"
+			"pwdrequired" "1"
+			"timeupdated" "1479291320"
+		}
+		"jmk_special"
+		{
+			"buildid" "1060642"
+			"pwdrequired" "1"
+			"timeupdated" "1459956062"
+		}
+		"mainline-development"
+		{
+			"buildid" "2303228"
+			"pwdrequired" "1"
+			"timeupdated" "1511344688"
+		}
+		"mainline-release"
+		{
+			"buildid" "2312572"
+			"pwdrequired" "1"
+			"timeupdated" "1511794773"
+		}
+		"playtest"
+		{
+			"buildid" "2328361"
+			"pwdrequired" "1"
+			"timeupdated" "1512049163"
+		}
+		"studio-development"
+		{
+			"buildid" "2244767"
+			"pwdrequired" "1"
+			"timeupdated" "1509443421"
+		}
+		"studio-release"
+		{
+			"buildid" "2244778"
+			"pwdrequired" "1"
+			"timeupdated" "1509443540"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26277574"
+"_sha" "3bd77af879fe58754afda4237c03865f8233d355"
+"_size" "14661"
