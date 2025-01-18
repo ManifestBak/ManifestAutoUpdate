@@ -1,0 +1,323 @@
+"appid" "373750"
+"common"
+{
+	"name" "DinoSystem"
+	"type" "Game"
+	"clienticon" "4cc2e200f5ebc54202078345465d85a446b86193"
+	"clienttga" "c8d7df20aec4f28c50ec30f8b070a6f2316de6b2"
+	"icon" "c7f8f3036bb6dd5a3cdef4a90ab885d47018f62c"
+	"logo" "1eec10ca5e2ddbca3210efe5d13e760cf762d0c0"
+	"logo_small" "1eec10ca5e2ddbca3210efe5d13e760cf762d0c0_thumb"
+	"oslist" "windows"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" ""
+	"metacritic_name" "DinoSystem"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "74.00185811522795"
+			"height_pct" "56.48060548722798"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "105871b40ff37cf69a86c34a45ee05c2857e2c08/logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "74.00185811522795"
+				"height_pct" "56.48060548722798"
+			}
+			"image2x"
+			{
+				"english" "105871b40ff37cf69a86c34a45ee05c2857e2c08/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8e375f569083201260d50b914b09f36c3baed299/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8e375f569083201260d50b914b09f36c3baed299/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735647458"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Daniele Ferraro"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daniele Ferraro"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1435237281"
+	"community_hub_visible" "1"
+	"gameid" "373750"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "5160"
+		"2" "493"
+		"3" "122"
+		"4" "1662"
+		"5" "19"
+		"6" "492"
+		"7" "4791"
+		"8" "4182"
+		"9" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Daniele Ferraro"
+	"publisher" "Daniele Ferraro"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DinoSystem"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DinoSystem.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default"
+			}
+			"description_loc"
+			{
+				"english" "DinoSystem (Stable) "
+			}
+			"description" "DinoSystem (Stable) "
+		}
+		"1"
+		{
+			"executable" "run_game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "v0.95.1"
+			}
+			"description_loc"
+			{
+				"english" "DinoSystem (old exe)"
+			}
+			"description" "DinoSystem (old exe)"
+		}
+		"2"
+		{
+			"executable" "run_game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "v0.96.5"
+			}
+			"description_loc"
+			{
+				"english" "DinoSystem (old exe)"
+			}
+			"description" "DinoSystem (old exe)"
+		}
+		"3"
+		{
+			"executable" "run_game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "v0.97.2"
+			}
+			"description_loc"
+			{
+				"english" "DinoSystem (old exe)"
+			}
+			"description" "DinoSystem (old exe)"
+		}
+		"4"
+		{
+			"executable" "DinoSystem.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "v0.98.0pb1"
+			}
+			"description_loc"
+			{
+				"english" "DinoSystem (old beta)"
+			}
+			"description" "DinoSystem (old beta)"
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"373751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4543506551513332417"
+				"size" "424653154"
+				"download" "215050368"
+			}
+			"v0.95.1"
+			{
+				"gid" "7864592394558225062"
+				"size" "240876359"
+				"download" "123876848"
+			}
+			"v0.96.5"
+			{
+				"gid" "3748259522792176154"
+				"size" "331839088"
+				"download" "191498640"
+			}
+			"v0.97.2"
+			{
+				"gid" "8254942627299361286"
+				"size" "321202593"
+				"download" "173384432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v0.98.0pb1"
+			{
+				"gid" "40A68A56051FB40D66335F89ECBA344D"
+				"size" "CCA2F3831165EF4D2C82FF75DEDB4888"
+				"download" "F896571E24BF8AFD4DBBD367FC61A964"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16881677"
+			"timeupdated" "1735648332"
+		}
+		"v0.95.1"
+		{
+			"buildid" "7379707"
+			"description" "Old"
+			"timeupdated" "1691348117"
+		}
+		"v0.96.5"
+		{
+			"buildid" "11879045"
+			"description" "Old"
+			"timeupdated" "1704137257"
+		}
+		"v0.97.2"
+		{
+			"buildid" "13296651"
+			"description" "Old"
+			"timeupdated" "1735648276"
+		}
+		"v0.98.0pb1"
+		{
+			"buildid" "16625506"
+			"pwdrequired" "1"
+			"timeupdated" "1733298389"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26825890"
+"_sha" "d9e5f8ed8479cd0948507be8dd5369121158005f"
+"_size" "5580"
