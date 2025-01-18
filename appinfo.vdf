@@ -223,8 +223,8 @@
 		"5" "1756"
 		"6" "4182"
 		"7" "1693"
-		"8" "1684"
-		"9" "4325"
+		"8" "4325"
+		"9" "1684"
 		"10" "4085"
 		"11" "4947"
 		"12" "5708"
@@ -232,7 +232,7 @@
 		"14" "1695"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -327,39 +327,6 @@
 				"download" "2319190672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "36E169C340E2530B42F6E01850B84AB0"
-				"size" "984A6126CEAF4D5BE87BB6AA21780E20"
-				"download" "7A47A9AE3A584D48982E1D0A64B79BA1"
-			}
-			"check"
-			{
-				"gid" "F4761CD2C00721FFA140CDF6D93D57D0"
-				"size" "6B9F3BC7DAFD675EDFAB381135E17D66"
-				"download" "45D65690D7A70E8BA92B4404D2104E3B"
-			}
-			"master"
-			{
-				"gid" "059891497CB34852C9041D239908243A"
-				"size" "AA1E861776D36A97E5E122F8DD3AAAFC"
-				"download" "BE735433FCA2BD55250929F5577EEB23"
-			}
-			"master2"
-			{
-				"gid" "3125AB1FD0F91113A6BBD84FDBF9256C"
-				"size" "D654AA71F6E864B932D177885C59EDCD"
-				"download" "962FACE0BDAD6534F6ED933142E1842E"
-			}
-			"review"
-			{
-				"gid" "77EF85A496A3DBFB0DC672B1DF1E61D6"
-				"size" "C02EC4FB07874A375DE3D420715008B3"
-				"download" "57B8F0F91C551C1AB5645219EA1D7F95"
-			}
-		}
 	}
 	"1152240"
 	{
@@ -372,21 +339,6 @@
 				"download" "18847248"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"master"
-			{
-				"gid" "0D13FC5B4E988D32859F57D54FF810C2"
-				"size" "859E3C53320CDD445A4FFD42CE1B6E17"
-				"download" "58D563E037B37216E3379719C334BA57"
-			}
-			"master2"
-			{
-				"gid" "DAE37EC51A2280CA8B92ABBE87A215BE"
-				"size" "DC702171F6D4F9D0BE39B1D8419F6C82"
-				"download" "8A565B97E15C9259A5FDB66FEDC92587"
-			}
-		}
 		"dlcappid" "1152240"
 	}
 	"branches"
@@ -396,37 +348,8 @@
 			"buildid" "8131267"
 			"timeupdated" "1643803479"
 		}
-		"beta"
-		{
-			"buildid" "8067864"
-			"pwdrequired" "1"
-			"timeupdated" "1642874323"
-		}
-		"check"
-		{
-			"buildid" "3673304"
-			"pwdrequired" "1"
-			"timeupdated" "1562931480"
-		}
-		"master"
-		{
-			"buildid" "4153412"
-			"pwdrequired" "1"
-			"timeupdated" "1567169599"
-		}
-		"master2"
-		{
-			"buildid" "8131267"
-			"pwdrequired" "1"
-			"timeupdated" "1643803425"
-		}
-		"review"
-		{
-			"buildid" "4002000"
-			"pwdrequired" "1"
-			"timeupdated" "1567076421"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -446,3 +369,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26906182"
+"_sha" "74658cfcf70d22508a9223fba85be194a144d8ec"
+"_size" "6531"
