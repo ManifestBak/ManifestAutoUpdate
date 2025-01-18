@@ -1,0 +1,318 @@
+"appid" "3112280"
+"common"
+{
+	"name" "Reclaiming the Lost"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"icon" "6aed9901713a7f455845bd75c635adc45f569164"
+	"clienttga" "60d39e0c1ed01bdbd074ae4794d59697add4652b"
+	"clienticon" "35255779e3ddb18df8e5226d1014c63f34658ec7"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "6f1df5183ada5bb5e5d94addc6afe6d2da3462c5/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.902917617408804"
+			"height_pct" "98.95833333333333"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.902917617408804"
+				"height_pct" "98.95833333333333"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732353794"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Passion Portal"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Passion Portal"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732214974"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3112280"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "5611"
+		"2" "6650"
+		"3" "24904"
+		"4" "4191"
+		"5" "3799"
+		"6" "9130"
+		"7" "21"
+		"8" "4486"
+		"9" "1742"
+		"10" "9551"
+		"11" "6971"
+		"12" "5984"
+		"13" "6426"
+		"14" "4175"
+		"15" "4947"
+		"16" "597"
+		"17" "4182"
+		"18" "493"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Passion Portal"
+	"publisher" "Passion Portal"
+	"homepage" "https://reclaiming-the-lost.com/"
+}
+"config"
+{
+	"installdir" "Reclaiming the Lost"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ReclaimingtheLost.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "ReclaimingtheLost.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"3"
+		{
+			"executable" "ReclaimingtheLost.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"3112281"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4195477579771675399"
+				"size" "2012803124"
+				"download" "1830570656"
+			}
+			"test_branch"
+			{
+				"gid" "4195477579771675399"
+				"size" "2012803124"
+				"download" "1830570656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16515856"
+			"timeupdated" "1732459005"
+		}
+		"test_branch"
+		{
+			"buildid" "16515856"
+			"description" "Game Test"
+			"timeupdated" "1732451994"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game\\saves"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SavesDir"
+					"replace" "Libary/Renpy/ReclaimingtheLost-1672083320"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26976033"
+"_sha" "68fb7d72b81b845505f3731b443c67e2e31d4bc2"
+"_size" "4956"
