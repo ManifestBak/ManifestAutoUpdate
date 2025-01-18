@@ -131,12 +131,6 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
-		"japanese"
-		{
-			"supported" "true"
-			"full_audio" "true"
-			"subtitles" "true"
-		}
 		"turkish"
 		{
 			"supported" "true"
@@ -177,7 +171,7 @@
 		"19" "4305"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -341,3 +335,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26955354"
+"_sha" "f6e990484328104dd23cae4c6c9fa41ab8bf2cbb"
+"_size" "5197"
