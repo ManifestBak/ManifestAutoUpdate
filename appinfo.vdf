@@ -133,6 +133,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -288,3 +289,23 @@
 		}
 	}
 }
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "www/save"
+			"pattern" "*.rpgsave"
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "26832629"
+"_sha" "745adc54b17039ea76e59af7b4fcd4596b52aee1"
+"_size" "5187"
