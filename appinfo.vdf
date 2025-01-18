@@ -323,8 +323,8 @@
 		"15" "21"
 		"16" "4305"
 		"17" "4711"
-		"18" "3843"
-		"19" "113"
+		"18" "113"
+		"19" "1742"
 	}
 	"review_score" "6"
 	"review_percentage" "74"
@@ -335,7 +335,7 @@
 	"publisher" "Aerosoft GmbH"
 	"homepage" "https://www.tml-studios.de/"
 	"gamemanualurl" "https://store.steampowered.com/manual/427100/"
-	"listofdlc" "569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1635100,1847550,2294410,2294411,2294412,2294413,2407421"
+	"listofdlc" "569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1635100,1847550,2294410,2294411,2294412,2294413,2407420,2407421"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -444,9 +444,9 @@
 			}
 			"local"
 			{
-				"gid" "6922694134884114551"
-				"size" "34893695491"
-				"download" "26906756320"
+				"gid" "5327370116092409332"
+				"size" "34709687245"
+				"download" "26703034368"
 			}
 			"previousversion"
 			{
@@ -501,9 +501,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "C1CFD3476B1D9909E0D5DF1114FBBC2D"
-				"size" "F406C1257FA0D03CBB5A1B26EA3CAE20"
-				"download" "5FF71A0D58A0BFE59AA694E585BE86D4"
+				"gid" "93716A218DE2ABBFF5423503DB4A06B0"
+				"size" "2393AE4D049AA481D74B1FD551DF65E7"
+				"download" "9210FF56601B9DCA336F906D030FB40C"
 			}
 			"test"
 			{
@@ -840,9 +840,9 @@
 			}
 			"local"
 			{
-				"gid" "8538292100890920589"
-				"size" "1417804336"
-				"download" "1229282032"
+				"gid" "4948329765777903053"
+				"size" "1417804023"
+				"download" "1229223376"
 			}
 			"previousversion"
 			{
@@ -897,9 +897,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "059C7DE15C1801642CB878F62C6CC72E"
-				"size" "07470C1C9B9BB9D5DBB44269FA2BAA05"
-				"download" "1D4DE6B4476406D8021AD2F098EB166C"
+				"gid" "52FBABFA8774759D9724EF4DED6EB9BA"
+				"size" "275A2980E367359345DF5C583B52C027"
+				"download" "C31B4E1E0CF40FC91C5F7DF2DD0BAA67"
 			}
 			"test"
 			{
@@ -939,9 +939,9 @@
 			}
 			"local"
 			{
-				"gid" "6911819985482051863"
-				"size" "7049671460"
-				"download" "6076614800"
+				"gid" "6048099190505764721"
+				"size" "7048622911"
+				"download" "6076206640"
 			}
 			"previousversion"
 			{
@@ -996,9 +996,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "D9E9E48341DA9C47E8AA1BFE3A99F4DD"
-				"size" "06BB86B2BD4539B8C67BC85F7E863D80"
-				"download" "BCE56FCC452AD46C9C694A50B23D1DC1"
+				"gid" "512F567DB53A243DBEC68F7274F1AEFA"
+				"size" "8A4F21C34E3EDF3CDD8419C132B22D60"
+				"download" "30E1D562004A432C40CF54B2665D53D5"
 			}
 			"test"
 			{
@@ -1038,9 +1038,9 @@
 			}
 			"local"
 			{
-				"gid" "2171741504326019609"
-				"size" "29525855"
-				"download" "7085696"
+				"gid" "8595251317978167968"
+				"size" "29525831"
+				"download" "7081440"
 			}
 			"previousversion"
 			{
@@ -1095,9 +1095,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "C3E6DFC37A031021A7DAE2E63352CC74"
-				"size" "B1B9E522C9DD37710CE0CB70C035CF98"
-				"download" "F85EC27F04D5C94A1F049C186698B385"
+				"gid" "F13E5BCE63DFDF55FF224C84C6E0043A"
+				"size" "28FBC6DB5133845AFF9F4A15D8D05DF9"
+				"download" "F73773D0013CC431A6CE58BF6E89A176"
 			}
 			"test"
 			{
@@ -1335,9 +1335,9 @@
 			}
 			"local"
 			{
-				"gid" "1049470228287365905"
+				"gid" "7632605908629730227"
 				"size" "138439433"
-				"download" "106940256"
+				"download" "106940128"
 			}
 			"previousversion"
 			{
@@ -1392,9 +1392,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "F8C47DF33FA209BBE5D716DD0EA4559E"
+				"gid" "3121B98439D8948901112721E37AB659"
 				"size" "98DD391BBFC7FF156326319064C333DA"
-				"download" "202AE41D1CA784A8747BD1ADAB2CD88E"
+				"download" "8E100FAB36B857DF1255FA2410A83CE7"
 			}
 			"test"
 			{
@@ -1434,9 +1434,9 @@
 			}
 			"local"
 			{
-				"gid" "1425848201720604132"
-				"size" "5676377"
-				"download" "4896656"
+				"gid" "624583384904563736"
+				"size" "5676099"
+				"download" "4897184"
 			}
 			"previousversion"
 			{
@@ -1491,9 +1491,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "AE746B69EBAB0C45CC778F6FEF2D5C7D"
-				"size" "07D031318670F60259FFACACCC5C8270"
-				"download" "29E2B8BA034DDAA5892C1D9744E35341"
+				"gid" "35B27D30FA8C34F01B7A68C19217609C"
+				"size" "25B029588EC790C098CB5CD163B8B4CF"
+				"download" "E70353A2036F0AAD8A2AFC3B37407F0B"
 			}
 			"test"
 			{
@@ -1731,9 +1731,9 @@
 			}
 			"local"
 			{
-				"gid" "8317403336707709695"
-				"size" "120899717"
-				"download" "106082208"
+				"gid" "6939717537228515393"
+				"size" "120901253"
+				"download" "106066624"
 			}
 			"previousversion"
 			{
@@ -1788,9 +1788,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "1150EDEE5DE159FE92DE931873619601"
-				"size" "26B463D33F3534FD6A9896610E7B113D"
-				"download" "0DAEA3A3E19BAF44DBF39DD504DE7AE9"
+				"gid" "BCE34249D5B7439793BA92EEDA0D98F7"
+				"size" "FDDEED7B8DE5232469419161B09B7F2D"
+				"download" "1AAA4814DDBB0B0731FE91B7C382DC87"
 			}
 			"test"
 			{
@@ -1830,9 +1830,9 @@
 			}
 			"local"
 			{
-				"gid" "4425123692394909098"
-				"size" "978920345"
-				"download" "898313808"
+				"gid" "944677474178791352"
+				"size" "978920325"
+				"download" "898351856"
 			}
 			"previousversion"
 			{
@@ -1887,9 +1887,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "9BB98C292ED99F2EB376B92143FE987E"
-				"size" "444298B6876E8A6C655912C5CAF6AC19"
-				"download" "CC9AF52169C770D25D17876386CF4E8C"
+				"gid" "B881CB6CEFB865D48ADA6DA10C4D6F47"
+				"size" "460BF5577CAA185CF16AF6CDFD545BC5"
+				"download" "8DE2502918C188DEE38E2A7693EDD9FA"
 			}
 			"test"
 			{
@@ -1929,9 +1929,9 @@
 			}
 			"local"
 			{
-				"gid" "7926942670695799526"
-				"size" "886811135"
-				"download" "788504368"
+				"gid" "8826535336016875219"
+				"size" "886811157"
+				"download" "788408512"
 			}
 			"previousversion"
 			{
@@ -1986,9 +1986,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "712D0241B80DCB1B7EA40D502676468F"
-				"size" "0730742BA6EADED0FBC4E1A3DBA65268"
-				"download" "5766956ECC385E65AB3E58CF12DBE7ED"
+				"gid" "CDD257E3E6C175728944C3F3BC5CC67C"
+				"size" "62753CC994855CD6CD6BD7EB2BD56465"
+				"download" "4CA3A78C0ABFC10ED112C7028801F923"
 			}
 			"test"
 			{
@@ -2028,9 +2028,9 @@
 			}
 			"local"
 			{
-				"gid" "8257940488909124841"
-				"size" "90612584"
-				"download" "84857040"
+				"gid" "881980326852860409"
+				"size" "90612446"
+				"download" "84868016"
 			}
 			"previousversion"
 			{
@@ -2085,9 +2085,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "319F1EA97120BFC7B048AC95EE97336E"
-				"size" "C1F35C2CEAF5C93F0E3982F9D167667D"
-				"download" "CE84A242EF4F37BA690C959CF2F54F12"
+				"gid" "C671294A5AB80E7CB8D0185F65CC32E0"
+				"size" "425BC72A1CA5FFE5E612D5D971B857E4"
+				"download" "5300896990B926D87E31F3D843A55399"
 			}
 			"test"
 			{
@@ -2126,9 +2126,9 @@
 			}
 			"local"
 			{
-				"gid" "6660164477607061429"
-				"size" "3418644"
-				"download" "2349088"
+				"gid" "3828981594710619790"
+				"size" "3417453"
+				"download" "2348096"
 			}
 			"previousversion"
 			{
@@ -2183,9 +2183,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "D2D241702ED7879D2EE77B58C79E20A4"
-				"size" "2A43373BB2B9C86048A5FB91B95979E5"
-				"download" "04A42B422322D25A448767357B0C204D"
+				"gid" "9FCCCA2CF0C36CD414AEFD6A575951CB"
+				"size" "41B6D9DAD77846D2856564B69E812664"
+				"download" "B5783D1EDE605F14F1424C52A64A9B14"
 			}
 			"test"
 			{
@@ -2621,9 +2621,9 @@
 			}
 			"local"
 			{
-				"gid" "9176477720401979195"
-				"size" "491203840"
-				"download" "413784624"
+				"gid" "7121866926063032007"
+				"size" "491203855"
+				"download" "413815408"
 			}
 			"previousversion"
 			{
@@ -2678,9 +2678,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "0ED82761C3DE33CB3BFC06321DCD495A"
-				"size" "DB1F978641C1CFDE74FF94A165F18FEF"
-				"download" "ADD9D678E9DC596893DD77685BB78210"
+				"gid" "96D51CDD1A61F6FB2DC8CD9C89C59DC6"
+				"size" "694799E5C6F01F66A73C6A897F760264"
+				"download" "B9600EAA30F00A82200DE8D2CB4CFAE1"
 			}
 			"test"
 			{
@@ -2720,9 +2720,9 @@
 			}
 			"local"
 			{
-				"gid" "7559732334823825455"
-				"size" "653082651"
-				"download" "569131616"
+				"gid" "7826622238505661837"
+				"size" "653082655"
+				"download" "569142128"
 			}
 			"previousversion"
 			{
@@ -2777,9 +2777,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "FA6546F56F9DD4120F3779DEBA092030"
-				"size" "34D284B0F395D37D63016A418F5F7BAD"
-				"download" "06E356CA034C0B846CBAF7ADF92DCA7A"
+				"gid" "17D4481AAC62FB9180F8075218394CFF"
+				"size" "8DDBE8EB009A910C79DF51EA76EE1A6C"
+				"download" "8321F07E891745DAD40B8B9B1FACC926"
 			}
 			"test"
 			{
@@ -2819,9 +2819,9 @@
 			}
 			"local"
 			{
-				"gid" "5812155523438372901"
-				"size" "4985644"
-				"download" "3273280"
+				"gid" "5724372605560783165"
+				"size" "4985826"
+				"download" "3273680"
 			}
 			"previousversion"
 			{
@@ -2876,9 +2876,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "296D047421CD3215258CF4A22C2764C6"
-				"size" "34D693E550378FD01570FF019B03F8C8"
-				"download" "81339FFD5BF0C8730A18CB1E237DBA9E"
+				"gid" "598E2915C326A66640DBDE3696AF4156"
+				"size" "9BEA1C1A4869C0505B0F41C090697071"
+				"download" "31789975C56721C575DD27E1C1BE767D"
 			}
 			"test"
 			{
@@ -2918,9 +2918,9 @@
 			}
 			"local"
 			{
-				"gid" "6577417769575697852"
-				"size" "2672390422"
-				"download" "2237217712"
+				"gid" "7285748978810986983"
+				"size" "2677635788"
+				"download" "2241872000"
 			}
 			"previousversion"
 			{
@@ -2975,9 +2975,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "F3B912D72CD9029D60E989BD135B7BD5"
-				"size" "6A381C071833ACECB2213F7AA742DF3E"
-				"download" "26E1284AC2E27572A4BA196A0C322AAB"
+				"gid" "3B510DAF41F60351AB562F1ADE33926B"
+				"size" "A19461AB32F02CDF77DA69C8AF9FAA66"
+				"download" "86D765451512A89B3871A1F782F8979D"
 			}
 			"test"
 			{
@@ -3312,9 +3312,9 @@
 			}
 			"local"
 			{
-				"gid" "8918248909577621460"
+				"gid" "3164178349932228889"
 				"size" "180814011"
-				"download" "153713792"
+				"download" "153713104"
 			}
 			"previousversion"
 			{
@@ -3369,9 +3369,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "D598B6123EA17D1D054AF8B63F43F082"
+				"gid" "14BBD7F564DADBB1C175C117B76EA0B3"
 				"size" "EAD8452793BC76D5B2D15DF61AD66771"
-				"download" "8F1C6EA339CFBA3F1C61CCB5EDD2A726"
+				"download" "6113FB0063EF92B3863475B4A71F6197"
 			}
 			"test"
 			{
@@ -3410,9 +3410,9 @@
 			}
 			"local"
 			{
-				"gid" "4179188675464087113"
+				"gid" "1309680975352560940"
 				"size" "175550890"
-				"download" "149741408"
+				"download" "149740720"
 			}
 			"previousversion"
 			{
@@ -3467,9 +3467,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "D66159FF445BDB4278732DFAD7F2D78B"
+				"gid" "3A2B0AF23F71152D55AF4BB956898C09"
 				"size" "DBA22425F166B3DBCBA1AA6C9FF0D466"
-				"download" "D56D44711719B4C3184F2F2D0200EEA6"
+				"download" "AD8B7256286A526AEBB68DAC676597AE"
 			}
 			"test"
 			{
@@ -3508,9 +3508,9 @@
 			}
 			"local"
 			{
-				"gid" "2582751182954504011"
+				"gid" "2976841848205905112"
 				"size" "175550786"
-				"download" "149248240"
+				"download" "149247712"
 			}
 			"previousversion"
 			{
@@ -3565,9 +3565,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "8F2B3C9B7ACFD89D065F944522F160B5"
+				"gid" "F3A41D33B0047DC9AE09C413747A0802"
 				"size" "F9F1DC60BE47FD32A1B20F29F1D8B3CC"
-				"download" "CF4D3DA74F3641D0D03817D980D066BD"
+				"download" "7EBC8D1DFE2E09D3EBAEB1FB6E7912F0"
 			}
 			"test"
 			{
@@ -3607,7 +3607,7 @@
 			}
 			"local"
 			{
-				"gid" "4485518084780346063"
+				"gid" "2610916723494677333"
 				"size" "98273690"
 				"download" "83547088"
 			}
@@ -3664,7 +3664,7 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "41E3C37E0CCBFD8BB2EFFE0F4E99EBF1"
+				"gid" "1AA0397CBBC9CBE8705A5F3ECD37A9FD"
 				"size" "F01FE3304E3DEFA15A40647FEF561F63"
 				"download" "37E598BA2CC2D6218626CAF7383360C5"
 			}
@@ -3678,7 +3678,6 @@
 	}
 	"602736"
 	{
-		"dlcappid" "2407421"
 		"config"
 		{
 			"oslist" "windows"
@@ -3706,9 +3705,9 @@
 			}
 			"local"
 			{
-				"gid" "5542387387914818603"
+				"gid" "1461693229299740932"
 				"size" "102438889"
-				"download" "90007120"
+				"download" "90008576"
 			}
 			"previousversion"
 			{
@@ -3763,9 +3762,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "DFA3D84B30B0C4CEEA235B13D47C140A"
+				"gid" "7152CB8F766055D14F897FB64CDFD3B1"
 				"size" "296B91F0D700C3E24CFD622B7CE70087"
-				"download" "F4437AEFC6743D5DD30A2739D811B4F0"
+				"download" "D58DA4B96CC5E4AFC192C71075304F6C"
 			}
 			"test"
 			{
@@ -3777,7 +3776,6 @@
 	}
 	"602737"
 	{
-		"dlcappid" "2407420"
 		"config"
 		{
 			"oslist" "windows"
@@ -3805,9 +3803,9 @@
 			}
 			"local"
 			{
-				"gid" "7043158036541886774"
-				"size" "105481904"
-				"download" "88220240"
+				"gid" "4773679157436793552"
+				"size" "105482176"
+				"download" "88217408"
 			}
 			"previousversion"
 			{
@@ -3862,9 +3860,9 @@
 			}
 			"nightlybuild"
 			{
-				"gid" "CE12D4A6DE52697B005B353C0B47A2C8"
-				"size" "A26BA48E033C48187D946ACB57C4F36A"
-				"download" "C89B9BDAF9B76394F065A9CC4BB907C1"
+				"gid" "04C74F78500BE508BE934805CF36D77E"
+				"size" "C537F7421A2FCC23500BC9F74D848A7F"
+				"download" "AF74E38A8757B6B78752DD5AEC6543BA"
 			}
 			"test"
 			{
@@ -3925,10 +3923,10 @@
 		}
 		"local"
 		{
-			"buildid" "16769482"
+			"buildid" "17048292"
 			"description" "Local Content Server"
 			"lcsrequired" "1"
-			"timeupdated" "1734417854"
+			"timeupdated" "1737177564"
 		}
 		"localisation"
 		{
@@ -3938,9 +3936,9 @@
 		}
 		"nightlybuild"
 		{
-			"buildid" "16769695"
+			"buildid" "17048423"
 			"pwdrequired" "1"
-			"timeupdated" "1734419757"
+			"timeupdated" "1737179805"
 		}
 		"previousversion"
 		{
@@ -3986,6 +3984,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26678199"
-"_sha" "cc324cbdb219e66b17d606ff70b225aeac9fa8da"
-"_size" "87723"
+"_change_number" "27053462"
+"_sha" "cb368d1d5736c8c5031335c3223a3ddb034fc40c"
+"_size" "87678"
