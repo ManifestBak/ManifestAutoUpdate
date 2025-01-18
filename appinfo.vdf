@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727790845"
+	"store_asset_mtime" "1737133754"
 	"associations"
 	{
 		"0"
@@ -263,14 +263,15 @@
 	}
 	"steam_release_date" "1723741316"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2608270"
 	"store_tags"
 	{
 		"0" "1708"
 		"1" "1774"
-		"2" "4175"
-		"3" "1687"
+		"2" "1687"
+		"3" "4175"
 		"4" "4182"
 		"5" "19"
 		"6" "5765"
@@ -278,8 +279,8 @@
 		"8" "3993"
 		"9" "6378"
 		"10" "4345"
-		"11" "4637"
-		"12" "3871"
+		"11" "3871"
+		"12" "4637"
 		"13" "4106"
 		"14" "4026"
 		"15" "4791"
@@ -289,7 +290,7 @@
 		"19" "3964"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -341,21 +342,21 @@
 		{
 			"public"
 			{
-				"gid" "5235584480246330094"
-				"size" "996689414"
-				"download" "1003984336"
+				"gid" "3220133801109599795"
+				"size" "996267516"
+				"download" "1003549456"
 			}
 			"mapeditor"
 			{
-				"gid" "6656641058925911692"
-				"size" "995935234"
-				"download" "1003213296"
+				"gid" "3220133801109599795"
+				"size" "996267516"
+				"download" "1003549456"
 			}
 			"test"
 			{
-				"gid" "5235584480246330094"
-				"size" "996689414"
-				"download" "1003984336"
+				"gid" "3220133801109599795"
+				"size" "996267516"
+				"download" "1003549456"
 			}
 		}
 	}
@@ -370,21 +371,21 @@
 		{
 			"public"
 			{
-				"gid" "6715036962973726204"
-				"size" "3185595509"
-				"download" "3194926464"
+				"gid" "6404141683023472795"
+				"size" "3185595857"
+				"download" "3194926672"
 			}
 			"mapeditor"
 			{
-				"gid" "6715036962973726204"
-				"size" "3185595509"
-				"download" "3194926464"
+				"gid" "6404141683023472795"
+				"size" "3185595857"
+				"download" "3194926672"
 			}
 			"test"
 			{
-				"gid" "6715036962973726204"
-				"size" "3185595509"
-				"download" "3194926464"
+				"gid" "6404141683023472795"
+				"size" "3185595857"
+				"download" "3194926672"
 			}
 		}
 	}
@@ -393,20 +394,20 @@
 	{
 		"public"
 		{
-			"buildid" "16869881"
-			"timeupdated" "1735470967"
+			"buildid" "17042896"
+			"timeupdated" "1737133540"
 		}
 		"mapeditor"
 		{
-			"buildid" "16869902"
+			"buildid" "17042896"
 			"description" "version 1.2.0 voluntary beta testing"
-			"timeupdated" "1735470796"
+			"timeupdated" "1737133316"
 		}
 		"test"
 		{
-			"buildid" "16869881"
+			"buildid" "17042896"
 			"description" "upcoming update voluntary testing"
-			"timeupdated" "1735470197"
+			"timeupdated" "1737133521"
 		}
 	}
 	"privatebranches" "1"
@@ -450,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26809771"
-"_sha" "72a7279a124bc30dbe498f05dd11d731f9b9f813"
-"_size" "7790"
+"_change_number" "27046377"
+"_sha" "5aedacee83ac7831f869697edac5cdc7471d34e0"
+"_size" "7816"
