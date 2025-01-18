@@ -10,6 +10,36 @@
 	"icon" "68396188e4df1b4e3e20c5e0cd775da347894fb9"
 	"clienticon" "924a5ccbe7f7e352c71ac73fd310d217c77f215c"
 	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -82,6 +112,55 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "65.40256709451575"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "65.40256709451575"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1718884805"
@@ -275,15 +354,11 @@
 		"1"
 		{
 			"executable" "./low_res/Idling Gears Low Res.exe"
-			"config"
-			{
-				"betakey" "dev_test"
-			}
 			"description_loc"
 			{
-				"english" "Fixes WIN32 Crash"
+				"english" "Compatibility mode (WIN32 Crash Fix)"
 			}
-			"description" "Fixes WIN32 Crash"
+			"description" "Compatibility mode (WIN32 Crash Fix)"
 		}
 	}
 	"steamcontrollertemplateindex" "6"
@@ -299,24 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "6558317204656540432"
-				"size" "170174554"
-				"download" "125092880"
-			}
-			"win32"
-			{
-				"gid" "1163536884796287385"
-				"size" "159472202"
-				"download" "114238448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_test"
-			{
-				"gid" "D270F097904C8333C6773C0D0996CCE9"
-				"size" "CC64EB74955CAE1B3345C2E78CE8EAA6"
-				"download" "420FA29DEA22FB2F3D1B533FB74EB3B0"
+				"gid" "6470969440102421412"
+				"size" "301204717"
+				"download" "206393152"
 			}
 		}
 	}
@@ -326,22 +386,11 @@
 	{
 		"public"
 		{
-			"buildid" "15277530"
-			"timeupdated" "1722952639"
-		}
-		"dev_test"
-		{
-			"buildid" "15241713"
-			"pwdrequired" "1"
-			"timeupdated" "1722611578"
-		}
-		"win32"
-		{
-			"buildid" "15277554"
-			"description" "Beta aimed at fixing the Win32 crash"
-			"timeupdated" "1722952605"
+			"buildid" "17025199"
+			"timeupdated" "1737024652"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -357,3 +406,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27023470"
+"_sha" "6bed4761adfaa3cff6dff720b7d480b58fcd8b43"
+"_size" "6877"
