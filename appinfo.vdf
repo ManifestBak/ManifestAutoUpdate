@@ -29,10 +29,11 @@
 		"latam" "1"
 	}
 	"metacritic_name" "Krampus is Home"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "936ea9fdb8e1d6a76e5dd94ded14f9f426d4bd52/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -41,15 +42,78 @@
 	"library_assets"
 	{
 		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomCenter"
-			"width_pct" "100"
-			"height_pct" "100"
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.16876301921159"
+			"height_pct" "68.21192052980135"
 		}
 	}
-	"store_asset_mtime" "1592264576"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "267d186ddafe3f0750820f9780c9bc78668cd906/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "267d186ddafe3f0750820f9780c9bc78668cd906/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "8a98a082fdb549f3df775658f2e2d3cf8aaca705/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "8a98a082fdb549f3df775658f2e2d3cf8aaca705/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8a98a082fdb549f3df775658f2e2d3cf8aaca705/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.16876301921159"
+				"height_pct" "68.21192052980135"
+			}
+			"image"
+			{
+				"english" "420e31806ff0ef524d755929299e4297267787ff/logo.png"
+			}
+			"image2x"
+			{
+				"english" "420e31806ff0ef524d755929299e4297267787ff/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f543a76da61925be14cded1c5431664ca98648f0/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f543a76da61925be14cded1c5431664ca98648f0/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737181435"
 	"associations"
 	{
 		"0"
@@ -78,7 +142,6 @@
 	{
 		"0" "1"
 		"1" "25"
-		"2" "23"
 	}
 	"category"
 	{
@@ -91,6 +154,10 @@
 		"category_36" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -173,23 +240,23 @@
 	"gameid" "839420"
 	"store_tags"
 	{
-		"0" "4106"
-		"1" "3978"
-		"2" "492"
+		"0" "19"
+		"1" "1667"
+		"2" "3978"
 		"3" "4604"
-		"4" "1720"
-		"5" "3839"
-		"6" "4182"
-		"7" "10808"
-		"8" "1667"
+		"4" "4106"
+		"5" "4182"
+		"6" "1742"
+		"7" "3839"
+		"8" "10808"
 		"9" "4064"
-		"10" "4166"
-		"11" "5716"
-		"12" "1687"
-		"13" "1721"
-		"14" "3859"
-		"15" "19"
-		"16" "21"
+		"10" "3834"
+		"11" "4145"
+		"12" "4191"
+		"13" "5716"
+		"14" "4166"
+		"15" "1687"
+		"16" "3859"
 		"17" "6730"
 		"18" "1775"
 		"19" "3843"
@@ -230,18 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6569263320804704455"
-				"size" "2004312274"
-				"download" "1643292496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"tester"
-			{
-				"gid" "AE62D4FC6FD7D87B2F476C48E606A9F2"
-				"size" "246C1F159786EDBD14480CE858ECC3A3"
-				"download" "384703BD03F4DC4103EE0C40788AD827"
+				"gid" "1150812699672142622"
+				"size" "2242734358"
+				"download" "1722206496"
 			}
 		}
 	}
@@ -249,16 +307,11 @@
 	{
 		"public"
 		{
-			"buildid" "5732341"
-			"timeupdated" "1603564919"
-		}
-		"tester"
-		{
-			"buildid" "5732341"
-			"pwdrequired" "1"
-			"timeupdated" "1603563940"
+			"buildid" "17041757"
+			"timeupdated" "1737127914"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -276,5 +329,19 @@
 				"1" "Windows"
 			}
 		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "REGL STUDIOS/Krampus Is Home"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27053600"
+"_sha" "aed56f97b9e2d077e17909abbc7cb6cd83683a9b"
+"_size" "5819"
