@@ -73,7 +73,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1707747863"
+	"store_asset_mtime" "1734648093"
 	"associations"
 	{
 		"0"
@@ -129,6 +129,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1540467252"
 	"community_visible_stats" "1"
@@ -162,7 +167,7 @@
 }
 "extended"
 {
-	"absolutemousecoordinates" "0"
+	"absolutemousecoordinates" "1"
 	"remoteplaytogethertestingbranches" "default,32-bit,beta,private_beta,secret_beta"
 	"developer" "EtherGaming"
 	"publisher" "EtherGaming"
@@ -178,6 +183,9 @@
 			"type" "default"
 		}
 	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -188,30 +196,15 @@
 		{
 			"public"
 			{
-				"gid" "5935986209603416631"
-				"size" "280975315"
-				"download" "165308768"
+				"gid" "404412271837510132"
+				"size" "283066414"
+				"download" "166980000"
 			}
 			"beta"
 			{
-				"gid" "5935986209603416631"
-				"size" "280975315"
-				"download" "165308768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secret_beta"
-			{
-				"gid" "C02D397DE798477E2FB8459C2DCBB34C"
-				"size" "B2EF6E59818DBABCC45934DE34739739"
-				"download" "3AC9E8A59F6B62AB8E89B65355FD9EB3"
-			}
-			"private_beta"
-			{
-				"gid" "14BC71E275CF13D96412060F0FA78B37"
-				"size" "ADE66DE2C2E0BCC7FAFA4D43D508CF87"
-				"download" "EABD0326BF78C1D17D6E1D8EDD8E8322"
+				"gid" "404412271837510132"
+				"size" "283066414"
+				"download" "166980000"
 			}
 		}
 	}
@@ -219,27 +212,16 @@
 	{
 		"public"
 		{
-			"buildid" "16779620"
-			"timeupdated" "1734526967"
-		}
-		"secret_beta"
-		{
-			"buildid" "11656493"
-			"pwdrequired" "1"
-			"timeupdated" "1688828818"
+			"buildid" "17030366"
+			"timeupdated" "1737108152"
 		}
 		"beta"
 		{
-			"buildid" "16779620"
-			"timeupdated" "1734478021"
-		}
-		"private_beta"
-		{
-			"buildid" "16779620"
-			"pwdrequired" "1"
-			"timeupdated" "1734478010"
+			"buildid" "17030366"
+			"timeupdated" "1737108132"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -256,6 +238,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26695285"
-"_sha" "2ebb8664566b6cc3e81b64dc12da6b3661dbaaff"
-"_size" "4454"
+"_change_number" "27043270"
+"_sha" "61ce29ef7c874a329e34f3bcb6a0bdd79fe75241"
+"_size" "4057"
