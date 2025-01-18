@@ -1,0 +1,308 @@
+"appid" "1586750"
+"common"
+{
+	"name" "Two Strikes"
+	"type" "Game"
+	"logo" "d94576c1c4dc8f778defa2fb89a3fa7f9357e12c"
+	"logo_small" "d94576c1c4dc8f778defa2fb89a3fa7f9357e12c_thumb"
+	"icon" "d66c17bd05f9c6b77d49218d21dc3029109f475b"
+	"clienttga" "7a7f366f341cb249ec384463ea2c2095324710aa"
+	"clienticon" "534fdc4c47b0d0dad209424c980cf4d8a3b82509"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "28.118939883645794"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "28.118939883645794"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1726060183"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Retro Reactor"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Entalto Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Entalto Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1622473139"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1586750/discussions/0/4629233123492704216/"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1586750"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "4777"
+		"2" "1775"
+		"3" "4736"
+		"4" "1773"
+		"5" "3871"
+		"6" "3987"
+		"7" "19"
+		"8" "597"
+		"9" "6815"
+		"10" "4252"
+		"11" "4604"
+		"12" "1688"
+		"13" "4166"
+		"14" "4145"
+		"15" "4004"
+		"16" "3993"
+		"17" "7368"
+		"18" "3859"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Retro Reactor"
+	"publisher" "Entalto Publishing"
+	"homepage" "https://www.twostrikesgame.com"
+}
+"config"
+{
+	"installdir" "TwoStrikes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TwoStrikes.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1586751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6918020867431763884"
+				"size" "2944539009"
+				"download" "725082880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16357655"
+			"timeupdated" "1731246862"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26406272"
+"_sha" "95dee3f74c35fe4b16e6d1c76487c9a17160c444"
+"_size" "4767"
