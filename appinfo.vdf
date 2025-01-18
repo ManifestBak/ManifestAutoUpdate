@@ -3,7 +3,7 @@
 {
 	"name" "Braid, Anniversary Edition"
 	"type" "Game"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
 	"clienticon" "cd376be1536c607d3b0b525f37b537e051395113"
 	"clienttga" "a8270c93367f6859f190b6272df2952774ed1a5a"
@@ -41,7 +41,7 @@
 		"indonesian" "1"
 	}
 	"releasestate" "released"
-	"osextended" ""
+	"osextended" "macos64"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -276,8 +276,8 @@
 		"4" "4106"
 		"5" "3871"
 		"6" "19"
-		"7" "5094"
-		"8" "6625"
+		"7" "6625"
+		"8" "5094"
 		"9" "597"
 		"10" "4195"
 		"11" "4305"
@@ -290,8 +290,8 @@
 		"18" "5432"
 		"19" "21"
 	}
-	"review_score" "8"
-	"review_percentage" "94"
+	"review_score" "9"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -390,14 +390,20 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "6016545461369022897"
+				"size" "4306575411"
+				"download" "4135635760"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"macos"
 			{
-				"gid" "0ED33D768C1E7FDFF0618AEF2EBA299E"
-				"size" "E4240CA37FF6EB2CF09357847C40722E"
-				"download" "C5E5A293C55EFA4539A9C508DE4B7DD6"
+				"gid" "6F24D8CB70B7E7E5A58A7240840EE790"
+				"size" "855C5E87069519266F6E0B4F9915D4C2"
+				"download" "0DD5E323A898136FEE4DF0FD90E7292D"
 			}
 		}
 	}
@@ -405,8 +411,8 @@
 	{
 		"public"
 		{
-			"buildid" "14585674"
-			"timeupdated" "1717437047"
+			"buildid" "17018253"
+			"timeupdated" "1736976917"
 		}
 		"devel"
 		{
@@ -416,9 +422,9 @@
 		}
 		"macos"
 		{
-			"buildid" "15605000"
+			"buildid" "17018253"
 			"pwdrequired" "1"
-			"timeupdated" "1725549528"
+			"timeupdated" "1736976868"
 		}
 	}
 }
@@ -453,3 +459,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27014382"
+"_sha" "b85da8ffa0eec2f12bd871a6e8f3141d91a9c647"
+"_size" "7983"
