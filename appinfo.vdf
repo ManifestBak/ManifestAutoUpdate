@@ -127,6 +127,11 @@
 			"type" "franchise"
 			"name" "Battlefront"
 		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Combat Mission"
+		}
 	}
 	"primary_genre" "2"
 	"genres"
@@ -203,6 +208,7 @@
 {
 	"developer" "Battlefront"
 	"publisher" "Slitherine Ltd."
+	"homepage" "https://www.matrixgames.com/game/combat-mission-black-sea"
 	"gamemanualurl" "https://store.steampowered.com/manual/1502380/"
 	"listofdlc" "1502390"
 	"dlcavailableonstore" "1"
@@ -236,15 +242,6 @@
 				"download" "2144727936"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devtest"
-			{
-				"gid" "9A70CE7B70046D22F50320B9EB21EC53"
-				"size" "29001AF2E705B36C4A65DC6E5FE668CF"
-				"download" "6ECF6C0BA388153E1CC31DF97B4B0AB0"
-			}
-		}
 	}
 	"1502382"
 	{
@@ -261,15 +258,6 @@
 				"download" "88913504"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devtest"
-			{
-				"gid" "37AB1984653A0CFEB2FC2164F3260F3B"
-				"size" "EFF5C7D4270601B27A9C15CBBACA29CC"
-				"download" "473121153459CB87B4330A6F2FD861C8"
-			}
-		}
 	}
 	"branches"
 	{
@@ -278,13 +266,8 @@
 			"buildid" "10556577"
 			"timeupdated" "1677855338"
 		}
-		"devtest"
-		{
-			"buildid" "10556577"
-			"pwdrequired" "1"
-			"timeupdated" "1676455794"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -301,3 +284,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "8084d887fdf0e768d112d14279745fd44225b0fd"
+"_size" "4889"
