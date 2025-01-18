@@ -1,0 +1,257 @@
+"appid" "1535960"
+"common"
+{
+	"name" "Pixel Game Maker Series Osyaberi! Horijyo! Holin Slash"
+	"type" "Game"
+	"logo" "1c1714b0295161157fa39176f99cedad683925a0"
+	"logo_small" "1c1714b0295161157fa39176f99cedad683925a0_thumb"
+	"name_localized"
+	{
+		"japanese" "ツクールシリーズ おしゃべり！ホリジョ！ホリスラッシュ"
+		"schinese" "Pixel Game Maker Series 饶舌! 挖掘女孩！挖掘猛攻"
+		"tchinese" "Pixel Game Maker Series 愛說話！挖掘女孩！挖掘猛擊"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "6508d8b81b819adbb27094d1cdabb8100cc143bc"
+	"clienttga" "405cce6403df64ff3a4611cbdf624e4a0e36223d"
+	"icon" "fc14a2d89e2ac0777f41aa554d36211bc04eddaf"
+	"releasestate" "released"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-tw,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1614664671"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CLOUDs Playcompany Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gotcha Gotcha Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Pixel Game Maker Series"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1617841900"
+	"community_hub_visible" "1"
+	"gameid" "1535960"
+	"store_tags"
+	{
+		"0" "3798"
+		"1" "5379"
+		"2" "7208"
+		"3" "19"
+		"4" "3871"
+		"5" "4726"
+		"6" "597"
+		"7" "4085"
+		"8" "4182"
+		"9" "4106"
+		"10" "1773"
+		"11" "4305"
+		"12" "4562"
+		"13" "1751"
+		"14" "3964"
+		"15" "6815"
+		"16" "1719"
+		"17" "1684"
+		"18" "4004"
+		"19" "4236"
+	}
+}
+"extended"
+{
+	"developer" "CLOUDs Playcompany Inc."
+	"publisher" "Gotcha Gotcha Games"
+	"homepage" "https://rpgmakerofficial.com/act_game/game/horijo/\?utm_source=Steam&amp;utm_medium=referral&amp;utm_content=Steam_OfficialPageClick"
+	"gamemanualurl" "https://store.steampowered.com/manual/1535960/"
+}
+"config"
+{
+	"installdir" "Osyaberi! Horijyo! Holin Slash"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "player.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1535961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2462461171358525209"
+				"size" "538951947"
+				"download" "374439792"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6351086"
+			"timeupdated" "1615270656"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25601961"
+"_sha" "fc27493c82c1ec57433171e25c7afc40a4543fe3"
+"_size" "4896"
