@@ -182,15 +182,6 @@
 				"download" "272149552"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "00A5D93BEF781849FEC76E2B5258FCC1"
-				"size" "7B36066F727AAE2AC23B6625BCF4710A"
-				"download" "EABA79F0F4785FCF33036B58AC38F619"
-			}
-		}
 	}
 	"1551572"
 	{
@@ -205,15 +196,6 @@
 				"gid" "3098870227812346966"
 				"size" "297857860"
 				"download" "262589328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "78F79F6AE7772EA45804006911020CEB"
-				"size" "C0A8D3D965537E528B819250164B0DD0"
-				"download" "B695596A540E477603D77CC01D1CEF0E"
 			}
 		}
 	}
@@ -232,15 +214,6 @@
 				"download" "256912528"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "285FB43865E79D58B9A02B4FC42C7CAB"
-				"size" "13D8FA1ABBA64E5652CF2F9F614E1218"
-				"download" "06DC0B10020A80A11BC75D46FEFBC818"
-			}
-		}
 	}
 	"branches"
 	{
@@ -249,13 +222,8 @@
 			"buildid" "9627513"
 			"timeupdated" "1664547595"
 		}
-		"staging"
-		{
-			"buildid" "9627513"
-			"pwdrequired" "1"
-			"timeupdated" "1664547283"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -271,3 +239,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "d7409d46e6bab66162169691e1dd7c35d78eed03"
+"_size" "3996"
