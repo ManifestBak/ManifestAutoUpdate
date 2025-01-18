@@ -10,6 +10,7 @@
 	"logo" "85396f5337e6b3bb7b61b592c94038b3ad910aba"
 	"logo_small" "85396f5337e6b3bb7b61b592c94038b3ad910aba_thumb"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Madness Cubed"
 	"small_capsule"
 	{
@@ -19,6 +20,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_c1e1846fa0bd1962a349a6cbfef26f63efa80e14.jpg"
 	"store_asset_mtime" "1461773739"
 	"associations"
 	{
@@ -61,6 +63,7 @@
 		"category_17" "1"
 		"category_35" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -126,9 +129,10 @@
 		"10" "1667"
 		"11" "1732"
 		"12" "3839"
+		"13" "1685"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -173,9 +177,9 @@
 			}
 			"deta"
 			{
-				"gid" "2418706141203740827"
-				"size" "393514009"
-				"download" "158868032"
+				"gid" "4295535256910560123"
+				"size" "198141581"
+				"download" "98814208"
 			}
 		}
 	}
@@ -208,13 +212,13 @@
 		}
 		"deta"
 		{
-			"buildid" "8780929"
+			"buildid" "14011503"
 			"description" "deta"
-			"timeupdated" "1653071813"
+			"timeupdated" "1712763131"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "21141800"
-"_sha" "a24780bd2ea0008585e1cd05b4e6946e7bfc8aae"
-"_size" "3509"
+"_change_number" "26253459"
+"_sha" "0741d7525345e183f41d0feb199518239530616a"
+"_size" "3650"
