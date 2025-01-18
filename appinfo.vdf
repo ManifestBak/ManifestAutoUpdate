@@ -98,24 +98,9 @@
 		{
 			"public"
 			{
-				"gid" "1523610233015724718"
-				"size" "33365614772"
-				"download" "25704412768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"creators_test"
-			{
-				"gid" "089A96C7C0622AB3D11957614688BC4E"
-				"size" "103FADAFFD3FDCAAFA5C78322E1AD062"
-				"download" "B7E4E28F93ABB9D2E18A8A28FEB76AFD"
-			}
-			"pts_latest"
-			{
-				"gid" "F01E282EBB8DE40F6C34F22107896A2C"
-				"size" "ACADE74A5FC863B9FE2B0B628F63AA37"
-				"download" "A1834CA2D471C43EC674A5BEC54B6580"
+				"gid" "5635921842611434526"
+				"size" "33408378190"
+				"download" "25742840688"
 			}
 		}
 	}
@@ -134,45 +119,19 @@
 				"download" "15934330880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"creators_test"
-			{
-				"gid" "FE951DBCCB8F0F116CD930325894E404"
-				"size" "6F0FD5BEEF051BDCF4489EF8C8A452E7"
-				"download" "01E9B03824F84B8CA29EC39903F24461"
-			}
-			"pts_latest"
-			{
-				"gid" "E4777041DE74382577FDE060A54E3D13"
-				"size" "5AB520FE8C1129B031F09E4916BF0FF9"
-				"download" "FE848F32D2ACA0EFFAE2B3798ABFDAED"
-			}
-		}
 	}
 	"baselanguages" "english,german,french,spanish,russian,japanese,portuguese,polish,brazilian,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16552995"
-			"timeupdated" "1732724602"
-		}
-		"creators_test"
-		{
-			"buildid" "16552995"
-			"pwdrequired" "1"
-			"timeupdated" "1732724622"
-		}
-		"pts_latest"
-		{
-			"buildid" "16552995"
-			"pwdrequired" "1"
-			"timeupdated" "1732714640"
+			"buildid" "17046072"
+			"timeupdated" "1737159919"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26389265"
-"_sha" "facfafdcb3af8734e10c11b83ed44a8fbfa6697b"
-"_size" "3574"
+"_change_number" "27051414"
+"_sha" "c9f61296dcd621da377cea7e20e244153cb31d4d"
+"_size" "2604"
