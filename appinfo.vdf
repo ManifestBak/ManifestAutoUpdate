@@ -1,0 +1,320 @@
+"appid" "1436900"
+"common"
+{
+	"name" "Sabotaj"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "681c5b02a0f64072c89ffa0aabf876dd47f6e6a0"
+	"clienticon" "1c4bd6c781d11370f0cc6fc098e9951db127bc79"
+	"icon" "01926fb6672c127e5475bff457206941eac38650"
+	"logo" "cd6c058b046dd4dd51a535534de0e678fe48f726"
+	"logo_small" "cd6c058b046dd4dd51a535534de0e678fe48f726_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"app_retired_publisher_request" "1"
+	"app_retired_was_free" "1"
+	"restricted_countries" "DE"
+	"small_capsule"
+	{
+		"turkish" "capsule_231x87_turkish.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"turkish" "header_turkish.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "tr,en"
+		"library_hero" "tr,en"
+		"library_logo" "tr,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"turkish" "library_600x900_turkish.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"turkish" "library_600x900_turkish_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"turkish" "library_hero_turkish.jpg"
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"turkish" "logo_turkish.png"
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1626349026"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HES Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TYPER Games"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_36" "1"
+		"category_49" "1"
+		"category_35" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1608883200"
+	"steam_release_date" "1608890425"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1436900"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1774"
+		"2" "5055"
+		"3" "1663"
+		"4" "4684"
+		"5" "3839"
+		"6" "5547"
+		"7" "4175"
+		"8" "4168"
+		"9" "1662"
+		"10" "1678"
+		"11" "1708"
+		"12" "1775"
+		"13" "3968"
+		"14" "5765"
+		"15" "128"
+		"16" "113"
+		"17" "3859"
+		"18" "5711"
+	}
+	"review_score" "5"
+	"review_percentage" "61"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1436900"
+	"gamedir" "Sabotaj"
+	"serverbrowsername" "Sabotaj"
+	"developer" "HES Games"
+	"publisher" "TYPER Games"
+	"homepage" "https://en.idcgames.com/sabotaj/"
+}
+"config"
+{
+	"installdir" "Sabotaj"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sabotaj.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" " (DirectX)"
+			}
+			"description" " (DirectX)"
+		}
+		"1"
+		{
+			"executable" "Sabotaj.exe"
+			"arguments" "-FeatureLevelES31"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "(OpenGL)"
+			}
+			"description" "(OpenGL)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,portuguese,polish,norwegian,swedish,turkish,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1436901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2793359082007685931"
+				"size" "13371539143"
+				"download" "11479773792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7034043"
+			"timeupdated" "1626357115"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Sabotaj/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26954281"
+"_sha" "fb3eec3f2e04dc79a064ad75885db8dff9f502f1"
+"_size" "5276"
