@@ -321,21 +321,6 @@
 				"download" "7614268224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dlctest"
-			{
-				"gid" "6DAAC242529B15C6BBFA0A7AFC577D11"
-				"size" "2D1809EDEB7D902066DBAC50FD6EA23C"
-				"download" "3715C1B52DBBE0D1681A32D0D7810E22"
-			}
-			"translationbuild"
-			{
-				"gid" "A26F5A49136B15389AB7AE9DC2024191"
-				"size" "C10812FCD1076C7CD68F31BB6C25CF03"
-				"download" "E1B66ECF775441420FD405D56AEE944E"
-			}
-		}
 	}
 	"2743690"
 	{
@@ -367,21 +352,6 @@
 				"download" "314023264"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dlctest"
-			{
-				"gid" "0A639E13A86EB08CABF4E0D0C32F6821"
-				"size" "CFB7EBABA6BA3383C7FCCECA2D32D488"
-				"download" "A81AB69A99107428C8AF73DED53C1A5A"
-			}
-			"translationbuild"
-			{
-				"gid" "3A01B9047B242AD69F80749AC2E419BF"
-				"size" "9A56545F72741BE5E2C0BDA1BF4696F7"
-				"download" "6ED4EB4FBA56972FFEBA386ACCAE8FFD"
-			}
-		}
 	}
 	"branches"
 	{
@@ -389,12 +359,6 @@
 		{
 			"buildid" "16448108"
 			"timeupdated" "1732563930"
-		}
-		"dlctest"
-		{
-			"buildid" "14091077"
-			"pwdrequired" "1"
-			"timeupdated" "1713410352"
 		}
 		"opt1"
 		{
@@ -414,13 +378,8 @@
 			"description" "Hosts the previous version of the game, in case you get new issues from an update."
 			"timeupdated" "1725057570"
 		}
-		"translationbuild"
-		{
-			"buildid" "16448108"
-			"pwdrequired" "1"
-			"timeupdated" "1731956343"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -477,6 +436,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26355001"
-"_sha" "4c477fdb54e083de7d1b7743a2dba2bdd7dabae1"
-"_size" "9053"
+"_change_number" "26952085"
+"_sha" "0308175392f0b29b680fc04bc9717ce9abca1cdd"
+"_size" "8083"
