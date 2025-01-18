@@ -19,6 +19,11 @@
 	{
 		"japanese" "魔界戦記ディスガイア2 PC"
 	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -70,7 +75,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "abf28334d68c213b370f9a34da124c372ffdf733/capsule_231x87.jpg"
 		"japanese" "capsule_231x87_japanese.jpg"
 	}
 	"header_image"
@@ -83,6 +88,7 @@
 		"library_capsule" "en,ja"
 		"library_hero" "en"
 		"library_logo" "en,ja"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -90,7 +96,63 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1668469435"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6d90b50f40cc6fa8aa897f453ea28f18e4a386c2/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "6d90b50f40cc6fa8aa897f453ea28f18e4a386c2/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730330161"
 	"associations"
 	{
 		"0"
@@ -160,13 +222,14 @@
 		"9" "9"
 		"10" "3964"
 		"11" "1756"
-		"12" "1741"
-		"13" "4136"
-		"14" "3871"
-		"15" "4726"
-		"16" "4325"
-		"17" "1742"
-		"18" "1708"
+		"12" "4136"
+		"13" "1741"
+		"14" "4667"
+		"15" "3871"
+		"16" "4726"
+		"17" "4325"
+		"18" "1742"
+		"19" "1708"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -858,3 +921,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25980207"
+"_sha" "eef977924261a11c72224563a62e2c0337a686d0"
+"_size" "20198"
