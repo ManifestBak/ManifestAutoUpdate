@@ -35,6 +35,35 @@
 		"3" "4"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "6229054"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Elf Breeding Farm"
 	"controller_support" "full"
 	"small_capsule"
@@ -63,6 +92,52 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "100"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"latam" "library_600x900_latam.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"latam" "library_600x900_latam_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"latam" "logo_latam.png"
+				"spanish" "logo_spanish.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1606339992"
@@ -157,7 +232,7 @@
 		"19" "4667"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -220,15 +295,6 @@
 				"download" "1848625984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "96ABF29A84291E4739A69F6F7A33CB4C"
-				"size" "9BAC61199FDEA63CD996728FD2D8896B"
-				"download" "F55E14E44A9FDB6C4C08A36A5E715806"
-			}
-		}
 	}
 	"1233712"
 	{
@@ -246,15 +312,6 @@
 				"download" "1846254128"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "6F121945184F640030BD35072796367A"
-				"size" "55992FEEA61F87EDD5DF90B299E3BE4F"
-				"download" "C4C5115FB876E3BFB5964235A7A6A949"
-			}
-		}
 	}
 	"branches"
 	{
@@ -263,11 +320,10 @@
 			"buildid" "6229054"
 			"timeupdated" "1613155733"
 		}
-		"testing"
-		{
-			"buildid" "6229054"
-			"pwdrequired" "1"
-			"timeupdated" "1613110498"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26969513"
+"_sha" "0d2ce30ee9d6a25ff33944e3ba054d1f1e7020f0"
+"_size" "6060"
