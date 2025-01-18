@@ -11,6 +11,7 @@
 	"logo_small" "f740a963492cc5336684b7b6004f974facf7e2fd_thumb"
 	"oslist" "windows"
 	"osarch" ""
+	"restricted_countries" "DE"
 	"metacritic_name" "Witch Ring Meister"
 	"small_capsule"
 	{
@@ -30,6 +31,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "100"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1561519200"
@@ -110,8 +145,8 @@
 		"12" "4434"
 		"13" "7208"
 	}
-	"review_score" "5"
-	"review_percentage" "68"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -148,15 +183,6 @@
 				"download" "209112736"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "51073AB5F43B2955720DB1627A7BFF98"
-				"size" "EEBCC4C02CEA5DB89C0E74A5C40DE47E"
-				"download" "6192E0727AD81DD62885321DCCFDA0F9"
-			}
-		}
 	}
 	"1053162"
 	{
@@ -171,15 +197,6 @@
 				"gid" "7041229850056338463"
 				"size" "289883609"
 				"download" "208796400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "E1607F11AFD8871235E46ADEAF308D9B"
-				"size" "BB986831F77F40B8617B89B5059BBF40"
-				"download" "585C31B6ED075BA9C8D26E748620A32A"
 			}
 		}
 	}
@@ -198,15 +215,6 @@
 				"download" "208884272"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "D587FD34FE46B2D7ACB29C7A97758ED2"
-				"size" "E61D0F6F3D57AB3EB863643C14C11671"
-				"download" "B3219E7FA25D8508E287AD848889AFE3"
-			}
-		}
 	}
 	"1053164"
 	{
@@ -223,15 +231,6 @@
 				"download" "209039184"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "DF64DD231A9A7D354C051D7C745A389A"
-				"size" "DDD8C35EB9038FC6464C3454FC33FCA5"
-				"download" "1300AA65F029CC25BD353AB652AAF45A"
-			}
-		}
 	}
 	"1071430"
 	{
@@ -244,15 +243,6 @@
 				"download" "34387312"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "DD80B7386DB36065F8EA74D74AA86DC9"
-				"size" "03A94FCB3774EC5FB8565E7DEE13C226"
-				"download" "4BDD45D024CF79F995282E33D5041CBB"
-			}
-		}
 		"dlcappid" "1071430"
 	}
 	"branches"
@@ -262,13 +252,8 @@
 			"buildid" "4433774"
 			"timeupdated" "1574976081"
 		}
-		"test"
-		{
-			"buildid" "4433774"
-			"pwdrequired" "1"
-			"timeupdated" "1574913766"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -286,3 +271,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26961381"
+"_sha" "52d365a8508377e87518e9f3b7441a89f31a65b6"
+"_size" "4229"
