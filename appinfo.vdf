@@ -1,0 +1,298 @@
+"appid" "2727210"
+"common"
+{
+	"name" "Deathless. Tales of Old Rus"
+	"type" "Game"
+	"name_localized"
+	{
+		"russian" "Бессмертный. Сказки Старой Руси"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "c408edb725c9d8b91563f940b4e62c4001a364c0"
+	"clienticon" "9582b44b60df8d383641a389fdad149c621d5264"
+	"clienttga" "b40322603e67323560ca548e3c60aea5eae8ea2c"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"russian" "capsule_231x87_russian.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ru"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,ru"
+		"library_header" "en,ru"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.248916376657405"
+			"height_pct" "70.81491193823639"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "868a4311f49b5a88dfd2baae9c2f4bfdc542b3fd/library_600x900.jpg"
+				"russian" "2b5fa0c9e20680484495b110b74dbfb9dc248aff/library_600x900_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "868a4311f49b5a88dfd2baae9c2f4bfdc542b3fd/library_600x900_2x.jpg"
+				"russian" "2b5fa0c9e20680484495b110b74dbfb9dc248aff/library_600x900_russian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "bd20ad3182349648af447c9edee67712313a4b16/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "bd20ad3182349648af447c9edee67712313a4b16/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bd20ad3182349648af447c9edee67712313a4b16/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.248916376657405"
+				"height_pct" "70.81491193823639"
+			}
+			"image"
+			{
+				"english" "71c59e36525be3e0c0e8e83cc41e6c287ea53536/logo.png"
+				"russian" "3093dfb8aae60882ef44615beaf96d9accb44840/logo_russian.png"
+			}
+			"image2x"
+			{
+				"english" "71c59e36525be3e0c0e8e83cc41e6c287ea53536/logo_2x.png"
+				"russian" "3093dfb8aae60882ef44615beaf96d9accb44840/logo_russian_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c96d2929a7d79ebb36e2694f6c88f6442e48947c/library_header.jpg"
+				"russian" "797fda4b23e08a0ac250f8b96cc6a34a69ff42f6/library_header_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "c96d2929a7d79ebb36e2694f6c88f6442e48947c/library_header_2x.jpg"
+				"russian" "797fda4b23e08a0ac250f8b96cc6a34a69ff42f6/library_header_russian_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734014703"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "1C Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FOR-GAMES CR LTD"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734012016"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2727210/announcements/detail/518574472406499603"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2727210"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "1666"
+		"2" "32322"
+		"3" "791774"
+		"4" "3959"
+		"5" "1716"
+		"6" "4325"
+		"7" "9"
+		"8" "21"
+		"9" "4182"
+		"10" "6815"
+		"11" "6730"
+		"12" "3871"
+		"13" "4195"
+		"14" "4252"
+		"15" "6129"
+		"16" "16094"
+		"17" "4057"
+		"18" "1684"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "1C Game Studios"
+	"publisher" "FOR-GAMES CR LTD"
+	"homepage" "https://1cccp.ru/"
+	"listofdlc" "3014920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Deathless Tales of Old Rus"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Deathless.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"2727219"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7514874317176123590"
+				"size" "3639461703"
+				"download" "1959623920"
+			}
+			"public_beta"
+			{
+				"gid" "62151410432518855"
+				"size" "3639461719"
+				"download" "1959640640"
+			}
+		}
+	}
+	"3014920"
+	{
+		"dlcappid" "3014920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4206507036472976753"
+				"size" "580732305"
+				"download" "503495264"
+			}
+			"public_beta"
+			{
+				"gid" "4206507036472976753"
+				"size" "580732305"
+				"download" "503495264"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16961155"
+			"timeupdated" "1736493075"
+		}
+		"public_beta"
+		{
+			"buildid" "16952552"
+			"description" "Branch for public tests"
+			"timeupdated" "1736432688"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "1CGS/Deathless"
+			"pattern" "*.device"
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "27046090"
+"_sha" "6660d575f0e1e05bfa0459366e4f803078ca46b3"
+"_size" "5773"
