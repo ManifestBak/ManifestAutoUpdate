@@ -166,39 +166,6 @@
 				"download" "884206544"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"media"
-			{
-				"gid" "ACC0E35AC96999975F2D96367DD304D7"
-				"size" "DCA7C980652AFCE95B2821128284811A"
-				"download" "58639E42496ADFA820BF8B15EFBAF658"
-			}
-			"mods"
-			{
-				"gid" "90815673835A2D41D8E345E2667BA1D7"
-				"size" "7ABC2C793B8EF5E93D1DE74C62BCD5E3"
-				"download" "96E8E91AE9C9A1E70DB7F22865B0C3CE"
-			}
-			"owlcat-next-debug"
-			{
-				"gid" "AB1C53AE3E8C923B14A0A99218294D33"
-				"size" "7779D4ECD3697A9AF362428C901158AC"
-				"download" "493C522050A31BE33E37770747E59F45"
-			}
-			"owlcat-next-test"
-			{
-				"gid" "41119F1769E069B8286FE6B13BA48DB7"
-				"size" "4DAB5F13867E7A6065007191E9EB2A7C"
-				"download" "F9BFB47FFFCC6EF431F0F21E46B4B012"
-			}
-			"owlcat-test"
-			{
-				"gid" "D6C8B31104A0C6F1A018418FD77DC3E6"
-				"size" "01871B19FC8935E7C3DFD707E204DE08"
-				"download" "DDA0C478AA80632D41AE6399FE13DA9E"
-			}
-		}
 		"dlcappid" "2564580"
 	}
 	"2564582"
@@ -211,9 +178,9 @@
 		{
 			"public"
 			{
-				"gid" "4252072911911963073"
-				"size" "1214445624"
-				"download" "892763216"
+				"gid" "3478726686886357664"
+				"size" "1214445635"
+				"download" "892763088"
 			}
 			"2.3.3k"
 			{
@@ -228,41 +195,14 @@
 				"download" "883103120"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"media"
-			{
-				"gid" "4CBC9E71F63D2A841899D688B55B5692"
-				"size" "9011C714A38F9DE43B4EFBE19E9EC91D"
-				"download" "0D6B22574D0F460176916A5271E85C2B"
-			}
-			"owlcat-next-debug"
-			{
-				"gid" "5B6F31607C2096BF18E615C1B9BF37BD"
-				"size" "DCA90CE34DE6B30989703F9A2253868B"
-				"download" "9C72EC51BD5E17C4DB93C56CE97926AA"
-			}
-			"owlcat-next-test"
-			{
-				"gid" "802617F72B0388ACC5B3A6228F8A3758"
-				"size" "E49445D0D9AD05FF89C53633C341899C"
-				"download" "38D8343F6C2A921FCC2B817921112928"
-			}
-			"owlcat-test"
-			{
-				"gid" "530E1F8C539097644714A57BDD12979D"
-				"size" "8F72609215A75A1FB4995D71BFB3D52B"
-				"download" "CEAB89CB584E3CC4B55CFA856E5907FF"
-			}
-		}
 		"dlcappid" "2564580"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16390085"
-			"timeupdated" "1731948597"
+			"buildid" "16759087"
+			"timeupdated" "1734353736"
 		}
 		"2.3.3k"
 		{
@@ -276,39 +216,6 @@
 			"description" "old version 2.4"
 			"timeupdated" "1731942357"
 		}
-		"media"
-		{
-			"buildid" "16390085"
-			"pwdrequired" "1"
-			"timeupdated" "1731491096"
-		}
-		"mods"
-		{
-			"buildid" "14552957"
-			"pwdrequired" "1"
-			"timeupdated" "1717158323"
-		}
-		"owlcat-next-debug"
-		{
-			"buildid" "15956933"
-			"pwdrequired" "1"
-			"timeupdated" "1728323881"
-		}
-		"owlcat-next-test"
-		{
-			"buildid" "16183358"
-			"pwdrequired" "1"
-			"timeupdated" "1729874874"
-		}
-		"owlcat-test"
-		{
-			"buildid" "15713501"
-			"pwdrequired" "1"
-			"timeupdated" "1726481196"
-		}
 	}
+	"privatebranches" "1"
 }
-"_missing_token" "False"
-"_change_number" "26247978"
-"_sha" "3ed31a54f7276b776f4a7890e7e632b732a8a5a3"
-"_size" "5766"
