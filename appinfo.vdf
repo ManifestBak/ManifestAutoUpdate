@@ -318,6 +318,7 @@
 }
 "depots"
 {
+	"workshopdepot" "2608270"
 	"228989"
 	{
 		"config"
@@ -389,7 +390,23 @@
 			}
 		}
 	}
-	"workshopdepot" "2608270"
+	"3391540"
+	{
+		"dlcappid" "3391540"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"test"
+			{
+				"gid" "7512272249576767844"
+				"size" "424790186"
+				"download" "423679136"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
@@ -405,9 +422,9 @@
 		}
 		"test"
 		{
-			"buildid" "17042896"
+			"buildid" "17049697"
 			"description" "upcoming update voluntary testing"
-			"timeupdated" "1737133521"
+			"timeupdated" "1737197010"
 		}
 	}
 	"privatebranches" "1"
@@ -451,6 +468,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27046377"
-"_sha" "5aedacee83ac7831f869697edac5cdc7471d34e0"
-"_size" "7816"
+"_change_number" "27055057"
+"_sha" "c6af8f58b61f8697006e59a591b0c745819f1ce6"
+"_size" "8043"
