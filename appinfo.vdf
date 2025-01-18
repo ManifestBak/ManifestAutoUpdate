@@ -173,6 +173,8 @@
 		"category_35" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_61" "1"
+		"category_13" "1"
 	}
 	"supported_languages"
 	{
@@ -255,23 +257,24 @@
 	{
 		"0" "19"
 		"1" "21"
-		"2" "1774"
-		"3" "1695"
-		"4" "3834"
+		"2" "1695"
+		"3" "3834"
+		"4" "1774"
 		"5" "3839"
 		"6" "3843"
-		"7" "3942"
-		"8" "4166"
-		"9" "9204"
-		"10" "4191"
-		"11" "1742"
+		"7" "4182"
+		"8" "3859"
+		"9" "4166"
+		"10" "3942"
+		"11" "4191"
 		"12" "4747"
-		"13" "4182"
-		"14" "3859"
+		"13" "1742"
+		"14" "9204"
 		"15" "7208"
+		"16" "122"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -336,45 +339,6 @@
 				"download" "96553714320"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"certification"
-			{
-				"gid" "9BEC9ABE3BC05D6D29D0DE056739254A"
-				"size" "AB5BFE3F2A4E2A511A5D0FA5AF6097B3"
-				"download" "6F4BECF05D863AF2C6F78023BF6E2244"
-			}
-			"chunk_test"
-			{
-				"gid" "4F511B754F36571F35C83D85CF26E33C"
-				"size" "C345A18EF85D22DECFC738BA7F418EFA"
-				"download" "7C36D459A02B0A394F417E07D227E20A"
-			}
-			"disney"
-			{
-				"gid" "3042A069CF1AEE7A05AC0209A51ECEC9"
-				"size" "1AD7D62C5BD1D392EA018C9262ACF9A8"
-				"download" "E2C98A3D9F232B18BC3592EE564A170B"
-			}
-			"qc_uor"
-			{
-				"gid" "00DE7E02D2E00647EDE784574C5B7F94"
-				"size" "33A160D1F28787167A236F12C1779901"
-				"download" "9366F0C3EAD3EC1B8B0DBDB3346DB4FF"
-			}
-			"validation1"
-			{
-				"gid" "32C3F931D585E06F38A09737BEE479E8"
-				"size" "3325148FD2ECCC2664616652DCB17577"
-				"download" "D82487A260D2C208966A740A29FB3F93"
-			}
-			"validation2"
-			{
-				"gid" "9EFCBE36F3FCE0323FCBF45E5B2422D8"
-				"size" "05FB348F3EE031EDBF1AA4C275850A76"
-				"download" "9932B993AED3547A3753D118B959BADE"
-			}
-		}
 	}
 	"1716751"
 	{
@@ -404,45 +368,6 @@
 				"download" "1905008128"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"certification"
-			{
-				"gid" "CA6C3AA12D409E719C945126F9BB848D"
-				"size" "53C9AC1D37FA9DA3DB2F71DB46B2ABB0"
-				"download" "0D6092A180D03C0AD625C15F1708627A"
-			}
-			"chunk_test"
-			{
-				"gid" "AB7F16F5DF154D7B764F4A9D06702917"
-				"size" "756EAC36DBC3CF0F5348669672380354"
-				"download" "948A3DD1FB9E24E9954961D42042A8BD"
-			}
-			"disney"
-			{
-				"gid" "82524859CCADB68F1ABE6AC533E350D9"
-				"size" "5B3940EC7C1B134C3777A5CDB9D8B2E6"
-				"download" "215A19644086C3B985ECFA8E6F6DB4CF"
-			}
-			"qc_uor"
-			{
-				"gid" "BC20562E40023F4650317CFC5102319B"
-				"size" "8429BCCD7EF191E73DC3E137ABED7C76"
-				"download" "5AE547D1EF6BA08BD48B0EED2E8B0D80"
-			}
-			"validation1"
-			{
-				"gid" "E7DEA652742A63E78773AF3ED33A4B21"
-				"size" "4175A05589FA43F25BAFFDEF17D2F601"
-				"download" "7B7985BC18C3758905727857B92F0413"
-			}
-			"validation2"
-			{
-				"gid" "4CBCDE4E350143A7CA1CA1641078850D"
-				"size" "1BE8518AAD0A6EA1A812E4B934A8FD14"
-				"download" "930FF43C9FA7EDAEF75E135D3BA6EE9B"
-			}
-		}
 	}
 	"2840773"
 	{
@@ -457,45 +382,6 @@
 				"gid" "4860527928117617414"
 				"size" "2248664400"
 				"download" "2035279312"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"certification"
-			{
-				"gid" "B392F8F5FDA4A8FC306B49DB03F6B643"
-				"size" "C9A595C0E54D3B59FDFE5AFBB6693A47"
-				"download" "D870A640059DC8C9F18A09AC0E6CEB4E"
-			}
-			"chunk_test"
-			{
-				"gid" "815B7EDBDC551C5AB7B87B7D0149B368"
-				"size" "FCEC6E8239C97FE230EEA1BC1064F7BF"
-				"download" "BB4647AD00701118302A8F00CDCDC193"
-			}
-			"disney"
-			{
-				"gid" "26CBB542348E73021FEDEB53B434D226"
-				"size" "1F8287DDFDF75771E2A18BA447E577C6"
-				"download" "18F3AB750F7444133C17889D8C2CF90C"
-			}
-			"qc_uor"
-			{
-				"gid" "485C47C577C06D97F21ECA3CDA05204D"
-				"size" "C904C65E303ADCD9797CADF9E9FED998"
-				"download" "8D6F36C426993300D1FD80EB0224C597"
-			}
-			"validation1"
-			{
-				"gid" "1211592EA358E851A48D1389DAB4AEC7"
-				"size" "43EBB2FE7AF71C7527917DAAC3D30964"
-				"download" "47BE06510F3FE7012270CB33797B326D"
-			}
-			"validation2"
-			{
-				"gid" "67C54ABE1D80550E5A425404248F6BE0"
-				"size" "24B39DF9721B1AAC26C39097B597278F"
-				"download" "B75B7CD8A7539A7ACDA1D6B4000BC141"
 			}
 		}
 	}
@@ -514,45 +400,6 @@
 				"download" "2124256224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"certification"
-			{
-				"gid" "A1C352B26D2EBB2B47FB6C2232E32FD8"
-				"size" "587BA2B2693DC7C6F1113E09A8F6E3B5"
-				"download" "21DCC206041F5FE43CCC421428B82DB6"
-			}
-			"chunk_test"
-			{
-				"gid" "2BA90F1BE4746DA6A308F164A7BD1D54"
-				"size" "6FF87D20A32D9A76BE3D98301E27472E"
-				"download" "336241E02D0DF9A6172F82DCBC55AE1A"
-			}
-			"disney"
-			{
-				"gid" "4A6E20FD4C112E8A2B33D83E3573D873"
-				"size" "1D689BCCA568F04BEA965DCA1ADA053E"
-				"download" "34D077D3C188E4D9AFE6F272C3852F85"
-			}
-			"qc_uor"
-			{
-				"gid" "06CBA6446210FCF0300E57376117FA88"
-				"size" "491F9A4F38CBC97BF4F9D325A87ABC58"
-				"download" "18401FA45A9473857E7F1CE6F427B03D"
-			}
-			"validation1"
-			{
-				"gid" "2E57E0A2C09AB7F81B7606AB8FB086DF"
-				"size" "075BD64F4D5F3B940F64252FCF1BE63F"
-				"download" "6DDFD92111155E5CCBA3614D6A92C0D6"
-			}
-			"validation2"
-			{
-				"gid" "E43B7226B9FDD4018337F11D5D7BB318"
-				"size" "DC9C95A855FFF786F847FAD8CA223D26"
-				"download" "A68709266CAC6BC9A7F0D1729811C11C"
-			}
-		}
 	}
 	"2840775"
 	{
@@ -567,45 +414,6 @@
 				"gid" "1755042148582462743"
 				"size" "2231815412"
 				"download" "2003569984"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"certification"
-			{
-				"gid" "D300C3FAE669CA2F1BEA3066D45DF67D"
-				"size" "9136D373D9172CAE95106250127469BD"
-				"download" "5734028BC423D5DD4B9B9E8D47442D94"
-			}
-			"chunk_test"
-			{
-				"gid" "CB8209B8BB8BC941F9CEF8C05111BA9C"
-				"size" "DF445DF5DA0DAD042DF53C86CD4DC75C"
-				"download" "4C79F873818D946AA92865CDB9B85B88"
-			}
-			"disney"
-			{
-				"gid" "57337581EEF10E5D568706861D034479"
-				"size" "B8DC47F6374E47835FC0EF8ADF91EDDF"
-				"download" "691C7486B2136A828D309FBF2B8DDCF4"
-			}
-			"qc_uor"
-			{
-				"gid" "C07E6188CFECFB441E406FB20A47234D"
-				"size" "D327BC62E4898A19EE989F940609313E"
-				"download" "7AC7167B4BC9B7C7BE033FA92B632BF2"
-			}
-			"validation1"
-			{
-				"gid" "8BF2729ACA22303707D4176AE6384208"
-				"size" "85AA634802BB85841A1D9E9F9FE41B63"
-				"download" "400EA5898D91F4C02E4EEA473AFD782D"
-			}
-			"validation2"
-			{
-				"gid" "B33F8B544746EDF0CC06C29E7A2A99BB"
-				"size" "89A35CA8581BA0C669B8E55C2E21B5CA"
-				"download" "046334B754D89B65F458D674512FEB0C"
 			}
 		}
 	}
@@ -626,27 +434,6 @@
 				"download" "4329023568"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"chunk_test"
-			{
-				"gid" "ADA71AFD35A3C23905DBE83A5557116D"
-				"size" "4D95504A1D59EDE3D9F7FD44985398D1"
-				"download" "2A2667FFEA6D25CABD9B27E8E7FB0AA5"
-			}
-			"validation1"
-			{
-				"gid" "1DF23FEB016F783239353DAB83BEC1A2"
-				"size" "29AD5930A9808E6AFC407166735E2352"
-				"download" "46DC609AE96146C031297635082AEC67"
-			}
-			"validation2"
-			{
-				"gid" "0C4C2FDD77E6B69E25F525ADF7BD9171"
-				"size" "3D1FAB52D585F852B6C5747D34E8F1A0"
-				"download" "FF44F591B6D05011BBB3AC4AAABB6FDB"
-			}
-		}
 	}
 	"3005000"
 	{
@@ -665,27 +452,6 @@
 				"download" "3214739808"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"chunk_test"
-			{
-				"gid" "33F3C25C2B75627B60E53FB130D2149E"
-				"size" "D2B6EA448DB4071457CA246BF700B3D0"
-				"download" "9C19B2607EE3B8A22839322C2C0B35DF"
-			}
-			"validation1"
-			{
-				"gid" "8892E0E8AE4BC0649D61F44633CB14DF"
-				"size" "76865E0F1C6514A62F37AB0594DCF7AC"
-				"download" "C1E2B3F1D28A1CEDE739FB2A084D7C71"
-			}
-			"validation2"
-			{
-				"gid" "642EB241C0E187245197F97EFC0B51A0"
-				"size" "B55A28EF3BDE34E492FF02A93D679777"
-				"download" "EE788B395A83E7B222B35AF927BA3838"
-			}
-		}
 	}
 	"branches"
 	{
@@ -694,45 +460,10 @@
 			"buildid" "16511136"
 			"timeupdated" "1732784931"
 		}
-		"certification"
-		{
-			"buildid" "14553142"
-			"pwdrequired" "1"
-			"timeupdated" "1717579762"
-		}
-		"chunk_test"
-		{
-			"buildid" "15471651"
-			"pwdrequired" "1"
-			"timeupdated" "1724419253"
-		}
-		"disney"
-		{
-			"buildid" "14553142"
-			"pwdrequired" "1"
-			"timeupdated" "1717513078"
-		}
-		"qc_uor"
-		{
-			"buildid" "14553142"
-			"pwdrequired" "1"
-			"timeupdated" "1717147854"
-		}
-		"validation1"
-		{
-			"buildid" "16050985"
-			"pwdrequired" "1"
-			"timeupdated" "1728993894"
-		}
-		"validation2"
-		{
-			"buildid" "16511136"
-			"pwdrequired" "1"
-			"timeupdated" "1732380157"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26402351"
-"_sha" "22c44f139131d4da4bdd2b47efd99e9094701157"
-"_size" "14832"
+"_change_number" "27056971"
+"_sha" "8ba6d5ee8224efc3b553bb789d120a6e1f352a5f"
+"_size" "7714"
