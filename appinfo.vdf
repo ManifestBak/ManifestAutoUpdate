@@ -74,7 +74,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723680228"
+	"store_asset_mtime" "1737097680"
 	"associations"
 	{
 		"0"
@@ -174,7 +174,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -227,24 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "8564867302836730443"
-				"size" "11307184196"
-				"download" "10770362336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"trainzplusbeta"
-			{
-				"gid" "4F441CEC324B4A8D706336FC3784F242"
-				"size" "CCE498DA1EC202ABA5538C68EF033A11"
-				"download" "18DF21466DBE2285435A22D400D6BFC6"
-			}
-			"internal"
-			{
-				"gid" "49CA6E1AD4CC484D58222F1FD158F67F"
-				"size" "46F21B091FF24BCCF5464F5B30C2D921"
-				"download" "15E6D4F8D85891FAF779D79C118A68FD"
+				"gid" "6858410657613132405"
+				"size" "14675520039"
+				"download" "14153503808"
 			}
 		}
 	}
@@ -258,24 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "8643587177713240777"
-				"size" "11270320823"
-				"download" "10755585472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"trainzplusbeta"
-			{
-				"gid" "709D153FC7467AA1362BE1056305D26B"
-				"size" "626F2F4969AB54581C5C0D6A28E75917"
-				"download" "BA1DDCE40479EDC5F18EC8C91FD547C8"
-			}
-			"internal"
-			{
-				"gid" "B3EB43E1E63E372B19387AA85A6F7E75"
-				"size" "D94CF949C764B4856A3210407638C6C5"
-				"download" "D5145B1CCBF9292AF4C21D90C787C86E"
+				"gid" "2964128185146673257"
+				"size" "14587357051"
+				"download" "14114623008"
 			}
 		}
 	}
@@ -283,20 +253,13 @@
 	{
 		"public"
 		{
-			"buildid" "15048312"
-			"timeupdated" "1721191202"
-		}
-		"trainzplusbeta"
-		{
-			"buildid" "11753445"
-			"pwdrequired" "1"
-			"timeupdated" "1689922893"
-		}
-		"internal"
-		{
-			"buildid" "15048312"
-			"pwdrequired" "1"
-			"timeupdated" "1721126749"
+			"buildid" "16924462"
+			"timeupdated" "1737087121"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27038042"
+"_sha" "50f9c5683cd77998787acf27e71d76322133e705"
+"_size" "4535"
