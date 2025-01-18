@@ -1,0 +1,205 @@
+"appid" "1355960"
+"common"
+{
+	"name" "Casting Couch Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "402d315319559ea9f2254588139c769fc40ac733"
+	"clienttga" "0cfa6f0d09ace680be39e25e608d295cf228ba4a"
+	"icon" "c42b3e2b6d5c127afa395453905fc8c5f0b754fd"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "5"
+		"3" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "41.192302600867436"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "41.192302600867436"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1666122269"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spicy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11/10 games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1665862617"
+	"community_hub_visible" "1"
+	"gameid" "1355960"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9551"
+		"2" "4947"
+		"3" "4191"
+		"4" "9204"
+		"5" "4145"
+		"6" "4175"
+		"7" "3839"
+		"8" "1698"
+		"9" "7208"
+		"10" "4726"
+		"11" "5900"
+		"12" "1738"
+		"13" "10235"
+		"14" "1654"
+		"15" "4182"
+		"16" "4305"
+		"17" "4166"
+		"18" "19"
+		"19" "3834"
+	}
+	"review_score" "5"
+	"review_percentage" "48"
+}
+"extended"
+{
+	"developer" "Spicy"
+	"publisher" "11/10 games"
+}
+"config"
+{
+	"installdir" "Casting Couch Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CastingCouchSimulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1355961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8833794898107143543"
+				"size" "838177644"
+				"download" "243280128"
+			}
+		}
+	}
+	"1355962"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "854425912793101924"
+				"size" "848312125"
+				"download" "239900656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10644572"
+			"timeupdated" "1677516829"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "8047b5c24a9e00847622617d748b906c7b79c375"
+"_size" "3030"
