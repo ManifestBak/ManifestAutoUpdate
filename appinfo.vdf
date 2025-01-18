@@ -25,6 +25,7 @@
 	"icon" "dd0aa85e5d17fc8ecb662b42bd82efa55db34fbb"
 	"clienticon" "068be4a0c4a055a08158067aa75f30cb08c6d191"
 	"clienttga" "c908d85adef0b94b611d4d04146ea716a2936c72"
+	"restricted_countries" "DE"
 	"metacritic_name" "Draw a Stickman: EPIC"
 	"small_capsule"
 	{
@@ -34,6 +35,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_b1dfebc04d5b03c9b557a8e66b570486f8334753.jpg"
 	"store_asset_mtime" "1478113540"
 	"associations"
 	{
@@ -264,3 +266,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "460abb36ba957ff706a2e80aa00d69d5e733ea8b"
+"_size" "4391"
