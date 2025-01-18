@@ -85,6 +85,48 @@
 			"height_pct" "92.78102644780196"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "92.78102644780196"
+			}
+		}
+	}
 	"store_asset_mtime" "1711189163"
 	"associations"
 	{
@@ -165,8 +207,8 @@
 	"store_tags"
 	{
 		"0" "1628"
-		"1" "4191"
-		"2" "4182"
+		"1" "4182"
+		"2" "4191"
 		"3" "1625"
 		"4" "21"
 		"5" "7432"
@@ -186,7 +228,7 @@
 		"19" "6052"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -220,15 +262,6 @@
 				"download" "7360179680"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"rogue-qa"
-			{
-				"gid" "817D0EBCEE1B8A36A2DC8C96C7F030E0"
-				"size" "994BE492E94E7E8A8C9A767A96831D12"
-				"download" "74E831E9C6A3FEBF3A9EEC2B2C9B48A7"
-			}
-		}
 	}
 	"2402850"
 	{
@@ -241,15 +274,6 @@
 				"download" "70127696"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"rogue-qa"
-			{
-				"gid" "6159B5312AC051C5B4C9EE3BEBDE8DF3"
-				"size" "CAF25156A07BE3DC3563CCE0D0C0AC4D"
-				"download" "39EA2858B4656B23CA310403054868A1"
-			}
-		}
 		"dlcappid" "2402850"
 	}
 	"branches"
@@ -259,16 +283,15 @@
 			"buildid" "14035099"
 			"timeupdated" "1712927320"
 		}
-		"rogue-qa"
-		{
-			"buildid" "11995136"
-			"pwdrequired" "1"
-			"timeupdated" "1692644936"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "268435456"
 	"maxnumfiles" "128"
 }
+"_missing_token" "False"
+"_change_number" "26825067"
+"_sha" "ada008ba8b9d6ce4ac370e19af324a326c51a119"
+"_size" "4959"
