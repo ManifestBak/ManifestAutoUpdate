@@ -117,9 +117,9 @@
 			}
 			"beta"
 			{
-				"gid" "9089401610464406236"
-				"size" "9042738930"
-				"download" "5280209280"
+				"gid" "2480999096308683364"
+				"size" "8227910767"
+				"download" "4755682128"
 			}
 			"revision-1"
 			{
@@ -160,12 +160,6 @@
 				"size" "5D544DBE48D3C3C909C813F670D12F45"
 				"download" "54713239D57321E29A9A6DE8D2C204D9"
 			}
-			"revision-6"
-			{
-				"gid" "72382AF2FDF1F3712F4344F25F73DD56"
-				"size" "6BC9F747A830756FD1F98956329D63AB"
-				"download" "C56C65FB78AC6EB1D8ECCBA979DDCD6D"
-			}
 			"revision-7"
 			{
 				"gid" "486160D956BD98E528339B010F8EB13D"
@@ -174,9 +168,15 @@
 			}
 			"alpha"
 			{
-				"gid" "1BB64D27E2C19F44FC811CFF53606AD9"
-				"size" "F2CA379AEB736BF58FC9405B01194A67"
-				"download" "73990EE0C8B004393BED55BD13D6397C"
+				"gid" "00AAA6921A99AA618EBA155780930D66"
+				"size" "FCABD90A106B264C04C44763AC5D6F19"
+				"download" "4652A94EAB5D768AB46A8159160E4222"
+			}
+			"revision-6"
+			{
+				"gid" "9529267F8341A161F586021E60FFEA69"
+				"size" "5284A15EC316C6CE95A5357CAF5C2B74"
+				"download" "30710839595CEB70FC36980D808CBFE0"
 			}
 		}
 		"dlcappid" "1718750"
@@ -198,18 +198,24 @@
 			}
 			"beta"
 			{
-				"gid" "2920892587140667104"
-				"size" "49229312"
-				"download" "21939520"
+				"gid" "6401072873814393806"
+				"size" "49295360"
+				"download" "21932224"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "CA48C88D20C3CB7E7C01B99D9D9D272E"
-				"size" "E2ADAAA983F7BDD7811F6A83A7609EAF"
-				"download" "0D05148432A942D66CC9FF4E9E3F361F"
+				"gid" "3CD1D2882F70DBFB25C64351CF9099FA"
+				"size" "D7BD9A5DE8745A9577C4488E71374C88"
+				"download" "EE343FF9B5AD5C56A4BBB5171D9BDAE3"
+			}
+			"revision-6"
+			{
+				"gid" "5B4F9B71EF1550A9C34FAF99F8189DE6"
+				"size" "6AF26E6379D0CB7F7BC7078E557F942B"
+				"download" "B752C27FDE6DF9120ADA4EBD90176A8F"
 			}
 		}
 		"dlcappid" "1718750"
@@ -251,12 +257,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1672658088"
 		}
-		"revision-6"
-		{
-			"buildid" "13399030"
-			"pwdrequired" "1"
-			"timeupdated" "1711720909"
-		}
 		"revision-7"
 		{
 			"buildid" "11084827"
@@ -271,15 +271,15 @@
 		}
 		"alpha"
 		{
-			"buildid" "16782264"
+			"buildid" "16835238"
 			"pwdrequired" "1"
-			"timeupdated" "1734498627"
+			"timeupdated" "1734958105"
 		}
 		"beta"
 		{
-			"buildid" "16782264"
+			"buildid" "16835238"
 			"description" "SVFI Beta Test"
-			"timeupdated" "1734498617"
+			"timeupdated" "1734958091"
 		}
 		"revision-1"
 		{
@@ -287,9 +287,11 @@
 			"description" "SVFI 6.15.9"
 			"timeupdated" "1716205213"
 		}
+		"revision-6"
+		{
+			"buildid" "16834868"
+			"pwdrequired" "1"
+			"timeupdated" "1734957933"
+		}
 	}
 }
-"_missing_token" "False"
-"_change_number" "26694244"
-"_sha" "7c1220d75db2bcc71bf90f18da6e1dec8af3020a"
-"_size" "5714"
