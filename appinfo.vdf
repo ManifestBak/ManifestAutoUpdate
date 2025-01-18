@@ -239,7 +239,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -289,9 +289,15 @@
 		{
 			"public"
 			{
-				"gid" "7671327434105504227"
-				"size" "10244764745"
-				"download" "9934582704"
+				"gid" "6289111243531842371"
+				"size" "10244796408"
+				"download" "9934638624"
+			}
+			"beta_old_saves_fixes"
+			{
+				"gid" "6289111243531842371"
+				"size" "10244796408"
+				"download" "9934638624"
 			}
 		}
 	}
@@ -299,8 +305,14 @@
 	{
 		"public"
 		{
-			"buildid" "17039282"
-			"timeupdated" "1737115168"
+			"buildid" "17049562"
+			"timeupdated" "1737195125"
+		}
+		"beta_old_saves_fixes"
+		{
+			"buildid" "17049562"
+			"description" "Try this build to fix saves from Early Access."
+			"timeupdated" "1737195142"
 		}
 	}
 	"privatebranches" "1"
@@ -322,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27042222"
-"_sha" "04d97ec07c18bb3aebd2d721a68c5a20944c1f7c"
-"_size" "4955"
+"_change_number" "27054899"
+"_sha" "7189f169e165f6f74f7cc2a1320e24ab9e75afdc"
+"_size" "5247"
