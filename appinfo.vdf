@@ -65,6 +65,7 @@
 			"requires_h264" "0"
 		}
 	}
+	"metacritic_name" "Caves of Qud"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -141,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734012058"
+	"store_asset_mtime" "1736442301"
 	"associations"
 	{
 		"0"
@@ -188,6 +189,8 @@
 		}
 	}
 	"steam_release_date" "1733417754"
+	"metacritic_score" "94"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/caves-of-qud\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -202,15 +205,15 @@
 		"5" "3942"
 		"6" "4711"
 		"7" "454187"
-		"8" "1742"
-		"9" "1716"
+		"8" "1716"
+		"9" "1742"
 		"10" "122"
 		"11" "1662"
 		"12" "4166"
 		"13" "4747"
 		"14" "3964"
-		"15" "4474"
-		"16" "4026"
+		"15" "4026"
+		"16" "4474"
 		"17" "1669"
 		"18" "4182"
 		"19" "6426"
@@ -863,6 +866,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26718049"
-"_sha" "a623a0e83dd1185faee8277565c9fbc1f3567bba"
-"_size" "16318"
+"_change_number" "26927517"
+"_sha" "3c542fbd08fb8eba47c04c2e41aecd5e20536c7b"
+"_size" "16475"
