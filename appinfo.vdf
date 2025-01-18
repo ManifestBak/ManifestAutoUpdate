@@ -18,6 +18,11 @@
 	"logo_small" "2bf2553e85984181ac4fc9bfe03a93abfb2446ea_thumb"
 	"oslist" "windows"
 	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"metacritic_name" "The Haunted: Hell\'s Reach"
 	"controller_support" "full"
 	"small_capsule"
@@ -355,3 +360,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25668008"
+"_sha" "b2bb44e2d83805d71ce4dd021ed03fb24e310336"
+"_size" "5673"
