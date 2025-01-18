@@ -735,15 +735,15 @@
 		{
 			"public"
 			{
-				"gid" "4043360651179100777"
+				"gid" "8761179438578619964"
 				"size" "582745961"
-				"download" "122957920"
+				"download" "122957888"
 			}
 			"episode_beta"
 			{
-				"gid" "4043360651179100777"
+				"gid" "8761179438578619964"
 				"size" "582745961"
-				"download" "122957920"
+				"download" "122957888"
 			}
 		}
 		"encryptedmanifests"
@@ -766,15 +766,15 @@
 		{
 			"public"
 			{
-				"gid" "7950183758288618426"
-				"size" "19163975"
-				"download" "4299936"
+				"gid" "6601307321551396936"
+				"size" "19168583"
+				"download" "4314848"
 			}
 			"episode_beta"
 			{
-				"gid" "7950183758288618426"
-				"size" "19163975"
-				"download" "4299936"
+				"gid" "6601307321551396936"
+				"size" "19168583"
+				"download" "4314848"
 			}
 		}
 		"encryptedmanifests"
@@ -791,8 +791,8 @@
 	{
 		"public"
 		{
-			"buildid" "16953807"
-			"timeupdated" "1736606377"
+			"buildid" "17002092"
+			"timeupdated" "1737028614"
 		}
 		"beta"
 		{
@@ -802,9 +802,9 @@
 		}
 		"episode_beta"
 		{
-			"buildid" "16953807"
+			"buildid" "17002092"
 			"description" "CIep5"
-			"timeupdated" "1736440552"
+			"timeupdated" "1736871628"
 		}
 	}
 }
@@ -814,6 +814,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26955118"
-"_sha" "417941593324c1461ae0aaa5a93f352f5466496c"
+"_change_number" "27024209"
+"_sha" "746cd0fabd2a92531dea66b830e078cf1d580d9f"
 "_size" "14437"
