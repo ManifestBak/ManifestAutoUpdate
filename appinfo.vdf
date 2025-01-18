@@ -32,6 +32,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1567707229"
 	"associations"
 	{
@@ -161,3 +199,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25660255"
+"_sha" "5030b95a59325235ce1944df1aff348f42383b86"
+"_size" "3106"
