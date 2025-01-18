@@ -23,6 +23,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"small_capsule"
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
@@ -161,8 +162,8 @@
 		"14" "4182"
 		"15" "5577"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -278,3 +279,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26793870"
+"_sha" "a378d2bc56698a437907ce9c7422f6f2f3b5da3a"
+"_size" "4869"
