@@ -1,0 +1,120 @@
+"appid" "497960"
+"common"
+{
+	"name" "Legends of Callasia Demo"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"logo" "e10058966ae29b32f5094cf334fbe0de9086bde2"
+	"logo_small" "e10058966ae29b32f5094cf334fbe0de9086bde2_thumb"
+	"icon" "767f7c157c950fdb3cb51776ccd6594ff888b947"
+	"clienticon" "0c293463708cc76c7215f27da63e58cf1eebba77"
+	"clienttga" "9c8920b860678278e4d2d6a854a0b92a4194d42f"
+	"linuxclienticon" "9a8002bfc16521443a4d60f13cfa90ad2f34d57e"
+	"clienticns" "dcd442582f0f6c45386b3080b623b41597fa79b6"
+	"metacritic_name" "Legends of Callasia Demo"
+	"associations"
+	{
+	}
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "497960"
+}
+"extended"
+{
+	"demoofappid" "438920"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Legends of Callasia Demo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LegendsOfCallasia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "LegendsOfCallasia.app\\Contents\\MacOS\\LegendsOfCallasia"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"438921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "357450326251784074"
+				"size" "288086339"
+				"download" "257919920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "6AF46B82791B5BA9E03E378192185371"
+				"size" "C704F96FB53B908B402F5308900005BB"
+				"download" "0D9EA25E665125A2FEA25F5897B17961"
+			}
+		}
+		"depotfromapp" "438920"
+	}
+	"438922"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7216515246045350376"
+				"size" "468227113"
+				"download" "438209600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "5525707840E49DA27B075B5EEE97B5AB"
+				"size" "681A350A8C04666D317557DD2CE94393"
+				"download" "8BEA657F4DC60B5E4AB7B4B795A9FA20"
+			}
+		}
+		"depotfromapp" "438920"
+	}
+	"branches"
+	{
+		"internal"
+		{
+			"buildid" "7967183"
+			"pwdrequired" "1"
+			"timeupdated" "1641267041"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26583711"
+"_sha" "decc18db4525b7737ed2b5aa52c8f141f80f075b"
+"_size" "2185"
