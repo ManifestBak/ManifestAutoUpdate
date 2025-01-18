@@ -40,6 +40,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.126021003500625"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1609754159"
 	"associations"
 	{
@@ -294,21 +332,6 @@
 				"download" "4258770016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E06AEAAC475CA49F1E602DD1B1010443"
-				"size" "FA9F8C201DB448E685FF0AFB938784D7"
-				"download" "9F9DC200410B69CB1FCD441104E51EA6"
-			}
-			"dyprologueprivatebranch"
-			{
-				"gid" "A5B4AEB1C349EB831B7BE197E787C324"
-				"size" "A1208BF524F041D77F8C3ABDD332DAA4"
-				"download" "827CA104D03CA5CAEF81DB6F742C7046"
-			}
-		}
 		"depotfromapp" "973000"
 	}
 	"branches"
@@ -336,12 +359,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1585322104"
 		}
-		"dyprologueprivatebranch"
-		{
-			"buildid" "4339866"
-			"pwdrequired" "1"
-			"timeupdated" "1572441702"
-		}
 	}
 }
 "ufs"
@@ -351,3 +368,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "cdcd848fe01a632df5cf1fadaecd10bb29c4624e"
+"_size" "6095"
