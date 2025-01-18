@@ -93,7 +93,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733299207"
+	"store_asset_mtime" "1736424029"
 	"associations"
 	{
 		"0"
@@ -113,7 +113,6 @@
 		"0" "23"
 		"1" "28"
 		"2" "18"
-		"3" "70"
 	}
 	"category"
 	{
@@ -135,7 +134,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1638435633"
+	"steam_release_date" "1736946369"
 	"community_hub_visible" "1"
 	"gameid" "1549850"
 	"onlyvrsupport" "1"
@@ -153,14 +152,14 @@
 		"9" "4175"
 		"10" "1774"
 		"11" "1685"
-		"12" "4835"
-		"13" "3839"
+		"12" "3839"
+		"13" "4835"
 		"14" "30358"
 		"15" "5900"
-		"16" "493"
-		"17" "1654"
-		"18" "3834"
-		"19" "4191"
+		"16" "1654"
+		"17" "3834"
+		"18" "4191"
+		"19" "493"
 	}
 	"review_score" "6"
 	"review_percentage" "75"
@@ -192,30 +191,15 @@
 		{
 			"public"
 			{
-				"gid" "4350526925704348135"
-				"size" "15837654813"
-				"download" "5650350768"
+				"gid" "750245209789407312"
+				"size" "15644024701"
+				"download" "5606558720"
 			}
 			"beta"
 			{
-				"gid" "4350526925704348135"
-				"size" "15837654813"
-				"download" "5650350768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "22B464ADBB5664969F51AFE75439DE44"
-				"size" "4ECD9B9440BE6D947E6E8C25AB1957FC"
-				"download" "C8D8B94D7DD867D491C8631A2EAE2BC0"
-			}
-			"private_beta"
-			{
-				"gid" "430AF794D5DE18E834495BCEA70E5231"
-				"size" "2867BBC18E367E7BC9B99C3BE326FA37"
-				"download" "E5AADCEFF70C64B68514D8918697D1FC"
+				"gid" "750245209789407312"
+				"size" "15644024701"
+				"download" "5606558720"
 			}
 		}
 	}
@@ -223,28 +207,17 @@
 	{
 		"public"
 		{
-			"buildid" "16705951"
-			"timeupdated" "1733917956"
+			"buildid" "17000467"
+			"timeupdated" "1736946280"
 		}
 		"beta"
 		{
-			"buildid" "16705951"
+			"buildid" "17000467"
 			"description" "Patches for testing"
-			"timeupdated" "1733917709"
-		}
-		"developer"
-		{
-			"buildid" "16705951"
-			"pwdrequired" "1"
-			"timeupdated" "1733913041"
-		}
-		"private_beta"
-		{
-			"buildid" "16705951"
-			"pwdrequired" "1"
-			"timeupdated" "1733917652"
+			"timeupdated" "1736946224"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -265,6 +238,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26592230"
-"_sha" "ba0f431a347840ece967be1cf1cdc41f0ab896b4"
-"_size" "4405"
+"_change_number" "27038663"
+"_sha" "8f07edbbff9ceaef435838b96e62668c9c1a2d79"
+"_size" "3813"
