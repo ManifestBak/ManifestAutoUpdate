@@ -3,9 +3,9 @@
 {
 	"name" "Reus 2"
 	"type" "Game"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64"
 	"clienttga" "7d9c87157f50a5ae8d3b652874ed6c22f2e4d475"
 	"clienticon" "c6b712b2736a393c6e6e42311266983d017e2af9"
 	"icon" "a7da96e540ed0afeaaed809f4fbb0746f34b81c1"
@@ -316,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "5213723837842059704"
-				"size" "6353295815"
-				"download" "962199936"
+				"gid" "1434041433017501882"
+				"size" "6353338889"
+				"download" "962213728"
 			}
 		}
 	}
@@ -333,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "8017615795407597119"
-				"size" "6378774773"
-				"download" "970300128"
+				"gid" "6826832584111015429"
+				"size" "6378786105"
+				"download" "970297952"
 			}
 		}
 	}
@@ -356,8 +356,8 @@
 	{
 		"public"
 		{
-			"buildid" "17027670"
-			"timeupdated" "1737038952"
+			"buildid" "17045218"
+			"timeupdated" "1737149766"
 		}
 	}
 	"privatebranches" "1"
@@ -422,6 +422,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27027675"
-"_sha" "d1507f461d8350008e816c6f950af5d2a1b10452"
-"_size" "7751"
+"_change_number" "27049643"
+"_sha" "5dfabee49768f93b456a75092718ff64ad842139"
+"_size" "7764"
