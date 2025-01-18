@@ -20,6 +20,9 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "392990"
+	"store_tags"
+	{
+	}
 }
 "extended"
 {
@@ -116,9 +119,9 @@
 		{
 			"public"
 			{
-				"gid" "3717393885908262201"
-				"size" "12812242634"
-				"download" "9298096992"
+				"gid" "8303956173610181847"
+				"size" "12349955304"
+				"download" "8986551280"
 			}
 		}
 		"encryptedmanifests"
@@ -135,8 +138,8 @@
 	{
 		"public"
 		{
-			"buildid" "16910891"
-			"timeupdated" "1736163378"
+			"buildid" "17018134"
+			"timeupdated" "1736976097"
 		}
 		"biggysmalls"
 		{
