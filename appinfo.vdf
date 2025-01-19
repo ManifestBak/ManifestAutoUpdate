@@ -1,0 +1,242 @@
+"appid" "865810"
+"common"
+{
+	"name" "Waifu Fight Dango Style"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "615490cbf48343986f334fb45bc248c94b654ef4"
+	"logo" "c2335b12059cb0a995282c91583d73c7540a0606"
+	"logo_small" "c2335b12059cb0a995282c91583d73c7540a0606_thumb"
+	"clienttga" "76facdaa8143e064fb4c31afc5bdd01794406ac8"
+	"clienticon" "dd0cb568778792be082a839a65c35dd9eb90869a"
+	"releasestate" "released"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "5"
+		"3" "4"
+	}
+	"restricted_countries" "CN,DE"
+	"metacritic_name" "Waifu Fight Dango Style"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "43.94592884034422"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "43.94592884034422"
+			}
+		}
+	}
+	"store_asset_mtime" "1648607137"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Enso Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Enso Entertainment"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_37" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647749212"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "865810"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "19"
+		"3" "492"
+		"4" "597"
+		"5" "9"
+		"6" "4085"
+		"7" "1773"
+		"8" "1742"
+		"9" "1756"
+		"10" "4004"
+		"11" "1664"
+		"12" "1719"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Enso Entertainment"
+	"publisher" "Enso Entertainment"
+	"homepage" "https://waifufightdangostyle.com/"
+}
+"config"
+{
+	"installdir" "WFDS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WaifuTest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "WaifuFightPreBeta.app\\Contents\\MacOS\\WaifuFightPreBeta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"865811"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2754583953600696640"
+				"size" "3517"
+				"download" "2512"
+			}
+		}
+	}
+	"865812"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7152112375789281311"
+				"size" "7613090018"
+				"download" "856129616"
+			}
+		}
+	}
+	"865813"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5816417441668092488"
+				"size" "4560839353"
+				"download" "225886704"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11924759"
+			"timeupdated" "1691787083"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "8e9424c48a3b5a005bbaea3d900c91277e9fd40b"
+"_size" "3783"
