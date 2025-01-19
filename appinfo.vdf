@@ -154,8 +154,8 @@
 		"3" "3987"
 		"4" "4994"
 		"5" "1741"
-		"6" "492"
-		"7" "4150"
+		"6" "4150"
+		"7" "492"
 		"8" "17770"
 	}
 	"review_score" "8"
@@ -166,7 +166,7 @@
 	"developer" "Avalon Digital"
 	"publisher" "Avalon Digital"
 	"homepage" "https://carrier-battles.com"
-	"listofdlc" "1485330,1633240,1850630,2384450,3030330"
+	"listofdlc" "1485330,1633240,1850630,2384450,3030330,3377280"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -208,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "911711527541881440"
-				"size" "316103499"
-				"download" "178692912"
+				"gid" "4761596731063703289"
+				"size" "309704188"
+				"download" "162163232"
 			}
 			"beta"
 			{
@@ -231,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "4488162140712804976"
-				"size" "309310773"
-				"download" "176662960"
+				"gid" "6649161874860576282"
+				"size" "292221528"
+				"download" "158217904"
 			}
 			"beta"
 			{
@@ -270,8 +270,8 @@
 	{
 		"public"
 		{
-			"buildid" "16962906"
-			"timeupdated" "1736503920"
+			"buildid" "17042380"
+			"timeupdated" "1737130913"
 		}
 		"beta"
 		{
@@ -283,6 +283,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26939144"
-"_sha" "04721c317003a5354518af2e29e141a8eb09d0a1"
-"_size" "4839"
+"_change_number" "27045570"
+"_sha" "00bc9edf0f3641f27c2e6bde7807de372f09463e"
+"_size" "4848"
