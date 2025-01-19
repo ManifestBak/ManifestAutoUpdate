@@ -11,6 +11,10 @@
 	"logo_small" "9100dbfc895bb362b07bbbc1528676895288bbbe_thumb"
 	"oslist" "windows"
 	"osarch" "64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -173,8 +177,8 @@
 	"gameid" "673130"
 	"store_tags"
 	{
-		"0" "1023537"
-		"1" "3916"
+		"0" "3916"
+		"1" "1023537"
 		"2" "5547"
 		"3" "1663"
 		"4" "3942"
@@ -350,21 +354,6 @@
 				"download" "4586548096"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "CC0E17B9714B29DD3B5DED3415176FC9"
-				"size" "A36BF19F54C02CD825311F69602A0233"
-				"download" "9AFF6F819865B740AEB9618C11340781"
-			}
-			"press"
-			{
-				"gid" "4E50E5AE961C9C1FCC2FA4EE46AEED66"
-				"size" "BB9D351BCAAB161C3CF1C85F95549710"
-				"download" "902CD1C3077C399F3AD29F2E99F71B72"
-			}
-		}
 	}
 	"673132"
 	{
@@ -380,21 +369,6 @@
 				"gid" "7245561293049415179"
 				"size" "5325067477"
 				"download" "4711941824"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "7032E1BCEFF2040ACBC953953B2C3584"
-				"size" "1F69DA99F1C0553D93C4FA0F5E7A7467"
-				"download" "9BCA938B8B8B5900FD4336EB6725A836"
-			}
-			"press"
-			{
-				"gid" "D535EB4F2A8EB736A7C05AAE006E19DA"
-				"size" "991D019760E2C12BE99897E6C293886E"
-				"download" "9B089ADC07C5255AE1430D99B47773C2"
 			}
 		}
 	}
@@ -422,21 +396,6 @@
 				"download" "3752245040"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "FDB2B3EE154B3306B2167AB7F0309C04"
-				"size" "D2966AB88EDD927DDEDCF6652DC9801B"
-				"download" "20DC87B6FE6807DA7EEEE3CCD66160B4"
-			}
-			"press"
-			{
-				"gid" "F853C901F4DF5A376D98FF7B7396E5CF"
-				"size" "04084017599614E877BBD8F20858F6CD"
-				"download" "9E7770F18B298B542EBCAF315891736F"
-			}
-		}
 	}
 	"1852860"
 	{
@@ -455,21 +414,6 @@
 				"download" "2967954672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "31D7BD25BBAE52F386495FE905662936"
-				"size" "E70B722DA18126CB1C3008C7D7DE7624"
-				"download" "945A0420DC438B27CDD33A59E1ADEE02"
-			}
-			"press"
-			{
-				"gid" "9466399B7D24B5DAB8A762BDBB594ABC"
-				"size" "9FC8F83C0D0169FE76B1FA80CEE345A7"
-				"download" "3EDBE06F2DCFA29281092E5936A0E3E7"
-			}
-		}
 	}
 	"branches"
 	{
@@ -478,18 +422,6 @@
 			"buildid" "13530103"
 			"timeupdated" "1708623839"
 		}
-		"development"
-		{
-			"buildid" "13530103"
-			"pwdrequired" "1"
-			"timeupdated" "1708599576"
-		}
-		"press"
-		{
-			"buildid" "11970472"
-			"pwdrequired" "1"
-			"timeupdated" "1692321887"
-		}
 		"previousver"
 		{
 			"buildid" "4764407"
@@ -497,6 +429,7 @@
 			"timeupdated" "1583891877"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -519,3 +452,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26999873"
+"_sha" "61bb0973f8ee5afb746c761b2181f87a354f0e25"
+"_size" "7970"
