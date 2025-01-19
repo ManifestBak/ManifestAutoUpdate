@@ -16,8 +16,8 @@
 	{
 		"0" "1"
 		"1" "3"
-		"2" "5"
-		"3" "4"
+		"2" "4"
+		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
 	"small_capsule"
@@ -121,6 +121,10 @@
 		{
 			"supported" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1641574441"
 	"community_visible_stats" "1"
@@ -179,9 +183,9 @@
 		{
 			"public"
 			{
-				"gid" "3139007306678737129"
-				"size" "507698663"
-				"download" "255820128"
+				"gid" "4476340248262829232"
+				"size" "513509619"
+				"download" "258495136"
 			}
 		}
 	}
@@ -202,8 +206,12 @@
 	{
 		"public"
 		{
-			"buildid" "13051590"
-			"timeupdated" "1703675201"
+			"buildid" "17052523"
+			"timeupdated" "1737238751"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27059348"
+"_sha" "757b8cfb33e4873a4f66d1266bbdbda8e35efc5c"
+"_size" "3349"
