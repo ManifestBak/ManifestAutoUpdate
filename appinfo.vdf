@@ -22,6 +22,7 @@
 		"schinese" "1"
 		"tchinese" "1"
 		"russian" "1"
+		"japanese" "1"
 		"portuguese" "1"
 		"brazilian" "1"
 		"latam" "1"
@@ -100,8 +101,46 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "40.09497390568681"
-			"height_pct" "50.234999604211204"
+			"width_pct" "22.286964255116956"
+			"height_pct" "101.24051053140103"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.286964255116956"
+				"height_pct" "101.24051053140103"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1696948066"
@@ -186,6 +225,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1696953259"
 	"community_visible_stats" "1"
@@ -194,8 +238,8 @@
 	"store_tags"
 	{
 		"0" "4853"
-		"1" "4434"
-		"2" "1742"
+		"1" "1742"
+		"2" "4434"
 		"3" "6426"
 		"4" "4168"
 		"5" "4085"
@@ -222,6 +266,8 @@
 	"developer" "This I Dreamt"
 	"publisher" "Serenity Forge"
 	"homepage" "http://www.longgonedays.com/"
+	"listofdlc" "514000"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -265,36 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "6407977048860371717"
-				"size" "2646105423"
-				"download" "531583872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "BAA8E10EEC2D27F4036BE87EF44B62E5"
-				"size" "A5DE1E9D1C118271957127C01936DFF9"
-				"download" "001C70A98F301DEC0E2DBC03CA467D24"
-			}
-			"flux2"
-			{
-				"gid" "91ABEE4ECA1974627AA3392E3411D0D0"
-				"size" "2A07437328ACEB75B112ACB9398BA78E"
-				"download" "80FB3B378C98C65B9473085C160DA5BD"
-			}
-			"plight"
-			{
-				"gid" "320FBC97A3BA451C27ED28433EE07AF7"
-				"size" "ACE1EB1AB776671AF0EB066BF9E332D4"
-				"download" "6D747119DD8A02AFBB9DAB5E4AB8365C"
-			}
-			"prerelease"
-			{
-				"gid" "00A4578CBAB237D5932DA9AAA6EDC017"
-				"size" "817C8E8301642D8D8A371F24D82E6103"
-				"download" "BB1E85E68A2764A9F7659A4B0CA5E8E3"
+				"gid" "2809099705184459785"
+				"size" "2578787687"
+				"download" "454034608"
 			}
 		}
 	}
@@ -313,66 +332,16 @@
 				"download" "530740768"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "EE3CAAC4DDED205FD873D2EBE1AC5376"
-				"size" "1720026CDD35CB515D83711F5A91C826"
-				"download" "1720026CDD35CB515D83711F5A91C826"
-			}
-			"flux2"
-			{
-				"gid" "0628F7CDB031443EA44C6F48220E7943"
-				"size" "C1CB155AC5E408DBB43340D5BD82385D"
-				"download" "C1CB155AC5E408DBB43340D5BD82385D"
-			}
-			"plight"
-			{
-				"gid" "A723A2994965BDAA65529374C846B401"
-				"size" "63CB5020F7C917CA16AA94015B4B5024"
-				"download" "63CB5020F7C917CA16AA94015B4B5024"
-			}
-			"prerelease"
-			{
-				"gid" "1EB72C388EBA1FC524C5850E98FEE8D7"
-				"size" "E51D9F7F8BFA03CE348248092CF70937"
-				"download" "26C8AFF899444B6BE63CA15A8A975D85"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13316501"
-			"timeupdated" "1706642342"
-		}
-		"demo"
-		{
-			"buildid" "12093801"
-			"pwdrequired" "1"
-			"timeupdated" "1693619770"
-		}
-		"flux2"
-		{
-			"buildid" "12385754"
-			"pwdrequired" "1"
-			"timeupdated" "1696746690"
-		}
-		"plight"
-		{
-			"buildid" "12385754"
-			"pwdrequired" "1"
-			"timeupdated" "1696746766"
-		}
-		"prerelease"
-		{
-			"buildid" "12405053"
-			"pwdrequired" "1"
-			"timeupdated" "1696953421"
+			"buildid" "16776093"
+			"timeupdated" "1736953084"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -421,3 +390,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27015184"
+"_sha" "f0026059f54577d6a068fdb4a7858a5f66860c72"
+"_size" "6846"
