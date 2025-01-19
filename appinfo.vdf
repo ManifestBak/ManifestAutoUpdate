@@ -1,0 +1,342 @@
+"appid" "864160"
+"common"
+{
+	"name" "BE-A Walker"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "975b33423eb38ae96426fa2d6a79bb6267a47b67"
+	"logo_small" "975b33423eb38ae96426fa2d6a79bb6267a47b67_thumb"
+	"icon" "e90808fe0686b5f5d896612c89a3d340329aa568"
+	"clienticon" "3ee31c047be9bbbc6d4d88517dfa175a9dad43a2"
+	"clienttga" "c3639a2694fdff7707d70052cfa1dde04b80bbc2"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650672000"
+		"tested_build_id" "5063958"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "BE-A Walker"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "53.383204177828475"
+			"height_pct" "90.2777777777778"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "53.383204177828475"
+				"height_pct" "90.2777777777778"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1684159352"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tequilabyte Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Games Operators"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1588834800"
+	"steam_release_date" "1588860031"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "864160"
+	"store_tags"
+	{
+		"0" "4255"
+		"1" "4026"
+		"2" "13782"
+		"3" "4821"
+		"4" "4106"
+		"5" "1774"
+		"6" "1678"
+		"7" "1662"
+		"8" "4975"
+		"9" "5851"
+		"10" "1742"
+		"11" "3835"
+		"12" "6426"
+		"13" "3854"
+		"14" "19"
+		"15" "599"
+		"16" "4195"
+		"17" "4305"
+		"18" "6815"
+		"19" "620519"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Tequilabyte Studio"
+	"publisher" "Games Operators"
+	"homepage" "http://tequilabyte.com"
+}
+"config"
+{
+	"installdir" "BE-A Walker"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Walker.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "walker.x86_64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "walker.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"864161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7808242212223409386"
+				"size" "537895968"
+				"download" "250832624"
+			}
+		}
+	}
+	"864162"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "117338300531986159"
+				"size" "545828057"
+				"download" "253409440"
+			}
+		}
+	}
+	"864163"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1982716284116398222"
+				"size" "543222571"
+				"download" "252935120"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5063958"
+			"timeupdated" "1590163630"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "33554532"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Profile"
+			"pattern" "*.data"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "b2ea2a3b023dcc8b766be2934dc1be49a70cc9dd"
+"_size" "5673"
