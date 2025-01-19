@@ -1,0 +1,181 @@
+"appid" "687890"
+"common"
+{
+	"name" "Runaway VR"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"linuxclienticon" "aeb42309a5192ec5a82a5a0ed004c334ac14ffbc"
+	"clienticon" "365ecf8fea60c523003d21a3e5fc26b3038a3a43"
+	"clienttga" "cd931701e77b3e46ad368e7a2c10db51fdf8fee0"
+	"icon" "455760fc128000206e1665c25491f9362e412ffc"
+	"logo" "6e1b399a59e5f7ebd5859870e24d9f3203a8fa81"
+	"logo_small" "6e1b399a59e5f7ebd5859870e24d9f3203a8fa81_thumb"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"openvrsupport" "1"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1710547200"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Runaway VR"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_e1fc2ff38a9d744acebda269c83caa92dd1790ec.jpg"
+	"store_asset_mtime" "1501175838"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Panoramik Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Panoramik Inc"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_52" "1"
+		"category_54" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1501830000"
+	"steam_release_date" "1501858002"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "687890"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "492"
+		"3" "597"
+		"4" "4036"
+		"5" "4182"
+		"6" "21978"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Panoramik Inc"
+	"publisher" "Panoramik Inc"
+	"homepage" "https://www.facebook.com/PanoramikVR/"
+}
+"config"
+{
+	"installdir" "Runaway VR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Runaway VR.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"687891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "251279343082554952"
+				"size" "210013716"
+				"download" "89386496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2061671"
+			"timeupdated" "1503497615"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "905047fd62d04b275c6db47ab9fa2b53cb34f301"
+"_size" "3241"
