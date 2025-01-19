@@ -21,6 +21,16 @@
 		"schinese" "1"
 		"tchinese" "1"
 	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2594290_eula_0"
+			"name" "Warlords Battle Simulator EULA"
+			"url" "https://store.steampowered.com//eula/2594290_eula_0"
+			"version" "1"
+		}
+	}
 	"aicontenttype" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -186,14 +196,14 @@
 		"12" "4191"
 		"13" "1684"
 		"14" "4136"
-		"15" "454187"
-		"16" "5711"
+		"15" "5711"
+		"16" "454187"
 		"17" "9"
 		"18" "599"
 		"19" "3993"
 	}
-	"review_score" "7"
-	"review_percentage" "84"
+	"review_score" "6"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -226,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "8849858945721503109"
-				"size" "2158630263"
-				"download" "611634880"
+				"gid" "1753287420202356459"
+				"size" "2172013528"
+				"download" "615275920"
 			}
 		}
 	}
@@ -236,12 +246,12 @@
 	{
 		"public"
 		{
-			"buildid" "16325007"
-			"timeupdated" "1730970199"
+			"buildid" "16912785"
+			"timeupdated" "1736115416"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26216585"
-"_sha" "b4a2acbbd93e38ad4f743621824051e1132eb609"
-"_size" "4449"
+"_change_number" "26971105"
+"_sha" "95934b1fc567d3158ab34d222f40c0888bf225f3"
+"_size" "4640"
