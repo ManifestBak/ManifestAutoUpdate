@@ -28,6 +28,7 @@
 	"clienticon" "f521082b89b14c5b9ec02cfab58bba54ed91c602"
 	"clienttga" "d09ab19cf1769110e1bf0b66cf2c5b2c1d10df89"
 	"icon" "b5e5755befdacdfb01a308dcb710cd022d6d85b9"
+	"restricted_countries" "DE"
 	"metacritic_name" "Tiny Town VR"
 	"small_capsule"
 	{
@@ -37,6 +38,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_4286da5b930127a7fdfdde493fca16abcb1aa718.jpg"
 	"store_asset_mtime" "1501442146"
 	"associations"
 	{
@@ -86,13 +88,13 @@
 		"3" "4328"
 		"4" "597"
 		"5" "21978"
-		"6" "4136"
-		"7" "5300"
+		"6" "5300"
+		"7" "4136"
 		"8" "1643"
 		"9" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -139,15 +141,6 @@
 				"download" "670767328"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "DFDB7623AA0A82AD31719BC6BA13389C"
-				"size" "28F81A126E07ECFD5ED56BF55A0FA07E"
-				"download" "9FDFCC5BCD1C0ADD44B6B9BFD5991CF0"
-			}
-		}
 	}
 	"885071"
 	{
@@ -158,15 +151,6 @@
 				"gid" "2175170737769915241"
 				"size" "9316946"
 				"download" "9444400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "F0AC94552655EC84B032A4CE3B02A39F"
-				"size" "310D02C9DB0B23DE898EDC1B6F228C37"
-				"download" "8524BF17008FFB5AD270C599927963F1"
 			}
 		}
 		"dlcappid" "885071"
@@ -180,15 +164,6 @@
 				"gid" "6897530295272713260"
 				"size" "2465820"
 				"download" "2499568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "012D8454A103DAEBE3E7840C53051D35"
-				"size" "6B3F135E61B43A66FF574D6B5FD61BE9"
-				"download" "9D803640F5BE40E0043BCA6FEF24B3F0"
 			}
 		}
 		"dlcappid" "885070"
@@ -206,13 +181,8 @@
 			"description" "Public beta branch"
 			"timeupdated" "1532999327"
 		}
-		"private"
-		{
-			"buildid" "2992926"
-			"pwdrequired" "1"
-			"timeupdated" "1533050044"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -221,3 +191,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27001591"
+"_sha" "e966996ce1c9828b70c9494dcac553093acb86c6"
+"_size" "3184"
