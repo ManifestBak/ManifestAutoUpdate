@@ -1,0 +1,125 @@
+"appid" "869810"
+"common"
+{
+	"name" "Jabroni Brawl: Episode 3 - Authoring Tools"
+	"type" "Tool"
+	"parent" "869480"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "89d9eefc7cb121b7f3c49e7965498922c0ec807e"
+	"logo" "ffd7f84daddd27a78c9fc62b78f8423e2afe01c1"
+	"logo_small" "ffd7f84daddd27a78c9fc62b78f8423e2afe01c1_thumb"
+	"icon" "7f8ece8f6ede732e90654de9e2cc95698103a565"
+	"name_localized"
+	{
+		"schinese" "傻缺大乱斗：第三章 - 创作工具"
+		"russian" "Jabroni Brawl: Episode 3 - Авторский Инструментарий"
+		"tchinese" "傻樂大亂鬥：三部曲 - 製作工具"
+		"danish" "Jabroni Brawl: Episode 3 - Authoring Redskaber"
+	}
+	"clienticon" "77d525c3ffc23105d358f3b5e6345b9d19585a28"
+	"associations"
+	{
+	}
+	"gameid" "869810"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Jabroni Brawl Episode 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win32\\sdklauncher.exe"
+			"arguments" "-game jbep3"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "SDK launcher"
+			}
+			"description" "SDK launcher"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"869811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8250057453694136275"
+				"size" "62448256"
+				"download" "19206016"
+			}
+			"revert"
+			{
+				"gid" "3015630368421035921"
+				"size" "59935433"
+				"download" "18509008"
+			}
+			"upcoming"
+			{
+				"gid" "8250057453694136275"
+				"size" "62448256"
+				"download" "19206016"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16775644"
+			"timeupdated" "1734454888"
+		}
+		"revert"
+		{
+			"buildid" "15170412"
+			"description" "Previous patch"
+			"timeupdated" "1724513704"
+		}
+		"upcoming"
+		{
+			"buildid" "16775644"
+			"description" "Upcoming changes"
+			"timeupdated" "1734452883"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "ba8fdd34cf573722d4730d7b0934e804d61511ec"
+"_size" "2298"
