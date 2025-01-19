@@ -1,0 +1,495 @@
+"appid" "1699480"
+"common"
+{
+	"name" "KLETKA"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "eba40d34985c883ed66d6f229620d2b90befd4b8"
+	"name_localized"
+	{
+		"russian" "КЛЕТЬ"
+		"schinese" "笼子"
+		"ukrainian" "КЛIТЬ"
+		"tchinese" "籠子"
+		"koreana" "클레트카 - KLETKA"
+		"japanese" "人喰ノ檻 - KLETKA"
+	}
+	"icon" "d8d61945f9202269514c4a5aec2f8b49309cf44d"
+	"clienticon" "14a38b622e1d38e76820552e6dc4d8d7d54da70a"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"schinese" "ddb76a37500b44d157280358533b381dca96213d/capsule_231x87_schinese.jpg"
+		"tchinese" "0977393efe238474d8f4b9f72cde9097d2d94716/capsule_231x87_tchinese.jpg"
+		"koreana" "67083ab071183921404b68899462b82d923916af/capsule_231x87_koreana.jpg"
+		"japanese" "717aa9b16e01d239519a47a4c05684ca2d991376/capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ru,en,zh-cn,zh-tw,ko,ja"
+		"library_hero" "en"
+		"library_logo" "ru,en,zh-cn,zh-tw,ko,ja"
+		"library_header" "en,ru,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.009334889148164"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"russian" "library_600x900_russian.jpg"
+				"english" "library_600x900.jpg"
+				"schinese" "23852561c3036cc8b666cf684b6ee7c71c2216d1/library_600x900_schinese.jpg"
+				"tchinese" "8f2c00de0010b911c51b4963111bae2d8c826e41/library_600x900_tchinese.jpg"
+				"koreana" "374c1ab306d86c5ea739f89c5f06d45963968765/library_600x900_koreana.jpg"
+				"japanese" "a2eb8bf061a2058b7de81b012b5a3347c91e29dc/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"russian" "library_600x900_russian_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"schinese" "23852561c3036cc8b666cf684b6ee7c71c2216d1/library_600x900_schinese_2x.jpg"
+				"tchinese" "8f2c00de0010b911c51b4963111bae2d8c826e41/library_600x900_tchinese_2x.jpg"
+				"koreana" "374c1ab306d86c5ea739f89c5f06d45963968765/library_600x900_koreana_2x.jpg"
+				"japanese" "a2eb8bf061a2058b7de81b012b5a3347c91e29dc/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.009334889148164"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"russian" "logo_russian.png"
+				"english" "logo.png"
+				"schinese" "6383ffa6ce43df18320b92003d4ad05ce706198f/logo_schinese.png"
+				"tchinese" "716b92f7bd9a696d128b665cb28b908c6a7ca981/logo_tchinese.png"
+				"koreana" "1e5c23e96d5e9f47ecfe0dceb5f18b756c23e0fa/logo_koreana.png"
+				"japanese" "716b92f7bd9a696d128b665cb28b908c6a7ca981/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"russian" "logo_russian_2x.png"
+				"english" "logo_2x.png"
+				"schinese" "6383ffa6ce43df18320b92003d4ad05ce706198f/logo_schinese_2x.png"
+				"tchinese" "716b92f7bd9a696d128b665cb28b908c6a7ca981/logo_tchinese_2x.png"
+				"koreana" "1e5c23e96d5e9f47ecfe0dceb5f18b756c23e0fa/logo_koreana_2x.png"
+				"japanese" "716b92f7bd9a696d128b665cb28b908c6a7ca981/logo_japanese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"russian" "library_header_russian.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736851153"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Callback"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "ln404"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Callback"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "ln404"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_18" "1"
+		"category_25" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1734112811"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1699480"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "1685"
+		"2" "3839"
+		"3" "3843"
+		"4" "19"
+		"5" "6730"
+		"6" "21"
+		"7" "4106"
+		"8" "1716"
+		"9" "1720"
+		"10" "42804"
+		"11" "4191"
+		"12" "3959"
+		"13" "3964"
+		"14" "4166"
+		"15" "4342"
+		"16" "4598"
+		"17" "5716"
+		"18" "3916"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Callback"
+	"publisher" "Callback"
+}
+"config"
+{
+	"installdir" "KLETKA"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KLETKA.exe"
+			"arguments" "-dx12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 12"
+			}
+			"description" "DirectX 12"
+		}
+		"1"
+		{
+			"executable" "KLETKA.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 11"
+			}
+			"description" "DirectX 11"
+		}
+		"2"
+		{
+			"executable" "KLETKA.exe"
+			"arguments" "-vulkan"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Vulkan"
+			}
+			"description" "Vulkan"
+		}
+		"3"
+		{
+			"executable" "KLETKA.sh"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian"
+	"workshopdepot" "1699480"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1699481"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4136056667590454258"
+				"size" "1330100389"
+				"download" "970650000"
+			}
+			"beta-test"
+			{
+				"gid" "3148758631334820948"
+				"size" "1337941658"
+				"download" "978304592"
+			}
+		}
+	}
+	"1699482"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7023731739384390577"
+				"size" "3071826291"
+				"download" "1083667008"
+			}
+			"beta-test"
+			{
+				"gid" "5361935299328129925"
+				"size" "3082833835"
+				"download" "1091248560"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16965545"
+			"timeupdated" "1736519053"
+		}
+		"beta-test"
+		{
+			"buildid" "17052407"
+			"description" "For beta testers"
+			"timeupdated" "1737234895"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "8000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "KLETKA/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KLETKA/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "Epic/KLETKA/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27062045"
+"_sha" "756d146e615bc5f88c88b9025470c1e64f06ca62"
+"_size" "9368"
