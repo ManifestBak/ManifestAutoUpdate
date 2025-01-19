@@ -11,6 +11,7 @@
 	"logo_small" "d4aa0908259abea081f4a89c24098d934e673c72_thumb"
 	"clienticon" "3d61744ccaa945ac1da53f37f997aecf7d9297a5"
 	"clienttga" "96d1e3b753a53ae5ca3536c754c3b7d7508516b0"
+	"restricted_countries" "DE"
 	"metacritic_name" "Soul Smith of the Kingdom"
 	"small_capsule"
 	{
@@ -193,15 +194,6 @@
 				"download" "204443776"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "680046BB05A44F33D08D231240611733"
-				"size" "BA567B34338B15BD2294BB57A4F491B5"
-				"download" "208CA69A61740C908DBD94FDF8F788D6"
-			}
-		}
 	}
 	"817662"
 	{
@@ -217,15 +209,6 @@
 				"gid" "9087281193547705559"
 				"size" "288199298"
 				"download" "203244320"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "2602A366A0F9F726D3C5B029DF9B72E9"
-				"size" "86E2141E51F1A2D58BC6ECBAFBE70F8E"
-				"download" "5F35665615BF66883DD547332EA1FC97"
 			}
 		}
 	}
@@ -245,15 +228,6 @@
 				"download" "196562288"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "29B46511514717B7515EE347D0541DF8"
-				"size" "FDB4C2FE76F09E8C08DEFEE004BB0979"
-				"download" "99F74A13EC1C30B6E9973CD87C5E28A0"
-			}
-		}
 	}
 	"817664"
 	{
@@ -271,15 +245,6 @@
 				"download" "202286960"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "1EDE07C216E92CF112A1EE7DB19DB38E"
-				"size" "F484613E007C7BDC520AA38821BD2A37"
-				"download" "CCE9E378570F2941357F20B6FE0908C8"
-			}
-		}
 	}
 	"837060"
 	{
@@ -293,15 +258,6 @@
 				"download" "48113120"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "98106DD686266C3A4851BA88336FBF17"
-				"size" "6AC69A59B1D260C031F7BB7ABEC9000E"
-				"download" "D3C55A9035B5D4EDDA2905879BB78667"
-			}
-		}
 	}
 	"branches"
 	{
@@ -310,13 +266,8 @@
 			"buildid" "4436557"
 			"timeupdated" "1574978288"
 		}
-		"test"
-		{
-			"buildid" "4436557"
-			"pwdrequired" "1"
-			"timeupdated" "1574977312"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +290,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "8d8370a22f94c341f4f1dcbe2190fa6a62fb777d"
-"_size" "5874"
+"_change_number" "27015870"
+"_sha" "c401be663249a5c3ac1b9587e4a7ab9a2f7b8fe3"
+"_size" "4810"
