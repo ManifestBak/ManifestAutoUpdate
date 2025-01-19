@@ -277,15 +277,6 @@
 				"download" "1762211728"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devbeta"
-			{
-				"gid" "F7372FE3AF2A7070ED92C9B63FF29042"
-				"size" "FA4A28349FD20486193AF2C3FBC5A389"
-				"download" "ED09DAA83CCBF2EC4692F3FF69074A46"
-			}
-		}
 	}
 	"1092490"
 	{
@@ -298,15 +289,6 @@
 				"download" "582603696"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devbeta"
-			{
-				"gid" "EBF1AF00AEC4BC7B62EA9296D13425BA"
-				"size" "2514C2FD21737FFAD3A88120D2D0D734"
-				"download" "FC83BFA6F2B2F4C3770FBCD6666BA7BA"
-			}
-		}
 		"dlcappid" "1092490"
 	}
 	"branches"
@@ -316,13 +298,8 @@
 			"buildid" "16798998"
 			"timeupdated" "1734604726"
 		}
-		"devbeta"
-		{
-			"buildid" "16798998"
-			"pwdrequired" "1"
-			"timeupdated" "1734604182"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26711615"
-"_sha" "62a9269240b62439c3292844bc0e8addfb53b507"
-"_size" "6107"
+"_change_number" "27015870"
+"_sha" "9e3fff8b34513f9b8965b820575f9ff9bda92c5a"
+"_size" "5614"
