@@ -36,7 +36,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "1f53a302ffbe7630bd7269870c2a1e6042448add/capsule_231x87.jpg"
+		"english" "8a625ec0a5f0650406415c1851db6065984f7715/capsule_231x87.jpg"
 		"schinese" "23f1573cde42a968593dbfb0701890789d5997c5/capsule_231x87_schinese.jpg"
 		"tchinese" "48c0045ead4226e1392e51da9c41f39a2241d6d8/capsule_231x87_tchinese.jpg"
 		"japanese" "0b13a553614dbeb59f7feb1bed5116529ea5d2d0/capsule_231x87_japanese.jpg"
@@ -70,7 +70,7 @@
 		{
 			"image"
 			{
-				"english" "f5b02f2fe2545e0cdebff359f926cfc730a33519/library_600x900.jpg"
+				"english" "cc9ff9f90ac438a0882b4583b4d522039bfdc3aa/library_600x900.jpg"
 				"schinese" "dcc199ec2c6fa9414eb83e09d5793273fdf5ccd0/library_600x900_schinese.jpg"
 				"tchinese" "1d153e56a7beb1103baeb49ed0a679332e807b47/library_600x900_tchinese.jpg"
 				"japanese" "b0fd69d12664e867296f83783e459d672fefa1d3/library_600x900_japanese.jpg"
@@ -78,7 +78,7 @@
 			}
 			"image2x"
 			{
-				"english" "f5b02f2fe2545e0cdebff359f926cfc730a33519/library_600x900_2x.jpg"
+				"english" "cc9ff9f90ac438a0882b4583b4d522039bfdc3aa/library_600x900_2x.jpg"
 				"schinese" "dcc199ec2c6fa9414eb83e09d5793273fdf5ccd0/library_600x900_schinese_2x.jpg"
 				"tchinese" "1d153e56a7beb1103baeb49ed0a679332e807b47/library_600x900_tchinese_2x.jpg"
 				"japanese" "b0fd69d12664e867296f83783e459d672fefa1d3/library_600x900_japanese_2x.jpg"
@@ -140,15 +140,15 @@
 		{
 			"image"
 			{
-				"english" "8195e09747cc65a59a03ab5a532b429bcb1d57cc/library_header.jpg"
+				"english" "8d7d49c67ffc50bd5810d64986abb64a9c52c584/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "8195e09747cc65a59a03ab5a532b429bcb1d57cc/library_header_2x.jpg"
+				"english" "8d7d49c67ffc50bd5810d64986abb64a9c52c584/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1734636860"
+	"store_asset_mtime" "1737260243"
 	"associations"
 	{
 		"0"
@@ -186,15 +186,11 @@
 	}
 	"category"
 	{
-		"category_1" "1"
 		"category_44" "1"
 		"category_45" "1"
 		"category_46" "1"
 		"category_23" "1"
 		"category_22" "1"
-		"category_49" "1"
-		"category_36" "1"
-		"category_27" "1"
 		"category_2" "1"
 		"category_29" "1"
 		"category_62" "1"
@@ -265,29 +261,29 @@
 	"gameid" "2693940"
 	"store_tags"
 	{
-		"0" "6276"
-		"1" "1084988"
-		"2" "17770"
-		"3" "32322"
-		"4" "9"
-		"5" "1775"
-		"6" "1741"
+		"0" "10695"
+		"1" "122"
+		"2" "1084988"
+		"3" "6276"
+		"4" "32322"
+		"5" "9"
+		"6" "4305"
 		"7" "916648"
 		"8" "14139"
-		"9" "3859"
-		"10" "597"
+		"9" "1741"
+		"10" "1775"
 		"11" "1708"
-		"12" "4305"
+		"12" "597"
 		"13" "4726"
 		"14" "791774"
-		"15" "122"
+		"15" "3871"
 		"16" "8945"
-		"17" "1770"
-		"18" "10695"
-		"19" "4085"
+		"17" "4004"
+		"18" "6691"
+		"19" "1770"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -334,15 +330,15 @@
 		{
 			"public"
 			{
-				"gid" "1143943866841035316"
-				"size" "2425609358"
-				"download" "463734752"
+				"gid" "5815680459422315952"
+				"size" "2428592433"
+				"download" "463708784"
 			}
 			"staging"
 			{
-				"gid" "1143943866841035316"
-				"size" "2425609358"
-				"download" "463734752"
+				"gid" "5815680459422315952"
+				"size" "2428592433"
+				"download" "463708784"
 			}
 		}
 	}
@@ -356,15 +352,15 @@
 		{
 			"public"
 			{
-				"gid" "4629606769811806156"
-				"size" "2452067195"
-				"download" "471350800"
+				"gid" "2055407198060120263"
+				"size" "2455050270"
+				"download" "471326976"
 			}
 			"staging"
 			{
-				"gid" "4629606769811806156"
-				"size" "2452067195"
-				"download" "471350800"
+				"gid" "2055407198060120263"
+				"size" "2455050270"
+				"download" "471326976"
 			}
 		}
 	}
@@ -378,15 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "338482036018336150"
-				"size" "2432751107"
-				"download" "463821664"
+				"gid" "7794677841956434570"
+				"size" "2435768196"
+				"download" "463797248"
 			}
 			"staging"
 			{
-				"gid" "338482036018336150"
-				"size" "2432751107"
-				"download" "463821664"
+				"gid" "7794677841956434570"
+				"size" "2435768196"
+				"download" "463797248"
 			}
 		}
 	}
@@ -394,14 +390,14 @@
 	{
 		"public"
 		{
-			"buildid" "16828859"
-			"timeupdated" "1734873730"
+			"buildid" "16983442"
+			"timeupdated" "1737259742"
 		}
 		"staging"
 		{
-			"buildid" "16828859"
+			"buildid" "16983442"
 			"description" "staging branch of NEODuel, usually full of bugs!"
-			"timeupdated" "1734873708"
+			"timeupdated" "1736739639"
 		}
 	}
 }
@@ -453,6 +449,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26753468"
-"_sha" "67fd3abd36b5de12ce3553b4fc737c5638a142a4"
-"_size" "9142"
+"_change_number" "27061155"
+"_sha" "2bf93b68c5c11f36ca9297f7b11771f209863968"
+"_size" "9056"
