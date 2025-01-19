@@ -1,0 +1,186 @@
+"appid" "890970"
+"common"
+{
+	"name" "Oakwood"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "21ae67b400704fe9ac3f20038cb932fa08f5d7c2"
+	"logo_small" "21ae67b400704fe9ac3f20038cb932fa08f5d7c2_thumb"
+	"icon" "3d39c8735a66c61ccc87a95b7340c45446d32788"
+	"clienttga" "4689d138eea406814609ce725f87c22f70460423"
+	"clienticon" "bcc038237db8a645e3408c2ac60ef18c44698664"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"restricted_countries" "DE"
+	"metacritic_name" "Oakwood"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.883313885647624"
+			"height_pct" "36.70149608169078"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.883313885647624"
+				"height_pct" "36.70149608169078"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1569700631"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Breaking Dimensions"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Polygon Dust Entertainment Ltd."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Breaking Dimensions"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1543942900"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "890970"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "5160"
+		"2" "4345"
+		"3" "492"
+		"4" "4667"
+		"5" "3978"
+		"6" "3839"
+		"7" "4342"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Breaking Dimensions"
+	"publisher" "Breaking Dimensions"
+	"homepage" "https://breakingdimensions.com/"
+}
+"config"
+{
+	"installdir" "Oakwood"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Oakwood.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"890971"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3698722879851652618"
+				"size" "5804557526"
+				"download" "2499213408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4322462"
+			"timeupdated" "1571983188"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "d28535dd0cc61c763bc5f8c02b2ff516b24f2f90"
+"_size" "3012"
