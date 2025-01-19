@@ -1,0 +1,48 @@
+"appid" "899908"
+"common"
+{
+	"name" "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy Hammer-on Exercise 1"
+	"type" "DLC"
+	"parent" "221680"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"associations"
+	{
+	}
+	"gameid" "899908"
+	"exfgls" "9"
+}
+"extended"
+{
+	"dlcforappid" "221680"
+	"mustownapptopurchase" "221680"
+}
+"depots"
+{
+	"899908"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3051645563344955319"
+				"size" "8715862"
+				"download" "5242320"
+			}
+		}
+		"dlcappid" "899908"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3805749"
+			"timeupdated" "1557349385"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26551766"
+"_sha" "530b13da44067f3d51a3cacf3bafc838fc5d24ff"
+"_size" "701"
