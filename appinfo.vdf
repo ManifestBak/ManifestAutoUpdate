@@ -96,7 +96,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721728565"
+	"store_asset_mtime" "1736938862"
 	"associations"
 	{
 		"0"
@@ -176,8 +176,8 @@
 	{
 		"0" "21725"
 		"1" "7918"
-		"2" "14139"
-		"3" "3959"
+		"2" "3959"
+		"3" "14139"
 		"4" "17305"
 		"5" "1759"
 		"6" "1741"
@@ -196,7 +196,7 @@
 		"19" "4057"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -228,36 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "2276945075236852277"
-				"size" "308755464"
-				"download" "104347248"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external_test"
-			{
-				"gid" "6DE8CD1D2367AD7AEFC0A1FA5983B8D3"
-				"size" "F1E02DBD2E882E34B4FA3EC04709F564"
-				"download" "9483491689DC4116D73A7239DF41E1F8"
-			}
-			"press"
-			{
-				"gid" "F90B2B775BF3105F7E3AD6E58FA07AC5"
-				"size" "5FE175840EEFCA2699E360FCB7DCA546"
-				"download" "C04CCFDA40852D0EFE428ADF413DB5D4"
-			}
-			"release_candidate"
-			{
-				"gid" "2C90CD99D50DEEFD1506C93681B57338"
-				"size" "B0471BE7C4805D1C335667B614B2C24A"
-				"download" "2B9B25EC0E0DCCF5F9D60A658CB05D19"
-			}
-			"test"
-			{
-				"gid" "41C9C21A6B73AD104F630E451FF2DD90"
-				"size" "CE93123DDA9787D79128E6AD8A0F61F8"
-				"download" "5104A149D32A812C3C5BAE42A662C20C"
+				"gid" "4210073664201553303"
+				"size" "310248584"
+				"download" "104655072"
 			}
 		}
 	}
@@ -265,34 +238,11 @@
 	{
 		"public"
 		{
-			"buildid" "15750422"
-			"timeupdated" "1727083948"
-		}
-		"external_test"
-		{
-			"buildid" "14992700"
-			"pwdrequired" "1"
-			"timeupdated" "1720775618"
-		}
-		"press"
-		{
-			"buildid" "14978702"
-			"pwdrequired" "1"
-			"timeupdated" "1720542422"
-		}
-		"release_candidate"
-		{
-			"buildid" "15113084"
-			"pwdrequired" "1"
-			"timeupdated" "1721659689"
-		}
-		"test"
-		{
-			"buildid" "15750422"
-			"pwdrequired" "1"
-			"timeupdated" "1726711047"
+			"buildid" "16897167"
+			"timeupdated" "1737120534"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -346,3 +296,7 @@
 	}
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "27043046"
+"_sha" "d8bcbd20e35ff8cedfca1acb5784eba96f0e0d59"
+"_size" "4799"
