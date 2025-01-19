@@ -154,7 +154,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725226240"
+	"store_asset_mtime" "1737069964"
 	"associations"
 	{
 		"0"
@@ -180,7 +180,6 @@
 		"1" "4"
 		"2" "23"
 		"3" "3"
-		"4" "70"
 	}
 	"category"
 	{
@@ -245,7 +244,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1718880029"
+	"steam_release_date" "1737068710"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2389560"
@@ -273,7 +272,7 @@
 		"19" "1719"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -324,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "3942652235735281015"
-				"size" "416754934"
-				"download" "306372592"
+				"gid" "5990948150324673802"
+				"size" "418489478"
+				"download" "306895216"
 			}
 		}
 	}
@@ -334,8 +333,8 @@
 	{
 		"public"
 		{
-			"buildid" "16466211"
-			"timeupdated" "1732494381"
+			"buildid" "17032381"
+			"timeupdated" "1737068528"
 		}
 	}
 }
@@ -354,6 +353,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26341309"
-"_sha" "ce0949bb0a1601321bf233ed70dda862730318c7"
-"_size" "5950"
+"_change_number" "27033403"
+"_sha" "c1ad6cc1f93471bb8a4a2c187788efe193303407"
+"_size" "5937"
