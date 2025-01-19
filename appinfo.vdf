@@ -11,6 +11,7 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"releasestate" "released"
+	"app_retired_publisher_request" "1"
 	"metacritic_name" "NASCAR Heat 2"
 	"controller_support" "full"
 	"small_capsule"
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_e902cbb846adb4d2cb6a8546c819f9ce8d7d399f.jpg"
 	"store_asset_mtime" "1506029229"
 	"associations"
 	{
@@ -146,15 +148,6 @@
 				"download" "11275528880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EDCB31F6BA2611C3DF8880EB53E6DC44"
-				"size" "10FAC1B7EF48E821B75AFCC0B5CE1A1C"
-				"download" "6F4CE3CAE7F4F378FA266B4104327551"
-			}
-		}
 	}
 	"703441"
 	{
@@ -171,15 +164,6 @@
 				"gid" "8511044238612667110"
 				"size" "29587"
 				"download" "18272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "16CD8C780BF9C18D97F94997A273FFC2"
-				"size" "CFB4CE17F242DB486552D216A2889635"
-				"download" "68E181928DA72DFC207587E4E08185C9"
 			}
 		}
 	}
@@ -200,15 +184,6 @@
 				"download" "23872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "8B68827E088B5E3CA876CA23A847A08E"
-				"size" "01A87622D16BC27C9AE1174DB8E68DC8"
-				"download" "BDC1A612310FA5EDD93B2AEED744604A"
-			}
-		}
 	}
 	"706290"
 	{
@@ -225,15 +200,6 @@
 				"gid" "8779770363365829128"
 				"size" "17114891"
 				"download" "14379312"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "B71B90682757F9C790AF611F0114D988"
-				"size" "E92583032CD3080C1C0FB8C1B7EED3BF"
-				"download" "AC6D9C332EF7352E0C4B4A8677BB9E1C"
 			}
 		}
 	}
@@ -254,15 +220,6 @@
 				"download" "384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0A324B74840D1AAA1B4B08DEF3BE5DBF"
-				"size" "A73BDB32C1BD968AF7EA2DEE3AEA378E"
-				"download" "5627B500E3C5D593277D56575A096B80"
-			}
-		}
 	}
 	"728460"
 	{
@@ -279,15 +236,6 @@
 				"gid" "5345200454824676835"
 				"size" "6212170"
 				"download" "5301584"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "10A304B3C04B511CD90BC4F77B49D1F7"
-				"size" "A7185B806DEEE50388C7F46C128E845D"
-				"download" "1C48400BCCB35B6742B374D86131D78C"
 			}
 		}
 	}
@@ -308,15 +256,6 @@
 				"download" "144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F92939D10E2E53A86B7C3B1BC33E4828"
-				"size" "2ACEA0F936C334BAA04416AE6206B618"
-				"download" "FA5FC39ADEF3E1C02838EDF880878ECA"
-			}
-		}
 	}
 	"728462"
 	{
@@ -333,15 +272,6 @@
 				"gid" "7332660078149227715"
 				"size" "38132"
 				"download" "19200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F97BD5DC85BCB94B964291D1197BEEA7"
-				"size" "9073726921A112B2740B7F17BF2B5ACF"
-				"download" "EE770FB2F69EE16BF3356ED28D6FAB7A"
 			}
 		}
 	}
@@ -361,15 +291,6 @@
 				"download" "368"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "045F65ABA0AB476B2612EE8F5847F160"
-				"size" "1F4391494BB5570E4B8B5E26EF8840FA"
-				"download" "2809ECA21F1E0F2652CEDBEC1BB89D80"
-			}
-		}
 	}
 	"747721"
 	{
@@ -385,15 +306,6 @@
 				"gid" "730621452881589486"
 				"size" "32639"
 				"download" "19312"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "471F98BE17E8BEE0C3758AC81E40FA79"
-				"size" "33D2CA93558AB82B6F6BC20503D7E750"
-				"download" "1DB069BEA7FB7F44E469FAB28594D79D"
 			}
 		}
 	}
@@ -413,15 +325,6 @@
 				"download" "8952224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "73B7A9EC388CFCC351DA6022108F5F07"
-				"size" "205CAC9B717C3200A9C53E88382C240B"
-				"download" "5ABB391AF35A58467EE21EDC1B123DBA"
-			}
-		}
 	}
 	"766101"
 	{
@@ -437,15 +340,6 @@
 				"gid" "3329167325963103782"
 				"size" "914"
 				"download" "400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0184089E2D0D913A52CEC3F0EBEF67DC"
-				"size" "103ADBFB6334FF78E9085B1242819997"
-				"download" "88DBA52F6E0B3DDD2E0E45B910EE42FA"
 			}
 		}
 	}
@@ -465,15 +359,6 @@
 				"download" "23968"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "AD19F20F789176D3F56A0ED2762C384C"
-				"size" "7EFEAFD223C0A5F917599EE2230F081A"
-				"download" "032F406AF3F0A84F92C49FCBB11EBAD4"
-			}
-		}
 	}
 	"766100"
 	{
@@ -489,15 +374,6 @@
 				"gid" "178007060119517740"
 				"size" "32948"
 				"download" "19584"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "690939F71AB906E2C472637E8901E576"
-				"size" "5093941651FC867E1630AE340F0BF22E"
-				"download" "2157E217A7CE942445D5841B56C5A531"
 			}
 		}
 	}
@@ -517,15 +393,6 @@
 				"download" "80"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D3426B9E3A8D7E06F9F9994EF97FE661"
-				"size" "FBD4D5BAB00B7CBCD6870C3978354D7B"
-				"download" "B227DAEDEB6DA6465379351DB7AF0094"
-			}
-		}
 	}
 	"branches"
 	{
@@ -534,11 +401,10 @@
 			"buildid" "2512888"
 			"timeupdated" "1518196770"
 		}
-		"beta"
-		{
-			"buildid" "2512894"
-			"pwdrequired" "1"
-			"timeupdated" "1518196853"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "7dd2b3a021cd050994cd51672a0d78aca2587b32"
+"_size" "6107"
