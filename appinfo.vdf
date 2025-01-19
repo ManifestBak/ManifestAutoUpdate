@@ -11,6 +11,7 @@
 	"icon" "61345e3c3f58b5e1259246678eb4873989905b56"
 	"logo" "1709ff0ec0bf653edf3446d8a985b132e6b8f03d"
 	"logo_small" "1709ff0ec0bf653edf3446d8a985b132e6b8f03d_thumb"
+	"restricted_countries" "DE"
 	"metacritic_name" "Haters, kill them all!"
 	"small_capsule"
 	{
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_64d5d98850043b40c085738d9e029abb86b33621.jpg"
 	"store_asset_mtime" "1517827438"
 	"associations"
 	{
@@ -46,6 +48,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -68,7 +71,7 @@
 		"3" "599"
 	}
 	"review_score" "4"
-	"review_percentage" "33"
+	"review_percentage" "35"
 }
 "extended"
 {
@@ -126,6 +129,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22187349"
-"_sha" "9ada7624021bb482b13ffb9793fa68da1b54f73e"
-"_size" "2062"
+"_change_number" "26348351"
+"_sha" "31aeb9e3c78ed9ec8499ba497cec237009d4bfd7"
+"_size" "2187"
