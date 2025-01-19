@@ -1,0 +1,105 @@
+"appid" "909850"
+"common"
+{
+	"name" "killer7: Digital Art Booklet"
+	"type" "DLC"
+	"parent" "868520"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"metacritic_name" "killer7: Digital Art Booklet"
+	"small_capsule"
+	{
+		"english" "00dc082044c355778db4f3787376955e081cad7a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_06de8339e8e76369f5a606a88c2750067386cd7b.jpg"
+	"store_asset_mtime" "1731020613"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GRASSHOPPER MANUFACTURE INC."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NIS America, Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "killer7"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1542304520"
+	"gameid" "909850"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+	}
+	"review_score" "5"
+	"review_percentage" "54"
+}
+"extended"
+{
+	"dlcforappid" "868520"
+	"mustownapptopurchase" "868520"
+	"developer" "GRASSHOPPER MANUFACTURE INC."
+	"publisher" "NIS America, Inc."
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"909850"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7134772751159302780"
+				"size" "15946628"
+				"download" "13940224"
+			}
+		}
+		"dlcappid" "909850"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3305356"
+			"timeupdated" "1542169525"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "09d8f609897d96f0e24c04ecf8e2ad20cbedca2b"
+"_size" "1635"
