@@ -146,18 +146,18 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734752368"
+	"store_asset_mtime" "1736980562"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Airstrafe Interactive"
+			"name" "AIRSTRAFE INTERACTIVE"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Airstrafe Interactive"
+			"name" "AIRSTRAFE INTERACTIVE"
 		}
 	}
 	"primary_genre" "28"
@@ -326,8 +326,8 @@
 	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=1419850"
 	"gamedir" "Saleblazers"
 	"serverbrowsername" "Saleblazers"
-	"developer" "Airstrafe Interactive"
-	"publisher" "Airstrafe Interactive"
+	"developer" "AIRSTRAFE INTERACTIVE"
+	"publisher" "AIRSTRAFE INTERACTIVE"
 	"homepage" "https://saleblazers.com"
 	"listofdlc" "2012410"
 	"dlcavailableonstore" "1"
@@ -386,9 +386,9 @@
 		{
 			"public"
 			{
-				"gid" "4803128064710565368"
-				"size" "6896717739"
-				"download" "2231554816"
+				"gid" "1609521925855940949"
+				"size" "6901741112"
+				"download" "2234913200"
 			}
 		}
 	}
@@ -402,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "7746320521326861144"
-				"size" "7062341926"
-				"download" "2246897520"
+				"gid" "2564659206879777991"
+				"size" "7067592226"
+				"download" "2250377312"
 			}
 		}
 	}
@@ -413,8 +413,8 @@
 	{
 		"public"
 		{
-			"buildid" "16972955"
-			"timeupdated" "1736577697"
+			"buildid" "17043107"
+			"timeupdated" "1737137132"
 		}
 	}
 	"privatebranches" "1"
@@ -442,6 +442,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26952500"
-"_sha" "86697499399c2966210fce9f1f0af2220fba61d6"
+"_change_number" "27060880"
+"_sha" "a77cce8705c234d0ba72fa59c8ea8f5767c7e174"
 "_size" "7997"
