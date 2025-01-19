@@ -1,160 +1,127 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-19 07:22:22
+## 更新时间：2025-01-19 08:14:20
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3460 | Talismania Deluxe| game |
-| 348820 | FIM Speedway Grand Prix 15| Game |
-| 351630 | Fire With Fire: Online Tower Attack and Defense| Game |
-| 352010 | Beach Bounce| Game |
-| 352400 | LEGO® Jurassic World| Game |
-| 354430 | STAR WARS™: X-Wing Special Edition| Game |
-| 353090 | Chicken Invaders 5| Game |
-| 352280 | Cakewalk Sound Center| Application |
-| 355250 | STAR WARS™: TIE Fighter Special Edition| Game |
-| 357720 | Inside My Radio| Game |
-| 373750 | DinoSystem| Game |
-| 377590 | IRFaceRig| Application |
-| 379520 | DELTAZEAL| Game |
-| 383100 | Fragile Allegiance| Game |
-| 383790 | The Ship: Remasted| Game |
-| 384740 | CAT Interstellar| Game |
-| 385690 | Wave Mechanics| Game |
-| 389460 | Robot vs Birds Zombies| Game |
-| 364970 | CopperCube 5| Application |
-| 392000 | TRON RUN/r| Game |
-| 394280 | Dark Heritage: Guardians of Hope| Game |
-| 390220 | Toilet Tycoon| Game |
-| 390940 | The Musketeers: Victoria's Quest| Game |
-| 377460 | Chicken Invaders 3| Game |
-| 391000 | Farm Frenzy Collection| Game |
-| 396480 | Battlevoid: Harbinger| Game |
-| 398100 | Highschool Romance| Game |
-| 402370 | Wurm Unlimited Dedicated Server| Tool |
-| 403090 | Rescue Team 2| Game |
-| 403100 | Rescue Team 3| Game |
-| 404460 | Melter Man| Game |
-| 406490 | DELTAZEAL Original Soundtrack| Music |
-| 406480 | XIIZEAL Original Soundtrack| Music |
-| 406850 | Crush Your Enemies| Game |
-| 409070 | Fist Slash: Of Ultimate Fury| Game |
-| 411330 | Men of Valor| Game |
-| 411870 | Discovering Colors - Animals| Game |
-| 417880 | Everybody's Gone to the Rapture| Game |
-| 416700 | 5 Minutes Rage| Game |
-| 420660 | Burnin' Rubber 5 HD| Game |
-| 426560 | Full Tilt Poker| Game |
-| 427520 | Factorio| Game |
-| 427100 | 长途客车模拟| Game |
-| 430290 | Shmups Skill Test| Game |
-| 430300 | MINUS ZERO| Game |
-| 431290 | Level 22: Gary’s Misadventures| Game |
-| 431460 | Midnight| Game |
-| 43160 | Metro: Last Light Complete Edition| Game |
-| 43190 | The Haunted: Hells Reach| game |
-| 1171460 | Die Young - Official Soundtrack| DLC |
-| 433170 | Die Young| Game |
-| 438820 | Hyper Box| Game |
-| 438640 | LEGO® STAR WARS™: The Force Awakens| Game |
-| 441870 | OutDrive| Game |
-| 443650 | Wailing Heights| Game |
-| 444880 | Death Stair| Game |
-| 445920 | BLACKHOLE: Original Soundtrack| Music |
-| 446610 | Bunny Bounce| Game |
-| 446810 | Blossom Tales: The Sleeping King| Game |
-| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
-| 448050 | Mr. Nibbles Forever| Game |
-| 453020 | Hyper Light Drifter Soundtrack| Music |
-| 453270 | Madness Cubed| Game |
-| 454770 | Mystic Melee| Game |
-| 454910 | Twin Saga| Game |
-| 455910 | STAR WARS™: Rogue Squadron 3D| Game |
-| 457490 | Forgotten, Not Lost - A Kinetic Novel| Game |
-| 458890 | Within VR - Cinematic Virtual Reality| Application |
-| 463490 | HunieCam Studio Original Soundtrack| Music |
-| 463850 | Muddy Heights 2| Game |
-| 1226770 | 《月影之塔》游戏原画设定集| DLC |
-| 466520 | Drone Hunter VR| Game |
-| 466830 | Remnants of a Beautiful Day| Game |
-| 465710 | Heroes Tactics| Game |
-| 467270 | Weaves of Fate| Game |
-| 456540 | STAR WARS™: Rebel Assault I + II| Game |
-| 394680 | Mountain Crime: Requital| Game |
-| 467850 | METAGAL| Game |
-| 449800 | Attack on Titan / A.O.T. Wings of Freedom| Game |
-| 363890 | RPG Maker MV| Application |
-| 473100 | Shmups Skill Test Original Soundtrack| Music |
-| 473110 | EXZEAL Original Soundtrack| Music |
-| 473120 | TRIZEAL Original Soundtrack| Music |
-| 475630 | Crush Online| Game |
-| 475960 | Bombslinger| Game |
-| 4800 | Heroes of Annihilated Empires| game |
-| 48240 | Anno 2070| Game |
-| 489070 | Edge of Twilight – Return To Glory| Game |
-| 489260 | Brut@l| Game |
-| 489630 | Warhammer 40,000: Gladius - Relics of War| Game |
-| 491010 | IN-VERT: Definitive Edition| Game |
-| 492600 | Ridge| Game |
-| 494120 | RX squad| Game |
-| 495280 | Disgaea 2 PC| Game |
-| 497720 | Funfair Ride Simulator 3| Game |
-| 497960 | Legends of Callasia Demo| Game |
-| 499180 | Braid, Anniversary Edition| Game |
-| 498310 | RPG in a Box| Application |
-| 502420 | Firefighters - The Simulation| Game |
-| 504660 | 泪之轨迹| Game |
-| 506840 | The Dungeons of Castle Madness| Game |
-| 506900 | Downward: Enhanced Edition| Game |
-| 508710 | Project Lounge| Game |
-| 513440 | Path of War| Game |
-| 514080 | Deadly Dozen| Game |
-| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
-| 517330 | Stellar Interface| Game |
-| 520850 | 尘沙惑| Game |
-| 521880 | RPG Maker VX| Application |
-| 524970 | Helmet Heroes| Game |
-| 525700 | Birthdays the Beginning| Game |
-| 532750 | Dwarrows| Game |
-| 534870 | Arcane| Game |
-| 534920 | Relaxing VR Games: Mahjong| Game |
-| 533690 | Think To Die| Game |
-| 536510 | Hacker Series| Game |
-| 541200 | Get To The Orange Door| Game |
-| 542050 | Forgotton Anne| Game |
-| 544310 | Jumps| Game |
-| 544650 | Sacred Almanac Traces of Greed| Game |
-| 545270 | NBA Playgrounds| Game |
-| 545340 | Companion| Game |
-| 547010 | Terminal Hacker| Game |
-| 551190 | 123 Slaughter Me Street 2| Game |
-| 550900 | Metin2| Game |
-| 558420 | Stories Untold| Game |
-| 560350 | Police Quest - SWAT| Game |
-| 570970 | ARENA an Age of Barbarians story| Game |
-| 572910 | Rakuen Original Soundtrack| Music |
-| 577700 | THE VIDEOKID| Game |
-| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
-| 577580 | Gladiator: Sword of Vengeance| Game |
-| 957630 | Demonheart - Dev's Coffee| DLC |
-| 610270 | Bloody Trapland 2 : Curiosity - Soundtrack| DLC |
-| 579510 | LoveKami -Divinity Stage- Original Soundtrack| Music |
-| 581370 | Drizzlepath: Glass| Game |
-| 584790 | 分裂子弹　原声大碟| Music |
-| 585900 | Harvest Moon: Light of Hope| Game |
-| 587450 | Saurian| Game |
-| 591790 | BREACH IT| Game |
-| 592600 | PRO EVOLUTION SOCCER 2018 LITE| Game |
-| 600720 | Trackmania² Lagoon| Game |
-| 602920 | Sketch! Run!| Game |
-| 612930 | Fight of Gods| Game |
-| 61600 | Zen Bound® 2| game |
-| 618050 | To The Light| Game |
-| 618630 | Astral Traveler| Game |
-| 619490 | Fear of Clowns| Game |
-| 6220 | FlatOut| game |
-| 621300 | Wing Pro 6| Application |
-| 626510 | LoveKami -Useless Goddess-| Game |
-| 628120 | NOBUNAGA'S AMBITION: Ranseiki with Power Up Kit| Game |
-| 629910 | Clicker Heroes 2| Game |
-| 630160 | Super Rocket Shootout| Game |
-| 634150 | ReSizE| Game |
+| 742540 | Keep Rollin!| Game |
+| 740950 | OverKill| Game |
+| 743650 | Quake Champions PTS| Game |
+| 739080 | 9 Monkeys of Shaolin| Game |
+| 744040 | Street Heat| Game |
+| 745920 | Temtem| Game |
+| 749540 | Wild Wolf| Game |
+| 750200 | AWAY: The Survival Series| Game |
+| 749800 | PixelJunk™ Monsters 2| Game |
+| 744060 | Groove Coaster| Game |
+| 752780 | W4RR-i/o-RS| Game |
+| 755140 | Air Dash| Game |
+| 756680 | Angelo Skate Away| Game |
+| 757860 | Elbub| Game |
+| 760400 | Audio Drive Storm| Game |
+| 759750 | Doodle God: Alchemy Jam| Game |
+| 1740440 | SOK PRO Upgrade| DLC |
+| 765940 | SOK| Game |
+| 773430 | Meow Motors| Game |
+| 772530 | Crayola Scoot| Game |
+| 774651 | Mighty Gunvolt Burst| Game |
+| 775530 | puzzlement| Game |
+| 785740 | This Is the Police 2| Game |
+| 784150 | 工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic| Game |
+| 786990 | SpellKeeper| Game |
+| 789890 | City Patrol: Police| Game |
+| 790410 | Futanari Quest| Game |
+| 792640 | Inca Blocks| Game |
+| 796620 | X Mushrooms| Game |
+| 799640 | 餐癮地城| Game |
+| 801780 | Haters, kill them all!| Game |
+| 802850 | NaziShootout| Game |
+| 802980 | Project Arrhythmia - Soundtrack| Music |
+| 8040 | Championship Manager 2007| game |
+| 807910 | Road Legends| Game |
+| 807950 | Piano Cat| Game |
+| 889000 | Paralines The Last paladin Original Sound Track| DLC |
+| 815390 | Psi Cards| Game |
+| 817150 | Factory pirates| Game |
+| 817660 | Soul Smith of the Kingdom| Game |
+| 821390 | Achievement Lurker: Another one bites the dust| Game |
+| 824620 | Jolly Battle| Game |
+| 825730 | Tzar: The Burden of the Crown| Game |
+| 827110 | The Three Musketeers - D'Artagnan & the 12 Jewels| Game |
+| 829940 | Russian World| Game |
+| 836790 | Dr. Pills| Game |
+| 838010 | Double Cross| Game |
+| 839920 | 9 Balls| Game |
+| 834280 | Fishing Sim World®: Pro Tour| Game |
+| 849920 | Dungeon Quest| Game |
+| 853050 | El Hijo| Game |
+| 855640 | My Brother Rabbit| Game |
+| 856220 | DON'T DIE!| Game |
+| 857850 | Dwarf Defense| Game |
+| 858900 | vSpatial| Application |
+| 858870 | Queen of Seas 2| Game |
+| 857320 | SRPG Studio| Application |
+| 862210 | Inca Marbles| Game |
+| 864160 | BE-A Walker| Game |
+| 865810 | Waifu Fight Dango Style| Game |
+| 909850 | killer7: Digital Art Booklet| DLC |
+| 869810 | 傻缺大乱斗：第三章 - 创作工具| Tool |
+| 873220 | SurvivalZ Battlegrounds| Game |
+| 873980 | Isle of Skye| Game |
+| 875371 | Trash Story Soundtrack| Music |
+| 878570 | Cryptochain| Game |
+| 882900 | 吕布梦工厂| Game |
+| 890970 | Oakwood| Game |
+| 892210 | GUNGRAVE VR| Game |
+| 893140 | Gold Digger Maze| Game |
+| 895060 | My House| Game |
+| 894390 | Bernie’s Nightmare| Game |
+| 893180 | Catherine Classic| Game |
+| 895570 | Fairy Rescue| Game |
+| 895720 | PUSS! ｓｏｕｎｄｔｒａｃｋ| Music |
+| 898690 | Zombie| Game |
+| 1144480 | Demonheart: Hunters - Sack of Extras| DLC |
+| 899893 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - “Amazing Grace”| DLC |
+| 899894 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - “When The Saints Go Marching In”| DLC |
+| 899900 | Rocksmith® 2014 Edition – Remastered – Rocksmith Easy Exercises, Vol. 1| DLC |
+| 899895 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - “Frère Jacques”| DLC |
+| 899904 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Easy Pull-off Exercise 1| DLC |
+| 899905 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Easy String Skipping Exercise 1| DLC |
+| 899907 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass – Easy String Switching Exercise 1| DLC |
+| 899902 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Easy String Switching Exercise 1| DLC |
+| 899903 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Easy Hammer-on Exercise 1| DLC |
+| 899901 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Easy Linear Playing Exercise 1| DLC |
+| 899906 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy Linear Playing Exercise 1| DLC |
+| 899908 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy Hammer-on Exercise 1| DLC |
+| 899910 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy String Skipping Exercise 1| DLC |
+| 899909 | Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy Pull-off Exercise 1| DLC |
+| 90 | Half-Life Dedicated Server| Tool |
+| 904540 | Indiana Jones® and the Infernal Machine™| Game |
+| 907250 | GUNGRAVE VR U.N| Game |
+| 907710 | This Is the Zodiac Speaking| Game |
+| 914310 | Copy Kitty OST| Music |
+| 908990 | Steel Vampire| Game |
+| 922090 | CMD 2048| Game |
+| 924331 | The Messenger - 16-bit Soundtrack| Music |
+| 924330 | The Messenger - 8-bit Soundtrack| Music |
+| 924332 | The Messenger - Keiji Yamagishi EP| Music |
+| 931260 | Multibombers| Game |
+| 93200 | Revenge of the Titans| game |
+| 939920 | FaceFun| Application |
+| 945690 | CardLife - Soundtrack| Music |
+| 945010 | A Year Of Rain - Soundtrack| Music |
+| 945890 | Hentai no Hero| Game |
+| 944430 | The Last Friend| Game |
+| 946460 | Seven days with the Ghost| Game |
+| 94600 | Hector: Ep 1| game |
+| 946940 | Deliver Us The Moon - Original Soundtrack| Music |
+| 972720 | Hentai 2+2=4 - Art Book| DLC |
+| 953580 | 旅游巴士模拟| Game |
+| 96400 | Shoot Many Robots| game |
+| 973390 | Empires:The Rise| Game |
+| 977920 | BALSA Model Flight Simulator| Game |
+| 985050 | Action: Source Dedicated Server| Tool |
+| 993590 | GLAD VALAKAS TOWER DEFENCE - Soundtrack| Music |
+| 1012760 | 東方高枝切鋏 Touhou KSG Story DLC| DLC |
+| 9800 | Death to Spies| game |
+| 992720 | 東方苦粗芸物語 Touhou KSG Story| Game |
+| 995460 | Miracle Snack Shop| Game |
