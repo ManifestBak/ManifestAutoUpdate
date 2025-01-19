@@ -1,0 +1,234 @@
+"appid" "789890"
+"common"
+{
+	"name" "City Patrol: Police"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "59b1951d0788b27a1dcc4968bd62000a2d11ff02"
+	"logo_small" "59b1951d0788b27a1dcc4968bd62000a2d11ff02_thumb"
+	"clienticon" "b03c74ea762995b465389e692d01a214c22f845e"
+	"clienttga" "17260ac85b9e355ae110810d9816b58cf436d47a"
+	"icon" "e66122f45a0584acd2b926a2785dc2d5514c3769"
+	"metacritic_name" "City Patrol: Police"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.662777129521587"
+			"height_pct" "85.71428405788228"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.662777129521587"
+				"height_pct" "85.71428405788228"
+			}
+		}
+	}
+	"store_asset_mtime" "1572451017"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Caipirinha Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Toplitz Productions"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "9"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1543489330"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "789890"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "699"
+	}
+	"review_score" "4"
+	"review_percentage" "39"
+}
+"extended"
+{
+	"developer" "Caipirinha Games"
+	"publisher" "Toplitz Productions"
+}
+"config"
+{
+	"installdir" "City Patrol Police"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WorldracingGame/Binaries/Win64/CityPatrol-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CityPatrol.exe"
+			"arguments" "-NotInstalled"
+			"description" "City Patrol Police (everything unlocked)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "usk-version"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"789891"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "47247721623121718"
+				"size" "2585989015"
+				"download" "2426887376"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4512235"
+			"timeupdated" "1590423098"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "b5ebf7a3eb236653fb48c69e583146edce20f965"
+"_size" "3802"
