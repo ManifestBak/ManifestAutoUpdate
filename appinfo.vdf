@@ -1,0 +1,232 @@
+"appid" "642390"
+"common"
+{
+	"name" "Blocksworld"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "7a8fb333651c461ca68dceeb19e63550314f2623"
+	"logo_small" "7a8fb333651c461ca68dceeb19e63550314f2623_thumb"
+	"icon" "84e5349cd691ffe5227c17049ced1eb8df8579fe"
+	"clienticon" "40c8c7b55fdba87fac65d5410ad0d8dcd7dc7475"
+	"clienttga" "9d2fc9ddc0d7e39db94c4aecb0f7cee3d3bfe06b"
+	"clienticns" "40c8c7b55fdba87fac65d5410ad0d8dcd7dc7475"
+	"linuxclienticon" "7137efa2f778507f4b41239cdcdcaa21956642e5"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1688428800"
+		"tested_build_id" "2466748"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Blocksworld"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_06cf0d5610c3c0c0187a5e7d290c7f18f1c305cb.jpg"
+	"store_asset_mtime" "1506039493"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fortell Games Inc"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Blocksworld LLC"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Fortell Games Inc"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Blocksworld"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "37"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_35" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1506388086"
+	"community_hub_visible" "1"
+	"gameid" "642390"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3810"
+		"2" "493"
+		"3" "1643"
+		"4" "492"
+		"5" "1695"
+		"6" "597"
+		"7" "4182"
+		"8" "1662"
+		"9" "19"
+		"10" "5350"
+		"11" "4136"
+		"12" "5752"
+		"13" "1755"
+		"14" "1659"
+		"15" "4328"
+		"16" "5300"
+		"17" "10235"
+		"18" "5395"
+		"19" "17389"
+	}
+	"review_score" "5"
+	"review_percentage" "64"
+}
+"extended"
+{
+	"developer" "Fortell Games Inc"
+	"publisher" "Fortell Games Inc"
+	"homepage" "https://blocksworld-api.lindenlab.com/support/"
+}
+"config"
+{
+	"installdir" "Blocksworld"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Blocksworld.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Blocksworld.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"642391"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1961115965996149268"
+				"size" "1808584886"
+				"download" "240651616"
+			}
+		}
+	}
+	"642392"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "722730891896702869"
+				"size" "1814554346"
+				"download" "242200720"
+			}
+		}
+	}
+	"642393"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2449831394994345421"
+				"size" "1856593950"
+				"download" "252703280"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2466748"
+			"timeupdated" "1521238745"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "00"
+	"maxnumfiles" "00"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "5c8f87da20030938c0ea4fa99d3e1451979a15af"
+"_size" "3955"
