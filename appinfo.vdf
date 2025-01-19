@@ -1,0 +1,167 @@
+"appid" "945890"
+"common"
+{
+	"name" "Hentai no Hero"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "d04f44bc5c2a58ee39f5e56741e187a4ba56d013"
+	"logo_small" "d04f44bc5c2a58ee39f5e56741e187a4ba56d013_thumb"
+	"icon" "7411df1179d67e931a647d5610131759a1af7754"
+	"clienticon" "2aef442ac5f36592cc9cc90eeb4730593531e5b8"
+	"clienttga" "79970bdacd9fa82ed7482f4bc8b112dae9862895"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"metacritic_name" "Hentai no Hero"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_fc457bcc782a79ccf82ba80d7c0c0633560cb8fd.jpg"
+	"store_asset_mtime" "1537481255"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SeedWall"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SeedWall"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1539155812"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "945890"
+	"store_tags"
+	{
+		"0" "6650"
+		"1" "9130"
+		"2" "19"
+		"3" "122"
+		"4" "493"
+		"5" "21"
+		"6" "492"
+		"7" "4667"
+		"8" "12095"
+		"9" "29482"
+		"10" "7208"
+		"11" "1697"
+		"12" "1646"
+		"13" "1684"
+		"14" "4182"
+		"15" "4231"
+		"16" "3955"
+		"17" "597"
+		"18" "1773"
+		"19" "4106"
+	}
+	"review_score" "5"
+	"review_percentage" "62"
+}
+"extended"
+{
+	"developer" "SeedWall"
+	"publisher" "SeedWall"
+}
+"config"
+{
+	"installdir" "Hentai no Hero"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HnH.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"945891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8382911050332030289"
+				"size" "792333824"
+				"download" "363858560"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6453556"
+			"timeupdated" "1616966644"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "709bfca14798e797e537a4d8c9deb1842afa9554"
+"_size" "2573"
