@@ -68,6 +68,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1560375899"
 	"associations"
 	{
@@ -111,10 +149,10 @@
 	"gameid" "946460"
 	"store_tags"
 	{
-		"0" "44868"
-		"1" "492"
-		"2" "597"
-		"3" "24904"
+		"0" "492"
+		"1" "597"
+		"2" "24904"
+		"3" "44868"
 		"4" "6650"
 		"5" "12095"
 		"6" "21"
@@ -129,7 +167,7 @@
 		"15" "31275"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -199,3 +237,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26787712"
+"_sha" "abcae1d5ac379f6db2436021698cb5c5986b8bfb"
+"_size" "4006"
