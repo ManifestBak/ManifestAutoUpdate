@@ -151,7 +151,7 @@
 		"19" "701"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -187,15 +187,15 @@
 		{
 			"public"
 			{
-				"gid" "6117323790362641936"
-				"size" "354803184"
-				"download" "136024944"
+				"gid" "3001322955183150200"
+				"size" "386195472"
+				"download" "138553152"
 			}
 			"beta_test_branch"
 			{
-				"gid" "100321248615271299"
-				"size" "345385468"
-				"download" "130828112"
+				"gid" "3001322955183150200"
+				"size" "386195472"
+				"download" "138553152"
 			}
 		}
 	}
@@ -205,19 +205,38 @@
 		{
 			"oslist" "windows"
 		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2123656518326098732"
+				"size" "386195472"
+				"download" "138560016"
+			}
+			"beta_test_branch"
+			{
+				"gid" "2123656518326098732"
+				"size" "386195472"
+				"download" "138560016"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "7912200"
-			"timeupdated" "1639984453"
+			"buildid" "17058882"
+			"timeupdated" "1737329244"
 		}
 		"beta_test_branch"
 		{
-			"buildid" "7770054"
+			"buildid" "17058882"
 			"description" "Second Branch"
-			"timeupdated" "1637828816"
+			"timeupdated" "1737329596"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27067733"
+"_sha" "469a44b0c7e83284986397ec645cb869d28f657f"
+"_size" "3887"
