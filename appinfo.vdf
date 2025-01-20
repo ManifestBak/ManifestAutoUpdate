@@ -167,7 +167,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1712551673"
+	"store_asset_mtime" "1734673584"
 	"associations"
 	{
 		"0"
@@ -222,8 +222,8 @@
 		"2" "4328"
 		"3" "3959"
 		"4" "599"
-		"5" "9"
-		"6" "6915"
+		"5" "6915"
+		"6" "9"
 		"7" "3813"
 		"8" "1643"
 		"9" "1716"
@@ -232,8 +232,8 @@
 		"12" "122"
 		"13" "21"
 		"14" "1708"
-		"15" "1684"
-		"16" "3810"
+		"15" "3810"
+		"16" "1684"
 		"17" "220585"
 		"18" "1723"
 		"19" "4236"
@@ -241,13 +241,13 @@
 	"review_score" "6"
 	"review_percentage" "79"
 	"review_score_bombs" "6"
-	"review_percentage_bombs" "75"
+	"review_percentage_bombs" "74"
 }
 "extended"
 {
 	"developer" "FunYoo Games"
 	"publisher" "FunYoo Games"
-	"listofdlc" "2850340,2917210,3227480"
+	"listofdlc" "2850340,2917210,3227480,3348000"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -338,24 +338,15 @@
 		{
 			"public"
 			{
-				"gid" "5253904447413844765"
-				"size" "14127097041"
-				"download" "4763237184"
+				"gid" "192786529035647285"
+				"size" "14153350889"
+				"download" "4769695104"
 			}
 			"beta"
 			{
-				"gid" "5253904447413844765"
-				"size" "14127097041"
-				"download" "4763237184"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_a"
-			{
-				"gid" "AAD4E43D0E7D47863C4F44AFCE51EA27"
-				"size" "0AFEC1F8233D02C3AFA420E438DCB6BE"
-				"download" "EFFEE17E843E2E3ABF7F13CE08A8E3A1"
+				"gid" "192786529035647285"
+				"size" "14153350889"
+				"download" "4769695104"
 			}
 		}
 	}
@@ -363,22 +354,17 @@
 	{
 		"public"
 		{
-			"buildid" "16176616"
-			"timeupdated" "1730109067"
+			"buildid" "17060916"
+			"timeupdated" "1737361079"
 		}
 		"beta"
 		{
-			"buildid" "16176616"
+			"buildid" "17060916"
 			"description" "测试"
-			"timeupdated" "1730086267"
-		}
-		"beta_a"
-		{
-			"buildid" "16176616"
-			"pwdrequired" "1"
-			"timeupdated" "1730086274"
+			"timeupdated" "1737351839"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -397,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25928363"
-"_sha" "1fc86806cf2fffe06133751ab3b33e76971dd8f0"
-"_size" "7475"
+"_change_number" "27071815"
+"_sha" "eb980e47352bd690e0442652ef9ac31e09442300"
+"_size" "7197"
