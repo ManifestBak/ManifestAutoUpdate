@@ -1,11 +1,14 @@
 "appid" "3066570"
 "common"
 {
-	"name" "Aotenjo"
+	"name" "Aotenjo: Infinite Hands"
 	"type" "Game"
 	"name_localized"
 	{
 		"schinese" "青天井"
+		"english" "Aotenjo: Infinite Hands"
+		"tchinese" "青天井"
+		"japanese" "青天井：無限役"
 	}
 	"oslist" "windows,macos"
 	"osarch" ""
@@ -14,26 +17,35 @@
 	"linuxclienticon" "e563868c211979208e0ba105b7bf2d5b03b140c9"
 	"clienticon" "724578f710933ec59a8215b3d494e9691f9cfa75"
 	"icon" "a146e141604eab662bc479df55cb22c41a21ebae"
-	"releasestate" "prerelease"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "f31a682a52332e131acf395e1c10069e7b4ca97d/capsule_231x87.jpg"
+		"english" "d35d7e7f9e7bd2057e6d16ded4cf1dfb61702ebd/capsule_231x87.jpg"
 		"schinese" "7b85c7abaf25b5556471fb3bff565978b0630b19/capsule_231x87_schinese.jpg"
-		"japanese" "7b85c7abaf25b5556471fb3bff565978b0630b19/capsule_231x87_japanese.jpg"
+		"japanese" "b5d528f00f3ad4479610cd017e88684b1aa32cc1/capsule_231x87_japanese.jpg"
+		"tchinese" "7b85c7abaf25b5556471fb3bff565978b0630b19/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
 		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn,ja"
+		"library_capsule" "en,zh-cn,ja,zh-tw"
 		"library_hero" "en,zh-cn"
-		"library_logo" "en,zh-cn,ja"
-		"library_header" "en,zh-cn,ja"
+		"library_logo" "en,zh-cn,ja,zh-tw"
+		"library_header" "en,zh-cn,ja,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -47,15 +59,17 @@
 		{
 			"image"
 			{
-				"english" "ab3570f01d2896bf82f0e5cb072cf3c0ca54c002/library_600x900.jpg"
+				"english" "74142143c1f8f84429d8ea370c7f90164ccb6de1/library_600x900.jpg"
 				"schinese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_schinese.jpg"
-				"japanese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_japanese.jpg"
+				"japanese" "e0d368b2a1376bce21fdb338b174c0776d887763/library_600x900_japanese.jpg"
+				"tchinese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "ab3570f01d2896bf82f0e5cb072cf3c0ca54c002/library_600x900_2x.jpg"
+				"english" "74142143c1f8f84429d8ea370c7f90164ccb6de1/library_600x900_2x.jpg"
 				"schinese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_schinese_2x.jpg"
-				"japanese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_japanese_2x.jpg"
+				"japanese" "e0d368b2a1376bce21fdb338b174c0776d887763/library_600x900_japanese_2x.jpg"
+				"tchinese" "ab6912b7d3f20cd206546e4e3af99f6fc4327da8/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -75,15 +89,17 @@
 		{
 			"image"
 			{
-				"english" "25ba7a1bea17c229fca21769c6490ac4731e8692/logo.png"
+				"english" "f40a4b5013133aaff5767a4816120a88912d38b4/logo.png"
 				"schinese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_schinese.png"
-				"japanese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_japanese.png"
+				"japanese" "7aa80bf92564492d67b940839dbed9b9a8eb4935/logo_japanese.png"
+				"tchinese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_tchinese.png"
 			}
 			"image2x"
 			{
-				"english" "25ba7a1bea17c229fca21769c6490ac4731e8692/logo_2x.png"
+				"english" "f40a4b5013133aaff5767a4816120a88912d38b4/logo_2x.png"
 				"schinese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_schinese_2x.png"
-				"japanese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_japanese_2x.png"
+				"japanese" "7aa80bf92564492d67b940839dbed9b9a8eb4935/logo_japanese_2x.png"
+				"tchinese" "c01a7dd2e507ca605787351e3d37a5db6d314cd0/logo_tchinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -96,19 +112,21 @@
 		{
 			"image"
 			{
-				"english" "7ed73c4c3fa8eee3676a248ee18f8266c6227d61/library_header.jpg"
+				"english" "4f34616981199f59f2acc5b1780839175fd6a1cf/library_header.jpg"
 				"schinese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_schinese.jpg"
-				"japanese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_japanese.jpg"
+				"japanese" "a0314d04573b29387939852cf3474387093e075d/library_header_japanese.jpg"
+				"tchinese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"schinese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_schinese_2x.jpg"
-				"english" "7ed73c4c3fa8eee3676a248ee18f8266c6227d61/library_header_2x.jpg"
-				"japanese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_japanese_2x.jpg"
+				"english" "4f34616981199f59f2acc5b1780839175fd6a1cf/library_header_2x.jpg"
+				"japanese" "a0314d04573b29387939852cf3474387093e075d/library_header_japanese_2x.jpg"
+				"tchinese" "f186be8d3ae31b2b0d6bb185022fc9719d99930c/library_header_tchinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1728660559"
+	"store_asset_mtime" "1737345750"
 	"associations"
 	{
 		"0"
@@ -129,10 +147,14 @@
 		"1" "23"
 		"2" "28"
 		"3" "2"
+		"4" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -151,10 +173,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
+	"steam_release_date" "1737340543"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3066570"
-	"exfgls" "8"
 	"store_tags"
 	{
 		"0" "9"
@@ -166,18 +194,19 @@
 		"6" "1666"
 		"7" "6426"
 		"8" "1716"
-		"9" "791774"
-		"10" "3959"
-		"11" "3871"
-		"12" "3964"
-		"13" "1684"
-		"14" "12472"
-		"15" "4325"
-		"16" "599"
-		"17" "4182"
-		"18" "5125"
-		"19" "492"
+		"9" "3959"
+		"10" "3871"
+		"11" "3964"
+		"12" "12472"
+		"13" "599"
+		"14" "4182"
+		"15" "5125"
+		"16" "492"
+		"17" "493"
+		"18" "597"
 	}
+	"review_score" "7"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -227,48 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "5977039168774651996"
-				"size" "0"
-				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devtest"
-			{
-				"gid" "59B3B0F99E4677F6EB4B05B07BDC5D74"
-				"size" "EE28CE927AE579DFC7D96952AFE3ED58"
-				"download" "4373A1E5761571D762002CB87911CAD5"
-			}
-			"gamecon"
-			{
-				"gid" "242BAF28342546EB5FE32A76C4246329"
-				"size" "784F621FC5460BA54F9D7E81D101CD3C"
-				"download" "59AF64C27719673504937D09399F7541"
-			}
-			"hejubian2409"
-			{
-				"gid" "7FD8CD079C71020B354A25D544F9EDCF"
-				"size" "6950C9AAAA3A10C2E74486CCDF5AC9C7"
-				"download" "6556A6CA1FD279562B0FE3D7A489858F"
-			}
-			"mediatest"
-			{
-				"gid" "8DCFA2D49F0DA636B04740EC24BF458D"
-				"size" "F0BCB31119B17F0324B3D001385144D6"
-				"download" "C7F4C3DD657D24235C284B6B51DDDE42"
-			}
-			"osxtest"
-			{
-				"gid" "27FF7DEAA8260695B357159535387476"
-				"size" "E994E0A426EC149EF30224A26F68D251"
-				"download" "B669968738988912B37199760EF97E7C"
-			}
-			"playertest2410"
-			{
-				"gid" "2C39BA5FB1D829B78B8BFBE5CE179DC3"
-				"size" "014A2060C32637F4C925A47F99979F7C"
-				"download" "B05F8CB309CA7829C17CAC1D364A91C4"
+				"gid" "5911886799966332548"
+				"size" "334856854"
+				"download" "87305168"
 			}
 		}
 	}
@@ -280,14 +270,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"osxtest"
+			"public"
 			{
-				"gid" "F2799A49C92898483586F69628ACD353"
-				"size" "E7C75A3850A2D0D68C114B884B580E9E"
-				"download" "7264BF76B9B11A531D366DC3E1AA17BD"
+				"gid" "6956071626800621738"
+				"size" "358226245"
+				"download" "94244416"
 			}
 		}
 	}
@@ -295,46 +282,11 @@
 	{
 		"public"
 		{
-			"buildid" "15978043"
-			"timeupdated" "1728467986"
-		}
-		"devtest"
-		{
-			"buildid" "15993064"
-			"pwdrequired" "1"
-			"timeupdated" "1728556325"
-		}
-		"gamecon"
-		{
-			"buildid" "15767131"
-			"pwdrequired" "1"
-			"timeupdated" "1726816468"
-		}
-		"hejubian2409"
-		{
-			"buildid" "15767131"
-			"pwdrequired" "1"
-			"timeupdated" "1726816451"
-		}
-		"mediatest"
-		{
-			"buildid" "15973461"
-			"pwdrequired" "1"
-			"timeupdated" "1728457513"
-		}
-		"osxtest"
-		{
-			"buildid" "16008291"
-			"pwdrequired" "1"
-			"timeupdated" "1728647308"
-		}
-		"playertest2410"
-		{
-			"buildid" "16007628"
-			"pwdrequired" "1"
-			"timeupdated" "1728641673"
+			"buildid" "17059686"
+			"timeupdated" "1737339730"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -354,3 +306,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27071011"
+"_sha" "d6cc300c8d59cc3bd281c78ff392f78dad268efe"
+"_size" "6746"
