@@ -289,30 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "4592352317011126286"
-				"size" "6625002191"
-				"download" "6475195072"
-			}
-			"beta-2025"
-			{
-				"gid" "4592352317011126286"
-				"size" "6625002191"
-				"download" "6475195072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"minigametests"
-			{
-				"gid" "8C518154C92F14440355AD08B372D2B4"
-				"size" "E4B99506EC0117C97EA48E6C86D91C29"
-				"download" "5BAD7E4BF11E03C7D24B5EBE9A8A9F11"
-			}
-			"developer"
-			{
-				"gid" "E35B8A99C9D1254A7BDCC53835437CEF"
-				"size" "1BB70CBCF56645591B1461C6442FFBD5"
-				"download" "87CE25EF0CF90D2F3A1C03B1A158752C"
+				"gid" "4333663163706772510"
+				"size" "7225162724"
+				"download" "7053356352"
 			}
 		}
 	}
@@ -328,28 +307,11 @@
 	{
 		"public"
 		{
-			"buildid" "16906129"
-			"timeupdated" "1735995001"
-		}
-		"minigametests"
-		{
-			"buildid" "12583155"
-			"pwdrequired" "1"
-			"timeupdated" "1698763131"
-		}
-		"beta-2025"
-		{
-			"buildid" "16906129"
-			"description" "2025 patches."
-			"timeupdated" "1735994983"
-		}
-		"developer"
-		{
-			"buildid" "16906129"
-			"pwdrequired" "1"
-			"timeupdated" "1735994765"
+			"buildid" "17061287"
+			"timeupdated" "1737359820"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -367,6 +329,6 @@
 	"appidredirect" "722960"
 }
 "_missing_token" "False"
-"_change_number" "26860971"
-"_sha" "7bd2e8db2474c3c8f73596f56814d8f2eb5bb877"
-"_size" "5954"
+"_change_number" "27071545"
+"_sha" "68fd80a503f4a100efdb71c8b3bbb2f03cf881e7"
+"_size" "5139"
