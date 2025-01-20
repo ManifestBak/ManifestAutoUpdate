@@ -272,6 +272,38 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "Zort.exe"
+			"arguments" "-force-d3d12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12"
+			}
+			"description" "with DirectX 12"
+		}
+		"2"
+		{
+			"executable" "Zort.exe"
+			"arguments" "-force-vulkan"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with Vulkan"
+			}
+			"description" "with Vulkan"
+		}
 	}
 }
 "depots"
@@ -341,9 +373,9 @@
 		{
 			"public"
 			{
-				"gid" "7506694670865781530"
-				"size" "3402906277"
-				"download" "1239578880"
+				"gid" "4101989441664751863"
+				"size" "3478388016"
+				"download" "1259900288"
 			}
 			"presents"
 			{
@@ -358,8 +390,8 @@
 	{
 		"public"
 		{
-			"buildid" "16975044"
-			"timeupdated" "1736683414"
+			"buildid" "17063185"
+			"timeupdated" "1737368856"
 		}
 		"presents"
 		{
@@ -400,6 +432,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26961625"
-"_sha" "613575565a7ba18eb507aa964c07bb1b3895f8c8"
-"_size" "6403"
+"_change_number" "27075003"
+"_sha" "1aaea06a816156a022fb6937d5f84b626a62cc1b"
+"_size" "6946"
