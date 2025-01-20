@@ -111,18 +111,18 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729644360"
+	"store_asset_mtime" "1736367477"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Ult.im"
+			"name" "Celebrity Kombat"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Ult.im"
+			"name" "Celebrity Kombat"
 		}
 	}
 	"primary_genre" "1"
@@ -238,8 +238,8 @@
 }
 "extended"
 {
-	"developer" "Ult.im"
-	"publisher" "Ult.im"
+	"developer" "Celebrity Kombat"
+	"publisher" "Celebrity Kombat"
 	"homepage" "https://celebritykombat.com"
 }
 "config"
@@ -268,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "1078357308171366335"
-				"size" "24569333489"
-				"download" "6458448208"
+				"gid" "2982446671900553641"
+				"size" "25035430177"
+				"download" "6580275296"
 			}
 		}
 	}
@@ -278,12 +278,12 @@
 	{
 		"public"
 		{
-			"buildid" "16933669"
-			"timeupdated" "1736293512"
+			"buildid" "17053436"
+			"timeupdated" "1737338748"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26899944"
-"_sha" "aeb3d6c6a59f60044b346fc7eda56bc70a91bbf6"
-"_size" "4705"
+"_change_number" "27068785"
+"_sha" "763859a1e7e204bc5692b984cef1d01466bcfbc2"
+"_size" "4745"
