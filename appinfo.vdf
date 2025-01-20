@@ -4,7 +4,7 @@
 	"name" "Path of Kung Fu"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows"
+	"oslist" "windows,linux"
 	"osarch" "64"
 	"osextended" ""
 	"icon" "2e9590f8a3dd48389f88eaebea649134de560042"
@@ -220,9 +220,9 @@
 		{
 			"public"
 			{
-				"gid" "8313053819466378004"
-				"size" "11686503951"
-				"download" "4523037328"
+				"gid" "5912125404538214119"
+				"size" "11686389786"
+				"download" "4523240592"
 			}
 		}
 	}
@@ -237,9 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "5399359989420969721"
-				"size" "11686503345"
-				"download" "4523023600"
+				"gid" "6663640321603299470"
+				"size" "11686389180"
+				"download" "4523238352"
 			}
 		}
 	}
@@ -247,8 +247,8 @@
 	{
 		"public"
 		{
-			"buildid" "17050468"
-			"timeupdated" "1737207267"
+			"buildid" "17061270"
+			"timeupdated" "1737355033"
 		}
 	}
 	"privatebranches" "1"
@@ -268,6 +268,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27056039"
-"_sha" "2e6f1db5c1ffa477aabc29b62a55507de6cb7708"
-"_size" "5845"
+"_change_number" "27070862"
+"_sha" "3f262c2ff2c1f79b3b2b69c297ac574c5c1ea7f3"
+"_size" "5851"
