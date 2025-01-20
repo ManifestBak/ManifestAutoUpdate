@@ -59,6 +59,13 @@
 				"english" "4fb89a8681c794be24f6efbdf58af5db68cf457a/library_hero.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "4fb89a8681c794be24f6efbdf58af5db68cf457a/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"logo_position"
@@ -214,7 +221,7 @@
 		"19" "4252"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -272,24 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "5829766898551128492"
-				"size" "4062077129"
-				"download" "3029056720"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"main_testing"
-			{
-				"gid" "C988880C78ED2AA55911012156660B74"
-				"size" "9ED4D9E521DD3607A235E42EB9070086"
-				"download" "EFA35D0D5C8D546E94FEE214281CFE81"
-			}
-			"testing"
-			{
-				"gid" "5B6235738B07A4E2E4C4557CA6C0998B"
-				"size" "7E2761EC364322D9899207853B71C97B"
-				"download" "0E28F98E11ACC727B783ACBF0E17D9EA"
+				"gid" "6684356899977642216"
+				"size" "4088740099"
+				"download" "3046605216"
 			}
 		}
 	}
@@ -303,24 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "8605053649099039105"
-				"size" "4092323354"
-				"download" "3035312736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"main_testing"
-			{
-				"gid" "78BD0B6097A97DFB4631E5AAD06696DA"
-				"size" "6200B491C805D17524A74523BF08B58F"
-				"download" "77936599667F621D0F5C510329D91395"
-			}
-			"testing"
-			{
-				"gid" "B71DFA3575F9EE931070863943C6575D"
-				"size" "B71C4BADF08AE50DCA6FDAD4B2352F74"
-				"download" "2CFA48ACC9016E8C8D6093DB26156007"
+				"gid" "6191429703782373529"
+				"size" "4118926606"
+				"download" "3059201952"
 			}
 		}
 	}
@@ -334,24 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "293723021560300359"
-				"size" "4119646345"
-				"download" "3076216544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"main_testing"
-			{
-				"gid" "1F3A4B0553EBDDEE3488171EDDE1C9B8"
-				"size" "87DB4C3110632EECD581610F7EA1EC04"
-				"download" "57D438A1460944AB72B5471ECD18F609"
-			}
-			"testing"
-			{
-				"gid" "7397CF0CA15C84A565D8F62801E7092C"
-				"size" "5B76C1D09A65D25938F3330FED4C5186"
-				"download" "1575B8646E83701FE1C4DBBF058F7D7B"
+				"gid" "1211921173536596352"
+				"size" "4146937911"
+				"download" "3098237392"
 			}
 		}
 	}
@@ -359,22 +321,11 @@
 	{
 		"public"
 		{
-			"buildid" "16025179"
-			"timeupdated" "1728812039"
-		}
-		"main_testing"
-		{
-			"buildid" "16025179"
-			"pwdrequired" "1"
-			"timeupdated" "1728807463"
-		}
-		"testing"
-		{
-			"buildid" "16168226"
-			"pwdrequired" "1"
-			"timeupdated" "1729787237"
+			"buildid" "16436559"
+			"timeupdated" "1731864997"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -425,6 +376,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25905963"
-"_sha" "3e313fcf8505ae6e3d2802e2d454370c4c6a4957"
-"_size" "7580"
+"_change_number" "26961712"
+"_sha" "ce9c4b004587c7c0cb55e0286f5f42d695a2c5ae"
+"_size" "6377"
