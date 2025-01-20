@@ -13,14 +13,14 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1707350400"
-		"tested_build_id" "13348907"
+		"test_timestamp" "1731628800"
+		"tested_build_id" "15701823"
 		"tests"
 		{
 			"0"
 			{
 				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 			}
 		}
 		"configuration"
@@ -30,10 +30,10 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
-			"small_text" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-experimental"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -130,7 +130,6 @@
 		"0" "23"
 		"1" "28"
 		"2" "2"
-		"3" "70"
 	}
 	"category"
 	{
@@ -141,6 +140,9 @@
 		"category_15" "1"
 		"category_25" "1"
 		"category_17" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -170,7 +172,8 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1706623055"
+	"steam_release_date" "1737223270"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2216770/announcements/detail/4347746728055282960"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -181,12 +184,12 @@
 		"1" "255534"
 		"2" "6129"
 		"3" "1664"
-		"4" "5752"
-		"5" "1036"
+		"4" "1036"
+		"5" "5752"
 		"6" "5794"
 		"7" "599"
-		"8" "3968"
-		"9" "42329"
+		"8" "42329"
+		"9" "3968"
 		"10" "5502"
 		"11" "9204"
 		"12" "4191"
@@ -275,24 +278,15 @@
 		{
 			"public"
 			{
-				"gid" "2759222262198167744"
-				"size" "9773366108"
-				"download" "8990951392"
+				"gid" "761095370442462827"
+				"size" "9792781344"
+				"download" "9007225312"
 			}
 			"pre_release"
 			{
-				"gid" "2759222262198167744"
-				"size" "9773366108"
-				"download" "8990951392"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_internal"
-			{
-				"gid" "5AB1EA120BC3688F2B3988A42C4268E9"
-				"size" "35AD33984FC8683725EC7FF33E0FABF3"
-				"download" "A4A7CFC2EB62282FC95B2B42074693CC"
+				"gid" "761095370442462827"
+				"size" "9792781344"
+				"download" "9007225312"
 			}
 		}
 	}
@@ -301,22 +295,17 @@
 	{
 		"public"
 		{
-			"buildid" "16289231"
-			"timeupdated" "1731054422"
-		}
-		"dev_internal"
-		{
-			"buildid" "15052796"
-			"pwdrequired" "1"
-			"timeupdated" "1722593839"
+			"buildid" "17055364"
+			"timeupdated" "1737283475"
 		}
 		"pre_release"
 		{
-			"buildid" "16289231"
+			"buildid" "17055364"
 			"description" "Get the latest update 1-2 days earlier for testing"
-			"timeupdated" "1730735110"
+			"timeupdated" "1737283314"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -380,6 +369,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26103736"
-"_sha" "1219a0028eb2b4cf6c61d8a80f54ea1c26ff0b74"
-"_size" "6606"
+"_change_number" "27069187"
+"_sha" "8cf5ab7457d6835144ae0e9465c7345dd35bc027"
+"_size" "6485"
