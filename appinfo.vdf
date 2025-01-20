@@ -259,9 +259,9 @@
 		"5" "15045"
 		"6" "4191"
 		"7" "16598"
-		"8" "4305"
-		"9" "4175"
-		"10" "5794"
+		"8" "4175"
+		"9" "5794"
+		"10" "4305"
 		"11" "1036"
 		"12" "599"
 		"13" "1654"
@@ -376,9 +376,9 @@
 		{
 			"public"
 			{
-				"gid" "898470935036097993"
-				"size" "4278104517"
-				"download" "4099008848"
+				"gid" "5471019606945904398"
+				"size" "4278075196"
+				"download" "4098993120"
 			}
 			"0.990.39"
 			{
@@ -400,9 +400,9 @@
 			}
 			"beta"
 			{
-				"gid" "898470935036097993"
-				"size" "4278104517"
-				"download" "4099008848"
+				"gid" "5471019606945904398"
+				"size" "4278075196"
+				"download" "4098993120"
 			}
 		}
 		"encryptedmanifests"
@@ -445,9 +445,9 @@
 			}
 			"test"
 			{
-				"gid" "D45569784348D3EAA925560DA1E42FCE"
-				"size" "397896DF8362124F4B2C59D4B12169EC"
-				"download" "837130B2EB8C213939B8FCBF0738900A"
+				"gid" "2E0272052EEDB4F0F178B8B2B5495EC7"
+				"size" "617A3A109AC424F1935403939069B085"
+				"download" "CECDED63A33149FE6C4DA67B1E6AE67B"
 			}
 		}
 	}
@@ -1483,8 +1483,8 @@
 	{
 		"public"
 		{
-			"buildid" "16473963"
-			"timeupdated" "1733421545"
+			"buildid" "17040641"
+			"timeupdated" "1737387272"
 		}
 		"0.990.36"
 		{
@@ -1542,15 +1542,15 @@
 		}
 		"beta"
 		{
-			"buildid" "16473963"
+			"buildid" "17040641"
 			"description" "public beta branch"
-			"timeupdated" "1733168082"
+			"timeupdated" "1737122212"
 		}
 		"test"
 		{
-			"buildid" "16473963"
+			"buildid" "17040641"
 			"pwdrequired" "1"
-			"timeupdated" "1732114829"
+			"timeupdated" "1737121307"
 		}
 	}
 	"appmanagesdlc" "1"
@@ -1561,6 +1561,6 @@
 	"maxnumfiles" "2500"
 }
 "_missing_token" "False"
-"_change_number" "26512943"
-"_sha" "93d7ea4797ebf25a549dc7fe9cb55645e3f3538a"
-"_size" "33214"
+"_change_number" "27078165"
+"_sha" "45305c520ef29dd7918819e4b50c6219a1ddde20"
+"_size" "33216"
