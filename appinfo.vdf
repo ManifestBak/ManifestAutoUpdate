@@ -371,7 +371,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese,portuguese"
+	"baselanguages" ""
 	"228989"
 	{
 		"config"
@@ -401,9 +401,9 @@
 		{
 			"public"
 			{
-				"gid" "2715384313573751089"
-				"size" "3880316823"
-				"download" "3548003504"
+				"gid" "3899729221480113486"
+				"size" "3880331159"
+				"download" "3548008448"
 			}
 		}
 	}
@@ -420,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "16897847"
-			"timeupdated" "1735893231"
+			"buildid" "17059380"
+			"timeupdated" "1737342214"
 		}
 	}
 	"privatebranches" "1"
@@ -465,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26849249"
-"_sha" "c0930a65a3f6cf060ba9c84131e237b2d12b9490"
-"_size" "8655"
+"_change_number" "27069244"
+"_sha" "534fdaf69abc41ce22c83b39482cd6c551508b0a"
+"_size" "8619"
