@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737133754"
+	"store_asset_mtime" "1737232718"
 	"associations"
 	{
 		"0"
@@ -196,6 +196,8 @@
 		"category_58" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_30" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -343,21 +345,15 @@
 		{
 			"public"
 			{
-				"gid" "3220133801109599795"
-				"size" "996267516"
-				"download" "1003549456"
-			}
-			"mapeditor"
-			{
-				"gid" "3220133801109599795"
-				"size" "996267516"
-				"download" "1003549456"
+				"gid" "8830037980044900471"
+				"size" "996274262"
+				"download" "1003557008"
 			}
 			"test"
 			{
-				"gid" "3220133801109599795"
-				"size" "996267516"
-				"download" "1003549456"
+				"gid" "8830037980044900471"
+				"size" "996274262"
+				"download" "1003557008"
 			}
 		}
 	}
@@ -371,12 +367,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "6404141683023472795"
-				"size" "3185595857"
-				"download" "3194926672"
-			}
-			"mapeditor"
 			{
 				"gid" "6404141683023472795"
 				"size" "3185595857"
@@ -399,9 +389,15 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "1045049864157776065"
+				"size" "424790186"
+				"download" "423679136"
+			}
 			"test"
 			{
-				"gid" "7512272249576767844"
+				"gid" "1045049864157776065"
 				"size" "424790186"
 				"download" "423679136"
 			}
@@ -411,20 +407,14 @@
 	{
 		"public"
 		{
-			"buildid" "17042896"
-			"timeupdated" "1737133540"
-		}
-		"mapeditor"
-		{
-			"buildid" "17042896"
-			"description" "version 1.2.0 voluntary beta testing"
-			"timeupdated" "1737133316"
+			"buildid" "17057107"
+			"timeupdated" "1737310087"
 		}
 		"test"
 		{
-			"buildid" "17049697"
+			"buildid" "17057107"
 			"description" "upcoming update voluntary testing"
-			"timeupdated" "1737197010"
+			"timeupdated" "1737309842"
 		}
 	}
 	"privatebranches" "1"
@@ -468,6 +458,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27055057"
-"_sha" "c6af8f58b61f8697006e59a591b0c745819f1ce6"
-"_size" "8043"
+"_change_number" "27065566"
+"_sha" "c63efbbb451df6c2c789fa01500e7206bb1ab6d1"
+"_size" "7824"
