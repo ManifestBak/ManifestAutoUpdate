@@ -248,15 +248,15 @@
 		{
 			"public"
 			{
-				"gid" "6451969099511924273"
-				"size" "598787764"
-				"download" "429528368"
+				"gid" "2288023755861687031"
+				"size" "598787888"
+				"download" "429528640"
 			}
 			"beta"
 			{
-				"gid" "6451969099511924273"
-				"size" "598787764"
-				"download" "429528368"
+				"gid" "2288023755861687031"
+				"size" "598787888"
+				"download" "429528640"
 			}
 			"v0.5.12"
 			{
@@ -314,9 +314,9 @@
 			}
 			"deploy-test"
 			{
-				"gid" "6451969099511924273"
-				"size" "598787764"
-				"download" "429528368"
+				"gid" "2288023755861687031"
+				"size" "598787888"
+				"download" "429528640"
 			}
 		}
 	}
@@ -420,15 +420,15 @@
 		{
 			"public"
 			{
-				"gid" "542831853625057064"
-				"size" "584444306"
-				"download" "425998128"
+				"gid" "6766704066749867061"
+				"size" "584445571"
+				"download" "425999776"
 			}
 			"beta"
 			{
-				"gid" "542831853625057064"
-				"size" "584444306"
-				"download" "425998128"
+				"gid" "6766704066749867061"
+				"size" "584445571"
+				"download" "425999776"
 			}
 			"v0.5.12"
 			{
@@ -558,9 +558,9 @@
 			}
 			"deploy-test"
 			{
-				"gid" "542831853625057064"
-				"size" "584444306"
-				"download" "425998128"
+				"gid" "6766704066749867061"
+				"size" "584445571"
+				"download" "425999776"
 			}
 		}
 	}
@@ -568,14 +568,14 @@
 	{
 		"public"
 		{
-			"buildid" "17045115"
-			"timeupdated" "1737148964"
+			"buildid" "17057804"
+			"timeupdated" "1737317745"
 		}
 		"beta"
 		{
-			"buildid" "17045115"
+			"buildid" "17057804"
 			"description" "beta"
-			"timeupdated" "1737147662"
+			"timeupdated" "1737317685"
 		}
 		"v0.5.12"
 		{
@@ -705,9 +705,9 @@
 		}
 		"deploy-test"
 		{
-			"buildid" "17045115"
+			"buildid" "17057804"
 			"description" "For testing deployments"
-			"timeupdated" "1737147669"
+			"timeupdated" "1737317693"
 		}
 	}
 }
@@ -727,6 +727,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27049481"
-"_sha" "e2f372ab88edb8a7fef38e732083ed5e47118f0b"
-"_size" "13334"
+"_change_number" "27066424"
+"_sha" "e7c248c7a002723968de0863802e7eb2057f5dac"
+"_size" "13337"
