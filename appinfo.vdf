@@ -18,6 +18,7 @@
 		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_9aeb7df36ec250a59dc083c713ead64d4b738d25.jpg"
 	"store_asset_mtime" "1709002350"
 	"associations"
 	{
@@ -106,9 +107,9 @@
 		{
 			"public"
 			{
-				"gid" "3902727773504236454"
-				"size" "143863247"
-				"download" "63339744"
+				"gid" "6314012803235278101"
+				"size" "144042735"
+				"download" "63357504"
 			}
 		}
 		"dlcappid" "2850340"
@@ -117,8 +118,12 @@
 	{
 		"public"
 		{
-			"buildid" "14962826"
-			"timeupdated" "1720431948"
+			"buildid" "17061783"
+			"timeupdated" "1737360222"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27071614"
+"_sha" "9ddf89f5816068e7884ce4249105d713cdd50413"
+"_size" "1998"
