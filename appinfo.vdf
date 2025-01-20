@@ -11,6 +11,7 @@
 	"icon" "a3b4c95c4fd367d94e2baf3168feeed8262ca874"
 	"logo" "1cf251a4aebf791c95df09702e9edc1fbcc5f1b7"
 	"logo_small" "1cf251a4aebf791c95df09702e9edc1fbcc5f1b7_thumb"
+	"restricted_countries" "DE"
 	"metacritic_name" "大老爷"
 	"small_capsule"
 	{
@@ -156,9 +157,9 @@
 		{
 			"public"
 			{
-				"gid" "7689668369370063417"
-				"size" "364536821"
-				"download" "304343872"
+				"gid" "7460875286739618244"
+				"size" "393972497"
+				"download" "333852256"
 			}
 		}
 	}
@@ -167,8 +168,8 @@
 	{
 		"public"
 		{
-			"buildid" "16121452"
-			"timeupdated" "1729510185"
+			"buildid" "17047888"
+			"timeupdated" "1737172448"
 		}
 	}
 }
@@ -192,6 +193,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25818860"
-"_sha" "9b64640fa47fea2f948ff98854aeed0e598fecef"
-"_size" "3041"
+"_change_number" "27052767"
+"_sha" "eaa8f34a7b62331170084b7a778ba01812a7b928"
+"_size" "3072"
