@@ -219,7 +219,7 @@
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
 	{
-		"3378416838"
+		"3410975815"
 		{
 			"controller_type" "controller_xbox360"
 			"enabled_branches" "default"
@@ -240,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "3659805585311369770"
-				"size" "636858270"
-				"download" "538211792"
+				"gid" "6896330009611322473"
+				"size" "643176117"
+				"download" "544311168"
 			}
 		}
 	}
@@ -266,8 +266,8 @@
 	{
 		"public"
 		{
-			"buildid" "17047298"
-			"timeupdated" "1737166774"
+			"buildid" "17061978"
+			"timeupdated" "1737362217"
 		}
 	}
 	"privatebranches" "1"
@@ -311,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27052156"
-"_sha" "da958caa2b769f858e043ec776d3eb8fdc76eb2a"
+"_change_number" "27072048"
+"_sha" "7767077a418adcdaa248136416450eb50f17fda6"
 "_size" "5432"
