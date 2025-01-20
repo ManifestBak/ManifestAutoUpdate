@@ -3,7 +3,7 @@
 {
 	"name" "DYNASTY WARRIORS: ORIGINS"
 	"type" "Game"
-	"releasestate" "preloadonly"
+	"releasestate" "released"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
@@ -83,6 +83,7 @@
 			"hdr_support" "2"
 		}
 	}
+	"metacritic_name" "Dynasty Warriors: Origins"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -187,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732069170"
+	"store_asset_mtime" "1737104886"
 	"associations"
 	{
 		"0"
@@ -221,6 +222,7 @@
 		"category_23" "1"
 		"category_61" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -273,6 +275,10 @@
 			"subtitles" "true"
 		}
 	}
+	"steam_release_date" "1737075629"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dynasty-warriors-origins\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2384580"
 	"store_tags"
@@ -280,8 +286,8 @@
 		"0" "1646"
 		"1" "4777"
 		"2" "4684"
-		"3" "122"
-		"4" "6915"
+		"3" "6915"
+		"4" "122"
 		"5" "4231"
 		"6" "9"
 		"7" "3987"
@@ -290,20 +296,24 @@
 		"10" "4608"
 		"11" "7481"
 		"12" "19"
-		"13" "6971"
-		"14" "1742"
-		"15" "323922"
+		"13" "323922"
+		"14" "6971"
+		"15" "1742"
 		"16" "1708"
-		"17" "1678"
-		"18" "4182"
-		"19" "4145"
+		"17" "9551"
+		"18" "1678"
+		"19" "4182"
 	}
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"developer" "KOEI TECMO GAMES CO., LTD."
 	"publisher" "KOEI TECMO GAMES CO., LTD."
 	"homepage" "https://koeitecmoamerica.com/dw_origins/rd/steam_store/"
+	"listofdlc" "3319840,3319850,3319860,3319870,3319880,3319890,3319900,3319910,3319920,3319930"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -387,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "6579934237264126194"
-				"size" "53490706932"
-				"download" "49355602304"
+				"gid" "8347826608026935430"
+				"size" "53490722036"
+				"download" "49423946752"
 			}
 		}
 	}
@@ -400,16 +410,13 @@
 		{
 			"oslist" "windows"
 		}
-		"manifests"
-		{
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16809808"
-			"timeupdated" "1735193418"
+			"buildid" "16936649"
+			"timeupdated" "1737334905"
 		}
 	}
 	"privatebranches" "1"
@@ -433,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26975738"
-"_sha" "f88fcf1b59448624705c6c73b472b24d0bff20e3"
-"_size" "11582"
+"_change_number" "27068318"
+"_sha" "84f0b4d2a81cd1c1759a7d349ef422dfafe7468f"
+"_size" "12004"
