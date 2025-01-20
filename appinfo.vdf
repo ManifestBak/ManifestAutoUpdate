@@ -168,7 +168,6 @@
 	{
 		"0" "28"
 		"1" "2"
-		"2" "70"
 	}
 	"category"
 	{
@@ -209,7 +208,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1669996780"
+	"steam_release_date" "1737396126"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -280,15 +279,15 @@
 		{
 			"public"
 			{
-				"gid" "8735738132359584851"
-				"size" "6366076941"
-				"download" "1987721072"
+				"gid" "7994517037359740456"
+				"size" "6579249876"
+				"download" "2023651824"
 			}
 			"previous"
 			{
-				"gid" "7345493971874723926"
-				"size" "6053468843"
-				"download" "1941409744"
+				"gid" "8735738132359584851"
+				"size" "6366076941"
+				"download" "1987721072"
 			}
 		}
 	}
@@ -297,14 +296,14 @@
 	{
 		"public"
 		{
-			"buildid" "16751217"
-			"timeupdated" "1734273325"
+			"buildid" "17063809"
+			"timeupdated" "1737395981"
 		}
 		"previous"
 		{
-			"buildid" "14729702"
+			"buildid" "16751217"
 			"description" "Previous valid patch"
-			"timeupdated" "1726526324"
+			"timeupdated" "1737384604"
 		}
 	}
 	"privatebranches" "1"
@@ -357,6 +356,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26650376"
-"_sha" "896e73b99c10340e7abce2e3f92e4304b92c6f19"
-"_size" "6463"
+"_change_number" "27080490"
+"_sha" "5e1514e2f93866e1a0dd37208acece2ce197be99"
+"_size" "6450"
