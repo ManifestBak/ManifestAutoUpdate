@@ -15,10 +15,12 @@
 		"japanese" "バックパック・バトル"
 		"koreana" "백팩 배틀즈"
 		"tchinese" "背包亂鬥 Backpack Battles"
+		"sc_schinese" "背包乱斗：福西法的宝藏"
 	}
 	"oslist" "windows,linux"
 	"osarch" "64"
 	"osextended" ""
+	"releasestatesteamchina" "prerelease"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -69,18 +71,20 @@
 	{
 		"english" "capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "fd92d3fc23a49b3890e9a60815552f5bb3ca2de5/capsule_231x87_sc_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn"
+		"library_capsule" "en,zh-cn,zh-xc"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn"
-		"library_header" "en,zh-cn"
+		"library_header" "en,zh-cn,zh-xc"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -96,11 +100,13 @@
 			{
 				"english" "library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "d11adc535239e512041f4bd492a016bde392c01e/library_600x900_sc_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "d11adc535239e512041f4bd492a016bde392c01e/library_600x900_sc_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -139,10 +145,11 @@
 			{
 				"english" "library_header.jpg"
 				"schinese" "library_header_schinese.jpg"
+				"sc_schinese" "2127bfdc1dfe99cfb4f02da1ecaadb7287e2442e/library_header_sc_schinese.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1734420198"
+	"store_asset_mtime" "1737343929"
 	"associations"
 	{
 		"0"
@@ -297,6 +304,10 @@
 	}
 	"steamdecktouchscreen" "4"
 	"steamcontrollertemplateindex" "2"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
 }
 "depots"
 {
@@ -312,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "7648898914990538826"
-				"size" "274989907"
-				"download" "202445984"
+				"gid" "8351457581910911078"
+				"size" "274987635"
+				"download" "202446640"
 			}
 		}
 	}
@@ -328,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "2285000657605148470"
-				"size" "276325664"
-				"download" "203759840"
+				"gid" "4129189246376486287"
+				"size" "276323392"
+				"download" "203758880"
 			}
 		}
 	}
@@ -338,8 +349,8 @@
 	{
 		"public"
 		{
-			"buildid" "17000137"
-			"timeupdated" "1736860975"
+			"buildid" "17038326"
+			"timeupdated" "1737108385"
 		}
 	}
 }
@@ -388,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26990131"
-"_sha" "11496a5750596dcc4f7c1c4522f1ffc1c99e9ea7"
-"_size" "7107"
+"_change_number" "27070713"
+"_sha" "53eda0f959249363be83b8cb202ef7e924979158"
+"_size" "7711"
