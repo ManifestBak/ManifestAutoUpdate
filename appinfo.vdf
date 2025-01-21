@@ -133,6 +133,8 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -152,6 +154,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1722605925"
 	"community_hub_visible" "1"
@@ -167,12 +179,12 @@
 		"6" "4175"
 		"7" "9130"
 		"8" "122"
-		"9" "4182"
-		"10" "5984"
-		"11" "493"
-		"12" "1695"
-		"13" "4474"
-		"14" "1742"
+		"9" "1695"
+		"10" "4182"
+		"11" "5984"
+		"12" "493"
+		"13" "1742"
+		"14" "4474"
 		"15" "1663"
 		"16" "4747"
 		"17" "21"
@@ -221,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "7649593997313914555"
-				"size" "6713093692"
-				"download" "5467360240"
+				"gid" "2383598519915412218"
+				"size" "7223732974"
+				"download" "5919323760"
 			}
 		}
 	}
@@ -232,8 +244,8 @@
 	{
 		"public"
 		{
-			"buildid" "16835275"
-			"timeupdated" "1734959591"
+			"buildid" "17066186"
+			"timeupdated" "1737426276"
 		}
 	}
 	"privatebranches" "1"
@@ -259,6 +271,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26762918"
-"_sha" "affde017c6c5b93c8299a49612a87f1af01e9899"
-"_size" "4411"
+"_change_number" "27086926"
+"_sha" "d9205175dca2ba6ea7f44494e5e17bfd242cadee"
+"_size" "4597"
