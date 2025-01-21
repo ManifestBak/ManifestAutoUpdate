@@ -249,8 +249,8 @@
 		"15" "8945"
 		"16" "26921"
 		"17" "1662"
-		"18" "4252"
-		"19" "4182"
+		"18" "4182"
+		"19" "4252"
 	}
 	"review_score" "8"
 	"review_percentage" "81"
@@ -500,6 +500,12 @@
 				"size" "4354202681"
 				"download" "2044400400"
 			}
+			"11.1.7"
+			{
+				"gid" "6860308815474727994"
+				"size" "4354202681"
+				"download" "2044400400"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -540,9 +546,9 @@
 		{
 			"public"
 			{
-				"gid" "835415718223565374"
-				"size" "6066196836"
-				"download" "3592408480"
+				"gid" "2431612863748963457"
+				"size" "6068859061"
+				"download" "3594952848"
 			}
 			"11.0.0"
 			{
@@ -628,6 +634,12 @@
 				"size" "6066196836"
 				"download" "3592408480"
 			}
+			"11.1.7"
+			{
+				"gid" "2431612863748963457"
+				"size" "6068859061"
+				"download" "3594952848"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -639,9 +651,9 @@
 			}
 			"develop"
 			{
-				"gid" "FC258B764A57503E67380BD733BD8E79"
-				"size" "26B238B70709E2DA54F4975D7A8013E1"
-				"download" "86678FC1E30DF9C795D4ECC6C5B41945"
+				"gid" "04D3DD65982A38B18CFE35C76F20C722"
+				"size" "138F6B48F432A10E81CF52A4B2016F3E"
+				"download" "18C2CD0F38818E37E3C4EB53E19BF5E2"
 			}
 			"playtest"
 			{
@@ -651,9 +663,9 @@
 			}
 			"release"
 			{
-				"gid" "E68AB99B199A2E2B95A78CA8410AA94F"
-				"size" "FA708A9F563BE801C574F65B67CCA86A"
-				"download" "006188C8FEB8E4AD1DDEB546F494F0BF"
+				"gid" "BC23ADC7268A9140BCB8730AC93414C5"
+				"size" "6F148756A17C55A279512D4E9940339A"
+				"download" "74288867F0E5271FBA61F519716221F3"
 			}
 			"staging"
 			{
@@ -673,9 +685,9 @@
 		{
 			"public"
 			{
-				"gid" "1776091669758449034"
-				"size" "5833006438"
-				"download" "3550146304"
+				"gid" "8758192125422137633"
+				"size" "5835096487"
+				"download" "3552450464"
 			}
 			"11.0.0"
 			{
@@ -761,6 +773,12 @@
 				"size" "5833006438"
 				"download" "3550146304"
 			}
+			"11.1.7"
+			{
+				"gid" "8758192125422137633"
+				"size" "5835096487"
+				"download" "3552450464"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -784,9 +802,9 @@
 			}
 			"release"
 			{
-				"gid" "C78B70E1BA581644EE7FC5EF6C2E7FAA"
-				"size" "42542CC4F2890FCABDA388DE17F9C47B"
-				"download" "35DF88F6082BE5265A83C09625E09FFF"
+				"gid" "0C9E758F48C20F2729DA605E09406CB2"
+				"size" "2095F2F8A8018506ABB83FEDC646BB01"
+				"download" "1445FE6DA04A3A8D76B1FAE6354C1E4F"
 			}
 			"staging"
 			{
@@ -806,9 +824,9 @@
 		{
 			"public"
 			{
-				"gid" "3255699734273821196"
-				"size" "5917827489"
-				"download" "3589396448"
+				"gid" "5818042844694741907"
+				"size" "6118585177"
+				"download" "3608077168"
 			}
 			"11.0.0"
 			{
@@ -894,6 +912,12 @@
 				"size" "5917827489"
 				"download" "3589396448"
 			}
+			"11.1.7"
+			{
+				"gid" "5818042844694741907"
+				"size" "6118585177"
+				"download" "3608077168"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -917,9 +941,9 @@
 			}
 			"release"
 			{
-				"gid" "19028AE1CC35E57543F3C3163569BA0B"
-				"size" "D26ED3DA8E403A47E238EAC5A7746E61"
-				"download" "9B1D94D7D5208B2492A734DC761CFF92"
+				"gid" "055E75364D25A378BC437AEC3A4C50B8"
+				"size" "3F7154C0AFD63A51F003059BF5C7FC17"
+				"download" "E34A3E718B4887C28DAF30B0F2E22A77"
 			}
 			"staging"
 			{
@@ -933,8 +957,8 @@
 	{
 		"public"
 		{
-			"buildid" "16789243"
-			"timeupdated" "1734540854"
+			"buildid" "17063927"
+			"timeupdated" "1737373627"
 		}
 		"release_china"
 		{
@@ -1026,11 +1050,17 @@
 			"description" "Beta 11.1.6"
 			"timeupdated" "1734538490"
 		}
+		"11.1.7"
+		{
+			"buildid" "17063927"
+			"description" "Beta 11.1.7"
+			"timeupdated" "1737372533"
+		}
 		"develop"
 		{
-			"buildid" "16290981"
+			"buildid" "17048202"
 			"pwdrequired" "1"
-			"timeupdated" "1730745333"
+			"timeupdated" "1737176314"
 		}
 		"playtest"
 		{
@@ -1040,9 +1070,9 @@
 		}
 		"release"
 		{
-			"buildid" "16795185"
+			"buildid" "17055590"
 			"pwdrequired" "1"
-			"timeupdated" "1734576630"
+			"timeupdated" "1737287791"
 		}
 		"staging"
 		{
