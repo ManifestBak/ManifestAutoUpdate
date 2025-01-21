@@ -59,7 +59,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "483cbffd58ac23d9e13c347ce3530cc8f71c912b/capsule_231x87.jpg"
+		"english" "f1c4d8b69c417025f316ed5bf03ebaecba4113a5/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -127,7 +127,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731696089"
+	"store_asset_mtime" "1737397860"
 	"associations"
 	{
 		"0"
@@ -170,6 +170,7 @@
 		"category_38" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_35" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -438,15 +439,9 @@
 		{
 			"public"
 			{
-				"gid" "9176911931762750745"
-				"size" "10695103098"
-				"download" "9927377536"
-			}
-			"beta_debug"
-			{
-				"gid" "7110229794652989098"
-				"size" "10892746398"
-				"download" "9972578672"
+				"gid" "8866080498322421071"
+				"size" "10851324699"
+				"download" "10078890416"
 			}
 			"original"
 			{
@@ -460,14 +455,8 @@
 	{
 		"public"
 		{
-			"buildid" "16985928"
-			"timeupdated" "1736764977"
-		}
-		"beta_debug"
-		{
-			"buildid" "16913433"
-			"description" "beta_debug"
-			"timeupdated" "1736340537"
+			"buildid" "17068530"
+			"timeupdated" "1737399234"
 		}
 		"original"
 		{
@@ -485,6 +474,6 @@
 	"appidredirect" "2882870"
 }
 "_missing_token" "False"
-"_change_number" "26970596"
-"_sha" "28ea3abaf4efc3ff61b66a6de3ef47ae269431bb"
-"_size" "8229"
+"_change_number" "27081484"
+"_sha" "6f19ccc8dc8b2a1883635300166706dcfc818df2"
+"_size" "8016"
