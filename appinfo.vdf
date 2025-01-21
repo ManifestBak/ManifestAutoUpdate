@@ -318,8 +318,8 @@
 		"14" "4975"
 		"15" "1685"
 		"16" "6730"
-		"17" "1695"
-		"18" "4106"
+		"17" "4106"
+		"18" "1695"
 		"19" "4777"
 	}
 	"review_score" "8"
@@ -330,7 +330,7 @@
 	"developer" "Spike Chunsoft Co., Ltd."
 	"publisher" "Bandai Namco Entertainment"
 	"aliases" "Sparking Zero"
-	"listofdlc" "2957460,2957470,2957480,2957490,2957500,2957510,2957520,2963440,2963450"
+	"listofdlc" "2957460,2957470,2957480,2957490,2957500,2957510,2957520,2963440,2963450,3310650"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -379,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "7963134825475815579"
-				"size" "29720283508"
-				"download" "28309174720"
+				"gid" "8385078211335268282"
+				"size" "30283103591"
+				"download" "28854529744"
 			}
 		}
 	}
@@ -421,8 +421,8 @@
 	{
 		"public"
 		{
-			"buildid" "16752936"
-			"timeupdated" "1734681612"
+			"buildid" "16942351"
+			"timeupdated" "1737410401"
 		}
 	}
 	"privatebranches" "1"
@@ -442,6 +442,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26899863"
-"_sha" "57ca79e58104ed5c25955f60b91ef5c682064d3f"
-"_size" "7867"
+"_change_number" "27083956"
+"_sha" "f4c54a2d064440e8f9e26550e870d554f2d4b5ef"
+"_size" "7875"
