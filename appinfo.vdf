@@ -145,7 +145,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728768539"
+	"store_asset_mtime" "1736527929"
 	"associations"
 	{
 		"0"
@@ -247,10 +247,10 @@
 		"0" "1647"
 		"1" "5228"
 		"2" "42804"
-		"3" "19"
-		"4" "1716"
-		"5" "1774"
-		"6" "3964"
+		"3" "1716"
+		"4" "19"
+		"5" "3964"
+		"6" "1774"
 		"7" "492"
 		"8" "4791"
 		"9" "3959"
@@ -316,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "2422282455362733267"
-				"size" "574155261"
-				"download" "353008752"
+				"gid" "4770244694972704123"
+				"size" "574346572"
+				"download" "353047248"
 			}
 			"version-1020"
 			{
@@ -340,9 +340,9 @@
 			}
 			"unstable"
 			{
-				"gid" "2422282455362733267"
-				"size" "574155261"
-				"download" "353008752"
+				"gid" "4770244694972704123"
+				"size" "574346572"
+				"download" "353047248"
 			}
 			"version-1213"
 			{
@@ -357,15 +357,6 @@
 				"download" "352581616"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "A26D768EC6807268CF970C7D5DA8C146"
-				"size" "1C1ACB4176C8F86007C12EABCBB28010"
-				"download" "535F95E0D3828504296C340C407954B0"
-			}
-		}
 	}
 	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish"
 	"hasdepotsindlc" "0"
@@ -373,8 +364,8 @@
 	{
 		"public"
 		{
-			"buildid" "16803090"
-			"timeupdated" "1734630459"
+			"buildid" "17068442"
+			"timeupdated" "1737398997"
 		}
 		"version-1020"
 		{
@@ -394,17 +385,11 @@
 			"description" "Version 1.1.1.1"
 			"timeupdated" "1656690439"
 		}
-		"private"
-		{
-			"buildid" "16803090"
-			"pwdrequired" "1"
-			"timeupdated" "1734624352"
-		}
 		"unstable"
 		{
-			"buildid" "16803090"
+			"buildid" "17068442"
 			"description" "Public pre-release testing"
-			"timeupdated" "1734624365"
+			"timeupdated" "1737398547"
 		}
 		"version-1213"
 		{
@@ -419,6 +404,7 @@
 			"timeupdated" "1731881227"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -454,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26718770"
-"_sha" "ce84d5dd6921199e2e6dda7a166d35f61ce7fe68"
-"_size" "8078"
+"_change_number" "27081213"
+"_sha" "3ec67bf187bd8c3acd7e8e0136a4586e04448df0"
+"_size" "7792"
