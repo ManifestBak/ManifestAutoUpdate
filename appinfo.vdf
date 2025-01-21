@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734033494"
+	"store_asset_mtime" "1737476056"
 	"associations"
 	{
 		"0"
@@ -199,7 +199,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "45"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -288,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "5753470641395956923"
-				"size" "20002383684"
-				"download" "16797752064"
+				"gid" "5088983341521847689"
+				"size" "20165221719"
+				"download" "16918271296"
 			}
 		}
 		"encryptedmanifests"
@@ -351,9 +351,9 @@
 			}
 			"staging"
 			{
-				"gid" "6CDB31E32AB252C71ED04D130B8D3DC5"
-				"size" "1412C936855F918FC98208235D8ACE19"
-				"download" "0E204628E56306E2DFE39EEE340B0B7E"
+				"gid" "8047B7DDA81DAFC3F8D221441C9C058C"
+				"size" "AD9E1DDFB9060C6E74B038BDF31734B6"
+				"download" "80621F3FAA00FF24BFF23C1713EC896B"
 			}
 		}
 	}
@@ -368,9 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "840731318346099892"
-				"size" "20479836860"
-				"download" "16922791952"
+				"gid" "6468084260379275438"
+				"size" "20622558522"
+				"download" "17021593376"
 			}
 		}
 		"encryptedmanifests"
@@ -425,9 +425,9 @@
 			}
 			"staging"
 			{
-				"gid" "9C784BE7A7079E383AFF70316A07236D"
-				"size" "66DF27DAD4EA1D5BB85EB78794BE2B91"
-				"download" "ED9BD208A587683F017C4562500ECD89"
+				"gid" "9B46B4C17CCD78D891DE31415C0F6DBC"
+				"size" "B08DCD37AB7B57B0937DD37215F1BD7C"
+				"download" "95143ED2BCD01B410BF5347D07CC14B4"
 			}
 		}
 	}
@@ -435,8 +435,8 @@
 	{
 		"public"
 		{
-			"buildid" "16762453"
-			"timeupdated" "1734458766"
+			"buildid" "17032061"
+			"timeupdated" "1737471906"
 		}
 		"anti_cheat"
 		{
@@ -494,9 +494,9 @@
 		}
 		"staging"
 		{
-			"buildid" "16771572"
+			"buildid" "17032061"
 			"pwdrequired" "1"
-			"timeupdated" "1734431016"
+			"timeupdated" "1737064186"
 		}
 	}
 }
@@ -519,6 +519,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26682466"
-"_sha" "9ae43a4b8fce28ee959298e499add94d2eda36e1"
-"_size" "10034"
+"_change_number" "27096597"
+"_sha" "d7d570087bec208358b517f70e0b74a0f61528ff"
+"_size" "10035"
