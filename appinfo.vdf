@@ -195,41 +195,25 @@
 }
 "depots"
 {
+	"baselanguages" "english"
 	"1870701"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "8614176102784558418"
-				"size" "505457063"
-				"download" "373400784"
+				"gid" "8968339954254068128"
+				"size" "490915367"
+				"download" "369793280"
 			}
 		}
 	}
-	"1870702"
-	{
-		"config"
-		{
-			"oslist" "linux"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "8867576546234195876"
-				"size" "488961343"
-				"download" "366610576"
-			}
-		}
-	}
-	"baselanguages" "english"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16981228"
-			"timeupdated" "1736710425"
+			"buildid" "17065006"
+			"timeupdated" "1737380714"
 		}
 	}
 }
@@ -265,6 +249,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26992512"
-"_sha" "c2d81534264b6452ec8466cdf35e77af5fb6add5"
-"_size" "4601"
+"_change_number" "27076341"
+"_sha" "07bd5d4cb08b3d010042d8b7358b756a51d0d476"
+"_size" "4399"
