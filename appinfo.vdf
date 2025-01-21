@@ -185,11 +185,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"arabic"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"brazilian"
 		{
 			"supported" "true"
@@ -279,6 +274,9 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -289,15 +287,15 @@
 		{
 			"public"
 			{
-				"gid" "7039110085889264251"
-				"size" "10244796028"
-				"download" "9934610976"
+				"gid" "1968279670564030466"
+				"size" "10278042883"
+				"download" "9939887728"
 			}
 			"beta_old_saves_fixes"
 			{
-				"gid" "7039110085889264251"
-				"size" "10244796028"
-				"download" "9934610976"
+				"gid" "1968279670564030466"
+				"size" "10278042883"
+				"download" "9939887728"
 			}
 		}
 	}
@@ -305,14 +303,14 @@
 	{
 		"public"
 		{
-			"buildid" "17050933"
-			"timeupdated" "1737214544"
+			"buildid" "17077020"
+			"timeupdated" "1737460464"
 		}
 		"beta_old_saves_fixes"
 		{
-			"buildid" "17050933"
-			"description" "Try this build to fix saves from Early Access."
-			"timeupdated" "1737214768"
+			"buildid" "17077020"
+			"description" "Try this build to fix SteamDeck"
+			"timeupdated" "1737460483"
 		}
 	}
 	"privatebranches" "1"
@@ -334,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27056804"
-"_sha" "d97f02087250c5fa8c69972b6f5bd06c65800ec2"
-"_size" "5247"
+"_change_number" "27092466"
+"_sha" "1719fb7561c0c2d28f2025b6b92469a3c96aca04"
+"_size" "5275"
