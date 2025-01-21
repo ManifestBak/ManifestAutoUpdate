@@ -34,6 +34,7 @@
 		"ukrainian" "1"
 		"latam" "1"
 	}
+	"metacritic_name" "Songs Of Silence"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -239,34 +240,36 @@
 	}
 	"steam_release_date" "1731520857"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/2195410/announcements/detail/4353376227583508898"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/songs-of-silence\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2195410"
 	"store_tags"
 	{
-		"0" "1741"
-		"1" "1084988"
-		"2" "14139"
-		"3" "17305"
+		"0" "1742"
+		"1" "17305"
+		"2" "1741"
+		"3" "1684"
 		"4" "4182"
-		"5" "9"
-		"6" "1685"
-		"7" "1684"
-		"8" "1708"
-		"9" "1775"
-		"10" "493"
-		"11" "3859"
-		"12" "4191"
-		"13" "4166"
-		"14" "6815"
-		"15" "3834"
-		"16" "4252"
-		"17" "6730"
-		"18" "4145"
-		"19" "3854"
+		"5" "1708"
+		"6" "4166"
+		"7" "3854"
+		"8" "6815"
+		"9" "4252"
+		"10" "1670"
+		"11" "4057"
+		"12" "4364"
+		"13" "7208"
+		"14" "1685"
+		"15" "9"
+		"16" "4684"
+		"17" "16094"
+		"18" "14139"
+		"19" "1084988"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -299,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "8404214098969866739"
-				"size" "6166819461"
-				"download" "5269085328"
+				"gid" "7298738485272394044"
+				"size" "6166875911"
+				"download" "5268203696"
 			}
 		}
 	}
@@ -311,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "16801206"
-			"timeupdated" "1734619274"
+			"buildid" "17075201"
+			"timeupdated" "1737457687"
 		}
 	}
 	"privatebranches" "1"
@@ -333,6 +336,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26720759"
-"_sha" "a9248a81617e19bd84150cbebace231315baa4e4"
-"_size" "6174"
+"_change_number" "27091820"
+"_sha" "45bff44ec29e813b444d8e1f876f61e4804f5ea6"
+"_size" "6341"
