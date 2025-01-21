@@ -252,8 +252,8 @@
 		"4" "4168"
 		"5" "6910"
 		"6" "1678"
-		"7" "1695"
-		"8" "4182"
+		"7" "4182"
+		"8" "1695"
 		"9" "4175"
 		"10" "3987"
 		"11" "19"
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "6754777951603406335"
-				"size" "70880340410"
-				"download" "22229765120"
+				"gid" "7178305811211191669"
+				"size" "71166259879"
+				"download" "22395562320"
 			}
 			"2022.1"
 			{
@@ -453,38 +453,38 @@
 				"size" "33132103671"
 				"download" "9772073168"
 			}
-			"unstable"
+			"2024.1"
 			{
 				"gid" "6754777951603406335"
 				"size" "70880340410"
 				"download" "22229765120"
 			}
+			"unstable"
+			{
+				"gid" "7178305811211191669"
+				"size" "71166259879"
+				"download" "22395562320"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"experimental"
-			{
-				"gid" "9A72B1833A539491F7F73E41C7313F76"
-				"size" "A591EE0C4970338950A28A6C501AA238"
-				"download" "3DE302F6973D1F3AFA0B75D393DAD96C"
-			}
 			"alpha"
 			{
-				"gid" "E79A43822F3B63BF012D809C5D366C00"
-				"size" "DE7363DAEAAF5761215C13F5B2CF8FAC"
-				"download" "2345A5505ED7D7B58EBD47E2A5C9B90A"
+				"gid" "44C899E02479B1D7F79A1EB18EE6BDF1"
+				"size" "5F3298A36424FF656EF31E3C4E502985"
+				"download" "F14799D33455F24839480123997CB9FF"
 			}
 			"pre-release"
 			{
-				"gid" "EA243425682D44BB8D9A0BC7DAEF3622"
-				"size" "EC2C499AF5A86AC400518BD176E45E3A"
-				"download" "7B0B63BF1AF8443C598E3169D4465A1F"
+				"gid" "0C4DA1F7051872540774D5E265A67B3B"
+				"size" "D414905C0B9213E205091C455D315C8F"
+				"download" "57FE4DE3C7F5C38ADB3624A85004185F"
 			}
 			"pwqa"
 			{
-				"gid" "1068B2957A5B367CD2BEEB00A5C4ABC2"
-				"size" "7CE0987B1C4F4A0B9D15062B6E34FEA6"
-				"download" "A86C3524190BEA3175F050A16ED06B45"
+				"gid" "A65F867F0ABF195427A574D0A95AD815"
+				"size" "4B3561A9479925588D01A6F746D59485"
+				"download" "0ABF470DE7FD3898A1BB959545625D94"
 			}
 		}
 	}
@@ -495,36 +495,42 @@
 		{
 			"public"
 			{
+				"gid" "8816296063329683930"
+				"size" "10860701023"
+				"download" "3563341456"
+			}
+			"2024.1"
+			{
 				"gid" "8519753413349192138"
 				"size" "10860701023"
 				"download" "3566008480"
 			}
 			"unstable"
 			{
-				"gid" "8519753413349192138"
+				"gid" "8816296063329683930"
 				"size" "10860701023"
-				"download" "3566008480"
+				"download" "3563341456"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "B63804A96CB647E2F6D3B82DB87659DE"
+				"gid" "6F116CA054054E449EC51DDF37528C68"
 				"size" "9E038C5E77EE7520237557EDD36EE388"
-				"download" "56BD61BD53BFB1BE4727E94EA8B8E4D5"
+				"download" "8513F1051AB13F704E568BB39E3F71D6"
 			}
 			"pre-release"
 			{
-				"gid" "06EB7F61F70952464E94EF40DBF3C89C"
+				"gid" "98605677C520162929F8321CAFDBB05D"
 				"size" "A095D1F7CFCDE3E1A10E68BBD19D4026"
-				"download" "29A68AA24F201B40E50C7804A8AFBA36"
+				"download" "C999B7F4190052F808D038DF7C7C086E"
 			}
 			"pwqa"
 			{
-				"gid" "45A6762F0DFCC5E1D813C431B9DAC65C"
+				"gid" "1CBE89C517DCBDE015990BA4686544F8"
 				"size" "ADA443A051401CBEB702E4D31AE144CE"
-				"download" "A4315E3FCEA5ADEDBACF18C29B2105B9"
+				"download" "17621BA3FB3652449154FD1FC1F59020"
 			}
 		}
 	}
@@ -532,8 +538,8 @@
 	{
 		"public"
 		{
-			"buildid" "16613532"
-			"timeupdated" "1733241020"
+			"buildid" "17066668"
+			"timeupdated" "1737396064"
 		}
 		"2022.1"
 		{
@@ -634,34 +640,34 @@
 			"description" "The latest B131 release."
 			"timeupdated" "1640791254"
 		}
-		"experimental"
+		"2024.1"
 		{
-			"buildid" "11640342"
-			"pwdrequired" "1"
-			"timeupdated" "1688651281"
+			"buildid" "16613532"
+			"description" "The latest 2024.1 release."
+			"timeupdated" "1737397671"
 		}
 		"alpha"
 		{
-			"buildid" "16613532"
+			"buildid" "17066668"
 			"pwdrequired" "1"
-			"timeupdated" "1733227274"
+			"timeupdated" "1737388495"
 		}
 		"pre-release"
 		{
-			"buildid" "16613532"
+			"buildid" "17066668"
 			"pwdrequired" "1"
-			"timeupdated" "1733240943"
+			"timeupdated" "1737388508"
 		}
 		"pwqa"
 		{
-			"buildid" "16613532"
+			"buildid" "17066668"
 			"pwdrequired" "1"
-			"timeupdated" "1733224048"
+			"timeupdated" "1737387609"
 		}
 		"unstable"
 		{
-			"buildid" "16613532"
-			"timeupdated" "1733240989"
+			"buildid" "17066668"
+			"timeupdated" "1737396039"
 		}
 	}
 }
@@ -680,6 +686,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26472895"
-"_sha" "b9e8d445725933254b2635c1d39e79e4e2421bcb"
-"_size" "12271"
+"_change_number" "27080872"
+"_sha" "a5220d681b26659d931216610dcc9070d4d318dc"
+"_size" "12345"
