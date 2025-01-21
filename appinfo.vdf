@@ -193,11 +193,6 @@
 			"subtitles" "true"
 			"supported" "true"
 		}
-		"brazilian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 	}
 	"steam_release_date" "1526545311"
 	"community_visible_stats" "1"
@@ -277,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "7903739407797277284"
-				"size" "126614232"
-				"download" "105944720"
+				"gid" "2464595547195774622"
+				"size" "127429876"
+				"download" "106380192"
 			}
 			"before_ex"
 			{
@@ -357,8 +352,8 @@
 	{
 		"public"
 		{
-			"buildid" "17065657"
-			"timeupdated" "1737382760"
+			"buildid" "17071351"
+			"timeupdated" "1737420690"
 		}
 		"before_ex"
 		{
@@ -403,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27076869"
-"_sha" "8ecd0f37b3047f09e142cf014e01ba963927c00d"
-"_size" "7009"
+"_change_number" "27085002"
+"_sha" "42a3aa01a37392f0508327c73dbc2aabd751dc27"
+"_size" "6936"
