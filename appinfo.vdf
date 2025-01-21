@@ -198,7 +198,7 @@
 		"19" "1670"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -237,9 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "4108420860720363030"
-				"size" "22296586926"
-				"download" "10354833328"
+				"gid" "694548747668105371"
+				"size" "22453796446"
+				"download" "10388852480"
 			}
 			"legacy_version"
 			{
@@ -249,30 +249,15 @@
 			}
 			"preview_version"
 			{
-				"gid" "4108420860720363030"
-				"size" "22296586926"
-				"download" "10354833328"
+				"gid" "694548747668105371"
+				"size" "22453796446"
+				"download" "10388852480"
 			}
 			"test_version"
 			{
 				"gid" "3129377948637109937"
 				"size" "19806738551"
 				"download" "9417960080"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "7417EAE2051F123FF4796D7FB278F86A"
-				"size" "554011BBCC9E94F892E6FB5CC84D1095"
-				"download" "4939D0110B7030FA692FDCC583CB484A"
-			}
-			"test_beta_final"
-			{
-				"gid" "07C6569BD2CE689DD75DEE7DC2B6286D"
-				"size" "F7E11593D25C9C4EFB659E1A0A0FF39A"
-				"download" "729CF2F1F9A39EE1ED68E53EB4E2F675"
 			}
 		}
 	}
@@ -282,15 +267,8 @@
 	{
 		"public"
 		{
-			"buildid" "16868582"
-			"timeupdated" "1735800887"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "9104838"
-			"pwdrequired" "1"
-			"timeupdated" "1657679743"
+			"buildid" "17019580"
+			"timeupdated" "1737424212"
 		}
 		"legacy_version"
 		{
@@ -301,15 +279,9 @@
 		}
 		"preview_version"
 		{
-			"buildid" "16868582"
+			"buildid" "17019580"
 			"description" "先锋版"
-			"timeupdated" "1735456554"
-		}
-		"test_beta_final"
-		{
-			"buildid" "16868582"
-			"pwdrequired" "1"
-			"timeupdated" "1735443832"
+			"timeupdated" "1737084480"
 		}
 		"test_version"
 		{
@@ -318,6 +290,7 @@
 			"timeupdated" "1719661980"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -325,6 +298,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26837620"
-"_sha" "348f273c6a9968351589db60711b63efcf11dbf0"
-"_size" "6156"
+"_change_number" "27085571"
+"_sha" "3e2a3e1bf0018b3c2faed5e671e0ef118461cb86"
+"_size" "5527"
