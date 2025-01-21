@@ -296,7 +296,7 @@
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
 	{
-		"3383106487"
+		"3407344395"
 		{
 			"controller_type" "controller_neptune"
 			"enabled_branches" "default,alpha,beta"
@@ -304,7 +304,7 @@
 		}
 	}
 	"steamdecktouchscreen" "5"
-	"steamconfigurator3rdpartynative" "65532"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "4325412839578922971"
-				"size" "7819806167"
-				"download" "4162795520"
+				"gid" "170267008866660895"
+				"size" "7819808675"
+				"download" "4162787104"
 			}
 		}
 	}
@@ -356,13 +356,13 @@
 	{
 		"public"
 		{
-			"buildid" "16953638"
-			"timeupdated" "1736521294"
+			"buildid" "17079654"
+			"timeupdated" "1737476911"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26943412"
-"_sha" "dad65f4fa960765773495db8f1654732eeaa5c15"
-"_size" "6632"
+"_change_number" "27096793"
+"_sha" "054a5b5a024471ee834a2b77868b039503830e21"
+"_size" "6631"
