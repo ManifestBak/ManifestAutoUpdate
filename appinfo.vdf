@@ -13,25 +13,42 @@
 	"osarch" "64"
 	"osextended" ""
 	"linuxclienticon" "a5bb6e476e9977980251be0c5d55506e8534c292"
+	"name_localized"
+	{
+		"schinese" "宝卡太空龙"
+		"tchinese" "寶卡太空龍"
+	}
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
 	"controllertagwizard" "1"
-	"controller_support" "full"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "d017c3d2afb365ef4f35121a79fd274129312ff8/capsule_231x87_schinese.jpg"
+		"tchinese" "10ea07623de433922bee6542cbb6514a2a52685e/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
-		"library_logo" "en"
-		"library_header" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
+			"pinned_position" "CenterCenter"
 			"width_pct" "57.61679240975433"
 			"height_pct" "100"
 		}
@@ -42,11 +59,15 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "8b41891a4d2b5817ef0ccc968ecca841e1053425/library_600x900.jpg"
+				"schinese" "14ea202439a850b3e2b5362927c6ecb72680898f/library_600x900_schinese.jpg"
+				"tchinese" "69d9602de1ad5d531f49acc1ca2d07aecc4fe5e6/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "8b41891a4d2b5817ef0ccc968ecca841e1053425/library_600x900_2x.jpg"
+				"schinese" "14ea202439a850b3e2b5362927c6ecb72680898f/library_600x900_schinese_2x.jpg"
+				"tchinese" "69d9602de1ad5d531f49acc1ca2d07aecc4fe5e6/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -60,15 +81,19 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "4d6dbc508d89ea7d6dc9d1092362477798da93a8/logo.png"
+				"schinese" "855ab0e1155553d0fb839c29794396130ce23a82/logo_schinese.png"
+				"tchinese" "e284f4eca55a655e45737d6bbe5bc48c470eaf81/logo_tchinese.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "4d6dbc508d89ea7d6dc9d1092362477798da93a8/logo_2x.png"
+				"schinese" "855ab0e1155553d0fb839c29794396130ce23a82/logo_schinese_2x.png"
+				"tchinese" "e284f4eca55a655e45737d6bbe5bc48c470eaf81/logo_tchinese_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
+				"pinned_position" "CenterCenter"
 				"width_pct" "57.61679240975433"
 				"height_pct" "100"
 			}
@@ -78,10 +103,12 @@
 			"image"
 			{
 				"english" "library_header.jpg"
+				"schinese" "66bd96086bdf2ec4427868d09a7c428daf75043c/library_header_schinese.jpg"
+				"tchinese" "3f90fdfd77972c0c4888ef41cda1044467c89a4c/library_header_tchinese.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1715107978"
+	"store_asset_mtime" "1737063480"
 	"associations"
 	{
 		"0"
@@ -103,17 +130,22 @@
 	"primary_genre" "23"
 	"genres"
 	{
-		"0" "23"
-		"1" "3"
-		"2" "2"
-		"3" "70"
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
 	}
 	"category"
 	{
 		"category_2" "1"
 		"category_23" "1"
-		"category_28" "1"
 		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_43" "1"
+		"category_22" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -130,8 +162,84 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1680028841"
+	"steam_release_date" "1737104946"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1932210"
 	"store_tags"
@@ -139,29 +247,30 @@
 		"0" "791774"
 		"1" "3959"
 		"2" "1091588"
-		"3" "6426"
-		"4" "1666"
-		"5" "4291"
-		"6" "3942"
-		"7" "6971"
+		"3" "4291"
+		"4" "3942"
+		"5" "6426"
+		"6" "1666"
+		"7" "122"
 		"8" "4085"
-		"9" "4486"
+		"9" "6971"
 		"10" "4166"
-		"11" "9"
-		"12" "6815"
-		"13" "32322"
-		"14" "1755"
-		"15" "4711"
-		"16" "4747"
-		"17" "14139"
-		"18" "7569"
-		"19" "21725"
+		"11" "4486"
+		"12" "9"
+		"13" "6815"
+		"14" "7569"
+		"15" "1755"
+		"16" "4711"
+		"17" "32322"
+		"18" "21"
+		"19" "4747"
 	}
-	"review_score" "7"
-	"review_percentage" "97"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
+	"absolutemousecoordinates" "1"
 	"developer" "Post Mortem Pixels"
 	"publisher" "GrabTheGames"
 	"homepage" "https://postmortempixels.com/portfolio/takara-cards/"
@@ -203,24 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "7027367574139942177"
-				"size" "657607280"
-				"download" "196597600"
+				"gid" "2721103411235019041"
+				"size" "676724472"
+				"download" "204821648"
 			}
 			"open_beta"
 			{
-				"gid" "3947037704630664949"
-				"size" "664020560"
-				"download" "202051152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_dev"
-			{
-				"gid" "D9279130D54C787C9294A86023538108"
-				"size" "59A2A68DD59936C9098BEA69C998150E"
-				"download" "B146D4E20BA745B0D6EE6E49B848AB78"
+				"gid" "2721103411235019041"
+				"size" "676724472"
+				"download" "204821648"
 			}
 		}
 	}
@@ -234,24 +334,15 @@
 		{
 			"public"
 			{
-				"gid" "6221433955465519531"
-				"size" "38089216"
-				"download" "11552576"
+				"gid" "7667211823833263983"
+				"size" "34025984"
+				"download" "10421216"
 			}
 			"open_beta"
 			{
 				"gid" "7667211823833263983"
 				"size" "34025984"
 				"download" "10421216"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_dev"
-			{
-				"gid" "2E5BA86E0A0273685A14F98F8EB2833A"
-				"size" "48615DFA35EA5FC3E7E34BDCD5864D99"
-				"download" "36B16B2E3A5C447962CC8618DCC2EB7D"
 			}
 		}
 	}
@@ -265,9 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "8165011164382324643"
-				"size" "40422576"
-				"download" "12478960"
+				"gid" "3030394590881040616"
+				"size" "34492936"
+				"download" "10859600"
 			}
 			"open_beta"
 			{
@@ -276,36 +367,22 @@
 				"download" "10859600"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_dev"
-			{
-				"gid" "9478305F3B389DDAC854D5CC948DC706"
-				"size" "A294427EAF25FA165EA1F18C44F850FE"
-				"download" "0B318E9CE58BE2C104357AA2682C1623"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14100745"
-			"timeupdated" "1714079909"
-		}
-		"beta_dev"
-		{
-			"buildid" "15773980"
-			"pwdrequired" "1"
-			"timeupdated" "1726854073"
+			"buildid" "17030686"
+			"timeupdated" "1737105160"
 		}
 		"open_beta"
 		{
-			"buildid" "15773980"
+			"buildid" "17030686"
 			"description" "Open beta for players"
-			"timeupdated" "1726855249"
+			"timeupdated" "1737105096"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -355,3 +432,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27085630"
+"_sha" "c80a26d3f75a9a116958d7e3aac2a45e2b131bf0"
+"_size" "7985"
