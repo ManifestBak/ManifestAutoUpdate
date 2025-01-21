@@ -16,6 +16,7 @@
 		"english" "TouHou Music Recording"
 	}
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -172,9 +173,9 @@
 		{
 			"public"
 			{
-				"gid" "4589654295767908994"
-				"size" "911492980"
-				"download" "370496080"
+				"gid" "4504593844933327715"
+				"size" "964965080"
+				"download" "405152464"
 			}
 		}
 	}
@@ -182,8 +183,12 @@
 	{
 		"public"
 		{
-			"buildid" "15680054"
-			"timeupdated" "1726159614"
+			"buildid" "17078381"
+			"timeupdated" "1737468221"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27094420"
+"_sha" "2c2bc206b73dccb8f261a47e51cc3398dff31057"
+"_size" "3167"
