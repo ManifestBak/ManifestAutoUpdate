@@ -1,58 +1,63 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-21 20:37:01
+## 更新时间：2025-01-21 22:17:42
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1052440 | 黑色規則：西格瑪| Game |
-| 1079460 | Descenders Soundtrack| Music |
-| 1104660 | MO:Astray| Game |
-| 1477700 | 奇迹武器计划| Game |
-| 1493520 | Beat Hazard 3| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 1699480 | 笼子| Game |
-| 1732390 | 那由多之轨迹：改| Game |
-| 1765300 | 终极僵尸防御2| Game |
-| 1924480 | College Kings 2 - Episode 1| Game |
-| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
-| 205 | Source Dedicated Server| Tool |
-| 207930 | Sacred Citadel| Game |
-| 2100540 | College Kings 2 - Episode 2 "The Pool Party"| DLC |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 2172580 | 魂宠猎人| Game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 1016800 | Chernobylite Complete Edition| Game |
+| 107410 | Arma 3| game |
+| 1171380 | Mo:Astray - OST| Music |
+| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
+| 1274570 | DEVOUR| Game |
+| 1539140 | STONKS-9800: Stock Market Simulator| Game |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 1584090 | 东方夜雀食堂 - Touhou Mystia's Izakaya| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1838750 | 东方夜雀食堂DLC1扩展包 - 魔法森林&妖怪山| DLC |
+| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
+| 1927110 | 东方夜雀食堂DLC2扩展包 - 旧地狱街道&地灵殿| DLC |
+| 2091500 | 王国围攻| Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2122050 | 东方夜雀食堂DLC2.5扩展包 - 爱乐者的挑战赛！| DLC |
+| 2168680 | Nuclear Option| Game |
 | 2195410 | 寂静之歌| Game |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 234820 | Driver Fusion| Application |
-| 2361680 | 刀剑江湖路| Game |
-| 2399420 | Le Mans Ultimate| Game |
-| 22380 | Fallout: New Vegas| game |
-| 2421410 | 全网公敌2 新世界| Game |
-| 2437170 | 《神之浩劫2》| Game |
-| 2578880 | How to lose one's virginity| Game |
-| 278570 | Labyrinthine Dreams| Game |
-| 3001070 | 逐鹿问鼎：君王成长计划/Strive for power:King Growth Program| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 320 | Half-Life 2: Deathmatch| game |
-| 322450 | FRAMED Collection| Game |
-| 324160 | CLANNAD| Game |
-| 33770 | Drakensang The River of Time| game |
+| 2191950 | 东方夜雀食堂DLC3扩展包 - 命莲寺&神灵庙| DLC |
+| 215 | Source SDK Base 2006| Tool |
+| 222750 | Wargame: AirLand Battle| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2264820 | 丰收之路：漂洋过海的美食| Game |
+| 218 | Source SDK Base 2007| Tool |
+| 2275940 | Rogue Hex| Game |
+| 2302660 | 文字化化| Game |
+| 240 | Counter-Strike: Source| game |
+| 239140 | Dying Light| Game |
+| 2399330 | 东方夜雀食堂DLC4扩展包 - 太阳花田&辉针城| DLC |
+| 2399331 | 东方夜雀食堂DLC5扩展包 - 月都&魔界| DLC |
+| 2649080 | Coffee Caravan| Game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 2706300 | MILF's Plaza| Game |
+| 2752470 | バトルスピリッツ クロスオーバー| Game |
+| 3227440 | HEAVEN SEEKER - MIKADO PACK| DLC |
+| 3290040 | 魔剑镇魂曲 英雄之泪| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 372140 | Labyrinthine Dreams - Soundtrack| Music |
 | 2967990 | Train Sim World® 5| Game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 349250 | Copy Kitty| Game |
-| 409850 | Criminal Girls: Invite Only| Game |
-| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
-| 548840 | A Rose in the Twilight| Game |
-| 559210 | Rakuen| Game |
-| 618740 | Beat Hazard 2| Game |
-| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 785740 | This Is the Police 2| Game |
-| 798540 | Dying Light Original Soundtrack| Music |
-| 846110 | The friends of Ringo Ishikawa| Game |
-| 855640 | My Brother Rabbit| Game |
-| 986130 | Shadows of Doubt - 凶影疑云| Game |
+| 359550 | Tom Clancy's Rainbow Six Siege| Game |
+| 42710 | Call of Duty: Black Ops - Multiplayer| game |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 42700 | Call of Duty: Black Ops| game |
+| 427520 | Factorio| Game |
+| 394360 | Hearts of Iron IV| Game |
+| 494840 | UBOAT| Game |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 681280 | Descenders| Game |
+| 730 | Counter-Strike 2| Game |
+| 700580 | Rust - Staging Branch| Beta |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 914310 | Copy Kitty OST| Music |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
