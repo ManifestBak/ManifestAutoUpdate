@@ -296,30 +296,15 @@
 		{
 			"public"
 			{
-				"gid" "3111926530594771526"
-				"size" "8831414925"
-				"download" "8335954144"
+				"gid" "6238646170425393119"
+				"size" "8812228152"
+				"download" "8297102720"
 			}
 			"testing"
 			{
 				"gid" "4591919050531099010"
 				"size" "7928081082"
 				"download" "7619517472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "A5DDE1F9C30DAEACEC5A660333857D9F"
-				"size" "EE056558825A8F2D7F0470C55E014561"
-				"download" "F82428704432C1541CA939BB3313B860"
-			}
-			"press_reviews"
-			{
-				"gid" "9F76F677754A7A43E06EE54582AF7D57"
-				"size" "80FAA2093C69848370B973DF80C4EB09"
-				"download" "53E22F9DC2D803E43C25A8C056CE5D93"
 			}
 		}
 	}
@@ -334,30 +319,15 @@
 		{
 			"public"
 			{
-				"gid" "2042925389081378422"
-				"size" "8831414925"
-				"download" "8336058704"
+				"gid" "3486399830554444311"
+				"size" "8812228152"
+				"download" "8297096208"
 			}
 			"testing"
 			{
 				"gid" "2304304542882480030"
 				"size" "7928081082"
 				"download" "7619610976"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "4142FB4330BC7D0ADE06366E67418912"
-				"size" "EE056558825A8F2D7F0470C55E014561"
-				"download" "840ED418FCD9664E125CB71FAFE345B9"
-			}
-			"press_reviews"
-			{
-				"gid" "F172CA1F0CBC38D0261A66DD4BCF7ED8"
-				"size" "80FAA2093C69848370B973DF80C4EB09"
-				"download" "40B26F8537F2BBBD33E91DAB27D97D90"
 			}
 		}
 	}
@@ -372,30 +342,15 @@
 		{
 			"public"
 			{
-				"gid" "6056187968348402305"
-				"size" "8831414925"
-				"download" "8335952832"
+				"gid" "5488011578393186611"
+				"size" "8812228152"
+				"download" "8297105440"
 			}
 			"testing"
 			{
 				"gid" "6909197212147232720"
 				"size" "7928081082"
 				"download" "7619511216"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "A2AD9A445137806BF626F895F7A50D4A"
-				"size" "EE056558825A8F2D7F0470C55E014561"
-				"download" "7BD211EE2818D7172958F118CD1D89B3"
-			}
-			"press_reviews"
-			{
-				"gid" "932F95512D84DBB1E6887EA99894AC1E"
-				"size" "80FAA2093C69848370B973DF80C4EB09"
-				"download" "B9E1BBC9DFFB27E155F5BDAC16B7B3B8"
 			}
 		}
 	}
@@ -410,8 +365,8 @@
 	{
 		"public"
 		{
-			"buildid" "16784657"
-			"timeupdated" "1734630859"
+			"buildid" "17065446"
+			"timeupdated" "1737388951"
 		}
 		"testing"
 		{
@@ -419,19 +374,8 @@
 			"description" "external testing branch"
 			"timeupdated" "1709803802"
 		}
-		"development"
-		{
-			"buildid" "16784657"
-			"pwdrequired" "1"
-			"timeupdated" "1734514664"
-		}
-		"press_reviews"
-		{
-			"buildid" "14390409"
-			"pwdrequired" "1"
-			"timeupdated" "1715874945"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -448,6 +392,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26719627"
-"_sha" "20bdcb22f060e069a8b006358f996bd690cad821"
-"_size" "7967"
+"_change_number" "27078630"
+"_sha" "aefe108cec700525b1131e5125b49962c695376e"
+"_size" "6604"
