@@ -375,30 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "7009126697853432885"
-				"size" "28393154450"
-				"download" "12368646336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"publicdebug"
-			{
-				"gid" "548ABF1A92D99A1A851BE099846EF50C"
-				"size" "E32B04A1A4F805A60F878C5FD9C76398"
-				"download" "1F45A80115D49199A32596874F525C2D"
-			}
-			"staging"
-			{
-				"gid" "9F855F556CD58B2994B1E349AEDF3D2C"
-				"size" "E0F24D9C3142D5219F2399D3B11F42F5"
-				"download" "E60A2213385AF245219BCA712A321A54"
-			}
-			"stagingdebug"
-			{
-				"gid" "B0B8B88B3539FB5A32C74C0984D08610"
-				"size" "9DC270B045E5DD0F5CD1DB0C733E36E2"
-				"download" "C8656D11C8C4AD34777D91E7DB472451"
+				"gid" "8969309667285109384"
+				"size" "28465229009"
+				"download" "12390873904"
 			}
 		}
 	}
@@ -413,30 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "6994441523662201367"
-				"size" "28441949166"
-				"download" "12348605792"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"publicdebug"
-			{
-				"gid" "CA642B3600110E472B0B191588133367"
-				"size" "809D6B3BE84B5DC1F23504ABCAA1E9A8"
-				"download" "105BD694396FD3DC0394309381ABB074"
-			}
-			"staging"
-			{
-				"gid" "3BEEC239252DB99EE20A4241ADDFBB9D"
-				"size" "05EB695B926F5250829E9FB5B11DB43D"
-				"download" "EFCC11714781A92D448C13435EB730AD"
-			}
-			"stagingdebug"
-			{
-				"gid" "1CA9C40724018A0603B4AF50D073F80F"
-				"size" "950DE5DAB0F6A276187B096BB98FC908"
-				"download" "0AC7AED7E796928A88D7754278BECE94"
+				"gid" "4950708482177867782"
+				"size" "28512535077"
+				"download" "12370484304"
 			}
 		}
 	}
@@ -451,30 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "2728423135443492882"
-				"size" "28300709185"
-				"download" "12317654816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"publicdebug"
-			{
-				"gid" "A44D45E340B800E17066184E3396B3A0"
-				"size" "6F38A46FF58B6E9BD2AB9A8FC14F25B9"
-				"download" "57B1340F1487D625124634514CEC2D52"
-			}
-			"staging"
-			{
-				"gid" "C1299704C1211983E5B89AA455618FDC"
-				"size" "7EFBB6CBB479B2B829BA703E63A1CC58"
-				"download" "D2B6A91378B7CF1FF056216C6301898A"
-			}
-			"stagingdebug"
-			{
-				"gid" "3778928124C3C885CC6ECA9209DE6257"
-				"size" "5E3A43825673DBCDF935367D39A0EE84"
-				"download" "EE05400143FCE845D4E61F799E91E16C"
+				"gid" "5980643777377691000"
+				"size" "28370241324"
+				"download" "12339348992"
 			}
 		}
 	}
@@ -490,48 +427,16 @@
 				"download" "440235904"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publicdebug"
-			{
-				"gid" "DB0DD9783691F05BB197BAD442AE72FC"
-				"size" "5B2E9A3789A6FD5D54EDA81D0382CCF9"
-				"download" "5FD464D0BC7C229C817F13DE2BA781F8"
-			}
-			"staging"
-			{
-				"gid" "45A43716285E3BA39FF239BE8BD81F3C"
-				"size" "7E6147ECE4737B959952016B523B64BE"
-				"download" "9286D600833E8302A2D43D282D4250FB"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16648321"
-			"timeupdated" "1733822285"
-		}
-		"publicdebug"
-		{
-			"buildid" "16691521"
-			"pwdrequired" "1"
-			"timeupdated" "1733822296"
-		}
-		"staging"
-		{
-			"buildid" "16648321"
-			"pwdrequired" "1"
-			"timeupdated" "1733429842"
-		}
-		"stagingdebug"
-		{
-			"buildid" "16646653"
-			"pwdrequired" "1"
-			"timeupdated" "1733419951"
+			"buildid" "17004925"
+			"timeupdated" "1737450480"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -567,6 +472,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26572177"
-"_sha" "5bc0d67b1764356d21aeaeb34366890cf083e700"
-"_size" "10857"
+"_change_number" "27090122"
+"_sha" "1091be523bfb46b2673e50159e93635cd5145185"
+"_size" "8491"
