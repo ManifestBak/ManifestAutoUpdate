@@ -352,8 +352,8 @@
 		"11" "21978"
 		"12" "492"
 		"13" "4026"
-		"14" "1664"
-		"15" "4345"
+		"14" "4345"
+		"15" "1664"
 		"16" "4182"
 		"17" "4667"
 		"18" "19"
@@ -447,18 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "6849953319889243132"
-				"size" "12863431242"
-				"download" "6596632784"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "148CF2080FFC95D1797131CEB4BFD7CE"
-				"size" "91C2EFF440ED5ACA7DBBB96623427788"
-				"download" "2C34BD24745CBD63E29C4CE43E96E0F6"
+				"gid" "2050442320188638028"
+				"size" "12863432410"
+				"download" "6596612352"
 			}
 		}
 	}
@@ -472,18 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "3619239692032633235"
-				"size" "12863431242"
-				"download" "6587148032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "8350433E941CAAEF7270CBD2F33898FA"
-				"size" "91C2EFF440ED5ACA7DBBB96623427788"
-				"download" "BB5C44A640CF1992C630F812B45A1A1A"
+				"gid" "4330212043913609009"
+				"size" "12863432410"
+				"download" "6587127600"
 			}
 		}
 	}
@@ -497,18 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "5942734856909827328"
-				"size" "12962556012"
-				"download" "6621266288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "0848EF64925E377752D072F5CA880300"
-				"size" "6D2F07D5FF6A7C20EFBABEEF36824BB8"
-				"download" "9ADAD3764C86CADFC25407721F345C7C"
+				"gid" "899528376471064496"
+				"size" "12962556148"
+				"download" "6621164448"
 			}
 		}
 	}
@@ -524,30 +497,16 @@
 				"download" "87397456"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devs"
-			{
-				"gid" "2BE90C21B17F51B9FB7D872D8E81356E"
-				"size" "86CAE828B050232889D15A40B23C1FE5"
-				"download" "4E25012B0E7E9A03AC2ADB72CC534425"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16886538"
-			"timeupdated" "1735788965"
-		}
-		"devs"
-		{
-			"buildid" "16886538"
-			"pwdrequired" "1"
-			"timeupdated" "1735740506"
+			"buildid" "17077135"
+			"timeupdated" "1737465238"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -555,6 +514,6 @@
 	"maxnumfiles" "5"
 }
 "_missing_token" "False"
-"_change_number" "26836684"
-"_sha" "2918ffa0f8a6d102ecf96b15075b2c67ed9da264"
-"_size" "9420"
+"_change_number" "27093603"
+"_sha" "c36d26ffa39e220d757ad2bfa49fdb69a845e4d9"
+"_size" "8527"
