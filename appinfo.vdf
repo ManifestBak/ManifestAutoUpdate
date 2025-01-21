@@ -8,8 +8,8 @@
 	"logo" "f2edf900f107da0a69270903fea62b5f765bc4e4"
 	"logo_small" "f2edf900f107da0a69270903fea62b5f765bc4e4_thumb"
 	"icon" "3c733253b4956d49f8bea1aee92ce29abc1cd2d9"
-	"clienticon" "90f492456989a5c8c830ee6906188082fff686bc"
-	"clienttga" "2c060f6933cc2d1cf82167fdcb7ff6db01cf7611"
+	"clienticon" "7538c47b66c1a749bef11717b5d9c69d466b3291"
+	"clienttga" "8c976839e489d40cdb9d0e5f6cc58d632feb9188"
 	"releasestate" "released"
 	"languages"
 	{
@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728038571"
+	"store_asset_mtime" "1736870083"
 	"associations"
 	{
 		"0"
@@ -277,8 +277,8 @@
 		"4" "4166"
 		"5" "4182"
 		"6" "21"
-		"7" "3834"
-		"8" "3839"
+		"7" "3839"
+		"8" "3834"
 		"9" "3978"
 		"10" "7332"
 		"11" "3942"
@@ -319,11 +319,24 @@
 			"executable" "ChernobylGame.exe"
 			"arguments" "-dx12"
 			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
 			"description_loc"
 			{
 				"english" "Chernobylite Enhanced Edition (DirectX 12)"
 			}
 			"description" "Chernobylite Enhanced Edition (DirectX 12)"
+		}
+		"11"
+		{
+			"executable" "ChernobylGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
 		}
 	}
 }
@@ -359,144 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "487184820378735634"
-				"size" "40253718792"
-				"download" "38592749568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"aig_ms"
-			{
-				"gid" "F5162FBB8B18B5E99FCCD9F1593110CB"
-				"size" "EBE43FB2775A354D4BADEE12EB61EA0E"
-				"download" "C892F62FCE6087B25F7CBD014CDD9A40"
-			}
-			"aig_ms2"
-			{
-				"gid" "8F51091540F1A1C069704F048696F236"
-				"size" "B68FA4B8C79B6D132F443F57796D163D"
-				"download" "D6410DF7AE18341CEE2D1C661A59B391"
-			}
-			"aig_ms3"
-			{
-				"gid" "AC0791A71367DB7379F219245BA1B19B"
-				"size" "9F6F059F622CE59F0806550C673843D9"
-				"download" "B719B7097BBECFCC9AB1C5F4812555DD"
-			}
-			"aig_ms4"
-			{
-				"gid" "7111678BA9A46C6468BDAC618244EB2F"
-				"size" "1FAA92F82B96181F6BF285D10480BC59"
-				"download" "34355FE67AD5DBE350ED248F50589AFF"
-			}
-			"aig_test"
-			{
-				"gid" "8090BCE65965F513AF179EE5E1BEFFBA"
-				"size" "7C4C83A178657B249312A6E320CF431C"
-				"download" "44E58120EC6A36FB1B5D5BA9ECD9645D"
-			}
-			"amd_fsr2_tests"
-			{
-				"gid" "7A7D1EE92436B73D378E6A86D0AC57F7"
-				"size" "44BDFA91A62D00DD9DEB06A70EE48F92"
-				"download" "5E1F31B6116A32CFA5A788FDE96CC5C2"
-			}
-			"chernobylite_s03_p"
-			{
-				"gid" "87C9C71A3BE67FFEC2ACF4D64D32ED90"
-				"size" "DE746E044C023DF21ABED3396C638837"
-				"download" "674B7450D2F34AC85B6E307AB0048E9D"
-			}
-			"dlc_test"
-			{
-				"gid" "3ACFC126FE2B2695CAE0D07EA1743C27"
-				"size" "E9B2AC5F01A52C22A7AF4A7421CE9400"
-				"download" "0FF68DF9C9672A5B8A14F4C814DB13AD"
-			}
-			"general_tests"
-			{
-				"gid" "2F7985E08B34C907913E4DFB7411A010"
-				"size" "4485723E4CF0108512230C4B54703FDB"
-				"download" "5733D8C0BF27DF311C7EE49B825B0522"
-			}
-			"general_tests_2"
-			{
-				"gid" "1B2D5F5F80B56E01851E11D0D60E512F"
-				"size" "9DDAAFCF449BD2E62BFA50E0C2AC5CA1"
-				"download" "0163DF3DD73FE52D2E226439957C4302"
-			}
-			"lqa_debug_current"
-			{
-				"gid" "55B7A0F1BA87A449D6D1918019A75CF9"
-				"size" "85B52FB3444C5C41B372ABA2529580DB"
-				"download" "1B39FDE7244DC338219CB01D492307EA"
-			}
-			"nvidia_test_debug"
-			{
-				"gid" "8F3BB6B6CD7B3DB94A0D45350C9BD766"
-				"size" "E3CFE05216DDAB5B16E0FEFD42871262"
-				"download" "F5BB41F1287A3B7BF1C75BBD2E7D8320"
-			}
-			"patch_candidate"
-			{
-				"gid" "0888A96D97A794CD77E131308F1FAA1D"
-				"size" "EA0CFE85D6C0B200155F79C2E10CF9F3"
-				"download" "3FF824B2F84EEC88BB4B826D991924C5"
-			}
-			"patch_preview"
-			{
-				"gid" "1A370D3B28EBB5908EA37F51E4FF0082"
-				"size" "565C51AD066B6E38CEFB6E8DD62EBCCC"
-				"download" "5A11A16F3D8929BBF5234D0BE4596231"
-			}
-			"s03_test"
-			{
-				"gid" "080C07E4AA9C438974EE66B496023739"
-				"size" "86633DFDA4C559A242B3AB6005A06440"
-				"download" "8B685330A19891F88B4243AA44016BE3"
-			}
-			"stutteringtest"
-			{
-				"gid" "F407063BF25C2EA608C6C17DAB361400"
-				"size" "3874FA2E68B2241BD5F32BAF3241CEA7"
-				"download" "A79CBDBFD5BDE3428F2E9C5929676DF3"
-			}
-			"temp"
-			{
-				"gid" "D4D59EF48F1EA3A7F75548ACB21A44FA"
-				"size" "A6A082B2167D70660844FDA3DA657A0B"
-				"download" "76F8598C7568BE1827C9D0E79D3C584A"
-			}
-			"daily_build"
-			{
-				"gid" "ABC3FAF4FCD8A4D7C8062547010763A0"
-				"size" "FADE88D98EC8B8401BAC43D1B16AB3DA"
-				"download" "85A78719506F4E820D701435D7388202"
-			}
-			"external_qa_dev"
-			{
-				"gid" "3632E4CF226C2FDF0185A76CCC0AB5B5"
-				"size" "08E7593AB044621ED93157D15D2F0359"
-				"download" "2A91D873BFA28DD116DF99C43D0AC848"
-			}
-			"external_qa_ship"
-			{
-				"gid" "86ECC2EE0345892EB9625A4BC3C24797"
-				"size" "D1EAFE3873BA20D9FEB945756AB570D6"
-				"download" "FD0C467B2EF42172CA295FBBCEE39D54"
-			}
-			"test"
-			{
-				"gid" "735919CA425A13B5172FE78500B1A05D"
-				"size" "7745CE7D242D792261702CAD2CDDB70E"
-				"download" "F4D7DCB6374037CB8ECFF1337C56BD3C"
-			}
-			"test_r"
-			{
-				"gid" "FE5BA39B1AF769AC9E4C798E92737C67"
-				"size" "865AEFC6E31A71E32DC193CC5080311A"
-				"download" "C563BF3B3B859095FE261A69DDB4625E"
+				"gid" "5026200692860711757"
+				"size" "40253308368"
+				"download" "38592464576"
 			}
 		}
 	}
@@ -508,142 +386,11 @@
 	{
 		"public"
 		{
-			"buildid" "16413046"
-			"timeupdated" "1731699192"
-		}
-		"aig_ms"
-		{
-			"buildid" "6096427"
-			"pwdrequired" "1"
-			"timeupdated" "1611050435"
-		}
-		"aig_ms2"
-		{
-			"buildid" "6250293"
-			"pwdrequired" "1"
-			"timeupdated" "1613656302"
-		}
-		"aig_ms3"
-		{
-			"buildid" "6411486"
-			"pwdrequired" "1"
-			"timeupdated" "1616679451"
-		}
-		"aig_ms4"
-		{
-			"buildid" "6595770"
-			"pwdrequired" "1"
-			"timeupdated" "1619365248"
-		}
-		"aig_test"
-		{
-			"buildid" "6980942"
-			"pwdrequired" "1"
-			"timeupdated" "1625487648"
-		}
-		"amd_fsr2_tests"
-		{
-			"buildid" "9967543"
-			"pwdrequired" "1"
-			"timeupdated" "1668772091"
-		}
-		"chernobylite_s03_p"
-		{
-			"buildid" "9777959"
-			"pwdrequired" "1"
-			"timeupdated" "1666461636"
-		}
-		"dlc_test"
-		{
-			"buildid" "7293304"
-			"pwdrequired" "1"
-			"timeupdated" "1630588178"
-		}
-		"general_tests"
-		{
-			"buildid" "8408102"
-			"pwdrequired" "1"
-			"timeupdated" "1647869000"
-		}
-		"general_tests_2"
-		{
-			"buildid" "7868868"
-			"pwdrequired" "1"
-			"timeupdated" "1643709050"
-		}
-		"lqa_debug_current"
-		{
-			"buildid" "7851882"
-			"pwdrequired" "1"
-			"timeupdated" "1639058261"
-		}
-		"nvidia_test_debug"
-		{
-			"buildid" "10547366"
-			"pwdrequired" "1"
-			"timeupdated" "1676377648"
-		}
-		"patch_candidate"
-		{
-			"buildid" "7603097"
-			"pwdrequired" "1"
-			"timeupdated" "1635262012"
-		}
-		"patch_preview"
-		{
-			"buildid" "7577010"
-			"pwdrequired" "1"
-			"timeupdated" "1634909480"
-		}
-		"s03_test"
-		{
-			"buildid" "9769299"
-			"pwdrequired" "1"
-			"timeupdated" "1666612086"
-		}
-		"stutteringtest"
-		{
-			"buildid" "7648987"
-			"pwdrequired" "1"
-			"timeupdated" "1635951757"
-		}
-		"temp"
-		{
-			"buildid" "9736624"
-			"pwdrequired" "1"
-			"timeupdated" "1666009693"
-		}
-		"daily_build"
-		{
-			"buildid" "15401644"
-			"pwdrequired" "1"
-			"timeupdated" "1723857873"
-		}
-		"external_qa_dev"
-		{
-			"buildid" "16347143"
-			"pwdrequired" "1"
-			"timeupdated" "1731100342"
-		}
-		"external_qa_ship"
-		{
-			"buildid" "16392810"
-			"pwdrequired" "1"
-			"timeupdated" "1731505522"
-		}
-		"test"
-		{
-			"buildid" "16413046"
-			"pwdrequired" "1"
-			"timeupdated" "1731628907"
-		}
-		"test_r"
-		{
-			"buildid" "14523207"
-			"pwdrequired" "1"
-			"timeupdated" "1716921227"
+			"buildid" "17033461"
+			"timeupdated" "1737462431"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -660,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26218394"
-"_sha" "135ef1d736e42f9d1ba9c1c19e088aa826cf5dd7"
-"_size" "13212"
+"_change_number" "27092882"
+"_sha" "cd88ef276198fcd0a3a11c1213e550b6b8ad1bfd"
+"_size" "7124"
