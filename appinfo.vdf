@@ -75,9 +75,9 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "22e4d127102b89a4b09649a448d9b67093d428f6/capsule_231x87.jpg"
+		"schinese" "8fa1cdbaf62b23ec726aea92b73288ae3f1c6ee4/capsule_231x87_schinese.jpg"
+		"tchinese" "7f88369e41646c6e6e0b9eaa1f0ca01749a440fd/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -131,7 +131,7 @@
 			"image"
 			{
 				"english" "logo.png"
-				"schinese" "logo_schinese.png"
+				"schinese" "4e2a2cbf2952ee2db7c3fde1ae912bb90c213912/logo_schinese.png"
 				"tchinese" "logo_tchinese.png"
 			}
 			"image2x"
@@ -157,7 +157,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726026635"
+	"store_asset_mtime" "1737431287"
 	"associations"
 	{
 		"0"
@@ -182,7 +182,6 @@
 		"0" "23"
 		"1" "3"
 		"2" "28"
-		"3" "70"
 	}
 	"category"
 	{
@@ -211,7 +210,7 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1715307939"
+	"steam_release_date" "1737428125"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2421410"
@@ -236,10 +235,10 @@
 		"16" "4182"
 		"17" "1664"
 		"18" "9204"
-		"19" "493"
+		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -282,54 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "3432915951542160721"
-				"size" "2398354948"
-				"download" "1990422400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"chapter3"
-			{
-				"gid" "EB4CAED4A6109CBB70A0E3A1C96B0EC4"
-				"size" "1DC8BA769B87040DE3A9223446D1CF91"
-				"download" "7F3AAEB1C7FD11218009DA2BFD414838"
-			}
-			"chaptertest"
-			{
-				"gid" "5988F47598D8CF68B5E42A1998DAF5DD"
-				"size" "2F91121A44DA8136B6A5517495744DD9"
-				"download" "4A14C0660C0C036168D4B1E34CE74849"
-			}
-			"dubtest"
-			{
-				"gid" "C662B61C2F8A83920A28A3CA5EC4E57B"
-				"size" "D737A97F28B460FA01005333C0509CE4"
-				"download" "105045613041D5C00FD8EF47D8A26ABB"
-			}
-			"alubatest"
-			{
-				"gid" "FDD5A97353668E02A5A221B20154168B"
-				"size" "8DD2F4011144A667FF0DE3A51F3273F0"
-				"download" "381854E2B3EFAD0E2B31ECDA8FD9FEAA"
-			}
-			"eatest"
-			{
-				"gid" "6509595BA92CD1BEA4BCD60D8A7275D2"
-				"size" "5B041E0A6673C80617762BF068263D76"
-				"download" "5DD045410DF246AA0AA7AB313F0F36A4"
-			}
-			"kol123"
-			{
-				"gid" "503246C2DE662629970923B73F5657F0"
-				"size" "ED0DA28481CAC05B79897C2A27F5D3AE"
-				"download" "BAB78A3D689DE55C72D906552CB5581E"
-			}
-			"translate"
-			{
-				"gid" "0E5122C5535287F7EDD0DD96108C133E"
-				"size" "3EFA34C368BEB0C2201B1F5C9347312A"
-				"download" "DFA54012DCB3D5BF2C580AD8A5222611"
+				"gid" "7313766951036542805"
+				"size" "4180467390"
+				"download" "3612934000"
 			}
 		}
 	}
@@ -344,54 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "941379207294290173"
-				"size" "2419966464"
-				"download" "1987908320"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"chapter3"
-			{
-				"gid" "EE49F3F1B9BD34AD36EE9E72E3788061"
-				"size" "24C042D895C94942B77BB4D02930A1FB"
-				"download" "C808297BB42C31E878786DC660AAA4A0"
-			}
-			"chaptertest"
-			{
-				"gid" "704D21C3E3926A071305FC578F9392C7"
-				"size" "A77152FB779383718175DC83AB55A41F"
-				"download" "71674652C8DF728E4A40E8983B7905D8"
-			}
-			"dubtest"
-			{
-				"gid" "DEA910BC19D1B990ADBEA31378BD6788"
-				"size" "4592B3206C7B5552BC82CF10E6AFAB3D"
-				"download" "41B3C0B37980983942E83AC4FCE4D3EC"
-			}
-			"alubatest"
-			{
-				"gid" "CA7CD04FE740FB8D64E6498508C51440"
-				"size" "DDBC1BABAA0562B5DF2AFE2D5CA7D43C"
-				"download" "C115F7063B662ADD1DEF7BE6B4EF8DB8"
-			}
-			"eatest"
-			{
-				"gid" "B2F708C2C0629A3B87E362F4E322B55B"
-				"size" "4270975098C0414A03A784824AC74A4C"
-				"download" "90D46AF78FB5B022309E57DDC0ABDE8B"
-			}
-			"kol123"
-			{
-				"gid" "B0266E0475F6D855A1D229893821FF37"
-				"size" "EF6CF04418A90A03285F9080FF2F7255"
-				"download" "9B6F191BBE49F366375DDD0AD4ED63B2"
-			}
-			"translate"
-			{
-				"gid" "4145A6C399732A42D9CD26E861E2EAB9"
-				"size" "BFF062CF4B7C12BDB8771D84E00C8325"
-				"download" "348D2E6B3469F8DA3DC30EE39B34E2DF"
+				"gid" "1480932380306993665"
+				"size" "4119492671"
+				"download" "3493108608"
 			}
 		}
 	}
@@ -399,52 +308,11 @@
 	{
 		"public"
 		{
-			"buildid" "16077590"
-			"timeupdated" "1729823258"
-		}
-		"chapter3"
-		{
-			"buildid" "13586833"
-			"pwdrequired" "1"
-			"timeupdated" "1709116192"
-		}
-		"chaptertest"
-		{
-			"buildid" "13560727"
-			"pwdrequired" "1"
-			"timeupdated" "1708916687"
-		}
-		"dubtest"
-		{
-			"buildid" "12281531"
-			"pwdrequired" "1"
-			"timeupdated" "1695695925"
-		}
-		"alubatest"
-		{
-			"buildid" "16077590"
-			"pwdrequired" "1"
-			"timeupdated" "1729152339"
-		}
-		"eatest"
-		{
-			"buildid" "16077590"
-			"pwdrequired" "1"
-			"timeupdated" "1729567540"
-		}
-		"kol123"
-		{
-			"buildid" "15965026"
-			"pwdrequired" "1"
-			"timeupdated" "1728529776"
-		}
-		"translate"
-		{
-			"buildid" "16077590"
-			"pwdrequired" "1"
-			"timeupdated" "1729567552"
+			"buildid" "17062382"
+			"timeupdated" "1737427439"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -477,6 +345,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25888263"
-"_sha" "77cea344c61176f1afc0d0d8ab15a24ba34ead99"
-"_size" "9508"
+"_change_number" "27086983"
+"_sha" "67a7310681049d4a651a10fc374cbf7dea5aeeb1"
+"_size" "6446"
