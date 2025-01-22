@@ -130,6 +130,8 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -141,6 +143,7 @@
 		}
 	}
 	"steam_release_date" "1720077939"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1987480"
 	"store_tags"
@@ -160,14 +163,14 @@
 		"12" "4182"
 		"13" "12095"
 		"14" "9551"
-		"15" "1741"
-		"16" "5577"
+		"15" "5577"
+		"16" "1741"
 		"17" "14139"
 		"18" "21725"
 		"19" "1721"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -223,9 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "4545383636648766963"
-				"size" "1981455285"
-				"download" "1762545504"
+				"gid" "5405715586888964213"
+				"size" "2128911836"
+				"download" "1846611360"
 			}
 		}
 	}
@@ -233,22 +236,20 @@
 	{
 		"public"
 		{
-			"buildid" "16973682"
-			"timeupdated" "1736587506"
+			"buildid" "17078341"
+			"timeupdated" "1737468011"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "10000000000"
+	"quota" "1000000000"
 	"maxnumfiles" "10000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 	"savefiles"
 	{
 		"0"
 		{
-			"root" "SteamCloudDocuments"
+			"root" "gameinstall"
 			"path" "Courage and death/www/save"
 			"pattern" "*.rpgsave"
 			"platforms"
@@ -260,6 +261,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26953359"
-"_sha" "d5916b8b6f5d3e881348a01c1ee058230f71cd2c"
-"_size" "4255"
+"_change_number" "27100622"
+"_sha" "56b8877dbbf5baa023c66eb567d52e529f9f2552"
+"_size" "4273"
