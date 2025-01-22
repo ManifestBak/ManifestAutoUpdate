@@ -344,24 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "3409280309233659033"
-				"size" "27749788673"
-				"download" "26875459696"
+				"gid" "6596688115077703514"
+				"size" "18065368322"
+				"download" "17607615856"
 			}
 			"beta_test"
 			{
-				"gid" "3409280309233659033"
-				"size" "27749788673"
-				"download" "26875459696"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"plugins_test"
-			{
-				"gid" "8C61043080B33204490D91B9B67ACD49"
-				"size" "3D3A8502031AF4CD416881AB1C3179C8"
-				"download" "38147BEC30BF23A47D375554B7D7FA5D"
+				"gid" "1650605887347109908"
+				"size" "33654336883"
+				"download" "32485101504"
 			}
 		}
 	}
@@ -370,22 +361,17 @@
 	{
 		"public"
 		{
-			"buildid" "16872047"
-			"timeupdated" "1735513153"
-		}
-		"plugins_test"
-		{
-			"buildid" "12726404"
-			"pwdrequired" "1"
-			"timeupdated" "1700185579"
+			"buildid" "17092058"
+			"timeupdated" "1737553990"
 		}
 		"beta_test"
 		{
-			"buildid" "16872047"
+			"buildid" "17092117"
 			"description" "0.85 SDK"
-			"timeupdated" "1735513136"
+			"timeupdated" "1737554261"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -408,6 +394,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26812886"
-"_sha" "fdb13391ad44be0755f9cb917163f00c792f40c9"
-"_size" "7127"
+"_change_number" "27112914"
+"_sha" "6dc0a041a9e016b61e64f7d0bccda9e4aaef0d40"
+"_size" "6831"
