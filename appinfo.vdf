@@ -169,6 +169,7 @@
 		}
 	}
 	"steam_release_date" "1702922151"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1800940"
 	"store_tags"
@@ -245,15 +246,15 @@
 		{
 			"public"
 			{
-				"gid" "5418605917372340175"
-				"size" "8641646540"
-				"download" "2678072576"
+				"gid" "3872823514293565981"
+				"size" "8645719537"
+				"download" "2679445184"
 			}
 			"beta"
 			{
-				"gid" "8592607159760338306"
-				"size" "8642458136"
-				"download" "2678094224"
+				"gid" "3872823514293565981"
+				"size" "8645719537"
+				"download" "2679445184"
 			}
 			"legacy"
 			{
@@ -262,41 +263,20 @@
 				"download" "1627830576"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internal_beta_0.3a"
-			{
-				"gid" "52B45A4E3D1E135CC4A0701D7D12A48B"
-				"size" "C5CEAAFE0BA9849062E7796258BC25A3"
-				"download" "4CD0AC4A6B7C059A7F74F9F832E0E50B"
-			}
-			"peatyturfbeta"
-			{
-				"gid" "A40FCD0CE39359264E4E676A253B138E"
-				"size" "68F04E3B0A1F94B35D0697B198DE2010"
-				"download" "4982A9EC1743BCB2369780B77A6EFB1B"
-			}
-		}
 	}
 	"workshopdepot" "1800940"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16413188"
-			"timeupdated" "1732728860"
+			"buildid" "17075575"
+			"timeupdated" "1737572742"
 		}
 		"beta"
 		{
-			"buildid" "16504387"
+			"buildid" "17075575"
 			"description" "Public Beta Testing Branch"
-			"timeupdated" "1732350711"
-		}
-		"internal_beta_0.3a"
-		{
-			"buildid" "16413188"
-			"pwdrequired" "1"
-			"timeupdated" "1731629986"
+			"timeupdated" "1737452156"
 		}
 		"legacy"
 		{
@@ -304,13 +284,8 @@
 			"description" "V0.2 - Old Save Compatible"
 			"timeupdated" "1722554840"
 		}
-		"peatyturfbeta"
-		{
-			"buildid" "16504387"
-			"pwdrequired" "1"
-			"timeupdated" "1732305189"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -333,6 +308,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26390510"
-"_sha" "572a6a52da43881a0be5ce59c7b4d685d0475e90"
-"_size" "5908"
+"_change_number" "27117683"
+"_sha" "78895db913382ba55855dece0e1e47844737bc4d"
+"_size" "5337"
