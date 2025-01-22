@@ -11,9 +11,66 @@
 	"icon" "f7f425244699418bbf9b36f27f80dec3c9622cd3"
 	"name_localized"
 	{
-		"japanese" "エンダーマグノリア: ブルームインザミスト"
 	}
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1714003200"
+		"tested_build_id" "13889266"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -37,7 +94,56 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1709016210"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "33.41133778706708"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737540054"
 	"associations"
 	{
 		"0"
@@ -61,7 +167,6 @@
 	{
 		"0" "1"
 		"1" "3"
-		"2" "70"
 	}
 	"category"
 	{
@@ -70,6 +175,8 @@
 		"category_28" "1"
 		"category_59" "1"
 		"category_60" "1"
+		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -130,24 +237,29 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1711378248"
+	"steam_release_date" "1737557953"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2725260"
 	"store_tags"
 	{
 		"0" "1628"
 		"1" "122"
-		"2" "4231"
-		"3" "19"
-		"4" "4604"
-		"5" "4182"
-		"6" "3871"
-		"7" "493"
-		"8" "4172"
+		"2" "3871"
+		"3" "4604"
+		"4" "4182"
+		"5" "4231"
+		"6" "19"
+		"7" "7208"
+		"8" "29482"
 		"9" "1684"
-		"10" "29482"
-		"11" "7208"
+		"10" "4172"
+		"11" "493"
 		"12" "4085"
+		"13" "1756"
+		"14" "4166"
+		"15" "3798"
+		"16" "1742"
 	}
 	"review_score" "9"
 	"review_percentage" "98"
@@ -209,18 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "1203604945068065340"
-				"size" "1819666208"
-				"download" "1584375920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "8815724793B4060895B5CCD92AEC45AE"
-				"size" "7133E7F6876D63108711E23204AEAC7F"
-				"download" "11CE43051D6EFFA7A2BA81610876D97B"
+				"gid" "3253192209978112582"
+				"size" "4833644971"
+				"download" "4537923840"
 			}
 		}
 	}
@@ -235,18 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "509715139259489937"
-				"size" "1793205890"
-				"download" "1477973808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "A3D0962544A9E8BF2C74D0427DA73CF7"
-				"size" "C1CFF07263056B653B870662F525A441"
-				"download" "A48B419EBFE27892A09EC5548257A1A3"
+				"gid" "3841848033303167198"
+				"size" "4839984383"
+				"download" "4454951632"
 			}
 		}
 	}
@@ -254,16 +348,11 @@
 	{
 		"public"
 		{
-			"buildid" "13889266"
-			"timeupdated" "1711683621"
-		}
-		"test"
-		{
-			"buildid" "13889266"
-			"pwdrequired" "1"
-			"timeupdated" "1711674222"
+			"buildid" "17022604"
+			"timeupdated" "1737557211"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -291,6 +380,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22956545"
-"_sha" "f73cd8876819ddef1c9508e7dded8935fac1247a"
-"_size" "4704"
+"_change_number" "27115156"
+"_sha" "a149bc056fbb32eca5a63db2490078ef61f2e638"
+"_size" "6294"
