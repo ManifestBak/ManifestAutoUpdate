@@ -112,6 +112,13 @@
 				"english" "1e9f5205e1dae247e4040b97eb0a954719d9160f/library_hero.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "1e9f5205e1dae247e4040b97eb0a954719d9160f/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image"
@@ -290,36 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "4328576006986062329"
-				"size" "7419552590"
-				"download" "7135439648"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external-partners"
-			{
-				"gid" "F28A91D3EC09C76C404AD5295A91D486"
-				"size" "BE25D6E65A50EF09126EB51612F524D5"
-				"download" "120419548F823F18BA713302649025AF"
-			}
-			"latest-build"
-			{
-				"gid" "97725E3BA619BD679B391CAC440DA1FE"
-				"size" "AB3AEA81700FD508DD4C888C3B60A18D"
-				"download" "C4B698407AB571EB6B3A0AEA80D5D75F"
-			}
-			"review"
-			{
-				"gid" "C47BE7E205927D2A630BF7C83219455E"
-				"size" "DF74A24118352A034E19CAE0B81892A5"
-				"download" "6AC19E5BB0159FE2342A821B59B5901E"
-			}
-			"work-in-progress"
-			{
-				"gid" "223D53573193098F49D94B6071A35089"
-				"size" "E08F7FC90168B2E91F52A53CFFDF97F1"
-				"download" "44D8490CD652BA30E1CB7AF4A110F2AF"
+				"gid" "7477030079292659500"
+				"size" "7419635546"
+				"download" "7135755616"
 			}
 		}
 	}
@@ -327,34 +307,11 @@
 	{
 		"public"
 		{
-			"buildid" "15932409"
-			"timeupdated" "1728060151"
-		}
-		"external-partners"
-		{
-			"buildid" "11144266"
-			"pwdrequired" "1"
-			"timeupdated" "1683823876"
-		}
-		"latest-build"
-		{
-			"buildid" "13119168"
-			"pwdrequired" "1"
-			"timeupdated" "1704814965"
-		}
-		"review"
-		{
-			"buildid" "11144266"
-			"pwdrequired" "1"
-			"timeupdated" "1683823896"
-		}
-		"work-in-progress"
-		{
-			"buildid" "15932409"
-			"pwdrequired" "1"
-			"timeupdated" "1728058653"
+			"buildid" "17042603"
+			"timeupdated" "1737369462"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -372,3 +329,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27073788"
+"_sha" "40cee9ac1736557e4db405892fdbc7a28758fc22"
+"_size" "5619"
