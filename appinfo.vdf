@@ -143,6 +143,40 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1701110433"
 	"associations"
 	{
@@ -183,6 +217,7 @@
 		"category_49" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -268,8 +303,8 @@
 		"3" "4166"
 		"4" "5711"
 		"5" "1663"
-		"6" "4345"
-		"7" "1667"
+		"6" "1667"
+		"7" "4345"
 		"8" "1662"
 		"9" "9564"
 		"10" "1685"
@@ -291,7 +326,7 @@
 	"developer" "Digital Confectioners"
 	"publisher" "Digital Confectioners"
 	"homepage" "https://www.depthgame.com"
-	"listofdlc" "322740,335640,361310,361312,361313,361314,370340,370341,384240,392860,413990,413991,414100,414180,418820,423850,423851,423852,423853,456050,605240,728600,815760,850850,1031940,1386540,1849220"
+	"listofdlc" "322740,335640,361310,361312,361313,361314,370340,370341,384240,392860,413990,413991,414100,414180,418820,423850,423851,423853,456050,605240,728600,815760,850850,1031940,1386540,1849220"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -388,24 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "4058399636928473722"
-				"size" "5960127490"
-				"download" "3926006560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"buginfo"
-			{
-				"gid" "E3AE124B4BE21FD8C2E5E7441E497BA6"
-				"size" "BE0A164D6EA9FB461E9CDF8EA6C5F9F7"
-				"download" "0FD589120483ACD947EE94707CF309BA"
-			}
-			"staging"
-			{
-				"gid" "8B63BE68C891D9692487D07CDB8A6913"
-				"size" "82E7FCA27773CC2896C0DB08166663BE"
-				"download" "40BEF77F3957E6C28D8D4B052FB30C74"
+				"gid" "943779221366254708"
+				"size" "5960243675"
+				"download" "3926036896"
 			}
 		}
 	}
@@ -422,24 +442,9 @@
 		{
 			"public"
 			{
-				"gid" "4450200773047146823"
-				"size" "32298663906"
-				"download" "20296647200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"buginfo"
-			{
-				"gid" "55E5431CAFDD1D1951C68E172A67A0C2"
-				"size" "1FAF0CCE38034C3189BBE338EE21E579"
-				"download" "01E58EDE8875B0C6E7AE53C7CF179949"
-			}
-			"staging"
-			{
-				"gid" "B0698910D9DF388AE3CFEC55C57C95AA"
-				"size" "F9035C126E1BEC474F6AB1E566B2B573"
-				"download" "2ECD9FC6322FCBD06E9580AB52E37E64"
+				"gid" "2176571324059880751"
+				"size" "32298764219"
+				"download" "20296666656"
 			}
 		}
 	}
@@ -450,24 +455,9 @@
 		{
 			"public"
 			{
-				"gid" "4227746879956230001"
+				"gid" "9034828471103160123"
 				"size" "30194169"
 				"download" "28918240"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"buginfo"
-			{
-				"gid" "6C50F4BA9F9E75A16170147EEC19683E"
-				"size" "80E04362F971040BCADDE86F0DD1ABCA"
-				"download" "C53020E98F302CD94872B8567F73000A"
-			}
-			"staging"
-			{
-				"gid" "7B55662EDD6C45325AF6BC9F71580711"
-				"size" "53F881171B0C0F5072622ED479CA925B"
-				"download" "36C4D400CE8A65532B46F79883378341"
 			}
 		}
 	}
@@ -482,21 +472,6 @@
 				"download" "3340071456"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"buginfo"
-			{
-				"gid" "2A5E0F08E12267AE8410DC134F1CF67E"
-				"size" "146305DC32AA61F908DEEE376EC2C808"
-				"download" "6A530FEAFD14FA373CDF2B3BEC5EC2A8"
-			}
-			"staging"
-			{
-				"gid" "64E7A3582AF5E74647095661D9733141"
-				"size" "777A2591968B0557A580FFC65697BD21"
-				"download" "1F04B43A98C4917F5457C2C8E377796A"
-			}
-		}
 		"dlcappid" "605240"
 		"config"
 		{
@@ -507,22 +482,11 @@
 	{
 		"public"
 		{
-			"buildid" "13493319"
-			"timeupdated" "1708308421"
-		}
-		"buginfo"
-		{
-			"buildid" "2798032"
-			"pwdrequired" "1"
-			"timeupdated" "1527037168"
-		}
-		"staging"
-		{
-			"buildid" "8900206"
-			"pwdrequired" "1"
-			"timeupdated" "1654741042"
+			"buildid" "17085957"
+			"timeupdated" "1737515847"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -530,601 +494,7 @@
 	"quota" "100000000000"
 	"maxnumfiles" "10000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"bulgarian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "在主菜单"
-				"#queueing" "{#%team%} 队伍排队中"
-				"#lobbyone" "大厅中还有1名玩家"
-				"#lobbymore" "大厅中还有%lobby_buddies%名玩家"
-				"#playingdiverone" "选择 {#%team%} 保留1个保险箱"
-				"#playingdivermore" "选择 {#%team%} 保留%safes%个保险箱"
-				"#playingdiverfinal" "选择 {#%team%} 护送S.T.E.V.E"
-				"#playingsharkone" "选择 {#%team%} 剩余1个潜水员"
-				"#playingsharkmore" "选择 {#%team%} 剩余%divers_left%个潜水员"
-				"#waitingforloaders" "等待比赛开始"
-				"#endgame" "查看游戏结果排行榜"
-				"#team0" "潜水员"
-				"#team1" "鲨鱼"
-				"#team2" "潜水员或鲨鱼"
-				"#connectingtoserver" "连接服务器"
-			}
-		}
-		"czech"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"danish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "Im Hauptmenü"
-				"#queueing" "In der Warteschleife als {#%team%}"
-				"#lobbyone" "In der Lobby mit 1 anderen Spieler"
-				"#lobbymore" "In der Lobby mit %lobby_buddies% anderen Spielern"
-				"#playingdiverone" "Spielt {#%team%} mit 1 verbleibenden Safe"
-				"#playingdivermore" "Spielt {#%team%} mit %safes% verbleibenden Safes"
-				"#playingdiverfinal" "Spielt {#%team%} und eskortiert S.T.E.V.E"
-				"#playingsharkone" "Spielt {#%team%} mit 1 verbleibenden Taucher"
-				"#playingsharkmore" "Spielt {#%team%} mit %divers_left% verbleibenden Tauchern"
-				"#waitingforloaders" "Warte auf Spielbeginn ..."
-				"#endgame" "Punktestand zu Spielende wird angezeigt"
-				"#team0" "Taucher"
-				"#team1" "Hai"
-				"#team2" "Taucher oder Hai"
-				"#connectingtoserver" "Verbindung zum Server wird hergestellt"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"latam"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "En el menú Principal"
-				"#queueing" "En espera como {#%team%}"
-				"#lobbyone" "En la sala de espera con otro jugador"
-				"#lobbymore" "En la sala de espera con %lobby_buddies% jugadores más"
-				"#playingdiverone" "Jugando como {#%team%}, le queda una vida"
-				"#playingdivermore" "Jugando como {#%team%}, le quedan %safes% vidas"
-				"#playingdiverfinal" "Jugando como {#%team%}, escoltando a S.T.E.V.E."
-				"#playingsharkone" "Jugando como {#%team%}, le queda un buceador"
-				"#playingsharkmore" "Jugando como {#%team%}, le quedan %divers_left% buceadores"
-				"#waitingforloaders" "Esperando a que empiece la partida"
-				"#endgame" "Consultando la puntuación final"
-				"#team0" "buceador"
-				"#team1" "tiburón"
-				"#team2" "buceador o tiburón"
-				"#connectingtoserver" "Conectando con el servidor"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "En el menú Principal"
-				"#queueing" "En espera como {#%team%}"
-				"#lobbyone" "En la sala de espera con otro jugador"
-				"#lobbymore" "En la sala de espera con %lobby_buddies% jugadores más"
-				"#playingdiverone" "Jugando como {#%team%}, le queda una vida"
-				"#playingdivermore" "Jugando como {#%team%}, le quedan %safes% vidas"
-				"#playingdiverfinal" "Jugando como {#%team%}, escoltando a S.T.E.V.E."
-				"#playingsharkone" "Jugando como {#%team%}, le queda un buceador"
-				"#playingsharkmore" "Jugando como {#%team%}, le quedan %divers_left% buceadores"
-				"#waitingforloaders" "Esperando a que empiece la partida"
-				"#endgame" "Consultando la puntuación final"
-				"#team0" "buceador"
-				"#team1" "tiburón"
-				"#team2" "buceador o tiburón"
-				"#connectingtoserver" "Conectando con el servidor"
-			}
-		}
-		"finnish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "Dans le menu principal"
-				"#queueing" "Dans la file d\'attente en tant que {#%team%}"
-				"#lobbyone" "Au salon avec 1 autre joueur"
-				"#lobbymore" "Au salon avec %lobby_buddies% autres joueurs"
-				"#playingdiverone" "Joue en tant que {#%team%} avec 1 coffre restant"
-				"#playingdivermore" "Joue en tant que {#%team%} avec %safes% coffres restants"
-				"#playingdiverfinal" "Joue en tant que {#%team%} et escorte S.T.E.V.E."
-				"#playingsharkone" "Joue en tant que {#%team%} avec 1 plongeur restant"
-				"#playingsharkmore" "Joue en tant que {#%team%} avec %divers_left% plongeurs restants"
-				"#waitingforloaders" "En attente du début de la partie"
-				"#endgame" "Regarde le tableau des scores de fin de partie"
-				"#team0" "plongeur"
-				"#team1" "requin"
-				"#team2" "plongeur ou requin"
-				"#connectingtoserver" "Connexion au serveur"
-			}
-		}
-		"greek"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"hungarian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "Nel menu principale"
-				"#queueing" "In coda come {#%team%}"
-				"#lobbyone" "Nella lobby con un altro giocatore"
-				"#lobbymore" "Nella lobby con altri %lobby_buddies% giocatori"
-				"#playingdiverone" "Gioca come {#%team%} con 1 cassaforte rimasta"
-				"#playingdivermore" "Gioca come {#%team%} con %safes% casseforti rimaste"
-				"#playingdiverfinal" "Gioca come {#%team%} e scorta S.T.E.V.E."
-				"#playingsharkone" "Gioca come {#%team%} con 1 sub rimasto"
-				"#playingsharkmore" "Gioca come {#%team%} con %divers_left% sub rimasti"
-				"#waitingforloaders" "In attesa che inizi la partita"
-				"#endgame" "Guarda la classifica di fine partita"
-				"#team0" "sommozzatore"
-				"#team1" "squalo"
-				"#team2" "sommozzatore o squalo"
-				"#connectingtoserver" "Si connette al server"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "メインメニュー"
-				"#queueing" "{#%team%}として並ぶ"
-				"#lobbyone" "他のプレイヤーとロビーで一緒になる。"
-				"#lobbymore" "%lobby_buddies% 人のプレイヤーと一緒にロビーにいる。"
-				"#playingdiverone" "{#%team%} で遊んでいる(残り１つの金庫)"
-				"#playingdivermore" "%safes%の金庫を{#%team%}で遊んでいる"
-				"#playingdiverfinal" "{#%team%}で遊びS.T.E.V.E.をエスコートしている"
-				"#playingsharkone" "残り一人のダイバーで遊んでいる 。{#%team%}"
-				"#playingsharkmore" "%i 人のダイバーが残っている状態で遊ぶ"
-				"#waitingforloaders" "マッチの始まりを待つ"
-				"#endgame" "エンドゲームのスコアボードを見る"
-				"#team0" "ダイバー"
-				"#team1" "サメ"
-				"#team2" "ダイバーもしくはサメ"
-				"#connectingtoserver" "サーバーに接続する"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "메인 메뉴에서"
-				"#queueing" "{#%team%}로서 대기 중"
-				"#lobbyone" "다른 플레이어와 함께 로비에서"
-				"#lobbymore" "다른 플레이어 %lobby_buddies%명과 함께 로비에서"
-				"#playingdiverone" "금고 1개 남은 채 {#%team%} 플레이 중"
-				"#playingdivermore" "금고 %safes%개 남은 채 {#%team%} 플레이 중"
-				"#playingdiverfinal" "S.T.E.V.E. 경호하며 {#%team%} 플레이 중"
-				"#playingsharkone" "다이버 1명 남은 채 {#%team%} 플레이 중"
-				"#playingsharkmore" "다이버 %divers_left%명 남은 채 {#%team%} 플레이 중"
-				"#waitingforloaders" "시작할 매치 찾는 중"
-				"#endgame" "게임 후 점수판 보는 중"
-				"#team0" "다이버"
-				"#team1" "상어"
-				"#team2" "다이버 혹은 상어"
-				"#connectingtoserver" "서버 연결 중"
-			}
-		}
-		"norwegian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "W menu głównym"
-				"#queueing" "W kolejce jako {#%team%}"
-				"#lobbyone" "W poczekalni z 1 innym graczem"
-				"#lobbymore" "W poczekalni z %lobby_buddies% innymi graczami"
-				"#playingdiverone" "Gra jako {#%team%}, pozostał 1 sejf"
-				"#playingdivermore" "Gra jako {#%team%}, pozostałych sejfów: %safes%"
-				"#playingdiverfinal" "Gra jako {#%team%}, eskortuje S.T.E.V.E-a"
-				"#playingsharkone" "Gra jako {#%team%}, pozostał 1 nurek"
-				"#playingsharkmore" "Gra jako {#%team%}, pozostałych nurków: %divers_left%"
-				"#waitingforloaders" "Oczekiwanie na rozpoczęcie meczu"
-				"#endgame" "Przegląda końcową tablicę wyników"
-				"#team0" "nurek"
-				"#team1" "rekin"
-				"#team2" "nurek lub rekin"
-				"#connectingtoserver" "Łączenie z serwerem"
-			}
-		}
-		"portuguese"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "No menu principal"
-				"#queueing" "Na fila com {#%team%}"
-				"#lobbyone" "No lobby com 1 outro jogador"
-				"#lobbymore" "No lobby com %lobby_buddies% outros jogadores"
-				"#playingdiverone" "Jogando {#%team%} com 1 cofre restante"
-				"#playingdivermore" "Jogando {#%team%} com %safes% cofres restantes"
-				"#playingdiverfinal" "Jogando {#%team%} acompanhando S.T.E.V.E"
-				"#playingsharkone" "Jogando {#%team%} com 1 mergulhador restante"
-				"#playingsharkmore" "Jogando {#%team%} com %divers_left% mergulhadores restantes"
-				"#waitingforloaders" "Aguardando o início da partida"
-				"#endgame" "Vendo pontuação do fim do jogo"
-				"#team0" "mergulhador"
-				"#team1" "tubarão"
-				"#team2" "mergulhador ou tubarão"
-				"#connectingtoserver" "Conectando ao servidor"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "No menu principal"
-				"#queueing" "Na fila com {#%team%}"
-				"#lobbyone" "No lobby com 1 outro jogador"
-				"#lobbymore" "No lobby com %lobby_buddies% outros jogadores"
-				"#playingdiverone" "Jogando {#%team%} com 1 cofre restante"
-				"#playingdivermore" "Jogando {#%team%} com %safes% cofres restantes"
-				"#playingdiverfinal" "Jogando {#%team%} acompanhando S.T.E.V.E"
-				"#playingsharkone" "Jogando {#%team%} com 1 mergulhador restante"
-				"#playingsharkmore" "Jogando {#%team%} com %divers_left% mergulhadores restantes"
-				"#waitingforloaders" "Aguardando o início da partida"
-				"#endgame" "Vendo pontuação do fim do jogo"
-				"#team0" "mergulhador"
-				"#team1" "tubarão"
-				"#team2" "mergulhador ou tubarão"
-				"#connectingtoserver" "Conectando ao servidor"
-			}
-		}
-		"romanian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "В главном меню"
-				"#queueing" "Встал в очередь в качестве {#%team%}"
-				"#lobbyone" "В лобби с 1 игроком"
-				"#lobbymore" "В лобби с %lobby_buddies% игроками"
-				"#playingdiverone" "{#%team%}. Сейфов осталось: 1"
-				"#playingdivermore" "{#%team%}. Сейфов осталось: %safes%"
-				"#playingdiverfinal" "Играет на карте {#%team%}, сопровождает S.T.E.V.E"
-				"#playingsharkone" "{#%team%}. Осталось дайверов: 1"
-				"#playingsharkmore" "{#%team%}. Осталось дайверов: %divers_left%"
-				"#waitingforloaders" "Ожидание начала матча"
-				"#endgame" "Смотрит таблицу результатов матча"
-				"#team0" "водолаз"
-				"#team1" "акула"
-				"#team2" "водолаз или акула"
-				"#connectingtoserver" "Соединение с сервером"
-			}
-		}
-		"swedish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"thai"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"turkish"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "Ana Menüde"
-				"#queueing" "{#%team%} olarak sıraya giriliyor"
-				"#lobbyone" "1 Diğer oyuncu lobide"
-				"#lobbymore" "%lobby_buddies% diğer oyuncuyla lobide"
-				"#playingdiverone" "{#%team%} olarak oynuyor, 1 kasa kalmış"
-				"#playingdivermore" "{#%team%} olarak oynuyor %safes% kasa kalmış"
-				"#playingdiverfinal" "{#%team%} olarak oynuyor S.T.E.V.E. \'e eşlik ediyor"
-				"#playingsharkone" "{#%team%} olarak oynuyor, 1 dalgıç kalmış"
-				"#playingsharkmore" "{#%team%} olarak oynuyor %divers_left% dalgıç kalmış"
-				"#waitingforloaders" "Maçın başlamasını bekliyor"
-				"#endgame" "Oyun sonu skor tablosunu görüntülüyor"
-				"#team0" "dalgıç"
-				"#team1" "köpekbalığı"
-				"#team2" "dalgıç veya köpekbalığı"
-				"#connectingtoserver" "Sunucuya bağlanıyor"
-			}
-		}
-		"ukrainian"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"vietnamese"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "In main menu"
-				"#queueing" "Queueing as a {#%team%}"
-				"#lobbyone" "In lobby with 1 other player"
-				"#lobbymore" "In lobby with %lobby_buddies% other players"
-				"#playingdiverone" "Playing {#%team%} with 1 safe left"
-				"#playingdivermore" "Playing {#%team%} with %safes% safes left"
-				"#playingdiverfinal" "Playing {#%team%} escorting S.T.E.V.E."
-				"#playingsharkone" "Playing {#%team%} with 1 diver left"
-				"#playingsharkmore" "Playing {#%team%} with %divers_left% divers left"
-				"#waitingforloaders" "Waiting for match to start"
-				"#endgame" "Viewing end game scoreboard"
-				"#team0" "diver"
-				"#team1" "shark"
-				"#team2" "diver or shark"
-				"#connectingtoserver" "Connecting to server"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#inmainmenu" "在主菜單內"
-				"#queueing" "等待加入{#%team%}團隊"
-				"#lobbyone" "與另外 1 名玩家在大廳裡"
-				"#lobbymore" "與另外 %lobby_buddies% 名玩家在大廳裡"
-				"#playingdiverone" "扮演{#%team%}，剩下 1 個保險箱"
-				"#playingdivermore" "扮演{#%team%}，剩下 %safes% 個保險箱"
-				"#playingdiverfinal" "扮演{#%team%}，保護著 S.T.E.V.E"
-				"#playingsharkone" "扮演{#%team%}，剩下 1 名潛水員"
-				"#playingsharkmore" "扮演{#%team%}，剩下 %divers_left% 名潛水員"
-				"#waitingforloaders" "等待比賽開始"
-				"#endgame" "查看遊戲得分板"
-				"#team0" "潛水員"
-				"#team1" "鯊魚"
-				"#team2" "潛水員或鯊魚"
-				"#connectingtoserver" "正連接伺服器"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "22401297"
-"_sha" "93246d0ad29b38032472958920a75bb6ef885e7b"
-"_size" "34903"
+"_change_number" "27105017"
+"_sha" "dc9918adf39487709b388b9fb77cc443eeaebf8e"
+"_size" "9529"
