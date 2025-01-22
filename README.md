@@ -1,52 +1,46 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-22 12:22:40
+## 更新时间：2025-01-22 14:27:03
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1025600 | Battle Realms: Zen Edition| Game |
-| 1052440 | 黑色規則：西格瑪| Game |
-| 1104660 | MO:Astray| Game |
-| 1360810 | 职场浮生记| Game |
-| 16810 | Sid Meier's Civilization IV: Colonization| game |
-| 1590730 | Helping the Hotties| Game |
-| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
-| 1732390 | 那由多之轨迹：改| Game |
-| 1858630 | 刀剑神域 碎梦边境| Game |
-| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
-| 1987480 | 勇者与亡灵之都| Game |
-| 205 | Source Dedicated Server| Tool |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 207930 | Sacred Citadel| Game |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 2361680 | 刀剑江湖路| Game |
-| 240 | Counter-Strike: Source| game |
-| 2344520 | 《暗黑破坏神® IV》| Game |
-| 22380 | Fallout: New Vegas| game |
+| 1079460 | Descenders Soundtrack| Music |
+| 1113030 | Stellar Warfare| Game |
+| 1171380 | Mo:Astray - OST| Music |
+| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
+| 2060160 | The Farmer Was Replaced| Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 215 | Source SDK Base 2006| Tool |
+| 222750 | Wargame: AirLand Battle| Game |
+| 2244130 | Ratopia| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2267960 | College Kings 2 - Episode 3 "Back To Basics"| DLC |
+| 218 | Source SDK Base 2007| Tool |
+| 2291060 | 地球防卫军6| Game |
+| 239140 | Dying Light| Game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
 | 2679200 | 幸存者少女/Survivor Girls| Game |
-| 2656540 | 东方：平野孤鸿| Game |
-| 278570 | Labyrinthine Dreams| Game |
-| 274940 | 深海惊魂 Depth| Game |
-| 3014680 | 本草归元录| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 322450 | FRAMED Collection| Game |
-| 324160 | CLANNAD| Game |
-| 3288380 | SEX CLUB Simulator 🔞🍓| Game |
-| 33770 | Drakensang The River of Time| game |
-| 349250 | Copy Kitty| Game |
-| 409850 | Criminal Girls: Invite Only| Game |
-| 454140 | First Person Tennis - The Real Tennis Simulator| Game |
-| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
-| 548840 | A Rose in the Twilight| Game |
-| 559210 | Rakuen| Game |
-| 681280 | Descenders| Game |
-| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 730 | Counter-Strike 2| Game |
-| 785740 | This Is the Police 2| Game |
-| 798540 | Dying Light Original Soundtrack| Music |
-| 855640 | My Brother Rabbit| Game |
+| 2725540 | College Kings 2 - Episode 4 "Moving Out"| DLC |
+| 2882870 | Doll Impostor| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 3218600 | 命运游戏2：百年之约| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 372140 | Labyrinthine Dreams - Soundtrack| Music |
+| 42710 | Call of Duty: Black Ops - Multiplayer| game |
+| 400750 | Call to Arms - Gates of Hell: Ostfront| Game |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 42700 | Call of Duty: Black Ops| game |
+| 494840 | UBOAT| Game |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 914310 | Copy Kitty OST| Music |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
