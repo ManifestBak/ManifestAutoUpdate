@@ -20,6 +20,7 @@
 		"spanish" "1"
 		"schinese" "1"
 		"russian" "1"
+		"thai" "1"
 		"japanese" "1"
 		"brazilian" "1"
 	}
@@ -28,6 +29,7 @@
 		"schinese" "露玛岛"
 		"japanese" "ルマ島"
 		"koreana" "루마섬"
+		"thai" "เกาะ Luma"
 	}
 	"steam_deck_compatibility"
 	{
@@ -157,7 +159,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732556017"
+	"store_asset_mtime" "1736937736"
 	"associations"
 	{
 		"0"
@@ -248,9 +250,13 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1732096454"
-	"steam_deck_blog_url" "https://steamcommunity.com/games/2408820/announcements/detail/4482863594844717086"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2408820"
@@ -258,27 +264,27 @@
 	{
 		"0" "122"
 		"1" "1685"
-		"2" "87918"
-		"3" "21"
-		"4" "599"
-		"5" "5981"
+		"2" "5981"
+		"3" "87918"
+		"4" "21"
+		"5" "599"
 		"6" "1702"
 		"7" "15564"
 		"8" "22602"
 		"9" "3834"
 		"10" "597"
-		"11" "1695"
+		"11" "916648"
 		"12" "3859"
-		"13" "3843"
-		"14" "4182"
-		"15" "4747"
-		"16" "4726"
-		"17" "1643"
-		"18" "4520"
-		"19" "1684"
+		"13" "1695"
+		"14" "3843"
+		"15" "4182"
+		"16" "4747"
+		"17" "4726"
+		"18" "1643"
+		"19" "4520"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -327,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "1510453432398146102"
-				"size" "4083077429"
-				"download" "2067294592"
+				"gid" "4618449419084254674"
+				"size" "3772996976"
+				"download" "1771645248"
 			}
 		}
 	}
@@ -337,8 +343,8 @@
 	{
 		"public"
 		{
-			"buildid" "16785465"
-			"timeupdated" "1734521057"
+			"buildid" "17088759"
+			"timeupdated" "1737540726"
 		}
 	}
 	"privatebranches" "1"
@@ -405,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26693872"
-"_sha" "4081e8c6f03b5ce65e4fe7e6d79b0a7e87669824"
-"_size" "7738"
+"_change_number" "27109736"
+"_sha" "4c5f92696671f7979bc9db7e78bcc4b4dbbfb4a4"
+"_size" "7745"
