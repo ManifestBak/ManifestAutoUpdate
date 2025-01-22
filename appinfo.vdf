@@ -21,7 +21,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "7c2cddf7d5bcfd921b80c215a05ac3e5e475672c/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -32,6 +32,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -72,19 +73,30 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4210a3061ba4b554719854f6f0f347ec1636ea3c/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4210a3061ba4b554719854f6f0f347ec1636ea3c/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1700850622"
+	"store_asset_mtime" "1737492483"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "ATOM VOID"
+			"name" "Atom Void"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "ATOM VOID"
+			"name" "Atom Void"
 		}
 	}
 	"primary_genre" "23"
@@ -118,34 +130,34 @@
 	"store_tags"
 	{
 		"0" "1659"
-		"1" "791774"
-		"2" "4236"
-		"3" "4345"
-		"4" "4325"
-		"5" "14139"
-		"6" "9"
-		"7" "1666"
-		"8" "492"
-		"9" "122"
-		"10" "3835"
-		"11" "1708"
-		"12" "32322"
-		"13" "17305"
-		"14" "1770"
-		"15" "1741"
-		"16" "4182"
-		"17" "4667"
-		"18" "3871"
-		"19" "4191"
+		"1" "4236"
+		"2" "4345"
+		"3" "4325"
+		"4" "14139"
+		"5" "9"
+		"6" "1666"
+		"7" "492"
+		"8" "122"
+		"9" "3835"
+		"10" "1708"
+		"11" "32322"
+		"12" "17305"
+		"13" "1770"
+		"14" "1741"
+		"15" "4182"
+		"16" "4667"
+		"17" "3871"
+		"18" "4191"
+		"19" "21725"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
 }
 "extended"
 {
-	"developer" "ATOM VOID"
-	"publisher" "ATOM VOID"
-	"homepage" "https://deadgrid.com"
+	"developer" "Atom Void"
+	"publisher" "Atom Void"
+	"homepage" "https://atomvoid.com"
 }
 "config"
 {
@@ -178,9 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "5778707532857837483"
-				"size" "6851179613"
-				"download" "2705677344"
+				"gid" "2468696424744478237"
+				"size" "6851200001"
+				"download" "2705723312"
 			}
 			"cu05"
 			{
@@ -194,8 +206,8 @@
 	{
 		"public"
 		{
-			"buildid" "17052152"
-			"timeupdated" "1737240540"
+			"buildid" "17066801"
+			"timeupdated" "1737394369"
 		}
 		"cu05"
 		{
@@ -225,6 +237,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27059498"
-"_sha" "b310ba2e418d475c3bfab0e92f4494a984b4fa48"
-"_size" "3707"
+"_change_number" "27100428"
+"_sha" "3f3ce7bf1d74774ba92c910fd8b8c9a7edb4c7ac"
+"_size" "4012"
