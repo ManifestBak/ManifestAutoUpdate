@@ -1,0 +1,303 @@
+"appid" "3424590"
+"common"
+{
+	"name" "Jotunnslayer: Hordes of Hel Soundtrack"
+	"type" "Music"
+	"parent" "2820820"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "4284a0918a75873e83b52089b12534967f60cbe6"
+	"small_capsule"
+	{
+		"english" "f2ecebee5fcddf6fc8defdd52ad1e68a0c806869/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_296fd72ea30aa234b476da7d56a94f6e2b0a5122.jpg"
+	"store_asset_mtime" "1735757254"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Games Farm"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "ARTillery"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Grindstone"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1737464935"
+	"gameid" "3424590"
+	"exfgls" "6"
+	"store_tags"
+	{
+	}
+}
+"extended"
+{
+	"musicalbumforappid" "2820820"
+	"developer" "Games Farm"
+	"publisher" "Grindstone"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Jotunnslayer Hordes of Hel Soundtrack"
+}
+"depots"
+{
+	"3424591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4476135977841529447"
+				"size" "60642124"
+				"download" "57911344"
+			}
+		}
+	}
+	"3424592"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9056172864597234766"
+				"size" "31173630"
+				"download" "30943968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16938751"
+			"timeupdated" "1736333971"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "0ad88ce6c69c462be9a52c60ba8e85edc8413f28"
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Robert Bruckmayer"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "Games Farm, Grindstone"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Jotunnslayer Hordes of Hel (Main Theme)"
+			"m" "1"
+			"s" "54"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Berserker\'s Rage"
+			"m" "4"
+			"s" "19"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Steel for Draugar"
+			"m" "2"
+			"s" "27"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Bones of the Beast"
+			"m" "2"
+			"s" "41"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Abyss of Muspelheim"
+			"m" "2"
+			"s" "55"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Infernal Reawakening"
+			"m" "3"
+			"s" "0"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Doomed and Forsaken"
+			"m" "2"
+			"s" "52"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Wrath of Surtr"
+			"m" "4"
+			"s" "59"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27110710"
+"_sha" "7dc6173d6c6d45ef88176a5ab7df190d370768c4"
+"_size" "4987"
