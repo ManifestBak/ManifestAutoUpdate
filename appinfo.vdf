@@ -52,7 +52,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "b3132999b77e03f7409d8b2607ea79ab12cf8772/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -120,7 +120,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728556238"
+	"store_asset_mtime" "1734037265"
 	"associations"
 	{
 		"0"
@@ -285,30 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "5668303190064835392"
-				"size" "16603388536"
-				"download" "13056849520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"live2"
-			{
-				"gid" "CD85915C95566714A72C4E0CFA321E0E"
-				"size" "0E27AB379655CC043E6E888766E55B9F"
-				"download" "7C7A2A42E78877CFDD58F1A4ABBD7ECD"
-			}
-			"cert"
-			{
-				"gid" "FECAF3487B2B3592DAE83EE28D685FC0"
-				"size" "679E6E03889589C9825762CB0F2B5301"
-				"download" "A2E624B381045A6EF3E04F6DB60030CD"
-			}
-			"live"
-			{
-				"gid" "94FE50534764699E5AE11633D0A97AF5"
-				"size" "8A94E9A99B5C980257048DD8EC98D891"
-				"download" "069BC8DC05697CEEFD3F550F2626F33F"
+				"gid" "8264654188060552748"
+				"size" "16900844842"
+				"download" "13280446976"
 			}
 		}
 	}
@@ -317,30 +296,13 @@
 	{
 		"public"
 		{
-			"buildid" "16680289"
-			"timeupdated" "1733929093"
-		}
-		"live2"
-		{
-			"buildid" "9378973"
-			"pwdrequired" "1"
-			"timeupdated" "1661349405"
-		}
-		"cert"
-		{
-			"buildid" "16680289"
-			"pwdrequired" "1"
-			"timeupdated" "1733754033"
-		}
-		"live"
-		{
-			"buildid" "14598447"
-			"pwdrequired" "1"
-			"timeupdated" "1717506499"
+			"buildid" "17016552"
+			"timeupdated" "1737554041"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26595002"
-"_sha" "a769821d051d595e359ade0b8e03615f0954ada6"
-"_size" "6176"
+"_change_number" "27112862"
+"_sha" "0dca74b1d5f472d124fd4af2f1ac004f360180af"
+"_size" "5394"
