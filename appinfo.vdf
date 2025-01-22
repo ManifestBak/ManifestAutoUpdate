@@ -162,9 +162,10 @@
 		"13" "3810"
 		"14" "4562"
 		"15" "4195"
+		"16" "6650"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -181,6 +182,7 @@
 		"0"
 		{
 			"executable" "SurvivorGirls.exe"
+			"type" "default"
 		}
 	}
 }
@@ -194,9 +196,9 @@
 		{
 			"public"
 			{
-				"gid" "6083432769833299388"
-				"size" "566664221"
-				"download" "204268960"
+				"gid" "8317407648904058307"
+				"size" "736156965"
+				"download" "324104960"
 			}
 		}
 	}
@@ -222,10 +224,11 @@
 	{
 		"public"
 		{
-			"buildid" "13041602"
-			"timeupdated" "1703478480"
+			"buildid" "17086241"
+			"timeupdated" "1737517757"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -233,3 +236,7 @@
 	"quota" "9999999999"
 	"maxnumfiles" "3"
 }
+"_missing_token" "False"
+"_change_number" "27105433"
+"_sha" "58970c3886b6150e20f80f2215f26e79a96fdad9"
+"_size" "3794"
