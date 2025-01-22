@@ -159,16 +159,6 @@
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "Surefire.Games"
-		}
-		"3"
-		{
-			"type" "franchise"
-			"name" "Return 2 Games"
-		}
-		"4"
-		{
 			"type" "franchise"
 			"name" "Skystone Games"
 		}
@@ -288,8 +278,8 @@
 		"6" "4325"
 		"7" "32322"
 		"8" "4026"
-		"9" "1720"
-		"10" "4508"
+		"9" "4508"
+		"10" "1720"
 		"11" "1677"
 		"12" "1666"
 		"13" "3843"
@@ -301,7 +291,7 @@
 		"19" "3859"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -408,30 +398,15 @@
 		{
 			"public"
 			{
-				"gid" "199560623174840795"
-				"size" "1167494152"
-				"download" "1015789392"
+				"gid" "6316291671910027760"
+				"size" "1164915022"
+				"download" "1015014704"
 			}
 			"release-candidate"
 			{
-				"gid" "199560623174840795"
-				"size" "1167494152"
-				"download" "1015789392"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "EFD9AD48BAFC571A9753C58B8A65F21C"
-				"size" "B5205CFD7935BB83BD5223194C4BE073"
-				"download" "EAD1A3393667B7283DB9341DE46722A1"
-			}
-			"translations"
-			{
-				"gid" "D6365D35125CDB704882E9F7C10E9A93"
-				"size" "E2221BF5CDCEAA24AF1C8BAA8C09B24D"
-				"download" "31DDB57A07F77E4C2DB14F1AF10AF530"
+				"gid" "6316291671910027760"
+				"size" "1164915022"
+				"download" "1015014704"
 			}
 		}
 	}
@@ -441,30 +416,15 @@
 		{
 			"public"
 			{
-				"gid" "8629913308020066450"
-				"size" "280559616"
-				"download" "56461280"
+				"gid" "395805830373214194"
+				"size" "281329664"
+				"download" "56818176"
 			}
 			"release-candidate"
 			{
-				"gid" "8629913308020066450"
-				"size" "280559616"
-				"download" "56461280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "73A520085C77F77F6894A7B18B6BC6D0"
-				"size" "62F7893DA5AE8ABE5695179B73260893"
-				"download" "207F9B245F06E2814E3A4FBDD4A9846E"
-			}
-			"translations"
-			{
-				"gid" "CC40E215C386CEDE8044B096E3DC7990"
-				"size" "E5F06B7467C1AE10E5817A61793C8380"
-				"download" "6C4CC69498099C72B58093A89DBABB54"
+				"gid" "395805830373214194"
+				"size" "281329664"
+				"download" "56818176"
 			}
 		}
 	}
@@ -475,30 +435,15 @@
 		{
 			"public"
 			{
-				"gid" "125063736271610260"
-				"size" "20032512"
-				"download" "6545888"
+				"gid" "7093095633611033042"
+				"size" "20114432"
+				"download" "6572000"
 			}
 			"release-candidate"
 			{
-				"gid" "125063736271610260"
-				"size" "20032512"
-				"download" "6545888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "CFFB3FDA276161DB63FFC45DCB016FD5"
-				"size" "42EB4269BEE6071FCB71C6868F3FB5BE"
-				"download" "0D1263D48DBD9EACEC11504C64655675"
-			}
-			"translations"
-			{
-				"gid" "35BB42D352DF93DA821AC05EB06FAE55"
-				"size" "2FC5858E3169B40FA61FC09AF01DF2E1"
-				"download" "5F0F845400650E069DED557311FE4943"
+				"gid" "7093095633611033042"
+				"size" "20114432"
+				"download" "6572000"
 			}
 		}
 	}
@@ -520,21 +465,6 @@
 				"download" "284064608"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "9B77F319567E1130D1C51DB98D7E4A83"
-				"size" "BB5DF389BD323A514253E5624E14A45A"
-				"download" "3E6ED069A7CDACCD0C382B8D5AEDEFBA"
-			}
-			"translations"
-			{
-				"gid" "1AFD82C01979D0EA4AB5395607641B28"
-				"size" "6F7FC27DA7B640D6C432364DD04B485D"
-				"download" "60E8ADD069FF2FF1A6997B0053D94D2C"
-			}
-		}
 	}
 	"2719490"
 	{
@@ -543,30 +473,15 @@
 		{
 			"public"
 			{
-				"gid" "8400157342738292672"
-				"size" "27910608"
-				"download" "9638112"
+				"gid" "6569669314413859498"
+				"size" "27973584"
+				"download" "9656912"
 			}
 			"release-candidate"
 			{
-				"gid" "8400157342738292672"
-				"size" "27910608"
-				"download" "9638112"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "CC610D33E481CB537B3113C58E745675"
-				"size" "74DB9C0047A649F8DE65381DCC22BBD7"
-				"download" "66E09905CC8FA16C3976F62F9B893EC1"
-			}
-			"translations"
-			{
-				"gid" "8E8B60CBC06BA3D874CA439CA86B353F"
-				"size" "B0B493C0B6DA1BC9AE4DFB89A87E5CF2"
-				"download" "C952F989CDFBF473DE4C594C338FFA05"
+				"gid" "6569669314413859498"
+				"size" "27973584"
+				"download" "9656912"
 			}
 		}
 	}
@@ -577,30 +492,15 @@
 		{
 			"public"
 			{
-				"gid" "9197492397230995848"
-				"size" "19990528"
-				"download" "6537840"
+				"gid" "685309553128207958"
+				"size" "20060160"
+				"download" "6554032"
 			}
 			"release-candidate"
 			{
-				"gid" "9197492397230995848"
-				"size" "19990528"
-				"download" "6537840"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "AE4FB5049E0F58A063A7ECEC72FA62B7"
-				"size" "331421F87A91FD08D6E21529999EEB29"
-				"download" "7D433ED339BE32F17B8DD327DD9F8213"
-			}
-			"translations"
-			{
-				"gid" "4679ADB278EC8934487D5C62D601D817"
-				"size" "8FA0F4FE0F30307D3BCC8DEDC3E3217C"
-				"download" "1E3F8D63A38FE3A5E5EB428044F69D31"
+				"gid" "685309553128207958"
+				"size" "20060160"
+				"download" "6554032"
 			}
 		}
 	}
@@ -608,28 +508,17 @@
 	{
 		"public"
 		{
-			"buildid" "15769600"
-			"timeupdated" "1726838001"
-		}
-		"development"
-		{
-			"buildid" "15769600"
-			"pwdrequired" "1"
-			"timeupdated" "1726830117"
+			"buildid" "17075051"
+			"timeupdated" "1737547292"
 		}
 		"release-candidate"
 		{
-			"buildid" "15769600"
+			"buildid" "17075051"
 			"description" "Upcoming changes test"
-			"timeupdated" "1726837888"
-		}
-		"translations"
-		{
-			"buildid" "15769600"
-			"pwdrequired" "1"
-			"timeupdated" "1726837975"
+			"timeupdated" "1737547235"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -646,3 +535,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27111304"
+"_sha" "b61b7eeaa58ec870adb1e4b3eecf25eb88be308c"
+"_size" "9516"
