@@ -76,6 +76,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "60.7101280558789"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1667830190"
 	"associations"
 	{
@@ -214,36 +256,15 @@
 		{
 			"public"
 			{
-				"gid" "6753013966389027668"
-				"size" "377910073"
-				"download" "314384096"
+				"gid" "1102024131990087930"
+				"size" "378786864"
+				"download" "314581600"
 			}
 			"1.4.4"
 			{
 				"gid" "7409129332557519674"
 				"size" "368050348"
 				"download" "308989536"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "BDF77599BE3F8CB8F45F11CAEC40798E"
-				"size" "E66F9B2CD6A29322E2051714B87D8B2B"
-				"download" "0CD95F95608B3BA7ED47646F8D277289"
-			}
-			"internal"
-			{
-				"gid" "7BF14D7A8162DE6D4E5736015C3734C1"
-				"size" "F0BBC413824756677118EECFDB009D80"
-				"download" "122F12B7835A8280BB288DABD990FDE0"
-			}
-			"partner"
-			{
-				"gid" "D956090CEECB32496F3776FEF392A172"
-				"size" "F3A34FF1E64BAB613D97CAD50051D6A4"
-				"download" "66A0E73D7DAEDD2DD9DF2092184F03C4"
 			}
 		}
 	}
@@ -257,36 +278,15 @@
 		{
 			"public"
 			{
-				"gid" "8177905456115374652"
-				"size" "403764232"
-				"download" "323173712"
+				"gid" "1204197991820141311"
+				"size" "404490696"
+				"download" "323333312"
 			}
 			"1.4.4"
 			{
 				"gid" "3226320175773167403"
 				"size" "378165112"
 				"download" "313022160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "C5448EE8A896A5D604BB933318E12051"
-				"size" "CCE4FF4D28C7B6CE42FF22D258B7456C"
-				"download" "BAF028A1136877B7FEAADAFEC4A3C5CD"
-			}
-			"internal"
-			{
-				"gid" "7EFF8D8524F0DCE11E321946ABE1EF7A"
-				"size" "F15B79997452EDAAFD803B657B6DF2E6"
-				"download" "EA410E0141BDCAD52E48A7CF099C07DE"
-			}
-			"partner"
-			{
-				"gid" "1CFE985ED66465CAF1D32E72A558C757"
-				"size" "32724CAAD39DC048C52CC3176238781A"
-				"download" "4FF140822F73290A2F51ECE5A7B6CD63"
 			}
 		}
 	}
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "8394574381155139107"
-				"size" "418421831"
-				"download" "314347952"
+				"gid" "3995193932732201682"
+				"size" "417728206"
+				"download" "314123808"
 			}
 			"1.4.4"
 			{
@@ -311,34 +311,13 @@
 				"download" "312839648"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D1E3ACC8A6F2589A4E0A165DBA029252"
-				"size" "7DAF26B991F9BC6E8FF3B6BCE6F58208"
-				"download" "6612ED32F413C36FD0492395B6E76F6C"
-			}
-			"internal"
-			{
-				"gid" "EF8AD1FE79F2478E63585B95D9EF8F46"
-				"size" "07469B3AF0B00231A9675FECBE97FC77"
-				"download" "751953A1E9CE7191093EF10E91794370"
-			}
-			"partner"
-			{
-				"gid" "D3FB12671A713EEAF08483053B17F278"
-				"size" "0D33AFFBEEDDF8E84A54DD1131E749AF"
-				"download" "E99F6CA5CEF1ED05052E8B4F332F27A1"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12482993"
-			"timeupdated" "1697724734"
+			"buildid" "16995660"
+			"timeupdated" "1736904545"
 		}
 		"1.4.4"
 		{
@@ -346,28 +325,15 @@
 			"description" "Old version for Windows Vista and 32-bit CPUs."
 			"timeupdated" "1697721902"
 		}
-		"beta"
-		{
-			"buildid" "12474318"
-			"pwdrequired" "1"
-			"timeupdated" "1697656013"
-		}
-		"internal"
-		{
-			"buildid" "12482993"
-			"pwdrequired" "1"
-			"timeupdated" "1697722024"
-		}
-		"partner"
-		{
-			"buildid" "4200513"
-			"pwdrequired" "1"
-			"timeupdated" "1568652059"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "1000000000"
 	"maxnumfiles" "10000"
 }
+"_missing_token" "False"
+"_change_number" "26999394"
+"_sha" "0726b0ae3d94126a82069b1fe397e62ba5ecfdaf"
+"_size" "5857"
