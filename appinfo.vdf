@@ -236,7 +236,7 @@
 	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=2761670"
 	"developer" "Bug Inventors"
 	"publisher" "Bug Inventors"
-	"listofdlc" "3088630,3263800"
+	"listofdlc" "3088630,3263800,3476450"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -310,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "7143810131747302565"
-				"size" "24277359721"
-				"download" "9494646656"
+				"gid" "5720878439083270813"
+				"size" "24329808089"
+				"download" "9516277088"
 			}
 		}
 	}
@@ -321,8 +321,8 @@
 	{
 		"public"
 		{
-			"buildid" "16982406"
-			"timeupdated" "1736729658"
+			"buildid" "17095121"
+			"timeupdated" "1737572928"
 		}
 	}
 	"privatebranches" "1"
@@ -358,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26966104"
-"_sha" "96570a450469e89c30ef27a97c700dd5e447c5bd"
-"_size" "6742"
+"_change_number" "27117736"
+"_sha" "7e91fbb95e50b457dec0408701310b6903277f7b"
+"_size" "6750"
