@@ -232,42 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "1933379106088587838"
-				"size" "868896669"
-				"download" "179889520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"creator"
-			{
-				"gid" "F454A5D183C2928BEB72384BC020B5A2"
-				"size" "2B813D82CF140049C64542B409A5F1B6"
-				"download" "7B609FD661DE95DC255FFE194B709CEF"
-			}
-			"morpdev"
-			{
-				"gid" "D568C57C9C498E631F0753A712FDBFB0"
-				"size" "4CA25DB0E475EDFF116C58CBC4BB3EB8"
-				"download" "24BE0C3A79B136D09CA61C3089BCDB97"
-			}
-			"playtest"
-			{
-				"gid" "A758EB4AAED8988F7CB6C7E62698AC12"
-				"size" "23CA7C3FF27C6A304BABAEA27DA6974F"
-				"download" "27F97B2614B80DECC0B482CA130C8575"
-			}
-			"press"
-			{
-				"gid" "38F7D0A967BAFBB1B85E3B1F9D731258"
-				"size" "B36825127D98B2D230C9B14569F8D502"
-				"download" "11DF07275D0A209568FF843FD3D69300"
-			}
-			"yogscast"
-			{
-				"gid" "C9B40B22438E4A671FAB663D66E9FBB5"
-				"size" "3BFF16A7B6E7AE64EEC9CDA8C71C3BDB"
-				"download" "AB981E9552A5D8B422607F4913A51C26"
+				"gid" "6651504866065920465"
+				"size" "868813410"
+				"download" "179902432"
 			}
 		}
 	}
@@ -275,40 +242,11 @@
 	{
 		"public"
 		{
-			"buildid" "16784685"
-			"timeupdated" "1734530397"
-		}
-		"creator"
-		{
-			"buildid" "16455881"
-			"pwdrequired" "1"
-			"timeupdated" "1732107119"
-		}
-		"morpdev"
-		{
-			"buildid" "16784685"
-			"pwdrequired" "1"
-			"timeupdated" "1734514864"
-		}
-		"playtest"
-		{
-			"buildid" "16705231"
-			"pwdrequired" "1"
-			"timeupdated" "1733909011"
-		}
-		"press"
-		{
-			"buildid" "16455881"
-			"pwdrequired" "1"
-			"timeupdated" "1732107127"
-		}
-		"yogscast"
-		{
-			"buildid" "16455881"
-			"pwdrequired" "1"
-			"timeupdated" "1732107134"
+			"buildid" "17013911"
+			"timeupdated" "1736950756"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -326,6 +264,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26696214"
-"_sha" "c43242d8586c88a0fb8d636c626f80ee5bfefeb5"
-"_size" "6234"
+"_change_number" "27092055"
+"_sha" "599eaf51a2598093b43b814163aa3dff39c8a8a7"
+"_size" "4840"
