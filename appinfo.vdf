@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727445333"
+	"store_asset_mtime" "1737139845"
 	"associations"
 	{
 		"0"
@@ -179,6 +179,87 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1628092727"
@@ -210,7 +291,7 @@
 		"19" "3813"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -247,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "1565422527488150625"
-				"size" "5673907631"
-				"download" "1288041136"
+				"gid" "3721328418192149961"
+				"size" "5734574436"
+				"download" "1311121872"
 			}
 		}
 	}
@@ -258,8 +339,8 @@
 	{
 		"public"
 		{
-			"buildid" "16785140"
-			"timeupdated" "1734517706"
+			"buildid" "17075105"
+			"timeupdated" "1737449842"
 		}
 	}
 }
@@ -293,6 +374,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26693069"
-"_sha" "59b8e827eff428e411ecff7f37873b9752426264"
-"_size" "5272"
+"_change_number" "27103773"
+"_sha" "666889f84f5cd48bb0165ec04106d55fd3adb10c"
+"_size" "6434"
