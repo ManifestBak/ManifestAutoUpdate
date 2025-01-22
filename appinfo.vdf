@@ -39,7 +39,7 @@
 		"brazilian" "1"
 		"ukrainian" "1"
 	}
-	"releasestatesteamchina" "prerelease"
+	"releasestatesteamchina" "released"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -454,9 +454,9 @@
 		{
 			"public"
 			{
-				"gid" "8855137677408906106"
-				"size" "280272636"
-				"download" "120695856"
+				"gid" "4639281162184984631"
+				"size" "280272776"
+				"download" "120708832"
 			}
 		}
 	}
@@ -464,8 +464,8 @@
 	{
 		"public"
 		{
-			"buildid" "17061991"
-			"timeupdated" "1737361809"
+			"buildid" "17087523"
+			"timeupdated" "1737527921"
 		}
 		"experimental"
 		{
@@ -510,6 +510,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27071969"
-"_sha" "2380c88c162c9f28f3d836de5e9f77aa313b442b"
-"_size" "8815"
+"_change_number" "27106996"
+"_sha" "b29bc617227a351ee50fc013a5e494c04f6c9e27"
+"_size" "8813"
