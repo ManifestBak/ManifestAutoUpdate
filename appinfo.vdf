@@ -21,6 +21,7 @@
 		"0" "2"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Pandamonia"
 	"small_capsule"
 	{
@@ -30,6 +31,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_5cdcbf06425c82a0f2faefc4ca943242304d9e1d.jpg"
 	"store_asset_mtime" "1548840844"
 	"associations"
 	{
@@ -105,7 +107,7 @@
 	{
 		"0"
 		{
-			"executable" "PC.exe"
+			"executable" "Pandamonia.exe"
 			"type" "default"
 			"config"
 			{
@@ -131,9 +133,9 @@
 		{
 			"public"
 			{
-				"gid" "8275991093766544577"
-				"size" "3350587609"
-				"download" "1205580960"
+				"gid" "7489888544735581702"
+				"size" "4269378445"
+				"download" "1326281312"
 			}
 		}
 	}
@@ -141,8 +143,12 @@
 	{
 		"public"
 		{
-			"buildid" "13197223"
-			"timeupdated" "1705553331"
+			"buildid" "16859372"
+			"timeupdated" "1735289850"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26795371"
+"_sha" "3ec75c6856de925400f04f9f743fb621a6c8a648"
+"_size" "2527"
