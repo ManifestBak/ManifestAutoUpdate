@@ -47,6 +47,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1724219576"
 	"associations"
 	{
@@ -206,30 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "9038750772405774585"
-				"size" "3239979401"
-				"download" "2265689664"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"previous"
-			{
-				"gid" "63D75A4EF457AD23C2C9FCE457252509"
-				"size" "F1F71A894B23F4C537F3756F86EA2442"
-				"download" "2DC8664FC28D073BF7FCBB0E0629E13A"
-			}
-			"publishers"
-			{
-				"gid" "48D2EBA9619B91A8B2C82E884E40C835"
-				"size" "8052D2ED9D3733370CFD20435E16DA9C"
-				"download" "7BC9E37B1D5C23D0A472437E3981111C"
-			}
-			"beta"
-			{
-				"gid" "C66841585EC434CB8F10ECD0F6D5A84F"
-				"size" "4D0EBEDA81A4BD8306A85D413E2132CA"
-				"download" "BEC278E7C2AB09A33A728DF18AEF2D4C"
+				"gid" "1825767769592083003"
+				"size" "3271632556"
+				"download" "2270946672"
 			}
 		}
 	}
@@ -245,28 +266,11 @@
 	{
 		"public"
 		{
-			"buildid" "15415721"
-			"timeupdated" "1724047123"
-		}
-		"previous"
-		{
-			"buildid" "10152868"
-			"pwdrequired" "1"
-			"timeupdated" "1690290674"
-		}
-		"publishers"
-		{
-			"buildid" "11963863"
-			"pwdrequired" "1"
-			"timeupdated" "1692269625"
-		}
-		"beta"
-		{
-			"buildid" "15415721"
-			"pwdrequired" "1"
-			"timeupdated" "1724046835"
+			"buildid" "16562265"
+			"timeupdated" "1732776306"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -315,3 +319,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "8a2db90b651c4cc6a21591110a62f1b749ef75bd"
+"_size" "4878"
