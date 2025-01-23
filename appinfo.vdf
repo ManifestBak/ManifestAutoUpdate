@@ -200,9 +200,9 @@
 	"gameid" "656970"
 	"store_tags"
 	{
-		"0" "492"
-		"1" "1625"
-		"2" "19"
+		"0" "19"
+		"1" "492"
+		"2" "1625"
 		"3" "21"
 		"4" "17894"
 		"5" "4726"
@@ -215,6 +215,8 @@
 		"12" "4106"
 		"13" "3798"
 		"14" "4004"
+		"15" "5350"
+		"16" "5379"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -274,15 +276,6 @@
 				"download" "69056992"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D28CC4756F80956D64BBE9DF65380919"
-				"size" "07A928B672F0D53F828EBF0EF6C687BB"
-				"download" "894D3F062592D32F25752119A92F750D"
-			}
-		}
 	}
 	"656972"
 	{
@@ -299,15 +292,6 @@
 				"download" "56476864"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "42EFAD19B386B8A0AE1E7181885A0A14"
-				"size" "602EA9FBC1A193379011E65A7F794529"
-				"download" "43B995CAA8B9AA9F1755EBC835F2B325"
-			}
-		}
 	}
 	"658900"
 	{
@@ -320,15 +304,6 @@
 				"download" "110574608"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0F202CB94B204A693C9ACE0170254AB8"
-				"size" "1A876E914A91FBA9746BE9ACA8002D8F"
-				"download" "C93FCE0C9704C258145600C04F869024"
-			}
-		}
 		"dlcappid" "658900"
 	}
 	"branches"
@@ -338,13 +313,8 @@
 			"buildid" "15777500"
 			"timeupdated" "1726878374"
 		}
-		"beta"
-		{
-			"buildid" "15777500"
-			"pwdrequired" "1"
-			"timeupdated" "1726878357"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -375,6 +345,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25907493"
-"_sha" "a71c5490f23109b108c8a782b5ca6fe03131948e"
-"_size" "6707"
+"_change_number" "27084601"
+"_sha" "bb4582349a949269284793a9dcf3941d17c07fd8"
+"_size" "6051"
