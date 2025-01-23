@@ -141,10 +141,15 @@
 		}
 		"3"
 		{
+			"type" "publisher"
+			"name" "Playmeow News"
+		}
+		"4"
+		{
 			"type" "franchise"
 			"name" "Playmeow"
 		}
-		"4"
+		"5"
 		{
 			"type" "franchise"
 			"name" "ACG creator"
@@ -201,9 +206,9 @@
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "9130"
-		"2" "5611"
-		"3" "6650"
+		"1" "5611"
+		"2" "6650"
+		"3" "9130"
 		"4" "24904"
 		"5" "9551"
 		"6" "4947"
@@ -222,7 +227,7 @@
 		"19" "4434"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -249,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "3661736572528020751"
-				"size" "776258263"
-				"download" "433810576"
+				"gid" "4262323113522087837"
+				"size" "1407304122"
+				"download" "901740704"
 			}
 		}
 	}
@@ -259,12 +264,12 @@
 	{
 		"public"
 		{
-			"buildid" "16602160"
-			"timeupdated" "1733151454"
+			"buildid" "17102036"
+			"timeupdated" "1737619649"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26457171"
-"_sha" "2adc558e94171915facf35af9fc1a811ce59ed6e"
-"_size" "5549"
+"_change_number" "27126467"
+"_sha" "67ef1813195291193104a19b84231650411f7eae"
+"_size" "5619"
