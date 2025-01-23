@@ -147,6 +147,21 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1727974661"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1564600/announcements/detail/4464851103138186305"
@@ -156,8 +171,8 @@
 	{
 		"0" "1100689"
 		"1" "4791"
-		"2" "1697"
-		"3" "1662"
+		"2" "1662"
+		"3" "1697"
 		"4" "4175"
 		"5" "3934"
 		"6" "3810"
@@ -176,7 +191,7 @@
 		"19" "3834"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -246,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "8112077679743616813"
-				"size" "5384857438"
-				"download" "2337363920"
+				"gid" "5520807049750043746"
+				"size" "5385361570"
+				"download" "2337506432"
 			}
 		}
 	}
@@ -262,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "8357586094783987421"
-				"size" "5287287057"
-				"download" "2313332016"
+				"gid" "3926258045360229471"
+				"size" "5287794757"
+				"download" "2313456512"
 			}
 		}
 	}
@@ -278,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "6911184786576091643"
-				"size" "5400618084"
-				"download" "2354999168"
+				"gid" "2994709683188109681"
+				"size" "5401414640"
+				"download" "2355162544"
 			}
 		}
 	}
@@ -288,12 +303,12 @@
 	{
 		"public"
 		{
-			"buildid" "16793033"
-			"timeupdated" "1734574275"
+			"buildid" "16931893"
+			"timeupdated" "1736282617"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26705794"
-"_sha" "6c98afa3d037b99527fe352ae50dbf5625e94f2a"
-"_size" "4914"
+"_change_number" "26898188"
+"_sha" "8d99cc21e883dcb8820aa6a0e77b42d048091fa0"
+"_size" "5128"
