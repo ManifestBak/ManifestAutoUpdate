@@ -318,24 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "5197871703006071395"
-				"size" "212975722"
-				"download" "71985728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "57BF14BD51490795941879D676560AD8"
-				"size" "B52428EADE748A28BD9C75F9B2375B5A"
-				"download" "5DAD1683418FFAC0387CE6CDF9661466"
-			}
-			"testbranch"
-			{
-				"gid" "0906B539208E4E388D6EB3DC95FF15AE"
-				"size" "AD9DE872A43B72893B9586A75522D2A4"
-				"download" "7E3467DA9D26760F763CAD890F827A32"
+				"gid" "7790297200236955165"
+				"size" "219557782"
+				"download" "72466624"
 			}
 		}
 	}
@@ -349,24 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "1097145044682728123"
-				"size" "236750390"
-				"download" "78921680"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "147F511665B7A2C707670310393BFBB7"
-				"size" "97C558A7302E0A9E03E72B8399F62B02"
-				"download" "6CB51A4A9AC46D9FD8C47600701BEB78"
-			}
-			"testbranch"
-			{
-				"gid" "196642E372C980C51C3F437E098513A0"
-				"size" "9C85729A3684123807095A95A2BD220D"
-				"download" "C6DBF024C12ADDE8034023E8FEFA55AC"
+				"gid" "4963512655065394465"
+				"size" "243463930"
+				"download" "79402272"
 			}
 		}
 	}
@@ -381,47 +351,22 @@
 		{
 			"public"
 			{
-				"gid" "2595691743347310952"
-				"size" "204451074"
-				"download" "69361376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4B540945DE2C3FC8FEBC3E51FA3E3CA5"
-				"size" "2E4A4D7F3C3549DE0C298401430FF91D"
-				"download" "EF7E8E9AE69B4193F4F1F4825F6643D2"
-			}
-			"testbranch"
-			{
-				"gid" "E94EADC0EC9E4D3A5B6AFA7CAFC7FACB"
-				"size" "9A4CC2326C82B42AA9824ACD23263436"
-				"download" "788B722B0F2A5064B57C179D1D5CEC20"
+				"gid" "7366858672825149004"
+				"size" "211164614"
+				"download" "69842992"
 			}
 		}
 	}
+	"workshopdepot" "1967510"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16121649"
-			"timeupdated" "1729620462"
-		}
-		"beta"
-		{
-			"buildid" "12307039"
-			"pwdrequired" "1"
-			"timeupdated" "1696337914"
-		}
-		"testbranch"
-		{
-			"buildid" "16121649"
-			"pwdrequired" "1"
-			"timeupdated" "1729511151"
+			"buildid" "17103760"
+			"timeupdated" "1737637576"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -475,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25883115"
-"_sha" "42e29ebe267721e316951b22c852d3e0408d6f38"
-"_size" "9012"
+"_change_number" "27130775"
+"_sha" "ba4f31abd0b0e72c893ef9a76290a7c528076594"
+"_size" "7718"
