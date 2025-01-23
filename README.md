@@ -1,26 +1,23 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-23 13:54:30
+## 更新时间：2025-01-23 13:57:00
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
-| 1948470 | 幽灵少女莱斯灵| Game |
-| 2078910 | 汉尘：腐草为萤| Game |
-| 207930 | Sacred Citadel| Game |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 205 | Source Dedicated Server| Tool |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 215 | Source SDK Base 2006| Tool |
-| 2171880 | Albatroz| Game |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 2300340 | Night Stones| Game |
-| 2283200 | Eleanor in Miami| Game |
-| 218 | Source SDK Base 2007| Tool |
-| 22380 | Fallout: New Vegas| game |
-| 2230980 | Caribbean Legend| Game |
-| 22490 | Fallout: New Vegas PCR| game |
-| 24010 | Train Simulator Classic 2024| Game |
+| 2529540 | 硬币与仙人掌 (Coins & Wishpalm)| Game |
+| 2552600 | Muscle Ninja VR| Game |
+| 2602540 | Once Upon a Rogue's Tale| Game |
+| 2529770 | Chromosome Evil 2| Game |
+| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
+| 2696050 | YARISUTEMESUBUTA ~ 一次性交易大师 ~| Game |
+| 278570 | Labyrinthine Dreams| Game |
+| 322450 | FRAMED Collection| Game |
+| 324160 | CLANNAD| Game |
+| 3328720 | 闪光公仔| Game |
+| 33770 | Drakensang The River of Time| game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 3152900 | 东方奇缘记| Game |
+| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 3371730 | Yield! Fall of Rome Soundtrack| Music |
+| 349250 | Copy Kitty| Game |
+| 310 | Source 2007 Dedicated Server| Tool |
+| 314160 | Microsoft Flight Simulator X: Steam Edition| Game |
