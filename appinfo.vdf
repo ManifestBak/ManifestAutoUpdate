@@ -72,8 +72,8 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "ad5b18bdff12835450f2d23e2d6bfbd95e9cd1aa/capsule_231x87.jpg"
-		"schinese" "1c2b73402898eb35cb52047887f68fe8c3acbfad/capsule_231x87_schinese.jpg"
+		"english" "4397d9ab2117e38775fe69e6cc4f163ea3fec26d/capsule_231x87.jpg"
+		"schinese" "31e2a8f13757fe62e5ef3949bd33a5e984cdc5f9/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726756337"
+	"store_asset_mtime" "1730375313"
 	"associations"
 	{
 		"0"
@@ -256,7 +256,7 @@
 		"19" "3854"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -293,42 +293,15 @@
 		{
 			"public"
 			{
-				"gid" "1718152771403151792"
-				"size" "3157151399"
-				"download" "1415843696"
+				"gid" "5737728039041826079"
+				"size" "3157130685"
+				"download" "1415847888"
 			}
 			"steamdeck_playtest"
 			{
 				"gid" "2149502051155203138"
 				"size" "2769714178"
 				"download" "1118513632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "45A9C4217182C41F17A84E2A96BEDA12"
-				"size" "1320F55BEBBCF8E3C168204E9E7B4FE8"
-				"download" "46C81B5B4ED3527591707ACE3D5F97A6"
-			}
-			"quanticlab"
-			{
-				"gid" "BCA365451CBC4096F561874BAF0CD269"
-				"size" "15089C62C289A15B3F58BEFF3CB7FCB7"
-				"download" "9231DE735A4E9EB64335DFDD81F2C792"
-			}
-			"firesquid"
-			{
-				"gid" "FAB02F9AD7C56677AD2436531B0DEDCC"
-				"size" "4FEA695F885A6BAD522A52C2C89A7F9A"
-				"download" "C7A83CECB8C6F8B9CF8E3B1B4C41D7F1"
-			}
-			"gampad_internal"
-			{
-				"gid" "2B4A534C9806ACAD72A5E299909F8419"
-				"size" "43BC1723F3B1FE2C45B283BD3A5D5723"
-				"download" "9786C54AB36B9C04A727C9923BA9BDA1"
 			}
 		}
 	}
@@ -344,40 +317,13 @@
 				"download" "56801840"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"quanticlab"
-			{
-				"gid" "E1B287B59FCB71C6D00FFAC4E076A3FA"
-				"size" "C259A277A00DD272234BBAFE1EA0A84B"
-				"download" "F7C2A74B863190367673674A96629FD1"
-			}
-			"firesquid"
-			{
-				"gid" "D381D45CF097C468132A4FCA3DEEA1C4"
-				"size" "B41865941A6972D1882A14A4C2D2F9FC"
-				"download" "FC2DFBB89856EA7481A0C288E8A91F0F"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15305384"
-			"timeupdated" "1723132661"
-		}
-		"demo"
-		{
-			"buildid" "13751260"
-			"pwdrequired" "1"
-			"timeupdated" "1710500749"
-		}
-		"quanticlab"
-		{
-			"buildid" "13671170"
-			"pwdrequired" "1"
-			"timeupdated" "1709828944"
+			"buildid" "16252215"
+			"timeupdated" "1732013860"
 		}
 		"steamdeck_playtest"
 		{
@@ -385,19 +331,8 @@
 			"description" "SteamDeck Playtest"
 			"timeupdated" "1706863455"
 		}
-		"firesquid"
-		{
-			"buildid" "15305384"
-			"pwdrequired" "1"
-			"timeupdated" "1723125517"
-		}
-		"gampad_internal"
-		{
-			"buildid" "14363227"
-			"pwdrequired" "1"
-			"timeupdated" "1715695908"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -426,3 +361,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27066676"
+"_sha" "212fc13ebd67dc5edb1c00a30ab0274e1ea168bc"
+"_size" "6566"
