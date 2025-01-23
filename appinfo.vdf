@@ -23,6 +23,10 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "小眷灵 (Tinykin)"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -70,7 +74,7 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"schinese" "532dc4478dd9613fdcef9efd64bd34d8754d51d9/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -89,7 +93,48 @@
 			"height_pct" "96.59413434247871"
 		}
 	}
-	"store_asset_mtime" "1674579994"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.67759233774953"
+				"height_pct" "96.59413434247871"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1736798712"
 	"associations"
 	{
 		"0"
@@ -124,6 +169,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -175,8 +221,8 @@
 	"gameid" "1599020"
 	"store_tags"
 	{
-		"0" "4726"
-		"1" "5395"
+		"0" "5395"
+		"1" "4726"
 		"2" "4106"
 		"3" "4195"
 		"4" "5350"
@@ -238,27 +284,6 @@
 				"download" "3112940864"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"challenges-update-beta"
-			{
-				"gid" "72AB4B50F00FB69EDC1704D5107ED6A9"
-				"size" "86CF75F51315D5BAF3EA43A39BE2A91D"
-				"download" "E8D3189C1F8DD3BCD2C7DC315FC43DB3"
-			}
-			"dev-testing"
-			{
-				"gid" "E72F6A25BE328C835C0FA75AFB0C1EDF"
-				"size" "E06C05D202F64F6C921A341246167298"
-				"download" "493EFFAA01FB28E853663BE3BBD6AB5B"
-			}
-			"pax-demo"
-			{
-				"gid" "A0B8B85B5A0F5172E9913EA0033B9671"
-				"size" "7FF88153BC1DCD8C037E0E73ED63A253"
-				"download" "B3670771ED87131A2DDA10D0F53AB961"
-			}
-		}
 	}
 	"2110960"
 	{
@@ -278,21 +303,6 @@
 				"download" "79412672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"challenges-update-beta"
-			{
-				"gid" "E4C2504467FA1ECD266C6A01CBFED460"
-				"size" "72507B153844127514F0CC94B3104621"
-				"download" "8C82076004E7A1C568E79E1C4B5D718E"
-			}
-			"dev-testing"
-			{
-				"gid" "69A0657CE1E3EC400269546A39D2B283"
-				"size" "89E3CD7BFD56E03B71BB89A9617FE909"
-				"download" "2403CD9A88E3465D8BD8D8BE5974E06E"
-			}
-		}
 	}
 	"branches"
 	{
@@ -301,24 +311,6 @@
 			"buildid" "10185644"
 			"timeupdated" "1671551714"
 		}
-		"challenges-update-beta"
-		{
-			"buildid" "9910949"
-			"pwdrequired" "1"
-			"timeupdated" "1668096201"
-		}
-		"dev-testing"
-		{
-			"buildid" "9933684"
-			"pwdrequired" "1"
-			"timeupdated" "1668437946"
-		}
-		"pax-demo"
-		{
-			"buildid" "8583206"
-			"pwdrequired" "1"
-			"timeupdated" "1650380020"
-		}
 		"speedrun-timer"
 		{
 			"buildid" "9855218"
@@ -326,6 +318,7 @@
 			"timeupdated" "1667409912"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -366,6 +359,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21736910"
-"_sha" "b6ee578dee2328a8c536870d2c5b2b99215a1ec4"
-"_size" "6853"
+"_change_number" "26978124"
+"_sha" "de4dd9ebc6ba61c6f77e69bb8b58e68e87ed1f45"
+"_size" "6408"
