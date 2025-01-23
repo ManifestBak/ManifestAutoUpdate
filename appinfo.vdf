@@ -93,6 +93,50 @@
 			"height_pct" "43.05555555555553"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "43.05555555555553"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1696941846"
 	"associations"
 	{
@@ -169,6 +213,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"catalan"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1689858081"
 	"community_visible_stats" "1"
@@ -197,8 +246,8 @@
 		"18" "1719"
 		"19" "21725"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -253,48 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "17667685892625028"
-				"size" "8320048919"
-				"download" "4795920480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "2C2DE87C962EC6EA3F19975837DF6855"
-				"size" "0F268A78C24D40E85C5D64C4C0F928E3"
-				"download" "5D1DB60FE09DAB3F854CB0EFB9B3637B"
-			}
-			"launched"
-			{
-				"gid" "056DB84D9D6D6ED94CCFE8185D26BF0F"
-				"size" "ADC159F9B083E757EC761F47E9811F6C"
-				"download" "F8940D7F7089D3D70626C6FC245AC2FD"
-			}
-			"marketing"
-			{
-				"gid" "18B25570C0B556EBAA3BDDF47F0ED293"
-				"size" "2E8BADE35F8023AFCACE461C49C4FC3F"
-				"download" "D430141F905E288B45B42093B65A830D"
-			}
-			"openbeta"
-			{
-				"gid" "7A8657F3C6B4D6C6D4E1B9551ECF8809"
-				"size" "A7EEF9A3544347861240150636F10720"
-				"download" "7CA36BB2F7215D22AA0BBD7E59A6A080"
-			}
-			"steamdeck"
-			{
-				"gid" "DA5266EEAFD2B094ED32DD243732374C"
-				"size" "1939A50274F82106849F71E0D19E76F3"
-				"download" "54D7CEAFD44ECB8BECF14829298EE04F"
-			}
-			"steamdecktester"
-			{
-				"gid" "8D4757312EB6C5F83048F1CFF0BBE575"
-				"size" "5DF2428B5B3D76035C9FC4616AEC4DFB"
-				"download" "2896EE702FD7527BD38C030CCEC10617"
+				"gid" "5061244714621409004"
+				"size" "8368699421"
+				"download" "4868665680"
 			}
 		}
 	}
@@ -303,46 +313,11 @@
 	{
 		"public"
 		{
-			"buildid" "13737268"
-			"timeupdated" "1710414050"
-		}
-		"beta"
-		{
-			"buildid" "13737268"
-			"pwdrequired" "1"
-			"timeupdated" "1710409152"
-		}
-		"launched"
-		{
-			"buildid" "10684237"
-			"pwdrequired" "1"
-			"timeupdated" "1687430812"
-		}
-		"marketing"
-		{
-			"buildid" "11672632"
-			"pwdrequired" "1"
-			"timeupdated" "1689063767"
-		}
-		"openbeta"
-		{
-			"buildid" "12521051"
-			"pwdrequired" "1"
-			"timeupdated" "1698314266"
-		}
-		"steamdeck"
-		{
-			"buildid" "11798350"
-			"pwdrequired" "1"
-			"timeupdated" "1690431572"
-		}
-		"steamdecktester"
-		{
-			"buildid" "11798350"
-			"pwdrequired" "1"
-			"timeupdated" "1690431580"
+			"buildid" "16962408"
+			"timeupdated" "1737619016"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -373,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22881749"
-"_sha" "a62c1e908b368922e387d5fbeb1f7606dc252365"
-"_size" "7154"
+"_change_number" "27126353"
+"_sha" "36fef8a827a5bccf0ce8155f69f7e2bcf79e242d"
+"_size" "6361"
