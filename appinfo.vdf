@@ -10,6 +10,38 @@
 	"clienttga" "62efb353b732dc74062a67302f40dfde1499d016"
 	"clienticon" "7a77f1145d8571a8dcc28ed3a3cdf8bdf808b176"
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+		"indonesian" "1"
+	}
 	"aicontenttype" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -109,6 +141,7 @@
 	{
 		"category_2" "1"
 		"category_23" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -205,8 +238,33 @@
 		{
 			"supported" "true"
 		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1723377250"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2850380"
 	"store_tags"
@@ -233,7 +291,7 @@
 		"19" "1698"
 	}
 	"review_score" "5"
-	"review_percentage" "69"
+	"review_percentage" "67"
 }
 "extended"
 {
@@ -280,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "9216153288157498090"
-				"size" "5211197450"
-				"download" "1740035856"
+				"gid" "7530037434196313000"
+				"size" "5532834024"
+				"download" "2041309936"
 			}
 		}
 	}
@@ -291,8 +349,8 @@
 	{
 		"public"
 		{
-			"buildid" "16907279"
-			"timeupdated" "1736015465"
+			"buildid" "17100235"
+			"timeupdated" "1737605463"
 		}
 	}
 }
@@ -315,6 +373,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26862791"
-"_sha" "afba60e732d5a9b954199061ef13209ba9ba1881"
-"_size" "4813"
+"_change_number" "27124054"
+"_sha" "d2646cecdeaed646fb66753e7036f539d878ee67"
+"_size" "5707"
