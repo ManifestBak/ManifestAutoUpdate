@@ -104,6 +104,39 @@
 		"library_hero" "zh-tw,zh-cn,ko,en"
 		"library_logo" "zh-tw,zh-cn,ko,en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"tchinese" "library_hero_tchinese.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"koreana" "library_hero_koreana.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+				"koreana" "logo_koreana.png"
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1683696830"
 	"associations"
 	{
@@ -136,6 +169,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -167,15 +201,15 @@
 	{
 		"0" "599"
 		"1" "122"
-		"2" "9"
-		"3" "4202"
+		"2" "4202"
+		"3" "9"
 		"4" "3987"
 		"5" "13577"
-		"6" "19"
-		"7" "4182"
+		"6" "4182"
+		"7" "19"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "64"
 }
 "extended"
 {
@@ -313,6 +347,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20747250"
-"_sha" "f0416a45e46a8c97b780434ff4f62db76c1ab467"
-"_size" "5776"
+"_change_number" "26816397"
+"_sha" "3d893854296a5ad6ebfaee4dd9846600f289a71e"
+"_size" "6473"
