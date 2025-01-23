@@ -291,7 +291,7 @@
 		"17" "21978"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -368,66 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "4984484041603870862"
-				"size" "16254331011"
-				"download" "12887793072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ageratings"
-			{
-				"gid" "EF6C96E4EF269A968C5D1278703829F8"
-				"size" "B95C67B0C33012D34044CAAA7245CF9E"
-				"download" "2140B91525AFEDBF287AB8401BAD3B2A"
-			}
-			"compatibility"
-			{
-				"gid" "5899E3FBF3EF406A28D87CD238292ADB"
-				"size" "4F67948874FC785A323658674F934DB8"
-				"download" "E03C03BF584E9D35588070F683071010"
-			}
-			"demo"
-			{
-				"gid" "C3ED950D10939BCB600ED5EBB193D4AB"
-				"size" "4D6AB8AEBA4F03E6421704CFB590CEC9"
-				"download" "C6FB5F09DA00A56965066B0422B584BF"
-			}
-			"external_test"
-			{
-				"gid" "D0EBA6F4715AC7128DDD5EADE5F980EB"
-				"size" "66AF437F17B6BA284384AD04F97AA53B"
-				"download" "751E44927EC508F708594132F4A43A19"
-			}
-			"nacon_marketing"
-			{
-				"gid" "9F263111FBFF58940672CB4C9D259AC2"
-				"size" "65845B485BB4B2CA3D0EBAE785F381A6"
-				"download" "A3826FDFD08A79228F230356B683BD71"
-			}
-			"nacon_release"
-			{
-				"gid" "3E41A150D83C7A181D25975D122B580B"
-				"size" "7EE88DC5A240593C76F8D05E5CA09222"
-				"download" "5C81935028AE50450B2D3B7C65003634"
-			}
-			"press"
-			{
-				"gid" "D5805E258372E660C5701DE4ECF95168"
-				"size" "A1F5F38D3906857EB7EA45D2314C2B0C"
-				"download" "D879BEB240190B47AB9E8F06C37876FA"
-			}
-			"daily"
-			{
-				"gid" "2EE3E3BD6F7A2024F54C54DC775193C2"
-				"size" "7323F7CDF750A22DC36B944631D1B28A"
-				"download" "F95A4D2D009D907B2F9426A75446535B"
-			}
-			"nacon.qatest"
-			{
-				"gid" "E1C40D97D00DADED5F0A7FD8E4483E8A"
-				"size" "42994A4F63BF76758F7D7CC7284AAF9C"
-				"download" "80F175918357043CEEC6ABB4501BCBDD"
+				"gid" "8340673018331480199"
+				"size" "16254322555"
+				"download" "12887794592"
 			}
 		}
 	}
@@ -435,64 +378,11 @@
 	{
 		"public"
 		{
-			"buildid" "15971586"
-			"timeupdated" "1733318079"
-		}
-		"ageratings"
-		{
-			"buildid" "9865008"
-			"pwdrequired" "1"
-			"timeupdated" "1667902548"
-		}
-		"compatibility"
-		{
-			"buildid" "10570207"
-			"pwdrequired" "1"
-			"timeupdated" "1676648539"
-		}
-		"demo"
-		{
-			"buildid" "10702829"
-			"pwdrequired" "1"
-			"timeupdated" "1678123287"
-		}
-		"external_test"
-		{
-			"buildid" "10310056"
-			"pwdrequired" "1"
-			"timeupdated" "1673951231"
-		}
-		"nacon_marketing"
-		{
-			"buildid" "12854390"
-			"pwdrequired" "1"
-			"timeupdated" "1701465771"
-		}
-		"nacon_release"
-		{
-			"buildid" "11243191"
-			"pwdrequired" "1"
-			"timeupdated" "1684251688"
-		}
-		"press"
-		{
-			"buildid" "12427127"
-			"pwdrequired" "1"
-			"timeupdated" "1699262387"
-		}
-		"daily"
-		{
-			"buildid" "15971586"
-			"pwdrequired" "1"
-			"timeupdated" "1728417282"
-		}
-		"nacon.qatest"
-		{
-			"buildid" "15971586"
-			"pwdrequired" "1"
-			"timeupdated" "1731431089"
+			"buildid" "16727163"
+			"timeupdated" "1737558112"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -513,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26488787"
-"_sha" "c244e5573313c9f30929a9a2094029ef4270cc87"
-"_size" "9457"
+"_change_number" "27113778"
+"_sha" "6cadc99c6930a375fc4c9cbc80705899e52cf251"
+"_size" "6902"
