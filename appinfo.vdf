@@ -30,6 +30,44 @@
 			"height_pct" "63.90281446660523"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "63.90281446660523"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1689361505"
 	"associations"
 	{
@@ -144,7 +182,7 @@
 		"19" "1646"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "64"
 }
 "extended"
 {
@@ -202,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "715336537139677087"
-				"size" "416370593"
-				"download" "85008144"
+				"gid" "2398380094744455175"
+				"size" "434794522"
+				"download" "88581072"
 			}
 		}
 	}
@@ -219,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "2905423962566743388"
-				"size" "417165056"
-				"download" "83953136"
+				"gid" "208802852829947383"
+				"size" "435862607"
+				"download" "88032176"
 			}
 		}
 	}
@@ -236,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "8951735183377365601"
-				"size" "416370593"
-				"download" "85000624"
+				"gid" "7816047426202417489"
+				"size" "434794522"
+				"download" "88576080"
 			}
 		}
 	}
@@ -253,9 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "6738340940261071140"
-				"size" "417165056"
-				"download" "83965792"
+				"gid" "649676698292218234"
+				"size" "435862607"
+				"download" "88048208"
 			}
 		}
 	}
@@ -270,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "5944600474452030419"
-				"size" "416370593"
-				"download" "84962240"
+				"gid" "16688848521141337"
+				"size" "434794522"
+				"download" "88539744"
 			}
 		}
 	}
@@ -287,9 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "8487652859370059755"
-				"size" "417165056"
-				"download" "83910592"
+				"gid" "1935595568322912588"
+				"size" "435862607"
+				"download" "87992560"
 			}
 		}
 	}
@@ -297,8 +335,8 @@
 	{
 		"public"
 		{
-			"buildid" "14491820"
-			"timeupdated" "1716625355"
+			"buildid" "16275353"
+			"timeupdated" "1730924521"
 		}
 	}
 }
@@ -350,3 +388,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26254482"
+"_sha" "087ecc68f9dbab3bfc98f3a2de0d57e162e9ddb6"
+"_size" "5903"
