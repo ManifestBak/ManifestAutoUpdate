@@ -175,7 +175,7 @@
 		}
 	}
 	"steam_release_date" "1724345700"
-	"metacritic_score" "88"
+	"metacritic_score" "87"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tactical-breach-wizards\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
@@ -184,8 +184,8 @@
 	"store_tags"
 	{
 		"0" "14139"
-		"1" "1664"
-		"2" "1741"
+		"1" "1741"
+		"2" "1664"
 		"3" "1742"
 		"4" "1677"
 		"5" "4136"
@@ -200,8 +200,8 @@
 		"14" "5851"
 		"15" "5716"
 		"16" "1719"
-		"17" "9"
-		"18" "1684"
+		"17" "1684"
+		"18" "9"
 		"19" "1651"
 	}
 	"review_score" "9"
@@ -261,30 +261,21 @@
 		{
 			"public"
 			{
-				"gid" "115590623235285177"
-				"size" "2530209894"
-				"download" "1113238944"
+				"gid" "2115475616383671813"
+				"size" "2530388594"
+				"download" "1113271504"
 			}
 			"nextversion"
 			{
-				"gid" "115590623235285177"
-				"size" "2530209894"
-				"download" "1113238944"
+				"gid" "2115475616383671813"
+				"size" "2530388594"
+				"download" "1113271504"
 			}
 			"oldversion"
 			{
 				"gid" "8739398109245634430"
 				"size" "2523513528"
 				"download" "1113026944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private-testing"
-			{
-				"gid" "B3D013A6F90DE3FC612FAA30EF97A492"
-				"size" "A9926FED2226CEA0DC53DA9EA965C29F"
-				"download" "5906ECA1019E22568BE184C48B81EE1B"
 			}
 		}
 	}
@@ -312,15 +303,6 @@
 				"download" "396545616"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private-testing"
-			{
-				"gid" "C84324C29C67FE05C0605234E3382DBE"
-				"size" "B34C31981676CD353B84AB29BF0A4E2E"
-				"download" "DBFA474D0AA531A4932BD14A077BD189"
-			}
-		}
 	}
 	"3139300"
 	{
@@ -329,14 +311,14 @@
 	{
 		"public"
 		{
-			"buildid" "16792828"
-			"timeupdated" "1734629597"
+			"buildid" "17046013"
+			"timeupdated" "1737583735"
 		}
 		"nextversion"
 		{
-			"buildid" "16792828"
+			"buildid" "17046013"
 			"description" "Test the next patch"
-			"timeupdated" "1734560762"
+			"timeupdated" "1737155351"
 		}
 		"oldversion"
 		{
@@ -344,13 +326,8 @@
 			"description" "Previous major patch"
 			"timeupdated" "1734628780"
 		}
-		"private-testing"
-		{
-			"buildid" "16792828"
-			"pwdrequired" "1"
-			"timeupdated" "1734560395"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -451,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26718454"
-"_sha" "46d2a013aebddab7ebaf3ce3d3b04e4f98245b2e"
-"_size" "8712"
+"_change_number" "27119846"
+"_sha" "896884086bb64cfd49324c152ae22108fad46fac"
+"_size" "8197"
