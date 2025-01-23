@@ -28,6 +28,7 @@
 		"1" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -98,7 +99,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725980422"
+	"store_asset_mtime" "1731516056"
 	"associations"
 	{
 		"0"
@@ -131,6 +132,10 @@
 		"category_2" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -145,6 +150,26 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
 			"subtitles" "true"
 		}
 	}
@@ -175,7 +200,7 @@
 		"19" "16094"
 	}
 	"review_score" "7"
-	"review_percentage" "94"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -241,24 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "8093718330986423040"
-				"size" "3650058265"
-				"download" "1793022624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "2D5D43A3D1AC3C8BC042034614A9DA8D"
-				"size" "711A2D31A92684B42A0641E1257D1B7E"
-				"download" "E959BCF1B761B5EE2D9D6E20A7B55635"
-			}
-			"pre_release"
-			{
-				"gid" "0344D3F93F0C9E125321A6FB128F990C"
-				"size" "CC67927F24C0110F7F385583AB32D78B"
-				"download" "88CCDFFC770374556F8320B4E3C1A95F"
+				"gid" "8186123509526155724"
+				"size" "4153408710"
+				"download" "1857811072"
 			}
 		}
 	}
@@ -272,24 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "7059991344301742514"
-				"size" "3064285397"
-				"download" "1478139968"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "0157F7416BE64A0C4214F7CC8DA19AA8"
-				"size" "68EEB01A70BCCC0788BC13F15B6C81BF"
-				"download" "BD421155C2B65AD953E155EF358223E9"
-			}
-			"pre_release"
-			{
-				"gid" "6E081CF5CE451948828CD9EFD702CF52"
-				"size" "09492AB4154AAD2A007242E8DBEA6385"
-				"download" "33897AA3B93AEF66F4EA2E5BCFF646AB"
+				"gid" "7141474990185631666"
+				"size" "1401525176"
+				"download" "893019232"
 			}
 		}
 	}
@@ -297,20 +292,13 @@
 	{
 		"public"
 		{
-			"buildid" "15368701"
-			"timeupdated" "1723640693"
-		}
-		"development"
-		{
-			"buildid" "15819559"
-			"pwdrequired" "1"
-			"timeupdated" "1727252883"
-		}
-		"pre_release"
-		{
-			"buildid" "15794202"
-			"pwdrequired" "1"
-			"timeupdated" "1727092190"
+			"buildid" "16434838"
+			"timeupdated" "1731848353"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26991766"
+"_sha" "91286ebe0d38d98359d292cb2989e6a5a330cfef"
+"_size" "4702"
