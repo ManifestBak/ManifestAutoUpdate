@@ -20,6 +20,55 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734998400"
+		"tested_build_id" "16481811"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -209,7 +258,7 @@
 		"19" "5984"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -247,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "6791539602213632396"
-				"size" "789053800"
-				"download" "542857952"
+				"gid" "991500474642590900"
+				"size" "789242013"
+				"download" "543142448"
 			}
 		}
 	}
@@ -257,8 +306,8 @@
 	{
 		"public"
 		{
-			"buildid" "16782779"
-			"timeupdated" "1734665407"
+			"buildid" "16947416"
+			"timeupdated" "1737602201"
 		}
 	}
 	"privatebranches" "1"
@@ -283,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26726596"
-"_sha" "1db5d7f4169c8c29d053e712755d84b5fcd02371"
-"_size" "5684"
+"_change_number" "27123403"
+"_sha" "fe7b8655ce267d274441adbc866009a23733fe64"
+"_size" "6923"
