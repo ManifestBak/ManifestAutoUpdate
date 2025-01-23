@@ -33,6 +33,44 @@
 			"height_pct" "33.85681293302541"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "18.015475481286785"
+				"height_pct" "33.85681293302541"
+			}
+		}
+	}
 	"store_asset_mtime" "1636123393"
 	"associations"
 	{
@@ -108,14 +146,14 @@
 		"19" "3871"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
 	"developer" "SpielmannSpiel"
 	"publisher" "SpielmannSpiel"
 	"homepage" "https://spielmannspiel.com/progressbarsimulator"
-	"listofdlc" "1251610"
+	"listofdlc" "1251610,3276020"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -168,24 +206,15 @@
 		{
 			"public"
 			{
-				"gid" "7888420347599190167"
-				"size" "667402512"
-				"download" "43495152"
+				"gid" "3699307060347816785"
+				"size" "669290540"
+				"download" "44561344"
 			}
 			"testing"
 			{
 				"gid" "4397330512781642980"
 				"size" "631679650"
 				"download" "31932896"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "B666306C4700E03EEA9A7E53085D2E61"
-				"size" "FB97F60EB1AD9DB899FB1639B1BA6A21"
-				"download" "46AF51F109F1248CA53BB7FF07645F7B"
 			}
 		}
 	}
@@ -201,24 +230,15 @@
 		{
 			"public"
 			{
-				"gid" "8125051382451635544"
-				"size" "676281439"
-				"download" "43397824"
+				"gid" "6253299149261604998"
+				"size" "685660867"
+				"download" "46008688"
 			}
 			"testing"
 			{
 				"gid" "5512929350855715884"
 				"size" "642107099"
 				"download" "33452032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "310EF08ED65E9A545CCAECB7D9A3466F"
-				"size" "E065D88A2B5FC79DC552F926F1C6D0F3"
-				"download" "6CC80E107FC1C2AAB82EBFEC76C59110"
 			}
 		}
 	}
@@ -234,24 +254,15 @@
 		{
 			"public"
 			{
-				"gid" "6431990065574000087"
-				"size" "719124219"
-				"download" "57641392"
+				"gid" "2047787264621000288"
+				"size" "721012552"
+				"download" "58706976"
 			}
 			"testing"
 			{
 				"gid" "8963344685393373564"
 				"size" "632475309"
 				"download" "31873136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "B4AA9F81F5560FD100CBBF1C86539B25"
-				"size" "E734F05D690A32F23890F0FBFE5D1337"
-				"download" "B21FB40EE09B3FA08B3FF6174E9C7DFF"
 			}
 		}
 	}
@@ -267,14 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "12872541"
-			"timeupdated" "1701720974"
-		}
-		"development"
-		{
-			"buildid" "12872541"
-			"pwdrequired" "1"
-			"timeupdated" "1701720430"
+			"buildid" "16549301"
+			"timeupdated" "1733344843"
 		}
 		"testing"
 		{
@@ -283,6 +288,7 @@
 			"timeupdated" "1647086653"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -298,3 +304,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27070527"
+"_sha" "21d63420c9a3b1eee754d3aea16a890d56c8f963"
+"_size" "5055"
