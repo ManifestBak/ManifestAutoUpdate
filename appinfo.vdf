@@ -45,6 +45,7 @@
 	{
 		"library_capsule" "en,zh-cn,zh-tw,ja"
 		"library_hero" "en,zh-tw"
+		"library_hero_blur" "en"
 		"library_logo" "en,zh-cn,zh-tw"
 		"library_header" "zh-tw,zh-cn,en"
 		"logo_position"
@@ -79,6 +80,13 @@
 			{
 				"english" "bfb13bb3a689c93d09709549c21ea0de1a75bab6/library_hero.jpg"
 				"tchinese" "library_hero_tchinese.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bfb13bb3a689c93d09709549c21ea0de1a75bab6/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -131,10 +139,15 @@
 		}
 		"3"
 		{
+			"type" "publisher"
+			"name" "Playmeow News"
+		}
+		"4"
+		{
 			"type" "franchise"
 			"name" "Playmeow"
 		}
-		"4"
+		"5"
 		{
 			"type" "franchise"
 			"name" "ACG creator"
@@ -213,7 +226,7 @@
 		"19" "122"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -240,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "8271001544397137624"
-				"size" "836890030"
-				"download" "597686768"
+				"gid" "104065308502154833"
+				"size" "2255421528"
+				"download" "1554398704"
 			}
 		}
 	}
@@ -250,12 +263,12 @@
 	{
 		"public"
 		{
-			"buildid" "16202659"
-			"timeupdated" "1730099755"
+			"buildid" "17102191"
+			"timeupdated" "1737620420"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25926281"
-"_sha" "d59466727241d224a351524f041cc690817c3bfe"
-"_size" "5203"
+"_change_number" "27126600"
+"_sha" "c5d162ee1a0737d0292b4bc7a3788df31e120976"
+"_size" "5440"
