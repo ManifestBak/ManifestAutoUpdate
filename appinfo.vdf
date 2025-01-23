@@ -19,6 +19,7 @@
 	{
 		"0" "5"
 	}
+	"aicontenttype" "1"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -254,7 +255,7 @@
 		"19" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -339,15 +340,15 @@
 		{
 			"public"
 			{
-				"gid" "1985523991066168472"
-				"size" "2005180633"
-				"download" "1335682816"
+				"gid" "3897152051901357340"
+				"size" "2228199480"
+				"download" "1397584816"
 			}
 			"preview"
 			{
-				"gid" "1313417612591906704"
-				"size" "2018676977"
-				"download" "1348611600"
+				"gid" "1985523991066168472"
+				"size" "2005180633"
+				"download" "1335682816"
 			}
 		}
 	}
@@ -355,14 +356,14 @@
 	{
 		"public"
 		{
-			"buildid" "16819227"
-			"timeupdated" "1734734094"
+			"buildid" "17093773"
+			"timeupdated" "1737622568"
 		}
 		"preview"
 		{
-			"buildid" "16724244"
+			"buildid" "16819227"
 			"description" "A beta branch to access the latest features before they\'re pushed to the official default one."
-			"timeupdated" "1734025604"
+			"timeupdated" "1736244610"
 		}
 	}
 	"privatebranches" "1"
@@ -373,6 +374,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26740727"
-"_sha" "eff94457bafdf1c0635774f8bfd3daed61240ac3"
-"_size" "7113"
+"_change_number" "27127047"
+"_sha" "9d6913af6fa3b6ece1cbc7d65d60b71f0d8eea78"
+"_size" "7136"
