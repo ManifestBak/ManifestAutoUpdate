@@ -14,14 +14,14 @@
 			"id" "2795060_eula_0"
 			"name" "DREAMIO: AI-Powered Adventures EULA"
 			"url" "https://store.steampowered.com//eula/2795060_eula_0"
-			"version" "2"
+			"version" "3"
 		}
 		"1"
 		{
 			"id" "2795060_eula_1"
 			"name" "DREAMIO: AI-Powered Adventures EULA"
 			"url" "https://store.steampowered.com//eula/2795060_eula_1"
-			"version" "5"
+			"version" "8"
 		}
 	}
 	"oslist" "windows"
@@ -205,8 +205,8 @@
 		"1" "4486"
 		"2" "11014"
 		"3" "6869"
-		"4" "21"
-		"5" "7926"
+		"4" "7926"
+		"5" "21"
 		"6" "3799"
 		"7" "3834"
 		"8" "1674"
@@ -222,13 +222,13 @@
 		"18" "15172"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "Oleg Skutte"
 	"publisher" "Oleg Skutte"
-	"homepage" "https://games.skutteoleg.com/dreamio/"
+	"homepage" "https://dreamio.xyz"
 }
 "config"
 {
@@ -270,36 +270,21 @@
 		{
 			"public"
 			{
-				"gid" "5546905953171969109"
-				"size" "3068636559"
-				"download" "1522545072"
+				"gid" "8320799277007383717"
+				"size" "3302797630"
+				"download" "1962572720"
 			}
 			"beta"
 			{
-				"gid" "5546905953171969109"
-				"size" "3068636559"
-				"download" "1522545072"
+				"gid" "8320799277007383717"
+				"size" "3302797630"
+				"download" "1962572720"
 			}
 			"nightly"
 			{
-				"gid" "5546905953171969109"
-				"size" "3068636559"
-				"download" "1522545072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "26A5D2749670ECE3780B4561CC737D4B"
-				"size" "8F41B9E1D2BAADBD5C30A62A12DD48CE"
-				"download" "17FACF33092FE66B148A9025B3AA80AA"
-			}
-			"server"
-			{
-				"gid" "E42241BA9637015A9934D57A283C472C"
-				"size" "666CF0AABF1BA8D0B3A2DA083E354FE9"
-				"download" "16AB082F5DB6B86A078091CCC9492E04"
+				"gid" "8320799277007383717"
+				"size" "3302797630"
+				"download" "1962572720"
 			}
 		}
 	}
@@ -308,34 +293,23 @@
 	{
 		"public"
 		{
-			"buildid" "15869416"
-			"timeupdated" "1727651197"
+			"buildid" "17058907"
+			"timeupdated" "1737331479"
 		}
 		"beta"
 		{
-			"buildid" "15869416"
+			"buildid" "17058907"
 			"description" "beta testing branch"
-			"timeupdated" "1727651161"
-		}
-		"development"
-		{
-			"buildid" "15869416"
-			"pwdrequired" "1"
-			"timeupdated" "1727651004"
+			"timeupdated" "1737331412"
 		}
 		"nightly"
 		{
-			"buildid" "15869416"
+			"buildid" "17058907"
 			"description" "very unstable builds"
-			"timeupdated" "1727651147"
-		}
-		"server"
-		{
-			"buildid" "15869416"
-			"pwdrequired" "1"
-			"timeupdated" "1727651155"
+			"timeupdated" "1737331405"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -359,3 +333,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27067932"
+"_sha" "6c2936b6aa7a6c90611e7028228c22d09e4847b3"
+"_size" "5756"
