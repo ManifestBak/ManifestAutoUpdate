@@ -15,6 +15,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Play With Kizami"
 	"small_capsule"
 	{
@@ -24,6 +25,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_6325f5e15fbac6bf9a9a8b0fc27ff4bf202a257d.jpg"
 	"store_asset_mtime" "1533888757"
 	"associations"
 	{
@@ -118,15 +120,6 @@
 				"download" "879892608"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "5A84ABE808772E0394E48B54B6D7451E"
-				"size" "67C51F0104FC4B6C88BBA6900C085B9F"
-				"download" "ADBF3A3A240742003E4F3C8869A7277A"
-			}
-		}
 	}
 	"897230"
 	{
@@ -138,15 +131,6 @@
 				"gid" "5483358184001112287"
 				"size" "950487281"
 				"download" "933844496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "C61F66FA0FE2340403EFE888D8D5BC1C"
-				"size" "E21DDF4D620A47A7D817CC183C94BC2D"
-				"download" "4EB5BC45F7C462DECCF64A1B43CD2D3D"
 			}
 		}
 		"config"
@@ -166,15 +150,6 @@
 				"download" "987096640"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "B905103941DC6BBD8D2DB615DCBBBFE9"
-				"size" "A6E73EEE6484E5F445FE10F9CC7E83A4"
-				"download" "94B88248F7CA83290A284E987A3D5179"
-			}
-		}
 	}
 	"897250"
 	{
@@ -186,15 +161,6 @@
 				"gid" "6554231385881702460"
 				"size" "593732271"
 				"download" "586276352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "71FAD46AF49C028427C36B2918ED789B"
-				"size" "E465CD404178275DC3CC0098A1359380"
-				"download" "65F7C66A8628DAB9BECB3309702639BE"
 			}
 		}
 	}
@@ -209,15 +175,6 @@
 				"download" "166465472"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "152076B715E356657CFC2D7E87387FEA"
-				"size" "85CA211B4D2D823DC709E1AA42C5F210"
-				"download" "760053428C3292930C6E7177F0684F50"
-			}
-		}
 		"dlcappid" "911990"
 	}
 	"branches"
@@ -227,13 +184,8 @@
 			"buildid" "3205975"
 			"timeupdated" "1539324120"
 		}
-		"alpha"
-		{
-			"buildid" "3205975"
-			"pwdrequired" "1"
-			"timeupdated" "1539316444"
-		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -250,3 +202,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "c6da30e9e52fd27b6a153db021cdd3b40f637c02"
+"_size" "3260"
