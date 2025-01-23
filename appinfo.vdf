@@ -333,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "2837539233446836791"
-				"size" "21854667975"
-				"download" "17934568672"
+				"gid" "7666597838636399946"
+				"size" "22053993145"
+				"download" "17925046864"
 			}
 			"version_1.51"
 			{
@@ -345,48 +345,9 @@
 			}
 			"insiders"
 			{
-				"gid" "2837539233446836791"
-				"size" "21854667975"
-				"download" "17934568672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qa_postrelease"
-			{
-				"gid" "A5F2F6266155414BCC3401732ABE1B9C"
-				"size" "756714281955C0D27C3BC554F291020C"
-				"download" "BD0D94C2D9B820F62528DE563BF0AE71"
-			}
-			"bamboo_publishing"
-			{
-				"gid" "B3F13D7E6FDD16BCEB4B82F57105F297"
-				"size" "4B2787E049AE345B21565F4DDB058454"
-				"download" "8464AC39B8705C89D2A2F70A192180DC"
-			}
-			"gc4_mvp"
-			{
-				"gid" "8B333784FFD6FF7A87EF7EE07464D672"
-				"size" "C2A7D0A61E43325F0BDA3ED5B1E3D67C"
-				"download" "C796E2195C0E3F8271EB33CE24A5C618"
-			}
-			"press"
-			{
-				"gid" "DFEEE4C740194816A941FE144B377660"
-				"size" "B1B7321810F7055088C0FA80B1359F7F"
-				"download" "3F39DA1A4EDA6A72038CF130DC404AAA"
-			}
-			"publishing"
-			{
-				"gid" "426BA226B05C995BF8E408086935705A"
-				"size" "1AAC6DC7B19C06DCFE2F8FD22ABC880C"
-				"download" "D7714483C6175CBAE6999D66D9DF5183"
-			}
-			"qa_galciv4"
-			{
-				"gid" "E8651A754C3C24569983702257EEA8D9"
-				"size" "BEFCCD053FA127420EA2ED769FD18D0A"
-				"download" "25D3A5D9B82FDF6984BC9CAF5B940C68"
+				"gid" "7666597838636399946"
+				"size" "22053993145"
+				"download" "17925046864"
 			}
 		}
 	}
@@ -413,58 +374,13 @@
 				"download" "36712048"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"qa_postrelease"
-			{
-				"gid" "C103B89D597F6821BC7F1D3C640B49BD"
-				"size" "C011C35247229076A1AAEB6FA228C9EB"
-				"download" "CB800AD859E75E2D6B01D3A2678DCE49"
-			}
-			"bamboo_publishing"
-			{
-				"gid" "C67FE0D4C80CC0DDA8E6BD29C69A9F90"
-				"size" "1BE1B9573BAB22667ECCEE27A56E0D3F"
-				"download" "88A2609B993ECBAD4661E53A099DECD1"
-			}
-			"gc4_mvp"
-			{
-				"gid" "FA7F0E93121389866EAAC0695EB2BD4D"
-				"size" "68808B3681F9D9F5FCF1D94CEBC4FCA2"
-				"download" "0A7694899D300E60F814E969492DF85F"
-			}
-			"press"
-			{
-				"gid" "C58D41F30DD2B26003BD6C4A564BC19C"
-				"size" "0894E5DF51415FF6221BCE03BB40CBEE"
-				"download" "DB499D8A1414CB76F292E658A9C06F1B"
-			}
-			"publishing"
-			{
-				"gid" "EDFE2EF9AAF6682D3A864243696DC5A5"
-				"size" "7644C16FD4AD627E13F13946D0D4D579"
-				"download" "5AF0587A3C3817B6E596C2098BDD23B2"
-			}
-			"qa_galciv4"
-			{
-				"gid" "6583C851FD76FD21571986B0251A72F5"
-				"size" "1A63334A418A5F638C34B2E23C75A3AC"
-				"download" "C6B5863D18C04B19663F1C3947F95553"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16777748"
-			"timeupdated" "1734467824"
-		}
-		"qa_postrelease"
-		{
-			"buildid" "12357617"
-			"pwdrequired" "1"
-			"timeupdated" "1696449105"
+			"buildid" "17094108"
+			"timeupdated" "1737639525"
 		}
 		"version_1.51"
 		{
@@ -472,43 +388,14 @@
 			"description" "Version 1.51 for older saves"
 			"timeupdated" "1685545333"
 		}
-		"bamboo_publishing"
-		{
-			"buildid" "16777748"
-			"pwdrequired" "1"
-			"timeupdated" "1734464859"
-		}
-		"gc4_mvp"
-		{
-			"buildid" "16740955"
-			"pwdrequired" "1"
-			"timeupdated" "1734128251"
-		}
 		"insiders"
 		{
-			"buildid" "16777748"
+			"buildid" "17094108"
 			"description" "Explore experimental features and fixes"
-			"timeupdated" "1734467844"
-		}
-		"press"
-		{
-			"buildid" "16777748"
-			"pwdrequired" "1"
-			"timeupdated" "1734467855"
-		}
-		"publishing"
-		{
-			"buildid" "15342912"
-			"pwdrequired" "1"
-			"timeupdated" "1723472033"
-		}
-		"qa_galciv4"
-		{
-			"buildid" "16777748"
-			"pwdrequired" "1"
-			"timeupdated" "1734464879"
+			"timeupdated" "1737569309"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -537,6 +424,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26684272"
-"_sha" "388ae50d01a74232518ce0116ec76dc7c06926ba"
-"_size" "10470"
+"_change_number" "27131252"
+"_sha" "b376f6b6b6b6b0c4deea9b32553c930089354f35"
+"_size" "7664"
