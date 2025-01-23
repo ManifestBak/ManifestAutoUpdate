@@ -141,7 +141,7 @@
 		"19" "1708"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -188,30 +188,15 @@
 		{
 			"public"
 			{
-				"gid" "6293924572150293731"
-				"size" "162164976"
-				"download" "79075520"
+				"gid" "9020208414941090920"
+				"size" "162427906"
+				"download" "81016464"
 			}
 			"generalbeta"
 			{
 				"gid" "1503022633968306803"
 				"size" "167546268"
 				"download" "87842736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"rankedbeta"
-			{
-				"gid" "2F61DEAB45C07F5D2F7741806C331D0C"
-				"size" "22C98C7BB78749F3F522252E56E8FF73"
-				"download" "AED8EDB5A526E23A0D55F8140BF5E9B0"
-			}
-			"devtesting"
-			{
-				"gid" "43E206C6011A40C33F4EE749B952181F"
-				"size" "DA49BFCF1E2257BDE4EDF68DDCE5AC1C"
-				"download" "C8D7F206AF8A43D7DC7E893E9E9D4BB2"
 			}
 		}
 	}
@@ -226,9 +211,9 @@
 		{
 			"public"
 			{
-				"gid" "509897430906422209"
-				"size" "224143788"
-				"download" "92854976"
+				"gid" "59186174627568721"
+				"size" "226072523"
+				"download" "94569248"
 			}
 			"generalbeta"
 			{
@@ -237,28 +222,13 @@
 				"download" "101669552"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"rankedbeta"
-			{
-				"gid" "B4E35582487DA5A101F539ECE506B2ED"
-				"size" "62F17E178748FD0DB61AF0B7FB5D3FC2"
-				"download" "F9591517A53341B20D1E115603555D3E"
-			}
-			"devtesting"
-			{
-				"gid" "45E04A8E273561DD34619E0ECC4B140C"
-				"size" "4461D9EFF3BDF6D567E8C299493C6E4D"
-				"download" "E3716761A63069D491479FD693BF10D8"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15396752"
-			"timeupdated" "1724760816"
+			"buildid" "16554396"
+			"timeupdated" "1732971248"
 		}
 		"generalbeta"
 		{
@@ -266,17 +236,10 @@
 			"description" "defaultBetasBranch"
 			"timeupdated" "1683738299"
 		}
-		"rankedbeta"
-		{
-			"buildid" "10720564"
-			"pwdrequired" "1"
-			"timeupdated" "1678287905"
-		}
-		"devtesting"
-		{
-			"buildid" "15835606"
-			"pwdrequired" "1"
-			"timeupdated" "1727348762"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26871410"
+"_sha" "8d36c5fad2b6b7c0e61cca508c5c6958a5fe7912"
+"_size" "3802"
