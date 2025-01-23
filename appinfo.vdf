@@ -26,6 +26,50 @@
 	{
 		"japanese" "On Your Tail しっぽをつかめ"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1735084800"
+		"tested_build_id" "16842886"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -110,7 +154,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734366700"
+	"store_asset_mtime" "1736258099"
 	"associations"
 	{
 		"0"
@@ -189,7 +233,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1734364811"
+	"steam_release_date" "1734364800"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/2132560/announcements/detail/601890524829320378\?snr=2___"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -202,8 +246,8 @@
 		"3" "10235"
 		"4" "21"
 		"5" "1742"
-		"6" "599"
-		"7" "122"
+		"6" "122"
+		"7" "599"
 		"8" "5716"
 		"9" "1695"
 		"10" "3834"
@@ -217,8 +261,8 @@
 		"18" "3920"
 		"19" "6378"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -254,20 +298,20 @@
 		{
 			"public"
 			{
-				"gid" "729832105950057099"
-				"size" "24672314058"
-				"download" "6501753104"
+				"gid" "3552114887436850432"
+				"size" "24673166505"
+				"download" "6500664160"
 			}
 		}
 	}
-	"baselanguages" "english,german,italian"
+	"baselanguages" "english,german,french,italian,koreana,schinese,japanese,brazilian,latam"
 	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16744899"
-			"timeupdated" "1734171537"
+			"buildid" "16989493"
+			"timeupdated" "1736792858"
 		}
 	}
 	"privatebranches" "1"
@@ -305,6 +349,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26674243"
-"_sha" "52f82fa39b6ef725893fb7756c0f52cb96233f08"
-"_size" "5243"
+"_change_number" "27077771"
+"_sha" "162bd722174908cfed1a981a1553f49ca59a4060"
+"_size" "6391"
