@@ -12,6 +12,7 @@
 	"linuxclienticon" "04018a767eb1350e81ceb2b27a00c49f0169a890"
 	"oslist" "windows,macos,linux"
 	"releasestate" "released"
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -75,6 +76,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "9.509918319719958"
 			"height_pct" "30.622180004749467"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "9.509918319719958"
+				"height_pct" "30.622180004749467"
+			}
 		}
 	}
 	"store_asset_mtime" "1667291806"
@@ -182,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "2954388558126040157"
-				"size" "155059035"
-				"download" "58164912"
+				"gid" "106333018626575115"
+				"size" "150607196"
+				"download" "57645552"
 			}
 		}
 	}
@@ -198,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "6933344546971062956"
-				"size" "149344218"
-				"download" "60361200"
+				"gid" "299230995995909089"
+				"size" "141226868"
+				"download" "58951152"
 			}
 		}
 	}
@@ -214,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "6729804552274923832"
-				"size" "187405442"
-				"download" "60034880"
+				"gid" "6471920259457397086"
+				"size" "181758379"
+				"download" "58886864"
 			}
 		}
 	}
@@ -225,8 +260,8 @@
 	{
 		"public"
 		{
-			"buildid" "14650163"
-			"timeupdated" "1717853447"
+			"buildid" "16786405"
+			"timeupdated" "1734523629"
 		}
 	}
 }
@@ -244,3 +279,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26694459"
+"_sha" "1c93ffa2e402f09ca7837ff3d0d12d0e191bde81"
+"_size" "4827"
