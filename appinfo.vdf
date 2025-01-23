@@ -26,6 +26,9 @@
 			"url" "http://store.steampowered.com/eula/8190_eula_1"
 		}
 	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
 	"type" "game"
 	"steam_deck_compatibility"
 	{
@@ -58,7 +61,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "e90146c1858e5d8ebd2aa1abdcc8e2895c1d2b19/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -69,6 +72,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -76,7 +80,56 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1660137746"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724751384"
 	"associations"
 	{
 		"0"
@@ -110,6 +163,7 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -219,6 +273,33 @@
 }
 "depots"
 {
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"overridescddb" "1"
 	"baselanguages" "english,german,french,spanish,italian,russian,polish"
 	"markdlcdepots" "1"
@@ -609,6 +690,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "21269369"
-"_sha" "f789acf0d08ccb4e68f5e90c9c6e863f10f76328"
-"_size" "9903"
+"_change_number" "26945106"
+"_sha" "7b9e248cf7fd15bb2b5ee5c52e3d5b6d6eba0449"
+"_size" "11086"
