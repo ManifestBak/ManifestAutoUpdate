@@ -227,30 +227,15 @@
 		{
 			"public"
 			{
-				"gid" "7811145462516049112"
-				"size" "783610104"
-				"download" "644306176"
+				"gid" "2042734978060021183"
+				"size" "783621503"
+				"download" "644308976"
 			}
 			"local"
 			{
 				"gid" "4295803273731616340"
 				"size" "699982283"
 				"download" "623359584"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"vacation_beta"
-			{
-				"gid" "35560E86990DB6D8F487B85A3BE28E1B"
-				"size" "6CE4F5340E19BD35F1F23723851C531F"
-				"download" "835067B5D70519A4C39BEEB1492C50FD"
-			}
-			"vs_beta"
-			{
-				"gid" "ED45050CD030F1518F36CA756AA86D9B"
-				"size" "4396D18A560099A1ABBE6E5F1EF0550B"
-				"download" "AC894EBAD1D24A06495A5F0FA8199221"
 			}
 		}
 	}
@@ -271,21 +256,6 @@
 				"download" "104880752"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"vacation_beta"
-			{
-				"gid" "F92F1093A8DC8508AF3DD8865D88C2F2"
-				"size" "474991BA86F26831A2E02AA5A4CD8703"
-				"download" "E5E9E5C340E75A61AADBA4AC11AFC050"
-			}
-			"vs_beta"
-			{
-				"gid" "F9787AA8E90928D5BF13CDA8BF9866EE"
-				"size" "5A9749C610E5D8B68248815E2863C2DC"
-				"download" "8BE267D396125BBB7C6A6BF7267CF428"
-			}
-		}
 		"dlcappid" "306280"
 	}
 	"hasdepotsindlc" "1"
@@ -293,8 +263,8 @@
 	{
 		"public"
 		{
-			"buildid" "17005282"
-			"timeupdated" "1736891152"
+			"buildid" "17100062"
+			"timeupdated" "1737604045"
 		}
 		"local"
 		{
@@ -302,19 +272,8 @@
 			"description" "Local Content Server"
 			"lcsrequired" "1"
 		}
-		"vacation_beta"
-		{
-			"buildid" "1994999"
-			"pwdrequired" "1"
-			"timeupdated" "1501261006"
-		}
-		"vs_beta"
-		{
-			"buildid" "4258827"
-			"pwdrequired" "1"
-			"timeupdated" "1570220489"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -395,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26997126"
-"_sha" "2b842edcc46597a5e6ad5186552026b25d51e623"
-"_size" "7035"
+"_change_number" "27123862"
+"_sha" "1f27dc971431f436733708591aef790a88dacdaa"
+"_size" "6076"
