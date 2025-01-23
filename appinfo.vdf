@@ -258,7 +258,7 @@
 		"19" "7569"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 	"review_score_bombs" "8"
 	"review_percentage_bombs" "85"
 }
@@ -337,21 +337,6 @@
 				"download" "1420923744"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "4D77E9A977043DDABEFDE7B11F978BA2"
-				"size" "167132097EA667062A699A64773A566E"
-				"download" "F40290D18D88E697C2B38CA9D16BAA43"
-			}
-			"development"
-			{
-				"gid" "7BD1308D08E21BF87EE80DF566E98924"
-				"size" "639541AC162372AA42348B9AFC4A5FA4"
-				"download" "C4C4418E24D73B393B190140DB7EFE07"
-			}
-		}
 	}
 	"598962"
 	{
@@ -373,21 +358,6 @@
 				"gid" "3510988075391601506"
 				"size" "2881088"
 				"download" "1102352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "B251ACE4746053F9F87AD4F1529BA6E5"
-				"size" "332B979D4023AF0EFC4A1D5415A428C9"
-				"download" "59A6809E75621B5B169E56CF85B1E533"
-			}
-			"development"
-			{
-				"gid" "90F0B8C06CC52760B8DEB461C7A81176"
-				"size" "23D2D25FF6DD08A8CAF55306BE0075F2"
-				"download" "5E890D7650296FB71A50AF07CB705D00"
 			}
 		}
 	}
@@ -413,21 +383,6 @@
 				"download" "5259744"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "5BDA4BA57D3F3F207F4702CD5675278B"
-				"size" "7D07568A92E2EF258E9BB7EB781B73B2"
-				"download" "DC9B8A8D7F1FAD4F892D27751B5694B4"
-			}
-			"development"
-			{
-				"gid" "3EF28D23D54CBF1773393EC6AD494D3C"
-				"size" "CA5A32F81942ED9D8D1420CA8A87621B"
-				"download" "37075994E25D20C34C4724CB1C6ED828"
-			}
-		}
 	}
 	"branches"
 	{
@@ -436,18 +391,6 @@
 			"buildid" "16818013"
 			"timeupdated" "1734987977"
 		}
-		"alpha"
-		{
-			"buildid" "16818156"
-			"pwdrequired" "1"
-			"timeupdated" "1734988032"
-		}
-		"development"
-		{
-			"buildid" "14810597"
-			"pwdrequired" "1"
-			"timeupdated" "1719159322"
-		}
 		"experimental"
 		{
 			"buildid" "16818013"
@@ -455,6 +398,7 @@
 			"timeupdated" "1734722019"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -475,6 +419,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26766549"
-"_sha" "b7681e9bb7913f8a0a11b91ea43bd65fc5301ba2"
-"_size" "8351"
+"_change_number" "27056390"
+"_sha" "bbffca2dc94110b330f6a39ee7943a0e0230d133"
+"_size" "7020"
