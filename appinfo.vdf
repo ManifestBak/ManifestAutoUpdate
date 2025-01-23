@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723660246"
+	"store_asset_mtime" "1736809444"
 	"associations"
 	{
 		"0"
@@ -297,25 +297,25 @@
 		"8" "4474"
 		"9" "1677"
 		"10" "1742"
-		"11" "10695"
-		"12" "6815"
-		"13" "3871"
-		"14" "3952"
-		"15" "4325"
+		"11" "3871"
+		"12" "4325"
+		"13" "10695"
+		"14" "6815"
+		"15" "3952"
 		"16" "5125"
 		"17" "122"
 		"18" "1741"
 		"19" "4252"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
 	"developer" "Red Hook Studios"
 	"publisher" "Red Hook Studios"
 	"homepage" "https://www.darkestdungeon.com/"
-	"listofdlc" "2598510"
+	"listofdlc" "2598510,3205310"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -369,6 +369,20 @@
 				"oslist" "macos"
 			}
 		}
+		"6"
+		{
+			"executable" "Darkest Dungeon II.exe"
+			"arguments" "-allowEditorPrefs"
+			"config"
+			{
+				"betakey" "kingdoms_stream"
+			}
+			"description_loc"
+			{
+				"english" "Abomination Automatically Unlocked"
+			}
+			"description" "Abomination Automatically Unlocked"
+		}
 	}
 	"steamcontrollertemplateindex" "1"
 	"steamdecktouchscreen" "1"
@@ -413,39 +427,6 @@
 				"download" "4041032720"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "3DA74934D930976DD2F0AEC10C4AB67A"
-				"size" "679F428E3222C27AB02C63CBB527DFF2"
-				"download" "4FAEEBF9E0B82A5290B261D9BC97EFA2"
-			}
-			"kingdoms"
-			{
-				"gid" "628478D05EACB561BF2C8F5DC1BDBB87"
-				"size" "5EC422D3D638C7F7C3FD4579DE2A61F2"
-				"download" "B4C2D53C71626B7D22F46FF5F3CF2C7A"
-			}
-			"private_test"
-			{
-				"gid" "8A0FACA4DA6CD6DA6788986548C20A1F"
-				"size" "BB2842E6C070D3BBA4C581A4B4E8B321"
-				"download" "DF6E7CB8665B73787CCF66802C9C13BF"
-			}
-			"daily"
-			{
-				"gid" "B2D188EE9809149610E01524824379FE"
-				"size" "2341B2C62D3F1F3C41C14602E20E91CA"
-				"download" "254CA7FB6D12A50DF8B9277BA98FB6A4"
-			}
-			"staging"
-			{
-				"gid" "53D239BE902019849055364A716B05BF"
-				"size" "280E54C03EC813FC28D537DA6F5260F3"
-				"download" "DE773773614509EB339ECE9E205E9577"
-			}
-		}
 	}
 	"2598510"
 	{
@@ -470,39 +451,6 @@
 				"download" "207058240"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "3DDD94ED2FF96B1FD2E65BC2F28587E8"
-				"size" "882B20DD15C81F42EF7C7DA498AB8D91"
-				"download" "D0D347CACAC1545D977BC7FA07C5188F"
-			}
-			"kingdoms"
-			{
-				"gid" "1593B9BE95CBE9381C2142AEDB030614"
-				"size" "D55177860748F701828E70EE1FB28F18"
-				"download" "13CBE8CE591BE5F92B271148E5017A91"
-			}
-			"private_test"
-			{
-				"gid" "DC1BAB329A0FDE0A4DB2CE3D7092CB02"
-				"size" "54D1E38FCC375AAFAEF70779CB3837B1"
-				"download" "06F110411742F6B008530B008E5033B1"
-			}
-			"daily"
-			{
-				"gid" "928B5800DCB269284A1F4CD33853D711"
-				"size" "26A1B93BADBD10B182B03F3B61D7E06D"
-				"download" "900BC72B92A22A490C00CB8349ADE140"
-			}
-			"staging"
-			{
-				"gid" "8469C0E9D6899B19350CBF02586CEDB8"
-				"size" "26472FB972C5FB63DEC4717E658EFE68"
-				"download" "99256B73915FC384FBE731C9D75C6817"
-			}
-		}
 	}
 	"1940342"
 	{
@@ -524,39 +472,6 @@
 				"gid" "8899459229473586282"
 				"size" "5344173171"
 				"download" "4346876416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "8E4DC3C078B23084CDB50297C791AA09"
-				"size" "883E11B6348E478031A6975751DE5055"
-				"download" "C46A35FE1A5ADB29A4687AC134C529F3"
-			}
-			"kingdoms"
-			{
-				"gid" "BE8BFC3393AF817E8F6AE39B3A071809"
-				"size" "E1C71F71C6B08BC769EF694B87D904E9"
-				"download" "3FC5F7457F3269404F48969D277C5B62"
-			}
-			"private_test"
-			{
-				"gid" "9AAC436A304CED1FA4F9D3649929B5F4"
-				"size" "D5E9077A63F5EEFCD188144FFA9F3ADC"
-				"download" "7FBFAA8F1712A064140C76718041A5CF"
-			}
-			"daily"
-			{
-				"gid" "4F8230DEF0067E6177632784C9FFFC9A"
-				"size" "1601940C8343BF91E502F2C7CD95B0F0"
-				"download" "EBF6261A177AAABC8230B80BB3DB8828"
-			}
-			"staging"
-			{
-				"gid" "42A7CD7AE98E8913B78EA7C804F00A04"
-				"size" "B46CC04E6F58C32FE8DDF3E47C03F641"
-				"download" "6E692187747336D288983565CF32EB6F"
 			}
 		}
 	}
@@ -583,39 +498,6 @@
 				"download" "207389888"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "D0D793D5C8941E58B03D27A1BC135C5A"
-				"size" "BCAE3B585EDAEEB7552DC7291D081D4A"
-				"download" "7050F365041DCFCBBAFCEC10541AFDDD"
-			}
-			"kingdoms"
-			{
-				"gid" "B23D76672982F7F9E3B2F751C455668E"
-				"size" "9613FEE93EEE55948FC045406A62CA5E"
-				"download" "688C534DD162B2976002FF55F6D71B99"
-			}
-			"private_test"
-			{
-				"gid" "9FEC8722B2E0C8C8E2A6DFBBE8E980BF"
-				"size" "CDC0A803FA4BB85DFE3AFAFA498B042F"
-				"download" "BA0226B73125F0E942DF35B2DDD57ADB"
-			}
-			"daily"
-			{
-				"gid" "6CF8D74C5110DC26A30D3F3DF8BE2A4F"
-				"size" "7E0BB06B7205269232AC58255A9D468B"
-				"download" "14C0D6C6B1F16C8F52EF446D6E829862"
-			}
-			"staging"
-			{
-				"gid" "3E15BF8E963AC9F75E0A425529FC5A49"
-				"size" "F0AD0F67B77C25D7F94560AB70BFC701"
-				"download" "A0CD0F62F60C90E7C906602EF3086EA4"
-			}
-		}
 	}
 	"3205310"
 	{
@@ -638,39 +520,6 @@
 				"gid" "1512888818112870067"
 				"size" "0"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "8A725D6ED5CE86B0FAA78AC7E0EE7510"
-				"size" "BD08ECFF87CDE66821BE017064F3A305"
-				"download" "6BDDF142B92ED5A6EAC602B8E473D0EE"
-			}
-			"kingdoms"
-			{
-				"gid" "440439BC4985768397065ECCA397DA6C"
-				"size" "584A71F4512D8EE6ADE73FD4A8CAAFC2"
-				"download" "197AFB39A541B19C2D37B5518CE8684B"
-			}
-			"private_test"
-			{
-				"gid" "11BF7ADD80CCC397B6E0B6B70960D316"
-				"size" "7AC6CE52F19A64BCD8F09A25E75B57FA"
-				"download" "7AC6CE52F19A64BCD8F09A25E75B57FA"
-			}
-			"daily"
-			{
-				"gid" "E2CC0A17715D65A3EA06B70E598AF9EA"
-				"size" "B1ED737397B5FA24991AC4099F7D8A0E"
-				"download" "E8A923F1542EFB50B8B4450BAAD79EBC"
-			}
-			"staging"
-			{
-				"gid" "5A1ED2486DEEF6862F702C13DE11B8A6"
-				"size" "2A41281B5C7B68609CAF30CF4C034CAC"
-				"download" "1027CB5AAA4998E5EDBBA2A3EB59A469"
 			}
 		}
 	}
@@ -697,39 +546,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"catacombs"
-			{
-				"gid" "2071A82C2CD7050ACAEA66FC79B1DBBB"
-				"size" "B0CCC94D18263E19B31B14B65EB9D588"
-				"download" "B0CCC94D18263E19B31B14B65EB9D588"
-			}
-			"kingdoms"
-			{
-				"gid" "1E334D6545299B67FD4B432559F8B407"
-				"size" "35753EA67B6F2156035CAC69B08CF10C"
-				"download" "6763019DDE900D0DE46378E3DEB53FDF"
-			}
-			"private_test"
-			{
-				"gid" "7E35E87903E10AF296EE8BC41D178025"
-				"size" "7AC6CE52F19A64BCD8F09A25E75B57FA"
-				"download" "7AC6CE52F19A64BCD8F09A25E75B57FA"
-			}
-			"daily"
-			{
-				"gid" "7526343219B511C5CEA2288EF8619657"
-				"size" "692FFA249B16D4848055B2D4BED3C6E4"
-				"download" "1921243912B4D3B82F6CCBC97E25C734"
-			}
-			"staging"
-			{
-				"gid" "1F3177B765B101FCA84A34661CEC16F2"
-				"size" "F36CF1BF7E7CFE32418868D30F9736D1"
-				"download" "F36CF1BF7E7CFE32418868D30F9736D1"
-			}
-		}
 	}
 	"branches"
 	{
@@ -738,43 +554,14 @@
 			"buildid" "15906184"
 			"timeupdated" "1727892447"
 		}
-		"catacombs"
-		{
-			"buildid" "15908528"
-			"pwdrequired" "1"
-			"timeupdated" "1727906831"
-		}
 		"coming_in_hot"
 		{
 			"buildid" "15856535"
 			"description" "Experimental builds"
 			"timeupdated" "1727476891"
 		}
-		"kingdoms"
-		{
-			"buildid" "15908076"
-			"pwdrequired" "1"
-			"timeupdated" "1727904068"
-		}
-		"private_test"
-		{
-			"buildid" "15906167"
-			"pwdrequired" "1"
-			"timeupdated" "1727892319"
-		}
-		"daily"
-		{
-			"buildid" "15908069"
-			"pwdrequired" "1"
-			"timeupdated" "1727904051"
-		}
-		"staging"
-		{
-			"buildid" "15908495"
-			"pwdrequired" "1"
-			"timeupdated" "1727906674"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -803,6 +590,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25504380"
-"_sha" "9da4faa514185716ce905f241001ed3b21033701"
-"_size" "15876"
+"_change_number" "27124060"
+"_sha" "70a03de114eececc1c27650159ea6368b3d5fa14"
+"_size" "10252"
