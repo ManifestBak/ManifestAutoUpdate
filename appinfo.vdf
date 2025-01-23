@@ -180,8 +180,8 @@
 		"8" "6378"
 		"9" "1676"
 		"10" "4364"
-		"11" "4182"
-		"12" "4845"
+		"11" "4845"
+		"12" "4182"
 		"13" "493"
 		"14" "1695"
 		"15" "16689"
@@ -264,21 +264,6 @@
 				"download" "6046178720"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "956D045DF6C2F464DF173FA994A60CCF"
-				"size" "F1620CF03A954E15844C6E46E7140FC3"
-				"download" "D8CC71B93D52DA7DC23EC0157985F291"
-			}
-			"plutocracy_nightly"
-			{
-				"gid" "48BB3E7EFFD7EF8B78AC1BD6E8DC6838"
-				"size" "651F520A6AEF81A15CB6B67F3A9A49C0"
-				"download" "697E88A2F4F5ADB3C55B6D234ADE2241"
-			}
-		}
 	}
 	"754509"
 	{
@@ -304,21 +289,6 @@
 				"download" "6035625872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "6E4AF01003B5B9D292D9271D6035E0A4"
-				"size" "0A357D0D97C5C47E4A3FEDF94DE9F13A"
-				"download" "A2D6CF7D3F89C22D7540811B33636F4D"
-			}
-			"plutocracy_nightly"
-			{
-				"gid" "AEA7C05356141DDF9D4257A115385520"
-				"size" "92F11466848D2F059E4CA1F9E0F75B18"
-				"download" "5EAE433FC2934C71AC42D319358F1AC9"
-			}
-		}
 	}
 	"754503"
 	{
@@ -337,21 +307,6 @@
 				"download" "6014212176"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "37ABEA1E8CDFDBC4F523C691DDA47881"
-				"size" "E8AC1A56943FE4E9B03C8C370715449D"
-				"download" "891FE0E9788C6B990CB6CBBA41CD8CE8"
-			}
-			"plutocracy_nightly"
-			{
-				"gid" "2283994C8D82E4378554C7735724B7B7"
-				"size" "9E09F90E1DCF5C1834E551EB34E3A165"
-				"download" "292DFCDB5A622822224E1C59DFC5EC1A"
-			}
-		}
 	}
 	"branches"
 	{
@@ -360,21 +315,10 @@
 			"buildid" "16852471"
 			"timeupdated" "1735193965"
 		}
-		"experimental"
-		{
-			"buildid" "13939155"
-			"pwdrequired" "1"
-			"timeupdated" "1712166256"
-		}
-		"plutocracy_nightly"
-		{
-			"buildid" "16852471"
-			"pwdrequired" "1"
-			"timeupdated" "1735192855"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26786083"
-"_sha" "da787b572013eaef9bd6893a8f042f75c942003f"
-"_size" "6565"
+"_change_number" "27117847"
+"_sha" "fa2659de3f1638d047efb617a5b6ab96adf8d055"
+"_size" "5178"
