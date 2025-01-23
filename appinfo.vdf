@@ -137,33 +137,33 @@
 		"0" "597"
 		"1" "599"
 		"2" "9551"
-		"3" "3799"
-		"4" "10235"
-		"5" "12095"
-		"6" "4486"
-		"7" "3871"
-		"8" "6650"
+		"3" "12095"
+		"4" "3799"
+		"5" "10235"
+		"6" "6650"
+		"7" "4486"
+		"8" "3871"
 		"9" "1697"
 		"10" "5984"
 		"11" "4947"
 		"12" "5608"
 		"13" "492"
 		"14" "5094"
-		"15" "6869"
+		"15" "24904"
 		"16" "1742"
-		"17" "4182"
-		"18" "24904"
+		"17" "6869"
+		"18" "4182"
 		"19" "5611"
 	}
-	"review_score" "7"
-	"review_percentage" "89"
+	"review_score" "8"
+	"review_percentage" "88"
 }
 "extended"
 {
 	"developer" "MrDots Games"
 	"publisher" "MrDots Games"
 	"homepage" "https://mrdotsgames.com/sunshine-love/"
-	"listofdlc" "3162770"
+	"listofdlc" "3162770,3338040,3341810,3342550,3343050"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -209,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "6468442255357114565"
-				"size" "6564989667"
-				"download" "6140899200"
+				"gid" "1176553683817749275"
+				"size" "6612711946"
+				"download" "6185801616"
 			}
 		}
 	}
@@ -228,12 +228,64 @@
 			}
 		}
 	}
+	"3338040"
+	{
+		"dlcappid" "3338040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6661577063668448508"
+				"size" "5847412380"
+				"download" "5739244128"
+			}
+		}
+	}
+	"3341810"
+	{
+		"dlcappid" "3341810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9082907948582581563"
+				"size" "90135193"
+				"download" "89308320"
+			}
+		}
+	}
+	"3342550"
+	{
+		"dlcappid" "3342550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4228098938818728364"
+				"size" "4127195888"
+				"download" "4024313744"
+			}
+		}
+	}
+	"3343050"
+	{
+		"dlcappid" "3343050"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6171314101327550587"
+				"size" "41148894"
+				"download" "40732224"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15696505"
-			"timeupdated" "1726264122"
+			"buildid" "16912722"
+			"timeupdated" "1736114810"
 		}
 	}
 }
@@ -242,3 +294,7 @@
 	"quota" "0"
 	"maxnumfiles" "0"
 }
+"_missing_token" "False"
+"_change_number" "27118711"
+"_sha" "ef9a2ecba992d620a2bdd679292e295e15074ca4"
+"_size" "4591"
