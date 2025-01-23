@@ -53,7 +53,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "1a8be10434d7d87eda5c64379ea8761ccf137f42/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -98,30 +98,34 @@
 		}
 		"library_logo"
 		{
-			"image"
-			{
-				"english" "logo.png"
-			}
-			"image2x"
-			{
-				"english" "logo_2x.png"
-			}
 			"logo_position"
 			{
 				"pinned_position" "UpperCenter"
 				"width_pct" "77.20951371441475"
 				"height_pct" "73.34346683371736"
 			}
+			"image"
+			{
+				"english" "417dcef45d8ab86e09ebb21fe14b7198d0ae4f28/logo.png"
+			}
+			"image2x"
+			{
+				"english" "417dcef45d8ab86e09ebb21fe14b7198d0ae4f28/logo_2x.png"
+			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "54a61b20fa7dd66b2ff4e3118f8094b380a71564/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "491ab946eeb9792956fac7b811a254b515f8dbc8/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1728054812"
+	"store_asset_mtime" "1737069025"
 	"associations"
 	{
 		"0"
@@ -245,6 +249,31 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1725973140"
 	"community_hub_visible" "1"
@@ -333,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "8760858578712668314"
-				"size" "14579749944"
-				"download" "11996788032"
+				"gid" "5515648172238885956"
+				"size" "14861684545"
+				"download" "12241448352"
 			}
 		}
 	}
@@ -343,13 +372,13 @@
 	{
 		"public"
 		{
-			"buildid" "16725122"
-			"timeupdated" "1734034523"
+			"buildid" "17014578"
+			"timeupdated" "1736961203"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26618250"
-"_sha" "7a6d6f5c71c24cfd8fda8cf4d9e8da331f5b0f96"
-"_size" "5749"
+"_change_number" "27033226"
+"_sha" "5d3420216c6f36eac6c45cff20e4feb3257b8acc"
+"_size" "6375"
