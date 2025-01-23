@@ -96,12 +96,17 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" " Error 300"
+			"name" "Error 300"
 		}
 		"2"
 		{
 			"type" "publisher"
 			"name" "Gamersky Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Error 300"
 		}
 	}
 	"primary_genre" "23"
@@ -183,13 +188,13 @@
 		"17" "3920"
 		"18" "4234"
 	}
-	"review_score" "7"
-	"review_percentage" "81"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
 	"developer" "Error 300"
-	"publisher" " Error 300"
+	"publisher" "Error 300"
 	"homepage" "https://error300.com/"
 }
 "config"
@@ -239,15 +244,6 @@
 				"download" "126647344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "847A080E42639D402A70693012224D05"
-				"size" "D13BEEA84BC97B2D8F61C03FC0582C8D"
-				"download" "F959BF3E752652AA350271BE58BD0192"
-			}
-		}
 	}
 	"2445702"
 	{
@@ -288,13 +284,8 @@
 			"buildid" "15995224"
 			"timeupdated" "1728567392"
 		}
-		"beta"
-		{
-			"buildid" "15894035"
-			"pwdrequired" "1"
-			"timeupdated" "1727815828"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -315,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25648487"
-"_sha" "d27dca3a2d513adb1df546e43e0e1f94a4ce1d68"
-"_size" "5099"
+"_change_number" "27095391"
+"_sha" "67736315a725635f004117314973c20ed9af5d52"
+"_size" "4882"
