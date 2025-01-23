@@ -31,8 +31,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1730505600"
-		"tested_build_id" "15429716"
+		"test_timestamp" "1733443200"
+		"tested_build_id" "16577299"
 		"tests"
 		{
 			"0"
@@ -265,7 +265,7 @@
 		"19" "4975"
 	}
 	"review_score" "5"
-	"review_percentage" "53"
+	"review_percentage" "55"
 }
 "extended"
 {
@@ -310,72 +310,15 @@
 		{
 			"public"
 			{
-				"gid" "2907760134546151068"
-				"size" "13264965418"
-				"download" "11318696544"
+				"gid" "7639960796667238688"
+				"size" "13265308788"
+				"download" "11318906608"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"dbb_dailies"
+			"english_only"
 			{
-				"gid" "5F77FC64766ABB707063E95F1BDA9707"
-				"size" "83A7A62D440B999EA77B4F5C4FF2E106"
-				"download" "B930E7CC04039BE7F1C409CD78CEBE5A"
-			}
-			"dbb_media"
-			{
-				"gid" "4A94F600A102E8FF84E6FA3588F19AC6"
-				"size" "1F87D7D2D3FDCA6C5BEE00710185048D"
-				"download" "1E11AB42E66F0CC3AA9A2ACF49CB4271"
-			}
-			"development"
-			{
-				"gid" "335DB8CC0087F73ADB23EA2A2CAC61A9"
-				"size" "86C478EC08411AB6C82AE0FBD2A77996"
-				"download" "21EA582D09B48402E6D549D64363F08C"
-			}
-			"localisation"
-			{
-				"gid" "9CE534F93861A3B633380FD25F21BDB7"
-				"size" "4A660CE8CE0BE8CAC8B62F928E5AA3FF"
-				"download" "A488273CBCF990741FC38CDFBD164B4A"
-			}
-			"marketing"
-			{
-				"gid" "F015538545DF36EF0A582448AF8B9E7B"
-				"size" "E98B261A5732BDC757F1ECF62323273E"
-				"download" "5CAE52E067B25D414FFE8103F4893D01"
-			}
-			"brokenroads_playtests"
-			{
-				"gid" "D2BF6125107EA7ED2EB9BD1631766AD8"
-				"size" "067771B6C7EA193CD12023F88F49DBD9"
-				"download" "B60468E3747DC15C018AE4C9A0071B0F"
-			}
-			"dbb_internal_qa"
-			{
-				"gid" "07C4A97BAB2AD9CCCEE51B184D5FC406"
-				"size" "C99570CD0E42CA683DD928FC0EF3A978"
-				"download" "33CF98E2C7DAA277BF35E4AD78356426"
-			}
-			"english_updates"
-			{
-				"gid" "5CD4B1D17A543CD706D09DA87E2D527C"
-				"size" "7E69FB770479AE0A552BEEDC25E4BB70"
-				"download" "03C66AD4C0547B05E5B03A55963DD608"
-			}
-			"qa_builds"
-			{
-				"gid" "B841437F48B9E4CBC517295E6F4C1767"
-				"size" "BE18CE3F3753752E4DCFE9EBC83F0894"
-				"download" "747404A8748166144D08FFBF0668AC62"
-			}
-			"qa_pt_builds"
-			{
-				"gid" "EC87542029E0442E59ADFBFB7CD54DC7"
-				"size" "E661F27F4268EDCCBA98E090CDA8E159"
-				"download" "301A46DC3935B85BB9F300679746C173"
+				"gid" "8322615630178695960"
+				"size" "13265003194"
+				"download" "11318715008"
 			}
 		}
 	}
@@ -384,70 +327,17 @@
 	{
 		"public"
 		{
-			"buildid" "16577299"
-			"timeupdated" "1732916284"
+			"buildid" "16684910"
+			"timeupdated" "1733865269"
 		}
-		"dbb_dailies"
+		"english_only"
 		{
-			"buildid" "11542208"
-			"pwdrequired" "1"
-			"timeupdated" "1687504949"
-		}
-		"dbb_media"
-		{
-			"buildid" "9345244"
-			"pwdrequired" "1"
-			"timeupdated" "1664342802"
-		}
-		"development"
-		{
-			"buildid" "14081146"
-			"pwdrequired" "1"
-			"timeupdated" "1713348486"
-		}
-		"localisation"
-		{
-			"buildid" "13390043"
-			"pwdrequired" "1"
-			"timeupdated" "1707339219"
-		}
-		"marketing"
-		{
-			"buildid" "7472980"
-			"pwdrequired" "1"
-			"timeupdated" "1633521717"
-		}
-		"brokenroads_playtests"
-		{
-			"buildid" "16577299"
-			"pwdrequired" "1"
-			"timeupdated" "1732916203"
-		}
-		"dbb_internal_qa"
-		{
-			"buildid" "16577299"
-			"pwdrequired" "1"
-			"timeupdated" "1732876473"
-		}
-		"english_updates"
-		{
-			"buildid" "16577299"
-			"pwdrequired" "1"
-			"timeupdated" "1732916228"
-		}
-		"qa_builds"
-		{
-			"buildid" "16577299"
-			"pwdrequired" "1"
-			"timeupdated" "1732916218"
-		}
-		"qa_pt_builds"
-		{
-			"buildid" "16577299"
-			"pwdrequired" "1"
-			"timeupdated" "1732916239"
+			"buildid" "17007274"
+			"description" "Patches and improvements in English only"
+			"timeupdated" "1736906028"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -455,6 +345,6 @@
 	"maxnumfiles" "202"
 }
 "_missing_token" "False"
-"_change_number" "26428970"
-"_sha" "a2142f7717451d6fd745ed060a01715740939a7b"
-"_size" "8733"
+"_change_number" "27087542"
+"_sha" "1046444e0079510be7aa2257308e12a2d993e2d0"
+"_size" "6119"
