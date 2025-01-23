@@ -83,7 +83,49 @@
 			"height_pct" "84.94259329229016"
 		}
 	}
-	"store_asset_mtime" "1707822360"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "66.89489716701675"
+				"height_pct" "84.94259329229016"
+			}
+		}
+	}
+	"store_asset_mtime" "1736188786"
 	"associations"
 	{
 		"0"
@@ -173,6 +215,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1710176485"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/1191660/discussions/0/7204142836191455518/"
@@ -243,24 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "390442129357323249"
-				"size" "208787057"
-				"download" "91574992"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"jandusoft"
-			{
-				"gid" "88785B2223FF6C57768D6BEB82076E54"
-				"size" "A4B2E095A82EB0AB899FD72686552A5D"
-				"download" "286823F973513CBF9D594944A8CD8695"
-			}
-			"playtest"
-			{
-				"gid" "99C2260A5BEF67D87840C339A3ADE6A1"
-				"size" "07C96A5DFBA54F20142E8ECBD59D662E"
-				"download" "3765DF3325C4EC9BFAA2085D7D9DBC52"
+				"gid" "9060334524684061516"
+				"size" "174045377"
+				"download" "93443584"
 			}
 		}
 	}
@@ -268,22 +300,11 @@
 	{
 		"public"
 		{
-			"buildid" "13781764"
-			"timeupdated" "1710822923"
-		}
-		"jandusoft"
-		{
-			"buildid" "13519379"
-			"pwdrequired" "1"
-			"timeupdated" "1708519361"
-		}
-		"playtest"
-		{
-			"buildid" "13781764"
-			"pwdrequired" "1"
-			"timeupdated" "1710822794"
+			"buildid" "16981866"
+			"timeupdated" "1736719352"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -303,3 +324,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27002089"
+"_sha" "3ca820213ed9d67434d8b024d508e18ee87ab8fa"
+"_size" "5736"
