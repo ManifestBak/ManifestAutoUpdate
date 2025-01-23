@@ -166,6 +166,8 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -247,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "2072035483834825935"
-				"size" "1542115346"
-				"download" "254974480"
+				"gid" "5491325049968805532"
+				"size" "1542118962"
+				"download" "254976432"
 			}
 		}
 	}
@@ -263,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "1913181624804068979"
-				"size" "1539859747"
-				"download" "252763072"
+				"gid" "7100678060774685840"
+				"size" "1539863363"
+				"download" "252765552"
 			}
 		}
 	}
@@ -273,12 +275,44 @@
 	{
 		"public"
 		{
-			"buildid" "16703918"
-			"timeupdated" "1733899669"
+			"buildid" "17091862"
+			"timeupdated" "1737552877"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PinkTea/EC1"
+			"pattern" "*.json"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "PinkTea/EC1"
+					"replace" ".config/unity3d/PinkTea/EC1"
+				}
+			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26897186"
-"_sha" "c0c80c2c1084e6d7ff536f4d180689626880d429"
-"_size" "4656"
+"_change_number" "27112637"
+"_sha" "9afc7cce21dbfeefe7fb8da12feca47b7a16c465"
+"_size" "5156"
