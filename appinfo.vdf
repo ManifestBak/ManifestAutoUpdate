@@ -11,6 +11,7 @@
 	"icon" "8039ab06dba07aa7f34b5efad13cbfdbcd52bfa0"
 	"logo" "16e4cbb2a1f6aae8b77189bb1bcdad58b91a7d9d"
 	"logo_small" "16e4cbb2a1f6aae8b77189bb1bcdad58b91a7d9d_thumb"
+	"restricted_countries" "DE"
 	"metacritic_name" "Flying Bacon"
 	"small_capsule"
 	{
@@ -20,6 +21,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_92b42e22574d973794bfc01907990e2dfeeed515.jpg"
 	"store_asset_mtime" "1516173531"
 	"associations"
 	{
@@ -45,6 +47,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -80,7 +83,7 @@
 		"3" "1719"
 	}
 	"review_score" "5"
-	"review_percentage" "56"
+	"review_percentage" "57"
 }
 "extended"
 {
@@ -138,6 +141,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22331319"
-"_sha" "82f545de811ff8dbb44e2abad7449f658585438e"
-"_size" "2266"
+"_change_number" "26253459"
+"_sha" "42a00c5ae6da81ec8ca78981ed5ee3da1b9cc9d4"
+"_size" "2391"
