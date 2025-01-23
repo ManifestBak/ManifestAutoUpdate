@@ -5,8 +5,8 @@
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "d3ea57c0885b7753ff892a0ff9c81917815a840e"
-	"clienttga" "f84b5abb23e893c0f6fd137007238a565628bd62"
-	"clienticon" "c8c1531ec14aec7d643bed69cf0fd2eea1ba9b01"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "4712dae60e8b9d578262368c99f43d0e075cebc0"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
@@ -33,7 +33,52 @@
 			"height_pct" "164.23611111111111"
 		}
 	}
-	"store_asset_mtime" "1719401015"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "164.23611111111111"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727943535"
 	"associations"
 	{
 		"0"
@@ -191,9 +236,9 @@
 		{
 			"public"
 			{
-				"gid" "4192395593294601350"
-				"size" "203862285"
-				"download" "89954096"
+				"gid" "7629615674078155501"
+				"size" "213595067"
+				"download" "91946512"
 			}
 		}
 	}
@@ -202,8 +247,12 @@
 	{
 		"public"
 		{
-			"buildid" "15303370"
-			"timeupdated" "1723115340"
+			"buildid" "16551464"
+			"timeupdated" "1732707054"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26384385"
+"_sha" "fdf4a3c3f4e3b555627b6b29ff3e5552caee0c65"
+"_size" "3999"
