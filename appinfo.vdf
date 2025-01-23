@@ -38,11 +38,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "c4a9380375e3d68a298e756967edfa5dbf7fd019/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "c4a9380375e3d68a298e756967edfa5dbf7fd019/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -77,11 +77,11 @@
 		{
 			"image"
 			{
-				"english" "library_header.png"
+				"english" "library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1723318245"
+	"store_asset_mtime" "1732253513"
 	"associations"
 	{
 		"0"
@@ -155,7 +155,7 @@
 		"19" "8122"
 	}
 	"review_score" "7"
-	"review_percentage" "100"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -191,24 +191,15 @@
 		{
 			"public"
 			{
-				"gid" "1252458821826585435"
-				"size" "92274538"
-				"download" "30939360"
+				"gid" "7869459337619485003"
+				"size" "129154950"
+				"download" "39525184"
 			}
 			"testingbranch"
 			{
-				"gid" "8683014830524741255"
-				"size" "118799152"
-				"download" "38267376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"parkourlegacy"
-			{
-				"gid" "A3F8B4D74D9010790758529C4571318E"
-				"size" "C642B22E2DD58A775B171CEC53ADAB6D"
-				"download" "BE89A9C82CDE818AC1E35B262B2E6BAB"
+				"gid" "7141734169554381520"
+				"size" "123976265"
+				"download" "40628160"
 			}
 		}
 	}
@@ -217,22 +208,17 @@
 	{
 		"public"
 		{
-			"buildid" "15623594"
-			"timeupdated" "1725683260"
-		}
-		"parkourlegacy"
-		{
-			"buildid" "14188921"
-			"pwdrequired" "1"
-			"timeupdated" "1714153097"
+			"buildid" "16871438"
+			"timeupdated" "1735503695"
 		}
 		"testingbranch"
 		{
-			"buildid" "15732914"
+			"buildid" "17052911"
 			"description" "Testing Branch"
-			"timeupdated" "1726598868"
+			"timeupdated" "1737242012"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -263,3 +249,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27059612"
+"_sha" "e08a123e91a8bb235461674249b8e2d688114fdc"
+"_size" "4066"
