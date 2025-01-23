@@ -93,7 +93,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1703286073"
+	"store_asset_mtime" "1737563194"
 	"associations"
 	{
 		"0"
@@ -117,7 +117,6 @@
 	{
 		"0" "23"
 		"1" "3"
-		"2" "70"
 	}
 	"category"
 	{
@@ -125,6 +124,7 @@
 		"category_23" "1"
 		"category_25" "1"
 		"category_22" "1"
+		"category_15" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -155,8 +155,44 @@
 		{
 			"supported" "true"
 		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
-	"steam_release_date" "1651165222"
+	"steam_release_date" "1737536488"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1491200"
@@ -171,17 +207,17 @@
 		"6" "14139"
 		"7" "3871"
 		"8" "492"
-		"9" "493"
-		"10" "4172"
-		"11" "3959"
-		"12" "3952"
-		"13" "1684"
-		"14" "4342"
-		"15" "4604"
-		"16" "4325"
+		"9" "4172"
+		"10" "3959"
+		"11" "3952"
+		"12" "1684"
+		"13" "4342"
+		"14" "4604"
+		"15" "4325"
+		"16" "493"
 		"17" "32322"
 		"18" "4026"
-		"19" "12095"
+		"19" "11333"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -218,15 +254,15 @@
 		{
 			"public"
 			{
-				"gid" "4777242718095379219"
-				"size" "1758805383"
-				"download" "1475265856"
+				"gid" "7609921336886278021"
+				"size" "1774000646"
+				"download" "1483684288"
 			}
 			"beta"
 			{
-				"gid" "4662382813093867612"
-				"size" "3769075866"
-				"download" "1403110656"
+				"gid" "7609921336886278021"
+				"size" "1774000646"
+				"download" "1483684288"
 			}
 		}
 	}
@@ -234,14 +270,14 @@
 	{
 		"public"
 		{
-			"buildid" "13138901"
-			"timeupdated" "1704909423"
+			"buildid" "16165233"
+			"timeupdated" "1729779254"
 		}
 		"beta"
 		{
-			"buildid" "13349232"
+			"buildid" "16165233"
 			"description" "Beta"
-			"timeupdated" "1706889297"
+			"timeupdated" "1729779305"
 		}
 	}
 }
@@ -263,3 +299,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27115256"
+"_sha" "f94496b73fe78faef96107476aca0e84c3a4d304"
+"_size" "4843"
