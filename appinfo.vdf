@@ -98,7 +98,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727796580"
+	"store_asset_mtime" "1735443768"
 	"associations"
 	{
 		"0"
@@ -109,16 +109,15 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" " RedForge"
+			"name" "RedForge"
 		}
 	}
-	"primary_genre" "70"
+	"primary_genre" "1"
 	"genres"
 	{
 		"0" "1"
 		"1" "25"
 		"2" "4"
-		"3" "70"
 	}
 	"category"
 	{
@@ -196,7 +195,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1718738321"
+	"steam_release_date" "1737334095"
 	"community_hub_visible" "1"
 	"gameid" "2708790"
 	"store_tags"
@@ -223,12 +222,12 @@
 		"19" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "65"
 }
 "extended"
 {
 	"developer" "RedForge"
-	"publisher" " RedForge"
+	"publisher" "RedForge"
 }
 "config"
 {
@@ -237,7 +236,7 @@
 	{
 		"0"
 		{
-			"executable" "Together After Dark\\TogetherAfterDark.exe"
+			"executable" "Together After Dark/TogetherAfterDark.exe"
 			"type" "default"
 		}
 	}
@@ -245,6 +244,42 @@
 }
 "depots"
 {
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"2708791"
 	{
 		"config"
@@ -255,24 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "3908917182644175478"
-				"size" "7404116454"
-				"download" "3488678768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fullsave"
-			{
-				"gid" "B574662FBC6E10C1BCE1B0B870E111EC"
-				"size" "83D5169FD5CD396F2BC9C9AF5E0F24C2"
-				"download" "214DDF71444DC51FFC06BF9615192E74"
-			}
-			"publictest"
-			{
-				"gid" "29A88D210C93F1F7B327E19F1DF4432A"
-				"size" "61AF33A666A727B8A7874C3C32E38EB7"
-				"download" "D69BD00C52A24ED316FB61274ACE4E88"
+				"gid" "2804315888530111652"
+				"size" "10826679172"
+				"download" "5022382576"
 			}
 		}
 	}
@@ -280,24 +300,13 @@
 	{
 		"public"
 		{
-			"buildid" "16108552"
-			"timeupdated" "1729364554"
-		}
-		"fullsave"
-		{
-			"buildid" "15706922"
-			"pwdrequired" "1"
-			"timeupdated" "1726402320"
-		}
-		"publictest"
-		{
-			"buildid" "16110712"
-			"pwdrequired" "1"
-			"timeupdated" "1729390515"
+			"buildid" "17087096"
+			"timeupdated" "1737524420"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25804657"
-"_sha" "b64df84116926026a2ce789217095af7d630b25b"
-"_size" "4701"
+"_change_number" "27106465"
+"_sha" "4d2b62a7bea4715fc485a70824202b1a2ae020cb"
+"_size" "4582"
