@@ -11,6 +11,7 @@
 	"oslist" "windows"
 	"osarch" ""
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Rock \'N Roll"
 	"controller_support" "partial"
 	"small_capsule"
@@ -25,6 +26,28 @@
 	{
 		"library_capsule" "en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_fb6de9b2af72d26f2c96150e50a0b469f4fc3478.jpg"
 	"store_asset_mtime" "1577907880"
 	"associations"
 	{
@@ -118,36 +141,9 @@
 		{
 			"public"
 			{
-				"gid" "2034127679350232337"
-				"size" "274722210"
-				"download" "219268848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"day3classic"
-			{
-				"gid" "729ED9858F3D27E5CB103125DBD07BA8"
-				"size" "8600FC36241780E546C6FCF39EC971B9"
-				"download" "DA5FEA36E7DF0F624FA27C73957C1209"
-			}
-			"eajuly2017"
-			{
-				"gid" "F45D7116D28573B1864D26A2A714781A"
-				"size" "4AF31F34A9892E9D41D6ED49C7B1E5B5"
-				"download" "BD54985A385E139081B78576585B6A16"
-			}
-			"gold_heart"
-			{
-				"gid" "5C4D650620229D619EE60B54E3FC1FCD"
-				"size" "7B3588684CD621FB3DB2DB1E5DE0D628"
-				"download" "C6A099B45E8D05999105AF86AF50BBD4"
-			}
-			"test_build"
-			{
-				"gid" "591D493FB04A4E6D409C4F6A0309BE37"
-				"size" "AB8A1D1B757A0B00F2F693DE8DCE913A"
-				"download" "6A778E91AF9AE6F019D3CBF22C22399C"
+				"gid" "92708859181539549"
+				"size" "310178862"
+				"download" "249839344"
 			}
 		}
 	}
@@ -155,32 +151,13 @@
 	{
 		"public"
 		{
-			"buildid" "10959755"
-			"timeupdated" "1680931058"
-		}
-		"day3classic"
-		{
-			"buildid" "2441588"
-			"pwdrequired" "1"
-			"timeupdated" "1516118007"
-		}
-		"eajuly2017"
-		{
-			"buildid" "1984387"
-			"pwdrequired" "1"
-			"timeupdated" "1581367456"
-		}
-		"gold_heart"
-		{
-			"buildid" "10959755"
-			"pwdrequired" "1"
-			"timeupdated" "1680931042"
-		}
-		"test_build"
-		{
-			"buildid" "10959755"
-			"pwdrequired" "1"
-			"timeupdated" "1680931050"
+			"buildid" "16943832"
+			"timeupdated" "1736369442"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "22d6b9f1503b58cddf7daa2de06dea2cdf4db65c"
+"_size" "2709"
