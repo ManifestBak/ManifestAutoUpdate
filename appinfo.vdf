@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727127706"
+	"store_asset_mtime" "1737391398"
 	"associations"
 	{
 		"0"
@@ -132,6 +132,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_17" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -168,6 +169,7 @@
 	"steam_release_date" "1727186400"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1836730/announcements/detail/4706913871782495946\?snr=2___"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1836730"
 	"store_tags"
@@ -185,10 +187,10 @@
 		"10" "1732"
 		"11" "5363"
 		"12" "4166"
-		"13" "1684"
-		"14" "3916"
-		"15" "1685"
-		"16" "4036"
+		"13" "4036"
+		"14" "1685"
+		"15" "1684"
+		"16" "3916"
 		"17" "4508"
 		"18" "1654"
 		"19" "4004"
@@ -318,95 +320,22 @@
 		{
 			"public"
 			{
-				"gid" "4677653172036613303"
-				"size" "3139744404"
-				"download" "2831436064"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "B5B973BF9523265BB2750499914B9BCD"
-				"size" "1C47BBDB8370C39547A32FD293DE3A3E"
-				"download" "8742662D99630AA7DB13688E05F3C961"
-			}
-			"internalshipping"
-			{
-				"gid" "69AE1FE01145E38858FEF53ABC5254F7"
-				"size" "E6DC8243FFE16939EDBA1BE67996BFD3"
-				"download" "97EA5E07AB0FA83755E53FA05D1D03AC"
-			}
-			"kudos3"
-			{
-				"gid" "6CF6856F8799298ABE0F6713B2CAACF0"
-				"size" "07C77578B04926F9638A8710EA093CA6"
-				"download" "03C4E0E2DAA5C1EB36C58032426078A6"
-			}
-			"kudosqa"
-			{
-				"gid" "DF8E5702C197484DE8DEA643B3F19C59"
-				"size" "6129088D3505E802FE5C564404ECC390"
-				"download" "342393B6DA58FCCB821DBCC95E83F48B"
-			}
-			"kudosqa2"
-			{
-				"gid" "DF8EB4454E732AD88FD06ACE55BFD067"
-				"size" "14F74BE56720DC98FC6235199A674175"
-				"download" "FAF9823512DD9A7758DC3169EEDED62C"
-			}
-			"trailer"
-			{
-				"gid" "E7629E6A39C7706F0A16B5ECACBDD557"
-				"size" "A59748FC3AEA0E096439006DB5183A9B"
-				"download" "C95859495092592B44B202F64EF14ECD"
+				"gid" "8783817782121446570"
+				"size" "3059911883"
+				"download" "2832519088"
 			}
 		}
 	}
+	"workshopdepot" "1836730"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15881564"
-			"timeupdated" "1727736492"
-		}
-		"internal"
-		{
-			"buildid" "15737330"
-			"pwdrequired" "1"
-			"timeupdated" "1726631815"
-		}
-		"internalshipping"
-		{
-			"buildid" "15827998"
-			"pwdrequired" "1"
-			"timeupdated" "1727297736"
-		}
-		"kudos3"
-		{
-			"buildid" "15790569"
-			"pwdrequired" "1"
-			"timeupdated" "1727067768"
-		}
-		"kudosqa"
-		{
-			"buildid" "15751467"
-			"pwdrequired" "1"
-			"timeupdated" "1726719402"
-		}
-		"kudosqa2"
-		{
-			"buildid" "15764416"
-			"pwdrequired" "1"
-			"timeupdated" "1726794992"
-		}
-		"trailer"
-		{
-			"buildid" "15782616"
-			"pwdrequired" "1"
-			"timeupdated" "1726946530"
+			"buildid" "17085997"
+			"timeupdated" "1737557404"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -422,3 +351,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27113596"
+"_sha" "d2d0d6c4210bdb17f82feb8181bb2beab48e1715"
+"_size" "5778"
