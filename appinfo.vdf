@@ -32,18 +32,52 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
 	"store_asset_mtime" "1620945335"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "DIG Publishing"
+			"name" "EGC Games"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "DIG Publishing"
+			"name" "EGC Games"
 		}
 	}
 	"primary_genre" "4"
@@ -80,12 +114,12 @@
 		"5" "492"
 	}
 	"review_score" "4"
-	"review_percentage" "37"
+	"review_percentage" "38"
 }
 "extended"
 {
-	"developer" "DIG Publishing"
-	"publisher" "DIG Publishing"
+	"developer" "EGC Games"
+	"publisher" "EGC Games"
 	"homepage" "http://www.exosyphen.com"
 	"listofdlc" "1650940"
 	"dlcavailableonstore" "1"
@@ -196,3 +230,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27021991"
+"_sha" "06c9e92c128d117ff20298e91080d1ab66ad4b48"
+"_size" "3516"
