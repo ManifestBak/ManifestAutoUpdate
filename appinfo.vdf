@@ -98,7 +98,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Ash & Adam\'s Games"
+			"name" "Ash &amp; Adam\'s Games"
 		}
 	}
 	"primary_genre" "1"
@@ -178,12 +178,12 @@
 		"19" "4136"
 	}
 	"review_score" "7"
-	"review_percentage" "95"
+	"review_percentage" "93"
 }
 "extended"
 {
 	"developer" "Ash &amp; Adam\'s Games"
-	"publisher" "Ash & Adam\'s Games"
+	"publisher" "Ash &amp; Adam\'s Games"
 }
 "config"
 {
@@ -223,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "3785345898608493371"
-				"size" "1012014586"
-				"download" "447767696"
+				"gid" "2716066010426373421"
+				"size" "1012391530"
+				"download" "447778448"
 			}
 		}
 	}
@@ -239,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "681078213176840268"
-				"size" "1038088301"
-				"download" "455554048"
+				"gid" "42455222272880680"
+				"size" "1038465453"
+				"download" "455567376"
 			}
 		}
 	}
@@ -249,8 +249,8 @@
 	{
 		"public"
 		{
-			"buildid" "16122219"
-			"timeupdated" "1729514347"
+			"buildid" "16377429"
+			"timeupdated" "1731409648"
 		}
 	}
 }
@@ -302,6 +302,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25857680"
-"_sha" "cc1590c31000431b868c91643498131fd337375c"
-"_size" "4701"
+"_change_number" "26286974"
+"_sha" "9cb5e90f05cd7f54c9df1c3e3b7ad42630a634c0"
+"_size" "4708"
