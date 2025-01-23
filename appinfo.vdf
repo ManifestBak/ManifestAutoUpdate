@@ -7,9 +7,9 @@
 	"oslist" "windows,macos,linux"
 	"logo" "825df4d0c811782ef98fc0fa4ac0352b231d346f"
 	"logo_small" "825df4d0c811782ef98fc0fa4ac0352b231d346f_thumb"
-	"icon" "c0e38c3bd23d160a03cfae9bb3538cda1b0ed0ac"
-	"clienttga" "a9e3ec386f4e6877465f41c5fb5ab52c27f15e10"
-	"clienticon" "714179ff5b550eb9bac14318e0df150fe1555527"
+	"icon" "65b267e3dc23cd7cd2cb247bdb4dd1c80f65c102"
+	"clienttga" "37aa36e962fbde88113352c8ec2b1ad34d60e3ed"
+	"clienticon" "8f6e9a74604ce0ee20d0a46b219c74c716338038"
 	"osarch" ""
 	"osextended" "macos64,macosnotarized"
 	"metacritic_name" "Driftmoon"
@@ -145,7 +145,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -204,9 +204,9 @@
 		{
 			"public"
 			{
-				"gid" "6190861823302583314"
-				"size" "265560990"
-				"download" "180838656"
+				"gid" "7252459361273673201"
+				"size" "295738920"
+				"download" "190359184"
 			}
 			"vanilladriftmoon"
 			{
@@ -244,18 +244,19 @@
 		{
 			"public"
 			{
-				"gid" "7029149123931262915"
-				"size" "291527420"
-				"download" "177932704"
+				"gid" "2349003442045410988"
+				"size" "264470034"
+				"download" "185668080"
 			}
 		}
 	}
+	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "7277514"
-			"timeupdated" "1630393504"
+			"buildid" "16217226"
+			"timeupdated" "1730185670"
 		}
 		"vanilladriftmoon"
 		{
@@ -264,3 +265,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26727902"
+"_sha" "6c8630a24cf13a42fd6a07b82d31bec597d82550"
+"_size" "4287"
