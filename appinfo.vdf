@@ -70,6 +70,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "UpperCenter"
@@ -118,8 +119,19 @@
 				"english" "logo_2x.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "649db440a8bc5e4e1dcc3898e3835fbdf8e4041e/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "649db440a8bc5e4e1dcc3898e3835fbdf8e4041e/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1701301680"
+	"store_asset_mtime" "1737022083"
 	"associations"
 	{
 		"0"
@@ -164,8 +176,8 @@
 	{
 		"0" "492"
 		"1" "122"
-		"2" "493"
-		"3" "1662"
+		"2" "1662"
+		"3" "493"
 		"4" "17305"
 		"5" "10235"
 		"6" "12472"
@@ -177,14 +189,14 @@
 		"12" "1695"
 		"13" "8369"
 		"14" "7481"
-		"15" "5094"
-		"16" "1667"
-		"17" "4182"
+		"15" "4182"
+		"16" "5094"
+		"17" "1667"
 		"18" "8945"
 		"19" "4191"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -229,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "3122460434942612897"
-				"size" "5317918979"
-				"download" "1566061504"
+				"gid" "7074761329935791355"
+				"size" "7648294072"
+				"download" "2296824496"
 			}
 			"0.3.22"
 			{
@@ -251,32 +263,23 @@
 				"size" "5133731054"
 				"download" "1478040592"
 			}
-			"playtestingpublic"
-			{
-				"gid" "3122460434942612897"
-				"size" "5317918979"
-				"download" "1566061504"
-			}
 			"prototype"
 			{
 				"gid" "471949303396532207"
 				"size" "2562089762"
 				"download" "679412912"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
+			"0.3.38"
 			{
-				"gid" "4D3143CD21BC8B2E4123C1E2BAC06E90"
-				"size" "AFDC6ED09B3E62AAA19833D8961D3A91"
-				"download" "BAAE8AD618750F10CDDD564C2F156236"
+				"gid" "3122460434942612897"
+				"size" "5317918979"
+				"download" "1566061504"
 			}
-			"playtesting"
+			"playtestingpublic"
 			{
-				"gid" "2DA14F2F17F1F643D61D8BD7B4953F62"
-				"size" "EBBDF81640F47FED43DA8A995F5C110B"
-				"download" "6C9DA1C9520582F69620AE2D3D42F6B8"
+				"gid" "7074761329935791355"
+				"size" "7648294072"
+				"download" "2296824496"
 			}
 		}
 	}
@@ -284,8 +287,8 @@
 	{
 		"public"
 		{
-			"buildid" "13809752"
-			"timeupdated" "1711024168"
+			"buildid" "17080586"
+			"timeupdated" "1737547631"
 		}
 		"0.3.22"
 		{
@@ -305,29 +308,43 @@
 			"description" "V. 0.3.33"
 			"timeupdated" "1709284209"
 		}
-		"playtestingpublic"
-		{
-			"buildid" "13809752"
-			"description" "Public testing branch"
-			"timeupdated" "1711024082"
-		}
 		"prototype"
 		{
 			"buildid" "3946833"
 			"description" "The old prototype"
 			"timeupdated" "1698766768"
 		}
-		"development"
+		"0.3.38"
 		{
-			"buildid" "15542768"
-			"pwdrequired" "1"
-			"timeupdated" "1725010869"
+			"buildid" "13809752"
+			"description" "v. 0.3.38"
+			"timeupdated" "1735662621"
 		}
-		"playtesting"
+		"playtestingpublic"
 		{
-			"buildid" "15542768"
-			"pwdrequired" "1"
-			"timeupdated" "1725011653"
+			"buildid" "17080586"
+			"description" "Public testing branch"
+			"timeupdated" "1737480286"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Loiste Interactive/Obenseuer/Saves"
+			"pattern" "*"
+			"recursive" "1"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27122896"
+"_sha" "73681431141d8f1a836fc6902b6cbac7da3624d1"
+"_size" "6305"
