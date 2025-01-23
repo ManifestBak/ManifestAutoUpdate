@@ -78,6 +78,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -126,8 +127,19 @@
 				"height_pct" "19.79166666666667"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "06d96a5c5c3f0fcae4f9343405baff030a9549ce/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "06d96a5c5c3f0fcae4f9343405baff030a9549ce/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1720094165"
+	"store_asset_mtime" "1731612133"
 	"associations"
 	{
 		"0"
@@ -143,12 +155,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "PAKO Franchise"
-		}
-		"3"
-		{
-			"type" "franchise"
-			"name" "PAKO/TreeMenGames"
+			"name" "PAKO"
 		}
 	}
 	"primary_genre" "1"
@@ -262,15 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "5379337376728476715"
-				"size" "655766419"
-				"download" "196742832"
+				"gid" "5032980958579814043"
+				"size" "655896813"
+				"download" "196803824"
 			}
 			"latest"
 			{
-				"gid" "5379337376728476715"
-				"size" "655766419"
-				"download" "196742832"
+				"gid" "5336327115708550177"
+				"size" "655897366"
+				"download" "196804208"
 			}
 			"old_build"
 			{
@@ -290,15 +297,15 @@
 		{
 			"public"
 			{
-				"gid" "1843781290135197749"
-				"size" "680338425"
-				"download" "204233728"
+				"gid" "8742090178929089184"
+				"size" "680468948"
+				"download" "204297008"
 			}
 			"latest"
 			{
-				"gid" "1843781290135197749"
-				"size" "680338425"
-				"download" "204233728"
+				"gid" "8742090178929089184"
+				"size" "680468948"
+				"download" "204297008"
 			}
 			"old_build"
 			{
@@ -374,15 +381,15 @@
 		{
 			"public"
 			{
-				"gid" "6675711893726885034"
-				"size" "660727051"
-				"download" "197949376"
+				"gid" "2526616707035684981"
+				"size" "660857478"
+				"download" "198012048"
 			}
 			"latest"
 			{
-				"gid" "6675711893726885034"
-				"size" "660727051"
-				"download" "197949376"
+				"gid" "7276682630491873868"
+				"size" "660858006"
+				"download" "198011536"
 			}
 			"old_build"
 			{
@@ -396,19 +403,19 @@
 	{
 		"public"
 		{
-			"buildid" "14998151"
-			"timeupdated" "1720684247"
+			"buildid" "16612785"
+			"timeupdated" "1733220647"
 		}
 		"latest"
 		{
-			"buildid" "14998151"
+			"buildid" "16925856"
 			"description" "Latest build. Minimally tested."
-			"timeupdated" "1720683419"
+			"timeupdated" "1736239309"
 		}
 		"old_build"
 		{
 			"buildid" "14275782"
-			"description" "Old build for Windows"
+			"description" "Old build from 2018. (last build before 2024 update)"
 			"timeupdated" "1714983061"
 		}
 	}
@@ -460,3 +467,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26888989"
+"_sha" "6f6faeb2cf58076c2e75833d47abe6a7f7de0b90"
+"_size" "8133"
