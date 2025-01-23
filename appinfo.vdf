@@ -324,21 +324,8 @@
 {
 	"quota" "1000000"
 	"maxnumfiles" "10"
-	"savefiles"
-	{
-		"0"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "FishSoft/Penguin Heist"
-			"pattern" "*.sav"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
-	}
 }
 "_missing_token" "False"
-"_change_number" "26350722"
-"_sha" "50aa9e6a2a35b8a2c40488d75f95e6a7959b60d0"
-"_size" "5841"
+"_change_number" "26850316"
+"_sha" "05219cf757d5e58765059afd0e0700b20f7a3d96"
+"_size" "5661"
