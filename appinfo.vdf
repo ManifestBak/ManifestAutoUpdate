@@ -76,7 +76,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1712595731"
+	"store_asset_mtime" "1732693747"
 	"associations"
 	{
 		"0"
@@ -166,6 +166,7 @@
 		}
 	}
 	"steam_release_date" "1623182466"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/1309820/announcements/detail/4472731215261073613"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1309820"
@@ -221,18 +222,9 @@
 		{
 			"public"
 			{
-				"gid" "4013802311856288891"
-				"size" "613899625"
-				"download" "309224160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developers"
-			{
-				"gid" "815ADBF6401BA8F027BB4142B7781E59"
-				"size" "E8038C92894C84BD82606E6702C4B25F"
-				"download" "03260D9E7EFE0827A0C53B87E4FE4361"
+				"gid" "7379577016672645946"
+				"size" "607380772"
+				"download" "310321216"
 			}
 		}
 	}
@@ -240,16 +232,11 @@
 	{
 		"public"
 		{
-			"buildid" "13949452"
-			"timeupdated" "1712601533"
-		}
-		"developers"
-		{
 			"buildid" "15797202"
-			"pwdrequired" "1"
-			"timeupdated" "1727108228"
+			"timeupdated" "1728416125"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -265,3 +252,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26957106"
+"_sha" "ce6909bc32a07fde5104ead8d5b706c71dd70bc6"
+"_size" "4168"
