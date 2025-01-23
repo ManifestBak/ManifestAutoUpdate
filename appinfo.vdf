@@ -90,7 +90,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721058165"
+	"store_asset_mtime" "1731460823"
 	"associations"
 	{
 		"0"
@@ -101,12 +101,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "indie.io"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "indie.io"
+			"name" "Reija"
 		}
 	}
 	"primary_genre" "1"
@@ -163,12 +158,12 @@
 		"19" "4295"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "59"
 }
 "extended"
 {
 	"developer" "Reija"
-	"publisher" "indie.io"
+	"publisher" "Reija"
 }
 "config"
 {
@@ -185,6 +180,9 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65527"
 }
 "depots"
 {
@@ -212,24 +210,9 @@
 		{
 			"public"
 			{
-				"gid" "4467496848549093547"
-				"size" "2119457373"
-				"download" "1794061296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "90A0C7A0520503EDAA44EDA2DD3D6937"
-				"size" "D7C31D08A974D177E1EDB9D6BD97C959"
-				"download" "EE41C97501A5EBB11E80B4C4E5C4F578"
-			}
-			"qa_version"
-			{
-				"gid" "76892459BF89DF87ACA810BFF0D4260B"
-				"size" "F41A2EE3DACBAE9BA913CC94510F460E"
-				"download" "6ACF952BAFD91FC03C5ABD285D897AD9"
+				"gid" "2052276983860264844"
+				"size" "2207002857"
+				"download" "1881417760"
 			}
 		}
 	}
@@ -237,20 +220,13 @@
 	{
 		"public"
 		{
-			"buildid" "15821261"
-			"timeupdated" "1728290037"
-		}
-		"developer"
-		{
-			"buildid" "15821261"
-			"pwdrequired" "1"
-			"timeupdated" "1727261965"
-		}
-		"qa_version"
-		{
-			"buildid" "15745106"
-			"pwdrequired" "1"
-			"timeupdated" "1726678255"
+			"buildid" "16525851"
+			"timeupdated" "1732550851"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27026375"
+"_sha" "7c89d84cfd17cd8f4d0a582e7615a3ce7b722f3c"
+"_size" "3585"
