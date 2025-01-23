@@ -27,10 +27,10 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
 	}
 	"library_assets"
 	{
@@ -122,7 +122,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732920532"
+	"store_asset_mtime" "1734792803"
 	"associations"
 	{
 		"0"
@@ -170,6 +170,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -317,29 +318,29 @@
 	"gameid" "1714900"
 	"store_tags"
 	{
-		"0" "19"
-		"1" "122"
-		"2" "7918"
-		"3" "21"
-		"4" "1695"
-		"5" "1662"
-		"6" "1684"
-		"7" "4182"
-		"8" "1697"
-		"9" "4106"
-		"10" "4231"
-		"11" "17305"
-		"12" "4305"
-		"13" "4191"
-		"14" "4252"
-		"15" "3859"
-		"16" "255534"
-		"17" "3835"
-		"18" "3834"
-		"19" "3854"
+		"0" "4191"
+		"1" "19"
+		"2" "1643"
+		"3" "1685"
+		"4" "10816"
+		"5" "1702"
+		"6" "7332"
+		"7" "4231"
+		"8" "1662"
+		"9" "7918"
+		"10" "3841"
+		"11" "1695"
+		"12" "1684"
+		"13" "4252"
+		"14" "7368"
+		"15" "3854"
+		"16" "6730"
+		"17" "4182"
+		"18" "4508"
+		"19" "1697"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -399,30 +400,9 @@
 		{
 			"public"
 			{
-				"gid" "6933259517165512536"
-				"size" "8655810042"
-				"download" "3929160288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "873FE6EFCDC5D07B143133D164D73B78"
-				"size" "B3D47DD6B6FC0D684335D8140B6A459A"
-				"download" "3ADE87551ABFF21A5062A5F9A4D6E4C7"
-			}
-			"internal-dev"
-			{
-				"gid" "5D6EA7A6C6F7376AF07473AB2DC45477"
-				"size" "46B1EC9DCB7ADB61D1A97B94271C799F"
-				"download" "5A7623000C0C94D719553BDA857B2E09"
-			}
-			"test"
-			{
-				"gid" "4578A3E03A843BDCBE161ACEF71AE9DF"
-				"size" "934D04CB3AE5338534D6AAC3F232D779"
-				"download" "E5C314AAD2B334E4A5419EDEC395B5A9"
+				"gid" "9114920370500725304"
+				"size" "9046365153"
+				"download" "4049600720"
 			}
 		}
 	}
@@ -430,28 +410,11 @@
 	{
 		"public"
 		{
-			"buildid" "16581417"
-			"timeupdated" "1732900820"
-		}
-		"internal"
-		{
-			"buildid" "16581417"
-			"pwdrequired" "1"
-			"timeupdated" "1732897666"
-		}
-		"internal-dev"
-		{
-			"buildid" "16164208"
-			"pwdrequired" "1"
-			"timeupdated" "1729767302"
-		}
-		"test"
-		{
-			"buildid" "15546779"
-			"pwdrequired" "1"
-			"timeupdated" "1731072741"
+			"buildid" "17068169"
+			"timeupdated" "1737398803"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -459,6 +422,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "26429553"
-"_sha" "34a677cbc7277fbeee5b282f201b1669e40a9261"
-"_size" "8572"
+"_change_number" "27081173"
+"_sha" "fb6ba80665b313b511a6f07695f9f57e09267ccb"
+"_size" "7749"
