@@ -1,7 +1,7 @@
 "appid" "3014160"
 "common"
 {
-	"name" "Fuga: Melodies of Steel (Manga)　Vol. 1"
+	"name" "Fuga: Melodies of Steel (Manga) Vol. 1"
 	"type" "DLC"
 	"parent" "1357860"
 	"releasestate" "released"
@@ -27,6 +27,7 @@
 		"english" "header.jpg"
 		"japanese" "header_japanese.jpg"
 	}
+	"store_screenshot" "ss_9e4a9b4be868aa8815e8e74e9d29ac6033ff7d20.jpg"
 	"store_asset_mtime" "1719813750"
 	"associations"
 	{
@@ -111,18 +112,9 @@
 		{
 			"public"
 			{
-				"gid" "1383016920206092768"
-				"size" "126713440"
-				"download" "128301536"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"taranis"
-			{
-				"gid" "5DA7913117E7EC1E2430D38BB8E05289"
-				"size" "AAC843E93FBC09DB1CDCB069FB6EC797"
-				"download" "FE597D75F6D0EC752CD7574ADC501524"
+				"gid" "6161364876095577268"
+				"size" "126489486"
+				"download" "128138896"
 			}
 		}
 		"dlcappid" "3014160"
@@ -135,14 +127,13 @@
 	{
 		"public"
 		{
-			"buildid" "14892241"
-			"timeupdated" "1719822452"
-		}
-		"taranis"
-		{
-			"buildid" "14892241"
-			"pwdrequired" "1"
-			"timeupdated" "1719822402"
+			"buildid" "16093108"
+			"timeupdated" "1729471358"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "9c3dad783561a7cd636ab6d7df5250f5af827ee8"
+"_size" "2378"
