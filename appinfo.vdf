@@ -11,6 +11,7 @@
 	"clienttga" "c8f3989dc97ca9225a720da34ceae26bf958d621"
 	"clienticon" "a04e2c34937c78e060b3de1083b84b5a848e0341"
 	"clienticns" "7012e5a5b79dce22b7c31c3fa07a8ca03efc6536"
+	"restricted_countries" "DE"
 	"metacritic_name" "Hektor"
 	"controller_support" "partial"
 	"small_capsule"
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_61d95b870c9044232a691a073aedfee9dbb9f67e.jpg"
 	"store_asset_mtime" "1430833355"
 	"associations"
 	{
@@ -253,3 +255,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "ad8819879a7be32a96cd459041b839630c115a3b"
+"_size" "4298"
