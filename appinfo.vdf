@@ -29,6 +29,7 @@
 		"1" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -122,6 +123,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -210,7 +214,7 @@
 		"19" "1770"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -228,9 +232,24 @@
 			"type" "default"
 		}
 	}
-	"steamcontrollertemplateindex" "4"
+	"steamcontrollertemplateindex" "1"
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "2"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollerconfigdetails"
+	{
+		"3352771667"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,press"
+			"use_action_block" "false"
+		}
+		"3407569811"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "development,experimental,iceberg"
+			"use_action_block" "false"
+		}
+	}
 }
 "depots"
 {
@@ -249,36 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "1552278241078437774"
-				"size" "10010841441"
-				"download" "4274460720"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "5BDD5C4E9CB9448FA542F99E3DC20FFD"
-				"size" "918347FA7F29712B6737E0AB4F362275"
-				"download" "7EF0EEFC01BF25DCC3BFF80A0BCD0097"
-			}
-			"experimental"
-			{
-				"gid" "CD9B8836BE8FAD6C7C13C96CDC6093C1"
-				"size" "B0E9FD1F495B5285C1FD1F6CEB2F5F4C"
-				"download" "F9A030C1C67A6E5DF73CED92A4BD4E15"
-			}
-			"iceberg"
-			{
-				"gid" "1491992C796ED7BC206B1C55967A8148"
-				"size" "43D9F62E15DCDA403235977F70E9588B"
-				"download" "3CB5710325EBA871DE9CC3D8EAF1D1C1"
-			}
-			"press"
-			{
-				"gid" "AB220F0DB1ED20BE25F0348F0A45B975"
-				"size" "EF7D76609BC18B434CD4A5893E4D064C"
-				"download" "84D71D0055A16BC2F2E68847DDB09188"
+				"gid" "4524868410675420366"
+				"size" "10010068769"
+				"download" "4274276416"
 			}
 		}
 	}
@@ -286,41 +278,16 @@
 	{
 		"public"
 		{
-			"buildid" "16044976"
-			"timeupdated" "1729166288"
-		}
-		"development"
-		{
-			"buildid" "16044976"
-			"pwdrequired" "1"
-			"timeupdated" "1728953599"
-		}
-		"experimental"
-		{
-			"buildid" "15662076"
-			"pwdrequired" "1"
-			"timeupdated" "1726047200"
-		}
-		"iceberg"
-		{
-			"buildid" "15994598"
-			"pwdrequired" "1"
-			"timeupdated" "1728564157"
-		}
-		"press"
-		{
-			"buildid" "15673615"
-			"pwdrequired" "1"
-			"timeupdated" "1726129194"
+			"buildid" "16199041"
+			"timeupdated" "1730127111"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000"
 	"maxnumfiles" "100"
-	"ignoreexternalfiles" "1"
-	"hidecloudui" "1"
 	"savefiles"
 	{
 		"0"
@@ -340,6 +307,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25805145"
-"_sha" "bb047a2139fa5b65f743851d3cdb1a3bb8e1b029"
-"_size" "5706"
+"_change_number" "27072841"
+"_sha" "596eb26ad415ee3bb2390a25eee63b772eeb8aff"
+"_size" "4970"
