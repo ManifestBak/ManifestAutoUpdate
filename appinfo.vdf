@@ -10,6 +10,7 @@
 	"clienticon" "ccd13ee920adb039c9ef0dee97e3036121a93edf"
 	"clienttga" "a42ae40068d7b68b5db1c34fd6160de14f57ceb9"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -62,6 +63,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_3337c4ade1dd8aa307893c75c00020d6eaccb074.jpg"
 	"store_asset_mtime" "1432009446"
 	"associations"
 	{
@@ -88,6 +90,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_15" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -240,6 +243,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "18987327"
-"_sha" "cb936936b2afb7668a614e606c22eb1b131108d1"
-"_size" "4115"
+"_change_number" "26253459"
+"_sha" "887cb98d9aec718c6f50feb7286b6db3c53a6b5c"
+"_size" "4240"
