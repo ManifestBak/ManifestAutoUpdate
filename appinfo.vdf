@@ -213,8 +213,8 @@
 {
 	"developer" "aNCHOR Inc."
 	"publisher" "aNCHOR Inc."
-	"homepage" "http://www.muvluv.moe"
-	"listofdlc" "1251940,1987170,2334110,2362970,2399240,2399320"
+	"homepage" "https://muvluv.com"
+	"listofdlc" "1251940,1987170,2334110,2362970,2399240,2399320,2630270,2630280"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -308,6 +308,34 @@
 			}
 			"description" "MUV-LUV REGENERATIVE_Vol-02 (Japanese)"
 		}
+		"7"
+		{
+			"executable" "Muv-LuvMR03.bat"
+			"type" "option3"
+			"config"
+			{
+				"ownsdlc" "2630270"
+			}
+			"description_loc"
+			{
+				"english" "MUV-LUV REGENERATIVE_Vol-03 (English)"
+			}
+			"description" "MUV-LUV REGENERATIVE_Vol-03 (English)"
+		}
+		"8"
+		{
+			"executable" "Muv-LuvMR03.bat"
+			"type" "option3"
+			"config"
+			{
+				"ownsdlc" "2630280"
+			}
+			"description_loc"
+			{
+				"english" "MUV-LUV REGENERATIVE_Vol-03 (Japanese)"
+			}
+			"description" "MUV-LUV REGENERATIVE_Vol-03 (Japanese)"
+		}
 	}
 }
 "depots"
@@ -348,33 +376,6 @@
 				"download" "5223588544"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eng_p00_test"
-			{
-				"gid" "274AE3153077D02BABB701A27194879E"
-				"size" "24049CD6E6AC29C7BDC0682BE33DF32B"
-				"download" "D96BDA9AEAFC7E086CCDCDD176248DA1"
-			}
-			"eng_p03_test"
-			{
-				"gid" "025C23E31BB34F4E51732D898EE28A6C"
-				"size" "E85BBC5B586C59F5260DB67B9326C6ED"
-				"download" "2C9918C4D6BF7D4A3D4DC3F0AE28CAFB"
-			}
-			"internaltest"
-			{
-				"gid" "3CFC18C9CF6C6D66F564CABC852F1A73"
-				"size" "5458F1B7550FFFBDFB8CB807B13C5101"
-				"download" "C14626756245FE35D445275DF38F0CF7"
-			}
-			"jasontest"
-			{
-				"gid" "D54ABE306A47B63B05941D4DD8FF9207"
-				"size" "7602BBA3D79AFE862FE56EFFE264A45A"
-				"download" "B4767F4F2C3E9106F228AD11A9921E67"
-			}
-		}
 	}
 	"1251940"
 	{
@@ -388,27 +389,6 @@
 				"download" "464595680"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eng_p00_test"
-			{
-				"gid" "68A7E49B5A4DADED0ECFB352CB830ACB"
-				"size" "AB546B7C5693830DC70B6AB6408EF146"
-				"download" "F43706DD22BE8CDEFDE1C0457B04ECD6"
-			}
-			"internaltest"
-			{
-				"gid" "0EF42F99923C59F0EE7F55F8327487C4"
-				"size" "C487C1CF7B673116F23D30D25FD25006"
-				"download" "5A1F3FE45604087FFB64AFA6579C7EB8"
-			}
-			"jasontest"
-			{
-				"gid" "05B7217911ADA9E17B1A0DF10857CDD8"
-				"size" "01A30C457583F329EE24A03D280D32D2"
-				"download" "4629248BC4E1C7AF3EBE6C5CE7A0F8CC"
-			}
-		}
 	}
 	"1987170"
 	{
@@ -417,24 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "795192653467631351"
+				"gid" "8099494511123609835"
 				"size" "423387775"
 				"download" "427714160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "09FAA9C1DE3B7E671E3BA15779F07CDD"
-				"size" "C08735CD9234A6FEEF94A92B5208F097"
-				"download" "629FC59B8296EBAF2EFF108CC4AC24F7"
-			}
-			"jasontest"
-			{
-				"gid" "E9DBD73FC29B0B0424E0BC0B3A90F48F"
-				"size" "6F2B2A9ED484CD90C6EAA3246C78B5B0"
-				"download" "650694FC72E718DDD8F1282D881A2358"
 			}
 		}
 	}
@@ -450,15 +415,6 @@
 				"download" "137163504"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "4699AFAFA7841A8B94BCEAEB310BEF11"
-				"size" "0D070A54CE4D844E62F466550E36CD75"
-				"download" "0D80B52CA2C034C3C6A9A2C31D48F399"
-			}
-		}
 	}
 	"2362970"
 	{
@@ -467,18 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "972483669863944195"
+				"gid" "8195169196753587135"
 				"size" "137197877"
 				"download" "138961600"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "0EF9985CCA0221A8E420AE0185FAD2E1"
-				"size" "A266B785E67B2272DC85315079BFE2DE"
-				"download" "A316A48B6839F1183E46525BD0383092"
 			}
 		}
 	}
@@ -494,15 +441,6 @@
 				"download" "126236416"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "F65AE2CC42DA4A7F9017C4E7366ADC77"
-				"size" "DB37200DBA20D051FD85DF10D023AA2D"
-				"download" "2A2BFD7EF83491E15272D1E2638FD794"
-			}
-		}
 	}
 	"2399320"
 	{
@@ -516,13 +454,30 @@
 				"download" "126006704"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"2630270"
+	{
+		"dlcappid" "2630270"
+		"manifests"
 		{
-			"internaltest"
+			"public"
 			{
-				"gid" "6A2228E6D45E99751DC29A7AE4B77EC4"
-				"size" "9668E9FEF9FE744673F7627DF9B8FC08"
-				"download" "9D7CAB1A9114BAD95F5D57D1828BBA8A"
+				"gid" "118803090583121972"
+				"size" "117552150"
+				"download" "118682768"
+			}
+		}
+	}
+	"2630280"
+	{
+		"dlcappid" "2630280"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3069888730599598111"
+				"size" "122105593"
+				"download" "123655248"
 			}
 		}
 	}
@@ -530,39 +485,16 @@
 	{
 		"public"
 		{
-			"buildid" "11073096"
-			"timeupdated" "1682304702"
+			"buildid" "16609561"
+			"timeupdated" "1733708123"
 		}
 		"ancient"
 		{
 			"buildid" "2524289"
 			"timeupdated" "1529634274"
 		}
-		"eng_p00_test"
-		{
-			"buildid" "4757731"
-			"pwdrequired" "1"
-			"timeupdated" "1583754630"
-		}
-		"eng_p03_test"
-		{
-			"buildid" "2886396"
-			"pwdrequired" "1"
-			"timeupdated" "1529670331"
-		}
-		"internaltest"
-		{
-			"buildid" "11073096"
-			"pwdrequired" "1"
-			"timeupdated" "1682303089"
-		}
-		"jasontest"
-		{
-			"buildid" "9421330"
-			"pwdrequired" "1"
-			"timeupdated" "1661921924"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -570,3 +502,7 @@
 	"maxnumfiles" "200"
 	"appidredirect" "802880"
 }
+"_missing_token" "False"
+"_change_number" "27059195"
+"_sha" "cb43a4e99e78f742a0313fceec1ef7bfbba71f39"
+"_size" "8802"
