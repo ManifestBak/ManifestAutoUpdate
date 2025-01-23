@@ -83,7 +83,8 @@
 	"primary_genre" "28"
 	"genres"
 	{
-		"0" "28"
+		"0" "23"
+		"1" "28"
 	}
 	"category"
 	{
@@ -117,6 +118,10 @@
 		{
 			"supported" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1699010883"
 	"community_hub_visible" "1"
@@ -129,6 +134,7 @@
 		"3" "1654"
 		"4" "8122"
 		"5" "4182"
+		"6" "492"
 	}
 	"review_score" "8"
 	"review_percentage" "97"
@@ -137,7 +143,7 @@
 {
 	"developer" "Lukas Trötzmüller"
 	"publisher" "Lukas Trötzmüller"
-	"homepage" "https://www.fwsim.com/steam"
+	"homepage" "https://www.fwsim.com/hobbyist"
 }
 "config"
 {
@@ -196,24 +202,15 @@
 		{
 			"public"
 			{
-				"gid" "7584925154529772776"
-				"size" "474611266"
-				"download" "306867248"
+				"gid" "2410537398872844706"
+				"size" "478569669"
+				"download" "307515888"
 			}
 			"beta"
 			{
-				"gid" "7584925154529772776"
-				"size" "474611266"
-				"download" "306867248"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "C9F19DA87EE54D3F9FB354C6EC1024FF"
-				"size" "941136DDA5951BFF2FA6686BA308403F"
-				"download" "B76CA308A6626A63364B90AC00EE3C85"
+				"gid" "2410537398872844706"
+				"size" "478569669"
+				"download" "307515888"
 			}
 		}
 	}
@@ -221,20 +218,19 @@
 	{
 		"public"
 		{
-			"buildid" "15691139"
-			"timeupdated" "1726232711"
-		}
-		"testing"
-		{
-			"buildid" "10425455"
-			"pwdrequired" "1"
-			"timeupdated" "1674925160"
+			"buildid" "17078300"
+			"timeupdated" "1737468679"
 		}
 		"beta"
 		{
-			"buildid" "15691139"
+			"buildid" "17078300"
 			"description" "Get early access to new features"
-			"timeupdated" "1726232608"
+			"timeupdated" "1737467826"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27094541"
+"_sha" "947ffbe6d91a1289c3444a50a40178d5ea89e8c2"
+"_size" "3641"
