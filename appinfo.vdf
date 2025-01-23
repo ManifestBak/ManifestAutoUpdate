@@ -85,7 +85,7 @@
 		"1"
 		{
 			"type" "developer"
-			"name" "Official Electric"
+			"name" "Mecha Studios"
 		}
 		"2"
 		{
@@ -219,24 +219,9 @@
 		{
 			"public"
 			{
-				"gid" "4781696408519226838"
-				"size" "256640510"
-				"download" "204118592"
-			}
-			"beta"
-			{
-				"gid" "4223154160148064698"
-				"size" "253828832"
-				"download" "202924352"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private-beta"
-			{
-				"gid" "6D45CE3A6911C939C0F836FA28C8EF0F"
-				"size" "3C64D96FB45C8257312BFF54AF973B6D"
-				"download" "9BC56E4F6A0BE119F1A505D4D030062C"
+				"gid" "8467543384144584417"
+				"size" "257488307"
+				"download" "204749216"
 			}
 		}
 	}
@@ -244,20 +229,13 @@
 	{
 		"public"
 		{
-			"buildid" "15495014"
-			"timeupdated" "1724687858"
-		}
-		"beta"
-		{
-			"buildid" "12778455"
-			"description" "TYPECAST Beta"
-			"timeupdated" "1700718038"
-		}
-		"private-beta"
-		{
-			"buildid" "13230134"
-			"pwdrequired" "1"
-			"timeupdated" "1705813883"
+			"buildid" "16763669"
+			"timeupdated" "1734381427"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27105658"
+"_sha" "18c9442336ff6db955c229fffa21c63c8c6c51a6"
+"_size" "3600"
