@@ -11,6 +11,7 @@
 	"icon" "1c04e24567ab2d4af747fe673e39766d6d257356"
 	"clienticon" "36010e4298d3989c3d1bb012015e7266fca7ca45"
 	"clienttga" "84cd7a3d061a83e8cfd2fe52854bac3b87e0d7d3"
+	"restricted_countries" "DE"
 	"metacritic_name" "FEMINAZI: The Triggering"
 	"controller_support" "partial"
 	"small_capsule"
@@ -21,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_be28a52b3f38adf88323e80842c98f2a37decc17.jpg"
 	"store_asset_mtime" "1487611843"
 	"associations"
 	{
@@ -58,6 +60,7 @@
 		"category_18" "1"
 		"category_23" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -209,6 +212,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20495442"
-"_sha" "e1966636bce78e7495b26ee6bc2ffe894333db3c"
-"_size" "3456"
+"_change_number" "26253459"
+"_sha" "6711e65f58eeb597528f08b56bced8be0ce3bff1"
+"_size" "3581"
