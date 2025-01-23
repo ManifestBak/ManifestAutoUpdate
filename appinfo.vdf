@@ -15,6 +15,7 @@
 	{
 		"english" "1"
 		"german" "1"
+		"koreana" "1"
 		"schinese" "1"
 		"russian" "1"
 		"japanese" "1"
@@ -192,8 +193,8 @@
 		"18" "1710"
 		"19" "4064"
 	}
-	"review_score" "7"
-	"review_percentage" "82"
+	"review_score" "6"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -226,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "4072758068253220988"
-				"size" "2718379802"
-				"download" "1196732192"
+				"gid" "5958606048059391044"
+				"size" "2725934462"
+				"download" "1199099616"
 			}
 		}
 	}
@@ -236,15 +237,45 @@
 	{
 		"public"
 		{
-			"buildid" "15774317"
-			"timeupdated" "1726856242"
+			"buildid" "16170572"
+			"timeupdated" "1729800461"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000"
 	"maxnumfiles" "10"
-	"ignoreexternalfiles" "1"
-	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Gaister Studios/Prison Alone"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Gaister Studios/Prison Alone"
+					"replace" ".config/unity3d/Gaister Studios/Prison Alone"
+				}
+			}
+		}
+	}
 }
+"_missing_token" "False"
+"_change_number" "26832634"
+"_sha" "86d4eed84c37d8f6e5bc77dea06e68f734dfa69b"
+"_size" "4453"
