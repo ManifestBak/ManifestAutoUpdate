@@ -1,0 +1,263 @@
+"appid" "2537010"
+"common"
+{
+	"name" "MISTERY"
+	"type" "Game"
+	"icon" "de91919e739e4035135c0f30713a8790cac35aa0"
+	"clienttga" "e9e03e8b43cf1a4905d78901f80233f1ad4e732e"
+	"clienticon" "3d42b86e56149d5a80a1c238a3ef01fc749c6141"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "幽霾"
+		"tchinese" "幽霾"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "0d197322c0cb3db1b90bdb2b83e13cbab3bb507a/capsule_231x87.jpg"
+		"schinese" "1f254b64be052b968e9a28ef6c2f8e28752e0f17/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.481757303229415"
+			"height_pct" "23.095766368255184"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.481757303229415"
+				"height_pct" "23.095766368255184"
+			}
+			"image"
+			{
+				"english" "a6ed6cf8222277f021fd92519ab254625a8bfc8b/logo.png"
+			}
+			"image2x"
+			{
+				"english" "a6ed6cf8222277f021fd92519ab254625a8bfc8b/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "0a1808946a5e9129d58c8246bc7d2f527dc624ad/library_header_schinese.jpg"
+				"english" "84e154497e303d09e2ed5403486d8974b42e08bb/library_header.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "0a1808946a5e9129d58c8246bc7d2f527dc624ad/library_header_schinese_2x.jpg"
+				"english" "84e154497e303d09e2ed5403486d8974b42e08bb/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737287755"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Game Frontier"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Game Frontier"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_35" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1737431378"
+	"community_hub_visible" "1"
+	"gameid" "2537010"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "19"
+		"2" "1662"
+		"3" "745697"
+		"4" "3859"
+		"5" "3843"
+		"6" "1775"
+		"7" "5711"
+		"8" "1667"
+		"9" "1710"
+		"10" "6730"
+		"11" "4191"
+		"12" "4182"
+		"13" "1697"
+		"14" "5851"
+		"15" "4791"
+		"16" "4175"
+		"17" "4342"
+		"18" "122"
+		"19" "3978"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Game Frontier"
+	"publisher" "Game Frontier"
+	"listofdlc" "3428340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "MISTERY"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheMist.exe"
+			"arguments" "Steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"2537011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2259503748130295794"
+				"size" "10279925592"
+				"download" "7457250432"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17071099"
+			"timeupdated" "1737418715"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27123935"
+"_sha" "94d3ab4247802659c8373546c945188d5fc61b7f"
+"_size" "4565"
