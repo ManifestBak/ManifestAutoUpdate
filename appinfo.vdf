@@ -208,7 +208,7 @@
 		"19" "3964"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -269,39 +269,6 @@
 				"download" "464528640"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"huwiz-dont-publish"
-			{
-				"gid" "4705A22DAD309CAE2300E847C62CD61B"
-				"size" "8237F3599DAA35DBA73CF0816A4247CB"
-				"download" "B81AA41B21463E9ED0C4247C1A868178"
-			}
-			"private"
-			{
-				"gid" "DAA44DC26C99FC18934D8FE409F7CF9D"
-				"size" "E63ABC54D4A7CC099AD29E9074DA68F0"
-				"download" "1BB92FB51C589A14C6098A4CFDB338CD"
-			}
-			"release-candidate"
-			{
-				"gid" "6BE4B603E8D5682781F9F2316DB8AA12"
-				"size" "2181293DBC0759F49DCA70A794C48021"
-				"download" "B843F93E6FDCC1A07F7412097C43E3FF"
-			}
-			"temp-mac-test"
-			{
-				"gid" "D6CB8FC652CCC92451202F6D2675A2DA"
-				"size" "1272E5B71695335A5DF710C0CD96B5CB"
-				"download" "B6EE8108F506D6E5161470D707D97CC7"
-			}
-			"testing"
-			{
-				"gid" "357FF567606D9CE8A428C2EDFF991DC8"
-				"size" "A2F71803730E07EAED05C37345DAC94D"
-				"download" "D3715EEF996613CC1112276BE45FA3F8"
-			}
-		}
 	}
 	"1639083"
 	{
@@ -317,39 +284,6 @@
 				"gid" "1001736430053885162"
 				"size" "1607580219"
 				"download" "483703552"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"huwiz-dont-publish"
-			{
-				"gid" "E13D4434EC0B21E259783D4B69E29BA2"
-				"size" "2AEB75E4FD8EA90BCF597528021C8217"
-				"download" "891F9ADF46C2E710FEF8454ED55CA63A"
-			}
-			"private"
-			{
-				"gid" "A5A90DFFFC935C0EDB53155557799EB4"
-				"size" "FB9CEDF2448C0A83E293F90A1DF820E9"
-				"download" "DD5FC504E13CF88C02B8761F1BB42A86"
-			}
-			"release-candidate"
-			{
-				"gid" "4F1CB1C43C33AD080256A0FD8165AC58"
-				"size" "A0F28572A49E556956FD3D019CED6DFE"
-				"download" "37AB5FDCC2B34B6A4DF18E6D0FECD37D"
-			}
-			"temp-mac-test"
-			{
-				"gid" "38E24F1A8395C75F118640535A844A55"
-				"size" "8F1F0387487D9904108670CE166B2747"
-				"download" "E83758B76D01A552C98FCDF55201F63B"
-			}
-			"testing"
-			{
-				"gid" "D15641B339AD57039CDE85471071129F"
-				"size" "B1358F7CF6BBB1BDA77450BC1DFC276E"
-				"download" "EA0CC97B7A0FEB2E282BA87595F8D539"
 			}
 		}
 	}
@@ -369,39 +303,6 @@
 				"download" "462093088"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"huwiz-dont-publish"
-			{
-				"gid" "02CF0EBD629F0E962305AF2859D30EF9"
-				"size" "2A959BEE19931E8E6FA2C43C388AA2C9"
-				"download" "BD452111668A417827693B850A78635D"
-			}
-			"private"
-			{
-				"gid" "7C72C6495DEF9DF895690A8ECBA8767B"
-				"size" "AE8FA79451FD24D9A54AD0EACE833053"
-				"download" "5DFB48F4F0C42C8C9EF25147A0F746F1"
-			}
-			"release-candidate"
-			{
-				"gid" "9216DD753528F1EBD42FEBAA84C23FB0"
-				"size" "591F598BC12572059FAC1A3BAB501E68"
-				"download" "9B77D0BFCDA4DE327EA731EAE93A2604"
-			}
-			"temp-mac-test"
-			{
-				"gid" "5DE802C64A0FBE5B94804D6B88E38708"
-				"size" "79C05AD163EB92AE884884579839D836"
-				"download" "919F28C08231C2C7A2C0D14F77DF4D47"
-			}
-			"testing"
-			{
-				"gid" "ADAAF1F76353E657B82FF6A3E1175C74"
-				"size" "67E159EA6AC796E0A1F848887B482B14"
-				"download" "FDCC9445F2B2FA78AB82EBA836F8D767"
-			}
-		}
 	}
 	"branches"
 	{
@@ -410,37 +311,8 @@
 			"buildid" "16761304"
 			"timeupdated" "1734367304"
 		}
-		"huwiz-dont-publish"
-		{
-			"buildid" "14387743"
-			"pwdrequired" "1"
-			"timeupdated" "1715854511"
-		}
-		"private"
-		{
-			"buildid" "16134272"
-			"pwdrequired" "1"
-			"timeupdated" "1729589550"
-		}
-		"release-candidate"
-		{
-			"buildid" "16761304"
-			"pwdrequired" "1"
-			"timeupdated" "1734366480"
-		}
-		"temp-mac-test"
-		{
-			"buildid" "14772238"
-			"pwdrequired" "1"
-			"timeupdated" "1718824535"
-		}
-		"testing"
-		{
-			"buildid" "14907303"
-			"pwdrequired" "1"
-			"timeupdated" "1719928392"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -482,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26664144"
-"_sha" "69661c9bae08fbdd3eba9d60575b6d369597ab28"
-"_size" "8897"
+"_change_number" "26845279"
+"_sha" "174773c06672b62c08883d8bc6c93ab82248b1b5"
+"_size" "5597"
