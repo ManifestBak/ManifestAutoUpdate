@@ -13,6 +13,7 @@
 	"name_localized"
 	{
 		"schinese" "酒馆经理模拟器"
+		"tchinese" "酒館經營模擬遊戲"
 	}
 	"steam_deck_compatibility"
 	{
@@ -67,17 +68,21 @@
 	"small_capsule"
 	{
 		"english" "3a51afc494ac09aef1ef5cd711bf4b0c66bd3577/capsule_231x87.jpg"
+		"schinese" "3b0b4e2920f1bbbae0bead9d1b195fccc0d1f78b/capsule_231x87_schinese.jpg"
+		"tchinese" "a190d17702510185ae58212642d6a520de1a865e/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
-		"library_logo" "en"
-		"library_header" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -92,10 +97,14 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"schinese" "f5c76f6a3a965b8ac3c0b3ca46b28cd4ee258be1/library_600x900_schinese.jpg"
+				"tchinese" "d64cc2064e415a2ee3222336b3077750d2d62df2/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"schinese" "f5c76f6a3a965b8ac3c0b3ca46b28cd4ee258be1/library_600x900_schinese_2x.jpg"
+				"tchinese" "d64cc2064e415a2ee3222336b3077750d2d62df2/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -114,10 +123,14 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "3ade791011f9316ef2a21b10dc64477bf626ec46/logo_schinese.png"
+				"tchinese" "b2e867798340d4880c8f0595651e9e161d8dbe70/logo_tchinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "3ade791011f9316ef2a21b10dc64477bf626ec46/logo_schinese_2x.png"
+				"tchinese" "b2e867798340d4880c8f0595651e9e161d8dbe70/logo_tchinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -131,14 +144,18 @@
 			"image"
 			{
 				"english" "library_header.jpg"
+				"schinese" "90d91264dfd97d98ee7891c76cc8119ddf5cf1cf/library_header_schinese.jpg"
+				"tchinese" "f8345bad896dbf0c9e2f1b1b52c36fbf271a780c/library_header_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_header_2x.jpg"
+				"schinese" "90d91264dfd97d98ee7891c76cc8119ddf5cf1cf/library_header_schinese_2x.jpg"
+				"tchinese" "f8345bad896dbf0c9e2f1b1b52c36fbf271a780c/library_header_tchinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1731084253"
+	"store_asset_mtime" "1737468486"
 	"associations"
 	{
 		"0"
@@ -381,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27007307"
-"_sha" "4cf7c307f54752daba5a3c73f89934684ffb5eb3"
-"_size" "6383"
+"_change_number" "27094500"
+"_sha" "1692f7c1ebe1bdfb390d444847a22cb37835531b"
+"_size" "7745"
