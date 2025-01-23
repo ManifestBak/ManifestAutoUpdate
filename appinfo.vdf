@@ -241,8 +241,8 @@
 		"0" "122"
 		"1" "4486"
 		"2" "3834"
-		"3" "5652"
-		"4" "3799"
+		"3" "3799"
+		"4" "5652"
 		"5" "4947"
 		"6" "9551"
 		"7" "12472"
@@ -286,60 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "7121018614904401376"
-				"size" "2694591908"
-				"download" "1092293360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"playism_test"
-			{
-				"gid" "3B813131C2E7BA71F5A72C3886796F45"
-				"size" "C5C600F6B50DBE23F2EED0A3FCF2F1A9"
-				"download" "E99D47C856DBABF590914C5C1842DD78"
-			}
-			"review"
-			{
-				"gid" "E399829A9A2AA78657D5C53922D36A28"
-				"size" "0B898C7DD77296EA4E6D1CFEEC38B45D"
-				"download" "DCD16C23170535385D3E3483782A695D"
-			}
-			"taipei"
-			{
-				"gid" "BB1501C0AFB56592467DA0A2234BE1C4"
-				"size" "90D163E0AB0B900CCB2CCF0356C20D75"
-				"download" "4801DF14476158B91436B728522CD0EF"
-			}
-			"ver1.00"
-			{
-				"gid" "0B9FC46E4746BBEF9C58F119F9E02AED"
-				"size" "4A7504B14F3DCD6D29CB4ABCB1F80A02"
-				"download" "DBCEE01BE508ABE2804C8B5B12B4725C"
-			}
-			"ver1.01"
-			{
-				"gid" "9084FC6CC5C99A15BD055280F2D8FC16"
-				"size" "545F4BC728A49D7E31516767F6085FAF"
-				"download" "1C6FB5184325A183EA76356913552493"
-			}
-			"ver1.02"
-			{
-				"gid" "B74A06993AFC7139F142EE81365DEFFB"
-				"size" "90C38F403B6A9F97F58A0D046CD683CE"
-				"download" "CF935AE9890335353E5F0DA32049441A"
-			}
-			"ver1.03"
-			{
-				"gid" "34A2CCB626784D30E92CE89734F67A59"
-				"size" "B2382F6CCE1D3E783B17FB85EB6E00A1"
-				"download" "92A756D63C860CBCFEF9053517969BCE"
-			}
-			"ver1.04"
-			{
-				"gid" "35B57A5A71E13DD95B585ED107018A38"
-				"size" "B463C431D51A45AB9B8E7CB098BC1E2A"
-				"download" "E7C9FCC989C4203E919483CF2F3AFA9E"
+				"gid" "7570886065271205477"
+				"size" "2741682129"
+				"download" "1109050496"
 			}
 		}
 	}
@@ -347,58 +296,11 @@
 	{
 		"public"
 		{
-			"buildid" "16622142"
-			"timeupdated" "1733298616"
-		}
-		"playism_test"
-		{
-			"buildid" "16622142"
-			"pwdrequired" "1"
-			"timeupdated" "1733272679"
-		}
-		"review"
-		{
-			"buildid" "16129702"
-			"pwdrequired" "1"
-			"timeupdated" "1729583848"
-		}
-		"taipei"
-		{
-			"buildid" "16215568"
-			"pwdrequired" "1"
-			"timeupdated" "1730173398"
-		}
-		"ver1.00"
-		{
-			"buildid" "16400478"
-			"pwdrequired" "1"
-			"timeupdated" "1732392179"
-		}
-		"ver1.01"
-		{
-			"buildid" "16472585"
-			"pwdrequired" "1"
-			"timeupdated" "1732392221"
-		}
-		"ver1.02"
-		{
-			"buildid" "16484870"
-			"pwdrequired" "1"
-			"timeupdated" "1732392195"
-		}
-		"ver1.03"
-		{
-			"buildid" "16493824"
-			"pwdrequired" "1"
-			"timeupdated" "1732392161"
-		}
-		"ver1.04"
-		{
-			"buildid" "16610216"
-			"pwdrequired" "1"
-			"timeupdated" "1733204213"
+			"buildid" "17098634"
+			"timeupdated" "1737601239"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -420,6 +322,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26483884"
-"_sha" "ecb315697aa049929d67faa9dc9fdfa88cb0c6bf"
-"_size" "9499"
+"_change_number" "27123222"
+"_sha" "e98c01ea0c994337c0fb17f0bff6d3783c531e60"
+"_size" "7268"
