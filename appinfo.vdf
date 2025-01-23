@@ -249,7 +249,7 @@
 		"19" "5708"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -302,39 +302,6 @@
 				"download" "267852064"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F845A8C8D34F8A3DBA4488AD4548E8CC"
-				"size" "73FA08AE19DE15042F1B5AF0E2AF4170"
-				"download" "1C81F8E392F6C8928C483417723CE807"
-			}
-			"e3demo"
-			{
-				"gid" "608559B168AB0AB162D47024C9DC1D4F"
-				"size" "7CD733EE0CEF38D95868717CFA83B884"
-				"download" "64B86555A8DEBDAE901AD462965DA8AC"
-			}
-			"indieland2021"
-			{
-				"gid" "9BE119BD9099CF361C9DD263D34293E5"
-				"size" "D8C9CD34510457E13F620D8D518280DB"
-				"download" "4A11FE309067CA17C33106C1F42656C6"
-			}
-			"test_launcher"
-			{
-				"gid" "27F11EAF40F7B5DA8474930EA0C6802F"
-				"size" "71ECAE2F6D59D69132E6E84DE726D8EB"
-				"download" "06C7BA65848309EDE3DDB5758EBA3BDD"
-			}
-			"decktest"
-			{
-				"gid" "E6C313DF909F771FF6B47EABBDC7B63E"
-				"size" "04654A7AD4BD73B40AEA62D000F1A6E7"
-				"download" "9FE95A549E105ACB7CBFFB0041B1F8A9"
-			}
-		}
 	}
 	"1962400"
 	{
@@ -348,21 +315,6 @@
 				"download" "154974592"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F36EEC155EB6B212FB53BA6E9CFE87EE"
-				"size" "9B8A08131A347671160F88D41FFA3060"
-				"download" "FDD1032EE030A70AD8BA8FA6A3839584"
-			}
-			"decktest"
-			{
-				"gid" "4E897991DC07E2A1FB3BD80FDD4F39D1"
-				"size" "28B0546C7480FD349F7FB569654BA019"
-				"download" "C6332B06C0AF64B1BD5F72C7FCC2F06D"
-			}
-		}
 	}
 	"branches"
 	{
@@ -371,40 +323,15 @@
 			"buildid" "15421362"
 			"timeupdated" "1724079396"
 		}
-		"beta"
-		{
-			"buildid" "10424620"
-			"pwdrequired" "1"
-			"timeupdated" "1674907387"
-		}
-		"e3demo"
-		{
-			"buildid" "6815568"
-			"pwdrequired" "1"
-			"timeupdated" "1622836004"
-		}
-		"indieland2021"
-		{
-			"buildid" "7426774"
-			"pwdrequired" "1"
-			"timeupdated" "1632664611"
-		}
-		"test_launcher"
-		{
-			"buildid" "8498069"
-			"pwdrequired" "1"
-			"timeupdated" "1649134159"
-		}
-		"decktest"
-		{
-			"buildid" "15411514"
-			"pwdrequired" "1"
-			"timeupdated" "1723993424"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "5000000"
 	"maxnumfiles" "20"
 }
+"_missing_token" "False"
+"_change_number" "27092430"
+"_sha" "128f2f429e0847359d88cbfa8a20c8b118a7998f"
+"_size" "5659"
