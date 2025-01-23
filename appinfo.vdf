@@ -13,8 +13,14 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
 		"japanese" "1"
 		"turkish" "1"
+		"latam" "1"
 	}
 	"content_descriptors"
 	{
@@ -171,6 +177,36 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1687536573"
 	"community_visible_stats" "1"
@@ -194,8 +230,8 @@
 		"13" "4191"
 		"14" "4094"
 		"15" "3968"
-		"16" "19"
-		"17" "5716"
+		"16" "5716"
+		"17" "19"
 		"18" "5186"
 		"19" "492"
 	}
@@ -231,50 +267,24 @@
 		{
 			"public"
 			{
-				"gid" "6813143652231608776"
-				"size" "676078608"
-				"download" "180151136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "A19663FBCF681208C4BCC3074A0B4D18"
-				"size" "37BEACC0A7BE7B29733D2B68961B2838"
-				"download" "9B417134E7F6D004DBED0AF49A38A6FB"
-			}
-			"localization"
-			{
-				"gid" "71625A457390C7765F4BD482E8D01F54"
-				"size" "C73C5F7BC3447D3FD1BDAEE9D8153217"
-				"download" "A93BBA915E3042D078CED49FC83D0D82"
+				"gid" "7329340312836222471"
+				"size" "760106707"
+				"download" "232689200"
 			}
 		}
 	}
-	"baselanguages" "english,japanese,turkish"
+	"baselanguages" "english,german,french,spanish,schinese,tchinese,japanese,turkish,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16099171"
-			"timeupdated" "1729273284"
-		}
-		"development"
-		{
-			"buildid" "14861659"
-			"pwdrequired" "1"
-			"timeupdated" "1719507941"
-		}
-		"localization"
-		{
-			"buildid" "16099171"
-			"pwdrequired" "1"
-			"timeupdated" "1729270679"
+			"buildid" "16844105"
+			"timeupdated" "1735057600"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25790555"
-"_sha" "d40274243ccb0511cc522c78d2821e92e2e141f3"
-"_size" "4894"
+"_change_number" "27067947"
+"_sha" "34280816c91a056d42f8a708e1e3fecf07630287"
+"_size" "4889"
