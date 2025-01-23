@@ -166,7 +166,7 @@
 		"19" "3799"
 	}
 	"review_score" "7"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -193,24 +193,9 @@
 		{
 			"public"
 			{
-				"gid" "1766711041491518099"
-				"size" "1133362445"
-				"download" "464667632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"cundang"
-			{
-				"gid" "336B1E5A98EDD4D30B050B63362209B5"
-				"size" "55B9D0598DA998CC224425912CB0912F"
-				"download" "1D5AAB57994788DD8E0EA8153DAEA27E"
-			}
-			"test"
-			{
-				"gid" "98C781B67DB3F8D6B9EB17091054E502"
-				"size" "E69DA65FED773CB88F8F3DC48BD079C4"
-				"download" "DDDA8FE0061CBC14311D88D7013BCFFA"
+				"gid" "1404295703617951081"
+				"size" "1139761415"
+				"download" "466296800"
 			}
 		}
 	}
@@ -218,22 +203,11 @@
 	{
 		"public"
 		{
-			"buildid" "14864340"
-			"timeupdated" "1719802076"
-		}
-		"cundang"
-		{
-			"buildid" "14758226"
-			"pwdrequired" "1"
-			"timeupdated" "1718936570"
-		}
-		"test"
-		{
-			"buildid" "14864340"
-			"pwdrequired" "1"
-			"timeupdated" "1719525603"
+			"buildid" "16689282"
+			"timeupdated" "1733806285"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -251,3 +225,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27085630"
+"_sha" "a97c87e2b826b22266a14dd1fe758d3090488b30"
+"_size" "3818"
