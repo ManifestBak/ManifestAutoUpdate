@@ -186,7 +186,7 @@
 		"19" "4252"
 	}
 	"review_score" "5"
-	"review_percentage" "53"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -226,45 +226,6 @@
 				"download" "1566956432"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev_experimental"
-			{
-				"gid" "4C5ADEBCB4B77CC0897286AAB9E77720"
-				"size" "80F58BB046D616489E5680423CD98153"
-				"download" "1371F0B4D78DE3BEB7E4A405493281D9"
-			}
-			"experimental"
-			{
-				"gid" "541AFE15E8121AE175A83711D75F979B"
-				"size" "19799A07E4E586D2244A0D942FAA2526"
-				"download" "D66FD79B32CE730A6B9F0445ED2179AD"
-			}
-			"juggler_dlc_testy"
-			{
-				"gid" "430EDEF59D7411A4A0A680F069101985"
-				"size" "B52298CCEE8F640E2326C44DC75D48D4"
-				"download" "AE5892AD343CAF13EFE679ED23476D5F"
-			}
-			"temp"
-			{
-				"gid" "0E985BE1612A1B67F5431D51199FA606"
-				"size" "B077017F98060D87A2212160B2FA3C65"
-				"download" "66967C93275F4406DA81414BE30C332A"
-			}
-			"test_cheats"
-			{
-				"gid" "EF358E2D1FA4B0C187AF73C20AED16E8"
-				"size" "443DD81A279BD2B6DF466DC5C5252454"
-				"download" "CF0B2EC87427B1428FAE01DEFA3D17B1"
-			}
-			"testy"
-			{
-				"gid" "E28500114B25AD67E0B2A4B085B8697C"
-				"size" "06B95D7AF19823335FA279E803624890"
-				"download" "75A89EDD00B376F2860C367689A08C6E"
-			}
-		}
 	}
 	"1740030"
 	{
@@ -276,45 +237,6 @@
 				"gid" "4747577803021066828"
 				"size" "14697092"
 				"download" "14882224"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_experimental"
-			{
-				"gid" "00B0217D28D08E78FFCFFF31BCAB593B"
-				"size" "A0F9795AF1D135DE1A5499A219B7CD7F"
-				"download" "F59BAEE39A70F85E5261884AEEE3077A"
-			}
-			"experimental"
-			{
-				"gid" "779825BCEAC64FC3796AF1B1D05DC9FF"
-				"size" "FCC414487F972D7FEC176FDFA95DA897"
-				"download" "A6A2B36D545BA49ECE4D7654E06C9DF1"
-			}
-			"juggler_dlc_testy"
-			{
-				"gid" "C383D6EB3102EDEA11639EEFCADD8D22"
-				"size" "8634A99EC08CF2970D9474BF0B067401"
-				"download" "3AED719F92A3B5B4F99ED82AC3DBEA16"
-			}
-			"temp"
-			{
-				"gid" "316D68EDE010D90530E2277309611891"
-				"size" "911C5BDBF17A69F96847B0538ECE7F2F"
-				"download" "DAF0AEA4C1C9220B39E183FD3B395CC0"
-			}
-			"test_cheats"
-			{
-				"gid" "75463EE1C4AE64283EE0B03B4D4D1DAB"
-				"size" "E4AFFE9F9C9DFE449768971B34F5DCD0"
-				"download" "4A28FE6E1E018A0F4B396654839B7245"
-			}
-			"testy"
-			{
-				"gid" "D0D9FA475BC838A5280CEFEA288B385E"
-				"size" "B3AB0C1BA7CFD1E8163B6DC15507A2DC"
-				"download" "F87D3FE17698E33BB853CB73358CE440"
 			}
 		}
 	}
@@ -330,39 +252,6 @@
 				"download" "2177312560"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev_experimental"
-			{
-				"gid" "F2B52878954642BB8F18D3ED52454265"
-				"size" "6D3AE370D33B9AA3971A1FE56AE6396E"
-				"download" "27292EDE7FB923B76378FF6EF283748D"
-			}
-			"experimental"
-			{
-				"gid" "D7219D7951F2700D871890B19C3D912C"
-				"size" "9D9C9DF0654B903C170B3585C6D9C80B"
-				"download" "33C00EFAB2A4B559463001BAC821F43F"
-			}
-			"temp"
-			{
-				"gid" "291451FACD3C58617C1D89362876CCBC"
-				"size" "5429B3ED97E1F2C0D0156F6617E18A1E"
-				"download" "52D0464E0751834C95CCE7D2C80750E8"
-			}
-			"test_cheats"
-			{
-				"gid" "9E18E29CD9A07A75B292C59964CAEC0F"
-				"size" "73AA61D793AEE3B67930D56434B055CB"
-				"download" "310E134EB249D4BAFD5B049115D4489D"
-			}
-			"testy"
-			{
-				"gid" "696F0EF7FA0825E47FB93B214D381F1C"
-				"size" "D7396A8B70A55025960B87326F3A66AC"
-				"download" "F953BE8D9BCBD4C48476AF6B3D4B154F"
-			}
-		}
 	}
 	"baselanguages" "english"
 	"branches"
@@ -372,43 +261,8 @@
 			"buildid" "8634115"
 			"timeupdated" "1651155402"
 		}
-		"dev_experimental"
-		{
-			"buildid" "7920198"
-			"pwdrequired" "1"
-			"timeupdated" "1640083700"
-		}
-		"experimental"
-		{
-			"buildid" "8054578"
-			"pwdrequired" "1"
-			"timeupdated" "1642685076"
-		}
-		"juggler_dlc_testy"
-		{
-			"buildid" "7255677"
-			"pwdrequired" "1"
-			"timeupdated" "1629989754"
-		}
-		"temp"
-		{
-			"buildid" "7524622"
-			"pwdrequired" "1"
-			"timeupdated" "1640077366"
-		}
-		"test_cheats"
-		{
-			"buildid" "7417715"
-			"pwdrequired" "1"
-			"timeupdated" "1643901921"
-		}
-		"testy"
-		{
-			"buildid" "8634115"
-			"pwdrequired" "1"
-			"timeupdated" "1651068742"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -458,3 +312,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "08933f8c278bc707f6a7241587fa823b7b227e79"
+"_size" "5061"
