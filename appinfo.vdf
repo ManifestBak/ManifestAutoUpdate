@@ -133,15 +133,6 @@
 				"download" "2970844400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alphatesting"
-			{
-				"gid" "13F01A92C31FA50761EEC72326E428DB"
-				"size" "E4D380DC5D530F82CFBD03EE547AC6BF"
-				"download" "BDFBE8F762D2FA45A513D514B1B7F3EB"
-			}
-		}
 	}
 	"1020101"
 	{
@@ -183,15 +174,6 @@
 				"gid" "4970765644837436695"
 				"size" "3696186836"
 				"download" "2833961408"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alphatesting"
-			{
-				"gid" "4539FB192C3D8078443F95D800CAC37C"
-				"size" "5C2E150BA3AD51360EC6891FFF1B7824"
-				"download" "CB97C43698B7D07A62E7A89C51A9875B"
 			}
 		}
 	}
@@ -236,15 +218,6 @@
 				"download" "2828909872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alphatesting"
-			{
-				"gid" "B1F363FC38ED01A551D411EDE2FF2078"
-				"size" "D26BCBAF7969129C9C89B2C53D354DA7"
-				"download" "C7695237CB86374C2AE36DD51050F474"
-			}
-		}
 	}
 	"1020103"
 	{
@@ -287,15 +260,6 @@
 				"download" "2832969904"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alphatesting"
-			{
-				"gid" "32151BAD21D949DAB8F15DC1CA397C22"
-				"size" "676C7E7811E868FAA22FBB5AD5091D5A"
-				"download" "C7A1630B05A86351E17BED2711FE7CF7"
-			}
-		}
 	}
 	"branches"
 	{
@@ -322,12 +286,6 @@
 			"description" "Liftoff Legacy v1.4"
 			"timeupdated" "1674033777"
 		}
-		"alphatesting"
-		{
-			"buildid" "16718874"
-			"pwdrequired" "1"
-			"timeupdated" "1733995340"
-		}
 		"elimination_tournaments"
 		{
 			"buildid" "16184381"
@@ -335,8 +293,9 @@
 			"timeupdated" "1730200253"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26610859"
-"_sha" "b32981564476738b95e9601502751ed883c8147a"
-"_size" "6266"
+"_change_number" "26997904"
+"_sha" "f39904ba5b358cb516bcf856c85ff2b38075f476"
+"_size" "5334"
