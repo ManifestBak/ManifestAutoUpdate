@@ -22,6 +22,7 @@
 		"polish" "1"
 		"turkish" "1"
 	}
+	"app_retired_publisher_request" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -42,17 +43,54 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1663937714"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "175619291d0d374dafee83585fd2544f6af4605e/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "175619291d0d374dafee83585fd2544f6af4605e/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.29988331388566"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "697f4c7b23d5516b116a9281ae120d439874a054/logo.png"
+			}
+			"image2x"
+			{
+				"english" "697f4c7b23d5516b116a9281ae120d439874a054/logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1733152981"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "DUK Games"
-		}
-		"1"
-		{
-			"type" "publisher"
 			"name" "DUK Games"
 		}
 	}
@@ -66,6 +104,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -129,13 +168,11 @@
 		"10" "3871"
 	}
 	"review_score" "7"
-	"review_percentage" "90"
+	"review_percentage" "82"
 }
 "extended"
 {
 	"developer" "DUK Games"
-	"publisher" "DUK Games"
-	"homepage" "https://dukgames.com/"
 }
 "config"
 {
@@ -165,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "2875880527471498877"
-				"size" "130225827"
-				"download" "33202752"
+				"gid" "2649560515258994328"
+				"size" "129834251"
+				"download" "33186352"
 			}
 		}
 	}
@@ -175,8 +212,8 @@
 	{
 		"public"
 		{
-			"buildid" "10464443"
-			"timeupdated" "1675366573"
+			"buildid" "16604011"
+			"timeupdated" "1733161082"
 		}
 	}
 }
@@ -199,6 +236,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21185345"
-"_sha" "4ff3dbf35e27d60f71703cf326b553d3d4f4d91e"
-"_size" "2914"
+"_change_number" "26931171"
+"_sha" "7626ddbf9b7fcd055a3e198a473e9178f477c369"
+"_size" "3618"
