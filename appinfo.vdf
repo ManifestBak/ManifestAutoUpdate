@@ -132,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728394187"
+	"store_asset_mtime" "1737646645"
 	"associations"
 	{
 		"0"
@@ -181,10 +181,10 @@
 	"gameid" "975370"
 	"store_tags"
 	{
-		"0" "220585"
-		"1" "9"
-		"2" "599"
-		"3" "7918"
+		"0" "7918"
+		"1" "220585"
+		"2" "9"
+		"3" "599"
 		"4" "7332"
 		"5" "4328"
 		"6" "3810"
@@ -265,21 +265,27 @@
 		{
 			"public"
 			{
-				"gid" "2869619688319314818"
-				"size" "249143204"
-				"download" "237807264"
+				"gid" "4304574730715923393"
+				"size" "1076938908"
+				"download" "1017520992"
 			}
 			"beta"
 			{
-				"gid" "4845364260785378493"
-				"size" "699427236"
-				"download" "654966576"
+				"gid" "4304574730715923393"
+				"size" "1076938908"
+				"download" "1017520992"
 			}
 			"experimental"
 			{
-				"gid" "4845364260785378493"
-				"size" "699427236"
-				"download" "654966576"
+				"gid" "4304574730715923393"
+				"size" "1076938908"
+				"download" "1017520992"
+			}
+			"50.15"
+			{
+				"gid" "2869619688319314818"
+				"size" "249143204"
+				"download" "237807264"
 			}
 			"50.14"
 			{
@@ -324,39 +330,6 @@
 				"download" "244370880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"audio_test"
-			{
-				"gid" "D3EBDF39523BCE2168F3C0F9812E5A00"
-				"size" "C1E127D0E1DDD4013643EDC2B2BC11B8"
-				"download" "C746E86071DE48D7D029240578BEB123"
-			}
-			"event"
-			{
-				"gid" "B07EBBDBAF052FFA384EFA87838B4D60"
-				"size" "C3B65929F0E163F043D84729DBB35F8F"
-				"download" "2D9FBFD584305D13C54AF22EA4F9E1A6"
-			}
-			"adventure_test"
-			{
-				"gid" "601AD847C7100B373841CC4FCC76CA90"
-				"size" "B521BB2A19A68D8957E7C67FC613E62B"
-				"download" "B496E5BC0290664CA12D76D6766A2230"
-			}
-			"testing"
-			{
-				"gid" "C354AAED5BCC0C51D13371808E1ADB75"
-				"size" "0856138ADA82EA051713BAF00A7331F0"
-				"download" "ABD7A248B72D31FD049CE4CDE3D482E8"
-			}
-			"quicktest"
-			{
-				"gid" "90538D2D65B366CF850693D9F28B166A"
-				"size" "AE74471A95BF5E0B53DF3F6B6F2D30C2"
-				"download" "D6DF4DD6F1098630D73CE17F33EE7D05"
-			}
-		}
 	}
 	"975372"
 	{
@@ -368,21 +341,27 @@
 		{
 			"public"
 			{
-				"gid" "8316609461525834723"
-				"size" "28497296"
-				"download" "9061696"
+				"gid" "8080190092407119561"
+				"size" "31473552"
+				"download" "9990016"
 			}
 			"beta"
 			{
-				"gid" "7392825608427518071"
-				"size" "31315856"
-				"download" "9935696"
+				"gid" "8080190092407119561"
+				"size" "31473552"
+				"download" "9990016"
 			}
 			"experimental"
 			{
-				"gid" "7392825608427518071"
-				"size" "31315856"
-				"download" "9935696"
+				"gid" "8080190092407119561"
+				"size" "31473552"
+				"download" "9990016"
+			}
+			"50.15"
+			{
+				"gid" "8316609461525834723"
+				"size" "28497296"
+				"download" "9061696"
 			}
 			"50.14"
 			{
@@ -415,39 +394,6 @@
 				"download" "8879408"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"audio_test"
-			{
-				"gid" "BACC98CE03B69DF250F479396122CCB3"
-				"size" "B6BB1040DD2AE60784788D97E8E489F2"
-				"download" "9A734CA22A65236F92E0F3DEBA5B3AA0"
-			}
-			"event"
-			{
-				"gid" "A44B732BC51CC50115162DB455AF23C4"
-				"size" "D6C27E95E02E768EFFD9969102CE4E2E"
-				"download" "FB52A1A19938435104347C724DF72988"
-			}
-			"adventure_test"
-			{
-				"gid" "B879E53AEC2BFE70C698DDEDE063490D"
-				"size" "AD5075CDAD69437638EB17800D4376A3"
-				"download" "2A2DA6E1006FE01B6F47362797E06F9B"
-			}
-			"testing"
-			{
-				"gid" "EB8BB59050E539381CCD119DCBE2201F"
-				"size" "34960ED9B2D3F30D4F3FC891E494811D"
-				"download" "7D4645A17B7190BE352ACBBA60B94ECC"
-			}
-			"quicktest"
-			{
-				"gid" "65E60AC6FF700DEA047D91B30CBD4A4D"
-				"size" "B4CBEA61E644A616139B84E0C107DA1B"
-				"download" "7A873E0FD3B98F6AEADC24E67AA0721A"
-			}
-		}
 	}
 	"975373"
 	{
@@ -459,21 +405,27 @@
 		{
 			"public"
 			{
-				"gid" "8293013984059274291"
-				"size" "31981489"
-				"download" "10271600"
+				"gid" "3030371915149882630"
+				"size" "42107427"
+				"download" "12028624"
 			}
 			"beta"
 			{
-				"gid" "5682042267762392006"
-				"size" "41869655"
-				"download" "11965504"
+				"gid" "3030371915149882630"
+				"size" "42107427"
+				"download" "12028624"
 			}
 			"experimental"
 			{
-				"gid" "5682042267762392006"
-				"size" "41869655"
-				"download" "11965504"
+				"gid" "3030371915149882630"
+				"size" "42107427"
+				"download" "12028624"
+			}
+			"50.15"
+			{
+				"gid" "8293013984059274291"
+				"size" "31981489"
+				"download" "10271600"
 			}
 			"50.14"
 			{
@@ -506,88 +458,31 @@
 				"download" "10583776"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"audio_test"
-			{
-				"gid" "BC83EA1612B6F591E6D52D7793951908"
-				"size" "EEC2C2D8122EFB2321AF2B627B0D9A62"
-				"download" "02999EA08134ED8D603F890E01B1CA77"
-			}
-			"event"
-			{
-				"gid" "5C2E85DD31B37564A27915BFCA2766A0"
-				"size" "90A034353E97FD6510DFAE72A194E746"
-				"download" "C3F0EE42F5870CB1809AC763D4D8151B"
-			}
-			"adventure_test"
-			{
-				"gid" "64EEFE93D629059EDDA4CCAE01BC18C3"
-				"size" "DAC83A92459EDFE7CAAF0BC947451B10"
-				"download" "B2D8D7C57B4700DC5ACF54EF045C295A"
-			}
-			"testing"
-			{
-				"gid" "F44C803CDC658C2D05E34EF38B345B86"
-				"size" "297CEBEFCE73741E0869E885635CFAA3"
-				"download" "5AC5DCB3BAB602854998FFD86C0463F2"
-			}
-			"quicktest"
-			{
-				"gid" "B35A3DE527C10E57374B3F58F8F9698F"
-				"size" "83507F4C0B54F928E17DF6DD25E46DC8"
-				"download" "B732C50E5939825ACC40380608CD37E5"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16733681"
-			"timeupdated" "1734085564"
-		}
-		"audio_test"
-		{
-			"buildid" "16630165"
-			"pwdrequired" "1"
-			"timeupdated" "1733321597"
+			"buildid" "17093093"
+			"timeupdated" "1737643095"
 		}
 		"beta"
 		{
-			"buildid" "16602778"
+			"buildid" "17093093"
 			"description" "Public beta branch"
-			"timeupdated" "1733154763"
-		}
-		"event"
-		{
-			"buildid" "14996675"
-			"pwdrequired" "1"
-			"timeupdated" "1720670028"
+			"timeupdated" "1737560012"
 		}
 		"experimental"
 		{
-			"buildid" "16602778"
+			"buildid" "17093093"
 			"description" "for experimental features early in testing"
-			"timeupdated" "1733154773"
+			"timeupdated" "1737560020"
 		}
-		"adventure_test"
-		{
-			"buildid" "16602778"
-			"pwdrequired" "1"
-			"timeupdated" "1733154782"
-		}
-		"testing"
+		"50.15"
 		{
 			"buildid" "16733681"
-			"pwdrequired" "1"
-			"timeupdated" "1734085535"
-		}
-		"quicktest"
-		{
-			"buildid" "16733681"
-			"pwdrequired" "1"
-			"timeupdated" "1734085543"
+			"description" "Version 50.15"
+			"timeupdated" "1737643137"
 		}
 		"50.14"
 		{
@@ -632,6 +527,7 @@
 			"timeupdated" "1687974058"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -639,6 +535,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26627431"
-"_sha" "c66d9b6bf46f61ce10974481fdb05600a3fef302"
-"_size" "12424"
+"_change_number" "27133241"
+"_sha" "16f4a935d86b379793bb646d37f336b531e49197"
+"_size" "9643"
