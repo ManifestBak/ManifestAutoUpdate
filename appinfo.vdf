@@ -186,11 +186,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"italian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"german"
 		{
 			"supported" "true"
@@ -206,11 +201,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"schinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"polish"
 		{
 			"supported" "true"
@@ -220,11 +210,6 @@
 		{
 			"subtitles" "true"
 			"supported" "true"
-		}
-		"koreana"
-		{
-			"supported" "true"
-			"subtitles" "true"
 		}
 		"turkish"
 		{
@@ -284,11 +269,44 @@
 		"0"
 		{
 			"executable" "PineHarbor.exe"
+			"description_loc"
+			{
+				"english" "DX12 (recommended)"
+			}
+			"description" "DX12 (recommended)"
+		}
+		"1"
+		{
+			"executable" "PineHarbor.exe"
+			"arguments" "-dx11"
+			"description_loc"
+			{
+				"english" "DX11 (good for low-end GPU or if you have crashes)"
+			}
+			"description" "DX11 (good for low-end GPU or if you have crashes)"
 		}
 	}
 }
 "depots"
 {
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228983"
 	{
 		"config"
@@ -343,6 +361,24 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"229004"
 	{
 		"config"
@@ -385,24 +421,9 @@
 		{
 			"public"
 			{
-				"gid" "522890260412785103"
-				"size" "14607921078"
-				"download" "7795394144"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closedtest"
-			{
-				"gid" "C0E9A6ACC53CC6FF8D57904D3F1E8542"
-				"size" "62EF9FA47AAF21AA52D028FD21BD4632"
-				"download" "C9B3A7C915D988946D635AAB5677D910"
-			}
-			"developer"
-			{
-				"gid" "7C628ECFC6F5A598BEE85098838CCAB0"
-				"size" "BC552908997C8BE16DABE8ECFAC58379"
-				"download" "F31F2C8F2EE139D9B656061375D2AAB5"
+				"gid" "8314691490341315904"
+				"size" "13782493183"
+				"download" "6379843776"
 			}
 		}
 	}
@@ -410,20 +431,13 @@
 	{
 		"public"
 		{
-			"buildid" "15946009"
-			"timeupdated" "1728232494"
-		}
-		"closedtest"
-		{
-			"buildid" "15946009"
-			"pwdrequired" "1"
-			"timeupdated" "1728232453"
-		}
-		"developer"
-		{
-			"buildid" "15946009"
-			"pwdrequired" "1"
-			"timeupdated" "1728232443"
+			"buildid" "16658273"
+			"timeupdated" "1733498218"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27095275"
+"_sha" "b0fb237b5bb6e17b6cedc4c0f2dfa97bfc837351"
+"_size" "7083"
