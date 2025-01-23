@@ -166,13 +166,13 @@
 		"19" "6650"
 	}
 	"review_score" "8"
-	"review_percentage" "98"
+	"review_percentage" "97"
 }
 "extended"
 {
 	"developer" "Kinmoku"
 	"publisher" "Kinmoku"
-	"homepage" "https://gamesbykinmoku.com/videoverse/"
+	"homepage" "https://www.kinmoku.games/videoverse"
 }
 "config"
 {
@@ -246,18 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "4970806386754363945"
-				"size" "648894036"
-				"download" "491908032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "54A88C076135AC262A579A608AFB7C2C"
-				"size" "75FDB3F188E3D9570D044C3D672E1C79"
-				"download" "92BA7C60597D81DCAD2450D7CE17340A"
+				"gid" "7972236651591732135"
+				"size" "650360737"
+				"download" "493420464"
 			}
 		}
 	}
@@ -271,18 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "7993003217573579962"
-				"size" "213610673"
-				"download" "157797600"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "31DDD1D2B6148E03C593ACB5089E74EF"
-				"size" "8666F897A1B997AFFFA1A7A79CE86D23"
-				"download" "00BB9AA900FFDFD2FF02CAB330F18F79"
+				"gid" "2899215063867557508"
+				"size" "559462637"
+				"download" "464266368"
 			}
 		}
 	}
@@ -290,16 +272,11 @@
 	{
 		"public"
 		{
-			"buildid" "15305132"
-			"timeupdated" "1723124366"
-		}
-		"test"
-		{
-			"buildid" "15113637"
-			"pwdrequired" "1"
-			"timeupdated" "1721661541"
+			"buildid" "16394301"
+			"timeupdated" "1731579803"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -334,3 +311,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27108885"
+"_sha" "7df208bf0f776e4042c0b6ec65ba633c4312b417"
+"_size" "5160"
