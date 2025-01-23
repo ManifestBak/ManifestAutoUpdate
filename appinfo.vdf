@@ -92,30 +92,30 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"polish" "capsule_231x87_polish.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"czech" "capsule_231x87_czech.jpg"
-		"french" "capsule_231x87_french.jpg"
-		"german" "capsule_231x87_german.jpg"
-		"hungarian" "capsule_231x87_hungarian.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"koreana" "capsule_231x87_koreana.jpg"
-		"russian" "capsule_231x87_russian.jpg"
-		"thai" "capsule_231x87_thai.jpg"
-		"ukrainian" "capsule_231x87_ukrainian.jpg"
+		"english" "573ceea5fe51726012c42da425d3e120917be51a/capsule_231x87.jpg"
+		"schinese" "be70f4db0cfe1eab390831c2648e2862ae02857f/capsule_231x87_schinese.jpg"
+		"tchinese" "be70f4db0cfe1eab390831c2648e2862ae02857f/capsule_231x87_tchinese.jpg"
+		"czech" "0ec76f7f38b0c79ec2920f161310383b379e7922/capsule_231x87_czech.jpg"
+		"french" "0c1fbf0ecfbe7b74aec38c8560d75b7dbc0585e6/capsule_231x87_french.jpg"
+		"german" "570c484595781a6c2ea94a61fb6cb98e03d97294/capsule_231x87_german.jpg"
+		"japanese" "049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg"
+		"koreana" "d8ae378495f8b0f9d4bc2445c49ef251fa7144ea/capsule_231x87_koreana.jpg"
+		"polish" "d46b5d73f4fb4b8ff0ff279e1e109ab56340c6d3/capsule_231x87_polish.jpg"
+		"russian" "1b0915c20b40474c80236dc376f08fefa44416af/capsule_231x87_russian.jpg"
+		"thai" "b192e4d124313038b423a5d63f0c03a09c7994bc/capsule_231x87_thai.jpg"
+		"ukrainian" "a988689119e8da2a20d5ff528bd38bd5b39cecdd/capsule_231x87_ukrainian.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
-		"polish" "header_polish.jpg"
 		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 		"czech" "header_czech.jpg"
 		"french" "header_french.jpg"
 		"german" "header_german.jpg"
-		"hungarian" "header_hungarian.jpg"
 		"japanese" "header_japanese.jpg"
 		"koreana" "header_koreana.jpg"
+		"polish" "header_polish.jpg"
 		"russian" "header_russian.jpg"
 		"thai" "header_thai.jpg"
 		"ukrainian" "header_ukrainian.jpg"
@@ -125,7 +125,7 @@
 		"library_capsule" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
 		"library_hero" "en,zh-cn,cs,uk"
 		"library_logo" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
-		"library_header" "uk,en,zh-cn,cs,de,fr,hu,pl,ko,ru,ja,th,zh-tw"
+		"library_header" "zh-cn,cs,en,fr,de,ja,ko,pl,ru,th,uk,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -203,23 +203,37 @@
 		{
 			"image"
 			{
-				"ukrainian" "library_header_ukrainian.jpg"
-				"english" "library_header.jpg"
-				"schinese" "library_header_schinese.jpg"
-				"czech" "library_header_czech.jpg"
-				"german" "library_header_german.jpg"
-				"french" "library_header_french.jpg"
-				"hungarian" "library_header_hungarian.jpg"
-				"polish" "library_header_polish.jpg"
-				"koreana" "library_header_koreana.jpg"
-				"russian" "library_header_russian.jpg"
-				"japanese" "library_header_japanese.jpg"
-				"thai" "library_header_thai.jpg"
-				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_schinese.jpg"
+				"czech" "83c39c9c8430de81effa4201e152dcd2e239bbf9/library_header_czech.jpg"
+				"english" "ffe446dc094a06a8254cb58a9e854a1f3b1f87bf/library_header.jpg"
+				"french" "19c70f223d70cf53a05fd4509f0d511fc829e75b/library_header_french.jpg"
+				"german" "0359982f04206bef7b3b59af65252d7bb63da339/library_header_german.jpg"
+				"japanese" "c0207712b02f492f1a2cce9414b11a5f456a899b/library_header_japanese.jpg"
+				"koreana" "35425044db1c8c7a978764829fca02db796cc0c1/library_header_koreana.jpg"
+				"polish" "29c9f99cdb277a410ceb1996d21beba2569ce4e9/library_header_polish.jpg"
+				"russian" "62d99bc0220582115f449459cccd49a1fee33be1/library_header_russian.jpg"
+				"thai" "5c6259a3e02a34c291989409fa03dbf350f852e1/library_header_thai.jpg"
+				"ukrainian" "4f2a4813ff0507efd83887772d7955b3dca4586e/library_header_ukrainian.jpg"
+				"tchinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_schinese_2x.jpg"
+				"czech" "83c39c9c8430de81effa4201e152dcd2e239bbf9/library_header_czech_2x.jpg"
+				"english" "ffe446dc094a06a8254cb58a9e854a1f3b1f87bf/library_header_2x.jpg"
+				"french" "19c70f223d70cf53a05fd4509f0d511fc829e75b/library_header_french_2x.jpg"
+				"german" "0359982f04206bef7b3b59af65252d7bb63da339/library_header_german_2x.jpg"
+				"japanese" "c0207712b02f492f1a2cce9414b11a5f456a899b/library_header_japanese_2x.jpg"
+				"koreana" "35425044db1c8c7a978764829fca02db796cc0c1/library_header_koreana_2x.jpg"
+				"polish" "29c9f99cdb277a410ceb1996d21beba2569ce4e9/library_header_polish_2x.jpg"
+				"russian" "62d99bc0220582115f449459cccd49a1fee33be1/library_header_russian_2x.jpg"
+				"thai" "5c6259a3e02a34c291989409fa03dbf350f852e1/library_header_thai_2x.jpg"
+				"ukrainian" "4f2a4813ff0507efd83887772d7955b3dca4586e/library_header_ukrainian_2x.jpg"
+				"tchinese" "4064d8b126caf7f340aa1a7516226f9d8ca555e0/library_header_tchinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1732630638"
+	"store_asset_mtime" "1737034758"
 	"associations"
 	{
 		"0"
@@ -344,8 +358,8 @@
 		"5" "552282"
 		"6" "30358"
 		"7" "597"
-		"8" "1741"
-		"9" "17389"
+		"8" "17389"
+		"9" "1741"
 		"10" "4726"
 		"11" "1775"
 		"12" "4182"
@@ -429,9 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "1234173501101734259"
-				"size" "1856681891"
-				"download" "1420642208"
+				"gid" "6547474781367634122"
+				"size" "1866920989"
+				"download" "1421300992"
 			}
 		}
 	}
@@ -447,9 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "8981221538054503992"
-				"size" "1968719639"
-				"download" "1445752816"
+				"gid" "6689958205848796264"
+				"size" "1968719802"
+				"download" "1445752704"
 			}
 		}
 	}
@@ -458,8 +472,8 @@
 	{
 		"public"
 		{
-			"buildid" "16759288"
-			"timeupdated" "1736427750"
+			"buildid" "17093354"
+			"timeupdated" "1737630876"
 		}
 	}
 	"privatebranches" "1"
@@ -470,6 +484,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "26924044"
-"_sha" "ffcf07e6f7d066736fd2a5202ddce3352145484a"
-"_size" "10246"
+"_change_number" "27129124"
+"_sha" "401950610600ac4d99cf1a2da04c3895f840368a"
+"_size" "12254"
