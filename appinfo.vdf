@@ -12,21 +12,18 @@
 	"osextended" ""
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"latam" "capsule_231x87_latam.jpg"
+		"english" "fe5cf5d789034c43e534f63674cd321d68db6e72/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"latam" "header_latam.jpg"
-		"french" "header_french.jpg"
-		"spanish" "header_spanish.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en,es-419,zh-xc,es"
 		"library_hero" "es-419,zh-xc,en"
-		"library_logo" "es-419,zh-xc,en,es"
+		"library_logo" "es-419,zh-xc,es,en"
 		"library_header" "en"
 		"logo_position"
 		{
@@ -42,14 +39,14 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
-				"latam" "library_600x900_latam.jpg"
+				"latam" "6a7c1f126e484c6162240f85bd7c8ec597a492f2/library_600x900_latam.jpg"
 				"sc_schinese" "library_600x900_sc_schinese.jpg"
 				"spanish" "library_600x900_spanish.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
-				"latam" "library_600x900_latam_2x.jpg"
+				"latam" "6a7c1f126e484c6162240f85bd7c8ec597a492f2/library_600x900_latam_2x.jpg"
 				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
 				"spanish" "library_600x900_spanish_2x.jpg"
 			}
@@ -75,15 +72,15 @@
 			{
 				"latam" "logo_latam.png"
 				"sc_schinese" "logo_sc_schinese.png"
-				"english" "logo.png"
 				"spanish" "logo_spanish.png"
+				"english" "06d84f55453917bffed098429732b54adc38c51d/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
 				"latam" "logo_latam_2x.png"
 				"sc_schinese" "logo_sc_schinese_2x.png"
 				"spanish" "logo_spanish_2x.png"
+				"english" "06d84f55453917bffed098429732b54adc38c51d/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -100,7 +97,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727427628"
+	"store_asset_mtime" "1734569078"
 	"associations"
 	{
 		"0"
@@ -136,35 +133,45 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1687918223"
 	"community_hub_visible" "1"
 	"gameid" "2355440"
 	"store_tags"
 	{
-		"0" "597"
-		"1" "5900"
-		"2" "3834"
-		"3" "9204"
-		"4" "4191"
-		"5" "4145"
-		"6" "3839"
-		"7" "4175"
-		"8" "4166"
-		"9" "5716"
-		"10" "5186"
-		"11" "10808"
-		"12" "4064"
-		"13" "1667"
-		"14" "1742"
-		"15" "1759"
-		"16" "4182"
-		"17" "493"
-		"18" "9"
-		"19" "492"
+		"0" "21"
+		"1" "1667"
+		"2" "1664"
+		"3" "4166"
+		"4" "3834"
+		"5" "1721"
+		"6" "4064"
+		"7" "5900"
+		"8" "3839"
+		"9" "4182"
+		"10" "4145"
+		"11" "4175"
+		"12" "1742"
+		"13" "597"
+		"14" "5716"
+		"15" "10808"
+		"16" "4191"
+		"17" "9204"
+		"18" "5186"
+		"19" "1759"
 	}
-	"review_score" "5"
-	"review_percentage" "50"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -195,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "3200212567872556398"
-				"size" "2895732168"
-				"download" "1079516720"
+				"gid" "8032449841191108209"
+				"size" "3042867889"
+				"download" "1104802208"
 			}
 		}
 	}
@@ -205,8 +212,12 @@
 	{
 		"public"
 		{
-			"buildid" "14040443"
-			"timeupdated" "1712962043"
+			"buildid" "16819643"
+			"timeupdated" "1734733431"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27038504"
+"_sha" "87a49e059a8e6bb239a7a4f6b91ad9012e38aaa7"
+"_size" "4087"
