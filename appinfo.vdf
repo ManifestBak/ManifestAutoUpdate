@@ -145,11 +145,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"italian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 	}
 	"steam_release_date" "1721509716"
 	"community_visible_stats" "1"
@@ -179,7 +174,7 @@
 		"19" "4175"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -234,18 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "4786483502935671042"
-				"size" "8242502414"
-				"download" "8100505568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "5FCE60FD2BE6A18199F7084F996DB40D"
-				"size" "DA87B44C298E126CD5EB35BD2072F59C"
-				"download" "4AB00EBF002F5C6851E332C8324713C6"
+				"gid" "3139802845687552822"
+				"size" "8244684224"
+				"download" "8102385568"
 			}
 		}
 	}
@@ -253,16 +239,11 @@
 	{
 		"public"
 		{
-			"buildid" "16386353"
-			"timeupdated" "1731464336"
-		}
-		"beta"
-		{
-			"buildid" "16386353"
-			"pwdrequired" "1"
-			"timeupdated" "1731464312"
+			"buildid" "17098710"
+			"timeupdated" "1737595295"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -279,6 +260,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26167675"
-"_sha" "fd419b67f036a0df3db4137a9f8d879fb2ebb721"
-"_size" "4411"
+"_change_number" "27122047"
+"_sha" "ad591b3ec40c066af4113fe574d3c4edbe092ee1"
+"_size" "4060"
