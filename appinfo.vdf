@@ -75,6 +75,40 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.20717187783733"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1653154777"
 	"associations"
 	{
@@ -105,6 +139,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -173,7 +208,7 @@
 		"19" "5716"
 	}
 	"review_score" "5"
-	"review_percentage" "61"
+	"review_percentage" "60"
 }
 "extended"
 {
@@ -244,33 +279,6 @@
 				"download" "4604480544"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"cheatbuild"
-			{
-				"gid" "0F83169CC31D328DC17A8415C034ACEF"
-				"size" "2817CDC8E9B8B58F638E219E1F0B77BD"
-				"download" "D6DDB29C9336D0F2C21DD446B4CD7615"
-			}
-			"forvideo"
-			{
-				"gid" "973FE04665B1887649342EA23EA16013"
-				"size" "F08C60D17FCFFF15A2056A22E586A9FF"
-				"download" "015D6450ACBE85DDFC536B91BBEF94DF"
-			}
-			"jjbtest"
-			{
-				"gid" "0EB3B15FA26683930C513859D1749278"
-				"size" "E7BA83DC2B5B74DB3FE6D870FCE94883"
-				"download" "8774FEB10CE221170DF7DFAC9C00BD00"
-			}
-			"rntest"
-			{
-				"gid" "B4B69B18D232AE5590003735F3F97F1D"
-				"size" "1F28FA8761608E8535C692AAFDA6BF8F"
-				"download" "9BDEF050C83A041B33AD81FC5E4320BB"
-			}
-		}
 	}
 	"1541792"
 	{
@@ -287,27 +295,6 @@
 				"download" "4140277984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"cheatbuild"
-			{
-				"gid" "7ECA1605485F032D644AD8C485D1331D"
-				"size" "F679DFB338A83DA6D883F4601E5FC322"
-				"download" "A804953C605E985A49E3390EB8754F95"
-			}
-			"jjbtest"
-			{
-				"gid" "F65CFC2655ABDD4095270A6C3F99D79A"
-				"size" "CD80DDAD701C55D32E5E35DADFBC6538"
-				"download" "7550A3ACEAFD272CD5E8223C7589D2CC"
-			}
-			"rntest"
-			{
-				"gid" "0F00D35B98E29AE05C14642EB5AFB882"
-				"size" "64F1957F3ED56AE1E8EEB481C24E92C8"
-				"download" "7CB7376F7019F6A144171E57A6383048"
-			}
-		}
 	}
 	"1541793"
 	{
@@ -322,33 +309,6 @@
 				"gid" "2552533427182594210"
 				"size" "8161579286"
 				"download" "6019514960"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"cheatbuild"
-			{
-				"gid" "D3989B31A435DE31AB7957D9C9289597"
-				"size" "64442C1CC421ACA982B89441A258950E"
-				"download" "748F949A8F09B608A18865EA63EB2726"
-			}
-			"forvideo"
-			{
-				"gid" "5E4C1CB868CB9B85E2131695F2B3160B"
-				"size" "A4FDC93BE3DDD580FE2B79C3BFD5F250"
-				"download" "01103572C33426FF036F360D5D2522BA"
-			}
-			"jjbtest"
-			{
-				"gid" "11F3A20EFB082962BC7D2222D738998E"
-				"size" "226907625A01F2149E92E4FA2842AB78"
-				"download" "6CA42F6B6085C9D06E4145557077FCEE"
-			}
-			"rntest"
-			{
-				"gid" "E73649F99F7926519F5814A1CE7A5111"
-				"size" "C4BEFADE29912C17C397ED9530EEC0C1"
-				"download" "CA985CAA996319C4421F29DBE02A38A0"
 			}
 		}
 	}
@@ -368,15 +328,6 @@
 				"download" "327520"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"jjbtest"
-			{
-				"gid" "F65A486C90B80A321CA6FA3F48C89166"
-				"size" "410B5B96CAD3279809CE1BE6CD769566"
-				"download" "FD2F8403AFEF9A9B6AD3A4989EF84971"
-			}
-		}
 	}
 	"1932040"
 	{
@@ -394,15 +345,6 @@
 				"download" "536656"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"jjbtest"
-			{
-				"gid" "E62F92E15439375AC520830B14276BC7"
-				"size" "6C3F3531796ADE31BD59D10C09578324"
-				"download" "C9A5BCB6CCB9789CB0ECFE59B1CAC72A"
-			}
-		}
 	}
 	"branches"
 	{
@@ -411,31 +353,8 @@
 			"buildid" "10628644"
 			"timeupdated" "1677245065"
 		}
-		"cheatbuild"
-		{
-			"buildid" "7680955"
-			"pwdrequired" "1"
-			"timeupdated" "1636449222"
-		}
-		"forvideo"
-		{
-			"buildid" "7921641"
-			"pwdrequired" "1"
-			"timeupdated" "1640100379"
-		}
-		"jjbtest"
-		{
-			"buildid" "10628644"
-			"pwdrequired" "1"
-			"timeupdated" "1677235936"
-		}
-		"rntest"
-		{
-			"buildid" "7675387"
-			"pwdrequired" "1"
-			"timeupdated" "1636379348"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -453,6 +372,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21746736"
-"_sha" "a0b27965622885a4d94b9f78c1c9bc43e21dec96"
-"_size" "8414"
+"_change_number" "27032987"
+"_sha" "96f2927824c2e0edef5f194067bde977166d6f0e"
+"_size" "6108"
