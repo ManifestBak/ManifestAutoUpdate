@@ -254,15 +254,6 @@
 				"download" "2163157312"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "B98D17ABA56D217791616273747211E9"
-				"size" "D3F120278F7F9FF71A78E3145332E240"
-				"download" "31DC8082742664D310B777CBC67E93DB"
-			}
-		}
 	}
 	"1900780"
 	{
@@ -286,15 +277,6 @@
 				"gid" "6112903276228085670"
 				"size" "281745"
 				"download" "57808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "C4F5009282DFAD9B4426D2DC80D29524"
-				"size" "A777D156FE8D2C5BDA36B940C40BCA37"
-				"download" "13DA71E6A462D36128691F612D87E568"
 			}
 		}
 	}
@@ -322,15 +304,6 @@
 				"download" "41600"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "611F0D859CCED16BE0170F9EFC349E52"
-				"size" "7CD284F7DA6C42A8145A50C50BBDB0E5"
-				"download" "F3A5D0E47F2DCE8C95F8404EEC47F852"
-			}
-		}
 	}
 	"2189290"
 	{
@@ -354,15 +327,6 @@
 				"gid" "3113957078485006415"
 				"size" "283150"
 				"download" "51888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "358EF60EADB68982871E324828ABB7CD"
-				"size" "ADDD51569755530CF7A418DF767A12A7"
-				"download" "A9DEA53C78D338899484768EF869F887"
 			}
 		}
 	}
@@ -390,15 +354,6 @@
 				"download" "230064"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "81EA62DF8D34F1A415DD854A1DC8A05C"
-				"size" "BF7CC3D7978397A9460B666337B13607"
-				"download" "97100E895002D491E4FC1CC842732424"
-			}
-		}
 	}
 	"2444080"
 	{
@@ -424,15 +379,6 @@
 				"download" "228176"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "F0B0306AF625463937196577E760DD3C"
-				"size" "D5A604922ED49D3DD75547C300AF2554"
-				"download" "37BC47F54E2CEEF57723F021499420DF"
-			}
-		}
 	}
 	"branches"
 	{
@@ -453,13 +399,8 @@
 			"description" "Very frequent and potentially bug infested builds"
 			"timeupdated" "1727859961"
 		}
-		"preview"
-		{
-			"buildid" "15899984"
-			"pwdrequired" "1"
-			"timeupdated" "1727859683"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -479,3 +420,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "3b83060e46ec3e13c22b79907746c1b16a0ce74e"
+"_size" "7680"
