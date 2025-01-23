@@ -68,6 +68,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_d729f457bce79f4fe36baa1702d0d28194725849.jpg"
 	"store_asset_mtime" "1530448457"
 	"associations"
 	{
@@ -91,8 +92,7 @@
 	"genres"
 	{
 		"0" "1"
-		"1" "25"
-		"2" "23"
+		"1" "23"
 	}
 	"category"
 	{
@@ -184,26 +184,26 @@
 	"gameid" "622370"
 	"store_tags"
 	{
-		"0" "3959"
+		"0" "3843"
 		"1" "19"
-		"2" "1773"
-		"3" "4711"
-		"4" "3871"
-		"5" "492"
-		"6" "7481"
-		"7" "5125"
-		"8" "1716"
-		"9" "3843"
-		"10" "21"
+		"2" "1685"
+		"3" "4182"
+		"4" "42804"
+		"5" "4711"
+		"6" "3859"
+		"7" "3959"
+		"8" "492"
+		"9" "1720"
+		"10" "1716"
 		"11" "1759"
-		"12" "4182"
-		"13" "1685"
-		"14" "3964"
-		"15" "1720"
-		"16" "3859"
-		"17" "42804"
-		"18" "3841"
-		"19" "7368"
+		"12" "1773"
+		"13" "5125"
+		"14" "3841"
+		"15" "7481"
+		"16" "7368"
+		"17" "1775"
+		"18" "6730"
+		"19" "4508"
 	}
 	"review_score" "5"
 	"review_percentage" "57"
@@ -268,27 +268,6 @@
 				"download" "116381600"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_testing"
-			{
-				"gid" "45FA66FF2A141E8790AEC5960E37E87E"
-				"size" "07A521696FE05AB237B283D03FC3EB24"
-				"download" "C877A50E86E9DE8640D493835CB22F49"
-			}
-			"development"
-			{
-				"gid" "AF7CC8CC549CADC86A2CB3632530C58F"
-				"size" "4D0941B9B4135929E03520E8AAE52AFC"
-				"download" "B30686AC984EFFC89B40210FA4256A91"
-			}
-			"review"
-			{
-				"gid" "7D657F60352A596764C82C53D69A0547"
-				"size" "315C77BDA0FFD5BAFC7CA7C9BFCC22B5"
-				"download" "752DB90B79C3561F7C645FFAAB0F2C6B"
-			}
-		}
 	}
 	"622372"
 	{
@@ -303,27 +282,6 @@
 				"gid" "7300566068441046905"
 				"size" "324041817"
 				"download" "119255360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_testing"
-			{
-				"gid" "5543C6D891770ECBD94E4AF95C9CA6A2"
-				"size" "3B65BC9DB776668A445254AA15A9D875"
-				"download" "6D34EF4DF4ACF1DEFFF62D72105F5398"
-			}
-			"development"
-			{
-				"gid" "9B5011A4F653E9AA1C798765DF37116E"
-				"size" "AE448828113008F2979B23DA205F84FF"
-				"download" "AE448828113008F2979B23DA205F84FF"
-			}
-			"review"
-			{
-				"gid" "3767B8196692828EC9B0F697CBC15F97"
-				"size" "62CAEA810023A548CF8E271AC4FE8E34"
-				"download" "62CAEA810023A548CF8E271AC4FE8E34"
 			}
 		}
 	}
@@ -342,27 +300,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_testing"
-			{
-				"gid" "60B0FD51EAA1B05FA1F1E7B9E323FE30"
-				"size" "D9304F6DB962F0AB68A99AEE531E55CB"
-				"download" "D11C4B019556632EE2B1581974E9DC0C"
-			}
-			"development"
-			{
-				"gid" "D741AE87212688690DC3811877059063"
-				"size" "AE448828113008F2979B23DA205F84FF"
-				"download" "AE448828113008F2979B23DA205F84FF"
-			}
-			"review"
-			{
-				"gid" "0E46C4B676EE8ED48EC3197F47B40029"
-				"size" "62CAEA810023A548CF8E271AC4FE8E34"
-				"download" "62CAEA810023A548CF8E271AC4FE8E34"
-			}
-		}
 	}
 	"683270"
 	{
@@ -375,15 +312,6 @@
 				"download" "81870000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta_testing"
-			{
-				"gid" "4CBCD0CCC5358486CE987C5780EAC285"
-				"size" "61A03A3154E02D96A326EF9029DBBF27"
-				"download" "86052E0D2586C86199D5C1CCEAAD3E93"
-			}
-		}
 		"dlcappid" "683270"
 	}
 	"branches"
@@ -393,25 +321,8 @@
 			"buildid" "2389388"
 			"timeupdated" "1513850178"
 		}
-		"beta_testing"
-		{
-			"buildid" "2367885"
-			"pwdrequired" "1"
-			"timeupdated" "1513258405"
-		}
-		"development"
-		{
-			"buildid" "2196578"
-			"pwdrequired" "1"
-			"timeupdated" "1508140497"
-		}
-		"review"
-		{
-			"buildid" "2202698"
-			"pwdrequired" "1"
-			"timeupdated" "1508179777"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -432,3 +343,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "4d146cc9901ca98f638895b374f0193846aca494"
+"_size" "5867"
