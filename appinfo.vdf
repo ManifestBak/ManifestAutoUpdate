@@ -288,21 +288,6 @@
 				"download" "10448112"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "6E801558F1DE690450C4D61078D24854"
-				"size" "34AB4F7DEBAB02C680AD6F02F83A6165"
-				"download" "A232D95270B3195F02643371A131E7A1"
-			}
-			"qatest"
-			{
-				"gid" "3114DEEC5F8E2104E5C30A61EE2893F9"
-				"size" "5ECEC06C8F73655598D30575B5B6B528"
-				"download" "DC838AD5FCA9490425662DC50AA76DEB"
-			}
-		}
 	}
 	"110810"
 	{
@@ -318,21 +303,6 @@
 				"download" "176"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "54EDA1284B9BA265A5B88EA48C95CC2A"
-				"size" "7D9071BA42CAF539476F33E4FEED9F31"
-				"download" "91273367F2D5436E88FFEBB3FB515EFE"
-			}
-			"qatest"
-			{
-				"gid" "DFA2213CB6E44FE1C23A6E9B4527DCA5"
-				"size" "EB676BAD27E4772D1E1AADE2D8EB8FE4"
-				"download" "B2074B814EBF50CA89E8E875982F1D1C"
-			}
-		}
 	}
 	"110801"
 	{
@@ -346,21 +316,6 @@
 				"download" "13787094928"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "836241D64B9E415E4B505DDA7BC33087"
-				"size" "0F921ED2FF192CE3A6BEDADA39ED2CEF"
-				"download" "4D9279411AE3D41ACBCB46FC1F1EAE6B"
-			}
-			"qatest"
-			{
-				"gid" "3D52BBA86F5C8A3723E9CE4F59E80526"
-				"size" "64FB59EEEFAFE610101A4611B6C4C74D"
-				"download" "33E15CFD8D0866A333AB05C38E1FC12E"
-			}
-		}
 	}
 	"1899671"
 	{
@@ -368,30 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "4314480538513998869"
-				"size" "225194261"
-				"download" "182006816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qabeta"
-			{
-				"gid" "67B136F947EC1ED098F32662EB9F50EC"
-				"size" "21B8C00EFE16A9481DBBA5CC868B80FC"
-				"download" "80E2E9980CA3FC6C2C9806FDBD37234C"
-			}
-			"qalive"
-			{
-				"gid" "4D7FC5C5A25403C9A8CB90819F8D9855"
-				"size" "A70FFC6D309BE28039CD4C839203B8B2"
-				"download" "D900AA5B74ADB34CB3469F9727A2D6DC"
-			}
-			"qatest"
-			{
-				"gid" "EE4BA8E3F1E53D1E65DF7A95B86A4B59"
-				"size" "C72128A01BB1DBC7839AA4A34FC042C8"
-				"download" "7A1AAC05E0FF86E9FE326755F181E478"
+				"gid" "7309245091404364848"
+				"size" "227690764"
+				"download" "184524800"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -403,27 +337,10 @@
 			"buildid" "13185632"
 			"timeupdated" "1706630752"
 		}
-		"qabeta"
-		{
-			"buildid" "15204275"
-			"pwdrequired" "1"
-			"timeupdated" "1722371057"
-		}
-		"qatest"
-		{
-			"buildid" "13185632"
-			"pwdrequired" "1"
-			"timeupdated" "1705413591"
-		}
-		"qalive"
-		{
-			"buildid" "16080821"
-			"pwdrequired" "1"
-			"timeupdated" "1729169161"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26262797"
-"_sha" "75c29b8d216dfcc63de2617132bb3dcf07962ec1"
-"_size" "8124"
+"_change_number" "27131888"
+"_sha" "8302b7e1a98a3e4545728737fe04d6369f53f44f"
+"_size" "6156"
