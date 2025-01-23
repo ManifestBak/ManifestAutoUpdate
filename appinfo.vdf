@@ -66,7 +66,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "612dc2f60985ed4499110e441838fbc46e622b76/capsule_231x87.jpg"
+		"english" "545017325c8a7b265ddaf860024cf0ff2af9e4e5/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -76,16 +76,77 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "35.60747485445407"
-			"height_pct" "66.0608453739237"
+			"width_pct" "30.70758038610097"
+			"height_pct" "56.351616849324095"
 		}
 	}
-	"store_asset_mtime" "1723639606"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "9065358fa3b602a4d30ed0b1bf0322c4e697265f/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "9065358fa3b602a4d30ed0b1bf0322c4e697265f/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "6e2df1d69929a46593ced36091afc84521d2721e/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "6e2df1d69929a46593ced36091afc84521d2721e/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6e2df1d69929a46593ced36091afc84521d2721e/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.70758038610097"
+				"height_pct" "56.351616849324095"
+			}
+			"image2x"
+			{
+				"english" "f0a20a49af2455538758f44337556169fa39d178/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "ba09766af6c962dc1f7f5eaace294c84b2615283/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3f8666bfd73f56701cd597430d7da82efe237484/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3f8666bfd73f56701cd597430d7da82efe237484/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737032426"
 	"associations"
 	{
 		"0"
@@ -203,7 +264,7 @@
 		"19" "1742"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -240,30 +301,15 @@
 		{
 			"public"
 			{
-				"gid" "2090136185348504497"
-				"size" "4726735945"
-				"download" "3985681072"
+				"gid" "4740856448673132138"
+				"size" "4741452882"
+				"download" "3996904656"
 			}
 			"beta"
 			{
-				"gid" "2090136185348504497"
-				"size" "4726735945"
-				"download" "3985681072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbuilds"
-			{
-				"gid" "45811AE1C11DEC61EBCAD3D80C0A0CE2"
-				"size" "EA01854C6916653A2F28E9C1AC9E26DB"
-				"download" "C9024EB8939BAC5D235E63845EE26ED6"
-			}
-			"alpha"
-			{
-				"gid" "653FD729CFD7460CCA5D174477D58DE3"
-				"size" "84326C941B6BF77B45FD0441246253E7"
-				"download" "E8BD2F521B1024E671538C273FB82D50"
+				"gid" "4740856448673132138"
+				"size" "4741452882"
+				"download" "3996904656"
 			}
 		}
 	}
@@ -271,28 +317,17 @@
 	{
 		"public"
 		{
-			"buildid" "15396273"
-			"timeupdated" "1723837374"
-		}
-		"devbuilds"
-		{
-			"buildid" "10506688"
-			"pwdrequired" "1"
-			"timeupdated" "1675869722"
-		}
-		"alpha"
-		{
-			"buildid" "15367538"
-			"pwdrequired" "1"
-			"timeupdated" "1723634420"
+			"buildid" "16704677"
+			"timeupdated" "1734080008"
 		}
 		"beta"
 		{
-			"buildid" "15396273"
+			"buildid" "16704677"
 			"description" "Public beta branch"
-			"timeupdated" "1723819941"
+			"timeupdated" "1734020607"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -312,3 +347,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27025128"
+"_sha" "8c7d6c2118d1399eaf7898d0565fed096bb5f59b"
+"_size" "6177"
