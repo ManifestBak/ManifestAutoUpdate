@@ -33,6 +33,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1560378648"
 	"associations"
 	{
@@ -156,9 +194,9 @@
 		{
 			"public"
 			{
-				"gid" "6630864248784742197"
-				"size" "535243456"
-				"download" "343295552"
+				"gid" "6990989962745785977"
+				"size" "507319704"
+				"download" "336146160"
 			}
 		}
 	}
@@ -172,9 +210,9 @@
 		{
 			"public"
 			{
-				"gid" "8525803885031419835"
-				"size" "518029103"
-				"download" "337461840"
+				"gid" "2384208418647918806"
+				"size" "497683119"
+				"download" "332933232"
 			}
 		}
 	}
@@ -188,9 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "1193883793833416191"
-				"size" "490785104"
-				"download" "329983888"
+				"gid" "5693708960768362999"
+				"size" "494855899"
+				"download" "332225072"
 			}
 		}
 	}
@@ -204,7 +242,7 @@
 		{
 			"public"
 			{
-				"gid" "1520225058721208909"
+				"gid" "5652432305488954002"
 				"size" "72"
 				"download" "112"
 			}
@@ -222,7 +260,7 @@
 		{
 			"public"
 			{
-				"gid" "1971350027486742271"
+				"gid" "2822158442887019866"
 				"size" "72"
 				"download" "112"
 			}
@@ -249,8 +287,12 @@
 	{
 		"public"
 		{
-			"buildid" "9945235"
-			"timeupdated" "1668552439"
+			"buildid" "16993996"
+			"timeupdated" "1736821557"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26982115"
+"_sha" "7fed062e562e70a70b1615ff447594becd72ea62"
+"_size" "4520"
