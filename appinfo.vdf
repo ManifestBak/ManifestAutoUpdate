@@ -34,6 +34,36 @@
 			"height_pct" "75.29972909853254"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.7092360105533"
+				"height_pct" "75.29972909853254"
+			}
+		}
+	}
 	"store_asset_mtime" "1668546658"
 	"associations"
 	{
@@ -189,30 +219,21 @@
 		{
 			"public"
 			{
-				"gid" "6237665050801905248"
-				"size" "32709956"
-				"download" "27185072"
-			}
-			"dxbeta"
-			{
-				"gid" "2441461154109750076"
-				"size" "32944316"
-				"download" "27282048"
+				"gid" "5962345425940950156"
+				"size" "33079077"
+				"download" "27349776"
 			}
 			"beta"
 			{
-				"gid" "572103028213337410"
-				"size" "32990981"
-				"download" "27301568"
+				"gid" "5962345425940950156"
+				"size" "33079077"
+				"download" "27349776"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
+			"dxbeta"
 			{
-				"gid" "6C9279767E3C46E90A402DB84E8C6EFB"
-				"size" "A030917FF14D86B35E94165F2EAB62E5"
-				"download" "5D66B303F4D8B6E64A53B8075764BA11"
+				"gid" "5962345425940950156"
+				"size" "33079077"
+				"download" "27349776"
 			}
 		}
 	}
@@ -226,30 +247,21 @@
 		{
 			"public"
 			{
-				"gid" "6842386947956305642"
-				"size" "37653598"
-				"download" "28050288"
-			}
-			"dxbeta"
-			{
-				"gid" "6842386947956305642"
-				"size" "37653598"
-				"download" "28050288"
+				"gid" "9125220506241183286"
+				"size" "37903826"
+				"download" "28213984"
 			}
 			"beta"
 			{
-				"gid" "451609806113392515"
-				"size" "37809830"
-				"download" "28157600"
+				"gid" "9125220506241183286"
+				"size" "37903826"
+				"download" "28213984"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
+			"dxbeta"
 			{
-				"gid" "F43E53150901C04633DFB8D3BCD853F8"
-				"size" "E30CEEC8C675FFE462CD074B99A1F012"
-				"download" "105BEA49787218E616362C90C096BEEB"
+				"gid" "9125220506241183286"
+				"size" "37903826"
+				"download" "28213984"
 			}
 		}
 	}
@@ -258,28 +270,23 @@
 	{
 		"public"
 		{
-			"buildid" "7264241"
-			"timeupdated" "1635285255"
-		}
-		"dxbeta"
-		{
-			"buildid" "10999054"
-			"description" "DirectX Beta"
-			"timeupdated" "1681428226"
+			"buildid" "17057551"
+			"timeupdated" "1737499005"
 		}
 		"beta"
 		{
-			"buildid" "14525659"
+			"buildid" "17057551"
 			"description" "Beta Test"
-			"timeupdated" "1716938553"
+			"timeupdated" "1737346725"
 		}
-		"internal"
+		"dxbeta"
 		{
-			"buildid" "14525659"
-			"pwdrequired" "1"
-			"timeupdated" "1716937536"
+			"buildid" "17057551"
+			"description" "DirectX Beta"
+			"timeupdated" "1737499405"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -314,3 +321,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27101882"
+"_sha" "01535f3404ed568688f2db950fdb08a590e9dd08"
+"_size" "5337"
