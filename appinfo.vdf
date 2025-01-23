@@ -10,6 +10,10 @@
 	"clienticon" "34d08446085cc74983fff6f37ca88a1839500e11"
 	"clienttga" "719c3a39a8c7cccd82920fdef8f6da55e53b1eb6"
 	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "ベネフィットシップ"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -18,6 +22,45 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1728086400"
+		"tested_build_id" "14890709"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -89,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725223585"
+	"store_asset_mtime" "1731622143"
 	"associations"
 	{
 		"0"
@@ -114,6 +157,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -124,6 +168,12 @@
 			"subtitles" "true"
 			"full_audio" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1720795773"
 	"community_hub_visible" "1"
@@ -133,8 +183,8 @@
 		"0" "9130"
 		"1" "12095"
 		"2" "24904"
-		"3" "6650"
-		"4" "44868"
+		"3" "44868"
+		"4" "6650"
 		"5" "5611"
 		"6" "3799"
 		"7" "7208"
@@ -144,8 +194,8 @@
 		"11" "9551"
 		"12" "4234"
 		"13" "599"
-		"14" "597"
-		"15" "3871"
+		"14" "3871"
+		"15" "597"
 		"16" "7250"
 		"17" "4562"
 		"18" "4182"
@@ -217,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "7086137500544096332"
-				"size" "805365468"
-				"download" "342029120"
+				"gid" "1816345352653266102"
+				"size" "1470096321"
+				"download" "525033312"
 			}
 		}
 	}
@@ -227,8 +277,8 @@
 	{
 		"public"
 		{
-			"buildid" "15090862"
-			"timeupdated" "1721403396"
+			"buildid" "16810862"
+			"timeupdated" "1734721176"
 		}
 	}
 }
@@ -264,3 +314,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26956014"
+"_sha" "35d18fa9b55e976569df2ea94024bdbdbcc2f65f"
+"_size" "5358"
