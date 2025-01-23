@@ -16,6 +16,7 @@
 		"tchinese" "菜市場模擬器"
 		"japanese" "旧市場シミュレーター"
 		"koreana" "옛날 재래시장 시뮬레이터"
+		"sc_schinese" "菜市场模拟器"
 	}
 	"languages"
 	{
@@ -25,6 +26,7 @@
 		"tchinese" "1"
 		"japanese" "1"
 	}
+	"releasestatesteamchina" "prerelease"
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
@@ -80,10 +82,10 @@
 	"small_capsule"
 	{
 		"english" "ebfdacdd607ae888c6c237d2738f50b33e659afc/capsule_231x87.jpg"
-		"schinese" "17dab2d2ff8796c2bcb1d8fe73b315d7a6878eeb/capsule_231x87_schinese.jpg"
-		"tchinese" "1c8de24795a01b26cf7f35a8c0e2ff29d4edc989/capsule_231x87_tchinese.jpg"
-		"japanese" "b20535b3950353ee1ca69322e4aa9a3a6f08c1d1/capsule_231x87_japanese.jpg"
-		"koreana" "5579554f1560e28080e32360c7089ac9d62f0aeb/capsule_231x87_koreana.jpg"
+		"schinese" "8c8d38b7a4728011599e157c48e415ba077c90a5/capsule_231x87_schinese.jpg"
+		"tchinese" "4d2bdb28c048563f8a93e1c3178c28b668ee6bc1/capsule_231x87_tchinese.jpg"
+		"japanese" "14afcec9ee63846a5b78edcf7106fa366a303e5b/capsule_231x87_japanese.jpg"
+		"koreana" "f4ea2f3fe5724cbef542a06f850812ea967585aa/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
@@ -190,7 +192,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732523750"
+	"store_asset_mtime" "1737539395"
 	"associations"
 	{
 		"0"
@@ -329,7 +331,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -347,6 +349,10 @@
 			"type" "default"
 		}
 	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
 }
 "depots"
 {
@@ -356,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "7041080594647267559"
-				"size" "1555551783"
-				"download" "482970144"
+				"gid" "3047266405508378072"
+				"size" "1555620529"
+				"download" "482990208"
 			}
 		}
 	}
@@ -366,13 +372,13 @@
 	{
 		"public"
 		{
-			"buildid" "17065379"
-			"timeupdated" "1737381305"
+			"buildid" "17097373"
+			"timeupdated" "1737585543"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27076482"
-"_sha" "c98671f3800b8380966a8dfdcbe9d7773c3bb58a"
-"_size" "7834"
+"_change_number" "27120215"
+"_sha" "431b2951fc85f7f3f3af4198a632a3842da8bae6"
+"_size" "7989"
