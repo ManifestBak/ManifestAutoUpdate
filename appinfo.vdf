@@ -263,8 +263,8 @@
 	{
 		"0" "1723"
 		"1" "1645"
-		"2" "1676"
-		"3" "6730"
+		"2" "6730"
+		"3" "1676"
 		"4" "9"
 		"5" "7332"
 		"6" "4191"
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "8453218185429124718"
-				"size" "17557782353"
-				"download" "7273211568"
+				"gid" "8145923834963656039"
+				"size" "17558682497"
+				"download" "7273439168"
 			}
 		}
 	}
@@ -345,8 +345,8 @@
 	{
 		"public"
 		{
-			"buildid" "17061725"
-			"timeupdated" "1737367825"
+			"buildid" "17097988"
+			"timeupdated" "1737601751"
 		}
 	}
 	"privatebranches" "1"
@@ -367,9 +367,29 @@
 				"1" "Windows"
 			}
 		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Achilles/Saves"
+			"pattern" "*.*sav*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Achilles/Saves"
+			"pattern" "*.*sav*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27073428"
-"_sha" "230693ae5bea079937b57931234998e0abfe41b7"
-"_size" "6873"
+"_change_number" "27123314"
+"_sha" "78ca5d1d6ef6c2b5054e9005969eae4374042121"
+"_size" "7174"
