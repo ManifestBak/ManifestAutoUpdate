@@ -35,6 +35,60 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1736294400"
+		"tested_build_id" "16436159"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -230,8 +284,8 @@
 	"store_tags"
 	{
 		"0" "492"
-		"1" "122"
-		"2" "3964"
+		"1" "3964"
+		"2" "122"
 		"3" "3942"
 		"4" "32322"
 		"5" "4182"
@@ -248,7 +302,7 @@
 		"16" "4236"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -301,9 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "5039487543253912185"
-				"size" "704203224"
-				"download" "475149360"
+				"gid" "505260330717893512"
+				"size" "704351630"
+				"download" "475264528"
 			}
 		}
 	}
@@ -318,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "1841818951307537405"
-				"size" "678300630"
-				"download" "456271808"
+				"gid" "3692994667880907603"
+				"size" "678308693"
+				"download" "456354304"
 			}
 		}
 	}
@@ -335,19 +389,20 @@
 		{
 			"public"
 			{
-				"gid" "876691651425349462"
-				"size" "721749193"
-				"download" "482356800"
+				"gid" "7270887281104665452"
+				"size" "689304661"
+				"download" "471381392"
 			}
 		}
 	}
 	"baselanguages" "english"
+	"workshopdepot" "3177970"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16938179"
-			"timeupdated" "1736329856"
+			"buildid" "17102582"
+			"timeupdated" "1737622348"
 		}
 	}
 	"privatebranches" "1"
@@ -401,6 +456,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26905889"
-"_sha" "f0d920b68eda0ca7577193b9cb1732943fc6a450"
-"_size" "7309"
+"_change_number" "27126999"
+"_sha" "1d53e4acc2efc4e3221bdf1022b256f194c2a3a2"
+"_size" "8672"
