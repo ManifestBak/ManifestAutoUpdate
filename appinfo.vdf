@@ -207,7 +207,7 @@
 		"19" "9"
 	}
 	"review_score" "5"
-	"review_percentage" "60"
+	"review_percentage" "59"
 }
 "extended"
 {
@@ -243,42 +243,15 @@
 		{
 			"public"
 			{
-				"gid" "3546554516079935782"
-				"size" "6505835184"
-				"download" "5564662176"
+				"gid" "5070196348234967904"
+				"size" "6505986599"
+				"download" "5564828960"
 			}
 			"open_beta"
 			{
-				"gid" "6290509710206661112"
-				"size" "8608140674"
-				"download" "5320797072"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"baseline"
-			{
-				"gid" "A8AE62FB375D0AAB9E593F2D754B2B57"
-				"size" "DD58B897A1E0069DFC11DCE61B533089"
-				"download" "1419D61D7A034043BDD534114E6DFEB6"
-			}
-			"youtube"
-			{
-				"gid" "3FB32456B9160716CF16670CE91D80DD"
-				"size" "8BC6F07D67339E418E59B091F8FCCA62"
-				"download" "48D39167949C99BF114C441095B3E652"
-			}
-			"closed_beta"
-			{
-				"gid" "E8CFE9844F42F20A3814EE624B885798"
-				"size" "C2561E06DA8DF3D2BF3577025E6BA738"
-				"download" "CE9CB18DF323558559B91B41BB2F8D5B"
-			}
-			"private"
-			{
-				"gid" "11CC74740586A33EF8ED335B00FD04A4"
-				"size" "56AD771702406A5A511B27BEE18044BE"
-				"download" "960CB6DAE0BA7685280FE153B2524F81"
+				"gid" "5995694172409557429"
+				"size" "8608319140"
+				"download" "5320910576"
 			}
 		}
 	}
@@ -289,40 +262,17 @@
 	{
 		"public"
 		{
-			"buildid" "16250082"
-			"timeupdated" "1730383519"
-		}
-		"baseline"
-		{
-			"buildid" "6245760"
-			"pwdrequired" "1"
-			"timeupdated" "1613471487"
-		}
-		"youtube"
-		{
-			"buildid" "13010333"
-			"pwdrequired" "1"
-			"timeupdated" "1703165361"
-		}
-		"closed_beta"
-		{
-			"buildid" "16248922"
-			"pwdrequired" "1"
-			"timeupdated" "1730383530"
+			"buildid" "17065140"
+			"timeupdated" "1737636620"
 		}
 		"open_beta"
 		{
-			"buildid" "16248922"
+			"buildid" "17064821"
 			"description" "Public Beta Branch"
-			"timeupdated" "1730383493"
-		}
-		"private"
-		{
-			"buildid" "16250082"
-			"pwdrequired" "1"
-			"timeupdated" "1730370906"
+			"timeupdated" "1737546602"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -330,6 +280,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "25990432"
-"_sha" "c117fc34248a93b186fb42cb2c900a852ca4fac2"
-"_size" "5987"
+"_change_number" "27130527"
+"_sha" "301d718f083597a1c1c021c8912025a73319af1a"
+"_size" "4861"
