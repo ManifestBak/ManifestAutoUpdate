@@ -12,6 +12,8 @@
 	"clienttga" "57243114cada67bc7d1a77b180a34d7434ba15dc"
 	"linuxclienticon" "e55b4366a593063db72882a521f4227fb0d52a98"
 	"clienticon" "e63a8b88ad262061884482d0d34b52778d74ea91"
+	"osarch" ""
+	"osextended" "macos64"
 	"metacritic_name" "Satellite Reign"
 	"small_capsule"
 	{
@@ -171,8 +173,8 @@
 		"7" "1695"
 		"8" "1687"
 		"9" "1685"
-		"10" "5851"
-		"11" "4791"
+		"10" "4791"
+		"11" "5851"
 		"12" "4155"
 		"13" "4182"
 		"14" "122"
@@ -743,6 +745,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "f3614bbb73bd178197b7342ecbd59d54f7f057d7"
-"_size" "14092"
+"_change_number" "27085390"
+"_sha" "7e8ea369b27618cf9e872ab8140b1a2526ae6af4"
+"_size" "14133"
