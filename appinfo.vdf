@@ -20,6 +20,7 @@
 	{
 		"schinese" "幽灵追踪"
 	}
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -317,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "5692903773866403803"
-				"size" "634276028"
-				"download" "481528912"
+				"gid" "5918860525710670940"
+				"size" "634605933"
+				"download" "481767824"
 			}
 		}
 	}
@@ -328,10 +329,11 @@
 	{
 		"public"
 		{
-			"buildid" "15934326"
-			"timeupdated" "1728071744"
+			"buildid" "16651319"
+			"timeupdated" "1733451446"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -353,6 +355,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25672074"
-"_sha" "7c93922af1102102afdbc68e4dce69f7aa3fc42a"
-"_size" "5890"
+"_change_number" "27015285"
+"_sha" "2d470b1be7372ebf41834ab1d9d1c11d9d5b2b8f"
+"_size" "5946"
