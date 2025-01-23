@@ -60,7 +60,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "90cd5a165aa2f6078aaadc1830a272ea6ab02e00/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -84,11 +84,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "648fcd24c145868b51d5c8b668e0ad747e147625/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "648fcd24c145868b51d5c8b668e0ad747e147625/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -116,7 +116,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1635450703"
+	"store_asset_mtime" "1734895390"
 	"associations"
 	{
 		"0"
@@ -221,24 +221,9 @@
 		{
 			"public"
 			{
-				"gid" "751181796485084130"
-				"size" "1456091773"
-				"download" "1458156816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "51187464395923DD7F1BB15C9E17BAA1"
-				"size" "5139F16091C49155AC606CA3DEC0BD43"
-				"download" "9532E8E46443268E698C5F586E2262FC"
-			}
-			"alpha"
-			{
-				"gid" "09C2EFBCB4DB5ECEFFFFAAFA95BC7B38"
-				"size" "429AF8E8FF4E64FD86D31A072F3F1E81"
-				"download" "7511361B5321255C135F165E90D4D883"
+				"gid" "5002868393178390824"
+				"size" "1788225506"
+				"download" "1793252400"
 			}
 		}
 	}
@@ -253,40 +238,13 @@
 	{
 		"public"
 		{
-			"buildid" "13156973"
-			"timeupdated" "1705065357"
-		}
-		"beta"
-		{
-			"buildid" "13156973"
-			"pwdrequired" "1"
-			"timeupdated" "1705065326"
-		}
-		"alpha"
-		{
-			"buildid" "15778446"
-			"pwdrequired" "1"
-			"timeupdated" "1726889413"
+			"buildid" "17034879"
+			"timeupdated" "1737083711"
 		}
 	}
+	"privatebranches" "1"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#statuswithoutscore" "{#Status_%gamestatus%}"
-				"#statuswithscore" "{#Status_%gamestatus%}: %SCORE%"
-				"#status_atmainmenu" "At the main menu"
-				"#status_waitingformatch" "Waiting for match"
-				"#status_winning" "Winning"
-				"#status_losing" "Losing"
-				"#status_tied" "Tied"
-				"#statusfull" "%text%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "27035795"
+"_sha" "74d20bf2196adef933ce3b17021ec7558eb46cab"
+"_size" "4299"
