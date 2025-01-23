@@ -96,7 +96,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736353581"
+	"store_asset_mtime" "1736762102"
 	"associations"
 	{
 		"0"
@@ -199,7 +199,7 @@
 		"19" "9204"
 	}
 	"review_score" "5"
-	"review_percentage" "46"
+	"review_percentage" "45"
 }
 "extended"
 {
@@ -280,42 +280,21 @@
 		{
 			"public"
 			{
-				"gid" "541007847773097717"
-				"size" "15951520430"
-				"download" "15239667040"
+				"gid" "3478970661124784538"
+				"size" "15951540926"
+				"download" "15239688384"
 			}
 			"patch_test"
 			{
-				"gid" "2715397251670849040"
-				"size" "15985351264"
-				"download" "15272741376"
+				"gid" "3478970661124784538"
+				"size" "15951540926"
+				"download" "15239688384"
 			}
 			"previous_version"
 			{
-				"gid" "2715397251670849040"
-				"size" "15985351264"
-				"download" "15272741376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"patch_test_closed"
-			{
-				"gid" "E5FD64AD23584D585BCD1BB51E1AB414"
-				"size" "D87BE5DD6338ADE3500DFDA86FBF7086"
-				"download" "A192F23DC371607688895BAD20F044F4"
-			}
-			"beta_test_dev"
-			{
-				"gid" "C3816C5B56C3BE1D2796813DBC69A7B0"
-				"size" "0C76188B163E56E37ACB0D8AB743E82C"
-				"download" "12B745139F75D471351F58282E42C145"
-			}
-			"closed_beta_test"
-			{
-				"gid" "1139B5042D848B5BF1C6FDB37E58E27D"
-				"size" "E2F478751CE7896E8A6C83F35272E3B0"
-				"download" "AA6C8C4FCDE7580DBBA4162A81035F25"
+				"gid" "541007847773097717"
+				"size" "15951520430"
+				"download" "15239667040"
 			}
 		}
 	}
@@ -324,40 +303,23 @@
 	{
 		"public"
 		{
-			"buildid" "16965530"
-			"timeupdated" "1736525771"
+			"buildid" "17015856"
+			"timeupdated" "1736962446"
 		}
 		"patch_test"
 		{
-			"buildid" "16952961"
+			"buildid" "17015856"
 			"description" "The latest patch is being tested here. Warning, there may be bugs!"
-			"timeupdated" "1736437227"
-		}
-		"patch_test_closed"
-		{
-			"buildid" "16877183"
-			"pwdrequired" "1"
-			"timeupdated" "1735813600"
+			"timeupdated" "1736962422"
 		}
 		"previous_version"
 		{
-			"buildid" "16952961"
-			"description" "Did something go wrong\? Do you want to go back to a previous version\? Here you will find it"
-			"timeupdated" "1736525700"
-		}
-		"beta_test_dev"
-		{
 			"buildid" "16965530"
-			"pwdrequired" "1"
-			"timeupdated" "1736520929"
-		}
-		"closed_beta_test"
-		{
-			"buildid" "16211186"
-			"pwdrequired" "1"
-			"timeupdated" "1730147422"
+			"description" "Did something go wrong\? Do you want to go back to a previous version\? Here you will find it"
+			"timeupdated" "1736962412"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -365,6 +327,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "26951705"
-"_sha" "a34d75f0badd426d962b0e34398c12eb2871b58e"
-"_size" "6248"
+"_change_number" "27106890"
+"_sha" "1b4f6a8051ee94378dea9e79375b2c15aed177ae"
+"_size" "5358"
