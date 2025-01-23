@@ -7,7 +7,7 @@
 	"icon" "1eeae47a2880add20590ba34f0734bc177d23ee2"
 	"clienttga" "6648e32a9066f2bd15139b148916e387c69a041d"
 	"clienticon" "9602d103d110739f87e9db67e614fac65d06dd59"
-	"oslist" "windows,macos,linux"
+	"oslist" "windows"
 	"logo" "5c3a3685f49c57c1123f38d8597493739354bdab"
 	"logo_small" "5c3a3685f49c57c1123f38d8597493739354bdab_thumb"
 	"languages"
@@ -36,6 +36,8 @@
 		"latam" "Reaper: La leyenda del espadachín pálido"
 		"spanish" "Reaper: La leyenda del espadachín pálido"
 	}
+	"osarch" "64"
+	"osextended" ""
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -65,6 +67,7 @@
 		}
 	}
 	"metacritic_name" "Reaper - Tale of a Pale Swordsman"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -79,6 +82,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -127,8 +131,19 @@
 				"height_pct" "93.76457165189028"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8c42164fe0ff0803367bb702f087a10a78239ff2/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8c42164fe0ff0803367bb702f087a10a78239ff2/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1698237172"
+	"store_asset_mtime" "1734609875"
 	"associations"
 	{
 		"0"
@@ -156,6 +171,10 @@
 		"category_23" "1"
 		"category_28" "1"
 		"category_25" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -213,13 +232,13 @@
 		"19" "4885"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "67"
 }
 "extended"
 {
 	"developer" "Hexage"
 	"publisher" "Hexage"
-	"homepage" "http://www.hexage.net/reaper/"
+	"homepage" "https://www.hexage.net/reaper/"
 }
 "config"
 {
@@ -284,18 +303,21 @@
 		{
 			"public"
 			{
+				"gid" "8118003077310596593"
+				"size" "50681585"
+				"download" "48043920"
+			}
+			"beta"
+			{
+				"gid" "8118003077310596593"
+				"size" "50681585"
+				"download" "48043920"
+			}
+			"legacy"
+			{
 				"gid" "540416203355523868"
 				"size" "51478046"
 				"download" "47263760"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "3B9D2BB4BAC6C8397AA2BC66C2A40AAB"
-				"size" "E86384B87B905E4A9329970461711F26"
-				"download" "0D07F86C84F74997EB084B3C422A79ED"
 			}
 		}
 	}
@@ -314,14 +336,17 @@
 				"size" "37950105"
 				"download" "30851200"
 			}
-		}
-		"encryptedmanifests"
-		{
 			"beta"
 			{
-				"gid" "8511629FD0525DD6597DA7A3B9C190EF"
-				"size" "3C268B4D0A7126C2F37EACA7D6F21DF7"
-				"download" "0528AF08D9CF31F21112A1821DDFE3EE"
+				"gid" "2027439942083162464"
+				"size" "37950105"
+				"download" "30851200"
+			}
+			"legacy"
+			{
+				"gid" "2027439942083162464"
+				"size" "37950105"
+				"download" "30851200"
 			}
 		}
 	}
@@ -340,14 +365,17 @@
 				"size" "37660973"
 				"download" "31567920"
 			}
-		}
-		"encryptedmanifests"
-		{
 			"beta"
 			{
-				"gid" "F89B621B5988807B8D1E4E50B7611623"
-				"size" "9F6575AAEFCD2F1366E043BEC0B6CEBE"
-				"download" "EA5C0E6E6B11D2FC4696DEC3FACEA1C3"
+				"gid" "7424081610912759108"
+				"size" "37660973"
+				"download" "31567920"
+			}
+			"legacy"
+			{
+				"gid" "7424081610912759108"
+				"size" "37660973"
+				"download" "31567920"
 			}
 		}
 	}
@@ -355,14 +383,20 @@
 	{
 		"public"
 		{
-			"buildid" "4293026"
-			"timeupdated" "1571230806"
+			"buildid" "16861958"
+			"timeupdated" "1735322994"
 		}
 		"beta"
 		{
-			"buildid" "4123521"
-			"pwdrequired" "1"
-			"timeupdated" "1566328176"
+			"buildid" "16861958"
+			"description" "Beta Testing"
+			"timeupdated" "1735322939"
+		}
+		"legacy"
+		{
+			"buildid" "4293026"
+			"description" "Legacy Version"
+			"timeupdated" "1734608974"
 		}
 	}
 }
@@ -371,3 +405,7 @@
 	"quota" "1000000"
 	"maxnumfiles" "4"
 }
+"_missing_token" "False"
+"_change_number" "26798953"
+"_sha" "883ca92b82339a39d7f62115005c60e61cb1bb2b"
+"_size" "7350"
