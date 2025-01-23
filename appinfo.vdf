@@ -180,30 +180,6 @@
 	{
 		"dlcappid" "3376090"
 	}
-	"3002843"
-	{
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "4154920044606069504"
-				"size" "906709654"
-				"download" "748951040"
-			}
-		}
-	}
-	"3002844"
-	{
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "6585951843438616328"
-				"size" "906709698"
-				"download" "748951040"
-			}
-		}
-	}
 	"3002845"
 	{
 		"manifests"
@@ -228,12 +204,36 @@
 			}
 		}
 	}
+	"3002841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5943634284002385029"
+				"size" "906709525"
+				"download" "748950992"
+			}
+		}
+	}
+	"3002844"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5134521319041713536"
+				"size" "906710311"
+				"download" "748951024"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17023479"
-			"timeupdated" "1737015833"
+			"buildid" "17077239"
+			"timeupdated" "1737461787"
 		}
 	}
 }
@@ -243,6 +243,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27021060"
-"_sha" "47fb516fbad656b6482dc615ad36f4961c80a210"
+"_change_number" "27092759"
+"_sha" "1d2c1fdd7d12dcd16ac7f40e8a82fb8ba9dbe804"
 "_size" "4536"
