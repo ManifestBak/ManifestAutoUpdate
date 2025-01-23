@@ -128,7 +128,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734536465"
+	"store_asset_mtime" "1737638518"
 	"associations"
 	{
 		"0"
@@ -392,7 +392,7 @@
 	"developer" "FreeMind S.A."
 	"publisher" "PlayWay S.A."
 	"homepage" "http://www.freemind.games"
-	"listofdlc" "2802330,3024210,3151430,3151460"
+	"listofdlc" "2802330,3024210,3151430,3151460,3348130,3392290"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -415,54 +415,9 @@
 		{
 			"public"
 			{
-				"gid" "5102883531711307272"
-				"size" "33767786281"
-				"download" "15804174496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"kandydat1"
-			{
-				"gid" "3216FE7E33AB6F3341220D20971DB933"
-				"size" "5AD777940060056DA5E03C0DD085AF4B"
-				"download" "58C4DB4BFDE00BFF9463473287416F69"
-			}
-			"non_steam"
-			{
-				"gid" "730AAA653E12BED43C032704409C19CA"
-				"size" "440726D524817506FFE81F83069304E8"
-				"download" "A399C3AFB8F58179B4066A30BEE42DB1"
-			}
-			"sandbox"
-			{
-				"gid" "251EDB17CB0187396834E859BA504859"
-				"size" "D890060638B9CFB4180FE5CFF4850EEE"
-				"download" "261B390B9D5E49B2634FE60A4D32C6DE"
-			}
-			"special_build"
-			{
-				"gid" "600EEC83B9C8BF670AB93C7424A93E5C"
-				"size" "C313D26465D3E01E552E856C1EA9A480"
-				"download" "B63B9BEA8E76E15D565B302813654DC6"
-			}
-			"player_testing"
-			{
-				"gid" "2BBD7EC0F9253E3620284B171C592162"
-				"size" "CDA1DFC40349068C3249238B155E7D05"
-				"download" "246170AE9B444B035C83BBF73B61DCC0"
-			}
-			"testing"
-			{
-				"gid" "5C42DDB25FA5F91837FCDF5D14FBB0BD"
-				"size" "DB0BB637010749BE29F435B37EC63546"
-				"download" "195DC68CC117F76A50E49AB5C254CF48"
-			}
-			"testing2"
-			{
-				"gid" "F42C6317D82EABBDCE5E2E3B0B3280A9"
-				"size" "A3ED354E372D61B4F707B45A8D1FAC81"
-				"download" "17C505E402C6A214CE36500248F42F9A"
+				"gid" "5407941029325542538"
+				"size" "33909936488"
+				"download" "15876743232"
 			}
 		}
 	}
@@ -471,52 +426,11 @@
 	{
 		"public"
 		{
-			"buildid" "16834203"
-			"timeupdated" "1734949241"
-		}
-		"kandydat1"
-		{
-			"buildid" "13391295"
-			"pwdrequired" "1"
-			"timeupdated" "1708523168"
-		}
-		"non_steam"
-		{
-			"buildid" "13145974"
-			"pwdrequired" "1"
-			"timeupdated" "1704973240"
-		}
-		"sandbox"
-		{
-			"buildid" "13174925"
-			"pwdrequired" "1"
-			"timeupdated" "1705417943"
-		}
-		"special_build"
-		{
-			"buildid" "14093897"
-			"pwdrequired" "1"
-			"timeupdated" "1713432676"
-		}
-		"player_testing"
-		{
-			"buildid" "15977582"
-			"pwdrequired" "1"
-			"timeupdated" "1728462728"
-		}
-		"testing"
-		{
-			"buildid" "16834203"
-			"pwdrequired" "1"
-			"timeupdated" "1734948586"
-		}
-		"testing2"
-		{
-			"buildid" "16556174"
-			"pwdrequired" "1"
-			"timeupdated" "1732730640"
+			"buildid" "17078328"
+			"timeupdated" "1737654909"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -527,6 +441,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26761486"
-"_sha" "3167305dbcd4c9e93b5d6b7ab05d7d3fcb78f2b0"
-"_size" "9331"
+"_change_number" "27135472"
+"_sha" "e8da110fed396b59e90d10692d612f79edafc4d4"
+"_size" "7363"
