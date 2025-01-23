@@ -83,6 +83,40 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1575419918"
 	"associations"
 	{
@@ -145,6 +179,7 @@
 		"15" "1716"
 		"16" "1734"
 		"17" "4608"
+		"18" "3959"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -239,15 +274,6 @@
 				"download" "43918272"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"updatestest"
-			{
-				"gid" "BF33540C3A8945415D1BD4F2CDA23316"
-				"size" "1A1D8AF91E756AB3EB3364972A8F53A5"
-				"download" "1B127BE3235C1F314880D9A2954A5896"
-			}
-		}
 	}
 	"884262"
 	{
@@ -270,15 +296,6 @@
 				"gid" "4106370375949280957"
 				"size" "306136666"
 				"download" "43922560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"updatestest"
-			{
-				"gid" "5A81525D4404CCE3ACC9F6A2306D3651"
-				"size" "AD29EFBD4A3410D05A9675701AABD6E2"
-				"download" "3EB288E125C06FB10430EA4C5F64E363"
 			}
 		}
 	}
@@ -305,15 +322,6 @@
 				"download" "51732256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"updatestest"
-			{
-				"gid" "E2198A04F88FBC6B44118C115179987E"
-				"size" "5BD209E8C1D74C82198F0340658B77CB"
-				"download" "046436A8C1CD0AE436DB1DE449B5D827"
-			}
-		}
 	}
 	"884264"
 	{
@@ -338,15 +346,6 @@
 				"download" "51086528"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"updatestest"
-			{
-				"gid" "76C79406F9BE9D39F09AC6D0F8DE3F03"
-				"size" "2625BAF612BA516444AB07EB4654B653"
-				"download" "9E39A9CC073693ABA80BBF99F6647BD3"
-			}
-		}
 	}
 	"884265"
 	{
@@ -369,15 +368,6 @@
 				"gid" "3115718160775498211"
 				"size" "320765157"
 				"download" "49305712"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"updatestest"
-			{
-				"gid" "FF222BB4DA5E337AAB599AFD92454AA5"
-				"size" "9BC7EE597BCD1CDB987E0AC594232303"
-				"download" "DA7A40FA5240076103B165D8ED580DD9"
 			}
 		}
 	}
@@ -407,11 +397,10 @@
 			"description" "before game pad patch"
 			"timeupdated" "1538405017"
 		}
-		"updatestest"
-		{
-			"buildid" "3356297"
-			"pwdrequired" "1"
-			"timeupdated" "1543616626"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27011967"
+"_sha" "baaf5885537224b24e12fd8ae15d3a3f6b72e597"
+"_size" "6824"
