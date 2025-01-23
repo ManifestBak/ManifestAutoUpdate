@@ -263,7 +263,7 @@
 		"19" "12472"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -319,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "4932411509899262050"
-				"size" "2599005157"
-				"download" "2389959952"
+				"gid" "1987834744024349958"
+				"size" "2599016782"
+				"download" "2389932048"
 			}
 			"0.22.10"
 			{
@@ -384,87 +384,6 @@
 				"download" "2023390144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"gamescom"
-			{
-				"gid" "089AA510DCF7F3C1BA76A94C97B03E8E"
-				"size" "CB66E68B577A2877E6BEB4719DBD2E4E"
-				"download" "614C8F844D3A77E10147380D242784B1"
-			}
-			"release-0.0"
-			{
-				"gid" "28DF9BDC8FC36100A69736171316DE98"
-				"size" "EF1E0B728FB388F6707210863C68183F"
-				"download" "78F50D6C806DEF7A3312AE3B477524BC"
-			}
-			"release-0.1"
-			{
-				"gid" "E02DCA78B9F31A75EC143729F84E8CD1"
-				"size" "C771C5945E04D7DDCC49FB814A942F80"
-				"download" "2F85C37F9B89D7018C00DBA6D840B1FF"
-			}
-			"release-0.11"
-			{
-				"gid" "91C01893E0315C33A64723A9C96D6562"
-				"size" "547E204CF0625DB3DE87E6CECDECC29F"
-				"download" "BFA6AF02132F35EF3AC3A1AC5505C9C9"
-			}
-			"release-0.16-alpha"
-			{
-				"gid" "D5260ACE7759716FC931C377383C3A60"
-				"size" "3E1D45A47D687669C0C900395511FC03"
-				"download" "D9334F2F699B0BC562FC34308BBEF5DD"
-			}
-			"release-0.17.2"
-			{
-				"gid" "FE071C01C965CDE36C19EF0E213FBBE4"
-				"size" "B81FB8B52902A84D695794E90E676289"
-				"download" "8C25EB4303D647E683E5073F4A09DFD4"
-			}
-			"release-0.17.3"
-			{
-				"gid" "F10B8469504CAB01C03DB24F861AAF8A"
-				"size" "131DF9DCAB256109C3C8D0375C5B4E46"
-				"download" "11B024E78B9B6BEBB5B740203ACC9BAC"
-			}
-			"release-0.2"
-			{
-				"gid" "D06D807A32BBBB3B9D4A4815A2C537E5"
-				"size" "9CB317419974B99117666BC3DD9279F9"
-				"download" "DF766B644617C966821EF88E30378FE1"
-			}
-			"release-0.3"
-			{
-				"gid" "2A79CD3C32468BA2D1510623F47CF29D"
-				"size" "9D2C402AAAD179764188C988E039214A"
-				"download" "B5508D34E794F4F0BEB6481D7FC06370"
-			}
-			"release-0.4"
-			{
-				"gid" "A717431525FE3794DA89A88F3C2240EA"
-				"size" "C195950B33225D7AC6FA6BE87AF97C6C"
-				"download" "E31F095E5B89C7FB6178595852687887"
-			}
-			"test-sdco"
-			{
-				"gid" "B5E4657233E3EB10408E5A9121864573"
-				"size" "36886A50EC41F3D9032BBE40E266F6A3"
-				"download" "BA3F08999C88CD1BE8B4A169816D956F"
-			}
-			"develop"
-			{
-				"gid" "7A1FB1C7AC2A5DF6169BFF1219A57073"
-				"size" "3C8C67E1510F1FF2499E33066AEA70A7"
-				"download" "C37298246646A4BFE3B02B6E28027596"
-			}
-			"qa-testing"
-			{
-				"gid" "0B4AD907BC6C069E067CD7F6989382A6"
-				"size" "7FF89CEF58B6792EF5CD41273E1DBBDC"
-				"download" "5850A462AA4292CC65EBF898F9277B02"
-			}
-		}
 	}
 	"1240452"
 	{
@@ -480,39 +399,6 @@
 				"gid" "2946048641424777798"
 				"size" "6067693321"
 				"download" "2268590112"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"release-0.17.2"
-			{
-				"gid" "F55B9B72A625D7A88EF2542D5AD9D448"
-				"size" "5A2CE26AEFB2B39E6336743743C5ABD0"
-				"download" "25E2C85C85CBDE5B468D8BCD253F2006"
-			}
-			"release-0.17.3"
-			{
-				"gid" "B11F59CA72F8F5A243E4ED82C76AF6AA"
-				"size" "FC70CC04737D2C3F3FE30E0A25743CB9"
-				"download" "78B36C09263B55017A338DCEE4E04518"
-			}
-			"test-sdco"
-			{
-				"gid" "9D149FAEB9434547CDE0015328329939"
-				"size" "D18D72BDB27E2A4CF9C8B95D9DDA471D"
-				"download" "FF41B3D2E02BB36BBF06B81F72C24453"
-			}
-			"develop"
-			{
-				"gid" "9A97EC5ACBBB6F4D26D5B3990AE13A61"
-				"size" "F1DAB132D87A211C37B8E99B47BD2040"
-				"download" "6B69FE5F59212D8CA8120C02CBBA8BFE"
-			}
-			"qa-testing"
-			{
-				"gid" "C6381FA9A5E8BD9FA26639063EE989E2"
-				"size" "AE77160691D9273BBDC093FAC6D028A1"
-				"download" "E087412BBCE1FA2C3B810EEA55B1107A"
 			}
 		}
 	}
@@ -532,64 +418,13 @@
 				"download" "2266478304"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release-0.11"
-			{
-				"gid" "1DBD73ED1723AF01BAC4B354B1A56154"
-				"size" "B80AF4D6BC47E7253FEA29E958A1D08E"
-				"download" "133C3C4772AFD552FDF384435C78A8C4"
-			}
-			"release-0.16-alpha"
-			{
-				"gid" "4424CF0B8F6E79E727CDC24954CCEEBD"
-				"size" "DEBE19A5D083460F368AF139DBA5FF63"
-				"download" "A387E7F0280E2DB4250BEF85943CB246"
-			}
-			"release-0.17.2"
-			{
-				"gid" "7DE02819D9339FDA39C92D2A65B1117C"
-				"size" "7803388205EC71BC3D8944B338C1A4DD"
-				"download" "9D9B05AEC0F11437A80C1AFE805DAC62"
-			}
-			"release-0.17.3"
-			{
-				"gid" "6C1608A6E556C22717936956EF9FD6A0"
-				"size" "9E5122FA9B0FF3FE11703E90A036B836"
-				"download" "BC28794CE227C175CE7096E8DC06F6BA"
-			}
-			"release-0.4"
-			{
-				"gid" "34DB2E3787D3A08CDFB9BA618F3AA7B8"
-				"size" "B3D1A15C049FA7564EABF16A34146D8A"
-				"download" "C6F889BBA55D70007CD3E39F207BDB07"
-			}
-			"test-sdco"
-			{
-				"gid" "E90490E160DC9AB176A8B4361E54161F"
-				"size" "80FD2232A4780CC2C921F8AA39C20855"
-				"download" "17EEB4CDCCDFC863E03F2964A8B99EFE"
-			}
-			"develop"
-			{
-				"gid" "2F90E887E7B33E49D92EB0F235271B5A"
-				"size" "519334253CA40C473C82301A5F3A4D9D"
-				"download" "9E2F48B83C29528A30F85C57848D1842"
-			}
-			"qa-testing"
-			{
-				"gid" "E8DEFB0FC8CC3E33D8833DE9B59FE778"
-				"size" "2D62B9E59EC3E9F5188F02C1E4BFB693"
-				"download" "59C571C6DF3DDF308B9FCC6604B06036"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16226016"
-			"timeupdated" "1731321017"
+			"buildid" "16762451"
+			"timeupdated" "1737542037"
 		}
 		"0.22.10"
 		{
@@ -651,85 +486,8 @@
 			"description" "Beta Version 0.23.2"
 			"timeupdated" "1692302842"
 		}
-		"gamescom"
-		{
-			"buildid" "11775098"
-			"pwdrequired" "1"
-			"timeupdated" "1690217060"
-		}
-		"release-0.0"
-		{
-			"buildid" "4631214"
-			"pwdrequired" "1"
-			"timeupdated" "1583528515"
-		}
-		"release-0.1"
-		{
-			"buildid" "4777885"
-			"pwdrequired" "1"
-			"timeupdated" "1584196939"
-		}
-		"release-0.11"
-		{
-			"buildid" "6566596"
-			"pwdrequired" "1"
-			"timeupdated" "1619166663"
-		}
-		"release-0.16-alpha"
-		{
-			"buildid" "7293461"
-			"pwdrequired" "1"
-			"timeupdated" "1630590441"
-		}
-		"release-0.17.2"
-		{
-			"buildid" "7323085"
-			"pwdrequired" "1"
-			"timeupdated" "1631289092"
-		}
-		"release-0.17.3"
-		{
-			"buildid" "7343768"
-			"pwdrequired" "1"
-			"timeupdated" "1631428957"
-		}
-		"release-0.2"
-		{
-			"buildid" "4935045"
-			"pwdrequired" "1"
-			"timeupdated" "1587653119"
-		}
-		"release-0.3"
-		{
-			"buildid" "5203156"
-			"pwdrequired" "1"
-			"timeupdated" "1592909241"
-		}
-		"release-0.4"
-		{
-			"buildid" "5369271"
-			"pwdrequired" "1"
-			"timeupdated" "1596566603"
-		}
-		"test-sdco"
-		{
-			"buildid" "11449103"
-			"pwdrequired" "1"
-			"timeupdated" "1686575284"
-		}
-		"develop"
-		{
-			"buildid" "16762451"
-			"pwdrequired" "1"
-			"timeupdated" "1734373240"
-		}
-		"qa-testing"
-		{
-			"buildid" "16762451"
-			"pwdrequired" "1"
-			"timeupdated" "1734467551"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -750,6 +508,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26684202"
-"_sha" "350e2a5ad3787cce28548a69cee574cc3feca27d"
-"_size" "14771"
+"_change_number" "27110038"
+"_sha" "8b0f3d9244ea80eb4fb9cb21d55053aaa85feb77"
+"_size" "8683"
