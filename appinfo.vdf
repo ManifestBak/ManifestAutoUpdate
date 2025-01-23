@@ -94,7 +94,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1735892154"
+	"store_asset_mtime" "1736877465"
 	"associations"
 	{
 		"0"
@@ -120,52 +120,64 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"french"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"german"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"brazilian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"latam"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"turkish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1736786531"
@@ -195,8 +207,8 @@
 		"18" "255534"
 		"19" "1644"
 	}
-	"review_score" "7"
-	"review_percentage" "93"
+	"review_score" "8"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -227,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "6051776788566346502"
-				"size" "2647927487"
-				"download" "833942576"
+				"gid" "7748622001227192154"
+				"size" "2688841058"
+				"download" "843576000"
 			}
 		}
 	}
@@ -237,13 +249,33 @@
 	{
 		"public"
 		{
-			"buildid" "16993698"
-			"timeupdated" "1736819585"
+			"buildid" "17097238"
+			"timeupdated" "1737585126"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "120"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "\\PaperPixel Games\\Toyshop Simulator"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "26989351"
-"_sha" "9fd2d93334a3614abba79dc57957cbc5fb4b56b9"
-"_size" "4104"
+"_change_number" "27120146"
+"_sha" "f8a334a279feb217db8629151a04c0886d37e464"
+"_size" "4693"
