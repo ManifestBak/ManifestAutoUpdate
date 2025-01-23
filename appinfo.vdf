@@ -507,33 +507,6 @@
 				"download" "2044400400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_china"
-			{
-				"gid" "D2FF4CACBE409A6348DF99E73CEA25D5"
-				"size" "11EB4D6F503A4BD77FDFCE83ECD89430"
-				"download" "248C6EA1BA4EE2BE4A1DCA9ECDDEC9D8"
-			}
-			"develop"
-			{
-				"gid" "51E88C49E0AA09A8EE67086C277A55B2"
-				"size" "B8C1E7BA6116F179F4EE05BE9E2F37AE"
-				"download" "D8F3875825DB392E69ACA6503CF6F746"
-			}
-			"release"
-			{
-				"gid" "68354C29FAA24C2FA1F43DD4FEBC4549"
-				"size" "A615154B014E9F6A6AE1553824C2BAFD"
-				"download" "B98D9D7F9DE42298FBF55F9637C0886B"
-			}
-			"staging"
-			{
-				"gid" "368E0A4A789580BCAF7DBB1327A0712A"
-				"size" "C28D606A35061AEC445AF0D92AD2CDC2"
-				"download" "3C208DD76BDB36EF0378926F53CDD83E"
-			}
-		}
 	}
 	"382312"
 	{
@@ -639,39 +612,6 @@
 				"gid" "2431612863748963457"
 				"size" "6068859061"
 				"download" "3594952848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"release_china"
-			{
-				"gid" "4411C41D1F4BA5868272F272FFA6A329"
-				"size" "8EDBFEE1C95233CE02066EEA51CB0922"
-				"download" "53D12B6EEC7F9B06323912CCC11918E2"
-			}
-			"develop"
-			{
-				"gid" "04D3DD65982A38B18CFE35C76F20C722"
-				"size" "138F6B48F432A10E81CF52A4B2016F3E"
-				"download" "18C2CD0F38818E37E3C4EB53E19BF5E2"
-			}
-			"playtest"
-			{
-				"gid" "1BF0E8FD7D91A5C9E8221AD7BE01476C"
-				"size" "417D340F117FBB4E383FCDFB9B8892AC"
-				"download" "357FE7DCB884E9339D213D0FF88AB008"
-			}
-			"release"
-			{
-				"gid" "BC23ADC7268A9140BCB8730AC93414C5"
-				"size" "6F148756A17C55A279512D4E9940339A"
-				"download" "74288867F0E5271FBA61F519716221F3"
-			}
-			"staging"
-			{
-				"gid" "46A16E7C8077B2F1109408E4A786D677"
-				"size" "093A48E8F9BD2C081980BFB15171125B"
-				"download" "1EFE7A92CE18837B5354FEF7F074877D"
 			}
 		}
 	}
@@ -780,39 +720,6 @@
 				"download" "3552450464"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_china"
-			{
-				"gid" "641422DFE1D77F54782627F0426AAFBB"
-				"size" "E7369732778F52C1191BB25B6644BD02"
-				"download" "09E9332A0A2D770A20950847C95C8278"
-			}
-			"develop"
-			{
-				"gid" "E5BFFA481B3C6845582A11E838C6B53A"
-				"size" "98B11967A83C47B09C6BDC40F88AC434"
-				"download" "1C2226D9E87F8A42C28D33F25C50AC3A"
-			}
-			"playtest"
-			{
-				"gid" "90C4B87078B2B947BDDFE83CCBF96A9F"
-				"size" "C2C87C73FFF9CFE83D4E70420DB13131"
-				"download" "8617862257FC139DAC12393D7193D242"
-			}
-			"release"
-			{
-				"gid" "0C9E758F48C20F2729DA605E09406CB2"
-				"size" "2095F2F8A8018506ABB83FEDC646BB01"
-				"download" "1445FE6DA04A3A8D76B1FAE6354C1E4F"
-			}
-			"staging"
-			{
-				"gid" "941E525B63D44A7D084227AB805A2435"
-				"size" "434BAA53D535D86C4E923DF2AB0B7F0C"
-				"download" "5343D2A864E1E3128C6EEE7722C25A4A"
-			}
-		}
 	}
 	"382314"
 	{
@@ -919,39 +826,6 @@
 				"download" "3608077168"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"release_china"
-			{
-				"gid" "4FE1A60DF36E43CF5696CE58DA9C79EA"
-				"size" "403737C72B2F42BABBA76FC4DCB640F9"
-				"download" "17EFC063332923815B1CE07791747B6E"
-			}
-			"develop"
-			{
-				"gid" "8B19E923D9DF6B3EFE5219680A7B354A"
-				"size" "3A23A879A36F90D78F1A76358C06F3EC"
-				"download" "795AA6DE575629D5B3C9F2A6210CCEE1"
-			}
-			"playtest"
-			{
-				"gid" "5AF3200081D6734F0EB29563612BE451"
-				"size" "E411F43134349A275B8A5487B80EFA84"
-				"download" "DEB7D9927DCFBE552250DFF075ED6DFD"
-			}
-			"release"
-			{
-				"gid" "055E75364D25A378BC437AEC3A4C50B8"
-				"size" "3F7154C0AFD63A51F003059BF5C7FC17"
-				"download" "E34A3E718B4887C28DAF30B0F2E22A77"
-			}
-			"staging"
-			{
-				"gid" "49E4EB9E70A00B0D47837C4DD26A0925"
-				"size" "B4045CA81AE40DC4B5204E52C14ECDB0"
-				"download" "8961DB6F0B885E4DE8AE48FAE1590996"
-			}
-		}
 	}
 	"branches"
 	{
@@ -959,12 +833,6 @@
 		{
 			"buildid" "17063927"
 			"timeupdated" "1737373627"
-		}
-		"release_china"
-		{
-			"buildid" "10527132"
-			"pwdrequired" "1"
-			"timeupdated" "1676059380"
 		}
 		"11.0.0"
 		{
@@ -1056,31 +924,8 @@
 			"description" "Beta 11.1.7"
 			"timeupdated" "1737372533"
 		}
-		"develop"
-		{
-			"buildid" "17048202"
-			"pwdrequired" "1"
-			"timeupdated" "1737176314"
-		}
-		"playtest"
-		{
-			"buildid" "15538433"
-			"pwdrequired" "1"
-			"timeupdated" "1724979580"
-		}
-		"release"
-		{
-			"buildid" "17055590"
-			"pwdrequired" "1"
-			"timeupdated" "1737287791"
-		}
-		"staging"
-		{
-			"buildid" "16468182"
-			"pwdrequired" "1"
-			"timeupdated" "1732080999"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
