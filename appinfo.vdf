@@ -9,6 +9,11 @@
 	"clienttga" "6a474469e8844af9199b0535b9ba424f67318cdd"
 	"clienticon" "09cdf307082beee1f5271a5454dfe2994a937ebc"
 	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -246,9 +251,9 @@
 		"14" "599"
 		"15" "3965"
 		"16" "1693"
-		"17" "5711"
-		"18" "4190"
-		"19" "21"
+		"17" "4667"
+		"18" "5711"
+		"19" "4190"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -575,6 +580,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "f2dbfbb98d68fe28067292eeeef349c0751270aa"
-"_size" "10032"
+"_change_number" "26928210"
+"_sha" "47e0286e8deeab1fb9f61bdc493de91a3cdcc101"
+"_size" "10090"
