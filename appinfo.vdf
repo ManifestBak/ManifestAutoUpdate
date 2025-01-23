@@ -260,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "428705337621430928"
-				"size" "4535411259"
-				"download" "1551906048"
+				"gid" "1702318977069663610"
+				"size" "4562231262"
+				"download" "1564233584"
 			}
 			"0.4.11"
 			{
@@ -320,54 +320,15 @@
 			}
 			"0.10.x"
 			{
-				"gid" "428705337621430928"
-				"size" "4535411259"
-				"download" "1551906048"
+				"gid" "1702318977069663610"
+				"size" "4562231262"
+				"download" "1564233584"
 			}
 			"previous-version"
 			{
-				"gid" "8682508222535117582"
-				"size" "4529807487"
-				"download" "1549892032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"close-test"
-			{
-				"gid" "2F01FDF62CC4128278A4A8A41610D1EB"
-				"size" "3B2C7153E64F23015CB0B4E707FA05BB"
-				"download" "77B69A1423821CB96FC515353BC6B094"
-			}
-			"close-test-df"
-			{
-				"gid" "FA1C31BB8A0516CADA519320299E74F9"
-				"size" "13E36257BDA7ABBEB9BB7395DCF64884"
-				"download" "2C4F3C0A6669EF848B656BE261F4722D"
-			}
-			"video"
-			{
-				"gid" "41439E36927051BDAB22E43B1B708F86"
-				"size" "71265A3FB6AB8B733875B451A9904D6C"
-				"download" "B267F82F12371E5AFB1EB31CD8D104D3"
-			}
-			"close-test-2024"
-			{
-				"gid" "ED5FC11FB14A8CB0791A7CA3800E5DA2"
-				"size" "23E17C0669A1DDAB6A4C0D763D0EE579"
-				"download" "4EFF6EA42786731AA375888A422AF7A9"
-			}
-			"lqa-internal"
-			{
-				"gid" "C7C2F582F4E130FDAA40B370900B8714"
-				"size" "C53155F95A8C5B8B382BD1EEB0648D4A"
-				"download" "CFC047945B647A9AAA16400BC6505293"
-			}
-			"upload-check"
-			{
-				"gid" "A05F8B1A64F07A490A0A2001DEED75CC"
-				"size" "A06CCE6C97ACE1DC36313B4BC5619D1F"
-				"download" "2C7806343974E2CCCFF4A72CEAF7A4E5"
+				"gid" "428705337621430928"
+				"size" "4535411259"
+				"download" "1551906048"
 			}
 		}
 	}
@@ -380,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "16680241"
-			"timeupdated" "1733748220"
+			"buildid" "17107374"
+			"timeupdated" "1737647976"
 		}
 		"0.4.11"
 		{
@@ -444,57 +405,21 @@
 			"description" "DSP Alpha 0.9 latest"
 			"timeupdated" "1692905609"
 		}
-		"close-test"
-		{
-			"buildid" "8054496"
-			"pwdrequired" "1"
-			"timeupdated" "1642684331"
-		}
-		"close-test-df"
-		{
-			"sc_schinese" "DF封闭测试"
-			"buildid" "12969721"
-			"pwdrequired" "1"
-			"timeupdated" "1702626323"
-		}
-		"video"
-		{
-			"buildid" "5964381"
-			"pwdrequired" "1"
-			"timeupdated" "1607945575"
-		}
 		"0.10.x"
 		{
-			"buildid" "16680241"
+			"buildid" "17107374"
 			"description" "DSP Alpha 0.10 latest"
-			"timeupdated" "1733748234"
-		}
-		"close-test-2024"
-		{
-			"buildid" "15530865"
-			"pwdrequired" "1"
-			"timeupdated" "1732019067"
-		}
-		"lqa-internal"
-		{
-			"buildid" "16597780"
-			"pwdrequired" "1"
-			"timeupdated" "1733124021"
+			"timeupdated" "1737648012"
 		}
 		"previous-version"
 		{
 			"sc_schinese" "还原至上一个版本"
-			"buildid" "15530865"
-			"description" "Revert to the previous version"
-			"timeupdated" "1732979211"
-		}
-		"upload-check"
-		{
 			"buildid" "16680241"
-			"pwdrequired" "1"
-			"timeupdated" "1733747595"
+			"description" "Revert to the previous version"
+			"timeupdated" "1737647989"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -519,6 +444,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26557276"
-"_sha" "2e35178d2fb525c6b4f0564982e9ec950c6850b0"
-"_size" "10609"
+"_change_number" "27133595"
+"_sha" "e27f9cbe4f2687779c74ccf00a4312614c917b11"
+"_size" "8855"
