@@ -191,9 +191,34 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1732212054"
-	"metacritic_score" "82"
+	"metacritic_score" "78"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/alaloth---champions-of-the-four-kingdoms\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -222,7 +247,7 @@
 		"19" "19"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -258,30 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "3457958082594182773"
-				"size" "13970920931"
-				"download" "8016860400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gamera_development"
-			{
-				"gid" "82F418624F89B3601A0EDB69EB7385B0"
-				"size" "CA04A77C569373EFDDB1ACB8C7C08E55"
-				"download" "AE34642EA79B288F8E36E5E60AFDEB8C"
-			}
-			"gamera_experimental"
-			{
-				"gid" "5BF14037ED7094AD79043AC8922EFF14"
-				"size" "3E49C28566F0DA3611737D27F096AC0B"
-				"download" "C503FBE8CE6B894678723A174BE39E3E"
-			}
-			"gamera_master"
-			{
-				"gid" "0D59B33DC160CD0CB166F2A9CA769755"
-				"size" "F6F58BE08D28C08FD43D1DBD9C1B1131"
-				"download" "C7A5EE8B962B0C7705D4C724BBBB744D"
+				"gid" "7515384076928211145"
+				"size" "14095555823"
+				"download" "8060811888"
 			}
 		}
 	}
@@ -294,27 +298,6 @@
 				"gid" "3836044244694625953"
 				"size" "3880045133"
 				"download" "1881696112"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gamera_development"
-			{
-				"gid" "0776F7BBCEEA3CD81C9DCD6D20AE8ABF"
-				"size" "FEA84009127178D090F949C5EB311D1C"
-				"download" "1740AAC55FDC916885D8087CA902C5E5"
-			}
-			"gamera_experimental"
-			{
-				"gid" "1BC18BA801F484286C169062C7574252"
-				"size" "07D82403FB7E256DAA68865DD2DE723F"
-				"download" "0038DA677B383262DDCB8C4BC7D8AAE7"
-			}
-			"gamera_master"
-			{
-				"gid" "AC8D640B67AE5272E3649EB3E41A7537"
-				"size" "D6B690C35852C7C88E66AA411468812E"
-				"download" "D5C4DAC2FF11D433B24EA21F13BD3B63"
 			}
 		}
 	}
@@ -330,27 +313,6 @@
 				"download" "366020832"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"gamera_development"
-			{
-				"gid" "12B50BB562E048BC897CED4B1CFC5776"
-				"size" "DAC898894FC2098440456122B27C696D"
-				"download" "1E87B27677D6AC09040F7CDB77A85DC1"
-			}
-			"gamera_experimental"
-			{
-				"gid" "3ECF6EDF6FEA7618BD96D911B6FB041A"
-				"size" "479619E8A40C752E57A1B0E4D1DCAC8D"
-				"download" "7F923EB5EEBA0E01E2DC4383D13DBE6E"
-			}
-			"gamera_master"
-			{
-				"gid" "04F8A2A2317F1217648E730A2744A25B"
-				"size" "2E7AAACF2D8564F075FFB2B496B48810"
-				"download" "9AAE0A8D33E34084F6D08A3DF1D1FD88"
-			}
-		}
 	}
 	"2068930"
 	{
@@ -364,48 +326,16 @@
 				"download" "106788624"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"gamera_experimental"
-			{
-				"gid" "1C36070E961EEF5D547CC2FF4D542796"
-				"size" "474D1C23E243630746EB5B0C9858FD36"
-				"download" "0761358E742C6992B0E00CC8E0F970E7"
-			}
-			"gamera_master"
-			{
-				"gid" "3154597ED0CC0C2BF4CF8AEC35F1CDAF"
-				"size" "1E101F9A7C747C2C4F8481AA45F3D1DD"
-				"download" "B8361890D233956893370FF0C8D14048"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16557305"
-			"timeupdated" "1732737731"
-		}
-		"gamera_development"
-		{
-			"buildid" "16463645"
-			"pwdrequired" "1"
-			"timeupdated" "1732048471"
-		}
-		"gamera_experimental"
-		{
-			"buildid" "16550881"
-			"pwdrequired" "1"
-			"timeupdated" "1732704247"
-		}
-		"gamera_master"
-		{
-			"buildid" "16557305"
-			"pwdrequired" "1"
-			"timeupdated" "1732737541"
+			"buildid" "16955139"
+			"timeupdated" "1736449275"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -456,6 +386,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26411628"
-"_sha" "4b699a957b0892e1dcd2367843b02f07ad2e3181"
-"_size" "9031"
+"_change_number" "27066661"
+"_sha" "8eef59cedf270517cd53756cf2c9d8a338892313"
+"_size" "6926"
