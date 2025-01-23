@@ -16,10 +16,10 @@
 	"linuxclienticon" "b1d15ab7157ddee1ca9c5a3584e08ebd041c0630"
 	"content_descriptors"
 	{
-		"0" "2"
-		"1" "5"
+		"0" "5"
 	}
 	"metacritic_name" "Repella Fella"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -83,7 +83,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1693502644"
+	"store_asset_mtime" "1733218970"
 	"associations"
 	{
 		"0"
@@ -94,7 +94,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "2 Left Thumbs"
+			"name" "MicroProse Software"
 		}
 	}
 	"primary_genre" "25"
@@ -155,7 +155,7 @@
 "extended"
 {
 	"developer" "Misadventurous"
-	"publisher" "2 Left Thumbs"
+	"publisher" "MicroProse Software"
 	"homepage" "https://www.repellafella.com"
 	"listofdlc" "2406090"
 	"dlcavailableonstore" "1"
@@ -212,18 +212,9 @@
 		{
 			"public"
 			{
-				"gid" "4770462006035084342"
-				"size" "8564667853"
-				"download" "8155659440"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "42DF3E1469DFD84A09A7E09C26E0EFDC"
-				"size" "F180FADCBB18BA478214279371381747"
-				"download" "B48EE2F4560FBFFBDF963A9EBBAAE43F"
+				"gid" "9056738210232899258"
+				"size" "8947832417"
+				"download" "8490906736"
 			}
 		}
 	}
@@ -237,18 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "6466413944719668807"
-				"size" "8613450207"
-				"download" "8148787232"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "14A1D8259E610AEDA8079135B6034282"
-				"size" "5070CB989DA54607B8D9903432789117"
-				"download" "E31FC17273F403C48E0AE58DEFBF87E0"
+				"gid" "1650441661582722700"
+				"size" "9038922178"
+				"download" "8549555024"
 			}
 		}
 	}
@@ -263,18 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "1942464306517219805"
-				"size" "8667036065"
-				"download" "8191063936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "C4A0340AD6DF2979864F93167E79D22E"
-				"size" "CB25496DCC30956D3037CAB5E7E4362C"
-				"download" "9973293050A1BA4361389582093934F9"
+				"gid" "5109118553802404288"
+				"size" "9041063629"
+				"download" "8523279152"
 			}
 		}
 	}
@@ -282,16 +255,11 @@
 	{
 		"public"
 		{
-			"buildid" "12764916"
-			"timeupdated" "1700603804"
-		}
-		"testing"
-		{
-			"buildid" "15687777"
-			"pwdrequired" "1"
-			"timeupdated" "1726214467"
+			"buildid" "16468881"
+			"timeupdated" "1732087005"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -356,3 +324,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26901982"
+"_sha" "d14321f06288abf24a55085c6fd2ad0a5bf44428"
+"_size" "5233"
