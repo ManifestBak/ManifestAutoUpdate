@@ -80,18 +80,56 @@
 			"height_pct" "64.66397530277843"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.534883720930225"
+				"height_pct" "64.66397530277843"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1646214548"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Yul"
+			"name" "YuLu"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Yul"
+			"name" "YuLu"
 		}
 	}
 	"primary_genre" "23"
@@ -104,6 +142,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -145,12 +184,12 @@
 		"19" "4085"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "88"
 }
 "extended"
 {
-	"developer" "Yul"
-	"publisher" "Yul"
+	"developer" "YuLu"
+	"publisher" "YuLu"
 }
 "config"
 {
@@ -240,15 +279,15 @@
 		{
 			"public"
 			{
-				"gid" "4337667448987435792"
-				"size" "287654152"
-				"download" "226170496"
+				"gid" "6792903825069228014"
+				"size" "288063980"
+				"download" "226372800"
 			}
 			"beta"
 			{
-				"gid" "7635922969535913002"
-				"size" "287414408"
-				"download" "226097904"
+				"gid" "2934636876175225433"
+				"size" "287710472"
+				"download" "226225920"
 			}
 		}
 	}
@@ -269,9 +308,9 @@
 			}
 			"beta"
 			{
-				"gid" "7094850656693933005"
-				"size" "287414408"
-				"download" "226080016"
+				"gid" "7389362056395016169"
+				"size" "287654152"
+				"download" "226152688"
 			}
 		}
 	}
@@ -279,21 +318,23 @@
 	{
 		"public"
 		{
-			"buildid" "15511527"
-			"timeupdated" "1724800357"
+			"buildid" "17037285"
+			"timeupdated" "1737102148"
 		}
 		"beta"
 		{
-			"buildid" "12805815"
-			"description" "For Test"
-			"timeupdated" "1701078742"
+			"buildid" "17027983"
+			"description" "previous versioned"
+			"timeupdated" "1737039581"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"quota" "10000"
+	"maxnumfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27038839"
+"_sha" "3e26ea4d815f0845e9d7e4d5f7b052cdfbd27342"
+"_size" "5575"
