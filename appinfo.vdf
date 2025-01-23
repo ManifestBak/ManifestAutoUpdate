@@ -11,11 +11,60 @@
 	"clienticns" "30b0358fbc30549a056f18a96331a36d60c99416"
 	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"releasestate" "released"
 	"content_descriptors"
 	{
 		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1728000000"
+		"tested_build_id" "15765771"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -184,13 +233,13 @@
 	"gameid" "1417930"
 	"store_tags"
 	{
-		"0" "4342"
-		"1" "4036"
+		"0" "4036"
+		"1" "4342"
 		"2" "4182"
-		"3" "4106"
-		"4" "3964"
-		"5" "5395"
-		"6" "4026"
+		"3" "5395"
+		"4" "4026"
+		"5" "4106"
+		"6" "3964"
 		"7" "1667"
 		"8" "4191"
 		"9" "21"
@@ -206,7 +255,7 @@
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -261,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "5532433508306036786"
-				"size" "1392302741"
-				"download" "653415968"
+				"gid" "6224103257240184638"
+				"size" "1461294581"
+				"download" "675303008"
 			}
 		}
 	}
@@ -277,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "4678430555601243672"
-				"size" "1413116847"
-				"download" "657212448"
+				"gid" "1548620856037096977"
+				"size" "1507263803"
+				"download" "682535840"
 			}
 		}
 	}
@@ -293,25 +342,26 @@
 		{
 			"public"
 			{
-				"gid" "397158387591264421"
-				"size" "1446895537"
-				"download" "669509040"
+				"gid" "6658704171562639146"
+				"size" "1555049677"
+				"download" "702003520"
 			}
 		}
 	}
+	"workshopdepot" "1417930"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15765771"
-			"timeupdated" "1726805690"
+			"buildid" "17015697"
+			"timeupdated" "1736960685"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "100000000"
-	"maxnumfiles" "3"
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
 	"savefiles"
 	{
 		"0"
@@ -349,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25375369"
-"_sha" "9fdbea8ab2087cf45c767ea3200bfbd842961a80"
-"_size" "5573"
+"_change_number" "27011057"
+"_sha" "af3607eca9cd6a755a476cf86b34c3e86dc4b56b"
+"_size" "6855"
