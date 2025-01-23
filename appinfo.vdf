@@ -190,8 +190,8 @@
 		"18" "493"
 		"19" "1659"
 	}
-	"review_score" "6"
-	"review_percentage" "71"
+	"review_score" "5"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -211,41 +211,6 @@
 			{
 				"oslist" "windows"
 			}
-			"description_loc"
-			{
-				"english" "Launch Fargone (DX11)"
-			}
-			"description" "Launch Fargone (DX11)"
-		}
-		"1"
-		{
-			"executable" "LatestBuild/Fargone.exe"
-			"arguments" "-force-d3d12"
-			"type" "option1"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Fargone (DX12)"
-			}
-			"description" "Fargone (DX12)"
-		}
-		"2"
-		{
-			"executable" "LatestBuild/Fargone.exe"
-			"arguments" "-force-vulkan"
-			"type" "option2"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Fargone (Vulkan)"
-			}
-			"description" "Fargone (Vulkan)"
 		}
 	}
 }
@@ -258,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "7195458598178096580"
-				"size" "9788316653"
-				"download" "2467502736"
+				"gid" "8507210984693388975"
+				"size" "9508801938"
+				"download" "2507908160"
 			}
 			"legacy"
 			{
@@ -270,24 +235,9 @@
 			}
 			"beta"
 			{
-				"gid" "2605681835352759915"
-				"size" "8955783504"
-				"download" "2391056848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "99C6A76EC050CE938CB142CF982D8B66"
-				"size" "0F15B1C36E06CBD3BCD8D5C5874C767B"
-				"download" "DBB3D39468171967A2A31F0FA2392CE5"
-			}
-			"internal"
-			{
-				"gid" "E34F5AB217872E3CC25CAA21740F605D"
-				"size" "124D8DFB569992FC4C19AD1834DA2DEB"
-				"download" "0BA8A71F6FC16F93ADD271D093434DDA"
+				"gid" "8507210984693388975"
+				"size" "9508801938"
+				"download" "2507908160"
 			}
 		}
 	}
@@ -295,14 +245,8 @@
 	{
 		"public"
 		{
-			"buildid" "15232463"
-			"timeupdated" "1722550646"
-		}
-		"experimental"
-		{
-			"buildid" "13318568"
-			"pwdrequired" "1"
-			"timeupdated" "1706659753"
+			"buildid" "17084103"
+			"timeupdated" "1737504502"
 		}
 		"legacy"
 		{
@@ -312,17 +256,12 @@
 		}
 		"beta"
 		{
-			"buildid" "15481900"
+			"buildid" "17084103"
 			"description" "Beta testing for new features"
-			"timeupdated" "1724514391"
-		}
-		"internal"
-		{
-			"buildid" "15232463"
-			"pwdrequired" "1"
-			"timeupdated" "1722550629"
+			"timeupdated" "1737503302"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -342,3 +281,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27102804"
+"_sha" "a8e841d76846efb5fab39ecc0919a425fcce62c0"
+"_size" "5049"
