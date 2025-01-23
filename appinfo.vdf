@@ -260,8 +260,8 @@
 		"2" "9"
 		"3" "1662"
 		"4" "3964"
-		"5" "5125"
-		"6" "1677"
+		"5" "1677"
+		"6" "5125"
 		"7" "1100689"
 		"8" "3871"
 		"9" "4182"
@@ -337,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "982080477560026016"
-				"size" "544861720"
-				"download" "287118480"
+				"gid" "5241035134240986474"
+				"size" "545337240"
+				"download" "287304176"
 			}
 			"0.5.7.8"
 			{
@@ -395,26 +395,11 @@
 				"size" "394741794"
 				"download" "247551360"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed"
+			"modbranch"
 			{
-				"gid" "B4FDEA1993A7C13C80D074C313956C3A"
-				"size" "0E701A68E6BFF759C4410FE736BD8ED1"
-				"download" "CDE23C63A6CB4344EB3F571151A73C41"
-			}
-			"closedupdate"
-			{
-				"gid" "07859623E38D965780D96186DD2431D4"
-				"size" "4290BFB2CEE092E28890DB866016F71F"
-				"download" "B58DE28438968B91534D18F3D83D7967"
-			}
-			"test"
-			{
-				"gid" "28AA7FE20DA97A00DCFE4C2E63E12F4B"
-				"size" "9621DFFBDA7BF6457FE308F4C39FB0A3"
-				"download" "7DA690D10B49FB5CA582C9F861DC5742"
+				"gid" "7800477274463401274"
+				"size" "444816036"
+				"download" "271605568"
 			}
 		}
 	}
@@ -487,26 +472,11 @@
 				"size" "248085081"
 				"download" "197341120"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed"
+			"modbranch"
 			{
-				"gid" "0B8DAD7A78AC471AC9EE923B9AB9F10B"
-				"size" "32F304764D09377CD4F6249DA7336809"
-				"download" "A5A8345787D50EF6F0B83E995DB39840"
-			}
-			"closedupdate"
-			{
-				"gid" "B3D3C289E660C044401EAE98860ED826"
-				"size" "74A29C497603F7183C1FAC4D55B46477"
-				"download" "0C8D12DC46C33AE9B00FBA2806DF054E"
-			}
-			"test"
-			{
-				"gid" "947E8F496656A94AE731C486AD4987F1"
-				"size" "7B9A230CC46E00239BF7BE76EDDF7D2B"
-				"download" "F3E4A633A02260342440C146DE1EB67A"
+				"gid" "115715783342124391"
+				"size" "248085081"
+				"download" "197341120"
 			}
 		}
 	}
@@ -573,26 +543,11 @@
 				"size" "391414549"
 				"download" "245838064"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed"
+			"modbranch"
 			{
-				"gid" "218E6D69E6C80A889E459D8A8B55BF75"
-				"size" "A8732959D5A94D3F2CEA6F2342B29B8D"
-				"download" "E3BEA989E8FC3CFC92B586C43CADB1D0"
-			}
-			"closedupdate"
-			{
-				"gid" "2CB5CBC5C1281DDB8C96BEBD9D721C72"
-				"size" "638283B179240D6BBEDADA4889C0F578"
-				"download" "B8D1CAC6330F8A370CEFBD02ACCDE60D"
-			}
-			"test"
-			{
-				"gid" "8ED65D7E2A9E573A4F4A8EB83DC87783"
-				"size" "C1FA30F35F6CDA288EE6FF87FC8E060A"
-				"download" "C48D48F25D2A8F1E84D92D9C11404DB1"
+				"gid" "7413635644783498768"
+				"size" "441338112"
+				"download" "269815040"
 			}
 		}
 	}
@@ -600,8 +555,8 @@
 	{
 		"public"
 		{
-			"buildid" "16954286"
-			"timeupdated" "1736443311"
+			"buildid" "17107709"
+			"timeupdated" "1737649118"
 		}
 		"0.5.7.8"
 		{
@@ -657,25 +612,14 @@
 			"description" "Equipment Update III + content update"
 			"timeupdated" "1734360003"
 		}
-		"closed"
+		"modbranch"
 		{
-			"buildid" "16844523"
-			"pwdrequired" "1"
-			"timeupdated" "1735062984"
-		}
-		"closedupdate"
-		{
-			"buildid" "16760190"
-			"pwdrequired" "1"
-			"timeupdated" "1734360418"
-		}
-		"test"
-		{
-			"buildid" "16711735"
-			"pwdrequired" "1"
-			"timeupdated" "1733944741"
+			"buildid" "17107722"
+			"description" "modbranch"
+			"timeupdated" "1737649165"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -683,22 +627,8 @@
 	"maxnumfiles" "500"
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
-	"savefiles"
-	{
-		"0"
-		{
-			"root" "WinAppDataLocal"
-			"path" "StoneShard/characters_cloud_test"
-			"pattern" "*"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-			"recursive" "1"
-		}
-	}
 }
 "_missing_token" "False"
-"_change_number" "26927921"
-"_sha" "c5d84c1b299e3f7bb25f6c569521f81be5cd92c7"
-"_size" "13011"
+"_change_number" "27133955"
+"_sha" "c0d4e25e1e4f1eefdc2d578dd0c5ba6f7345986d"
+"_size" "11319"
