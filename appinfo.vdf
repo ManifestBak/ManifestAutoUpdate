@@ -10,6 +10,7 @@
 	"clienttga" "7f7972de2daee74eb8c53e0f1cb69b90a766a517"
 	"clienticon" "1145f7ac27d6ac3395c9b3103ce966ace49d6e06"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Framed Wings"
 	"controller_support" "partial"
 	"small_capsule"
@@ -164,9 +165,9 @@
 		{
 			"public"
 			{
-				"gid" "6934577698387336816"
-				"size" "191018142"
-				"download" "187554064"
+				"gid" "512964015702278010"
+				"size" "196060648"
+				"download" "192571392"
 			}
 		}
 	}
@@ -174,8 +175,8 @@
 	{
 		"public"
 		{
-			"buildid" "16006742"
-			"timeupdated" "1728637171"
+			"buildid" "16855794"
+			"timeupdated" "1735238610"
 		}
 	}
 }
@@ -198,6 +199,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25665070"
-"_sha" "462c611482daf0a262889a6a2b82556e0af0af14"
-"_size" "3156"
+"_change_number" "26790690"
+"_sha" "31ab94f55f1c48f00e579d2414504a0d510ef01a"
+"_size" "3186"
