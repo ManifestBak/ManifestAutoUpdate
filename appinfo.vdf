@@ -230,7 +230,7 @@
 		"19" "16094"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -294,18 +294,9 @@
 			}
 			"pre-release"
 			{
-				"gid" "107873436939748593"
-				"size" "4513193853"
-				"download" "1369045728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "83F6CF9AD006505783A3E1316764BCD4"
-				"size" "F2821491E49C6C1B3F632179EEBEF1B3"
-				"download" "70C0AE3AB39E35299FB98213A481DB6D"
+				"gid" "5096124909891702131"
+				"size" "4513193757"
+				"download" "1369037936"
 			}
 		}
 	}
@@ -337,15 +328,6 @@
 				"download" "1375964928"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"staging"
-			{
-				"gid" "56435FD18106BFD23E30BC49244A50C4"
-				"size" "686881FB705AE71957373344D6701234"
-				"download" "8F6D3D17D819085EBC46F223CD3304AC"
-			}
-		}
 	}
 	"branches"
 	{
@@ -363,17 +345,12 @@
 		}
 		"pre-release"
 		{
-			"buildid" "15920730"
+			"buildid" "16272847"
 			"description" "正式版提前测试分支"
-			"timeupdated" "1727984415"
-		}
-		"staging"
-		{
-			"buildid" "15920730"
-			"pwdrequired" "1"
-			"timeupdated" "1727984422"
+			"timeupdated" "1730529759"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -430,3 +407,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26900828"
+"_sha" "b26cba0a461d963e6aef288b8cf5963a7da04cde"
+"_size" "7867"
