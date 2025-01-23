@@ -200,8 +200,8 @@
 		"15" "4182"
 		"16" "4325"
 		"17" "3871"
-		"18" "14720"
-		"19" "4434"
+		"18" "4434"
+		"19" "3854"
 	}
 	"review_score" "7"
 	"review_percentage" "92"
@@ -243,18 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "5820706481534638116"
-				"size" "652614615"
-				"download" "441647728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"chinesetranslationbeta"
-			{
-				"gid" "E8A627FF1F8FF0F41280CE9A5B0EE3B3"
-				"size" "1579230FAFD6BB693A1112219CB690B9"
-				"download" "1B4D6D04AAFBA603FB3B0BCCF17A6592"
+				"gid" "3144161286135298532"
+				"size" "652614622"
+				"download" "441647744"
 			}
 		}
 	}
@@ -269,18 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "9169914024893601977"
-				"size" "652614619"
-				"download" "441647472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"chinesetranslationbeta"
-			{
-				"gid" "8A5EF81868505AEE62174D9B477C8C29"
-				"size" "1579230FAFD6BB693A1112219CB690B9"
-				"download" "8782D621BFA564DD6AC64B309E37EE01"
+				"gid" "5100878975221578200"
+				"size" "652614626"
+				"download" "441647488"
 			}
 		}
 	}
@@ -295,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "433766535620024975"
-				"size" "652614623"
-				"download" "441655568"
+				"gid" "8708312241308482356"
+				"size" "652614630"
+				"download" "441655584"
 			}
 		}
 	}
@@ -305,16 +287,11 @@
 	{
 		"public"
 		{
-			"buildid" "15835542"
-			"timeupdated" "1727348372"
-		}
-		"chinesetranslationbeta"
-		{
-			"buildid" "15505455"
-			"pwdrequired" "1"
-			"timeupdated" "1724762358"
+			"buildid" "16115377"
+			"timeupdated" "1729459419"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -335,6 +312,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25411945"
-"_sha" "504148a6ca88f6969d5d3495baac9eb707267194"
-"_size" "5806"
+"_change_number" "26845279"
+"_sha" "0fc485f48c38d2bcc09ea397bec6af5c0c5ca128"
+"_size" "5268"
