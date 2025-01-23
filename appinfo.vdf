@@ -178,14 +178,14 @@
 		"19" "5716"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
 	"developer" "uracon"
 	"publisher" "Waku Waku Games"
 	"homepage" "https://herowolf.web.app/"
-	"listofdlc" "2865310"
+	"listofdlc" "2865310,3235900"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -223,24 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "2725580274345226926"
-				"size" "163955927"
-				"download" "74093392"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "42A6CE8C67CA2C6D68AE46499C134C07"
-				"size" "585C5F76C01D50CD3CFF83BF910BA6CB"
-				"download" "B08986EA4DB010569969423879C56765"
-			}
-			"beta"
-			{
-				"gid" "4CC2ECAA43DAC7DC027750CF5E883DD2"
-				"size" "53B22E6E8C7FECCE9750EA3E1C894A30"
-				"download" "55CDC64E3F2F6C233000CC8D34BAB2C1"
+				"gid" "838993288446920690"
+				"size" "163941545"
+				"download" "74109184"
 			}
 		}
 	}
@@ -254,24 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "5813635840331425455"
-				"size" "287984061"
-				"download" "102309952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "C67B97F2C7E48221EBEBB65F8AAAEFE3"
-				"size" "CFEFF92C1F689C3961C2BB1304C77D54"
-				"download" "79F49CDAC70F107CB6284567BC5925AB"
-			}
-			"beta"
-			{
-				"gid" "91C43E00FC4AAA2FDC150827791B8B4D"
-				"size" "E66D2D94E5C7E939F921BA82B02DFEC6"
-				"download" "3C9DFE85A0DF5B23CF919B541ADC87F2"
+				"gid" "5915472156164922689"
+				"size" "474510932"
+				"download" "122697664"
 			}
 		}
 	}
@@ -279,22 +249,11 @@
 	{
 		"public"
 		{
-			"buildid" "15650200"
-			"timeupdated" "1725966132"
-		}
-		"preview"
-		{
-			"buildid" "13471973"
-			"pwdrequired" "1"
-			"timeupdated" "1708053964"
-		}
-		"beta"
-		{
-			"buildid" "15731240"
-			"pwdrequired" "1"
-			"timeupdated" "1726589180"
+			"buildid" "16611332"
+			"timeupdated" "1733212733"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -334,3 +293,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "69122e53f9499eaa558190313e5171bbf2f76bf1"
+"_size" "4896"
