@@ -177,8 +177,8 @@
 	{
 		"0" "12095"
 		"1" "24904"
-		"2" "9130"
-		"3" "5611"
+		"2" "5611"
+		"3" "9130"
 		"4" "9"
 		"5" "6650"
 		"6" "12472"
@@ -196,8 +196,8 @@
 		"18" "4667"
 		"19" "493"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -237,30 +237,21 @@
 		{
 			"public"
 			{
-				"gid" "6646642526491991157"
-				"size" "1512065917"
-				"download" "516222400"
+				"gid" "5093331344187358495"
+				"size" "1565578575"
+				"download" "533416912"
 			}
 			"previousversion"
 			{
-				"gid" "6135910455119646894"
-				"size" "1511865941"
-				"download" "516234816"
-			}
-			"public_beta"
-			{
 				"gid" "6646642526491991157"
 				"size" "1512065917"
 				"download" "516222400"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"public_beta"
 			{
-				"gid" "DFB31D289657986CD0E3BA163E951B9E"
-				"size" "7306643E3B0E0CA96BF97D1E489FF508"
-				"download" "2506D255AA25B73AE02994A654C0C734"
+				"gid" "5093331344187358495"
+				"size" "1565578575"
+				"download" "533416912"
 			}
 		}
 	}
@@ -268,26 +259,25 @@
 	{
 		"public"
 		{
-			"buildid" "15868955"
-			"timeupdated" "1727645545"
-		}
-		"beta"
-		{
-			"buildid" "15868955"
-			"pwdrequired" "1"
-			"timeupdated" "1727645449"
+			"buildid" "16877855"
+			"timeupdated" "1736084824"
 		}
 		"previousversion"
 		{
-			"buildid" "15353363"
+			"buildid" "15868955"
 			"description" "previous version of the game"
-			"timeupdated" "1726690572"
+			"timeupdated" "1734194824"
 		}
 		"public_beta"
 		{
-			"buildid" "15868955"
+			"buildid" "16877855"
 			"description" "Beta build"
-			"timeupdated" "1727645523"
+			"timeupdated" "1735598740"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27045171"
+"_sha" "d9f9bc77bbf5b2f83dfccb80ea5de8064e2692c3"
+"_size" "5096"
