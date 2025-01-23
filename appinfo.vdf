@@ -13,6 +13,11 @@
 	"osarch" ""
 	"osextended" ""
 	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -91,6 +96,44 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "49.07904837153125"
 			"height_pct" "71.08036939079379"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.07904837153125"
+				"height_pct" "71.08036939079379"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1635939349"
@@ -404,21 +447,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"be"
-			{
-				"gid" "FC9AC961F67B05206B7ADBF3D5674E01"
-				"size" "7769A2319193DAB9801D40E120068E9C"
-				"download" "98A8BF4B996A14F32615B1E4D03A07E8"
-			}
-			"temp"
-			{
-				"gid" "69BEEE1D7E876043478B106B042340E0"
-				"size" "179DD36F9BDBD26782850A06D0A2ACDE"
-				"download" "6BB1A8B8EF23BD0939B726453187291D"
-			}
-		}
 		"dlcappid" "33934"
 	}
 	"33931"
@@ -457,21 +485,6 @@
 				"download" "7267691728"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"be"
-			{
-				"gid" "E6E3408E9F52791D47F56E885192D00F"
-				"size" "63CBF81A61143D0A0AC2277E453D54EB"
-				"download" "C5DF4FEF3B84C299852E4354B339BDD5"
-			}
-			"temp"
-			{
-				"gid" "5F65D83411D7036E4AD87BA07EA898DE"
-				"size" "E3F4ABD23C402C82F75BAFA8854C68B3"
-				"download" "246DD3846A8ECA5E87596CA2DBA7C98F"
-			}
-		}
 	}
 	"33961"
 	{
@@ -506,21 +519,6 @@
 				"gid" "8631424334220550682"
 				"size" "234"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"be"
-			{
-				"gid" "D4E3B02A1F06ED1DA14592DCCE68B0A9"
-				"size" "C884A7ACA63DC01F0B10CA23C9B348C4"
-				"download" "98A8BF4B996A14F32615B1E4D03A07E8"
-			}
-			"temp"
-			{
-				"gid" "E755300A9081ADF3135DC6C71D25DFF7"
-				"size" "0ACDA2A1DCD5FCAD036C9C7854A3802C"
-				"download" "6BB1A8B8EF23BD0939B726453187291D"
 			}
 		}
 	}
@@ -562,21 +560,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"be"
-			{
-				"gid" "DC60DD9FF334219DC635201E6338A67A"
-				"size" "C74E095AFB05BE9046AC6212BE0C86C6"
-				"download" "98A8BF4B996A14F32615B1E4D03A07E8"
-			}
-			"temp"
-			{
-				"gid" "6A5D82BE3A3495AC0B8F3F469FDEF6DB"
-				"size" "38AB8B3D1EF92D65F58C4EAA0E471AC3"
-				"download" "6BB1A8B8EF23BD0939B726453187291D"
-			}
-		}
 	}
 	"33938"
 	{
@@ -613,21 +596,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"be"
-			{
-				"gid" "53B9A160F4D02B5408BCECD4CD8E486A"
-				"size" "C74E095AFB05BE9046AC6212BE0C86C6"
-				"download" "98A8BF4B996A14F32615B1E4D03A07E8"
-			}
-			"temp"
-			{
-				"gid" "20506E05CDDB44753D9ABFACA28DB234"
-				"size" "38AB8B3D1EF92D65F58C4EAA0E471AC3"
-				"download" "6BB1A8B8EF23BD0939B726453187291D"
-			}
-		}
 	}
 	"branches"
 	{
@@ -647,12 +615,6 @@
 			"description" "Backup of 1.63"
 			"timeupdated" "1640014249"
 		}
-		"be"
-		{
-			"buildid" "1064797"
-			"pwdrequired" "1"
-			"timeupdated" "1460128770"
-		}
 		"beta"
 		{
 			"buildid" "7922814"
@@ -663,15 +625,10 @@
 			"buildid" "4366416"
 			"timeupdated" "1639667890"
 		}
-		"temp"
-		{
-			"buildid" "7784048"
-			"pwdrequired" "1"
-			"timeupdated" "1640116732"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "21219538"
-"_sha" "ce15e4a82d4de0c5630aa169a746917e2117546d"
-"_size" "13568"
+"_change_number" "27103115"
+"_sha" "afd952c4ab9c3ef68eb5cffed4b1379ab729c7f7"
+"_size" "12151"
