@@ -22,6 +22,23 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -302,6 +319,7 @@
 	}
 	"metacritic_score" "76"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/for-honor\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "304390"
 	"store_tags"
@@ -472,48 +490,15 @@
 		{
 			"public"
 			{
-				"gid" "4770303029971451806"
-				"size" "114217720107"
-				"download" "112988381440"
+				"gid" "1792245498373653962"
+				"size" "115275815736"
+				"download" "114047554928"
 			}
 			"local"
 			{
 				"gid" "40822287544783651"
 				"size" "96702193393"
 				"download" "95744963488"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"earlyaccess"
-			{
-				"gid" "BC94A60373CAFD548AB4EEDEFB485007"
-				"size" "8A03314F2AD0CEBEE2A7D47D2C008CF0"
-				"download" "86C0E6A52DA4D721F80A810374DE85BB"
-			}
-			"main2"
-			{
-				"gid" "2A12ECBDBB9068B65C4C5D1B5C9630C0"
-				"size" "B807741631FCE2F6F071B10E751D7B2F"
-				"download" "5A238B273916CEFCAC7C5B9E1F14DE1F"
-			}
-			"stagingpc"
-			{
-				"gid" "BCEB8FDA77E31243C14CD5413B97D3F1"
-				"size" "191A47B0C632049F878597454BFF8E96"
-				"download" "B86A1BD19BBC50F2C2573B6B4E8108A6"
-			}
-			"steamcertpc"
-			{
-				"gid" "A402CB7DD4DFD4E39D86BB748A69C06F"
-				"size" "AFB8B3C8C26B0D63AE43CFC7FB91EF3E"
-				"download" "2BAD87F03DC0D70899909881BDBFEB6B"
-			}
-			"tupc"
-			{
-				"gid" "96A2A2B83F49778F2CF8BB6234FEEEC2"
-				"size" "6A5B9AF620C257273A7E9C3954C92C83"
-				"download" "4ADD31A9386E975AEFF613EE91CC1A13"
 			}
 		}
 	}
@@ -534,8 +519,8 @@
 	{
 		"public"
 		{
-			"buildid" "16634163"
-			"timeupdated" "1733407835"
+			"buildid" "17079344"
+			"timeupdated" "1737641405"
 		}
 		"local"
 		{
@@ -544,39 +529,10 @@
 			"lcsrequired" "1"
 			"timeupdated" "1677141745"
 		}
-		"earlyaccess"
-		{
-			"buildid" "13924479"
-			"pwdrequired" "1"
-			"timeupdated" "1715780546"
-		}
-		"main2"
-		{
-			"buildid" "15811338"
-			"pwdrequired" "1"
-			"timeupdated" "1727195928"
-		}
-		"stagingpc"
-		{
-			"buildid" "15851170"
-			"pwdrequired" "1"
-			"timeupdated" "1729172618"
-		}
-		"steamcertpc"
-		{
-			"buildid" "16580079"
-			"pwdrequired" "1"
-			"timeupdated" "1732896198"
-		}
-		"tupc"
-		{
-			"buildid" "16344652"
-			"pwdrequired" "1"
-			"timeupdated" "1731084680"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26508712"
-"_sha" "7c679bb52be5e64da188fc76ebfe63be28be7185"
-"_size" "11448"
+"_change_number" "27131855"
+"_sha" "47558dc2c429d9966b78aaf7908f85a92d2fef6d"
+"_size" "10349"
