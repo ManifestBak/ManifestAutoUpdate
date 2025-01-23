@@ -65,6 +65,44 @@
 			"height_pct" "55.90261765902618"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.74144025855974"
+				"height_pct" "55.90261765902618"
+			}
+		}
+	}
 	"store_asset_mtime" "1583528898"
 	"associations"
 	{
@@ -88,6 +126,7 @@
 	{
 		"category_2" "1"
 		"category_1" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -139,26 +178,26 @@
 		"0" "1663"
 		"1" "19"
 		"2" "1774"
-		"3" "3859"
-		"4" "4168"
-		"5" "4182"
+		"3" "4182"
+		"4" "3859"
+		"5" "4168"
 		"6" "3839"
 		"7" "1678"
 		"8" "5673"
-		"9" "1685"
-		"10" "4175"
+		"9" "4175"
+		"10" "1685"
 		"11" "13190"
 		"12" "7481"
 		"13" "1687"
-		"14" "5611"
-		"15" "7250"
+		"14" "7250"
+		"15" "5611"
 		"16" "1695"
 		"17" "1742"
 		"18" "4166"
 		"19" "21978"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 	"mastersubs_granting_app" "1289670"
 }
 "extended"
@@ -444,6 +483,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22757447"
-"_sha" "2ab58432d1bcfbdfb95a3e3ee0c1e259b969aac6"
-"_size" "7407"
+"_change_number" "25700502"
+"_sha" "3bfa0f9cfc956672c96045b6184cac378e16d460"
+"_size" "7989"
