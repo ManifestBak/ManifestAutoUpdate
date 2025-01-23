@@ -105,6 +105,11 @@
 			"type" "publisher"
 			"name" "Blusagi Team"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Locked in my Darkness"
+		}
 	}
 	"primary_genre" "23"
 	"genres"
@@ -205,7 +210,7 @@
 		"19" "42089"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -247,15 +252,15 @@
 		{
 			"public"
 			{
-				"gid" "7207740093611526735"
-				"size" "4530275805"
-				"download" "1494191584"
+				"gid" "2026759054795914518"
+				"size" "4530275653"
+				"download" "1494194944"
 			}
 			"beta"
 			{
-				"gid" "7207740093611526735"
-				"size" "4530275805"
-				"download" "1494191584"
+				"gid" "4876147055906132052"
+				"size" "4530276749"
+				"download" "1494193296"
 			}
 		}
 	}
@@ -269,15 +274,15 @@
 		{
 			"public"
 			{
-				"gid" "8438857883288720303"
-				"size" "4535447332"
-				"download" "1497408944"
+				"gid" "1385031001563356433"
+				"size" "4535447180"
+				"download" "1497409568"
 			}
 			"beta"
 			{
-				"gid" "8438857883288720303"
-				"size" "4535447332"
-				"download" "1497408944"
+				"gid" "6003478425391774946"
+				"size" "4535448276"
+				"download" "1497411424"
 			}
 		}
 	}
@@ -285,14 +290,14 @@
 	{
 		"public"
 		{
-			"buildid" "16550838"
-			"timeupdated" "1733326165"
+			"buildid" "17073071"
+			"timeupdated" "1737434939"
 		}
 		"beta"
 		{
-			"buildid" "16550838"
+			"buildid" "17061706"
 			"description" "Beta testing"
-			"timeupdated" "1732704080"
+			"timeupdated" "1737359393"
 		}
 	}
 }
@@ -312,6 +317,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26490907"
-"_sha" "6abdc9457bcbd4cdb92233f67024ee7fc74cf10d"
-"_size" "4792"
+"_change_number" "27087293"
+"_sha" "46f474a595fa9cc0b54a511abcda7e6cfb6a0f64"
+"_size" "4869"
