@@ -14,6 +14,55 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728950400"
+		"tested_build_id" "15997551"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -86,7 +135,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727195521"
+	"store_asset_mtime" "1732115766"
 	"associations"
 	{
 		"0"
@@ -111,6 +160,7 @@
 	{
 		"category_2" "1"
 		"category_18" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -128,27 +178,27 @@
 	{
 		"0" "4325"
 		"1" "3964"
-		"2" "44868"
-		"3" "1684"
-		"4" "122"
-		"5" "3834"
-		"6" "1742"
-		"7" "21"
-		"8" "4434"
+		"2" "1684"
+		"3" "44868"
+		"4" "3834"
+		"5" "492"
+		"6" "4434"
+		"7" "1742"
+		"8" "122"
 		"9" "10695"
-		"10" "4004"
-		"11" "7702"
-		"12" "4182"
-		"13" "4947"
-		"14" "5608"
-		"15" "1678"
-		"16" "5577"
-		"17" "4085"
-		"18" "4046"
+		"10" "21"
+		"11" "4085"
+		"12" "4004"
+		"13" "7702"
+		"14" "4182"
+		"15" "4947"
+		"16" "5608"
+		"17" "1678"
+		"18" "5577"
 		"19" "3993"
 	}
-	"review_score" "7"
-	"review_percentage" "94"
+	"review_score" "8"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -191,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "3820010472850682714"
-				"size" "658173663"
-				"download" "531154944"
+				"gid" "7373726854769047185"
+				"size" "682855131"
+				"download" "546647472"
 			}
 		}
 	}
@@ -201,8 +251,8 @@
 	{
 		"public"
 		{
-			"buildid" "15956432"
-			"timeupdated" "1728321194"
+			"buildid" "16972456"
+			"timeupdated" "1736571893"
 		}
 	}
 }
@@ -221,3 +271,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27082640"
+"_sha" "ce7986323eca15c24edf3c006b0108ecbf90e9a1"
+"_size" "4917"
