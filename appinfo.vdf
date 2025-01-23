@@ -189,7 +189,7 @@
 		}
 	}
 	"steam_release_date" "1733417754"
-	"metacritic_score" "94"
+	"metacritic_score" "93"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/caves-of-qud\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
@@ -209,8 +209,8 @@
 		"9" "1742"
 		"10" "122"
 		"11" "1662"
-		"12" "4166"
-		"13" "4747"
+		"12" "4747"
+		"13" "4166"
 		"14" "3964"
 		"15" "4026"
 		"16" "4474"
@@ -384,27 +384,6 @@
 				"download" "850392432"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"endgame-testing"
-			{
-				"gid" "F586DE37F9D7A0173A728FEAD0690B48"
-				"size" "2DDDB1847B84434FFB2ABF9CED476432"
-				"download" "A763ADFF20F4A3221F5EE1E348A2A3C5"
-			}
-			"endgame-debug"
-			{
-				"gid" "FC23231D47CDBCF8636CCEF4BC314A3D"
-				"size" "126CDB5825AF3CC9A49711D3C71482B7"
-				"download" "789CCB7593304181CAFB587066FE1745"
-			}
-			"igf2024"
-			{
-				"gid" "BC6838103E6E0EE14B8E7D1213176380"
-				"size" "21FC1AC0705E4D7C83C04D4FC6368EF8"
-				"download" "E38B6D9B09ECF2738E18600D42C4ED73"
-			}
-		}
 	}
 	"333642"
 	{
@@ -509,27 +488,6 @@
 				"gid" "5481317506511334760"
 				"size" "1242526253"
 				"download" "844598704"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"endgame-testing"
-			{
-				"gid" "34F1B228ADB6A7AB8015307EBDCBE795"
-				"size" "1F744C24D5844EE23C416E5710F716EE"
-				"download" "DCB0A52107AED8FF66EBF1B57C06E6D6"
-			}
-			"endgame-debug"
-			{
-				"gid" "2AF107D18DCA4DB8F76A933442A3FBD3"
-				"size" "6CA3B3FCB003AD9D0B33569A3E70B290"
-				"download" "7F9113A78D5D5D18866381EE3D965DCC"
-			}
-			"igf2024"
-			{
-				"gid" "BAEB182641600C839BD5DB0A09AF166A"
-				"size" "3147BEF8A6F9DB71896826BA2D8F20A9"
-				"download" "A5A68CBD4ADE4C4FA7F7FC9E561EE1F9"
 			}
 		}
 	}
@@ -638,27 +596,6 @@
 				"download" "839063968"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"endgame-testing"
-			{
-				"gid" "31638979E4DD927B517A5E4B227B9AED"
-				"size" "08463ACD8E67E7DC78D9BEE51C60F1FB"
-				"download" "76F822EE710AB98F0DA0EDDE778FE83D"
-			}
-			"endgame-debug"
-			{
-				"gid" "5DC0E1EF10E6C10A1DEF44919C47F264"
-				"size" "2BF13F5DF468216529B851DCE675DF94"
-				"download" "40B1E00BC978AED507BE1B7BB884513D"
-			}
-			"igf2024"
-			{
-				"gid" "33E0C4EAB276225F1CCD623CBFDEB7A2"
-				"size" "23C2455AA61969183E874849B8503C32"
-				"download" "148791956E2D64E3D723BE16934764ED"
-			}
-		}
 	}
 	"3252660"
 	{
@@ -682,21 +619,6 @@
 				"gid" "8893803301824573414"
 				"size" "87741"
 				"download" "51440"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"endgame-testing"
-			{
-				"gid" "CD6B1FFAEB5D5939D576329D3AED08DA"
-				"size" "4148C418BD27B6E7FFE5DFB4BDE03818"
-				"download" "F5364D37B1145F55C35C040359A72100"
-			}
-			"endgame-debug"
-			{
-				"gid" "5DD37EF10580FC93A49DCDC55083A4E9"
-				"size" "A9A819312B4745D4CD2AF1169729CCF1"
-				"download" "0BC09B0FD457B14EE3DC15E8F4D8560A"
 			}
 		}
 	}
@@ -797,25 +719,8 @@
 			"description" "beta"
 			"timeupdated" "1734628270"
 		}
-		"endgame-testing"
-		{
-			"buildid" "16608421"
-			"pwdrequired" "1"
-			"timeupdated" "1733523899"
-		}
-		"endgame-debug"
-		{
-			"buildid" "16608453"
-			"pwdrequired" "1"
-			"timeupdated" "1733190182"
-		}
-		"igf2024"
-		{
-			"buildid" "16115772"
-			"pwdrequired" "1"
-			"timeupdated" "1729463878"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -866,6 +771,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26927517"
-"_sha" "3c542fbd08fb8eba47c04c2e41aecd5e20536c7b"
-"_size" "16475"
+"_change_number" "27103031"
+"_sha" "1eb8029840e5fec4717ce7842100ef78bc4f2e9e"
+"_size" "14079"
