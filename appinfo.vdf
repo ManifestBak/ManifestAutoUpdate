@@ -216,30 +216,15 @@
 		{
 			"public"
 			{
-				"gid" "3040436560599655359"
-				"size" "7840227457"
-				"download" "3425751744"
+				"gid" "7444510375161163025"
+				"size" "8107388049"
+				"download" "3549375024"
 			}
 			"public_test_builds"
 			{
-				"gid" "3040436560599655359"
-				"size" "7840227457"
-				"download" "3425751744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"patreonbuilds"
-			{
-				"gid" "46F1CA9E135E81846C6894BCDA1570E5"
-				"size" "99A4FE653D33BFDB5186740088372917"
-				"download" "209051AC0108EA24E9692895FD75998F"
-			}
-			"redteamdevs"
-			{
-				"gid" "CC259A769724C39780F6A922671BA79D"
-				"size" "FBE98CCF79CC9A8D02246690AC73821C"
-				"download" "A0501F7B78714D4931A10B21B8A5C303"
+				"gid" "7444510375161163025"
+				"size" "8107388049"
+				"download" "3549375024"
 			}
 		}
 	}
@@ -247,30 +232,19 @@
 	{
 		"public"
 		{
-			"buildid" "16825820"
-			"timeupdated" "1734905243"
-		}
-		"patreonbuilds"
-		{
-			"buildid" "16825820"
-			"pwdrequired" "1"
-			"timeupdated" "1734817062"
+			"buildid" "17016571"
+			"timeupdated" "1736974434"
 		}
 		"public_test_builds"
 		{
-			"buildid" "16825820"
+			"buildid" "17016571"
 			"description" "test builds for Sail VR Multiplayer"
-			"timeupdated" "1734817069"
-		}
-		"redteamdevs"
-		{
-			"buildid" "16825820"
-			"pwdrequired" "1"
-			"timeupdated" "1734905263"
+			"timeupdated" "1736966069"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26756609"
-"_sha" "74930a266b1a982feb7ea5d244e35c32ea1d4fa7"
-"_size" "4534"
+"_change_number" "27013902"
+"_sha" "eb7a22c2b2c26ab8941b37891c11c8cff4c0f2b7"
+"_size" "3951"
