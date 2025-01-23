@@ -4,7 +4,7 @@
 	"name" "Cats in Heat - Summer Fling"
 	"type" "Game"
 	"oslist" "windows,linux"
-	"osarch" ""
+	"osarch" "64"
 	"osextended" ""
 	"clienticon" "0985c6d9c674bc7ab0cf3441d6a79b87e5409c90"
 	"clienttga" "8890d129ee92c977f2ccf4d13d031b5689db8dd8"
@@ -21,20 +21,20 @@
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1677801600"
-		"tested_build_id" "10307023"
+		"category" "3"
+		"test_timestamp" "1736899200"
+		"tested_build_id" "16928984"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
@@ -49,19 +49,22 @@
 		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -152,6 +155,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -190,7 +194,7 @@
 		"19" "6650"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -222,6 +226,10 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
 }
 "depots"
 {
@@ -231,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "5448925665144146962"
-				"size" "281112836"
-				"download" "225864256"
+				"gid" "3840652585312232235"
+				"size" "313519251"
+				"download" "236119440"
 			}
 		}
 	}
@@ -241,8 +249,8 @@
 	{
 		"public"
 		{
-			"buildid" "10307023"
-			"timeupdated" "1673529144"
+			"buildid" "16928984"
+			"timeupdated" "1736263313"
 		}
 	}
 }
@@ -254,23 +262,32 @@
 	{
 		"0"
 		{
-			"root" "WinAppDataRoaming"
-			"path" "RenPy/CatsinHeatSummerFling-1672409667"
-			"pattern" "*"
-			"platforms"
-			{
-				"1" "Windows"
-			}
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataRoaming"
+			"addpath" "RenPy/CatsinHeatSummerFling-1672409667"
 		}
 		"1"
 		{
-			"root" "LinuxHome"
-			"path" ".renpy/CatsinHeatSummerFling-1672409667"
-			"pattern" "*"
-			"platforms"
-			{
-				"1" "Linux"
-			}
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".renpy/CatsinHeatSummerFling-1672409667"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27072298"
+"_sha" "ab5db0ed31331d8d6cd6b3fbae19b751b51dab13"
+"_size" "5003"
