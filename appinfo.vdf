@@ -10,6 +10,11 @@
 	"clienttga" "5cd287e19cc8087b285985f4dd1c5d04d6c2c7dc"
 	"clienticon" "b4647be61d1cb3796aa871dc13be8461a916614b"
 	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -85,6 +90,40 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.90890027564981"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1661346887"
 	"associations"
 	{
@@ -142,11 +181,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"indonesian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 	}
 	"original_release_date" "1458802800"
 	"steam_release_date" "1458837121"
@@ -161,12 +195,13 @@
 		"3" "3978"
 		"4" "7208"
 		"5" "1697"
-		"6" "6650"
-		"7" "1721"
+		"6" "4345"
+		"7" "6650"
 		"8" "1662"
+		"9" "1721"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -366,3 +401,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26801433"
+"_sha" "891bd850e61bb3d3ac1cc9142ea98de72faeb89c"
+"_size" "7021"
