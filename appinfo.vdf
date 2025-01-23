@@ -402,57 +402,6 @@
 				"download" "1581847456"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "48FBF66914C216347EF11B29D760F45F"
-				"size" "3CF0443147BEDEB79D69A6E07C8F773F"
-				"download" "616BAB27C5507EE76EE192F38C4211FC"
-			}
-			"lab"
-			{
-				"gid" "47624CF3D87F8C33030C304640C087C5"
-				"size" "65B3ACFF1DF6FF988D632093136B41F8"
-				"download" "088C2B10A0708396A5D3463B88A0BD83"
-			}
-			"loca"
-			{
-				"gid" "3C7823104A61FCE23669A92F997BFAB8"
-				"size" "A11E1AA3B593646B2751B6D41EE28DDA"
-				"download" "4154D2385F79FAE4D985F6ADF31E7005"
-			}
-			"loca2"
-			{
-				"gid" "CDC76342CDD53A419C6521008050167E"
-				"size" "49BC7AF9788BB5C5454A2122BEE6D381"
-				"download" "1BF457CBDF5F5D1E5E77E40B7E6CAA99"
-			}
-			"master"
-			{
-				"gid" "B2496CCEE54857953A0E636DB2831894"
-				"size" "9707BAABD622B6EDE90CAE913851554A"
-				"download" "826BD8FDB5BF04B97AF96C1B37496965"
-			}
-			"prospect"
-			{
-				"gid" "AF8BB0129DB56EAF69EF3965756C970A"
-				"size" "1D3A237C7C6ECC295CA8644D56DF27E7"
-				"download" "A287904BE0740EECC30208A791A4D044"
-			}
-			"qa_test"
-			{
-				"gid" "CB751B07F3283FDE661AC5D3A02DDC7E"
-				"size" "CE45215D04DA9DE9E91C0E94EBB8E1FD"
-				"download" "2449357D3473B792C326E16F51F9F5BE"
-			}
-			"testing_mp"
-			{
-				"gid" "E0ED7D3FEA1D701B2CDB399CC090720F"
-				"size" "6A4E52BADA48AA85537C2C5DCC621C3E"
-				"download" "5B69C418FDFBCEF363E0D61D3D0A6D1B"
-			}
-		}
 	}
 	"313162"
 	{
@@ -503,33 +452,6 @@
 				"gid" "5667488860934417280"
 				"size" "2813011757"
 				"download" "1551686592"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "916A820921DBF289F302EC39E52CC5C0"
-				"size" "67E10E919ADF5FE3D208F17217FFA72E"
-				"download" "4A9AA4663CF04FDA7EDD55C873502756"
-			}
-			"lab"
-			{
-				"gid" "CB7F38E3BD4E9E60875929DF252C868E"
-				"size" "05CE8D5CA7AF8741169D9AECA51A7F80"
-				"download" "B7A7822D74D85752E75C1695620DA7B8"
-			}
-			"qa_test"
-			{
-				"gid" "1CA0F8390EA65CBFA0DB999740D01765"
-				"size" "340681A999B8D33E2736EBCAF5044876"
-				"download" "926AEBECE97D9D1F8AA0F9363AD890D1"
-			}
-			"testing_mp"
-			{
-				"gid" "D4B54A611A99718A9175AE682AAAC499"
-				"size" "A312EF84BE8D73FD5A377D4FA7E5260E"
-				"download" "2DD00EA13EBBB511F83CAA978A9C984E"
 			}
 		}
 	}
@@ -661,45 +583,6 @@
 				"download" "858880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "334C33281B289784D100B9250EF9B1C2"
-				"size" "9445CE8FB921644D512C3BE68FEAE74B"
-				"download" "E739E09C644799280E05B4C01202CB47"
-			}
-			"lab"
-			{
-				"gid" "D41C9796A7346E6D9CB738AA76DA0791"
-				"size" "3DE992D1629C69F08E1F617C4B56677E"
-				"download" "F154235D1667B3BD93DC478925D0B9BB"
-			}
-			"loca2"
-			{
-				"gid" "87F723CC4362A534D2E48EF2F91AF21D"
-				"size" "237C40F2B3B35E13C8017AD0E9D87ED0"
-				"download" "3F73EFBAF7A47A2B9CD956B849E76F15"
-			}
-			"master"
-			{
-				"gid" "7923C3410468D812535B81E9A743960F"
-				"size" "F446BA1F490F5AD0BE35E078E9F0A05C"
-				"download" "2AAE679D9230EFD112E78B64DA497E68"
-			}
-			"qa_test"
-			{
-				"gid" "867D687D9025E4F57DEC53A091DFD108"
-				"size" "2898214924AB2204BA25F7804698AEAF"
-				"download" "E6648FD975D758314A00B5BE15A89847"
-			}
-			"testing_mp"
-			{
-				"gid" "CB9F1B93D3FB9670AF4719209736D1B6"
-				"size" "A3366D458871B25F0CB8139EB5B3B944"
-				"download" "67DA91CF09075E07E1005AEC931407A4"
-			}
-		}
 	}
 	"327545"
 	{
@@ -759,45 +642,6 @@
 				"download" "976784"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "A89223F79A88F5EBEF46C8DAD88AAC66"
-				"size" "F3E0594E47331F8EF8E4A9E1CAFFF0DC"
-				"download" "2ED2579B8FB0FCC3E466F6D954720706"
-			}
-			"lab"
-			{
-				"gid" "1945CC36BA422B1105D6C8B90578DCB9"
-				"size" "EFC84CEEF530928E1689669520AEC7A0"
-				"download" "0D504C34D299F2FE2CA8ABE1C0F82252"
-			}
-			"loca2"
-			{
-				"gid" "7A43A9315954C242B1DDEBAEA02731A3"
-				"size" "98C18AF28CB6E2CE83CEF617FE6CD4B0"
-				"download" "C86F66BC7B3BF93A128357E97088CCE2"
-			}
-			"master"
-			{
-				"gid" "13CD3490E72E8968156D8782C712C526"
-				"size" "5149ACCC3DE4E4BF6FCEAAE93C69DF83"
-				"download" "01F9A612C928F528C2FBAF6B69D23816"
-			}
-			"qa_test"
-			{
-				"gid" "32A11E2358CA9851354BB8BA73447CCD"
-				"size" "90CD4FD334EEAE0BCD3250C7DAB9F6C6"
-				"download" "EC32389FDF68686893586D94E4EB2755"
-			}
-			"testing_mp"
-			{
-				"gid" "25F0E094961BC191B1A5C93F55AF7216"
-				"size" "AE8C07A3278D63A3BA95528D97E79942"
-				"download" "1CA1831FC404D05F2A82741CBDC20BD8"
-			}
-		}
 	}
 	"327547"
 	{
@@ -848,45 +692,6 @@
 				"gid" "1417547065508211984"
 				"size" "1069590"
 				"download" "1008128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "3D59F1C91FD0869AC9CEE99BC83F57AC"
-				"size" "AC20CE5FEA9CC2C75CAA554C2B3C78BD"
-				"download" "88F9D5232FA1E383012695DAAB51E099"
-			}
-			"lab"
-			{
-				"gid" "B21A63D088A490961F4FAC9201C7D785"
-				"size" "8A10DE2C735C362AF4A5181AEFEBA3A0"
-				"download" "500AE4EBC013C5D523F2F8A378449AAF"
-			}
-			"loca2"
-			{
-				"gid" "730560002F175D2F4701EBE5A417C0A2"
-				"size" "73EE978F30EF6C36CEDCDB1C82F1FFF1"
-				"download" "4B25D0A568A70BB51CB70B4AD2A0D7A2"
-			}
-			"master"
-			{
-				"gid" "9BB679C5570333AD9BF51133AA2E0518"
-				"size" "AE927647B0C6FE5EA02B744677D0BC58"
-				"download" "9BC9714BD274351C045FC4031BD7D7E0"
-			}
-			"qa_test"
-			{
-				"gid" "0E044C0E6E345B8B170AFA17A9DC322B"
-				"size" "3191BE1720D368DE73299F6391216E98"
-				"download" "22D26D1FB743C7EEDD076E8BD33A1A2C"
-			}
-			"testing_mp"
-			{
-				"gid" "AC237D118D930D8B188FE1A65C083E27"
-				"size" "6902EF23FDFC67C77AD9B7B7832A29CD"
-				"download" "3EC4A5CE8F8D8835B98DF09B9CEE291B"
 			}
 		}
 	}
@@ -955,45 +760,6 @@
 				"download" "858880"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "DC38E208DC2855F0E3C1C158A2B08E55"
-				"size" "9445CE8FB921644D512C3BE68FEAE74B"
-				"download" "E739E09C644799280E05B4C01202CB47"
-			}
-			"lab"
-			{
-				"gid" "17CA8493A4626BC37E9ADCB55363635F"
-				"size" "3DE992D1629C69F08E1F617C4B56677E"
-				"download" "F154235D1667B3BD93DC478925D0B9BB"
-			}
-			"loca2"
-			{
-				"gid" "F03BD4C4D096453CAE86170E82A35D57"
-				"size" "237C40F2B3B35E13C8017AD0E9D87ED0"
-				"download" "3F73EFBAF7A47A2B9CD956B849E76F15"
-			}
-			"master"
-			{
-				"gid" "EBFE164CD959FAA6AA2D261049138829"
-				"size" "F446BA1F490F5AD0BE35E078E9F0A05C"
-				"download" "2AAE679D9230EFD112E78B64DA497E68"
-			}
-			"qa_test"
-			{
-				"gid" "7B18AC65CD1D89A2635AA6E8A4537118"
-				"size" "2898214924AB2204BA25F7804698AEAF"
-				"download" "E6648FD975D758314A00B5BE15A89847"
-			}
-			"testing_mp"
-			{
-				"gid" "80ECAA646E0301C65420CC75F8C5407A"
-				"size" "A3366D458871B25F0CB8139EB5B3B944"
-				"download" "67DA91CF09075E07E1005AEC931407A4"
-			}
-		}
 	}
 	"335290"
 	{
@@ -1034,33 +800,6 @@
 				"gid" "1983509552351355053"
 				"size" "85794304"
 				"download" "59693120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "B5596DDF3690345E67E8FDC910F6044D"
-				"size" "5A81CF0139E084F293C754C160B5EA0C"
-				"download" "DCD69E5C31A544D17BBDD69ABB578BCB"
-			}
-			"lab"
-			{
-				"gid" "629FCB28D76A298E35C7792723ACF792"
-				"size" "4FF450FAA95C0E2A4D44581567D73020"
-				"download" "EF09D5F5A6B8C356A56FAA2857C20D5D"
-			}
-			"qa_test"
-			{
-				"gid" "1EA9770C1FAD712F363861DB9CFE04FB"
-				"size" "C732773132C44EF398D19F6D89897311"
-				"download" "12DB3152D99484FA103DD14141A42645"
-			}
-			"testing_mp"
-			{
-				"gid" "23B71CD8F6BFD0BE79F2929482D4E84A"
-				"size" "A203B23050C33081F41F39A1947DB57E"
-				"download" "784B8915578D56A4704E278FDDFD6C2C"
 			}
 		}
 		"dlcappid" "335290"
@@ -1106,33 +845,6 @@
 				"download" "117042752"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "B39E5D1F7D273A9DAA8F77BC97482CCD"
-				"size" "FC163775ACED0AED45C05614D7D8CF74"
-				"download" "7083159144B8599E9FABF7585416536B"
-			}
-			"lab"
-			{
-				"gid" "10769FD0E1D237A2554CF5B8D2B740E2"
-				"size" "9F5CF7A24F89E71711A56C7940EB1CB5"
-				"download" "800853B647E6F18BD273340AA8FEB7F1"
-			}
-			"qa_test"
-			{
-				"gid" "910F1120E840B10F04569CE4B159249E"
-				"size" "7F97BE522FDA93868B558DFC3037A0F2"
-				"download" "2D50AE0135F5609A364F6C85638EF0B4"
-			}
-			"testing_mp"
-			{
-				"gid" "B214C18AD055C0F99B87ECBA492138B1"
-				"size" "C0FEBBAAF1D63D9027F2415B77A620BE"
-				"download" "6360A4F10DF5F61DB1D621E7CB509EFF"
-			}
-		}
 		"dlcappid" "345740"
 	}
 	"374850"
@@ -1168,33 +880,6 @@
 				"gid" "2552193044951658928"
 				"size" "84216320"
 				"download" "64814016"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "7BD1418B5F5C3FD1481841C4A2967A7C"
-				"size" "2F6D6D255E8AFC37DA398B6D0D676007"
-				"download" "C329E81819DF0F5DDF454B4D1A73CBBA"
-			}
-			"lab"
-			{
-				"gid" "6A38CB4FEE1205028343BBC4E3B7C346"
-				"size" "6B34DDF86EC0750A30D7B7C33641D2C1"
-				"download" "F3D40D096FEAE5573C137E1F9B1E69EC"
-			}
-			"qa_test"
-			{
-				"gid" "AAB151E93163E55CE90A94E5FC77C0E4"
-				"size" "95D7676D202D55731784D8FA3B721D23"
-				"download" "FE22DC7C4FE90E40CAE59371C1E13A83"
-			}
-			"testing_mp"
-			{
-				"gid" "E031E47A06D16AD790FAAF3DC83F3609"
-				"size" "152A7AD93622CB320ECD6183CA23E6B7"
-				"download" "B9A9E93F430F9FA48B81470092B2E6A4"
 			}
 		}
 		"dlcappid" "374850"
@@ -1234,33 +919,6 @@
 				"download" "22866848"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "DA0CAC6453C0B5C202D70FD8EA0CCDA6"
-				"size" "79880174DFF745A4B17006B8A481B046"
-				"download" "AA42A3ECD0EC2743AA0EB871606EB0EB"
-			}
-			"lab"
-			{
-				"gid" "E9777F481BC094D704A653BCB14A4EBD"
-				"size" "997412B84EE4F6E79C9465189FED86AE"
-				"download" "C2AFBBADBEF057CA8A4C6C85A998495C"
-			}
-			"qa_test"
-			{
-				"gid" "9C341692F20757CCDE63EA96AD7DC0EE"
-				"size" "2570251007BDE61024016FCA0FA9BE89"
-				"download" "F87CE4CFE6965127CFE19281EA7332B8"
-			}
-			"testing_mp"
-			{
-				"gid" "03A960B425397CC542109CF4DF99BE2A"
-				"size" "5D4ACFB2FAA26E112A654E61BBF29836"
-				"download" "11CB9851006C700ACF2FD6CF5D29F882"
-			}
-		}
 		"dlcappid" "381240"
 	}
 	"374851"
@@ -1290,33 +948,6 @@
 				"gid" "5294461407824856704"
 				"size" "1405354754"
 				"download" "1252279136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "5E21AF2F3AAA4313566248C3C95813FE"
-				"size" "498DB6D83F86C17D0C0E8B8645D7B49B"
-				"download" "07C0B21A21F44440CD31E6C596E08B2A"
-			}
-			"lab"
-			{
-				"gid" "11310D16C6B6E847B4A3568C94D81F15"
-				"size" "73C05821445E0C79639E822D630E7CD1"
-				"download" "48BA647B04943B16A360E24D7221BC6B"
-			}
-			"qa_test"
-			{
-				"gid" "7324DA7678202703F58C5FEEC46C545C"
-				"size" "ECFD2A2A5091D373CC50DA6B84378F91"
-				"download" "77B0603BD9B215BDE5EEB57922547828"
-			}
-			"testing_mp"
-			{
-				"gid" "FDD7D5F1C79ECA9E16BF130F89132D54"
-				"size" "9C669656C6879C1A9357A8180DE61785"
-				"download" "1AE6C5C34BB6105D0E7F03A2DF7F2C7E"
 			}
 		}
 		"dlcappid" "374851"
@@ -1350,33 +981,6 @@
 				"download" "30216912"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "D17DB1B7B71310C48A278D2D6738F841"
-				"size" "31E5B0244B4920FB9C1648B912237A02"
-				"download" "A7A3FD36202BDAE62CAD101224ED10CA"
-			}
-			"lab"
-			{
-				"gid" "3D0E063F64A0687A3C6195D1EED455F2"
-				"size" "121F93DD9183E73538A3FADE52DA82BB"
-				"download" "A647198792AB86338EE80CE2039D18E8"
-			}
-			"qa_test"
-			{
-				"gid" "03AA0D4A366E92DB70F0DEDFD8F9E45C"
-				"size" "3F8FCF7E860241DCDDA4D1B0586A1790"
-				"download" "A530E365FF80B0E656464C983FC6B0D1"
-			}
-			"testing_mp"
-			{
-				"gid" "AD73F819F32427ED683950179BBDE58D"
-				"size" "284A4531454D064074AA0265D0007593"
-				"download" "158DB9D34CA628E5E1839DC0319BD92F"
-			}
-		}
 		"dlcappid" "411040"
 	}
 	"345741"
@@ -1390,33 +994,6 @@
 				"download" "138086912"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"age_rating"
-			{
-				"gid" "82AA87AB22E58767C4D0542564860FDA"
-				"size" "EA2B2CBA9E251961874B68E2FC78F1C2"
-				"download" "B22D982016254BF58EF38CCAEA21BC97"
-			}
-			"lab"
-			{
-				"gid" "A12635720D530CAFADB46CE8A1285BD8"
-				"size" "4CE38B342E65E4624FC5FBBA69B8773C"
-				"download" "3FE2E0516D244432005E450FC7F9720E"
-			}
-			"qa_test"
-			{
-				"gid" "2F21B71AE7711E82A0B363F68F71CC36"
-				"size" "9EA146DB8CFC2B1588390EC5AF79950F"
-				"download" "D6980FEB9E8749B78BE60BD4948F858A"
-			}
-			"testing_mp"
-			{
-				"gid" "867E16687DACCFA9D016426B232250C8"
-				"size" "CB7991962517A3EDD038AB1584F71CC1"
-				"download" "BEFE80F646819CD1E89A54827C575349"
-			}
-		}
 		"dlcappid" "345741"
 	}
 	"branches"
@@ -1425,32 +1002,6 @@
 		{
 			"buildid" "1035938"
 			"timeupdated" "1458731977"
-		}
-		"age_rating"
-		{
-			"buildid" "940926"
-			"pwdrequired" "1"
-		}
-		"lab"
-		{
-			"buildid" "1035938"
-			"pwdrequired" "1"
-			"timeupdated" "1458668412"
-		}
-		"loca"
-		{
-			"buildid" "389951"
-			"pwdrequired" "1"
-		}
-		"loca2"
-		{
-			"buildid" "424600"
-			"pwdrequired" "1"
-		}
-		"master"
-		{
-			"buildid" "406565"
-			"pwdrequired" "1"
 		}
 		"patch1.1.0.1"
 		{
@@ -1479,24 +1030,8 @@
 			"buildid" "1004156"
 			"description" "Game with Patch 1.4.1 and Gold Pack 1.1"
 		}
-		"prospect"
-		{
-			"buildid" "389951"
-			"pwdrequired" "1"
-		}
-		"qa_test"
-		{
-			"buildid" "1035938"
-			"pwdrequired" "1"
-			"timeupdated" "1458668353"
-		}
-		"testing_mp"
-		{
-			"buildid" "1035938"
-			"pwdrequired" "1"
-			"timeupdated" "1458668245"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -1967,6 +1502,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "5aeb24ab68e290766371072e0b4feb530f823204"
-"_size" "37341"
+"_change_number" "27113259"
+"_sha" "85b55d3145800181fd37313ab3183226914f3d40"
+"_size" "25187"
