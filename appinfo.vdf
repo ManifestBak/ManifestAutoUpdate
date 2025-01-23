@@ -241,60 +241,21 @@
 		{
 			"public"
 			{
-				"gid" "7731149424654321515"
-				"size" "10870951637"
-				"download" "3606450448"
+				"gid" "8407199206146617864"
+				"size" "10929042039"
+				"download" "3625424864"
 			}
 			"beta"
 			{
+				"gid" "8407199206146617864"
+				"size" "10929042039"
+				"download" "3625424864"
+			}
+			"previous_stable"
+			{
 				"gid" "7731149424654321515"
 				"size" "10870951637"
 				"download" "3606450448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "207A43ECACE155FF5131AE40C44169DD"
-				"size" "A8208898A10D8EF8951B6F27E9969B56"
-				"download" "9B7DBF85C7E834F16BD592BEC86C8886"
-			}
-			"debug"
-			{
-				"gid" "8DCAE7924EE5C128C5911EC56228FFFD"
-				"size" "0DE332CCF8ED039DACBE72AF359CB1C5"
-				"download" "CE4153664AFD1FD6DAEEA71CBB5016AE"
-			}
-			"internal_steamworks_test"
-			{
-				"gid" "C0F7C4089E0DFE5A3F285BBAE5381060"
-				"size" "38D9AF04988513742F46117383903E22"
-				"download" "B007B2D811C5B7669A4101248DCC8806"
-			}
-			"performance_test_a"
-			{
-				"gid" "633856DD793ECD368EE3E0F0130553DE"
-				"size" "7A9E6FE9E92C6D22E8576B13EBE6FDF8"
-				"download" "0C4A1D1A93DF9511AA57359D6EC3E4D0"
-			}
-			"performance_test_b"
-			{
-				"gid" "7A4B45A89FAAB7E760ABFE5C2A9A8FDE"
-				"size" "010EDE86EA2D82DE99E72A6791452151"
-				"download" "7EBF51DF2AC42AC3E099A527F7631268"
-			}
-			"performance_test_c"
-			{
-				"gid" "4008D6137B690180D3ADF752E94D442C"
-				"size" "B9310A998304B2D63B7327604C48B67B"
-				"download" "48637B5F16415987F7EC3C49F0FC7E51"
-			}
-			"prototype"
-			{
-				"gid" "02E75B26411462502EB1911A886AE509"
-				"size" "03A31B5F9B73E5878CF4CD655F848BC2"
-				"download" "1DA3BF284A283DE73BD8B0E4A1EF91EE"
 			}
 		}
 	}
@@ -302,60 +263,25 @@
 	{
 		"public"
 		{
-			"buildid" "16582279"
-			"timeupdated" "1732961743"
-		}
-		"alpha"
-		{
-			"buildid" "6011298"
-			"pwdrequired" "1"
-			"timeupdated" "1608815208"
-		}
-		"debug"
-		{
-			"buildid" "5304790"
-			"pwdrequired" "1"
-			"timeupdated" "1595082605"
-		}
-		"internal_steamworks_test"
-		{
-			"buildid" "7656470"
-			"pwdrequired" "1"
-			"timeupdated" "1636027853"
-		}
-		"performance_test_a"
-		{
-			"buildid" "12828530"
-			"pwdrequired" "1"
-			"timeupdated" "1701264526"
-		}
-		"performance_test_b"
-		{
-			"buildid" "12189125"
-			"pwdrequired" "1"
-			"timeupdated" "1694699784"
-		}
-		"performance_test_c"
-		{
-			"buildid" "12133481"
-			"pwdrequired" "1"
-			"timeupdated" "1694099076"
-		}
-		"prototype"
-		{
-			"buildid" "5263993"
-			"pwdrequired" "1"
-			"timeupdated" "1608773864"
+			"buildid" "16815561"
+			"timeupdated" "1734794784"
 		}
 		"beta"
 		{
-			"buildid" "16582279"
+			"buildid" "16815561"
 			"description" "beta"
-			"timeupdated" "1732903421"
+			"timeupdated" "1734706858"
+		}
+		"previous_stable"
+		{
+			"buildid" "16582279"
+			"description" "This is the pevious stable version"
+			"timeupdated" "1736507205"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26433695"
-"_sha" "5ac8682f950c25b16fdcceb3e855f8fca1812783"
-"_size" "6409"
+"_change_number" "26939872"
+"_sha" "d46c0ad486241bcd0704c48a79d892eaf1b7bf1d"
+"_size" "4639"
