@@ -102,7 +102,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1710814433"
+	"store_asset_mtime" "1737517317"
 	"associations"
 	{
 		"0"
@@ -139,6 +139,7 @@
 		}
 	}
 	"steam_release_date" "1711334984"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2058570"
 	"store_tags"
@@ -161,8 +162,8 @@
 		"15" "1684"
 		"16" "3916"
 		"17" "4182"
-		"18" "492"
-		"19" "493"
+		"18" "493"
+		"19" "492"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -215,27 +216,27 @@
 		{
 			"public"
 			{
-				"gid" "1786716769652126047"
-				"size" "947424779"
-				"download" "710658720"
+				"gid" "6929712123934773899"
+				"size" "947471658"
+				"download" "710692480"
 			}
 			"beta"
 			{
-				"gid" "1786716769652126047"
-				"size" "947424779"
-				"download" "710658720"
+				"gid" "6929712123934773899"
+				"size" "947471658"
+				"download" "710692480"
 			}
 			"prev_beta"
 			{
-				"gid" "5138291861886461461"
-				"size" "947414253"
-				"download" "710654864"
+				"gid" "6472303680758323066"
+				"size" "947470083"
+				"download" "710691792"
 			}
 			"prev_main"
 			{
-				"gid" "4511927589382291549"
-				"size" "947185693"
-				"download" "710560048"
+				"gid" "1786716769652126047"
+				"size" "947424779"
+				"download" "710658720"
 			}
 		}
 	}
@@ -244,26 +245,26 @@
 	{
 		"public"
 		{
-			"buildid" "15501448"
-			"timeupdated" "1724998029"
+			"buildid" "17062284"
+			"timeupdated" "1737363809"
 		}
 		"beta"
 		{
-			"buildid" "15501448"
+			"buildid" "17062284"
 			"description" "beta branch"
-			"timeupdated" "1724737879"
+			"timeupdated" "1737605311"
 		}
 		"prev_beta"
 		{
-			"buildid" "15210817"
+			"buildid" "16858412"
 			"description" "previous beta build for save compat"
-			"timeupdated" "1724340803"
+			"timeupdated" "1736402936"
 		}
 		"prev_main"
 		{
-			"buildid" "14371359"
+			"buildid" "15501448"
 			"description" "previous main build for save compat"
-			"timeupdated" "1724997996"
+			"timeupdated" "1737083632"
 		}
 	}
 }
@@ -272,3 +273,7 @@
 	"quota" "500000000"
 	"maxnumfiles" "2000"
 }
+"_missing_token" "False"
+"_change_number" "27124032"
+"_sha" "f77535484ab22d7ca8cc7e77078ad90990c3a9a3"
+"_size" "4766"
