@@ -144,7 +144,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "Dynasty"
+			"name" "Toplitz Productions"
 		}
 	}
 	"primary_genre" "28"
@@ -279,72 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "8082131960834313150"
-				"size" "9364422946"
-				"download" "5061077888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_staging"
-			{
-				"gid" "AF6D550BB5E8634F34A763C217EC5E1F"
-				"size" "93D38CB10355EF6B1DE60B333E3E7854"
-				"download" "064C3AFFB20E02EC9A729DD8C0F7DAE2"
-			}
-			"dlss_test"
-			{
-				"gid" "DA2CDEADE7A01A0CC6010FA69BA7285D"
-				"size" "B99AFFACD78C152578071A941F5D6CA2"
-				"download" "587B4BD784040EA16CB76CBBBB1F3BB1"
-			}
-			"internal"
-			{
-				"gid" "6552D1DF5568250C14ABBCCA73090BF6"
-				"size" "2A544706ACFF9B918C79540E3C0E626B"
-				"download" "E13EF94C941A4F02D5243A4359C1C17D"
-			}
-			"press"
-			{
-				"gid" "381F307E8E21883B1873EAF34165B203"
-				"size" "F137398C2F92C0E69C977DA92D559843"
-				"download" "373279D0580CC0C0CCD2CB0FBCE27863"
-			}
-			"press_staging"
-			{
-				"gid" "174BF521CD118C7C976A1C5BE9C0317F"
-				"size" "A1B7DACD731FCAA8987E56AACD232A06"
-				"download" "DFD84D9B3444EE2B167B73CD75021647"
-			}
-			"public_staging"
-			{
-				"gid" "57C6CBAE00C83081241BBA167DAD78CC"
-				"size" "4EE34446D0526C5E678B0ADB94383FFA"
-				"download" "BDB8DB0C2312888D03C5F8B9F3D79AAF"
-			}
-			"dev_test"
-			{
-				"gid" "2E877BE00A0E30F7AAC9144ADF715964"
-				"size" "429DE3B98074B6E0D2636381D397F48C"
-				"download" "FD1D6B47C61B101A12E2A59AA9CEC69F"
-			}
-			"dlc_test"
-			{
-				"gid" "93061CF5D139876A3EB83A9FD5743089"
-				"size" "D634A83AFF81BEDA49C32BA5485155D9"
-				"download" "1D7515CAF82BE05A5CC3C817AA0359FC"
-			}
-			"qa_test"
-			{
-				"gid" "9085DDF0960577D2AC6E86BD7708AE3D"
-				"size" "CE0FF131576419E69545E4B52069E4C9"
-				"download" "240D8FC090C44744AF6C49E8C8BB0D48"
-			}
-			"standalone"
-			{
-				"gid" "BEB0FB60E9BF366695984F2474A83699"
-				"size" "856798B91E51FAEE5D27336C88FE07AC"
-				"download" "EB85BF5D2E267263F0110336732519B1"
+				"gid" "5410813116437150644"
+				"size" "9371601416"
+				"download" "5064385264"
 			}
 		}
 	}
@@ -365,27 +302,6 @@
 				"download" "94595184"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"public_staging"
-			{
-				"gid" "3F8F49A76E6819BC796920DA92ED37E7"
-				"size" "10232835F06FF8A1277612D1BD54FABA"
-				"download" "3856C2BE2E1C7373840438E90E7514CC"
-			}
-			"dlc_test"
-			{
-				"gid" "43E7A7403C8F7218CC1109D81671236E"
-				"size" "C40E1AAE7F5BAA6E2BEDD13515BCFEFC"
-				"download" "A5AC9AEF4ECB56746B968F013BFCA707"
-			}
-			"standalone"
-			{
-				"gid" "645AF8EC0BDA23FF62C42F03AC89D1DB"
-				"size" "3AF696A8C23A669AA431E96F139FD9B3"
-				"download" "F78B196774F9C12CEF0ACADC2BC0D64B"
-			}
-		}
 	}
 	"2286821"
 	{
@@ -404,96 +320,16 @@
 				"download" "89401200"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"public_staging"
-			{
-				"gid" "4C8E6918DFC76CA7F897FD760D3B2EE6"
-				"size" "A7D018F86999E6700B3DCC8B7E1A446D"
-				"download" "31BC825E1E4A4CD2726D6FC5E79BFD22"
-			}
-			"dlc_test"
-			{
-				"gid" "46C56779CADED344BE4D6491BC02101C"
-				"size" "B4E520A80BC08E3DECA023D9EA209156"
-				"download" "4627533494CAB1D75B20F0F9CA88EF65"
-			}
-			"standalone"
-			{
-				"gid" "355C9A7E35AA296B88E051223CE5A256"
-				"size" "6BC4D4C0B4E3CD65604F8CE2E69BB3DC"
-				"download" "CD9ED0617AE4885735B8BB9F23DA3669"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16341642"
-			"timeupdated" "1731069113"
-		}
-		"dev_staging"
-		{
-			"buildid" "10721396"
-			"pwdrequired" "1"
-			"timeupdated" "1679151006"
-		}
-		"dlss_test"
-		{
-			"buildid" "10509420"
-			"pwdrequired" "1"
-			"timeupdated" "1675910456"
-		}
-		"internal"
-		{
-			"buildid" "10678238"
-			"pwdrequired" "1"
-			"timeupdated" "1677802823"
-		}
-		"press"
-		{
-			"buildid" "10637795"
-			"pwdrequired" "1"
-			"timeupdated" "1677453695"
-		}
-		"press_staging"
-		{
-			"buildid" "10637795"
-			"pwdrequired" "1"
-			"timeupdated" "1677453719"
-		}
-		"public_staging"
-		{
-			"buildid" "11638267"
-			"pwdrequired" "1"
-			"timeupdated" "1689158172"
-		}
-		"dev_test"
-		{
-			"buildid" "16233246"
-			"pwdrequired" "1"
-			"timeupdated" "1730275865"
-		}
-		"dlc_test"
-		{
-			"buildid" "15647554"
-			"pwdrequired" "1"
-			"timeupdated" "1725951745"
-		}
-		"qa_test"
-		{
-			"buildid" "16287758"
-			"pwdrequired" "1"
-			"timeupdated" "1730726950"
-		}
-		"standalone"
-		{
-			"buildid" "16161260"
-			"pwdrequired" "1"
-			"timeupdated" "1729752056"
+			"buildid" "16817681"
+			"timeupdated" "1734719489"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -503,6 +339,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "26127753"
-"_sha" "7b4a14c52c8f4f0f48b0471be8b8a92a38f58bef"
-"_size" "9707"
+"_change_number" "26954642"
+"_sha" "6df5d81f61273fa1e3974fefc6a7b9968c99a244"
+"_size" "5766"
