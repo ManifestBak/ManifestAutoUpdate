@@ -357,21 +357,6 @@
 				"download" "713821808"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev_build"
-			{
-				"gid" "6A68D69C39D6D35094E2BDE2A9EAC876"
-				"size" "93F7ED47E66A9A79D594835C209B3E61"
-				"download" "BEF6508B7AA4989BED088213573924BE"
-			}
-			"beta_closed"
-			{
-				"gid" "407A857E5FB8C45663C3C3E5B9924476"
-				"size" "67F3CC1A4A5E502BC250BE3773F36792"
-				"download" "DAF5E35F9BFC530C4B2619C35B35B235"
-			}
-		}
 	}
 	"248392"
 	{
@@ -383,9 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "4913347085549898152"
-				"size" "908335903"
-				"download" "634134304"
+				"gid" "724033254762487936"
+				"size" "909375025"
+				"download" "635127856"
 			}
 			"experimental"
 			{
@@ -400,35 +385,14 @@
 				"download" "542653296"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev_build"
-			{
-				"gid" "08B1E3D87A75D8F364C8BDA10763C179"
-				"size" "61552969B5184B1520491DD5E6967073"
-				"download" "51F3F361407FD9A6FD8559928391F452"
-			}
-			"beta_closed"
-			{
-				"gid" "352D35B9E0A2B3B20BA35EDB88FEDE84"
-				"size" "11021F448BD5DF56320201905C0F9DB9"
-				"download" "79F46AFABF0239E83310D03166681BC7"
-			}
-		}
 	}
 	"workshopdepot" "248390"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17074056"
-			"timeupdated" "1737443535"
-		}
-		"dev_build"
-		{
-			"buildid" "4553436"
-			"pwdrequired" "1"
-			"timeupdated" "1578541895"
+			"buildid" "17101722"
+			"timeupdated" "1737616871"
 		}
 		"experimental"
 		{
@@ -436,18 +400,13 @@
 			"description" "Public experimental branch"
 			"timeupdated" "1648718748"
 		}
-		"beta_closed"
-		{
-			"buildid" "17073536"
-			"pwdrequired" "1"
-			"timeupdated" "1737439439"
-		}
 		"beta_open"
 		{
 			"buildid" "16757249"
 			"timeupdated" "1734342311"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -502,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27090180"
-"_sha" "e491bcfd550f0b329756c63bffb34862e8d7c26d"
-"_size" "8983"
+"_change_number" "27125967"
+"_sha" "14a7102ef40ca71ec2d17e5faa90e1f9f4a8ed09"
+"_size" "8022"
