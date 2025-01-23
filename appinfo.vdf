@@ -15,6 +15,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_0c1582dbc0df6b79c18e747eaa59af51419b06f5.jpg"
 	"store_asset_mtime" "1683720282"
 	"associations"
 	{
@@ -37,9 +38,6 @@
 	"steam_release_date" "1685034355"
 	"gameid" "2375750"
 	"exfgls" "6"
-	"store_tags"
-	{
-	}
 }
 "extended"
 {
@@ -60,18 +58,9 @@
 		{
 			"public"
 			{
-				"gid" "4385711669159547863"
-				"size" "212119774"
-				"download" "185440432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"update-1"
-			{
-				"gid" "C829FF64D2CDE7F06380780D1B491C2D"
-				"size" "986E1AFDC5B204B10636A78E9A4D57AF"
-				"download" "E1E4DB435102C2C7423B83D793F2500F"
+				"gid" "984139285001762231"
+				"size" "323874008"
+				"download" "297140352"
 			}
 		}
 	}
@@ -85,18 +74,9 @@
 		{
 			"public"
 			{
-				"gid" "6404909797479707309"
-				"size" "1170986644"
-				"download" "1023428192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"update-1"
-			{
-				"gid" "0FE8AA15220C006C2121FF779C2B59D9"
-				"size" "BF8197F8FDDEFAC5D021E57F7F2B016A"
-				"download" "6FC20A57F74A9B069F5B777DBB821DCA"
+				"gid" "8716847038935447259"
+				"size" "1795840878"
+				"download" "1511235440"
 			}
 		}
 	}
@@ -104,16 +84,11 @@
 	{
 		"public"
 		{
-			"buildid" "12990694"
-			"timeupdated" "1708007393"
-		}
-		"update-1"
-		{
-			"buildid" "12990694"
-			"pwdrequired" "1"
-			"timeupdated" "1702912663"
+			"buildid" "15952047"
+			"timeupdated" "1728996253"
 		}
 	}
+	"privatebranches" "1"
 }
 "albummetadata"
 {
@@ -666,7 +641,7 @@
 		{
 			"discnumber" "2"
 			"tracknumber" "21"
-			"originalname" "Good Night, Rolling Hotel"
+			"originalname" "Good Night Rolling Hotel"
 			"m" "0"
 			"s" "14"
 		}
@@ -734,9 +709,329 @@
 			"m" "1"
 			"s" "1"
 		}
+		"60"
+		{
+			"discnumber" "3"
+			"tracknumber" "1"
+			"originalname" "Theme of our Home the Alps"
+			"m" "2"
+			"s" "54"
+		}
+		"61"
+		{
+			"discnumber" "3"
+			"tracknumber" "2"
+			"originalname" "Old Modern Switzerland"
+			"m" "3"
+			"s" "29"
+		}
+		"62"
+		{
+			"discnumber" "3"
+			"tracknumber" "3"
+			"originalname" "Courage Eidgenosse!"
+			"m" "1"
+			"s" "48"
+		}
+		"63"
+		{
+			"discnumber" "3"
+			"tracknumber" "4"
+			"originalname" "Calm of the Mountains"
+			"m" "1"
+			"s" "25"
+		}
+		"64"
+		{
+			"discnumber" "3"
+			"tracknumber" "5"
+			"originalname" "The Country Fair Marching Band"
+			"m" "1"
+			"s" "37"
+		}
+		"65"
+		{
+			"discnumber" "3"
+			"tracknumber" "6"
+			"originalname" "Rails &amp; Relaxation"
+			"m" "4"
+			"s" "9"
+		}
+		"66"
+		{
+			"discnumber" "3"
+			"tracknumber" "7"
+			"originalname" "Industrial Rhythm"
+			"m" "3"
+			"s" "6"
+		}
+		"67"
+		{
+			"discnumber" "3"
+			"tracknumber" "8"
+			"originalname" "Gaze upon the Foothills"
+			"m" "0"
+			"s" "44"
+		}
+		"68"
+		{
+			"discnumber" "3"
+			"tracknumber" "9"
+			"originalname" "Our Home the Alps"
+			"m" "2"
+			"s" "33"
+		}
+		"69"
+		{
+			"discnumber" "3"
+			"tracknumber" "10"
+			"originalname" "Yodel Me THIS!"
+			"m" "0"
+			"s" "16"
+		}
+		"70"
+		{
+			"discnumber" "3"
+			"tracknumber" "11"
+			"originalname" "Solemn Horn Melody"
+			"m" "0"
+			"s" "16"
+		}
+		"71"
+		{
+			"discnumber" "3"
+			"tracknumber" "12"
+			"originalname" "Soothing Horn Melody"
+			"m" "0"
+			"s" "19"
+		}
+		"72"
+		{
+			"discnumber" "3"
+			"tracknumber" "13"
+			"originalname" "Vertigo"
+			"m" "0"
+			"s" "32"
+		}
+		"73"
+		{
+			"discnumber" "3"
+			"tracknumber" "14"
+			"originalname" "Vertigo Jingle"
+			"m" "0"
+			"s" "15"
+		}
+		"74"
+		{
+			"discnumber" "3"
+			"tracknumber" "15"
+			"originalname" "A Glorious Mountain Vista"
+			"m" "0"
+			"s" "33"
+		}
+		"75"
+		{
+			"discnumber" "3"
+			"tracknumber" "16"
+			"originalname" "Watch out! Cattle Crossing!"
+			"m" "0"
+			"s" "27"
+		}
+		"76"
+		{
+			"discnumber" "3"
+			"tracknumber" "17"
+			"originalname" "Steam and High Voltage"
+			"m" "1"
+			"s" "34"
+		}
+		"77"
+		{
+			"discnumber" "3"
+			"tracknumber" "18"
+			"originalname" "Dawn of Electrification"
+			"m" "1"
+			"s" "52"
+		}
+		"78"
+		{
+			"discnumber" "3"
+			"tracknumber" "19"
+			"originalname" "Sunshine in the Romandy"
+			"m" "0"
+			"s" "47"
+		}
+		"79"
+		{
+			"discnumber" "3"
+			"tracknumber" "20"
+			"originalname" "A Gentle Spring Breeze"
+			"m" "1"
+			"s" "7"
+		}
+		"80"
+		{
+			"discnumber" "4"
+			"tracknumber" "1"
+			"originalname" "Colors of India"
+			"m" "1"
+			"s" "42"
+		}
+		"81"
+		{
+			"discnumber" "4"
+			"tracknumber" "2"
+			"originalname" "Wandering the Ghats"
+			"m" "2"
+			"s" "3"
+		}
+		"82"
+		{
+			"discnumber" "4"
+			"tracknumber" "3"
+			"originalname" "Haidarabad"
+			"m" "4"
+			"s" "4"
+		}
+		"83"
+		{
+			"discnumber" "4"
+			"tracknumber" "4"
+			"originalname" "Princely States"
+			"m" "2"
+			"s" "7"
+		}
+		"84"
+		{
+			"discnumber" "4"
+			"tracknumber" "5"
+			"originalname" "Emerald of the Nilgiri Mountains"
+			"m" "2"
+			"s" "22"
+		}
+		"85"
+		{
+			"discnumber" "4"
+			"tracknumber" "6"
+			"originalname" "The Great Mogul\'s Authority"
+			"m" "2"
+			"s" "8"
+		}
+		"86"
+		{
+			"discnumber" "4"
+			"tracknumber" "7"
+			"originalname" "Carnatic Cruise"
+			"m" "2"
+			"s" "17"
+		}
+		"87"
+		{
+			"discnumber" "4"
+			"tracknumber" "8"
+			"originalname" "Land of the Thunder Dragon"
+			"m" "1"
+			"s" "23"
+		}
+		"88"
+		{
+			"discnumber" "4"
+			"tracknumber" "9"
+			"originalname" "Down the Indus River"
+			"m" "1"
+			"s" "2"
+		}
+		"89"
+		{
+			"discnumber" "4"
+			"tracknumber" "10"
+			"originalname" "Western Steam"
+			"m" "0"
+			"s" "58"
+		}
+		"90"
+		{
+			"discnumber" "4"
+			"tracknumber" "11"
+			"originalname" "Madras Mondays"
+			"m" "2"
+			"s" "15"
+		}
+		"91"
+		{
+			"discnumber" "4"
+			"tracknumber" "12"
+			"originalname" "Himalayan Skies"
+			"m" "0"
+			"s" "47"
+		}
+		"92"
+		{
+			"discnumber" "4"
+			"tracknumber" "13"
+			"originalname" "The Raja\'s Invitation"
+			"m" "0"
+			"s" "38"
+		}
+		"93"
+		{
+			"discnumber" "4"
+			"tracknumber" "14"
+			"originalname" "Nepali Flowers"
+			"m" "0"
+			"s" "12"
+		}
+		"94"
+		{
+			"discnumber" "4"
+			"tracknumber" "15"
+			"originalname" "Colors of India Jingle"
+			"m" "0"
+			"s" "12"
+		}
+		"95"
+		{
+			"discnumber" "4"
+			"tracknumber" "16"
+			"originalname" "Crossing Borders"
+			"m" "0"
+			"s" "13"
+		}
+		"96"
+		{
+			"discnumber" "4"
+			"tracknumber" "17"
+			"originalname" "Entering the Temple"
+			"m" "0"
+			"s" "16"
+		}
+		"97"
+		{
+			"discnumber" "4"
+			"tracknumber" "18"
+			"originalname" "Running down Chamundi Hill"
+			"m" "0"
+			"s" "23"
+		}
+		"98"
+		{
+			"discnumber" "4"
+			"tracknumber" "19"
+			"originalname" "Tribes of Bengal"
+			"m" "2"
+			"s" "7"
+		}
+		"99"
+		{
+			"discnumber" "4"
+			"tracknumber" "20"
+			"originalname" "Monsoon Dance"
+			"m" "1"
+			"s" "54"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22789889"
-"_sha" "e7ca1a812fb70c6d2cd536881ce5c9c6b5bf1740"
-"_size" "12340"
+"_change_number" "26602770"
+"_sha" "fcf14a63655bd89bf7cc4be77eb5066a72d5ba1d"
+"_size" "17204"
