@@ -249,7 +249,7 @@
 		"19" "122"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -304,57 +304,6 @@
 				"download" "6832342256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"custom"
-			{
-				"gid" "80DBA8ED833F97398C6808D6BDB41452"
-				"size" "0D9012447813FAC670720556C344CABF"
-				"download" "8DB704231C490134EC7459CBA6FC1F71"
-			}
-			"experimental"
-			{
-				"gid" "7C42CD6E1A018A9540542A715A75FDBB"
-				"size" "8F254A793FD37448631A09E8AF54AE03"
-				"download" "324EB8398A555CB4C73AE848D38D0E1B"
-			}
-			"external"
-			{
-				"gid" "096A31423242701A5E70A075696BA9AE"
-				"size" "16C682FA817CE5A466605E12007627FC"
-				"download" "3C241616040DE77D4067BB06CE28FEAC"
-			}
-			"internal_experimental"
-			{
-				"gid" "5EA1FFB4BF9909E53809CE1C94979A5B"
-				"size" "B66751E62C473247F69E13EA7ED46C86"
-				"download" "700DBBED3E9AFB0AA6315FE8ED91A989"
-			}
-			"internal_testing_android"
-			{
-				"gid" "C09F76DBF0CBB28DD262289BCC16C1CA"
-				"size" "2704B98C00BE992312788C80EB5A8C2C"
-				"download" "F575393B5DDA7ECE2DD88DB7D5714477"
-			}
-			"steamfest"
-			{
-				"gid" "372D6E52849DA69204E6997E051CCE9D"
-				"size" "C27FD2868EE55ECAB68A8197EEA4480C"
-				"download" "71774C2AD44533513C43CF86DC92759A"
-			}
-			"internal_testing_special"
-			{
-				"gid" "F7A246AA59890FCDF048535F035971AA"
-				"size" "CF55C58F27FA73A647103C1154D4992E"
-				"download" "5EC3929B452763EBB9F6BA8788F59DC5"
-			}
-			"internal_vertigo"
-			{
-				"gid" "314BC2B9284104BE133FEF21BF0DE7BA"
-				"size" "79753D7957337ACEC5E174BE57ABAFD0"
-				"download" "CEE4C52CF7E25B8765E092141AA89D7D"
-			}
-		}
 	}
 	"2465720"
 	{
@@ -372,27 +321,6 @@
 				"download" "139817888"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internal_experimental"
-			{
-				"gid" "4F566E288AE2A33C1A7A6A6BC729D81D"
-				"size" "59C4B6FBC8631B73FBC9319A588F6AFA"
-				"download" "B8A98628BF15977758FB8BC4EA1E88CB"
-			}
-			"internal_testing_special"
-			{
-				"gid" "410AA77BCDA26D0E80048453A0AB224B"
-				"size" "9B28F41136717BD7F8D583411DF2E49A"
-				"download" "537205FD4628DDD2D51E09532CB7714A"
-			}
-			"internal_vertigo"
-			{
-				"gid" "1505D828B5363E841F451598BC97FE69"
-				"size" "FEF99310528725336B4E18D7C074AF4C"
-				"download" "94447D907176F48446A9E4F7A034D249"
-			}
-		}
 	}
 	"branches"
 	{
@@ -401,55 +329,8 @@
 			"buildid" "16797108"
 			"timeupdated" "1734619729"
 		}
-		"custom"
-		{
-			"buildid" "7315755"
-			"pwdrequired" "1"
-			"timeupdated" "1631002918"
-		}
-		"experimental"
-		{
-			"buildid" "7348782"
-			"pwdrequired" "1"
-			"timeupdated" "1631526598"
-		}
-		"external"
-		{
-			"buildid" "10399201"
-			"pwdrequired" "1"
-			"timeupdated" "1676040001"
-		}
-		"internal_experimental"
-		{
-			"buildid" "12748929"
-			"pwdrequired" "1"
-			"timeupdated" "1700476037"
-		}
-		"internal_testing_android"
-		{
-			"buildid" "12399409"
-			"pwdrequired" "1"
-			"timeupdated" "1697533852"
-		}
-		"steamfest"
-		{
-			"buildid" "11485252"
-			"pwdrequired" "1"
-			"timeupdated" "1686896229"
-		}
-		"internal_testing_special"
-		{
-			"buildid" "16733612"
-			"pwdrequired" "1"
-			"timeupdated" "1734085096"
-		}
-		"internal_vertigo"
-		{
-			"buildid" "16797108"
-			"pwdrequired" "1"
-			"timeupdated" "1734593180"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -471,6 +352,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26715429"
-"_sha" "5c29daedf18f8e1b523f902e7f04d2b2fb700169"
-"_size" "8752"
+"_change_number" "26904557"
+"_sha" "5fd3aa21e246b6034e52c967e5c6a823263c7c5c"
+"_size" "5808"
