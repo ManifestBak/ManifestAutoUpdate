@@ -22,7 +22,7 @@
 	"metacritic_name" "Guilty Parade"
 	"small_capsule"
 	{
-		"english" "cb307aca08a239b1283bfb1f1a74818e8d7d897d/capsule_231x87.jpg"
+		"english" "27f560b43a77bc62977a38e66cf3d485482a366e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -35,9 +35,9 @@
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "UpperCenter"
-			"width_pct" "29.008714587950237"
-			"height_pct" "61.589431735368706"
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.369835117851537"
+			"height_pct" "62.84722222222223"
 		}
 	}
 	"library_assets_full"
@@ -53,16 +53,28 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "40b44ea88c7553734ff82e50b3317376573095f4/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "40b44ea88c7553734ff82e50b3317376573095f4/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "40b44ea88c7553734ff82e50b3317376573095f4/library_hero_blur.jpg"
+				"russian" "52582c132573137c6f78772944769c507a39948a/library_hero_blur_russian.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "UpperCenter"
-				"width_pct" "29.008714587950237"
-				"height_pct" "61.589431735368706"
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.369835117851537"
+				"height_pct" "62.84722222222223"
 			}
 			"image"
 			{
@@ -74,7 +86,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727370815"
+	"store_asset_mtime" "1727465673"
 	"associations"
 	{
 		"0"
@@ -146,7 +158,7 @@
 {
 	"developer" "Nozori Games"
 	"publisher" "Nozori Games"
-	"homepage" "https://vk.com/nozori_games"
+	"homepage" "https://nozorigames.ru"
 	"listofdlc" "1785110,2290390"
 	"dlcavailableonstore" "1"
 }
@@ -215,24 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "1731922747923578434"
-				"size" "1054030801"
-				"download" "841658128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"32-bit"
-			{
-				"gid" "5148934A18691E3E0EB8602D488070E4"
-				"size" "95D7ADD24619CCD92B0AB6E5853B14E8"
-				"download" "2D8FA3A33CC39958E18C666C97FF2926"
-			}
-			"test"
-			{
-				"gid" "7E06F15D385635FF77EDFD638F72AF41"
-				"size" "5ED5E13EAC434DF951C25A515DF6D548"
-				"download" "D40D5C450020153B745DC859B298DE0A"
+				"gid" "1741116316587011897"
+				"size" "1111277602"
+				"download" "859425392"
 			}
 		}
 	}
@@ -243,24 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "1707923474572806927"
-				"size" "109115726"
-				"download" "89451424"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"32-bit"
-			{
-				"gid" "D7F4CCBE8D9B6049380B6500480B4C1E"
-				"size" "1CD4D7B672DF213F5481178A717D711B"
-				"download" "0934D583F029CE8528A265B993BAB211"
-			}
-			"test"
-			{
-				"gid" "070AD6296BB037AEE1095DC5507C5ECF"
-				"size" "E21BDBEFFEF2DB4BC1069489E6A59EA6"
-				"download" "808D56E405BC70C008D43F4A9BE74B7F"
+				"gid" "836758344444066270"
+				"size" "109682767"
+				"download" "90468592"
 			}
 		}
 	}
@@ -271,24 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "2305800999552205767"
-				"size" "5898199"
-				"download" "4058736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"32-bit"
-			{
-				"gid" "6414E5C903975B204A4F74E75DC821DE"
-				"size" "44856191FBE8E57D11107D3102A8A86F"
-				"download" "07C8D49B742D06E19BA9DF02C89626CC"
-			}
-			"test"
-			{
-				"gid" "C538CE0F49F8EFF0ACD9938C2EB0AFFF"
-				"size" "B4A2278CF13034C39A558305181ADCBB"
-				"download" "7287564BDCA9FAC3E67FB9B935827F2A"
+				"gid" "8456014794505874820"
+				"size" "5869082"
+				"download" "4067824"
 			}
 		}
 	}
@@ -299,24 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "8053326860206336934"
-				"size" "11101791"
-				"download" "8829920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"32-bit"
-			{
-				"gid" "4F251B62242D5FAE22E25A84A5C653B0"
-				"size" "0A79B28A7C68AB86F5A570BD6788F36C"
-				"download" "2286719A71723250ADDD1CDE745B6F85"
-			}
-			"test"
-			{
-				"gid" "8EB8A65C1447C2C4F8D8DE226360C7DE"
-				"size" "D16ACA8A1136DFB990F60AECB3284E33"
-				"download" "E6C95F5865A9E6AE37FF4B1A3E6F4089"
+				"gid" "4098190480544975437"
+				"size" "11070117"
+				"download" "8798448"
 			}
 		}
 	}
@@ -327,18 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "1601184208108554867"
-				"size" "8672781"
-				"download" "8359136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "7911032645EE1DE90B01033B2B00E254"
-				"size" "8E5DE2EFA2A746C74B18200565AB910E"
-				"download" "5327DBB579107C1100C7030EF14E90A5"
+				"gid" "1781700253778374225"
+				"size" "8672931"
+				"download" "8359200"
 			}
 		}
 	}
@@ -349,18 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "4728426336292588676"
-				"size" "126505267"
-				"download" "108819952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "6567AA076E54DBF3ECD955382D73703D"
-				"size" "61C276434E26B51E51AF271C0CADFFB7"
-				"download" "DE6EF11BE8ED785CF79DB93834C0230A"
+				"gid" "2828906335252741469"
+				"size" "282124045"
+				"download" "234083904"
 			}
 		}
 	}
@@ -371,18 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "4377125227763061670"
-				"size" "41287571"
-				"download" "33900256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "3A78C649AAF090E7869CA5923F426C94"
-				"size" "3FD97BA36428ADC838CD85546A9E8FE5"
-				"download" "5F80BCBBE7E925E5EC0681F537BAFF14"
+				"gid" "5511712020414872150"
+				"size" "41258979"
+				"download" "33871344"
 			}
 		}
 	}
@@ -390,22 +315,11 @@
 	{
 		"public"
 		{
-			"buildid" "12955827"
-			"timeupdated" "1702823931"
-		}
-		"32-bit"
-		{
-			"buildid" "9432867"
-			"pwdrequired" "1"
-			"timeupdated" "1664133399"
-		}
-		"test"
-		{
-			"buildid" "15812386"
-			"pwdrequired" "1"
-			"timeupdated" "1727271440"
+			"buildid" "15862439"
+			"timeupdated" "1727551530"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -488,3 +402,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26963429"
+"_sha" "b0346f19d2548ef91b82066231ef44c1066cc6d3"
+"_size" "6736"
