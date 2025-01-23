@@ -288,8 +288,8 @@
 		"18" "3798"
 		"19" "1710"
 	}
-	"review_score" "8"
-	"review_percentage" "91"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -343,84 +343,15 @@
 		{
 			"public"
 			{
-				"gid" "8328798483232435118"
-				"size" "8025361099"
-				"download" "960611264"
+				"gid" "8175195749223838281"
+				"size" "1424426168"
+				"download" "988156000"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"fearfest"
+			"fallback"
 			{
-				"gid" "B676731DF38B238B77C8E4B0CF895EF5"
-				"size" "035720B6614B122D28CABA6FD6735FD3"
-				"download" "F795A58586C6C802335CA4AB69B454F8"
-			}
-			"demo"
-			{
-				"gid" "BBC921EAEAB66AC175A39B5BF9EF76C2"
-				"size" "B20F1097A3360979BB63A4C53E2CFFF2"
-				"download" "6AECEEAEFE682D2D621DD3F069A66AFE"
-			}
-			"demo_influencers"
-			{
-				"gid" "98768156A8E1746ABFCD94BEC78CB3F5"
-				"size" "EEF48E78EBAA6E809E4FD79F2D2ADFD1"
-				"download" "7E61662FAAFB7C9C78BD7A3A611029F0"
-			}
-			"expo"
-			{
-				"gid" "53F3D7EBD0552483EBD7699703546728"
-				"size" "C45995AF9CAD77822AF46D6E17399C76"
-				"download" "B12CAE33FD7836062E74A7F5F77CEE20"
-			}
-			"expo_fallback"
-			{
-				"gid" "D1F998A59AABD9335A8527907E77D610"
-				"size" "E33065CDC0FBECD38A37739A561306DA"
-				"download" "BEED12A48A96B241B722F38EB315C4E7"
-			}
-			"external_review"
-			{
-				"gid" "BE4784B4508A1FFD494FE9A66BE024B4"
-				"size" "4E3FFC2AE5BD0831F245853AB789FBEE"
-				"download" "0CE186B8221A6C60F373F15962F328ED"
-			}
-			"milestone"
-			{
-				"gid" "C4B1BBB1AAD8E61D6075719030CFA6BA"
-				"size" "2E4348156A07529EBC0025C5A210D118"
-				"download" "8373B469419082D59E05096A28E027DF"
-			}
-			"press_preview"
-			{
-				"gid" "8CD24EBEB546CEA82E3D500FF7E77FBB"
-				"size" "5BE255C0AB79AD0F79516F4EDD6670AA"
-				"download" "49460D846C1E224F2764CA3201391288"
-			}
-			"staging"
-			{
-				"gid" "32880C54B1DC5A78893369E9E89A2F0C"
-				"size" "1BDD3297A38050C6E349D8E7DCAE390C"
-				"download" "7049D5AAA7B143A569F01D19A5E282FB"
-			}
-			"testing"
-			{
-				"gid" "DF3B1406D3EA426B30B75E61B33E18FE"
-				"size" "4BEDD122563545BE89BE820BFD107DC6"
-				"download" "D4008342087CC6E36D3983F3A2CB04A7"
-			}
-			"testing-ex"
-			{
-				"gid" "4FD1EE19366C2044A6EAB8E09435F8B2"
-				"size" "45E6DB419F65713F7BD3743B8184E2D4"
-				"download" "4D960539647FBD84C15535A29F411DB6"
-			}
-			"testing_demo_influencers"
-			{
-				"gid" "55769D6174197EAE424BDB186F4390AE"
-				"size" "EEBCCDE7F79E117AE31BFBD0CD01D817"
-				"download" "9A494FDF6025931BE64CD7C57F2BE314"
+				"gid" "1570042528750613019"
+				"size" "1422880045"
+				"download" "986098064"
 			}
 		}
 	}
@@ -435,20 +366,11 @@
 				"size" "77614842"
 				"download" "71480096"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"staging"
+			"fallback"
 			{
-				"gid" "E3F7058DE3562199A5FB82A44A44BBC2"
-				"size" "C8E31A921B4008E32DC32200411B2634"
-				"download" "1C3978FB0DF351DB4DFD717161B855D7"
-			}
-			"testing"
-			{
-				"gid" "E4C33F8C2D9E0FED888C1164BBD64089"
-				"size" "6988D41E0908DE940F5E392F84BF0D45"
-				"download" "8B171ECAD25E862B778F2B59B3B9CAFC"
+				"gid" "8877470032797557114"
+				"size" "77614842"
+				"download" "71480096"
 			}
 		}
 	}
@@ -456,82 +378,17 @@
 	{
 		"public"
 		{
-			"buildid" "15677037"
-			"timeupdated" "1726147137"
+			"buildid" "16343969"
+			"timeupdated" "1731513613"
 		}
-		"fearfest"
+		"fallback"
 		{
-			"buildid" "11965731"
-			"pwdrequired" "1"
-			"timeupdated" "1692281103"
-		}
-		"demo"
-		{
-			"buildid" "15367870"
-			"pwdrequired" "1"
-			"timeupdated" "1723635903"
-		}
-		"demo_influencers"
-		{
-			"buildid" "14704964"
-			"pwdrequired" "1"
-			"timeupdated" "1718882549"
-		}
-		"expo"
-		{
-			"buildid" "15456655"
-			"pwdrequired" "1"
-			"timeupdated" "1724309877"
-		}
-		"expo_fallback"
-		{
-			"buildid" "15434503"
-			"pwdrequired" "1"
-			"timeupdated" "1724326075"
-		}
-		"external_review"
-		{
-			"buildid" "14367636"
-			"pwdrequired" "1"
-			"timeupdated" "1715850581"
-		}
-		"milestone"
-		{
-			"buildid" "14367636"
-			"pwdrequired" "1"
-			"timeupdated" "1715859537"
-		}
-		"press_preview"
-		{
-			"buildid" "15587121"
-			"pwdrequired" "1"
-			"timeupdated" "1725527553"
-		}
-		"staging"
-		{
-			"buildid" "15677037"
-			"pwdrequired" "1"
-			"timeupdated" "1726144200"
-		}
-		"testing"
-		{
-			"buildid" "15702450"
-			"pwdrequired" "1"
-			"timeupdated" "1726330767"
-		}
-		"testing-ex"
-		{
-			"buildid" "15493257"
-			"pwdrequired" "1"
-			"timeupdated" "1725451763"
-		}
-		"testing_demo_influencers"
-		{
-			"buildid" "14704964"
-			"pwdrequired" "1"
-			"timeupdated" "1718279513"
+			"buildid" "16367769"
+			"description" "Public Fallback: v.1.1.1"
+			"timeupdated" "1731342762"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -581,6 +438,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25280100"
-"_sha" "262a61db66199587514fda004ae43743fb0bbfc0"
-"_size" "11312"
+"_change_number" "26893955"
+"_sha" "c972b0e5289ae93af1b4e2af730d8f14d03247e5"
+"_size" "7864"
