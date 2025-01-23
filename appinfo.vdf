@@ -36,6 +36,12 @@
 	{
 		"german" "Wolfenstein: The New Order International Edition"
 	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -325,27 +331,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "96A22F344F7C81771C2565C3213C1A40"
-				"size" "6DE4A4DD2828B3FD8C44626DA9D0A11B"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "A4FDC22DB10C87F3D955D6F2BE328866"
-				"size" "672B3080EE602D58BB57B6B52007F241"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "E2CEF396575BD0F73C7F5BD91A830ECC"
-				"size" "E9372DB933756BECF9F154DB22644E0C"
-				"download" "3467A258A05B7ACE2B2E0EA40F86E260"
-			}
-		}
 	}
 	"201812"
 	{
@@ -356,27 +341,6 @@
 				"gid" "6190769423243292568"
 				"size" "4141015255"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "E2BA5DBA15F2DE8E6A6A7FF554487AA0"
-				"size" "2E966C5EE846A0ED1E83FD9FB179ECA9"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "E876003504497B32169C4141003DA2BF"
-				"size" "8F72D525A6775C103953D7D1A472DAC9"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "CBC95D7F67374A4355A73811664DC2A3"
-				"size" "3C4963C7A36BBDCA164720FA671A45B0"
-				"download" "4FA61FEF2CD70EB72AD6CF01F0A1901D"
 			}
 		}
 	}
@@ -391,27 +355,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "AEE48E70629B738A58E34D352D3E7498"
-				"size" "F59BDCA78D40737009AAFC46D40650A2"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "95D2F8222430FC4399DE0646CE1EB5C1"
-				"size" "97F6A9230C3DC05ECD70FB7D9ABE2570"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "B399E1A0B52B97A4D24693827046BD5C"
-				"size" "DCF7F4945E84A07C8A3853CF1D780621"
-				"download" "DC695497B98EFA81EDB41ED7EE6D0026"
-			}
-		}
 	}
 	"201814"
 	{
@@ -422,27 +365,6 @@
 				"gid" "7419404030065740466"
 				"size" "5127406724"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "D7FB006F2749071193DB1E586E93440C"
-				"size" "E758477F06E0627A3A70FB4DAF775208"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "DD1E20D6DA4F6F3FE004100A49E7F7A4"
-				"size" "838051E89B06C43C423CA09D842B3999"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "3FBAE41A96E700FE4BF4574DCA62FBCB"
-				"size" "8C117098446285B702F560B580C08660"
-				"download" "BBA0BAD1E0AB576BD4DD1DE5E8723591"
 			}
 		}
 	}
@@ -457,27 +379,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "5921BD62E5CCCB8A0B3324BD0D6BA0B4"
-				"size" "09145E5878CE82351B068E7891A0A300"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "5D40906BC97184D912B7BBD6061C76B3"
-				"size" "B0C1CC7711C9BBC185C2E397611B5C9D"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "9B50A70EA7BB367237F01FCE2EE45C27"
-				"size" "92C26DFB5147FD896FC36C98928846B2"
-				"download" "B67191D0E95C048F42EEF91FB968ADEB"
-			}
-		}
 	}
 	"201816"
 	{
@@ -490,27 +391,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "EB1E9802EF0F5157C58763D66CA40FF5"
-				"size" "405CACA2111B048DC2258C93908BA3C7"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "6EF7BA550F8D9422EE4891A75689D509"
-				"size" "8E86FFBCCD361F0987F24F0C28C2B413"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "93CA9E95135AA50613BB4178EF370A54"
-				"size" "14A67EFD08170E003F17DCB9105D1690"
-				"download" "EB2F147B62D66B983CD0B7BE272C3F9F"
-			}
-		}
 	}
 	"201819"
 	{
@@ -521,27 +401,6 @@
 				"gid" "393115506002332855"
 				"size" "415137488"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "E5AAC45C229390322F83816FF6E2C615"
-				"size" "080CF3351D335425FFB4D3D527007AFD"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "7ED000E5CA1233F20ABE9D2E127EACFE"
-				"size" "CF809685EA760459A9F237BCBEADA499"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "94DEB890B8B5E1F1081BDC627E4F2046"
-				"size" "73E6CE95D500994B6F7856BD72DB6F35"
-				"download" "29F5F0C5FF4625C687E13BB9BCB0A9D1"
 			}
 		}
 	}
@@ -560,27 +419,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "82271FEB54087612A896506C27D93DE8"
-				"size" "E006AA22D86C791B5CCD3F2DBE4A6F23"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "925939C640F84FC81FBDFD7B17055A27"
-				"size" "14B2E99C6AFCB37EF57FE1D7E9C5E9FD"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "8E9203412AFCF3C010771C29A6CB686C"
-				"size" "4F1E82C449EEF1EF307AB72942D17FAA"
-				"download" "42A737BE0CA07B9015A0B64EB80C88ED"
-			}
-		}
 	}
 	"201817"
 	{
@@ -595,27 +433,6 @@
 				"gid" "8962022361405031159"
 				"size" "5370085750"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "BCDC05790AE2935FC005150CF8038216"
-				"size" "B5A960CB55A68B8E5F5178E2E03DA862"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "F6A3BA9BE2832CAFD0343B37326A4D41"
-				"size" "EE24BCEF154A04922EA56C5C18534027"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "72BBB50D85A0FC513A4A4E895737629D"
-				"size" "A7F8A81B59A79D9119FADF22AF456759"
-				"download" "91E1F42F199AFC5551BBD98C6F646E25"
 			}
 		}
 	}
@@ -634,27 +451,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "C091F4BB48AF4D148055B5CEC651BD7A"
-				"size" "50476EE6EDCAAB891CF2A2766F7CA8A7"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "06D1946D22683130D3677147FB271076"
-				"size" "994B18BDFB45DF693AD7C2373E0CA9C9"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "65043FE8DEE9EF72221112829843C952"
-				"size" "D1F5D9373516AD662F2DD438E0F41FCB"
-				"download" "682DECB963057F6A7A191C6067815206"
-			}
-		}
 	}
 	"201820"
 	{
@@ -669,27 +465,6 @@
 				"gid" "4853410428376415487"
 				"size" "381303626"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "F8C56826F20A0DBE550E592D6D8B9F3E"
-				"size" "6B7ADE0052C3F4AE31B576BE9CC070F2"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "CEBE4A950DC9BF7301F7E1BCA1FE2A52"
-				"size" "B296F9A2D0BB4C75896ADBB171290CA6"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "8494215894EB93BA75FB6DD9771140A9"
-				"size" "177A293C0053EE58A2FFAEBFCF8AA893"
-				"download" "72BBBAEE0179D824D3815B79F48799CB"
 			}
 		}
 	}
@@ -708,27 +483,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "293DC20C881D1F6FC108BB51C1E7B661"
-				"size" "33D01E70EA5B9C4979B7BE0899878D21"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "2B4A1F7D99FC853F1CB053AEFC82C41D"
-				"size" "A4A7FE4BA6A604F544335736C94FC9FA"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "F597AE63BA7631CA889FE9F9193404B6"
-				"size" "CB0C1622180407050CC9E8B6E39335B8"
-				"download" "E8F2947092F7BA954D1D6963B3BB7793"
-			}
-		}
 	}
 	"201822"
 	{
@@ -743,27 +497,6 @@
 				"gid" "7359381863497489497"
 				"size" "379845077"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "342FAB21D7B7D112D635C74C92DF0DB5"
-				"size" "B32ABFD1C2BF2EC6A3DA915A76534475"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "8DC63D53BB34BF88C0DEDEAFF2279754"
-				"size" "7B04A08BD5A5895A72BD2288E82EB813"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "52E8CE522355B90C8C9220ECB76D25D6"
-				"size" "7CCA457B4A001DF7F3DF24E2FDE68951"
-				"download" "E05218CCD9CED4BF9D48FCB9ECB9798D"
 			}
 		}
 	}
@@ -782,27 +515,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "90CA457836B21868E880B3A10A43F255"
-				"size" "6E173E463286BEE935889AF05947D389"
-				"download" "79610D582C003EB628435CD70C9FD511"
-			}
-			"partner"
-			{
-				"gid" "989E622EEC9BE1DF4F4EE958722F05DC"
-				"size" "742B49EAB61C911CDF613C306F2AA074"
-				"download" "C8D29F32853509849DF872AE72AFAB5D"
-			}
-			"qa"
-			{
-				"gid" "DE0C78E6CDC4BF996418BBEE4CF8A6DB"
-				"size" "045D7E5941B7602C2F80E1FABA694E3B"
-				"download" "A54E7B91D96747551C1F14017F1B67A6"
-			}
-		}
 	}
 	"426820"
 	{
@@ -815,15 +527,6 @@
 				"download" "93591248"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"bluedove"
-			{
-				"gid" "371ED5AA781554F28393AF49A4B422ED"
-				"size" "759BDD16F37FA05D348C0203D86005ED"
-				"download" "909BDACFE4E23C051684ACCC419F0912"
-			}
-		}
 	}
 	"branches"
 	{
@@ -832,24 +535,8 @@
 			"buildid" "2708229"
 			"timeupdated" "1525818963"
 		}
-		"bluedove"
-		{
-			"buildid" "2708229"
-			"pwdrequired" "1"
-			"timeupdated" "1524254230"
-		}
-		"partner"
-		{
-			"buildid" "280067"
-			"pwdrequired" "1"
-		}
-		"qa"
-		{
-			"buildid" "7568873"
-			"pwdrequired" "1"
-			"timeupdated" "1634752691"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -859,6 +546,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "77d1cda0c2472e36b0c64942f63a0f8107c7e060"
-"_size" "16692"
+"_change_number" "27103115"
+"_sha" "b0f3f6d736f243350360338b3e79830bd9b7bfcb"
+"_size" "8619"
