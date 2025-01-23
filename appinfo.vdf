@@ -88,6 +88,44 @@
 			"height_pct" "90.65349355524899"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "70.65344224037341"
+				"height_pct" "90.65349355524899"
+			}
+		}
+	}
 	"store_asset_mtime" "1600182852"
 	"associations"
 	{
@@ -186,9 +224,9 @@
 		"12" "4166"
 		"13" "21725"
 		"14" "4342"
-		"15" "4604"
-		"16" "1708"
-		"17" "4474"
+		"15" "4474"
+		"16" "4604"
+		"17" "1708"
 		"18" "4711"
 		"19" "4747"
 	}
@@ -287,18 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "2038208423233337245"
-				"size" "4138325169"
-				"download" "2395797936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "E8A46C75C36BE02EB3DC9473E91F6F48"
-				"size" "9ECA4C3FD36E5EC7428533309E032043"
-				"download" "A9253B94321BEABC0A3BFE1B242AE861"
+				"gid" "1090731986096706642"
+				"size" "4122913877"
+				"download" "2389146896"
 			}
 		}
 	}
@@ -337,15 +366,6 @@
 				"download" "2381942064"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "F429B9E0BE02370A4E9D875E5292832B"
-				"size" "6177D8237FCED3F8996D361046F93328"
-				"download" "3EA20D2C6823F03161774B382919D48D"
-			}
-		}
 	}
 	"1161884"
 	{
@@ -364,30 +384,16 @@
 				"download" "2424473584"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "5812CC94CB55D71EB42037F927A8B320"
-				"size" "598C5D671D5DA12577DDE71F64146471"
-				"download" "0F11CD75EF51DC0C042A9D62E0EF1EC5"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "5691818"
-			"timeupdated" "1602834898"
-		}
-		"test"
-		{
-			"buildid" "5685796"
-			"pwdrequired" "1"
-			"timeupdated" "1602747434"
+			"buildid" "16459231"
+			"timeupdated" "1732024387"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -409,3 +415,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27016032"
+"_sha" "77b437d940ff54d17a8676d960283e010c527e95"
+"_size" "7254"
