@@ -132,12 +132,12 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" " S.C. 16 BIT NIGHTS S.R.L."
+			"name" "S.C. 16 BIT NIGHTS S.R.L."
 		}
 		"3"
 		{
 			"type" "franchise"
-			"name" "CE"
+			"name" "S.C. 16 BIT NIGHTS S.R.L."
 		}
 	}
 	"primary_genre" "2"
@@ -210,12 +210,12 @@
 		"19" "3813"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
 	"developer" "S.C. 16 BIT NIGHTS S.R.L."
-	"publisher" " S.C. 16 BIT NIGHTS S.R.L."
+	"publisher" "S.C. 16 BIT NIGHTS S.R.L."
 	"homepage" "https://16bitnights.com/"
 }
 "config"
@@ -237,9 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "5088879751656646914"
-				"size" "960536200"
-				"download" "739974016"
+				"gid" "5191039311781071144"
+				"size" "960537224"
+				"download" "739974096"
 			}
 		}
 	}
@@ -248,8 +248,8 @@
 	{
 		"public"
 		{
-			"buildid" "16927527"
-			"timeupdated" "1736249997"
+			"buildid" "17100707"
+			"timeupdated" "1737608953"
 		}
 	}
 }
@@ -271,6 +271,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26891178"
-"_sha" "5511115f7b1fbc34e968712db331391a7c67d5d5"
-"_size" "4662"
+"_change_number" "27124662"
+"_sha" "78768248731623959be3f7a7875d9e4c900b6d52"
+"_size" "4683"
