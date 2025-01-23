@@ -84,6 +84,21 @@
 	{
 		"library_capsule" "en"
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_3de162ddb741402276d2a7fa1526d81ae8e8d24f.jpg"
 	"store_asset_mtime" "1674849499"
 	"associations"
 	{
@@ -114,6 +129,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -144,8 +160,8 @@
 		"10" "15045"
 		"11" "1663"
 		"12" "3843"
-		"13" "9"
-		"14" "1775"
+		"13" "1775"
+		"14" "9"
 		"15" "3839"
 		"16" "1774"
 		"17" "4155"
@@ -153,7 +169,7 @@
 		"19" "128"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -930,6 +946,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "19606944"
-"_sha" "e8a8e0fcabf28f44fb509598e74ac5d7c3a9c832"
-"_size" "20509"
+"_change_number" "26201212"
+"_sha" "a4a6dd1db259ffe852eed7a7517b6ff3cfc732fe"
+"_size" "20795"
