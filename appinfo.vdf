@@ -20,24 +20,10 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_083d05191f66df12dee509139411a9f4ca0fe0b5.jpg"
 	"store_asset_mtime" "1632947614"
 	"associations"
 	{
-		"0"
-		{
-			"type" "developer"
-			"name" "ShotX Studio"
-		}
-		"1"
-		{
-			"type" "publisher"
-			"name" "Meridian4"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "Meridian4"
-		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -105,12 +91,10 @@
 		"19" "4106"
 	}
 	"review_score" "5"
-	"review_percentage" "47"
+	"review_percentage" "48"
 }
 "extended"
 {
-	"developer" "ShotX Studio"
-	"publisher" "Meridian4"
 	"listofdlc" "732120"
 	"dlcavailableonstore" "1"
 }
@@ -175,15 +159,6 @@
 				"download" "439678016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F639DB55ADBB8157160ADFE8E7136683"
-				"size" "7D707EAAA0A27A1E6A11C006440BE3DB"
-				"download" "04FBACA3ACC6B2AE9914E5A307A6FAAA"
-			}
-		}
 	}
 	"581312"
 	{
@@ -200,15 +175,6 @@
 				"download" "436950384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "A11FB5F7BCAAD2B953B9BB7A2F7BEAE3"
-				"size" "D5C805A564947DD756866EBCF4C25F55"
-				"download" "85FBE06343196611FF827B93D527312A"
-			}
-		}
 	}
 	"732120"
 	{
@@ -222,15 +188,6 @@
 				"download" "177074400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D1BF56B59ABF1D5139E8784DCFB10C62"
-				"size" "0174130A9B7F5EE648AB0FD311B3BDDF"
-				"download" "84F103A65AEE6EC52029996B9982ED4E"
-			}
-		}
 	}
 	"branches"
 	{
@@ -239,11 +196,10 @@
 			"buildid" "2361331"
 			"timeupdated" "1513093295"
 		}
-		"beta"
-		{
-			"buildid" "2237562"
-			"pwdrequired" "1"
-			"timeupdated" "1509146429"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "2a6f0b40e86f83ccd64eaac8d0f0cf7ed4bcbc93"
+"_size" "3136"
