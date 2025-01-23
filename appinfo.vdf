@@ -20,6 +20,45 @@
 		"3" "4"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1730851200"
+		"tested_build_id" "11382221"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -91,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1715864869"
+	"store_asset_mtime" "1735320335"
 	"associations"
 	{
 		"0"
@@ -242,15 +281,6 @@
 				"download" "1564391888"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "E350426CD3FEEC614F42C2BDE5F70E35"
-				"size" "86C81F1DF070EA26E37B38B2A4995F1D"
-				"download" "1DE80836ED330EEAEFDB023582F2B634"
-			}
-		}
 	}
 	"1756970"
 	{
@@ -262,15 +292,6 @@
 				"gid" "5822716055222978060"
 				"size" "2588517030"
 				"download" "2289189728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "67FC46D032681CC1700018440F554B92"
-				"size" "EBF401F501F4F9E31025C91FC14A638C"
-				"download" "FB6610F5EEBEB28379F40B7584CD0FC4"
 			}
 		}
 	}
@@ -286,15 +307,6 @@
 				"download" "5670799856"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "2C630E82AC0B34281C60405E9CA2B632"
-				"size" "C6BDC0D548ADA25C94CFE358954CDCEB"
-				"download" "827F691721FC4962915AE9903006D501"
-			}
-		}
 	}
 	"branches"
 	{
@@ -303,13 +315,8 @@
 			"buildid" "11382221"
 			"timeupdated" "1685726879"
 		}
-		"development"
-		{
-			"buildid" "11382221"
-			"pwdrequired" "1"
-			"timeupdated" "1685726872"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -333,3 +340,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "2692d51ab37618e3293e7fdcea296f258cc33060"
+"_size" "5931"
