@@ -72,6 +72,7 @@
 		}
 	}
 	"metacritic_name" "Mad Experiments: Escape Room"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -91,6 +92,48 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "100"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1683074444"
@@ -207,22 +250,22 @@
 		"1" "1664"
 		"2" "5716"
 		"3" "11014"
-		"4" "597"
-		"5" "4166"
-		"6" "599"
-		"7" "3839"
-		"8" "1685"
-		"9" "1738"
-		"10" "5711"
-		"11" "3843"
-		"12" "8369"
-		"13" "5900"
-		"14" "1710"
-		"15" "6129"
-		"16" "4175"
-		"17" "5613"
-		"18" "4064"
-		"19" "9"
+		"4" "4166"
+		"5" "1685"
+		"6" "3839"
+		"7" "1738"
+		"8" "5711"
+		"9" "3843"
+		"10" "8369"
+		"11" "5900"
+		"12" "1710"
+		"13" "6129"
+		"14" "4175"
+		"15" "5613"
+		"16" "4064"
+		"17" "9204"
+		"18" "5350"
+		"19" "1742"
 	}
 	"review_score" "5"
 	"review_percentage" "66"
@@ -232,7 +275,7 @@
 	"developer" "PlayTogether Studio"
 	"publisher" "PlayTogether Studio"
 	"homepage" "https://www.playtogether-studio.com/"
-	"listofdlc" "1472800"
+	"listofdlc" "1472800,3290800"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -320,18 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "411906339863401640"
-				"size" "1379035430"
-				"download" "511547936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D59CC62CF2288FFD11A5137C74168E40"
-				"size" "C4C09FDAB1A0CD5F0078EA03C18BDA54"
-				"download" "A17FA3AE752CD6AA3D3D9E04FED3C6D1"
+				"gid" "862421902628168170"
+				"size" "1402056598"
+				"download" "521575840"
 			}
 		}
 	}
@@ -346,18 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "5372864764581584395"
-				"size" "1405769805"
-				"download" "518769488"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "B5188BB5C91887A40116936817CC5952"
-				"size" "43EE0D2D3402925416AF3C8384904D00"
-				"download" "33FA3F99DA101A2CE4E57D767D6CD7E9"
+				"gid" "4871185299860187282"
+				"size" "1372194206"
+				"download" "514876416"
 			}
 		}
 	}
@@ -372,18 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "2635188703562220224"
-				"size" "1421034712"
-				"download" "523694816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "5548B910A58A802AA2CA9A9704DE50EA"
-				"size" "7FF1B7D66CB9EA2EEC0E08DAA4493154"
-				"download" "4EFBE5BA371AAFEC86D581014EAA303E"
+				"gid" "8658019607885018318"
+				"size" "1429274868"
+				"download" "528511824"
 			}
 		}
 	}
@@ -391,16 +407,11 @@
 	{
 		"public"
 		{
-			"buildid" "14923069"
-			"timeupdated" "1720035578"
-		}
-		"beta"
-		{
-			"buildid" "11915166"
-			"pwdrequired" "1"
-			"timeupdated" "1691699798"
+			"buildid" "17017890"
+			"timeupdated" "1737044083"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -449,3 +460,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27028131"
+"_sha" "cddd553d768b84e49b08d8ba863f4a51d46262d7"
+"_size" "7930"
