@@ -31,7 +31,7 @@
 		"japanese" "1"
 		"brazilian" "1"
 	}
-	"releasestatesteamchina" "prerelease"
+	"releasestatesteamchina" "released"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -150,7 +150,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734684887"
+	"store_asset_mtime" "1737355715"
 	"associations"
 	{
 		"0"
@@ -331,18 +331,19 @@
 		{
 			"public"
 			{
-				"gid" "190653407145455736"
-				"size" "11313951284"
-				"download" "7922610416"
+				"gid" "2603429213967475257"
+				"size" "12313015589"
+				"download" "8715329088"
 			}
 		}
 	}
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17019694"
-			"timeupdated" "1737023626"
+			"buildid" "17092179"
+			"timeupdated" "1737597082"
 		}
 	}
 	"privatebranches" "1"
@@ -376,6 +377,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27023019"
-"_sha" "604f486bf89743458e7c1fba815a438a5389c652"
-"_size" "7149"
+"_change_number" "27122747"
+"_sha" "615761c36b2957d5720a354a8a6efbff148cf993"
+"_size" "7172"
