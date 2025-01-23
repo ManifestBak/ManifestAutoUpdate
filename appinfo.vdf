@@ -3,9 +3,9 @@
 {
 	"name" "The Liminal Space"
 	"type" "Game"
-	"oslist" "windows,macos"
+	"oslist" "windows"
 	"osarch" "64"
-	"osextended" "macosapplesilicon"
+	"osextended" ""
 	"eulas"
 	{
 		"0"
@@ -48,7 +48,52 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1707351790"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727984944"
 	"associations"
 	{
 		"0"
@@ -89,14 +134,6 @@
 	"supported_languages"
 	{
 		"english"
-		{
-			"supported" "true"
-		}
-		"german"
-		{
-			"supported" "true"
-		}
-		"turkish"
 		{
 			"supported" "true"
 		}
@@ -176,18 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "510648996016268116"
-				"size" "3282076715"
-				"download" "1335748336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EF3FF2D53B4DC955CE618FFF7D66D348"
-				"size" "6C73F68607BA8D32C1D049B0D4C4F52E"
-				"download" "1D11FF86252D7665EFCF6DD2B579E10E"
+				"gid" "8484633160414348289"
+				"size" "1122511578"
+				"download" "467215120"
 			}
 		}
 	}
@@ -207,30 +235,16 @@
 				"download" "1012359280"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "1BAD94EA38EA0625D43F9ED4914311B9"
-				"size" "3A0B5B72CEB918396E23B71B2431756A"
-				"download" "084DF9BA5B8BED18A767620F04015A72"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14506016"
-			"timeupdated" "1716806059"
-		}
-		"beta"
-		{
-			"buildid" "13830797"
-			"pwdrequired" "1"
-			"timeupdated" "1711177743"
+			"buildid" "16107763"
+			"timeupdated" "1729348914"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -240,3 +254,7 @@
 	"ignoreexternalfiles" "1"
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "26602770"
+"_sha" "559d15d69db49eaf02ff4d07fb4ed96c44b78305"
+"_size" "3899"
