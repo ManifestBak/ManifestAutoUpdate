@@ -10,6 +10,7 @@
 	"icon" "65a5e1336816df79435ac5164644c62380c3f133"
 	"clienticon" "826a43bf5009766e29e8a962e7740b0218c9a07c"
 	"clienttga" "ebbd5664f212641db705e7275952818d3faf4c60"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -73,6 +74,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_a8ded03dbca83604c48cc6bc144cc9d941176963.jpg"
 	"store_asset_mtime" "1414185612"
 	"associations"
 	{
@@ -104,6 +106,7 @@
 		"category_29" "1"
 		"category_18" "1"
 		"category_44" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -198,7 +201,6 @@
 	}
 	"456480"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -217,6 +219,7 @@
 				"download" "71FFB48C96F8285DC25FE90CD310E78D"
 			}
 		}
+		"dlcappid" "456480"
 	}
 	"branches"
 	{
@@ -234,6 +237,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "18987327"
-"_sha" "b0ace149232f9fcad8e7d558bb0646e66801e21c"
-"_size" "4434"
+"_change_number" "26253459"
+"_sha" "1919bf6746ad236c6d7452bd2958419f86feec0f"
+"_size" "4564"
