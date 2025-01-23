@@ -20,6 +20,10 @@
 			"url" "https://store.steampowered.com//eula/378360_eula_0"
 		}
 	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -67,6 +71,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
 		}
 	}
 	"store_asset_mtime" "1576782129"
@@ -188,9 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "1664556806277245164"
-				"size" "986621453"
-				"download" "752113008"
+				"gid" "3386053540245579747"
+				"size" "986660746"
+				"download" "752138080"
 			}
 			"previous_version"
 			{
@@ -200,24 +238,9 @@
 			}
 			"testers"
 			{
-				"gid" "1664556806277245164"
-				"size" "986621453"
-				"download" "752113008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev"
-			{
-				"gid" "C38778AE45F0FFBDB53612C8E6003F1B"
-				"size" "6CF470411B340BE0F78F02BBE1B759F4"
-				"download" "24EBEDDE287625EAD9F70CAE41EE56B5"
-			}
-			"new_dawn"
-			{
-				"gid" "D3880A614FFAE8A7227E70E171F0A6D9"
-				"size" "7C75BEC91FA16B1D756DD0001120C5BE"
-				"download" "08B63EA41B1433D29C5BB0C0F7AF5A93"
+				"gid" "3386053540245579747"
+				"size" "986660746"
+				"download" "752138080"
 			}
 		}
 	}
@@ -225,8 +248,8 @@
 	{
 		"public"
 		{
-			"buildid" "14746307"
-			"timeupdated" "1718654531"
+			"buildid" "16709120"
+			"timeupdated" "1733929891"
 		}
 		"previous_version"
 		{
@@ -234,23 +257,16 @@
 			"description" "Previous version of the game"
 			"timeupdated" "1677249613"
 		}
-		"dev"
-		{
-			"buildid" "15320974"
-			"pwdrequired" "1"
-			"timeupdated" "1723220446"
-		}
-		"new_dawn"
-		{
-			"buildid" "15320974"
-			"pwdrequired" "1"
-			"timeupdated" "1723221365"
-		}
 		"testers"
 		{
-			"buildid" "14746307"
+			"buildid" "16709120"
 			"description" "For testers before public release"
-			"timeupdated" "1718654325"
+			"timeupdated" "1733929746"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27114230"
+"_sha" "622d18a54cbee427cf1af6c6d9004d68b5ab3342"
+"_size" "4555"
