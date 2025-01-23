@@ -191,7 +191,7 @@
 		"19" "11104"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -245,24 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "11315592282325224"
-				"size" "2556544453"
-				"download" "2498329360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "6D2FE522169517CEB21006EB87C5A052"
-				"size" "FACAC51EF68538E2027A2987B4DFE6CB"
-				"download" "3AAB2F5B102C63BFFC41A65FBB0BE939"
-			}
-			"test2"
-			{
-				"gid" "EABC7260E8E7CC48C205590750B6F7B4"
-				"size" "F73535FAD74852C6EE3183A97972B84A"
-				"download" "3974044A1BC209178A3EB56B4ECADCB4"
+				"gid" "1398153422479874113"
+				"size" "2556552645"
+				"download" "2498322096"
 			}
 		}
 	}
@@ -281,21 +266,6 @@
 				"download" "2513562336"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "FEC19EFA29153EB02127EAC616316D7F"
-				"size" "D372ACE0DC2EF63C5E41EA888EEC164A"
-				"download" "FA418340E02C64B8535200C30B6A9847"
-			}
-			"test2"
-			{
-				"gid" "0AF9F188F3F0FDD3FB998A536A09DFFF"
-				"size" "875FFCCEC8EFB654BF3CA813AA56A117"
-				"download" "9EF859C52386ED07557FE10C0D24BE66"
-			}
-		}
 	}
 	"1285231"
 	{
@@ -312,46 +282,24 @@
 				"download" "2491941584"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "242F4B969C4F8E0EBB7C38C80270D3C2"
-				"size" "890AF5DADAF98750B540668CBA81E6CD"
-				"download" "FD83960719760877215331F209600E5B"
-			}
-			"test2"
-			{
-				"gid" "5B25D051C1B4A0B3D4CE88CF143B131D"
-				"size" "3D42E645A0092F553805980414B9FD0B"
-				"download" "41C155D4BEF719705424D4AFD7C82F27"
-			}
-		}
 	}
 	"workshopdepot" "1285230"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15868992"
-			"timeupdated" "1727646074"
-		}
-		"test"
-		{
-			"buildid" "15868992"
-			"pwdrequired" "1"
-			"timeupdated" "1727645813"
-		}
-		"test2"
-		{
-			"buildid" "14923931"
-			"pwdrequired" "1"
-			"timeupdated" "1720042380"
+			"buildid" "16905881"
+			"timeupdated" "1735991149"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "100000000000"
 	"maxnumfiles" "10000"
 }
+"_missing_token" "False"
+"_change_number" "26946953"
+"_sha" "4f4459687c7b149e6e2dcde84da964c998841be2"
+"_size" "5271"
