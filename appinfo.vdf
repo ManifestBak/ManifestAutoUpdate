@@ -23,6 +23,7 @@
 		"english" "header.jpg"
 		"japanese" "header_japanese.jpg"
 	}
+	"store_screenshot" "ss_8cdd3733ceddb1ec3af130cb934d35a58b97afaf.jpg"
 	"store_asset_mtime" "1724313560"
 	"associations"
 	{
@@ -78,11 +79,11 @@
 	"store_tags"
 	{
 		"0" "21"
-		"1" "122"
-		"2" "492"
+		"1" "492"
+		"2" "122"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -195,6 +196,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25774626"
-"_sha" "29141fca54359572a12bdcb45c8a445c88943641"
-"_size" "3028"
+"_change_number" "26964795"
+"_sha" "0309f8f078657c0c036ab59a95c235cc6d61341d"
+"_size" "3100"
