@@ -31,6 +31,7 @@
 	"openvrsupport" "1"
 	"app_retired_publisher_request" "1"
 	"app_retired_was_free" "1"
+	"restricted_countries" "DE"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -254,3 +255,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "ce5a7c60d377916438a78cb7563a1c9c049f52c3"
+"_size" "4108"
