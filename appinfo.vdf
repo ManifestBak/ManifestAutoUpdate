@@ -81,6 +81,48 @@
 			"height_pct" "70.89764901448592"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "62.98020954598371"
+				"height_pct" "70.89764901448592"
+			}
+		}
+	}
 	"store_asset_mtime" "1681486221"
 	"associations"
 	{
@@ -153,6 +195,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1583180840"
 	"community_visible_stats" "1"
@@ -173,8 +225,8 @@
 		"10" "11014"
 		"11" "6971"
 		"12" "4191"
-		"13" "5608"
-		"14" "4182"
+		"13" "4182"
+		"14" "5608"
 		"15" "5984"
 		"16" "597"
 		"17" "15172"
@@ -241,18 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "1366939160663958322"
-				"size" "2429304592"
-				"download" "2315025568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4BCCDA69F0E0DDBA120FF302AC43C61F"
-				"size" "66F0F55E79047B43F13C403A676A7741"
-				"download" "E05A90255351DEB2D5A6F596ACE8FF50"
+				"gid" "7408486542515112669"
+				"size" "2615154786"
+				"download" "2501779616"
 			}
 		}
 	}
@@ -260,16 +303,11 @@
 	{
 		"public"
 		{
-			"buildid" "12506060"
-			"timeupdated" "1698008847"
-		}
-		"beta"
-		{
-			"buildid" "12506060"
-			"pwdrequired" "1"
-			"timeupdated" "1698008631"
+			"buildid" "17090377"
+			"timeupdated" "1737644346"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -315,3 +353,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27132588"
+"_sha" "fe0f067b6c88ff1d0c35f94f33c1fe0ec0b4bbe9"
+"_size" "6125"
