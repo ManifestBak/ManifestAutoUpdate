@@ -266,7 +266,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -312,15 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "2721103411235019041"
-				"size" "676724472"
-				"download" "204821648"
+				"gid" "4371539918630373189"
+				"size" "676744568"
+				"download" "204824592"
 			}
 			"open_beta"
 			{
-				"gid" "2721103411235019041"
-				"size" "676724472"
-				"download" "204821648"
+				"gid" "4371539918630373189"
+				"size" "676744568"
+				"download" "204824592"
 			}
 		}
 	}
@@ -372,14 +372,14 @@
 	{
 		"public"
 		{
-			"buildid" "17030686"
-			"timeupdated" "1737105160"
+			"buildid" "17082376"
+			"timeupdated" "1737550497"
 		}
 		"open_beta"
 		{
-			"buildid" "17030686"
+			"buildid" "17082376"
 			"description" "Open beta for players"
-			"timeupdated" "1737105096"
+			"timeupdated" "1737550442"
 		}
 	}
 	"privatebranches" "1"
@@ -433,6 +433,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27085630"
-"_sha" "c80a26d3f75a9a116958d7e3aac2a45e2b131bf0"
+"_change_number" "27116200"
+"_sha" "ae35ee8b609deb38f1fb7e6c81c89d25bed49ef0"
 "_size" "7985"
