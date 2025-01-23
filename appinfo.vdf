@@ -149,8 +149,21 @@
 		{
 			"supported" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1716396715"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2009620/announcements/detail/4452466204163967641\?snr=2___"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2009620"
@@ -177,7 +190,7 @@
 		"18" "1662"
 		"19" "9"
 	}
-	"review_score" "7"
+	"review_score" "8"
 	"review_percentage" "100"
 }
 "extended"
@@ -233,24 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "4554744702859658348"
-				"size" "1236182306"
-				"download" "1131244928"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "269D7B5E8BEF954C0E2B7B21DDB11109"
-				"size" "26DFEEB437EB4DD7061A1C3D1F10B5C3"
-				"download" "B2F947BD9ACCC9CF307DA6FFA3F86E5A"
-			}
-			"nightlyinternal"
-			{
-				"gid" "E217FAD222107ECC6F0721486678FC44"
-				"size" "3EB7F1C03F623AAD8C095E988FD56859"
-				"download" "5450E318148648655A22981E66387AAD"
+				"gid" "4784639784648751056"
+				"size" "1317034614"
+				"download" "1211970016"
 			}
 		}
 	}
@@ -270,41 +268,19 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "9ED8443ED79621D86B86C990E8DAAD1A"
-				"size" "99C09A80A00FB1E36A5BDDDD09DE2717"
-				"download" "2E17E1A3C39BEA551BA07F233A205E74"
-			}
-			"nightlyinternal"
-			{
-				"gid" "EBA2C4C4C0184C59A2E0581363867A0A"
-				"size" "40808792782047806C536E4071C725AA"
-				"download" "40808792782047806C536E4071C725AA"
-			}
-		}
 	}
 	"baselanguages" "english"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14610470"
-			"timeupdated" "1717599035"
-		}
-		"development"
-		{
-			"buildid" "15840160"
-			"pwdrequired" "1"
-			"timeupdated" "1727371479"
-		}
-		"nightlyinternal"
-		{
-			"buildid" "15843576"
-			"pwdrequired" "1"
-			"timeupdated" "1727393009"
+			"buildid" "16371941"
+			"timeupdated" "1731415738"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26768096"
+"_sha" "bf2ebb34bed2d8ee7e8aad47769c87a6cc57ef34"
+"_size" "4416"
