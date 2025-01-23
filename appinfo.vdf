@@ -41,6 +41,44 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "92.04904000545989"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1627571039"
 	"associations"
 	{
@@ -123,11 +161,21 @@
 	{
 		"0"
 		{
-			"executable" "autorun.exe"
+			"executable" "Launcher.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
+				"betakey" "default devtest openbeta closedbeta"
+			}
+		}
+		"2"
+		{
+			"executable" "autorun.exe"
+			"type" "default"
+			"config"
+			{
+				"betakey" "legacy"
 			}
 		}
 	}
@@ -140,9 +188,9 @@
 		{
 			"public"
 			{
-				"gid" "4081533263974514977"
-				"size" "2394408270"
-				"download" "1427166736"
+				"gid" "1024599082121840243"
+				"size" "2731241146"
+				"download" "1462256048"
 			}
 			"legacy"
 			{
@@ -150,35 +198,14 @@
 				"size" "1853843859"
 				"download" "1029254976"
 			}
-			"openbeta"
-			{
-				"gid" "3402641146967400450"
-				"size" "2303048946"
-				"download" "1376126160"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devtest"
-			{
-				"gid" "158107B5B5DDBD940F328C620CD8A5C0"
-				"size" "E0D311F651620091CC16B1CF52181F2F"
-				"download" "674D84F10004884D5CE179580995F214"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13125747"
-			"timeupdated" "1704981776"
-		}
-		"devtest"
-		{
-			"buildid" "13125747"
-			"pwdrequired" "1"
-			"timeupdated" "1704798643"
+			"buildid" "16339952"
+			"timeupdated" "1731512620"
 		}
 		"legacy"
 		{
@@ -186,13 +213,8 @@
 			"description" "(v1.06.00)"
 			"timeupdated" "1583493218"
 		}
-		"openbeta"
-		{
-			"buildid" "12345245"
-			"description" "Open Beta"
-			"timeupdated" "1697725962"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -208,3 +230,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "af4f6553c2bec82fb1ccc3d63eec6a6a96668075"
+"_size" "3870"
