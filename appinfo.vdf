@@ -19,8 +19,6 @@
 		"2" "5"
 		"3" "4"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"restricted_countries" "CN,DE"
 	"small_capsule"
 	{
@@ -40,6 +38,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "51.162790697674424"
 			"height_pct" "58.73901686060317"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.162790697674424"
+				"height_pct" "58.73901686060317"
+			}
 		}
 	}
 	"store_asset_mtime" "1620245728"
@@ -77,6 +109,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -709,16 +742,16 @@
 		"1" "1664"
 		"2" "3871"
 		"3" "4085"
-		"4" "4562"
-		"5" "44868"
+		"4" "44868"
+		"5" "4562"
 		"6" "4305"
 		"7" "4726"
 		"8" "7743"
 		"9" "6691"
 		"10" "5608"
 		"11" "4747"
-		"12" "6426"
-		"13" "12095"
+		"12" "12095"
+		"13" "6426"
 		"14" "7569"
 		"15" "9130"
 		"16" "6650"
@@ -801,6 +834,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21639225"
-"_sha" "8c20b77db5311aba6b8d090f31a018b27555a1cc"
-"_size" "12842"
+"_change_number" "26884848"
+"_sha" "c1df941a880fc44a0097d9785c26a28f2b3e92b2"
+"_size" "13311"
