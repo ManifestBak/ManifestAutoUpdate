@@ -317,15 +317,6 @@
 				"download" "137543424"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"icelandic_test"
-			{
-				"gid" "6499B844557196F1AF275EA240322E32"
-				"size" "3ACE519283CA0AFCA392224879A5B81F"
-				"download" "D0E9CA21024C983DF67353AFD7A77E14"
-			}
-		}
 	}
 	"2339042"
 	{
@@ -347,15 +338,6 @@
 				"gid" "2252621477860277552"
 				"size" "251948465"
 				"download" "150251184"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"icelandic_test"
-			{
-				"gid" "61C1C5200026431BE97FC42DCE46173E"
-				"size" "15E2DB72F2AEC7EFBC24D4D5E3662662"
-				"download" "42B42316FE71A63F615E59CDF9112B2A"
 			}
 		}
 	}
@@ -381,15 +363,6 @@
 				"download" "139797504"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"icelandic_test"
-			{
-				"gid" "20BF275F754CEB9441626CDDF2DE58C0"
-				"size" "404CC2FE9BB3CF45A0E5C5D301A8C7BC"
-				"download" "4558DCC3CA281A13D2953A85633707B8"
-			}
-		}
 	}
 	"baselanguages" "english,german,french,spanish,schinese,russian,japanese,turkish,brazilian"
 	"branches"
@@ -405,13 +378,8 @@
 			"description" "Landnama\'s Release Version"
 			"timeupdated" "1697456709"
 		}
-		"icelandic_test"
-		{
-			"buildid" "16148110"
-			"pwdrequired" "1"
-			"timeupdated" "1729672649"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -447,6 +415,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26068110"
-"_sha" "233cd96873279f4cee2c71b8ab0c7544d5ff0a98"
-"_size" "7809"
+"_change_number" "26602770"
+"_sha" "d9688003688714a0e0398340d7bfea43ac7693a4"
+"_size" "7081"
