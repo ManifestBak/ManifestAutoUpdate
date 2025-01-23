@@ -1,13 +1,13 @@
 "appid" "451600"
 "common"
 {
-	"name" "CounterAttack"
+	"name" "CounterAttack: Uprising"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"clienticon" "6731700eb6d324ca80960a728f8f0cfad9895240"
 	"clienttga" "dbabf3b0b93ac390a07904c4378946681d8f7d7d"
-	"icon" "8c5251a3670f321911a23e3c39562e41f5fb3c56"
+	"icon" "630ae019c39332e7bc7808cfd286d16e3edfb7b8"
 	"logo" "77ad0d993b11875821e92c693c82daa882551585"
 	"logo_small" "77ad0d993b11875821e92c693c82daa882551585_thumb"
 	"languages"
@@ -258,15 +258,15 @@
 		{
 			"public"
 			{
-				"gid" "1270624794069689319"
-				"size" "2459780063"
-				"download" "1045122560"
+				"gid" "6679591356680891225"
+				"size" "2459783095"
+				"download" "1045048608"
 			}
 			"beta"
 			{
-				"gid" "1270624794069689319"
-				"size" "2459780063"
-				"download" "1045122560"
+				"gid" "2870755678840675904"
+				"size" "2459953201"
+				"download" "1045137184"
 			}
 			"v114"
 			{
@@ -279,15 +279,15 @@
 		{
 			"alpha"
 			{
-				"gid" "FE29AC1F8EF2D1500DFA7DFBAD4A7A53"
-				"size" "5A02C5DD214FC7574531239CC3D520D6"
-				"download" "02254F5690F9B40DE063E9AE3EFF913B"
+				"gid" "6C6EE10FD27713387BAAF61B8A51661E"
+				"size" "13815C074C35F19DEF1B0D0A6AD2A406"
+				"download" "7B2957E03E3197617BD5CFDEB860D05A"
 			}
 			"development"
 			{
-				"gid" "108774776955B112AACE5F7B3638E347"
-				"size" "4A108E9C74DFC0A2FDB1A59D24F028FE"
-				"download" "870153EE0010554DECA0B90E5C8BF1FE"
+				"gid" "C7FC5D5CB695A91C770A49308A752887"
+				"size" "DF9CCF0BC9218B178BD4A0CE15B6CB67"
+				"download" "A4FCAEFCF36AA5D80CE114D0BDAB7AF9"
 			}
 		}
 	}
@@ -301,15 +301,15 @@
 		{
 			"public"
 			{
-				"gid" "3853079809106125725"
-				"size" "2506430085"
-				"download" "1058468000"
+				"gid" "9146189787741529009"
+				"size" "2506431381"
+				"download" "1058457440"
 			}
 			"beta"
 			{
-				"gid" "3853079809106125725"
-				"size" "2506430085"
-				"download" "1058468000"
+				"gid" "6259670354794779809"
+				"size" "2506586377"
+				"download" "1058473152"
 			}
 			"v114"
 			{
@@ -322,15 +322,15 @@
 		{
 			"alpha"
 			{
-				"gid" "2B0F7CF7994B7DDF9C36A4D35D694933"
-				"size" "CBC0C43D88FBA73EB368E7D05438DF38"
-				"download" "86F451AD4F1356372769115D8F888D3F"
+				"gid" "BF8F6995B39CB12E8A455933078303DE"
+				"size" "D79240B0C0B9AAFA5873A56BB49C4C41"
+				"download" "329BDD488AFDF40E2CA2C5DC0E0746B2"
 			}
 			"development"
 			{
-				"gid" "72268F97544653F347C41BCF31AE929D"
-				"size" "47F47B43DA5B991F8873F93B08A99C87"
-				"download" "42F1D539D249E829ABF68B289D6DF1B8"
+				"gid" "0443BBB972D6460D43F4A4C776E3BBAC"
+				"size" "A7CB85DF94B71D66C38FA09087262135"
+				"download" "7CCA53621732CFEFC2A014EE07599247"
 			}
 		}
 	}
@@ -344,15 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "4189948910273910520"
-				"size" "2550372570"
-				"download" "1071187328"
+				"gid" "2709421150470119688"
+				"size" "2550373866"
+				"download" "1071189280"
 			}
 			"beta"
 			{
-				"gid" "4189948910273910520"
-				"size" "2550372570"
-				"download" "1071187328"
+				"gid" "2291022063189464578"
+				"size" "2550528076"
+				"download" "1071218400"
 			}
 			"v114"
 			{
@@ -365,15 +365,15 @@
 		{
 			"alpha"
 			{
-				"gid" "9293AAF56E629301186530EB82731054"
-				"size" "1C2C243FD7D1A3BE124303E52B678320"
-				"download" "6C8C5904E3557972936C8FD7A6DE821F"
+				"gid" "CD0BE7274265B45601380532ADBD8EA2"
+				"size" "A07ED6CE643FFE394DEECD1AD8CF300B"
+				"download" "61186A3DA96BFC347280EAEE0D322548"
 			}
 			"development"
 			{
-				"gid" "33692D2D185BDA6872CAECFC6E358BEE"
-				"size" "89CB80604A3AC81AF4825645B96DC39D"
-				"download" "0DACB777B7C35DE57677F23B9653E4BC"
+				"gid" "673FB91ECC453A79FD909CD72C50D905"
+				"size" "D37995AA620DE7F64796797FBB6CE73A"
+				"download" "C660496A6C053B24E1887B3387353F88"
 			}
 		}
 	}
@@ -383,26 +383,26 @@
 	{
 		"public"
 		{
-			"buildid" "16022153"
-			"timeupdated" "1728759655"
+			"buildid" "16699813"
+			"timeupdated" "1734301178"
 		}
 		"alpha"
 		{
-			"buildid" "16022153"
+			"buildid" "16993830"
 			"pwdrequired" "1"
-			"timeupdated" "1728759620"
+			"timeupdated" "1736823145"
 		}
 		"beta"
 		{
-			"buildid" "16022153"
+			"buildid" "16993830"
 			"description" "Prerelease of next update (when available)"
-			"timeupdated" "1728759632"
+			"timeupdated" "1736823152"
 		}
 		"development"
 		{
-			"buildid" "16022153"
+			"buildid" "16993830"
 			"pwdrequired" "1"
-			"timeupdated" "1728759163"
+			"timeupdated" "1736819491"
 		}
 		"v114"
 		{
@@ -464,6 +464,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25696853"
-"_sha" "c183c872101692caba28aca2c02912ad3e1c0ec2"
-"_size" "8422"
+"_change_number" "26982394"
+"_sha" "582f02c9d0f9d34af64bbaf440da5d0df0d93b1b"
+"_size" "8432"
