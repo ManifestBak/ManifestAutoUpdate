@@ -74,7 +74,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1704457116"
+	"store_asset_mtime" "1734448413"
 	"associations"
 	{
 		"0"
@@ -85,7 +85,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "dollcrush"
+			"name" "namoviot"
 		}
 	}
 	"primary_genre" "23"
@@ -135,12 +135,12 @@
 		"19" "3854"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
 	"developer" "Lenni Elias Kauppi"
-	"publisher" "dollcrush"
+	"publisher" "namoviot"
 }
 "config"
 {
@@ -202,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "2824628758774773660"
-				"size" "6849630045"
-				"download" "6576433968"
+				"gid" "481883543514271354"
+				"size" "7406070948"
+				"download" "6699523664"
 			}
 		}
 	}
@@ -212,8 +212,12 @@
 	{
 		"public"
 		{
-			"buildid" "13227118"
-			"timeupdated" "1705758167"
+			"buildid" "16774127"
+			"timeupdated" "1734448109"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26821723"
+"_sha" "2826dee6714141681127434d7cda1aaa46ff0872"
+"_size" "3299"
