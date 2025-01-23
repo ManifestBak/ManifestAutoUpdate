@@ -70,7 +70,41 @@
 			"height_pct" "38.98123961054381"
 		}
 	}
-	"store_asset_mtime" "1616590223"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.04651162790698"
+				"height_pct" "38.98123961054381"
+			}
+		}
+	}
+	"store_asset_mtime" "1735254144"
 	"associations"
 	{
 		"0"
@@ -131,8 +165,8 @@
 		"16" "4342"
 		"17" "1721"
 	}
-	"review_score" "5"
-	"review_percentage" "62"
+	"review_score" "6"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -146,7 +180,7 @@
 	{
 		"0"
 		{
-			"executable" "SwingMiss-0.65.4-market/SwingMiss.exe"
+			"executable" "SwingMiss.exe"
 			"type" "default"
 			"config"
 			{
@@ -155,7 +189,7 @@
 		}
 		"1"
 		{
-			"executable" "SwingMiss-0.65.4-market\\SwingMiss.app\\Contents\\MacOS\\SwingMiss"
+			"executable" "SwingMiss.app"
 			"type" "default"
 			"config"
 			{
@@ -173,9 +207,9 @@
 		{
 			"public"
 			{
-				"gid" "7873875954305825007"
-				"size" "1796285531"
-				"download" "1556857936"
+				"gid" "8755617785752731036"
+				"size" "1269788161"
+				"download" "1151336368"
 			}
 		}
 	}
@@ -183,8 +217,12 @@
 	{
 		"public"
 		{
-			"buildid" "6124267"
-			"timeupdated" "1611336479"
+			"buildid" "16283976"
+			"timeupdated" "1730699930"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26792005"
+"_sha" "5b33460539aa7903e6c4eb6e72e17c762eaadf59"
+"_size" "3886"
