@@ -17,8 +17,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1728345600"
-		"tested_build_id" "15894780"
+		"test_timestamp" "1731628800"
+		"tested_build_id" "16128401"
 		"tests"
 		{
 			"0"
@@ -130,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727714505"
+	"store_asset_mtime" "1737117654"
 	"associations"
 	{
 		"0"
@@ -156,6 +156,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_28" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -197,6 +198,16 @@
 			"subtitles" "true"
 		}
 		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -269,9 +280,15 @@
 		{
 			"public"
 			{
-				"gid" "3902977830106687173"
-				"size" "935771544"
-				"download" "395894336"
+				"gid" "3931953092526228550"
+				"size" "939759454"
+				"download" "395699296"
+			}
+			"beta"
+			{
+				"gid" "4589719533353399661"
+				"size" "939758926"
+				"download" "395695536"
 			}
 		}
 	}
@@ -279,8 +296,14 @@
 	{
 		"public"
 		{
-			"buildid" "15946627"
-			"timeupdated" "1728241376"
+			"buildid" "16128401"
+			"timeupdated" "1729549111"
+		}
+		"beta"
+		{
+			"buildid" "16108999"
+			"description" "Beta testing branch"
+			"timeupdated" "1729366698"
 		}
 	}
 }
@@ -332,3 +355,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27052417"
+"_sha" "a01d77a7be87c5d73154cf2b9568729327100da4"
+"_size" "6121"
