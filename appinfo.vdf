@@ -22,7 +22,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "d477b70fa0a5d72cae2d3f4e6dacee7b69abc385/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -32,15 +32,77 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
-			"width_pct" "60.5063464890531"
+			"width_pct" "60.09568060575299"
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1722815063"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8f819e74118aa16062bfdbcae7f950d0ea93d4a8/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "8f819e74118aa16062bfdbcae7f950d0ea93d4a8/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "d6f29b03e8b65c2bdf5f8083ee618899d5d0d35a/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "d6f29b03e8b65c2bdf5f8083ee618899d5d0d35a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d6f29b03e8b65c2bdf5f8083ee618899d5d0d35a/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "60.09568060575299"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "93b1e0774878c48b2e0af9b80ca0d674fe14e6a9/logo_2x.png"
+			}
+			"image"
+			{
+				"english" "93b1e0774878c48b2e0af9b80ca0d674fe14e6a9/logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "da7e8f39833665d396fd7f6e118974ba5266b583/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "da7e8f39833665d396fd7f6e118974ba5266b583/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735889172"
 	"associations"
 	{
 		"0"
@@ -65,7 +127,6 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
-		"category_23" "1"
 		"category_18" "1"
 		"category_62" "1"
 	}
@@ -171,9 +232,9 @@
 }
 "extended"
 {
+	"deckresolutionoverride" "1920x1080"
 	"developer" "QTS"
 	"publisher" "QTS"
-	"gamemanualurl" "https://store.steampowered.com/manual/917940/"
 	"listofdlc" "2124710,2177280,2316360"
 	"dlcavailableonstore" "1"
 }
@@ -225,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "774060703093647658"
-				"size" "35441555129"
-				"download" "12307733040"
+				"gid" "1142030966682051446"
+				"size" "35414890069"
+				"download" "12311091808"
 			}
 		}
 	}
@@ -235,8 +296,8 @@
 	{
 		"public"
 		{
-			"buildid" "15486873"
-			"timeupdated" "1724607749"
+			"buildid" "16897489"
+			"timeupdated" "1735888196"
 		}
 	}
 }
@@ -249,7 +310,7 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "amQuests/Lemuria"
+			"path" "amQuests/LEMURIA"
 			"pattern" "*.save"
 			"platforms"
 			{
@@ -258,3 +319,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26848719"
+"_sha" "c75477b7c4f45d6ce150eec7f96718184f517dcc"
+"_size" "5516"
