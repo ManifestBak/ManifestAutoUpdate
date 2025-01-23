@@ -28,8 +28,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1722297600"
-		"tested_build_id" "15148963"
+		"test_timestamp" "1731110400"
+		"tested_build_id" "16341139"
 		"tests"
 		{
 			"0"
@@ -63,7 +63,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -137,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1722844855"
+	"store_asset_mtime" "1732616424"
 	"associations"
 	{
 		"0"
@@ -275,7 +275,7 @@
 		"19" "1654"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "64"
 }
 "extended"
 {
@@ -327,42 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "218094299898996485"
-				"size" "7887991620"
-				"download" "2524063632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"baseline"
-			{
-				"gid" "376BD06BAED4CE2F815F6BAB81C7B533"
-				"size" "26A129B9D8D0D35A98021E9D42F08E4F"
-				"download" "1E47A4795B2066B0BCB46C8238B51E51"
-			}
-			"evaluation"
-			{
-				"gid" "7B2B44E8B742C45F5F828D9F03C42C4E"
-				"size" "395126BAF3575FAB81FA5162EE04C3AE"
-				"download" "1F331BA89E74558700939FE4CE4D9131"
-			}
-			"internal"
-			{
-				"gid" "551F4F0B83DDB2B9519E5C8F54CD0EEC"
-				"size" "D880B67CE1F882CBC9759A2D03E24B07"
-				"download" "EB3224B1A686E48FE9146A9E0C1A99B4"
-			}
-			"release"
-			{
-				"gid" "576E46F6372D08566B0930C723972BCB"
-				"size" "ADCD846D402A3D51C7B40F6AC3A5D1AE"
-				"download" "6AA13D7B1DBB3D3F85A25AC067E970D8"
-			}
-			"testgate"
-			{
-				"gid" "2A06F9066E414D1AF30EC0E2104EE3EE"
-				"size" "65ED111FA24245E5574EC58938687E05"
-				"download" "02CE29DF05C47FD5DE8EAB99D2812446"
+				"gid" "8259187127107133750"
+				"size" "8483170186"
+				"download" "2669332672"
 			}
 		}
 	}
@@ -370,40 +337,11 @@
 	{
 		"public"
 		{
-			"buildid" "15638273"
-			"timeupdated" "1725888916"
-		}
-		"baseline"
-		{
-			"buildid" "12591792"
-			"pwdrequired" "1"
-			"timeupdated" "1698846923"
-		}
-		"evaluation"
-		{
-			"buildid" "15162646"
-			"pwdrequired" "1"
-			"timeupdated" "1721996291"
-		}
-		"internal"
-		{
-			"buildid" "15836999"
-			"pwdrequired" "1"
-			"timeupdated" "1727355624"
-		}
-		"release"
-		{
-			"buildid" "15638273"
-			"pwdrequired" "1"
-			"timeupdated" "1725884964"
-		}
-		"testgate"
-		{
-			"buildid" "15638273"
-			"pwdrequired" "1"
-			"timeupdated" "1725885043"
+			"buildid" "16523061"
+			"timeupdated" "1732542338"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -453,3 +391,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27060735"
+"_sha" "6edb14960e9ecfc990727a15eb03e68184358dab"
+"_size" "6719"
