@@ -17,6 +17,7 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Dawn of the Lost Castle"
 	"controller_support" "full"
 	"small_capsule"
@@ -29,6 +30,7 @@
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
 	}
+	"store_screenshot" "ss_4fde38caf18bb810e485be9402465ea4458c047a.jpg"
 	"store_asset_mtime" "1560917652"
 	"associations"
 	{
@@ -64,6 +66,7 @@
 		"category_28" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -102,7 +105,7 @@
 		"6" "1756"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -216,6 +219,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "18821630"
-"_sha" "5a5df838c6a4424e8da09fc875d4bccfd2cd5815"
-"_size" "3594"
+"_change_number" "26253459"
+"_sha" "686bf2068227ca4f9f10e21b5144ba2dfaf08d17"
+"_size" "3719"
