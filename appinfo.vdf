@@ -261,30 +261,21 @@
 		{
 			"public"
 			{
-				"gid" "6252135339218684506"
-				"size" "4435000835"
-				"download" "1855786912"
+				"gid" "1477021258716262479"
+				"size" "4438812635"
+				"download" "1856862288"
 			}
 			"alpha"
 			{
-				"gid" "6252135339218684506"
-				"size" "4435000835"
-				"download" "1855786912"
+				"gid" "1477021258716262479"
+				"size" "4438812635"
+				"download" "1856862288"
 			}
 			"onlinealpha"
 			{
-				"gid" "6252135339218684506"
-				"size" "4435000835"
-				"download" "1855786912"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"creativemodealpha"
-			{
-				"gid" "AA220C9F2387762FE7FEFDBDCE0B56CB"
-				"size" "CC6411B873601E740118F15857772DAF"
-				"download" "B5140C3F289E15EDF92C9126CDE48132"
+				"gid" "1477021258716262479"
+				"size" "4438812635"
+				"download" "1856862288"
 			}
 		}
 	}
@@ -295,30 +286,25 @@
 	{
 		"public"
 		{
-			"buildid" "16546879"
-			"timeupdated" "1732677010"
+			"buildid" "17034272"
+			"timeupdated" "1737079111"
 		}
 		"alpha"
 		{
-			"buildid" "16546879"
+			"buildid" "17034272"
 			"description" "Early feature tests and bug fixes"
-			"timeupdated" "1732676975"
-		}
-		"creativemodealpha"
-		{
-			"buildid" "16546879"
-			"pwdrequired" "1"
-			"timeupdated" "1732676983"
+			"timeupdated" "1737079070"
 		}
 		"onlinealpha"
 		{
-			"buildid" "16546879"
+			"buildid" "17034272"
 			"description" "Online Public Alpha"
-			"timeupdated" "1732676991"
+			"timeupdated" "1737079084"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26378309"
-"_sha" "969c9bda6b86ee30d426cd8aa0216fdc7f898f4e"
-"_size" "5643"
+"_change_number" "27034938"
+"_sha" "37dd530be13ec92fead760f486edf6cdebf66630"
+"_size" "5337"
