@@ -1,63 +1,68 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-25 00:23:14
+## 更新时间：2025-01-25 02:25:45
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1052440 | 黑色規則：西格瑪| Game |
-| 1104660 | MO:Astray| Game |
-| 1147940 | 3dSen| Game |
-| 1477700 | 奇迹武器计划| Game |
-| 1700270 | 终极幸运之塔 (Lucky Tower Ultimate)| Game |
-| 1877120 | Danger Scavenger Tilt Five™| DLC |
-| 1921350 | 完整游戏原声带《那由多之轨迹：改》| Music |
-| 1948470 | 幽灵少女莱斯灵| Game |
-| 207930 | Sacred Citadel| Game |
-| 2102450 | Enotria: The Last Song| Game |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 1982940 | HeistGeist| Game |
-| 2078910 | 汉尘：腐草为萤| Game |
-| 17535 | D.I.P.R.I.P. Dedicated Server| Tool |
-| 205 | Source Dedicated Server| Tool |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 1169740 | 摩天机动队（Danger Scavenger）-赛博朋克风-3D动作闯关-肉鸽游戏| Game |
+| 1171380 | Mo:Astray - OST| Music |
+| 1079460 | Descenders Soundtrack| Music |
+| 1203880 | Croixleur Sigma - Original Soundtrack| Music |
+| 1338040 | Automobilista 2 - Dedicated Server| Tool |
+| 1332340 | DISORDER| Game |
+| 1419850 | Saleblazers| Game |
+| 1492070 | Sker Ritual| Game |
+| 1533390 | Gorilla Tag| Game |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1732390 | 那由多之轨迹：改| Game |
+| 2015240 | Dwarven Realms| Game |
+| 1888930 | The Last of Us™ Part I| Game |
+| 2012510 | 风暴之门 Stormgate| Game |
+| 2059170 | Quasimorph| Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2127420 | Ghost Girl Lasling DLC - R18 ASMR| DLC |
+| 1066890 | Automobilista 2| Game |
 | 214630 | Call of Duty: Black Ops - OSX| game |
-| 2238040 | 瞎闹猎车手| Game |
-| 22380 | Fallout: New Vegas| game |
-| 2666550 | Dead Season| Game |
-| 2646460 | 灵魂面甲(Soulmask)| Game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2696050 | YARISUTEMESUBUTA ~ 一次性交易大师 ~| Game |
-| 278570 | Labyrinthine Dreams| Game |
-| 2710480 | 隔壁的美艳人妻| Game |
-| 2753600 | Vambrace: Dungeon Monarch| Game |
-| 2940490 | 獸圈  瞄准训练器| Game |
+| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
+| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
+| 215 | Source SDK Base 2006| Tool |
+| 222750 | Wargame: AirLand Battle| Game |
+| 218 | Source SDK Base 2007| Tool |
+| 2460920 | 亩地| Game |
+| 240 | Counter-Strike: Source| game |
+| 2296550 | 铁壁矩阵：轴突塔防| Game |
+| 239140 | Dying Light| Game |
+| 2529540 | 硬币与仙人掌 (Coins & Wishpalm)| Game |
+| 259810 | 送小羊回家| Game |
+| 2708790 | Together After Dark| Game |
 | 22490 | Fallout: New Vegas PCR| game |
-| 3196570 | 轮回之境| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 3290710 | RATSHAKER| Game |
-| 33770 | Drakensang The River of Time| game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 3358510 | 再刷一把2：金色传说| Game |
-| 409850 | Criminal Girls: Invite Only| Game |
-| 407130 | 后勤模拟器| Game |
+| 2920570 | Dale & Dawson Stationery Supplies| Game |
+| 22380 | Fallout: New Vegas| game |
+| 2820820 | 巨人杀手：暗黑之潮| Game |
+| 3171570 | Yarimono ~ DLC 1| DLC |
+| 324160 | CLANNAD| Game |
+| 322450 | FRAMED Collection| Game |
+| 3440830 | 春归| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 349250 | Copy Kitty| Game |
+| 2803360 | Project L33T| Game |
+| 372140 | Labyrinthine Dreams - Soundtrack| Music |
 | 42710 | Call of Duty: Black Ops - Multiplayer| game |
-| 449900 | Destiny's Princess: A War Story, A Love Story - Original Soundtrack| Music |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 451760 | Highway Blossoms| Game |
 | 42700 | Call of Duty: Black Ops| game |
-| 490270 | Highway Blossoms: Next Exit| DLC |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
-| 3319980 | 英雄传说 界之轨迹 -告别塞姆利亚-| Game |
-| 548840 | A Rose in the Twilight| Game |
-| 559210 | Rakuen| Game |
-| 683090 | LoveKami -Useless Goddess- Original Soundtrack| Music |
-| 681280 | Descenders| Game |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 737790 | Rest House VR| DLC |
-| 785740 | This Is the Police 2| Game |
-| 798540 | Dying Light Original Soundtrack| Music |
-| 856840 | FRAMED Collection - The Original Soundtrack| Music |
-| 855640 | My Brother Rabbit| Game |
-| 914310 | Copy Kitty OST| Music |
-| 809230 | 统一指挥2| Game |
-| 954280 | 3dSenVR| Game |
+| 494840 | UBOAT| Game |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 582290 | Rest House| Game |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 730 | Counter-Strike 2| Game |
+| 773790 | Ostriv| Game |
+| 818520 | Builders Of Egypt| Game |
+| 838350 | 太吾绘卷 The Scroll Of Taiwu| Game |
+| 842780 | NavalArt| Game |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
