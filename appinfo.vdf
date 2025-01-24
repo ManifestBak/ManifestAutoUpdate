@@ -267,7 +267,7 @@
 		"19" "1643"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -352,21 +352,27 @@
 		{
 			"public"
 			{
-				"gid" "2954742414470081237"
-				"size" "933642267"
-				"download" "772408208"
+				"gid" "6225937137755265235"
+				"size" "933644276"
+				"download" "772403984"
 			}
 			"v0_12_pre"
 			{
-				"gid" "2954742414470081237"
-				"size" "933642267"
-				"download" "772408208"
+				"gid" "6225937137755265235"
+				"size" "933644276"
+				"download" "772403984"
 			}
 			"old_version"
 			{
 				"gid" "2954742414470081237"
 				"size" "933642267"
 				"download" "772408208"
+			}
+			"v0_11_x"
+			{
+				"gid" "4792750749902448691"
+				"size" "864507098"
+				"download" "747596992"
 			}
 			"v0_10_x"
 			{
@@ -447,21 +453,27 @@
 		{
 			"public"
 			{
-				"gid" "6915404237266464991"
-				"size" "939985693"
-				"download" "771433328"
+				"gid" "25514057940952166"
+				"size" "939987702"
+				"download" "771436464"
 			}
 			"v0_12_pre"
 			{
-				"gid" "6915404237266464991"
-				"size" "939985693"
-				"download" "771433328"
+				"gid" "25514057940952166"
+				"size" "939987702"
+				"download" "771436464"
 			}
 			"old_version"
 			{
 				"gid" "6915404237266464991"
 				"size" "939985693"
 				"download" "771433328"
+			}
+			"v0_11_x"
+			{
+				"gid" "2795925867766373584"
+				"size" "875481628"
+				"download" "747492608"
 			}
 			"v0_10_x"
 			{
@@ -542,21 +554,27 @@
 		{
 			"public"
 			{
-				"gid" "4108188658270875271"
-				"size" "966854288"
-				"download" "780458496"
+				"gid" "4625749839266453115"
+				"size" "966855785"
+				"download" "780459008"
 			}
 			"v0_12_pre"
 			{
-				"gid" "4108188658270875271"
-				"size" "966854288"
-				"download" "780458496"
+				"gid" "4625749839266453115"
+				"size" "966855785"
+				"download" "780459008"
 			}
 			"old_version"
 			{
 				"gid" "4108188658270875271"
 				"size" "966854288"
 				"download" "780458496"
+			}
+			"v0_11_x"
+			{
+				"gid" "1182157069388221926"
+				"size" "897693964"
+				"download" "755542832"
 			}
 			"v0_10_x"
 			{
@@ -631,20 +649,26 @@
 	{
 		"public"
 		{
-			"buildid" "17104965"
-			"timeupdated" "1737643877"
+			"buildid" "17117324"
+			"timeupdated" "1737711799"
 		}
 		"v0_12_pre"
 		{
-			"buildid" "17104965"
-			"description" "Preview of v0.12"
-			"timeupdated" "1737634531"
+			"buildid" "17117324"
+			"description" "Experimental updates for v0.12"
+			"timeupdated" "1737711682"
 		}
 		"old_version"
 		{
 			"buildid" "17104965"
 			"description" "Previous build"
 			"timeupdated" "1737643796"
+		}
+		"v0_11_x"
+		{
+			"buildid" "16224192"
+			"description" "Last version of v0.11.x before upgrade to v0.12"
+			"timeupdated" "1737655774"
 		}
 		"v0_10_x"
 		{
@@ -764,6 +788,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27132461"
-"_sha" "73ce4d075e3ff28cc34f9fee150aa87d2a405a1f"
-"_size" "14243"
+"_change_number" "27146574"
+"_sha" "7a8899f431c057dd8f62ae683315ae135dddc149"
+"_size" "14745"
