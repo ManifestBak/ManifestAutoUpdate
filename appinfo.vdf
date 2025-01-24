@@ -11,6 +11,8 @@
 	"name_localized"
 	{
 		"english" "Koi-Koi VR: Love Blossoms"
+		"tchinese" "招桃花溫泉物語VR"
+		"schinese" "招桃花温泉物语VR"
 	}
 	"oslist" "windows"
 	"osarch" "64"
@@ -68,22 +70,27 @@
 	{
 		"english" "capsule_231x87.jpg"
 		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "a7975ec61dd14660be8566e6a6ffa003a26d186b/capsule_231x87_tchinese.jpg"
+		"schinese" "2b4f24503124cfa8f479f1d4d3b1c6d2e9ec82b8/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "ja,en"
-		"library_hero" "en,ja"
-		"library_logo" "en,ja"
+		"library_capsule" "ja,en,zh-cn,zh-tw"
+		"library_hero" "en,ja,zh-cn,zh-tw"
+		"library_hero_blur" "zh-cn,zh-tw"
+		"library_logo" "en,ja,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
-			"width_pct" "40.00329470715411"
-			"height_pct" "61.00681593608746"
+			"width_pct" "100"
+			"height_pct" "54.96052401355558"
 		}
 	}
 	"library_assets_full"
@@ -94,11 +101,15 @@
 			{
 				"japanese" "library_600x900_japanese.jpg"
 				"english" "library_600x900.jpg"
+				"schinese" "bfa2de2343f41cec326b5447bd688d69aa1e7883/library_600x900_schinese.jpg"
+				"tchinese" "5490562a7fd7deffe0362c3a0b1ae78d2bba7311/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"japanese" "library_600x900_japanese_2x.jpg"
 				"english" "library_600x900_2x.jpg"
+				"schinese" "bfa2de2343f41cec326b5447bd688d69aa1e7883/library_600x900_schinese_2x.jpg"
+				"tchinese" "5490562a7fd7deffe0362c3a0b1ae78d2bba7311/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -107,6 +118,21 @@
 			{
 				"english" "library_hero.jpg"
 				"japanese" "library_hero_japanese.jpg"
+				"schinese" "88ce99a90da0aa3e5f694415d96b265b9be465f1/library_hero_schinese.jpg"
+				"tchinese" "3e988d56c62714f0fe2a12d208acafd321219ade/library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "88ce99a90da0aa3e5f694415d96b265b9be465f1/library_hero_schinese_2x.jpg"
+				"tchinese" "3e988d56c62714f0fe2a12d208acafd321219ade/library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "88ce99a90da0aa3e5f694415d96b265b9be465f1/library_hero_blur_schinese.jpg"
+				"tchinese" "3e988d56c62714f0fe2a12d208acafd321219ade/library_hero_blur_tchinese.jpg"
 			}
 		}
 		"library_logo"
@@ -115,16 +141,23 @@
 			{
 				"english" "logo.png"
 				"japanese" "logo_japanese.png"
+				"schinese" "2f7f05d25c212dbaf3fdda7660c52d547ee45270/logo_schinese.png"
+				"tchinese" "16a466efd28afb394e31371d4a75d9e26f781a22/logo_tchinese.png"
 			}
 			"logo_position"
 			{
 				"pinned_position" "BottomCenter"
-				"width_pct" "40.00329470715411"
-				"height_pct" "61.00681593608746"
+				"width_pct" "100"
+				"height_pct" "54.96052401355558"
+			}
+			"image2x"
+			{
+				"schinese" "2f7f05d25c212dbaf3fdda7660c52d547ee45270/logo_schinese_2x.png"
+				"tchinese" "16a466efd28afb394e31371d4a75d9e26f781a22/logo_tchinese_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1679644927"
+	"store_asset_mtime" "1734072558"
 	"associations"
 	{
 		"0"
@@ -165,6 +198,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1665455280"
 	"community_hub_visible" "1"
@@ -189,9 +232,9 @@
 		"14" "3799"
 		"15" "1719"
 		"16" "492"
-		"17" "5984"
-		"18" "4191"
-		"19" "1684"
+		"17" "4191"
+		"18" "5984"
+		"19" "24904"
 	}
 	"review_score" "8"
 	"review_percentage" "86"
@@ -257,30 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "5318366319983210285"
-				"size" "6520160466"
-				"download" "5891534192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"includesavedata"
-			{
-				"gid" "706756355AEF373484B3706B7DEB87B8"
-				"size" "47575C4DE02620F2610E4010C97BA7E7"
-				"download" "87E22BC7A60A8F694ABF260EB2DCA723"
-			}
-			"test"
-			{
-				"gid" "100A0CF3981BFEECF831D57577ADB455"
-				"size" "C26F28CBB66DF9389C81122C92E719CB"
-				"download" "CB79EE74FDD2BAE33068AB6526FA4BAC"
-			}
-			"test20240702"
-			{
-				"gid" "1AAA97040FD3FBD8D8C365FD4D76E149"
-				"size" "7C5A7A371161DC0A21C155F68D5F6E31"
-				"download" "1C236EF48229D3C496F6B5D903BCF976"
+				"gid" "6772176719970763634"
+				"size" "9181599827"
+				"download" "7865488016"
 			}
 		}
 	}
@@ -297,18 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "1386608043933869451"
-				"size" "9182485621"
-				"download" "7860217632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test20240702"
-			{
-				"gid" "6CF08FD1B106156CA083DA740AAE3FD7"
-				"size" "151F70BF80547D5A0387CBD870D6DA54"
-				"download" "81BBFD9F91A290AC7C223628B462E130"
+				"gid" "2971151140792085041"
+				"size" "9181736670"
+				"download" "7857051712"
 			}
 		}
 	}
@@ -316,26 +329,13 @@
 	{
 		"public"
 		{
-			"buildid" "14903420"
-			"timeupdated" "1721894394"
-		}
-		"includesavedata"
-		{
-			"buildid" "9000177"
-			"pwdrequired" "1"
-			"timeupdated" "1656063453"
-		}
-		"test"
-		{
-			"buildid" "9241898"
-			"pwdrequired" "1"
-			"timeupdated" "1659499056"
-		}
-		"test20240702"
-		{
-			"buildid" "14903420"
-			"pwdrequired" "1"
-			"timeupdated" "1719906547"
+			"buildid" "17023626"
+			"timeupdated" "1737698891"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27143970"
+"_sha" "90ae4932d80caddb0788dcf240e8e86263cdc447"
+"_size" "7089"
