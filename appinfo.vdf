@@ -156,7 +156,7 @@
 		"19" "1643"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -192,24 +192,21 @@
 		{
 			"public"
 			{
+				"gid" "4937520340099713754"
+				"size" "933125024"
+				"download" "372952336"
+			}
+			"ea0.8.1-24.12.18"
+			{
 				"gid" "7202372413647466440"
 				"size" "924352970"
 				"download" "359714752"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"develop"
+			"public_test"
 			{
-				"gid" "E68612021EAFA1FBF0048A175F018F9E"
-				"size" "FF3978E126DE0944E7E7B2109B51A7EE"
-				"download" "42BD2BF8173218AD572CADE42F018AF6"
-			}
-			"self"
-			{
-				"gid" "972FF216F8A15E16CCF444A8CCE21874"
-				"size" "E67D0A9A88F2E9844957020F91C64606"
-				"download" "C48CA0170E8F5A839F16BF2E0DC1A394"
+				"gid" "4937520340099713754"
+				"size" "933125024"
+				"download" "372952336"
 			}
 		}
 	}
@@ -217,22 +214,23 @@
 	{
 		"public"
 		{
-			"buildid" "16784265"
-			"timeupdated" "1734518286"
+			"buildid" "17113454"
+			"timeupdated" "1737690558"
 		}
-		"develop"
+		"ea0.8.1-24.12.18"
 		{
 			"buildid" "16784265"
-			"pwdrequired" "1"
-			"timeupdated" "1734512721"
+			"description" "EA版本24年12月18日"
+			"timeupdated" "1737690731"
 		}
-		"self"
+		"public_test"
 		{
-			"buildid" "15898515"
-			"pwdrequired" "1"
-			"timeupdated" "1727851342"
+			"buildid" "17113454"
+			"description" "公开测试分支"
+			"timeupdated" "1737690642"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -253,6 +251,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26693213"
-"_sha" "7a5979152e802849756e09b3659269d7a57e30b4"
-"_size" "4073"
+"_change_number" "27142639"
+"_sha" "65821e7bea580150fb9bfc7528713ef59f5cf943"
+"_size" "4017"
