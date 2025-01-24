@@ -28,6 +28,13 @@
 	"clienticon" "ac80091edf28b8eaf1b0e39e09c2e00e3d67da12"
 	"eulas"
 	{
+		"1"
+		{
+			"id" "280720_eula_1"
+			"name" "Imagine Earth EULA"
+			"url" "https://store.steampowered.com//eula/280720_eula_1"
+			"version" "2"
+		}
 	}
 	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
@@ -99,6 +106,55 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "67.37507432341084"
 			"height_pct" "67.07575591704702"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "67.37507432341084"
+				"height_pct" "67.07575591704702"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1718976040"
@@ -250,6 +306,8 @@
 	"developer" "Serious Bros."
 	"publisher" "Serious Bros."
 	"homepage" "http://www.imagineearth.info"
+	"listofdlc" "3365760"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -305,30 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "6995793169075965887"
-				"size" "1114494484"
-				"download" "945710032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"oldengine"
-			{
-				"gid" "4515214AB37D7315381B313E612D841F"
-				"size" "5247812DDFDA1E2F7E29EA3E25B2AE1D"
-				"download" "9255BA3A245DFE37CF08741B9F96D35D"
-			}
-			"beta"
-			{
-				"gid" "49F5C408487D8F6DC9BD02EDE372F81A"
-				"size" "8A1BAD5295FDC38D5D47708A6E941771"
-				"download" "1D418DE7391847EEF6EA16392C0CA2AA"
-			}
-			"preview"
-			{
-				"gid" "E5F5E739DB8B3720F91711E970F65B66"
-				"size" "97B31E135614F73779B5741018D1E250"
-				"download" "84E64BBBEDEA4C1FCB79FF5F1A914FB9"
+				"gid" "962379786402394775"
+				"size" "1112762920"
+				"download" "951717696"
 			}
 		}
 	}
@@ -342,24 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "1068911688034034173"
-				"size" "1139387462"
-				"download" "949745104"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "1294FB4F8A0E9E9A5FE60679452DE2AA"
-				"size" "AC7D7D4BA1C50092BA887B90C653B64E"
-				"download" "6942C7798E531F4BC067A148A83AB669"
-			}
-			"preview"
-			{
-				"gid" "3E66BC0DAED54E9EF41C8EC752E4EA4F"
-				"size" "7064700AE9B00A54A863C6B8AE627E24"
-				"download" "5B405C3432B485512DAE23F7FCE1350E"
+				"gid" "3863971293747545331"
+				"size" "1137846652"
+				"download" "955795216"
 			}
 		}
 	}
@@ -378,48 +400,16 @@
 				"download" "967490624"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EF3C9F29D2CE74472B2A0FD7E87B3C37"
-				"size" "C6DE9DA0463EE76A8F0283B3D45CCE3C"
-				"download" "31446002468DCAAA3C341CC99623C7DD"
-			}
-			"preview"
-			{
-				"gid" "2E5E34BA4912B100F64F26D9211722DC"
-				"size" "F19E909D2612CFFAE781099FC16705F4"
-				"download" "76260CC1B9FCA5F18B79A52566A38F62"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14985840"
-			"timeupdated" "1720597030"
-		}
-		"oldengine"
-		{
-			"buildid" "4509721"
-			"pwdrequired" "1"
-			"timeupdated" "1578832523"
-		}
-		"beta"
-		{
-			"buildid" "14985840"
-			"pwdrequired" "1"
-			"timeupdated" "1720596370"
-		}
-		"preview"
-		{
-			"buildid" "14985840"
-			"pwdrequired" "1"
-			"timeupdated" "1720597002"
+			"buildid" "17065124"
+			"timeupdated" "1737725140"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -456,6 +446,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24302062"
-"_sha" "78043888a5f96e2ac6cb88f487eb1bb08eb9a456"
-"_size" "8583"
+"_change_number" "27149826"
+"_sha" "995d78dd8f8fc66be51e4a8c539384f1151285c2"
+"_size" "7921"
