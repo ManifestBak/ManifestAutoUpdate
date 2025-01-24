@@ -161,7 +161,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725438879"
+	"store_asset_mtime" "1728560816"
 	"associations"
 	{
 		"0"
@@ -269,7 +269,7 @@
 		"19" "15045"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -296,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "4403008734589981690"
-				"size" "1581787674"
-				"download" "459083888"
+				"gid" "4700491186964441686"
+				"size" "1635024133"
+				"download" "476428128"
 			}
 			"public_beta"
 			{
@@ -306,71 +306,14 @@
 				"size" "1581787674"
 				"download" "459083888"
 			}
-			"preview"
-			{
-				"gid" "2161310424688908757"
-				"size" "1576492973"
-				"download" "457808576"
-			}
-			"revert"
-			{
-				"gid" "8075135000444768045"
-				"size" "1580840883"
-				"download" "488284128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"barelyviable"
-			{
-				"gid" "8CD102C8BFB5C7E7D3608936DDBAD193"
-				"size" "FD3EAFC2071E90F1F8B176736111A558"
-				"download" "F18807E87965C23A078994CC054B6D29"
-			}
-			"devtest"
-			{
-				"gid" "3FEA760BE9A67C52E8CDEDAFFA7A030D"
-				"size" "F31EDAC9E9F1DBC340403C74B36A5459"
-				"download" "4147D028243B32D167FB48F09D71B80F"
-			}
-			"gamescom"
-			{
-				"gid" "D5D475EB8A950941B7D8A8E517BA1234"
-				"size" "5ED3566E1A93BBFC0223B346B3DDF138"
-				"download" "FAF624BC052069AB5DDE03375A650574"
-			}
-			"next_fest_2024"
-			{
-				"gid" "D8CB9BBF7CA37568F4F2D0402925AD89"
-				"size" "A759E37840A1B66EE08F90A1E319A167"
-				"download" "57E52DBD80FFD0A213CE73784AED6988"
-			}
-			"ux_test_archive"
-			{
-				"gid" "441DAA4E64159003FAC8872F024C11FB"
-				"size" "9ADC9357D30EC27C782B2D76EDDFAF7C"
-				"download" "41B2679C1185E0C8A6835C73CE122FB9"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15490059"
-			"timeupdated" "1725398079"
-		}
-		"barelyviable"
-		{
-			"buildid" "10900785"
-			"pwdrequired" "1"
-			"timeupdated" "1691593292"
-		}
-		"devtest"
-		{
-			"buildid" "15490059"
-			"pwdrequired" "1"
-			"timeupdated" "1724653140"
+			"buildid" "17116143"
+			"timeupdated" "1737734322"
 		}
 		"public_beta"
 		{
@@ -378,37 +321,8 @@
 			"description" "experimental features and fixes"
 			"timeupdated" "1724653654"
 		}
-		"gamescom"
-		{
-			"buildid" "11916581"
-			"pwdrequired" "1"
-			"timeupdated" "1691713410"
-		}
-		"next_fest_2024"
-		{
-			"buildid" "13281091"
-			"pwdrequired" "1"
-			"timeupdated" "1706268268"
-		}
-		"ux_test_archive"
-		{
-			"buildid" "12799185"
-			"pwdrequired" "1"
-			"timeupdated" "1704895795"
-		}
-		"preview"
-		{
-			"buildid" "15356798"
-			"description" "experimental features"
-			"timeupdated" "1723562735"
-		}
-		"revert"
-		{
-			"buildid" "14623733"
-			"description" "in case last update broke something"
-			"timeupdated" "1719007949"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -428,3 +342,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27152274"
+"_sha" "dc3af0f0d92d965d1fb0a8fb135a7d51294930cd"
+"_size" "6515"
