@@ -20,6 +20,9 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "392990"
+	"store_tags"
+	{
+	}
 }
 "extended"
 {
@@ -116,18 +119,9 @@
 		{
 			"public"
 			{
-				"gid" "3355246109922287390"
-				"size" "12795406730"
-				"download" "9272418832"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"biggysmalls"
-			{
-				"gid" "EFAFFEDAB981FD195DE3D9B1AB588391"
-				"size" "E265CB2BCC0C30CA64A4541B2891DC01"
-				"download" "E34EE27C5CF00EF684B9BA560332CFBE"
+				"gid" "4385375116656999646"
+				"size" "12801886023"
+				"download" "9280503728"
 			}
 		}
 	}
@@ -135,14 +129,9 @@
 	{
 		"public"
 		{
-			"buildid" "17052275"
-			"timeupdated" "1737233575"
-		}
-		"biggysmalls"
-		{
-			"buildid" "16295461"
-			"pwdrequired" "1"
-			"timeupdated" "1730808205"
+			"buildid" "17098564"
+			"timeupdated" "1737658959"
 		}
 	}
+	"privatebranches" "1"
 }
