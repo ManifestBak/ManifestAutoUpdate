@@ -170,7 +170,7 @@
 		"19" "6052"
 	}
 	"review_score" "8"
-	"review_percentage" "98"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -228,24 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "7907759680489130545"
-				"size" "3173888487"
-				"download" "2316718544"
-			}
-			"experimental"
-			{
-				"gid" "1328495534050240094"
-				"size" "3147712433"
-				"download" "2297916416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "354E08E8A012ED4183A1C221B4AC11FD"
-				"size" "E58C8486E71523E2D8845669A5434959"
-				"download" "A05422BA1ACE5FCFF000D76F3FD05B87"
+				"gid" "8182781329088839041"
+				"size" "3211377907"
+				"download" "2346229856"
 			}
 		}
 	}
@@ -260,24 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "2844332383987694512"
-				"size" "3169052818"
-				"download" "2314262032"
-			}
-			"experimental"
-			{
-				"gid" "8395185911809407197"
-				"size" "3142867451"
-				"download" "2295517744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "A2C282BAEB7316D7CDE9036AB451A10A"
-				"size" "1A72187306E78F7DB2D9A6D3D2E2436A"
-				"download" "3BA4EE5C821EF6D3A0213E0D7832F4AE"
+				"gid" "9209269962682124116"
+				"size" "3206512779"
+				"download" "2343782896"
 			}
 		}
 	}
@@ -292,24 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "3212061512723509804"
-				"size" "3210270115"
-				"download" "2326217360"
-			}
-			"experimental"
-			{
-				"gid" "297786334113179784"
-				"size" "3184248458"
-				"download" "2307421776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-release"
-			{
-				"gid" "DAABEAE712CD0411B978DD4722F8831D"
-				"size" "41292F93DFE8BE140C5F6CF642BC98FE"
-				"download" "52197D61AF77A34E56BAD1039AB88C93"
+				"gid" "2169704933707992815"
+				"size" "3247665196"
+				"download" "2355614304"
 			}
 		}
 	}
@@ -317,22 +272,11 @@
 	{
 		"public"
 		{
-			"buildid" "16800551"
-			"timeupdated" "1734613178"
-		}
-		"experimental"
-		{
-			"buildid" "16625818"
-			"description" "experimental builds"
-			"timeupdated" "1733300160"
-		}
-		"pre-release"
-		{
-			"buildid" "16800551"
-			"pwdrequired" "1"
-			"timeupdated" "1734611320"
+			"buildid" "17120725"
+			"timeupdated" "1737729852"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -382,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26719627"
-"_sha" "3b24c10ddf3b829365b5ea623ca72a6887a13088"
-"_size" "6810"
+"_change_number" "27151089"
+"_sha" "4657b65bc0924a3bb375686f69b594f1678b290e"
+"_size" "5605"
