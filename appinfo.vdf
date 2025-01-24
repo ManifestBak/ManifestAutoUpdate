@@ -14,10 +14,64 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734048000"
+		"tested_build_id" "16232872"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "3"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "8e20853706c9b2f1406100cd2bb35176a2a914c9/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -27,13 +81,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "85.12252042007"
-			"height_pct" "82.29636665875088"
+			"width_pct" "112.51341990581201"
+			"height_pct" "103.48841963888333"
 		}
 	}
 	"library_assets_full"
@@ -42,22 +97,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "bd17c096063f35d8400d945753d69f4c470aa776/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "bd17c096063f35d8400d945753d69f4c470aa776/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "dbc8a6f7caa8ba57c11dfc5e065a5daf1ce161bf/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "dbc8a6f7caa8ba57c11dfc5e065a5daf1ce161bf/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "dbc8a6f7caa8ba57c11dfc5e065a5daf1ce161bf/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -73,19 +135,23 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "85.12252042007"
-				"height_pct" "82.29636665875088"
+				"width_pct" "112.51341990581201"
+				"height_pct" "103.48841963888333"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "2d9e42dff7013ebd9510c1f4b481ef127718bd04/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "2d9e42dff7013ebd9510c1f4b481ef127718bd04/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729466909"
+	"store_asset_mtime" "1737709871"
 	"associations"
 	{
 		"0"
@@ -139,22 +205,22 @@
 	"gameid" "2909110"
 	"store_tags"
 	{
-		"0" "3978"
-		"1" "3843"
+		"0" "3843"
+		"1" "3978"
 		"2" "1667"
 		"3" "1685"
 		"4" "3839"
 		"5" "1721"
 		"6" "3834"
-		"7" "4136"
-		"8" "3942"
-		"9" "4166"
-		"10" "6730"
-		"11" "1695"
+		"7" "4166"
+		"8" "1695"
+		"9" "3942"
+		"10" "4136"
+		"11" "6730"
 		"12" "1673"
 		"13" "21"
-		"14" "19"
-		"15" "3859"
+		"14" "3859"
+		"15" "19"
 		"16" "493"
 		"17" "4106"
 		"18" "1759"
@@ -211,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "9107802580721970709"
-				"size" "8520792882"
-				"download" "7973812240"
+				"gid" "4977231699982958795"
+				"size" "9573657675"
+				"download" "8582998256"
 			}
 		}
 	}
@@ -221,8 +287,8 @@
 	{
 		"public"
 		{
-			"buildid" "16724051"
-			"timeupdated" "1734021311"
+			"buildid" "17116493"
+			"timeupdated" "1737709096"
 		}
 	}
 	"privatebranches" "1"
@@ -246,6 +312,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26614807"
-"_sha" "1581d77c38da56d54e49cbbee016cbfdea436d96"
-"_size" "3815"
+"_change_number" "27146068"
+"_sha" "7aa9d1e05a0742b099623cb199fb41e1471e1ba9"
+"_size" "5727"
