@@ -120,7 +120,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731743379"
+	"store_asset_mtime" "1737625560"
 	"associations"
 	{
 		"0"
@@ -144,15 +144,7 @@
 			"name" "Hypnosis Card"
 		}
 	}
-	"primary_genre" "4"
-	"genres"
-	{
-		"0" "4"
-		"1" "23"
-		"2" "9"
-		"3" "3"
-		"4" "28"
-	}
+	"primary_genre" "0"
 	"category"
 	{
 		"category_2" "1"
@@ -166,15 +158,18 @@
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
@@ -184,14 +179,17 @@
 		"tchinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1729846443"
@@ -204,12 +202,12 @@
 		"1" "6650"
 		"2" "24904"
 		"3" "5611"
-		"4" "4085"
-		"5" "9130"
+		"4" "9130"
+		"5" "4085"
 		"6" "4191"
 		"7" "1666"
-		"8" "597"
-		"9" "791774"
+		"8" "791774"
+		"9" "597"
 		"10" "599"
 		"11" "9"
 		"12" "9551"
@@ -258,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "5307302236447043120"
-				"size" "1165113633"
-				"download" "666124400"
+				"gid" "6815760165110713682"
+				"size" "1165085906"
+				"download" "665983920"
 			}
 		}
 	}
@@ -268,8 +266,8 @@
 	{
 		"public"
 		{
-			"buildid" "16774429"
-			"timeupdated" "1734448547"
+			"buildid" "17106055"
+			"timeupdated" "1737681385"
 		}
 	}
 	"privatebranches" "1"
@@ -293,6 +291,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26680021"
-"_sha" "4e938dadab509fe976d0ea3e9af6f48c83650f7a"
-"_size" "5128"
+"_change_number" "27141023"
+"_sha" "cb959845381dec3117aa82ffb26fe09677bb4a3c"
+"_size" "5191"
