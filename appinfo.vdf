@@ -344,6 +344,8 @@
 }
 "depots"
 {
+	"baselanguages" "english"
+	"workshopdepot" "3177970"
 	"3177971"
 	{
 		"config"
@@ -355,9 +357,9 @@
 		{
 			"public"
 			{
-				"gid" "505260330717893512"
+				"gid" "7735250367132870373"
 				"size" "704351630"
-				"download" "475264528"
+				"download" "475264736"
 			}
 		}
 	}
@@ -372,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "3692994667880907603"
-				"size" "678308693"
-				"download" "456354304"
+				"gid" "6396538250311970820"
+				"size" "678309045"
+				"download" "456359568"
 			}
 		}
 	}
@@ -389,20 +391,21 @@
 		{
 			"public"
 			{
-				"gid" "7270887281104665452"
-				"size" "689304661"
-				"download" "471381392"
+				"gid" "7021663202120297159"
+				"size" "689305006"
+				"download" "471383360"
 			}
 		}
 	}
-	"baselanguages" "english"
-	"workshopdepot" "3177970"
+	"3177974"
+	{
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17102582"
-			"timeupdated" "1737622348"
+			"buildid" "17114789"
+			"timeupdated" "1737694782"
 		}
 	}
 	"privatebranches" "1"
@@ -456,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27126999"
-"_sha" "1d53e4acc2efc4e3221bdf1022b256f194c2a3a2"
-"_size" "8672"
+"_change_number" "27143272"
+"_sha" "5b2c828db6ae03f972834e676519de288f0d9b44"
+"_size" "8693"
