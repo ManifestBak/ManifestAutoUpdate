@@ -65,17 +65,20 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "af839c2b47820f9a305d62e753d927de42d2c4de/capsule_231x87.jpg"
+		"schinese" "dedf62781cce44982c612e7673a0cec0ad04239f/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -89,11 +92,13 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "f1342ba9b2a504713e54720d7a6768a8c0f38d7b/library_600x900.jpg"
+				"schinese" "51e26820c7b1a8adc45ca8c95b92f18ab9879d80/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "f1342ba9b2a504713e54720d7a6768a8c0f38d7b/library_600x900_2x.jpg"
+				"schinese" "51e26820c7b1a8adc45ca8c95b92f18ab9879d80/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -120,8 +125,21 @@
 				"english" "logo_2x.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "03813ce1b48c5d4fe5d1633713daf8016f1a907f/library_header.jpg"
+				"schinese" "ef31dc5e3a77ceb0055a3c27b50f88ab6ecde882/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "03813ce1b48c5d4fe5d1633713daf8016f1a907f/library_header_2x.jpg"
+				"schinese" "ef31dc5e3a77ceb0055a3c27b50f88ab6ecde882/library_header_schinese_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1732875643"
+	"store_asset_mtime" "1737520198"
 	"associations"
 	{
 		"0"
@@ -237,9 +255,9 @@
 		{
 			"public"
 			{
-				"gid" "694548747668105371"
+				"gid" "2453840500286462396"
 				"size" "22453796446"
-				"download" "10388852480"
+				"download" "10388854912"
 			}
 			"legacy_version"
 			{
@@ -249,9 +267,9 @@
 			}
 			"preview_version"
 			{
-				"gid" "694548747668105371"
+				"gid" "2453840500286462396"
 				"size" "22453796446"
-				"download" "10388852480"
+				"download" "10388854912"
 			}
 			"test_version"
 			{
@@ -267,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "17019580"
-			"timeupdated" "1737424212"
+			"buildid" "17099977"
+			"timeupdated" "1737701645"
 		}
 		"legacy_version"
 		{
@@ -279,9 +297,9 @@
 		}
 		"preview_version"
 		{
-			"buildid" "17019580"
+			"buildid" "17099977"
 			"description" "先锋版"
-			"timeupdated" "1737084480"
+			"timeupdated" "1737701603"
 		}
 		"test_version"
 		{
@@ -298,6 +316,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27085571"
-"_sha" "3e2a3e1bf0018b3c2faed5e671e0ef118461cb86"
-"_size" "5527"
+"_change_number" "27144443"
+"_sha" "d54cc5364512915c29e23706a2d62bbb60e51b37"
+"_size" "6412"
