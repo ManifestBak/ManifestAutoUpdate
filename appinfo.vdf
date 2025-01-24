@@ -25,10 +25,54 @@
 		"tchinese" "1"
 		"japanese" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1737676800"
+		"tested_build_id" "17074667"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "08484b59b467a5de1ea9e487d169705b8601aee3/capsule_231x87.jpg"
+		"english" "d0afc51e3d96676a6d3bf76db32cb1c8c83ed6b5/capsule_231x87.jpg"
 		"schinese" "76d597f2f9e2a5248a297b495f3661e474314b80/capsule_231x87_schinese.jpg"
 		"tchinese" "a07f8561a9a1549b0f951ace9a947c729a99fb9f/capsule_231x87_tchinese.jpg"
 		"koreana" "2bccc791d73380b2852b203403703dce9e22a32c/capsule_231x87_koreana.jpg"
@@ -61,7 +105,7 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "4b939abba0dfa9794bf937c10acb1800c89f4771/library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 				"tchinese" "library_600x900_tchinese.jpg"
 				"koreana" "library_600x900_koreana.jpg"
@@ -69,7 +113,7 @@
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "4b939abba0dfa9794bf937c10acb1800c89f4771/library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 				"tchinese" "library_600x900_tchinese_2x.jpg"
 				"koreana" "library_600x900_koreana_2x.jpg"
@@ -124,11 +168,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "5c3738a56931d1601970d689ddd2ecd38e7c5d4b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5c3738a56931d1601970d689ddd2ecd38e7c5d4b/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1732860843"
+	"store_asset_mtime" "1737261622"
 	"associations"
 	{
 		"0"
@@ -142,6 +190,11 @@
 			"name" "Rogue Duck Interactive"
 		}
 		"2"
+		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
+		"3"
 		{
 			"type" "franchise"
 			"name" "RDI Strategy Games"
@@ -266,7 +319,7 @@
 		"19" "4202"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -317,9 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "7407991061581972505"
-				"size" "1167431563"
-				"download" "187279648"
+				"gid" "5230087607302831402"
+				"size" "1167417091"
+				"download" "187275264"
+			}
+			"beta"
+			{
+				"gid" "5230087607302831402"
+				"size" "1167417091"
+				"download" "187275264"
 			}
 		}
 	}
@@ -333,9 +392,15 @@
 		{
 			"public"
 			{
-				"gid" "6531617245901613515"
-				"size" "1191756501"
-				"download" "194480896"
+				"gid" "2070276104610821497"
+				"size" "1191742030"
+				"download" "194477072"
+			}
+			"beta"
+			{
+				"gid" "2070276104610821497"
+				"size" "1191742030"
+				"download" "194477072"
 			}
 		}
 	}
@@ -349,9 +414,15 @@
 		{
 			"public"
 			{
-				"gid" "2920272507066954817"
-				"size" "1168279203"
-				"download" "187028784"
+				"gid" "2305570721189570949"
+				"size" "1168264731"
+				"download" "187023888"
+			}
+			"beta"
+			{
+				"gid" "2305570721189570949"
+				"size" "1168264731"
+				"download" "187023888"
 			}
 		}
 	}
@@ -359,8 +430,14 @@
 	{
 		"public"
 		{
-			"buildid" "17032942"
-			"timeupdated" "1737106476"
+			"buildid" "17074667"
+			"timeupdated" "1737681955"
+		}
+		"beta"
+		{
+			"buildid" "17074667"
+			"description" "Beta stating branch for Lost But Found usually full of bugs"
+			"timeupdated" "1737447619"
 		}
 	}
 }
@@ -421,6 +498,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27039805"
-"_sha" "e10632138bacc7926aa8f0ed496c455c0216ec73"
-"_size" "7958"
+"_change_number" "27141095"
+"_sha" "e84e8fe83a86adb4972fe30cea09dc3dd184a86d"
+"_size" "9857"
