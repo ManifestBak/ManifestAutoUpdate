@@ -4,8 +4,8 @@
 	"name" "轮回之境"
 	"type" "Game"
 	"icon" "071c4c1f479fe8caa7e03dc5c1c91c48e7878d87"
-	"clienticon" "b15f123bacd1e346b08d0c5bc0b8fe59c4596338"
-	"clienttga" "12cb5e7e1af27d7585703b038b8809b5df0376d4"
+	"clienticon" "85145b4462ca4f3808a52526f989050b7276c989"
+	"clienttga" "b2f2bf5c51ec077bca97c268a1c7a9a94715dce2"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
@@ -176,7 +176,7 @@
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -225,9 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "195690294464616045"
-				"size" "4531556599"
-				"download" "4362152352"
+				"gid" "3137902205445507751"
+				"size" "4561042309"
+				"download" "4391146608"
 			}
 		}
 	}
@@ -235,8 +235,8 @@
 	{
 		"public"
 		{
-			"buildid" "16906736"
-			"timeupdated" "1736005521"
+			"buildid" "17120853"
+			"timeupdated" "1737729753"
 		}
 	}
 }
@@ -256,6 +256,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26871798"
-"_sha" "ff6a5faaf0102168c1989e7ee6b240f243ee871c"
-"_size" "4803"
+"_change_number" "27151158"
+"_sha" "32739870f35768934e6b0ac0daf9761fe75f4d7c"
+"_size" "4804"
