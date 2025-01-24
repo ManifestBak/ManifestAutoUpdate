@@ -130,7 +130,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731418298"
+	"store_asset_mtime" "1733929200"
 	"associations"
 	{
 		"0"
@@ -175,6 +175,10 @@
 		{
 			"supported" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1670338820"
 	"metacritic_score" "89"
@@ -206,7 +210,7 @@
 		"19" "4520"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -246,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "2254807606962703434"
-				"size" "717072845"
-				"download" "517662176"
+				"gid" "5363121047026577259"
+				"size" "730452931"
+				"download" "521601936"
 			}
 			"legacyearlyaccess"
 			{
@@ -258,15 +262,15 @@
 			}
 			"32bit_version"
 			{
-				"gid" "7602099724215149887"
-				"size" "717073869"
-				"download" "517662640"
+				"gid" "6885899565264464929"
+				"size" "730453443"
+				"download" "521601552"
 			}
 			"experimental"
 			{
-				"gid" "755787625633679377"
-				"size" "717072845"
-				"download" "517662064"
+				"gid" "3484198488733705667"
+				"size" "730452931"
+				"download" "521602480"
 			}
 		}
 	}
@@ -274,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "16600536"
-			"timeupdated" "1733142832"
+			"buildid" "17110094"
+			"timeupdated" "1737709936"
 		}
 		"legacyearlyaccess"
 		{
@@ -285,15 +289,15 @@
 		}
 		"32bit_version"
 		{
-			"buildid" "16600595"
+			"buildid" "17110122"
 			"description" "for compatibility"
-			"timeupdated" "1733142790"
+			"timeupdated" "1737709870"
 		}
 		"experimental"
 		{
-			"buildid" "16600343"
+			"buildid" "17109884"
 			"description" "Unstable and may break saves.  Use for testing latest only"
-			"timeupdated" "1733141110"
+			"timeupdated" "1737662046"
 		}
 	}
 }
@@ -318,6 +322,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26452246"
-"_sha" "8e7b8c23b77ae1da5d26a7e2048b39e069507667"
-"_size" "5958"
+"_change_number" "27146069"
+"_sha" "b52fa36952e2b79b43a508dfb326ee3f29d9e550"
+"_size" "6005"
