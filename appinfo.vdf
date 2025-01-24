@@ -181,7 +181,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732938474"
+	"store_asset_mtime" "1737688942"
 	"associations"
 	{
 		"0"
@@ -197,6 +197,11 @@
 		"2"
 		{
 			"type" "publisher"
+			"name" "Erabit"
+		}
+		"3"
+		{
+			"type" "franchise"
 			"name" "Erabit"
 		}
 	}
@@ -249,8 +254,8 @@
 	{
 		"0" "597"
 		"1" "599"
-		"2" "122"
-		"3" "7208"
+		"2" "7208"
+		"3" "122"
 		"4" "4195"
 		"5" "10235"
 		"6" "5984"
@@ -305,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "8792727121167171644"
-				"size" "4274652042"
-				"download" "425354512"
+				"gid" "2740190853627436584"
+				"size" "4808268903"
+				"download" "453537104"
 			}
 		}
 	}
@@ -315,8 +320,8 @@
 	{
 		"public"
 		{
-			"buildid" "16853875"
-			"timeupdated" "1735209754"
+			"buildid" "17117746"
+			"timeupdated" "1737713420"
 		}
 	}
 }
@@ -340,6 +345,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26787824"
-"_sha" "747c9c918734cc0a695d40b3600e5fa7cf25c6d7"
-"_size" "7868"
+"_change_number" "27146939"
+"_sha" "7dd230f07ae15b18b286f13d5a6d127fab432fad"
+"_size" "7930"
