@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "8774945825351673587"
-				"size" "693581979"
-				"download" "357353136"
+				"gid" "7857250607195952155"
+				"size" "693583609"
+				"download" "357350656"
 			}
 			"backwards"
 			{
@@ -435,33 +435,6 @@
 				"download" "357445072"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"angel"
-			{
-				"gid" "52F20E73AE896EFB5528BF3B34F2E894"
-				"size" "1441144ED489A1B166BDCB40AA1B6ECC"
-				"download" "573BA019B336419541DDFE74B4586C1B"
-			}
-			"devel"
-			{
-				"gid" "A4BCB384F2BD6435031DE178A8A8357B"
-				"size" "3611C85A5EDF60C6B1BEC24574327776"
-				"download" "C588323061E4D7A16DD327725DC69878"
-			}
-			"smoke"
-			{
-				"gid" "8DF35B5A249CD4F3C9CA25A31E39526E"
-				"size" "0D62F06AD9FCA9C3EAC3983064C976F5"
-				"download" "1C653104D6E61729239564C3845315C8"
-			}
-			"staging"
-			{
-				"gid" "F2E224F5E108875EDF43F9D80FB28617"
-				"size" "62CD90B4236150BEF003B45718DE83BA"
-				"download" "D769328A79F376148953E0C705C44C99"
-			}
-		}
 	}
 	"1124183"
 	{
@@ -474,9 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "8102747447968613489"
-				"size" "744722487"
-				"download" "369404400"
+				"gid" "4430353774221150592"
+				"size" "744723707"
+				"download" "369405712"
 			}
 			"backwards"
 			{
@@ -563,33 +536,6 @@
 				"download" "369403632"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"angel"
-			{
-				"gid" "CF8FFD3BB1DBE360570460B98FECCCFB"
-				"size" "D0C7E29745A150580DA75554CA72FE17"
-				"download" "C74201A1F229EFE3D98729FCF4FB833B"
-			}
-			"devel"
-			{
-				"gid" "ECE942D69903275F5F2D641157722F07"
-				"size" "0D796E0EC9417F40F79A45BFE0460DAC"
-				"download" "7308F3DFDBCE2DB4C09B58F98A082500"
-			}
-			"smoke"
-			{
-				"gid" "A1226C746C5CEDE09FB30AC812AB12E6"
-				"size" "60789D301F3CF5CB6C059DB7DE89BA51"
-				"download" "2246DE7910B94316EED5F299C796B303"
-			}
-			"staging"
-			{
-				"gid" "719D6DD4DE09ECBE486C41484D286AEC"
-				"size" "5C6C688C86AFBF3DE5D0FA1034F4880E"
-				"download" "0DA1AB6861CBE4F243F85D989D6DB074"
-			}
-		}
 	}
 	"1124184"
 	{
@@ -602,9 +548,9 @@
 		{
 			"public"
 			{
-				"gid" "1404047791178513852"
-				"size" "722982906"
-				"download" "354677488"
+				"gid" "256942132423676792"
+				"size" "722984427"
+				"download" "354677760"
 			}
 			"backwards"
 			{
@@ -691,59 +637,20 @@
 				"download" "354753024"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"angel"
-			{
-				"gid" "94F999D488E1141F3D3E30812FDDDD2E"
-				"size" "7DF6E28BEFB063D93B63908CF49B3D9B"
-				"download" "485BCFFB1EFCDB808BAB33C9EC8F79C6"
-			}
-			"devel"
-			{
-				"gid" "675C2C0308189E49103258AA90AB0E59"
-				"size" "645534F78D3E9957016ECEFDE7051E80"
-				"download" "91778F98DE43BB6C9B375B65EBF8035C"
-			}
-			"smoke"
-			{
-				"gid" "ACA80BAA3F1143FD7BBC7A3A2FD68486"
-				"size" "897B0AFC135461282C4E0BE20D132CC2"
-				"download" "4DA14E2575C8550DC1A5303BA55C298F"
-			}
-			"staging"
-			{
-				"gid" "567ED5A675B6B1CD221973006357ED59"
-				"size" "578101E9CEB99A46C7AC674892AE4964"
-				"download" "176168180643D42DBD3E2634BB28B6FF"
-			}
-		}
 	}
 	"workshopdepot" "1124180"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16584054"
-			"timeupdated" "1733130902"
-		}
-		"angel"
-		{
-			"buildid" "10619431"
-			"pwdrequired" "1"
-			"timeupdated" "1677511507"
+			"buildid" "17079465"
+			"timeupdated" "1737725956"
 		}
 		"backwards"
 		{
 			"buildid" "14562081"
 			"description" "Previous version"
 			"timeupdated" "1729494278"
-		}
-		"devel"
-		{
-			"buildid" "16584054"
-			"pwdrequired" "1"
-			"timeupdated" "1732922968"
 		}
 		"ea_00"
 		{
@@ -823,19 +730,8 @@
 			"description" "Update 1 (2.1.21)"
 			"timeupdated" "1728916292"
 		}
-		"smoke"
-		{
-			"buildid" "16820188"
-			"pwdrequired" "1"
-			"timeupdated" "1734737846"
-		}
-		"staging"
-		{
-			"buildid" "16820188"
-			"pwdrequired" "1"
-			"timeupdated" "1734741043"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -914,6 +810,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26839475"
-"_sha" "22a846de387a57dd9254076e432e90109ebf3e42"
-"_size" "17333"
+"_change_number" "27150035"
+"_sha" "71c62d3b7efd2259581c532d641c2c36bceec4c7"
+"_size" "14787"
