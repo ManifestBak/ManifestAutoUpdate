@@ -221,6 +221,15 @@
 }
 "depots"
 {
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"baselanguages" "english,schinese"
 	"hasdepotsindlc" "1"
 	"2264821"
@@ -233,9 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "2515510074669828660"
-				"size" "985369385"
-				"download" "891246016"
+				"gid" "431366570380589148"
+				"size" "989475513"
+				"download" "895111264"
 			}
 		}
 	}
@@ -249,9 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "2657801017408282583"
-				"size" "1133527704"
-				"download" "949969920"
+				"gid" "4233797725430876698"
+				"size" "1137441824"
+				"download" "953722112"
 			}
 		}
 	}
@@ -259,8 +268,8 @@
 	{
 		"public"
 		{
-			"buildid" "17077012"
-			"timeupdated" "1737460340"
+			"buildid" "17119014"
+			"timeupdated" "1737720065"
 		}
 	}
 }
@@ -270,6 +279,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27092434"
-"_sha" "e353584263e831e21e8b1be2d482f96af3e991ee"
-"_size" "5399"
+"_change_number" "27148541"
+"_sha" "8a8280e801a12b683610b6f01a78de95ec4057d4"
+"_size" "5515"
