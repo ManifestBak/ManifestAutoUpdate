@@ -144,7 +144,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1712800132"
+	"store_asset_mtime" "1737527031"
 	"associations"
 	{
 		"0"
@@ -226,14 +226,14 @@
 		"15" "4295"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
 	"developer" "Virtua Ride System"
 	"publisher" "Neverland Entertainment"
 	"homepage" "https://vrsgame.com/]VRS Studio"
-	"listofdlc" "2916920"
+	"listofdlc" "2916920,3313620"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -328,42 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "8410325940858175328"
-				"size" "747535872"
-				"download" "603151200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
-			{
-				"gid" "1E101F108AA02559184A6C4503FD96B0"
-				"size" "902DAA4DCF29790AA0B99A5CCD6A82ED"
-				"download" "F40BBE959226F8EC18F9CD94E5E85F28"
-			}
-			"salttest"
-			{
-				"gid" "C6827F0C5A60678F048D393AD2F498AF"
-				"size" "17AC54F3BBFA2395CE996D348E538F69"
-				"download" "BE9D57E3B59BD134FFE05D58367EBF1B"
-			}
-			"version"
-			{
-				"gid" "2E98879B4CD60DBAFB77505B051B2DDA"
-				"size" "00A894C432B42AB51E6030504409D768"
-				"download" "EE226F5352BF172F7CBB37AA4AF5C75F"
-			}
-			"authtest"
-			{
-				"gid" "381ACD07719C731E6D95B5FAE5A0B2B1"
-				"size" "F046B61561DA764C2481CA399A1031B5"
-				"download" "9ECC2ECCC94EE303DA2B3832C380ACB6"
-			}
-			"noenigma"
-			{
-				"gid" "DC0C00B40810B4BDC48EEB9F217D5180"
-				"size" "E7013F07D386DF1E59BFFDE0D0DDC769"
-				"download" "93358B5933F4F8E836004E5FB4725861"
+				"gid" "4653367997641085659"
+				"size" "772709376"
+				"download" "624585136"
 			}
 		}
 	}
@@ -379,19 +346,17 @@
 				"download" "69567856"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"3313620"
+	{
+		"dlcappid" "3313620"
+		"manifests"
 		{
-			"authtest"
+			"public"
 			{
-				"gid" "C61715A4472D90309B1146061C511C4C"
-				"size" "C80586F20A9475CD2A47CD8696B6CABB"
-				"download" "4478EC908E138DD183189654834B4848"
-			}
-			"noenigma"
-			{
-				"gid" "05C72E41C09865DE8C0B2D41F08F3642"
-				"size" "7B26FC6DD8CA7D2D9A401DBF33D5DACB"
-				"download" "C463FC657D52EB7F70C5F21AF5B3AA61"
+				"gid" "2905298512846234250"
+				"size" "783408408"
+				"download" "634958144"
 			}
 		}
 	}
@@ -399,40 +364,11 @@
 	{
 		"public"
 		{
-			"buildid" "14732311"
-			"timeupdated" "1718511112"
-		}
-		"demo"
-		{
-			"buildid" "13766683"
-			"pwdrequired" "1"
-			"timeupdated" "1710742182"
-		}
-		"salttest"
-		{
-			"buildid" "11078022"
-			"pwdrequired" "1"
-			"timeupdated" "1682351317"
-		}
-		"version"
-		{
-			"buildid" "14124322"
-			"pwdrequired" "1"
-			"timeupdated" "1713695682"
-		}
-		"authtest"
-		{
-			"buildid" "14732311"
-			"pwdrequired" "1"
-			"timeupdated" "1718510544"
-		}
-		"noenigma"
-		{
-			"buildid" "14732319"
-			"pwdrequired" "1"
-			"timeupdated" "1718510553"
+			"buildid" "17101403"
+			"timeupdated" "1737683269"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -448,3 +384,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27141494"
+"_sha" "173bf7dbbfa5c0b518c436ebbfc13fc94f659f88"
+"_size" "6969"
