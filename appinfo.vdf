@@ -228,18 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "7172437895241042111"
-				"size" "1368900408"
-				"download" "1361354496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devonly"
-			{
-				"gid" "77DAC3F67E2EE67C58C1A1939780E47B"
-				"size" "8C756DD7054DFE0E063224B4B366797A"
-				"download" "0CAE58107C62806E7787CAB6AD89C638"
+				"gid" "8758995611802294011"
+				"size" "1376134324"
+				"download" "1368653040"
 			}
 		}
 	}
@@ -266,30 +257,16 @@
 				"download" "1363106672"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devonly"
-			{
-				"gid" "FA0125E4B50C266E4F15D0F1F54BFD97"
-				"size" "D815925F29CAA14F7F08D3452538FE22"
-				"download" "D14C9D4F379C6EF92CBA229236F48163"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16880843"
-			"timeupdated" "1735639314"
-		}
-		"devonly"
-		{
-			"buildid" "16801644"
-			"pwdrequired" "1"
-			"timeupdated" "1734617112"
+			"buildid" "17107727"
+			"timeupdated" "1737649174"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -321,6 +298,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26824770"
-"_sha" "f417ffd88f82a3de91f41910149f1a2ddfa26d45"
-"_size" "5570"
+"_change_number" "27133961"
+"_sha" "15e4eaefc7f29846c7b781866dc754527c854852"
+"_size" "5077"
