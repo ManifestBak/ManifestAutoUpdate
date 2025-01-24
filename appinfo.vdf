@@ -384,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "7540515497147530633"
-				"size" "2274391873"
-				"download" "1581921616"
+				"gid" "7002691389580634883"
+				"size" "2274391871"
+				"download" "1581921632"
 			}
 			"console-crossplay"
 			{
@@ -396,48 +396,9 @@
 			}
 			"public-test-realm"
 			{
-				"gid" "7540515497147530633"
-				"size" "2274391873"
-				"download" "1581921616"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop-release-build"
-			{
-				"gid" "92A32B455CBC087ECCD3F4595C409FB7"
-				"size" "B485363849D2574AC43FFCCA69FF0BCF"
-				"download" "D7BB86D1236F5C7BA3D389406CE3D2DE"
-			}
-			"balancing"
-			{
-				"gid" "B72878F2A06C68548D336465CAA34A07"
-				"size" "A5C9CD21FA1AA3CD33BE612045E37C86"
-				"download" "4EF64BA47AFD1CC999CF301C2ABF76B1"
-			}
-			"prototype"
-			{
-				"gid" "F8FD757AABB1EBFE83F6017253E0FD7F"
-				"size" "E1B2A3D42E8B21DCA8407C3C0328D8CD"
-				"download" "AF63CD1DB2D2683786A843D475E8DBEF"
-			}
-			"pre-master"
-			{
-				"gid" "FE5A7A19D1023E3185E17E879D66D9C3"
-				"size" "CD39A4BF9B275F1A5F6A50D9C8603B22"
-				"download" "D1FB26BA5A8C65B020D923798B25891B"
-			}
-			"hillar"
-			{
-				"gid" "3D6ABDFD7609E1B9DB2B298ADC8F9295"
-				"size" "9BFF6193402F7BC98190E71729E205E4"
-				"download" "F44194DAABFE07A669F3BCE8AAEB95D2"
-			}
-			"develop"
-			{
-				"gid" "5B998FAAE756FACDA2F41BDE1C5D47EC"
-				"size" "228AFB01DB71E28874652BF56D37A043"
-				"download" "CD2ACBBE02F8E499602922D50F7A3129"
+				"gid" "7002691389580634883"
+				"size" "2274391871"
+				"download" "1581921632"
 			}
 		}
 	}
@@ -451,9 +412,9 @@
 		{
 			"public"
 			{
-				"gid" "7095357618499909756"
-				"size" "2359595366"
-				"download" "1601142256"
+				"gid" "5231574829852973610"
+				"size" "2359595375"
+				"download" "1601142048"
 			}
 			"console-crossplay"
 			{
@@ -463,48 +424,9 @@
 			}
 			"public-test-realm"
 			{
-				"gid" "7095357618499909756"
-				"size" "2359595366"
-				"download" "1601142256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop-release-build"
-			{
-				"gid" "5FFE7041C7ADCE3B6B3F646B6B239005"
-				"size" "467D97137C93383B6D5EBDFF6CC2940C"
-				"download" "AE7BC81A98AC5C45CD1AC976363B8CD4"
-			}
-			"balancing"
-			{
-				"gid" "966332A9DF15EFE83FD9EAE70402A61E"
-				"size" "1BE2DB95D43A1E584C60CC76E268A9BA"
-				"download" "A4D5F885419DC66D11A9A34BB8244FA6"
-			}
-			"prototype"
-			{
-				"gid" "307A8AA5F372B4BF8E005C36245B4296"
-				"size" "40916DB13CAB992CC1EAE5FD3076C995"
-				"download" "09CEDEF5E325DB47F2F8EFBAEF7E78D2"
-			}
-			"pre-master"
-			{
-				"gid" "CF7FBDB6D3C0E3741F761232719011F0"
-				"size" "7587FB630161DCBE2702A5E7FF0D5728"
-				"download" "3094730A2C90FB39F1602CF679DDB9C8"
-			}
-			"hillar"
-			{
-				"gid" "CDE19BF0EA57D337AC1B2D9F9B7A17CF"
-				"size" "1E7B82F76EADABDC6F2C9DED99DB1823"
-				"download" "FB941A4A7EA98B89EF12C9C511056FC1"
-			}
-			"develop"
-			{
-				"gid" "84490614FD816CFD1868D800E97599E3"
-				"size" "4F4FC3A6693D0F511D821F19E3227100"
-				"download" "4FAD5F449547BE1A204653CEFB8E9B4F"
+				"gid" "5231574829852973610"
+				"size" "2359595375"
+				"download" "1601142048"
 			}
 		}
 	}
@@ -536,46 +458,13 @@
 				"download" "156948144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"develop-release-build"
-			{
-				"gid" "36F167739F810464AE533C1E341EAD64"
-				"size" "D0BFFA0FB6A4CC660490F2A0718C44F6"
-				"download" "E5424E5AC70EDEE0C10FAAC337494064"
-			}
-			"balancing"
-			{
-				"gid" "AFF4911282C229A66C3DC8331C80186D"
-				"size" "117D49F26400FA4AA7CB989246D49946"
-				"download" "77331941A8EABF0A2F162AB69EBB759D"
-			}
-			"pre-master"
-			{
-				"gid" "F3EADC2E4C6E42E37503AC8E4C2AA464"
-				"size" "F26320DE071F4AE3D33EE9DCDA8517E0"
-				"download" "634E3C2D403C6D44C67F96DC06692879"
-			}
-			"hillar"
-			{
-				"gid" "A8233067229B9FF4E865022F4DEB2970"
-				"size" "03716A749BAED0FF946C43CA52EE2F68"
-				"download" "91C6CAB3C1314C31504C06139FE34CA9"
-			}
-			"develop"
-			{
-				"gid" "76CC9E0B1B1A2721957E22ECC3AD2946"
-				"size" "B03E898B2B9CDB183D4E1D968BB120D1"
-				"download" "7C92985695900AAC2D20A377971E613D"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16990168"
-			"timeupdated" "1736849327"
+			"buildid" "17118774"
+			"timeupdated" "1737722692"
 		}
 		"console-crossplay"
 		{
@@ -583,49 +472,14 @@
 			"description" "Branch that keeps the game at the same version as on consoles"
 			"timeupdated" "1733220427"
 		}
-		"develop-release-build"
-		{
-			"buildid" "16999358"
-			"pwdrequired" "1"
-			"timeupdated" "1736856642"
-		}
-		"balancing"
-		{
-			"buildid" "16900625"
-			"pwdrequired" "1"
-			"timeupdated" "1735921124"
-		}
-		"prototype"
-		{
-			"buildid" "3411604"
-			"pwdrequired" "1"
-			"timeupdated" "1545209121"
-		}
-		"pre-master"
-		{
-			"buildid" "16990168"
-			"pwdrequired" "1"
-			"timeupdated" "1736792946"
-		}
-		"hillar"
-		{
-			"buildid" "16925707"
-			"pwdrequired" "1"
-			"timeupdated" "1736238406"
-		}
-		"develop"
-		{
-			"buildid" "16998917"
-			"pwdrequired" "1"
-			"timeupdated" "1736854199"
-		}
 		"public-test-realm"
 		{
-			"buildid" "16990168"
+			"buildid" "17118774"
 			"description" "Experimental branch where you can test the next version or patch before it goes live"
-			"timeupdated" "1736849169"
+			"timeupdated" "1737722646"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -738,6 +592,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26989085"
-"_sha" "ab0cf22276d1b30f19822de2698ee3c12357ecda"
-"_size" "14714"
+"_change_number" "27150631"
+"_sha" "02ab883bfc489f270b7ae83bda5c49eef0bfa870"
+"_size" "10995"
