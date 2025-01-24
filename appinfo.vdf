@@ -136,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734343248"
+	"store_asset_mtime" "1737114287"
 	"associations"
 	{
 		"0"
@@ -254,9 +254,9 @@
 	"gameid" "1874880"
 	"store_tags"
 	{
-		"0" "599"
-		"1" "19"
-		"2" "4168"
+		"0" "4168"
+		"1" "599"
+		"2" "19"
 		"3" "1774"
 		"4" "4175"
 		"5" "9"
@@ -267,8 +267,8 @@
 		"10" "1678"
 		"11" "1708"
 		"12" "1697"
-		"13" "1695"
-		"14" "3859"
+		"13" "3859"
+		"14" "1695"
 		"15" "6730"
 		"16" "1775"
 		"17" "5179"
@@ -276,7 +276,7 @@
 		"19" "1669"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -321,9 +321,7 @@
 }
 "depots"
 {
-	"workshopdepot" "1874880"
-	"baselanguages" "english"
-	"228988"
+	"228989"
 	{
 		"config"
 		{
@@ -332,6 +330,8 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"workshopdepot" "1874880"
+	"baselanguages" "english"
 	"1874881"
 	{
 		"config"
@@ -343,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "1956496959226653079"
-				"size" "20277670757"
-				"download" "15301871424"
+				"gid" "5645093370617270280"
+				"size" "20280366216"
+				"download" "15309108480"
 			}
 		}
 	}
@@ -370,8 +370,8 @@
 	{
 		"public"
 		{
-			"buildid" "16964026"
-			"timeupdated" "1736510763"
+			"buildid" "17077707"
+			"timeupdated" "1737724297"
 		}
 	}
 	"privatebranches" "1"
@@ -382,6 +382,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26940708"
-"_sha" "fd5051f7a9b0332d60378aaa4a357bef896afd6e"
+"_change_number" "27149588"
+"_sha" "14bd779a057250b2df351127fd14322c01e9e608"
 "_size" "6469"
