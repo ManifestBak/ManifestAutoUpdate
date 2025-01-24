@@ -283,7 +283,7 @@
 		"19" "1770"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -330,15 +330,15 @@
 		{
 			"public"
 			{
-				"gid" "5815680459422315952"
-				"size" "2428592433"
-				"download" "463708784"
+				"gid" "3931731888212335057"
+				"size" "2428558040"
+				"download" "463707504"
 			}
 			"staging"
 			{
-				"gid" "5815680459422315952"
-				"size" "2428592433"
-				"download" "463708784"
+				"gid" "3931731888212335057"
+				"size" "2428558040"
+				"download" "463707504"
 			}
 		}
 	}
@@ -352,15 +352,15 @@
 		{
 			"public"
 			{
-				"gid" "2055407198060120263"
+				"gid" "4674902372682223555"
 				"size" "2455050270"
-				"download" "471326976"
+				"download" "471327872"
 			}
 			"staging"
 			{
-				"gid" "2055407198060120263"
+				"gid" "4674902372682223555"
 				"size" "2455050270"
-				"download" "471326976"
+				"download" "471327872"
 			}
 		}
 	}
@@ -374,15 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "7794677841956434570"
-				"size" "2435768196"
-				"download" "463797248"
+				"gid" "9192710053255792138"
+				"size" "2435734182"
+				"download" "463795152"
 			}
 			"staging"
 			{
-				"gid" "7794677841956434570"
-				"size" "2435768196"
-				"download" "463797248"
+				"gid" "9192710053255792138"
+				"size" "2435734182"
+				"download" "463795152"
 			}
 		}
 	}
@@ -390,14 +390,14 @@
 	{
 		"public"
 		{
-			"buildid" "16983442"
-			"timeupdated" "1737259742"
+			"buildid" "17118903"
+			"timeupdated" "1737719999"
 		}
 		"staging"
 		{
-			"buildid" "16983442"
+			"buildid" "17118903"
 			"description" "staging branch of NEODuel, usually full of bugs!"
-			"timeupdated" "1736739639"
+			"timeupdated" "1737719997"
 		}
 	}
 }
@@ -449,6 +449,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27061155"
-"_sha" "2bf93b68c5c11f36ca9297f7b11771f209863968"
+"_change_number" "27148525"
+"_sha" "84e1b6be60ff4a63c2fdbaeadb7ba2bc9adeb8a3"
 "_size" "9056"
