@@ -211,25 +211,25 @@
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "21"
-		"2" "1664"
+		"1" "9551"
+		"2" "1721"
 		"3" "1663"
-		"4" "1667"
-		"5" "4191"
-		"6" "4947"
-		"7" "1742"
+		"4" "1664"
+		"5" "21"
+		"6" "1667"
+		"7" "4191"
 		"8" "1659"
-		"9" "4064"
-		"10" "10808"
-		"11" "4182"
-		"12" "5984"
-		"13" "6971"
-		"14" "10679"
-		"15" "6378"
-		"16" "1721"
-		"17" "122"
-		"18" "3839"
-		"19" "11014"
+		"9" "10808"
+		"10" "4182"
+		"11" "5984"
+		"12" "6971"
+		"13" "10679"
+		"14" "122"
+		"15" "3839"
+		"16" "1774"
+		"17" "4064"
+		"18" "1742"
+		"19" "4947"
 	}
 	"review_score" "8"
 	"review_percentage" "81"
@@ -343,36 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "8903056913616950771"
-				"size" "10534248971"
-				"download" "5979823632"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"oldversion"
-			{
-				"gid" "4504A1B6326EC41B74A9E7124342CBFC"
-				"size" "E5A5EE89F2E38E53E090BB7E95395EEE"
-				"download" "1C445DDA753DA03E34CE72FAEB57C5CA"
-			}
-			"qqtest"
-			{
-				"gid" "31A6DC2521877436A3B39C8FD0236DF6"
-				"size" "69F5F7A211A40504385D1DBE5C5F4E38"
-				"download" "E042076D0393CCB56BAF787820574FAB"
-			}
-			"test"
-			{
-				"gid" "E7A39667C8354B005E1A8ED3F0079F61"
-				"size" "1F06272845E4AEDA52E59A8191DF4DF1"
-				"download" "B53BE9EDD64EC2BE918A22408267A94C"
-			}
-			"teststeam"
-			{
-				"gid" "B7B643D8416E73DE85912B5EB7FE479E"
-				"size" "B000B962B5B1C211BC1F6FD898402D4F"
-				"download" "923C6F297891FE73A8E15DD6D242262F"
+				"gid" "8985987746549990051"
+				"size" "8832210083"
+				"download" "5417311648"
 			}
 		}
 	}
@@ -380,36 +353,13 @@
 	{
 		"public"
 		{
-			"buildid" "16927761"
-			"timeupdated" "1736254953"
-		}
-		"oldversion"
-		{
-			"buildid" "14290497"
-			"pwdrequired" "1"
-			"timeupdated" "1734853916"
-		}
-		"qqtest"
-		{
-			"buildid" "16927761"
-			"pwdrequired" "1"
-			"timeupdated" "1736254998"
-		}
-		"test"
-		{
-			"buildid" "16927761"
-			"pwdrequired" "1"
-			"timeupdated" "1736251528"
-		}
-		"teststeam"
-		{
-			"buildid" "16830882"
-			"pwdrequired" "1"
-			"timeupdated" "1734905716"
+			"buildid" "17117561"
+			"timeupdated" "1737718471"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26892241"
-"_sha" "d0c2c3e8db428b442df16949349552e1ce865aa8"
-"_size" "7067"
+"_change_number" "27148153"
+"_sha" "6c1e2dc86ebdd8af9e29d8d819a4dc93b26f19a3"
+"_size" "5946"
