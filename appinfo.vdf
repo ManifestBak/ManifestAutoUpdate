@@ -269,15 +269,15 @@
 		{
 			"public"
 			{
-				"gid" "3626408415185202397"
-				"size" "10530758049"
-				"download" "3660129824"
+				"gid" "4275862910222175145"
+				"size" "10219211325"
+				"download" "3541505456"
 			}
 			"open-beta"
 			{
-				"gid" "3626408415185202397"
-				"size" "10530758049"
-				"download" "3660129824"
+				"gid" "4275862910222175145"
+				"size" "10219211325"
+				"download" "3541505456"
 			}
 			"previous"
 			{
@@ -286,118 +286,19 @@
 				"download" "3066394192"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"kluge-collective"
-			{
-				"gid" "76B40F4234E83788B6C8A489580E0144"
-				"size" "FC8AD19DAA9D93E786C73CCB2DFCAC02"
-				"download" "8FF84734EFB3F53CFD2547349E0817A6"
-			}
-			"wirrel-only"
-			{
-				"gid" "3CADFDBC5830DF9D863D8122FC2A6D0A"
-				"size" "22AE3871D2FDECF94E8963EB24A73AF4"
-				"download" "7FD4EC8710B5DE21358EA8F455556F24"
-			}
-			"alpha"
-			{
-				"gid" "78712035D7A34523D26E4BE0356BFBAB"
-				"size" "59D2B5167DF5CFBFB8F5E58BC0D5004B"
-				"download" "27984AF675219F579BA1E9E9BC4AE8C6"
-			}
-			"closed-beta"
-			{
-				"gid" "983B590DD0E7F7F80EC22156989009F1"
-				"size" "86A552ECF14CD7DA9B9121382C87D7E5"
-				"download" "40F8FD40FC8F88CE99B842F1771E2013"
-			}
-			"early-access"
-			{
-				"gid" "DF255E3653AC92EA3917C8101347982E"
-				"size" "1422619F89E2E2EE722EC0D5C25A16E7"
-				"download" "4542DC86EFA45CC9EB26393AD244C2C8"
-			}
-			"nosferatu"
-			{
-				"gid" "499A04BBCA12BC28BB2552EA8DCD6D78"
-				"size" "A12BEC8A7BFDD2512331A413083A4193"
-				"download" "9AB8768CCF6C064DA2D75D0FF2F0D945"
-			}
-			"nosferatutu"
-			{
-				"gid" "C951895D88D9DD36FCC053B9A76556F7"
-				"size" "86AA610AF734A802630422C63F5630D6"
-				"download" "3522D48DC21D7CDC217CEF2B8B3CD4E5"
-			}
-			"vrs-live"
-			{
-				"gid" "1E1AF68238584D776812BEBF7336CBAC"
-				"size" "F1ABB155DC628B4E510365E119CD7390"
-				"download" "C7361624FA0F9182273C39E2962B2833"
-			}
-			"vrs-builds-qa"
-			{
-				"gid" "53FD5B7AEFD955B3FC2630F3A45985D5"
-				"size" "D93FD56ED905102AC8563D34CECF2F0E"
-				"download" "EC5849E040D935DB0CDC1E08DDE2FB0E"
-			}
-			"vrs-feature-test"
-			{
-				"gid" "8EDDEDE52D607E7350BA5BAE103FB202"
-				"size" "179A1255D61164D462C9C3B1461222A1"
-				"download" "689076CE2AE76C7FF7D13BBB5A182F20"
-			}
-			"vrs-test"
-			{
-				"gid" "C594CA02B998E4A9FCFE7388A192B5CB"
-				"size" "5BAE7A6C2F73A426EFD3F4A3B9037DBF"
-				"download" "882148216E219B74DCEAE25B6803C915"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16939944"
-			"timeupdated" "1736445610"
-		}
-		"kluge-collective"
-		{
-			"buildid" "16939944"
-			"pwdrequired" "1"
-			"timeupdated" "1736343478"
-		}
-		"wirrel-only"
-		{
-			"buildid" "16939944"
-			"pwdrequired" "1"
-			"timeupdated" "1736342125"
-		}
-		"alpha"
-		{
-			"buildid" "16939944"
-			"pwdrequired" "1"
-			"timeupdated" "1736343467"
-		}
-		"closed-beta"
-		{
-			"buildid" "16939944"
-			"pwdrequired" "1"
-			"timeupdated" "1736445556"
-		}
-		"early-access"
-		{
-			"buildid" "16939944"
-			"pwdrequired" "1"
-			"timeupdated" "1736343490"
+			"buildid" "17031646"
+			"timeupdated" "1737681528"
 		}
 		"open-beta"
 		{
-			"buildid" "16939944"
+			"buildid" "17031646"
 			"description" "OPEN BETA (Opt-in for early access to patches!)"
-			"timeupdated" "1736445574"
+			"timeupdated" "1737172165"
 		}
 		"previous"
 		{
@@ -405,43 +306,8 @@
 			"description" "PREVIOUS Legacy v2.3.32 (No new content available here)"
 			"timeupdated" "1731578284"
 		}
-		"nosferatu"
-		{
-			"buildid" "3421978"
-			"pwdrequired" "1"
-			"timeupdated" "1665558209"
-		}
-		"nosferatutu"
-		{
-			"buildid" "6109000"
-			"pwdrequired" "1"
-			"timeupdated" "1687558097"
-		}
-		"vrs-live"
-		{
-			"buildid" "9874403"
-			"pwdrequired" "1"
-			"timeupdated" "1671247792"
-		}
-		"vrs-builds-qa"
-		{
-			"buildid" "10179859"
-			"pwdrequired" "1"
-			"timeupdated" "1671677740"
-		}
-		"vrs-feature-test"
-		{
-			"buildid" "9874403"
-			"pwdrequired" "1"
-			"timeupdated" "1667608203"
-		}
-		"vrs-test"
-		{
-			"buildid" "9874403"
-			"pwdrequired" "1"
-			"timeupdated" "1671248599"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -464,6 +330,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26928284"
-"_sha" "f4f9da5bb917e7c2533db3269b5f80d6b3be5327"
-"_size" "9771"
+"_change_number" "27141003"
+"_sha" "2c99e70fcb1ba0f308a0d919ba67eb4afcc17574"
+"_size" "6634"
