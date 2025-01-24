@@ -68,7 +68,8 @@
 			"gamescope_frame_limiter_not_supported" "1"
 		}
 	}
-	"controller_support" "full"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "05f72b6bdc82141fd207e96bb4e6209ec401abb7/capsule_231x87.jpg"
@@ -174,8 +175,8 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
-		"category_28" "1"
 		"category_15" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -281,54 +282,15 @@
 		{
 			"public"
 			{
-				"gid" "6570237376719685562"
-				"size" "10161202307"
-				"download" "4063285712"
+				"gid" "7498590457010104811"
+				"size" "10173828253"
+				"download" "4065987504"
 			}
 			"chapter2_wargression"
 			{
 				"gid" "4855901570708881704"
 				"size" "8725687108"
 				"download" "2436881760"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"chapter_3_playtest"
-			{
-				"gid" "E44550B589F345CBB3EE85A55527EC55"
-				"size" "22C1BCCB6227D6D94EDFA5711379DD35"
-				"download" "0E24DD43C93741CB5A4A51DFBED1B28D"
-			}
-			"devqa"
-			{
-				"gid" "9D40D8BBD0A1755816165AA28079BCDC"
-				"size" "629BEB3EF586F250EC645C85F2BAF216"
-				"download" "43164DD814D873FFBFC7C17358DABB7E"
-			}
-			"ng_plus"
-			{
-				"gid" "9D621C4F82A702FC07A15E7E0ADE3E15"
-				"size" "B8BF6E764E09F42AB65C244BA22283A9"
-				"download" "66BD8C91F35B28661A1E7CC55499ACE1"
-			}
-			"production"
-			{
-				"gid" "CD5CB35897F0655E7B5F1F2CEDE33FF4"
-				"size" "0D83BBBE0A0D023E855AA4D4CEC29F26"
-				"download" "A726C7444D99D1B487D4584C7586B96E"
-			}
-			"pw2_test_nov_2024"
-			{
-				"gid" "F064CC8502D0B0FD4DE97C7B00A1D84D"
-				"size" "D25C811379CE128413D979304159EA6D"
-				"download" "A1AB269B7004EC8829FCCE6021BB83C7"
-			}
-			"system_rework"
-			{
-				"gid" "8CE6E8E3AEFF80F660784B805BB7AFFD"
-				"size" "E70F953B2A89F7CA9C73D6ABAFA3551B"
-				"download" "453AF3599F8870D7BF3569E88F4A3712"
 			}
 		}
 	}
@@ -350,14 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "16474788"
-			"timeupdated" "1732125820"
-		}
-		"chapter_3_playtest"
-		{
-			"buildid" "16424928"
-			"pwdrequired" "1"
-			"timeupdated" "1731700148"
+			"buildid" "17105441"
+			"timeupdated" "1737650146"
 		}
 		"chapter2_wargression"
 		{
@@ -365,37 +321,8 @@
 			"description" "Project Warlock II: Chapter 2 Wargression (retired)"
 			"timeupdated" "1717692765"
 		}
-		"devqa"
-		{
-			"buildid" "16404161"
-			"pwdrequired" "1"
-			"timeupdated" "1731584208"
-		}
-		"ng_plus"
-		{
-			"buildid" "16712101"
-			"pwdrequired" "1"
-			"timeupdated" "1733946832"
-		}
-		"production"
-		{
-			"buildid" "16722884"
-			"pwdrequired" "1"
-			"timeupdated" "1734015545"
-		}
-		"pw2_test_nov_2024"
-		{
-			"buildid" "16518803"
-			"pwdrequired" "1"
-			"timeupdated" "1732494974"
-		}
-		"system_rework"
-		{
-			"buildid" "16519079"
-			"pwdrequired" "1"
-			"timeupdated" "1732498083"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -417,6 +344,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26612999"
-"_sha" "158d62285d9c2a69c85dff2e490ded9ed194225a"
-"_size" "7939"
+"_change_number" "27134223"
+"_sha" "32bd654ece2b35b1ef0f35718fccdf962593b824"
+"_size" "6244"
