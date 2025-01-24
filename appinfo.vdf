@@ -107,7 +107,7 @@
 		"library_hero" "zh-cn,en"
 		"library_hero_blur" "zh-cn,en"
 		"library_logo" "en,zh-cn,ko,zh-tw,ja"
-		"library_header" "en"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -185,14 +185,18 @@
 			"image"
 			{
 				"english" "bb4566c64ecd6147ba4ec6f0304e0c1b7b4fa918/library_header.jpg"
+				"schinese" "c1d370336933b4e9479f1b4e72990dea4add694c/library_header_schinese.jpg"
+				"tchinese" "77d5294bdd73f98e20d64a1755abc22abe7ee801/library_header_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "bb4566c64ecd6147ba4ec6f0304e0c1b7b4fa918/library_header_2x.jpg"
+				"schinese" "c1d370336933b4e9479f1b4e72990dea4add694c/library_header_schinese_2x.jpg"
+				"tchinese" "77d5294bdd73f98e20d64a1755abc22abe7ee801/library_header_tchinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1737539536"
+	"store_asset_mtime" "1737631283"
 	"associations"
 	{
 		"0"
@@ -283,8 +287,8 @@
 		"5" "1716"
 		"6" "122"
 		"7" "4791"
-		"8" "454187"
-		"9" "32322"
+		"8" "32322"
+		"9" "454187"
 		"10" "5125"
 		"11" "19"
 		"12" "7432"
@@ -331,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "3867647453862493616"
-				"size" "2388323276"
-				"download" "398583056"
+				"gid" "5482590914300897327"
+				"size" "2388318164"
+				"download" "398594560"
 			}
 		}
 	}
@@ -341,8 +345,8 @@
 	{
 		"public"
 		{
-			"buildid" "17103384"
-			"timeupdated" "1737627294"
+			"buildid" "17115806"
+			"timeupdated" "1737704233"
 		}
 	}
 	"privatebranches" "1"
@@ -366,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27128233"
-"_sha" "53697468f63341640014933e4344e62d799b4f3f"
-"_size" "8609"
+"_change_number" "27144898"
+"_sha" "7fe32947d54a3b1e9fdea53271770ceea3adc4d9"
+"_size" "8979"
