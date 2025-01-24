@@ -281,7 +281,7 @@
 		"16" "1773"
 		"17" "4004"
 		"18" "8093"
-		"19" "4158"
+		"19" "176981"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -339,96 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "2995361206061361777"
-				"size" "12099198820"
-				"download" "10440199376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gigabashaudiotest"
-			{
-				"gid" "AA5389A05CD7884A85D3B9C1E4DF8743"
-				"size" "8015944A58B0F3095850341B7F765DB9"
-				"download" "61E2F1993095C6AE5AD25994F398ED97"
-			}
-			"gigabashdemotest"
-			{
-				"gid" "17051B36100FCE93437401466000F431"
-				"size" "C5CC2A53D0493A0D9B42F99D2D9A4DB1"
-				"download" "2A8F867682D22CCB2E072AA4AA23A5BB"
-			}
-			"gigabashexternalpartners"
-			{
-				"gid" "7EBCD47559E340E80327A442BBBFD666"
-				"size" "93F3AA8C86F92454C0EF99D6D705B8EC"
-				"download" "B92705F76D346BAC772C9B27105916B4"
-			}
-			"gigabashexternalpartners2"
-			{
-				"gid" "3C0BF1F01CD2B357D027D5C63A6F1AD0"
-				"size" "C49B0DBB8A8614765B27F563A84400B9"
-				"download" "A39E7E440E0ADB146661B7D45050D38B"
-			}
-			"gigabashqaplaytest"
-			{
-				"gid" "83EBF01559EB04115D537BB7DE235E1B"
-				"size" "C88DE44CED248976568FB51927FCD457"
-				"download" "CFD03DA4085F0B1DBD8F71BC4540B3E7"
-			}
-			"gigabashsafecheck"
-			{
-				"gid" "6BFE3C0A7916DDDF0CC9F79C070F1345"
-				"size" "17FE6E2325BF9CDD80F3B35BA6E6B9A1"
-				"download" "C7B7A218FFE291E4E057DBAC30508CBE"
-			}
-			"gigabashbs2024sp"
-			{
-				"gid" "19B5318981F6859AA9BAA06C06B457C7"
-				"size" "36D6642DADB5CA3B0CD9D05107D03C4E"
-				"download" "612C68F26C8280B10469EFAB06A1D991"
-			}
-			"gigabashdebugtest"
-			{
-				"gid" "CDCAB685E5A342907B911B3CEA2C5C3A"
-				"size" "97C431A82C34D94BC4D9B2CC857000EB"
-				"download" "E68AE4D3F9FC5E8387D00E90892F64A1"
-			}
-			"gigabashevent"
-			{
-				"gid" "90DE7DD99B1B35F7342C2555D5E1E49C"
-				"size" "8D42478B22B5773DF8CDAAD079A6807C"
-				"download" "C7759070545043944BA975E108C578E1"
-			}
-			"gigabashinternalplaytest"
-			{
-				"gid" "CA7260DEA52F7FEAE9B97747057D37E3"
-				"size" "2958F2D077E202D22744EB35F9AF0F8B"
-				"download" "393293B73C6A1C0D8DD72FC46EB94DC3"
-			}
-			"gigabashmedia"
-			{
-				"gid" "DC49098783904384326002C5280989A5"
-				"size" "505201C05B7CAA565B6B1BC2EC1840E4"
-				"download" "F35944CCD46698D1E25737032E92246A"
-			}
-			"gigabashmediainternalsafecheck"
-			{
-				"gid" "FA81355B20C0C8A46A8393D8CE3840B0"
-				"size" "F2250A6B2CD82BF82617740BC5E76FF7"
-				"download" "8B5C44021413DFA097068B7CC9978B0D"
-			}
-			"gigabashmodtest"
-			{
-				"gid" "9E183A365ADC77B6535589B806EA8E57"
-				"size" "1162D8BF26454114E60212FAC75BEEE9"
-				"download" "368293E1FE019247D0D379E9298C8187"
-			}
-			"gigabashumsunway"
-			{
-				"gid" "D1FB6E2F48E93757D858EE04F0B658A7"
-				"size" "1A53B3453950C16BDA6F6EC04A73D4FA"
-				"download" "AC111973EA4B0D9B7E2D802C21863643"
+				"gid" "891821612949602166"
+				"size" "12099823060"
+				"download" "10438782112"
 			}
 		}
 	}
@@ -437,94 +350,11 @@
 	{
 		"public"
 		{
-			"buildid" "16858486"
-			"timeupdated" "1735278439"
-		}
-		"gigabashaudiotest"
-		{
-			"buildid" "11558327"
-			"pwdrequired" "1"
-			"timeupdated" "1687770526"
-		}
-		"gigabashdemotest"
-		{
-			"buildid" "11294731"
-			"pwdrequired" "1"
-			"timeupdated" "1684825936"
-		}
-		"gigabashexternalpartners"
-		{
-			"buildid" "9034089"
-			"pwdrequired" "1"
-			"timeupdated" "1656582833"
-		}
-		"gigabashexternalpartners2"
-		{
-			"buildid" "9034089"
-			"pwdrequired" "1"
-			"timeupdated" "1656582902"
-		}
-		"gigabashqaplaytest"
-		{
-			"buildid" "8268712"
-			"pwdrequired" "1"
-			"timeupdated" "1645718048"
-		}
-		"gigabashsafecheck"
-		{
-			"buildid" "11891280"
-			"pwdrequired" "1"
-			"timeupdated" "1691487826"
-		}
-		"gigabashbs2024sp"
-		{
-			"buildid" "15529779"
-			"pwdrequired" "1"
-			"timeupdated" "1724925078"
-		}
-		"gigabashdebugtest"
-		{
-			"buildid" "16858486"
-			"pwdrequired" "1"
-			"timeupdated" "1735278298"
-		}
-		"gigabashevent"
-		{
-			"buildid" "16717436"
-			"pwdrequired" "1"
-			"timeupdated" "1733985469"
-		}
-		"gigabashinternalplaytest"
-		{
-			"buildid" "16794894"
-			"pwdrequired" "1"
-			"timeupdated" "1734574615"
-		}
-		"gigabashmedia"
-		{
-			"buildid" "16443932"
-			"pwdrequired" "1"
-			"timeupdated" "1731934632"
-		}
-		"gigabashmediainternalsafecheck"
-		{
-			"buildid" "16284681"
-			"pwdrequired" "1"
-			"timeupdated" "1730707857"
-		}
-		"gigabashmodtest"
-		{
-			"buildid" "16117604"
-			"pwdrequired" "1"
-			"timeupdated" "1729483776"
-		}
-		"gigabashumsunway"
-		{
-			"buildid" "15132546"
-			"pwdrequired" "1"
-			"timeupdated" "1721793738"
+			"buildid" "17103988"
+			"timeupdated" "1737684737"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -567,6 +397,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26794267"
-"_sha" "8d8c8225e0227d50e2090623cd1f87f01d6c86f0"
-"_size" "11308"
+"_change_number" "27141600"
+"_sha" "b76a855697b5ea20e2a4bbeb544d0ffb11af1d72"
+"_size" "7099"
