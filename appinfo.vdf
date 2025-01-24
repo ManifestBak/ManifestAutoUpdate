@@ -10,6 +10,12 @@
 	"icon" "b49c3fa5bf890ff446f2f4cc0224b70bf313c4d0"
 	"logo" "d8f027f871dd671c967d56b2ca2d9dcc5ac765ce"
 	"logo_small" "d8f027f871dd671c967d56b2ca2d9dcc5ac765ce_thumb"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "送小羊回家"
+	}
 	"metacritic_name" "Home Sheep Home 2"
 	"controller_support" "full"
 	"small_capsule"
@@ -70,7 +76,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1571387777"
+	"store_asset_mtime" "1732872197"
 	"associations"
 	{
 		"0"
@@ -86,7 +92,7 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" "Aardman Animations"
+			"name" "Greenlight Games"
 		}
 		"3"
 		{
@@ -169,12 +175,12 @@
 		"9" "6815"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"developer" "Aardman Animations"
-	"publisher" "Aardman Animations"
+	"publisher" "Greenlight Games"
 	"homepage" "https://homesheephomegame.com/"
 }
 "config"
@@ -255,25 +261,28 @@
 		{
 			"public"
 			{
-				"gid" "8201887274578656459"
-				"size" "552828950"
-				"download" "208409344"
+				"gid" "7446118517044792268"
+				"size" "593153999"
+				"download" "239440144"
 			}
 		}
 	}
+	"baselanguages" "english,german,french,italian,schinese,latam"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "4348151"
-			"timeupdated" "1572618960"
+			"buildid" "17122260"
+			"timeupdated" "1737736971"
 		}
 		"originalhsh2"
 		{
 			"buildid" "181929"
+			"description" "Home Sheep Home 2"
 			"timeupdated" "1571393788"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -283,9 +292,9 @@
 	{
 		"0"
 		{
-			"root" "WinAppDataRoaming"
-			"path" "HomeSheepHome2/Local Store"
-			"pattern" "savedata.txt"
+			"root" "WinAppDataLocalLow"
+			"path" "Aardman Animations Ltd\\Home Sheep Home_ Farmageddon Party Edition/saves"
+			"pattern" "*.dat"
 			"platforms"
 			{
 				"1" "Windows"
@@ -294,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "184488288901a2b9809f9022de86775dae3f8bab"
-"_size" "4729"
+"_change_number" "27153006"
+"_sha" "a43b15172722d59553c5897c7957cb2c22d92dea"
+"_size" "4990"
