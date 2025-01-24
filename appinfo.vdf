@@ -202,6 +202,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1736355709"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1859720/announcements/detail/4452464935110181147\?snr=2___"
@@ -269,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "1713160525173615567"
-				"size" "6245091530"
-				"download" "1926855280"
+				"gid" "4947941733387086510"
+				"size" "6254420940"
+				"download" "1931128928"
 			}
 		}
 	}
@@ -279,8 +284,8 @@
 	{
 		"public"
 		{
-			"buildid" "17085246"
-			"timeupdated" "1737514914"
+			"buildid" "17108185"
+			"timeupdated" "1737671103"
 		}
 	}
 	"privatebranches" "1"
@@ -304,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27104824"
-"_sha" "6f40a447243d7f14d49beda225c2d93e3c74ef56"
-"_size" "5077"
+"_change_number" "27139030"
+"_sha" "6db093cf48209c89cfbe658ac467b45df38a0851"
+"_size" "5149"
