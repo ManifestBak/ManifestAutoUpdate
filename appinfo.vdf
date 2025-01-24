@@ -43,37 +43,27 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1727136000"
-		"tested_build_id" "15773735"
+		"category" "3"
+		"test_timestamp" "1737676800"
+		"tested_build_id" "17027251"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-			}
-			"3"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-			}
-			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"5"
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -82,14 +72,14 @@
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -283,7 +273,7 @@
 		"19" "5379"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -312,15 +302,15 @@
 		{
 			"public"
 			{
-				"gid" "5519681434110389038"
-				"size" "801011360"
-				"download" "644472384"
+				"gid" "1736925035422589796"
+				"size" "801018762"
+				"download" "644474656"
 			}
 			"public-beta"
 			{
-				"gid" "5519681434110389038"
-				"size" "801011360"
-				"download" "644472384"
+				"gid" "1736925035422589796"
+				"size" "801018762"
+				"download" "644474656"
 			}
 		}
 	}
@@ -328,14 +318,14 @@
 	{
 		"public"
 		{
-			"buildid" "17027251"
-			"timeupdated" "1737131567"
+			"buildid" "17092399"
+			"timeupdated" "1737733862"
 		}
 		"public-beta"
 		{
-			"buildid" "17027251"
+			"buildid" "17092399"
 			"description" "to get future updates earlier"
-			"timeupdated" "1737042961"
+			"timeupdated" "1737562724"
 		}
 	}
 	"privatebranches" "1"
@@ -351,11 +341,82 @@
 			"root" "gameinstall"
 			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles"
 			"pattern" "*"
-			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_ONE"
+			"pattern" "*.ltu"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_ONE/AutoSave"
+			"pattern" "*.ltu"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_ONE/DailyBackup"
+			"pattern" "*.ltu"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_TWO"
+			"pattern" "*.ltu"
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_TWO/AutoSave"
+			"pattern" "*.ltu"
+		}
+		"7"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_TWO/DailyBackup"
+			"pattern" "*.ltu"
+		}
+		"8"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_THREE"
+			"pattern" "*.ltu"
+		}
+		"9"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_THREE/AutoSave"
+			"pattern" "*.ltu"
+		}
+		"10"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/PROFILE_THREE/DailyBackup"
+			"pattern" "*.ltu"
+		}
+		"11"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles"
+			"pattern" "*.ltu"
+		}
+		"12"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles"
+			"pattern" "*.json"
+		}
+		"13"
+		{
+			"root" "gameinstall"
+			"path" "Lucky Tower Ultimate_Data/StreamingAssets/SaveFiles/CloudFiles/Input"
+			"pattern" "*"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27045766"
-"_sha" "82394205c6fb416f0ae2b68278a9810b1db365da"
-"_size" "6514"
+"_change_number" "27152152"
+"_sha" "e75fb96306e4feb7a81fa7ae35b91442a19902c7"
+"_size" "8141"
