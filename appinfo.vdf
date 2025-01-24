@@ -43,6 +43,7 @@
 	{
 		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en,zh-cn,zh-tw"
+		"library_hero_blur" "en"
 		"library_logo" "en,zh-cn,zh-tw"
 		"library_header" "zh-cn,zh-tw,en"
 		"logo_position"
@@ -86,7 +87,7 @@
 		}
 		"library_hero_blur"
 		{
-			"images"
+			"image"
 			{
 				"english" "b289f84717736b3ae36f86c1841274166fc135e3/library_hero_blur.jpg"
 			}
@@ -128,7 +129,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727431985"
+	"store_asset_mtime" "1737740342"
 	"associations"
 	{
 		"0"
@@ -230,7 +231,7 @@
 		"19" "1678"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -262,48 +263,15 @@
 		{
 			"public"
 			{
-				"gid" "4934923673947359516"
-				"size" "11708751917"
-				"download" "4088785936"
+				"gid" "1303329126391754582"
+				"size" "12792646323"
+				"download" "4637259328"
 			}
 			"alpha"
 			{
-				"gid" "6201390919712636171"
-				"size" "11708499193"
-				"download" "4088768624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"performance"
-			{
-				"gid" "DDFF243466C06223748EC9133352F5FF"
-				"size" "3985D4C3743353B96ABB709BA0A33C2B"
-				"download" "54F974049755A85A57DCB156CCBBD236"
-			}
-			"internal"
-			{
-				"gid" "119DF67B2BB59676FFB5AFD427E945C0"
-				"size" "E8C4608CD46E9F328C4358207964C9FD"
-				"download" "5DC29E4D80FF73CDB5B7391EF8DDF01B"
-			}
-			"internal2"
-			{
-				"gid" "58D3B18292A3851EE0718961A67E9AC5"
-				"size" "84A8BFB1203D42C89FE9FA5D73E7AABA"
-				"download" "D888E4BE3D00FEA524BF64CAC114E17B"
-			}
-			"pdx2024"
-			{
-				"gid" "A71B5C514C866E50DA30554009833F0C"
-				"size" "1BC8427BAABAC0086B95C5BF684ED836"
-				"download" "450394D663FCB46A3B960AEE7FFCA633"
-			}
-			"wade"
-			{
-				"gid" "36F2D8B764503FC1214992A71C7FBA14"
-				"size" "D4D58DFBD1C481D052F653EC9066C6A6"
-				"download" "9166535DBC50555A46AC5104B8478124"
+				"gid" "4520792363107539184"
+				"size" "12792378101"
+				"download" "4637107696"
 			}
 		}
 	}
@@ -313,46 +281,17 @@
 	{
 		"public"
 		{
-			"buildid" "16454611"
-			"timeupdated" "1732031090"
-		}
-		"performance"
-		{
-			"buildid" "13899473"
-			"pwdrequired" "1"
-			"timeupdated" "1711757616"
+			"buildid" "17122944"
+			"timeupdated" "1737740456"
 		}
 		"alpha"
 		{
-			"buildid" "16297649"
+			"buildid" "17106112"
 			"description" "Public testing"
-			"timeupdated" "1730795570"
-		}
-		"internal"
-		{
-			"buildid" "16454611"
-			"pwdrequired" "1"
-			"timeupdated" "1732014009"
-		}
-		"internal2"
-		{
-			"buildid" "16460510"
-			"pwdrequired" "1"
-			"timeupdated" "1732031111"
-		}
-		"pdx2024"
-		{
-			"buildid" "16349559"
-			"pwdrequired" "1"
-			"timeupdated" "1731119445"
-		}
-		"wade"
-		{
-			"buildid" "15373885"
-			"pwdrequired" "1"
-			"timeupdated" "1723670396"
+			"timeupdated" "1737641203"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -387,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26264195"
-"_sha" "429e5d8e0322f898044c4ae470f41837a88f6a61"
-"_size" "7760"
+"_change_number" "27153850"
+"_sha" "0846d69d15c2d08ef0055f051a91d48921a4df11"
+"_size" "6386"
