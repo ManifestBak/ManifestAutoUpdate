@@ -245,8 +245,8 @@
 		"7" "3878"
 		"8" "3968"
 		"9" "1775"
-		"10" "4026"
-		"11" "701"
+		"10" "701"
+		"11" "4026"
 		"12" "7481"
 		"13" "21978"
 		"14" "4182"
@@ -379,66 +379,15 @@
 		{
 			"public"
 			{
-				"gid" "1631695986774905923"
-				"size" "70842519218"
-				"download" "62938595664"
+				"gid" "1643547789711745424"
+				"size" "70862559476"
+				"download" "62959269664"
 			}
 			"preview"
 			{
-				"gid" "1631695986774905923"
-				"size" "70842519218"
-				"download" "62938595664"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"kws-external-ser"
-			{
-				"gid" "B41ACA7B3BFA94BAC84C16F577DF1DF4"
-				"size" "BFB607D6CAD5F61E99A08CAECB73E810"
-				"download" "2091B9474190658E9741126FDD5B3E4E"
-			}
-			"kws-external-sim"
-			{
-				"gid" "EA31E1AA554E0A12B322663BB1F707DB"
-				"size" "E55AF71BF251ED36BE093901378A6D01"
-				"download" "CB939C84613FED23EF335ECACEEBEEFB"
-			}
-			"kws-internal-ser"
-			{
-				"gid" "0459B58922152EDD6A6333BD873028F2"
-				"size" "1141C4758641CACDE4465EFA1061F7E8"
-				"download" "4488807B86A9B5FA5913F9D0E4C7F0F9"
-			}
-			"kws-internal-sim"
-			{
-				"gid" "B7FB6B275242B0B463104289DBCCF6FE"
-				"size" "F6A3001DB2FB5F4B4FA52D6594FD4C10"
-				"download" "196D26111A866CEB96782EF0728B426D"
-			}
-			"kws-preview-ser"
-			{
-				"gid" "FA6F51823D15870BC63176CD2B242821"
-				"size" "F9658D279CDE98C55A0D54504A215B4C"
-				"download" "7E1D0F14618C765EA2E5403CE7385632"
-			}
-			"kws-preview-sim"
-			{
-				"gid" "162E97518672D24C4634001324C16174"
-				"size" "51904F1AF0296F92375025C91883FE81"
-				"download" "BBC9B9E296621B05205B0A358EA3FF19"
-			}
-			"livepreview"
-			{
-				"gid" "BB300B97975F051AE3D3242C6EB34962"
-				"size" "787996E226F16FF52E159A290A3465F3"
-				"download" "1E5BD3453CA8EBF99199AD3D637012AB"
-			}
-			"staging"
-			{
-				"gid" "09E39431281F7419670C972D405162FD"
-				"size" "5C58709DA732273D032EAC9503FC6688"
-				"download" "8E611EBA3FAAEC8AB980C2E2F6267165"
+				"gid" "1643547789711745424"
+				"size" "70862559476"
+				"download" "62959269664"
 			}
 		}
 	}
@@ -447,64 +396,17 @@
 	{
 		"public"
 		{
-			"buildid" "17041261"
-			"timeupdated" "1737125192"
-		}
-		"kws-external-ser"
-		{
-			"buildid" "13710936"
-			"pwdrequired" "1"
-			"timeupdated" "1712146506"
-		}
-		"kws-external-sim"
-		{
-			"buildid" "13711153"
-			"pwdrequired" "1"
-			"timeupdated" "1712146485"
-		}
-		"kws-internal-ser"
-		{
-			"buildid" "15635093"
-			"pwdrequired" "1"
-			"timeupdated" "1725865279"
-		}
-		"kws-internal-sim"
-		{
-			"buildid" "15637028"
-			"pwdrequired" "1"
-			"timeupdated" "1725876855"
-		}
-		"kws-preview-ser"
-		{
-			"buildid" "15635093"
-			"pwdrequired" "1"
-			"timeupdated" "1725876422"
-		}
-		"kws-preview-sim"
-		{
-			"buildid" "15637028"
-			"pwdrequired" "1"
-			"timeupdated" "1725876906"
-		}
-		"livepreview"
-		{
-			"buildid" "17041261"
-			"pwdrequired" "1"
-			"timeupdated" "1737124636"
+			"buildid" "17129395"
+			"timeupdated" "1737824152"
 		}
 		"preview"
 		{
-			"buildid" "17041261"
+			"buildid" "17129395"
 			"description" "early access"
-			"timeupdated" "1737124644"
-		}
-		"staging"
-		{
-			"buildid" "17041261"
-			"pwdrequired" "1"
-			"timeupdated" "1737124620"
+			"timeupdated" "1737808152"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -512,6 +414,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27044211"
-"_sha" "83d50238f0757837e07d02060e1da72185fb5539"
-"_size" "9858"
+"_change_number" "27165302"
+"_sha" "15e4022ff2c63e9f1d3da102dbf665ba5f3ad32e"
+"_size" "7521"
