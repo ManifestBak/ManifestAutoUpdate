@@ -88,6 +88,40 @@
 			"height_pct" "76.39134473541472"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "48.08406155452593"
+				"height_pct" "76.39134473541472"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1671799118"
 	"associations"
 	{
@@ -175,14 +209,14 @@
 	"store_tags"
 	{
 		"0" "3968"
-		"1" "4026"
-		"2" "1716"
-		"3" "3964"
+		"1" "1716"
+		"2" "3964"
+		"3" "4026"
 		"4" "1720"
 		"5" "492"
 		"6" "1695"
-		"7" "3810"
-		"8" "3871"
+		"7" "3871"
+		"8" "3810"
 		"9" "1759"
 		"10" "19"
 		"11" "42804"
@@ -190,8 +224,8 @@
 		"13" "5379"
 		"14" "122"
 		"15" "3959"
-		"16" "16094"
-		"17" "5923"
+		"16" "5923"
+		"17" "16094"
 		"18" "4106"
 		"19" "1702"
 	}
@@ -250,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "7283186044798058701"
-				"size" "1639152947"
-				"download" "1390939952"
+				"gid" "1707227655636660075"
+				"size" "1639174567"
+				"download" "1390940496"
 			}
 			"update_20240214"
 			{
@@ -262,30 +296,9 @@
 			}
 			"noitabeta"
 			{
-				"gid" "8864724755035096208"
-				"size" "1639152953"
-				"download" "1390939840"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"noitadev2"
-			{
-				"gid" "B6B911D517BC85A8B4F0196934E804B4"
-				"size" "7B86E2687C5853DF62C49B70130458BE"
-				"download" "C2BBFE4673F26D7F9CB5B03F91DD9821"
-			}
-			"noitasecretbeta"
-			{
-				"gid" "3BA8F3085E86DA7AE29701FC2510711E"
-				"size" "D540F86E5217C34B9FD23001DC6BEC9B"
-				"download" "289CF21B04C72D1D4A782FDED492BA34"
-			}
-			"noitadev"
-			{
-				"gid" "7A819B94FC5D20EA3120DA8A4CAEF996"
-				"size" "714A8D4050AF19478846AF0915A62D06"
-				"download" "76DFF27541608B9965622BA8487321C1"
+				"gid" "2174605066575111303"
+				"size" "1639174573"
+				"download" "1390939824"
 			}
 		}
 	}
@@ -294,20 +307,8 @@
 	{
 		"public"
 		{
-			"buildid" "15345724"
-			"timeupdated" "1723489981"
-		}
-		"noitadev2"
-		{
-			"buildid" "13974401"
-			"pwdrequired" "1"
-			"timeupdated" "1712426436"
-		}
-		"noitasecretbeta"
-		{
-			"buildid" "10656369"
-			"pwdrequired" "1"
-			"timeupdated" "1677600587"
+			"buildid" "17130612"
+			"timeupdated" "1737816174"
 		}
 		"update_20240214"
 		{
@@ -317,17 +318,12 @@
 		}
 		"noitabeta"
 		{
-			"buildid" "15345458"
+			"buildid" "17129670"
 			"description" "Beta branch"
-			"timeupdated" "1723487530"
-		}
-		"noitadev"
-		{
-			"buildid" "15345724"
-			"pwdrequired" "1"
-			"timeupdated" "1723488902"
+			"timeupdated" "1737803043"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -475,6 +471,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24755006"
-"_sha" "cf7f7fdf47c2d493b0e3befdd63df45ac6e86443"
-"_size" "8434"
+"_change_number" "27164232"
+"_sha" "e290ee711951c1b9f11f1aee20e51a790b85fe33"
+"_size" "8078"
