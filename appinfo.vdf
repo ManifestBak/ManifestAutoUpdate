@@ -1,0 +1,267 @@
+"appid" "2707040"
+"common"
+{
+	"name" "KRAMPEN"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "255ae76fe5eaf800132d2e9a67c0b1cd6848fb9d"
+	"clienttga" "927a547f177f2d896ab4ddc72ae3486cde2b7c7d"
+	"clienticon" "3ca0725915efaaaf48b6e9e077292d164f6415d6"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1734652800"
+		"tested_build_id" "16764212"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "94.65565737828712"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "94.65565737828712"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735494626"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GMD13"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GMD13"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1703151720"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2707040"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "4182"
+		"2" "1742"
+		"3" "6971"
+		"4" "4342"
+		"5" "4064"
+		"6" "5613"
+		"7" "492"
+		"8" "5900"
+		"9" "3799"
+		"10" "1698"
+		"11" "3798"
+		"12" "3871"
+		"13" "3834"
+		"14" "6052"
+		"15" "4166"
+		"16" "6426"
+		"17" "21"
+		"18" "597"
+		"19" "3964"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "GMD13"
+	"publisher" "GMD13"
+	"listofdlc" "3372370"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "KRAMPEN"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KRAMPEN.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "russian"
+	"hasdepotsindlc" "1"
+	"2707041"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4220477787232628625"
+				"size" "483693476"
+				"download" "484245776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17048008"
+			"timeupdated" "1737174019"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "27065019"
+"_sha" "22955f3646ed73c0f079d07b489ddf5bd25b4b71"
+"_size" "4469"
