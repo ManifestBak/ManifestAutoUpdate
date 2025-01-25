@@ -230,7 +230,7 @@
 "depots"
 {
 	"hasdepotsindlc" "1"
-	"baselanguages" "english"
+	"baselanguages" "english,koreana,spanish,schinese,tchinese,japanese,portuguese"
 	"2537011"
 	{
 		"config"
@@ -242,9 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "3216003947575798882"
-				"size" "10187359020"
-				"download" "7375590368"
+				"gid" "888358723155253474"
+				"size" "10187356123"
+				"download" "7375618064"
 			}
 		}
 	}
@@ -252,12 +252,12 @@
 	{
 		"public"
 		{
-			"buildid" "17123952"
-			"timeupdated" "1737763580"
+			"buildid" "17127175"
+			"timeupdated" "1737777395"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27158295"
-"_sha" "664b5ac8c5973b762b2734e48eb6138eb584b3b7"
-"_size" "4565"
+"_change_number" "27160229"
+"_sha" "5c8a8527170698b33f5556e8aadf0d3b992c2b7e"
+"_size" "4618"
