@@ -27,6 +27,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -75,8 +76,19 @@
 				"height_pct" "72.79743528853004"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a914928b2ee7004674716832f904a1ecca6c92ea/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a914928b2ee7004674716832f904a1ecca6c92ea/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1683492559"
+	"store_asset_mtime" "1737771240"
 	"associations"
 	{
 		"0"
@@ -156,6 +168,7 @@
 		}
 	}
 	"steam_release_date" "1683560880"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2055910/announcements/detail/543347435698652299\?snr=2___"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2055910"
@@ -239,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "5514449324434515488"
+				"gid" "3366212079764079013"
 				"size" "152631341"
-				"download" "76011984"
+				"download" "76011824"
 			}
 		}
 	}
@@ -255,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "6884775911495980462"
-				"size" "130108722"
-				"download" "67071776"
+				"gid" "2641613867713453035"
+				"size" "178963475"
+				"download" "85507856"
 			}
 		}
 	}
@@ -271,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "5298720983470687316"
-				"size" "175460193"
-				"download" "81996032"
+				"gid" "1812263086512280768"
+				"size" "133607368"
+				"download" "70583264"
 			}
 		}
 	}
@@ -281,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "17112013"
-			"timeupdated" "1737675953"
+			"buildid" "17132301"
+			"timeupdated" "1737835740"
 		}
 	}
 }
@@ -335,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27139954"
-"_sha" "b487c76d2d72650de4405f6fa6795214150c4495"
-"_size" "5297"
+"_change_number" "27166352"
+"_sha" "aa9fba90971fa66373d2100decac90e99014eac9"
+"_size" "5679"
