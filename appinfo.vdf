@@ -8,8 +8,8 @@
 	"osarch" ""
 	"osextended" "macos64,macosapplesilicon"
 	"icon" "155b66a41ef76819af27b3a915ae51ca1e1c5c71"
-	"clienttga" "6a3ad6c89e7b20a24961459d8b9438686c081417"
-	"clienticon" "f046ab28bc4deb4cf813fafcf8ab01e92573d327"
+	"clienttga" "a2c2d55887aa64f7270ca78c8af41e359fed9e63"
+	"clienticon" "959e2c7de2b8b76809fea6193757ee1fd7dabe10"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -66,11 +66,12 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "12.105500757693278"
+			"pinned_position" "CenterCenter"
+			"width_pct" "26.979675262281305"
 			"height_pct" "100"
 		}
 	}
@@ -91,43 +92,55 @@
 		{
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "7ac0f65eead376f282e26c2a0dcb344ad876c0fa/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "7ac0f65eead376f282e26c2a0dcb344ad876c0fa/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "7ac0f65eead376f282e26c2a0dcb344ad876c0fa/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "1fb5e5ce544b4c67aa1347faa9736c33c233d9a4/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "12.105500757693278"
+				"pinned_position" "CenterCenter"
+				"width_pct" "26.979675262281305"
 				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "1fb5e5ce544b4c67aa1347faa9736c33c233d9a4/logo.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1725261751"
+	"store_asset_mtime" "1737261458"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Small Solar Sloth Studios"
+			"name" "Mr. Snail Dev"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Small Solar Sloth Studios"
+			"name" "Mr. Snail Dev"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Snail Simulator"
 		}
 	}
 	"primary_genre" "4"
@@ -191,8 +204,8 @@
 }
 "extended"
 {
-	"developer" "Small Solar Sloth Studios"
-	"publisher" "Small Solar Sloth Studios"
+	"developer" "Mr. Snail Dev"
+	"publisher" "Mr. Snail Dev"
 	"homepage" "https://discord.gg/EP7pEUar2n"
 	"listofdlc" "2901240"
 	"dlcavailableonstore" "1"
@@ -236,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "6961761045321890030"
-				"size" "858550795"
-				"download" "242732992"
+				"gid" "2037329871596926790"
+				"size" "905012451"
+				"download" "250383568"
 			}
 			"1.0.0-rebooted"
 			{
@@ -270,9 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "8126084578056220048"
-				"size" "884385893"
-				"download" "250604304"
+				"gid" "7510025342915423217"
+				"size" "930847557"
+				"download" "258237344"
 			}
 			"1.0.0-rebooted"
 			{
@@ -299,8 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "16983621"
-			"timeupdated" "1736742052"
+			"buildid" "17132226"
+			"timeupdated" "1737835254"
 		}
 		"1.0.0-rebooted"
 		{
@@ -329,6 +342,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "26967567"
-"_sha" "6459446d369c03cd3111d90f3d7b9443bdb824fd"
-"_size" "5947"
+"_change_number" "27166452"
+"_sha" "bfbf30bd8f9ca17ffa62fb0b87f0c819f65296c1"
+"_size" "6305"
