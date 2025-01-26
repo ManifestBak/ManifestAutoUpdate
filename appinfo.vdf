@@ -235,8 +235,8 @@
 		"14" "7481"
 		"15" "3859"
 		"16" "4191"
-		"17" "597"
-		"18" "4182"
+		"17" "4182"
+		"18" "597"
 		"19" "4747"
 	}
 	"review_score" "8"
@@ -316,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "2284958609418847770"
-				"size" "3122905287"
-				"download" "2768351472"
+				"gid" "6151802760287239138"
+				"size" "3122947783"
+				"download" "2768383456"
 			}
 			"temp-ue4-0.6.20"
 			{
@@ -328,24 +328,9 @@
 			}
 			"test"
 			{
-				"gid" "2284958609418847770"
-				"size" "3122905287"
-				"download" "2768351472"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "B5C201BC7E7D1E9E1C956CCB00802201"
-				"size" "11B95379F3F304174AD7A291676A3BB7"
-				"download" "10AF69E9C10D4DEDB4E54D5E89839DD2"
-			}
-			"test-driver"
-			{
-				"gid" "DD6C9B6CE55DE2878CD5ACD96A12B86C"
-				"size" "C42C4245740F6E9C5BB493E1738758CB"
-				"download" "93C19C4B565D8696B3E901991F46929E"
+				"gid" "6151802760287239138"
+				"size" "3122947783"
+				"download" "2768383456"
 			}
 		}
 	}
@@ -353,8 +338,8 @@
 	{
 		"public"
 		{
-			"buildid" "16840557"
-			"timeupdated" "1735097379"
+			"buildid" "17134916"
+			"timeupdated" "1737893688"
 		}
 		"temp-ue4-0.6.20"
 		{
@@ -362,25 +347,14 @@
 			"description" "Temporary branch for who has problem running new unreal engine 5 build. Note this is old version of game"
 			"timeupdated" "1699583548"
 		}
-		"development"
-		{
-			"buildid" "16840557"
-			"pwdrequired" "1"
-			"timeupdated" "1735041461"
-		}
 		"test"
 		{
-			"buildid" "16840557"
+			"buildid" "17134916"
 			"description" "For tester who want to play next update before others\t"
-			"timeupdated" "1735046498"
-		}
-		"test-driver"
-		{
-			"buildid" "16840557"
-			"pwdrequired" "1"
-			"timeupdated" "1735046492"
+			"timeupdated" "1737877058"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -404,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26778048"
-"_sha" "0d6e15784b1aa0dc1a68db3c37081b4b6b291c5f"
-"_size" "7342"
+"_change_number" "27171359"
+"_sha" "691eceb557033fd8439282db6d540c47a8e65bf0"
+"_size" "6763"
