@@ -235,7 +235,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -260,6 +260,7 @@
 }
 "depots"
 {
+	"baselanguages" "english,tchinese"
 	"3031151"
 	{
 		"config"
@@ -270,9 +271,26 @@
 		{
 			"public"
 			{
-				"gid" "6581483262607397883"
-				"size" "469117995"
-				"download" "112781472"
+				"gid" "3635806094119314945"
+				"size" "467222326"
+				"download" "112443312"
+			}
+		}
+	}
+	"3031152"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8369214481428001090"
+				"size" "469118377"
+				"download" "112780128"
 			}
 		}
 	}
@@ -280,12 +298,12 @@
 	{
 		"public"
 		{
-			"buildid" "16972655"
-			"timeupdated" "1736573443"
+			"buildid" "17137078"
+			"timeupdated" "1737905172"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26952167"
-"_sha" "772a35f4a1faf8d70bfe23c2dde133bd52987922"
-"_size" "5336"
+"_change_number" "27172858"
+"_sha" "53f5e4de6f25e1eeb135923316d1da269b0ac4fc"
+"_size" "5605"
