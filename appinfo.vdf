@@ -141,7 +141,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Wave Game"
+			"name" "波浪游戏 (Wave Game)"
 		}
 		"1"
 		{
@@ -151,7 +151,7 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" "Wave Game"
+			"name" "波浪游戏 (Wave Game)"
 		}
 		"3"
 		{
@@ -211,11 +211,11 @@
 		"19" "12472"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "72"
 }
 "extended"
 {
-	"developer" "Wave Game"
+	"developer" "波浪游戏 (Wave Game)"
 	"publisher" "Lightning Games"
 }
 "config"
@@ -245,9 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "8455027429937872581"
-				"size" "6378219697"
-				"download" "1253423568"
+				"gid" "5022261199346388406"
+				"size" "6379925487"
+				"download" "1253897040"
 			}
 		}
 	}
@@ -255,8 +255,8 @@
 	{
 		"public"
 		{
-			"buildid" "17135348"
-			"timeupdated" "1737882451"
+			"buildid" "17137342"
+			"timeupdated" "1737908748"
 		}
 	}
 	"privatebranches" "1"
@@ -277,6 +277,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27170467"
-"_sha" "93569a3c14b30f9ac72d28d64137629e156abfb9"
-"_size" "6354"
+"_change_number" "27173200"
+"_sha" "92bd41c5aba1e88c497eab46b940601b4d2bcc7e"
+"_size" "6399"
