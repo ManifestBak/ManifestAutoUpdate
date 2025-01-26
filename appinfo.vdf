@@ -178,9 +178,9 @@
 		{
 			"public"
 			{
-				"gid" "3666676662079988487"
-				"size" "415782471"
-				"download" "190627360"
+				"gid" "1685795540959321512"
+				"size" "416759394"
+				"download" "191406464"
 			}
 			"old-version"
 			{
@@ -189,22 +189,13 @@
 				"download" "188989856"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "36140E96E12B00E017D47B801F50EF8B"
-				"size" "A14926F55B92351EC80A0D0C0BD7F0E4"
-				"download" "096EE4DC186D9112F09B146B15F20980"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16832818"
-			"timeupdated" "1734934229"
+			"buildid" "17136046"
+			"timeupdated" "1737906404"
 		}
 		"old-version"
 		{
@@ -212,13 +203,8 @@
 			"description" "老版本，如果无法读取存档请在这个版本转生之后再更新"
 			"timeupdated" "1724813087"
 		}
-		"test"
-		{
-			"buildid" "14405186"
-			"pwdrequired" "1"
-			"timeupdated" "1715959381"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -239,6 +225,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26759402"
-"_sha" "4109a6779e30db7032f30a2ac068b9a2bd10ffc0"
-"_size" "4012"
+"_change_number" "27172903"
+"_sha" "71ddfb6c92cfcf2218774e9110f67e9f74e1fe67"
+"_size" "3732"
