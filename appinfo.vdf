@@ -34,6 +34,7 @@
 		"library_capsule" "zh-cn,en"
 		"library_hero" "en"
 		"library_logo" "zh-xc,en"
+		"library_header" "zh-xc,en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -86,8 +87,21 @@
 				"english" "logo_2x.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"sc_schinese" "4759ec6367c2089d6bad2524c21a3f034339895b/library_header_sc_schinese.jpg"
+				"english" "4759ec6367c2089d6bad2524c21a3f034339895b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"sc_schinese" "4759ec6367c2089d6bad2524c21a3f034339895b/library_header_sc_schinese_2x.jpg"
+				"english" "4759ec6367c2089d6bad2524c21a3f034339895b/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1732765787"
+	"store_asset_mtime" "1737630328"
 	"associations"
 	{
 		"0"
@@ -139,7 +153,7 @@
 		"4" "19"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -222,24 +236,15 @@
 		{
 			"public"
 			{
-				"gid" "5808244938821304414"
-				"size" "993343422"
-				"download" "838050432"
+				"gid" "8047966333491613683"
+				"size" "993289922"
+				"download" "838052288"
 			}
 			"test"
 			{
-				"gid" "5808244938821304414"
-				"size" "993343422"
-				"download" "838050432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "066EAE4F2F98A5B5D6D96D46F6209DE2"
-				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
-				"download" "ED728F8C08F4A1B7203FD9E2AE1CCF5C"
+				"gid" "8047966333491613683"
+				"size" "993289922"
+				"download" "838052288"
 			}
 		}
 	}
@@ -264,40 +269,25 @@
 				"download" "838047344"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "A606CE3FFC3DEB054BB850F211F8F1FE"
-				"size" "079E5F9EDEA24C8A1520C6C8FC574AF4"
-				"download" "D198844798B49B65B5AF636DA6AB0A49"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16720400"
-			"timeupdated" "1734002681"
+			"buildid" "17137206"
+			"timeupdated" "1737906768"
 		}
 		"test"
 		{
 			"sc_schinese" "测试"
-			"buildid" "16720366"
+			"buildid" "17119274"
 			"description" "测试"
-			"timeupdated" "1734002539"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "16565179"
-			"pwdrequired" "1"
-			"timeupdated" "1732792578"
+			"timeupdated" "1737721403"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26640008"
-"_sha" "5cfdbb8f6ed02472dd09a873b46466ff14794e79"
-"_size" "5613"
+"_change_number" "27172953"
+"_sha" "9dfe813db24e14f70f6137e428a9a5ee4eb5fcc5"
+"_size" "5524"
