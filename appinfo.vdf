@@ -166,7 +166,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727232347"
+	"store_asset_mtime" "1736567175"
 	"associations"
 	{
 		"0"
@@ -226,14 +226,14 @@
 	"store_tags"
 	{
 		"0" "21"
-		"1" "1664"
-		"2" "5613"
+		"1" "5613"
+		"2" "1664"
 		"3" "492"
 		"4" "1742"
 		"5" "3834"
 		"6" "5537"
-		"7" "5984"
-		"8" "5716"
+		"7" "5716"
+		"8" "5984"
 		"9" "8369"
 		"10" "6129"
 		"11" "3987"
@@ -295,24 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "8285405556773859921"
-				"size" "6647210681"
-				"download" "5204843312"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "CADEB289DBB3E8FD6DB947EEE8C8A6B7"
-				"size" "DA88D05894F432CCB8B31F5B79C17BE0"
-				"download" "E6AEEA37F7A0BBD70EC47610CDEEF8CD"
-			}
-			"test_branch"
-			{
-				"gid" "2448103E8BB6E6FD9FB81856327AA5E0"
-				"size" "ADB55EFD1B171FFB371832A9AD3ADCBD"
-				"download" "F184F31D880C133D6B99FC30378277BB"
+				"gid" "4757846224404774251"
+				"size" "7166326345"
+				"download" "5611284224"
 			}
 		}
 	}
@@ -332,43 +317,16 @@
 				"download" "5216525168"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "042DF4C269F5DC6A4FFFF94B652252C6"
-				"size" "8A83217754EE7B4F06A7C0D961FF86C9"
-				"download" "161EAD5E5E5E416E73D13F9CCBCB049C"
-			}
-			"test_branch"
-			{
-				"gid" "1B83D82D7AF641427136DBFEA3C20CC1"
-				"size" "454E3A8E1C9D5D25F679E41C12670682"
-				"download" "BB0FFCC9FDCBBBC96291CF5D9406A017"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16550633"
-			"timeupdated" "1732706701"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "13739098"
-			"pwdrequired" "1"
-			"timeupdated" "1710474866"
-		}
-		"test_branch"
-		{
-			"buildid" "16550633"
-			"pwdrequired" "1"
-			"timeupdated" "1732703200"
+			"buildid" "17120387"
+			"timeupdated" "1737889997"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -390,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26384301"
-"_sha" "39ed82d1e57688968c641a9b0342bfa29a327c35"
-"_size" "7628"
+"_change_number" "27171015"
+"_sha" "d2d5aba897befd543506b9064a33a5c13db28294"
+"_size" "6615"
