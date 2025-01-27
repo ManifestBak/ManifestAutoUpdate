@@ -179,6 +179,21 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1736786531"
 	"community_visible_stats" "1"
@@ -208,7 +223,7 @@
 		"19" "1644"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -239,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "6711048106585173150"
-				"size" "2902869227"
-				"download" "911018688"
+				"gid" "1955626302815668571"
+				"size" "2923884733"
+				"download" "916208816"
 			}
 		}
 	}
@@ -249,8 +264,8 @@
 	{
 		"public"
 		{
-			"buildid" "17123435"
-			"timeupdated" "1737743304"
+			"buildid" "17148996"
+			"timeupdated" "1738005947"
 		}
 	}
 	"privatebranches" "1"
@@ -276,6 +291,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27154566"
-"_sha" "ae3856b8fe330317a7c4cfe286ba4fa48c40a11a"
-"_size" "4693"
+"_change_number" "27189394"
+"_sha" "e43d588d37ebc0090b13e6ae35513099382443aa"
+"_size" "4914"
