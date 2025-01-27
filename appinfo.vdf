@@ -142,6 +142,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -168,8 +169,8 @@
 	"store_tags"
 	{
 		"0" "24904"
-		"1" "198631"
-		"2" "6650"
+		"1" "6650"
+		"2" "198631"
 		"3" "3834"
 		"4" "12095"
 		"5" "14139"
@@ -286,3 +287,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26083042"
+"_sha" "3e8e7a362dbff83c8875330f4f59f1c3b69f451f"
+"_size" "4893"
