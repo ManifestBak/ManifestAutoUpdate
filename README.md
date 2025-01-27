@@ -1,58 +1,123 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-27 20:03:32
+## 更新时间：2025-01-27 20:39:47
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 302710 | BlazeRush| Game |
-| 304240 | Resident Evil| Game |
-| 3043220 | Portal: Lost in Aperture| game |
-| 3056270 | Mekkablood: Quarry Assault| Game |
-| 3065170 | Monster Hunter Wilds Beta test| Beta |
-| 304350 | Wildlife Park 2| Game |
-| 3077020 | DOKAPON! Sword of Fury| Game |
-| 3081330 | Bythzkel Sombréa| Game |
-| 3097550 | Valis: The Fantasm Soldier Collection Launcher| Game |
-| 310 | Source 2007 Dedicated Server| Tool |
-| 311120 | The Stalin Subway: Red Veil| Game |
-| 311910 | DIG IT! - A Digger Simulator| Game |
-| 3116270 | WarKlinika Playtest| Beta |
-| 314200 | Bionic Heart| Game |
-| 3130530 | Flame| Game |
-| 315210 | 自杀小队：消灭正义联盟| Game |
-| 3171570 | Yarimono ~ DLC 1| DLC |
-| 315660 | Trainz: A New Era| Game |
-| 3198540 | Dungeon Antiqua| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 322450 | FRAMED Collection| Game |
-| 324160 | CLANNAD| Game |
-| 3241400 | 无名者：屠龙 原声音轨| Music |
-| 324830 | Red Orchestra 2/Rising Storm Alpha Community Maps| Game |
-| 3275340 | Montezuma's Revenge - Director's Cut| DLC |
-| 3281900 | The Cleaning Game| Game |
-| 314160 | Microsoft Flight Simulator X: Steam Edition| Game |
-| 3307560 | FeedBack| Game |
-| 3324030 | 爱坤新手教程| Game |
-| 3352580 | Aloft - 支持者回馈礼包| DLC |
-| 3359830 | 我上了我的爆乳经理| Game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 3410950 | Millionaire Loong| DLC |
-| 3380 | Dynomite! Deluxe| game |
-| 33980 | Pound of Ground| game |
-| 3400 | Hammer Heads Deluxe| game |
-| 3424590 | Jotunnslayer: Hordes of Hel Soundtrack| Music |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
-| 348820 | FIM Speedway Grand Prix 15| Game |
-| 349250 | Copy Kitty| Game |
-| 37010 | Ninja Blade| game |
-| 370650 | Invisible, Inc. Soundtrack| Music |
-| 372140 | Labyrinthine Dreams - Soundtrack| Music |
-| 377840 | FINAL FANTASY IX| Game |
-| 391000 | Farm Frenzy Collection| Game |
-| 395470 | ICARUS.1| Game |
-| 404100 | STEEL STRIDER| Game |
-| 408740 | Pro Gamer Manager| Game |
-| 416350 | MiniBikers| Game |
-| 426820 | Wolfenstein: The New Order - Soundtrack| Music |
+| 1005950 | 大老爷 GrandLordAuto| Game |
+| 1052440 | 黑色規則：西格瑪| Game |
+| 1079460 | Descenders Soundtrack| Music |
+| 1096530 | Solasta: Crown of the Magister| Game |
+| 1104660 | MO:Astray| Game |
+| 1092050 | Fire On Fight : Online Multiplayer Shooter| Game |
+| 1123450 | Chicory: A Colorful Tale| Game |
+| 1113010 | 切尔诺贝利清算人| Game |
+| 1134710 | NIMBY Rails| Game |
+| 1101120 | 枪 匠 模拟器| Game |
+| 1149620 | 加油站大亨| Game |
+| 1159830 | Scene Investigators| Game |
+| 1158540 | photonflowers* - Wallpaper Pack| DLC |
+| 1169740 | 摩天机动队（Danger Scavenger）-赛博朋克风-3D动作闯关-肉鸽游戏| Game |
+| 1173140 | Disco Elysium - Soundtrack & Artbook| DLC |
+| 1176130 | Ashes of the Singularity: Escalation - Hunter / Prey Expansion| DLC |
+| 1179580 | 卡库远古封印| Game |
+| 1211900 | LiEat Rearrange Soundtrack| Music |
+| 1212400 | Heroines of Swords & Spells| Game |
+| 1217400 | Sierra Ops : Episode 2 - Dissonance and Resonance| DLC |
+| 1230230 | Stoneshard - Supporter Pack| DLC |
+| 1232340 | Null & Peta -Invasion of the Queen Bug- Art Book| DLC |
+| 1240630 | Hex of Steel| Game |
+| 1231690 | Coffee Talk - Artbook| DLC |
+| 1273220 | Sphere: Flying Cities| Game |
+| 1268590 | Millennia| Game |
+| 1327080 | Tower and Sword of Succubus| Game |
+| 1343240 | 记忆边境| Game |
+| 1300700 | Kingdom Wars 4| Game |
+| 1286400 | Door Kickers: Action Squad Art Book| DLC |
+| 1383570 | Ballex²: The Hanging Gardens| Game |
+| 1419160 | 英灵士魂| Game |
+| 1432100 | 书行者| Game |
+| 1456820 | 熔铁少女:Sentinel Girls | Game |
+| 1448440 | Wo Long: Fallen Dynasty （卧龙：苍天陨落）| Game |
+| 1506280 | EroPhone| Game |
+| 1538730 | Pirates: Golden tits chapter 1| Game |
+| 1490890 | 鬼灭之刃 火之神血风谭| Game |
+| 1361210 | 战锤40K：暗潮| Game |
+| 1556790 | 伊松佐河| Game |
+| 1566390 | Seed of the Dead: Sweet Home| Game |
+| 1621760 | 生死抉择：血霾| Game |
+| 1632140 | 少女探员| Game |
+| 1634150 | 倾听画语: 最美好的景色| Game |
+| 1606180 | 下一站江湖Ⅱ| Game |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 1725860 | 坑小球的小宇宙| Game |
+| 1660080 | Aloft| Game |
+| 1732390 | 那由多之轨迹：改| Game |
+| 1765300 | 终极僵尸防御2| Game |
+| 1757490 | 女拳主义F-ist！| Game |
+| 1801470 | Devil's Dungeon| Game |
+| 1810920 | 洛夫克拉夫特行动：堕落玩偶 封闭测试| Beta |
+| 1840080 | 家园3| Game |
+| 1731520 | Ark Mobius:Censored Edition| Game |
+| 1877020 | 咒术回战 双华乱舞| Game |
+| 1831250 | WasteLand Express 废土快递| Game |
+| 1948470 | 幽灵少女莱斯灵| Game |
+| 201810 | Wolfenstein: The New Order| Game |
+| 2064490 | 名画展| Game |
+| 2106670 | Gatekeeper| Game |
+| 207930 | Sacred Citadel| Game |
+| 205 | Source Dedicated Server| Tool |
+| 2103130 | 中国式相亲| Game |
+| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
+| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
+| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
+| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
+| 215 | Source SDK Base 2006| Tool |
+| 2209680 | Beach Invasion 1944| Game |
+| 2201710 | 赵云传：云汉腾龙| Game |
+| 2215690 | Click Real Fast| Game |
+| 221001 | FTL: Faster Than Light - Soundtrack| Music |
+| 214630 | Call of Duty: Black Ops - OSX| game |
+| 218 | Source SDK Base 2007| Tool |
+| 2455140 | 魅惑之翼：少女的爆衣攻略| Game |
+| 240 | Counter-Strike: Source| game |
+| 243970 | Invisible, Inc.| Game |
+| 2541100 | Goblin's Bizarre Adventure| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2320270 | IamTheExorcist| Game |
+| 2696050 | YARISUTEMESUBUTA ~ 一次性交易大师 ~| Game |
+| 252490 | Rust| Game |
+| 22380 | Fallout: New Vegas| game |
+| 2775110 | Roommates| Game |
+| 278570 | Labyrinthine Dreams| Game |
+| 2880960 | 僵尸浪潮| Game |
+| 3101230 | Montezuma's Revenge The 40th Anniversary Edition| Game |
+| 33770 | Drakensang The River of Time| game |
 | 42710 | Call of Duty: Black Ops - Multiplayer| game |
-| 42700 | Call of Duty: Black Ops| game |
-| 440090 | Heroes of the West| Game |
+| 447170 | Destiny's Princess: A War Story, A Love Story| Game |
+| 451760 | Highway Blossoms| Game |
+| 50650 | Darksiders II| game |
+| 516331 | Criminal Girls: Invite Only - Digital Soundtrack| Music |
+| 572910 | Rakuen Original Soundtrack| Music |
+| 578281 | A Rose in the Twilight - Digital Soundtrack| Music |
+| 582290 | Rest House| Game |
+| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 626510 | LoveKami -Useless Goddess-| Game |
+| 628670 | Hellpoint| Game |
+| 674020 | World War 3| Game |
+| 699130 | World War Z| Game |
+| 707010 | Will To Live Online| Game |
+| 731040 | 无敌号| Game |
+| 730 | Counter-Strike 2| Game |
+| 7800 | Stubbs the Zombie in Rebel Without a Pulse| game |
+| 798540 | Dying Light Original Soundtrack| Music |
+| 774241 | Warhammer: Chaosbane| Game |
+| 846110 | The friends of Ringo Ishikawa| Game |
+| 838350 | 太吾绘卷 The Scroll Of Taiwu| Game |
+| 856840 | FRAMED Collection - The Original Soundtrack| Music |
+| 855640 | My Brother Rabbit| Game |
+| 914310 | Copy Kitty OST| Music |
+| 922580 | My Brother Rabbit - Original Soundtrack| Music |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
