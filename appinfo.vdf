@@ -3,9 +3,9 @@
 {
 	"name" "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator"
 	"type" "Game"
-	"clienticon" "3495cacd6c80e9d5355517de1f5fb5623fb77fdb"
-	"clienttga" "2c9e1872a7fc5b7f7d847c9d27e927e23fa16ccc"
-	"icon" "98c2591f872700ed69ad21f7cfe4e3a7223b476a"
+	"clienticon" "d9e847b5a48507ed487fb35881eb3230810c4cce"
+	"clienttga" "4216e0274c31f99a507135dae311c6e0fe44f88b"
+	"icon" "1dca9ba0e5073edc3e413f727cb9a5a395bb3a1f"
 	"name_localized"
 	{
 		"tchinese" "蕾斯萊莉婭娜的鍊金工房 ～忘卻的鍊金術與極夜的解放者～"
@@ -297,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "4283883259364456766"
-				"size" "956331278"
-				"download" "488933296"
+				"gid" "196256774856591063"
+				"size" "956356683"
+				"download" "488896016"
 			}
 		}
 	}
@@ -307,13 +307,13 @@
 	{
 		"public"
 		{
-			"buildid" "16934444"
-			"timeupdated" "1736504857"
+			"buildid" "17034921"
+			"timeupdated" "1737947207"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26939370"
-"_sha" "6133235899be1e33687e4e2418d976230f2eda69"
-"_size" "6053"
+"_change_number" "27177344"
+"_sha" "54a54ed05306b30a7a7b093a70dffa5372e8d4b5"
+"_size" "6052"
