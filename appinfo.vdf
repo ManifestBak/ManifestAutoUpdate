@@ -1,0 +1,245 @@
+"appid" "1390480"
+"common"
+{
+	"name" "Never BreakUp Beta"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "63d1bf386070140091bad683ac3c92b6a0d68dbb"
+	"logo_small" "63d1bf386070140091bad683ac3c92b6a0d68dbb_thumb"
+	"icon" "c1bfa52f4956cd8007c21a301eaa7bb9e046d086"
+	"name_localized"
+	{
+		"schinese" " 快到碗里来试玩版"
+		"english" "Never BreakUp Beta"
+	}
+	"clienttga" "6798acf742b4a008979ce2942da4777490c66c48"
+	"clienticon" "f0036dd7b9226133ed4c0d532819ed574ad7e5b9"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"app_retired_publisher_request" "1"
+	"app_retired_was_free" "1"
+	"restricted_countries" "DE"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,ja,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.863477246207708"
+			"height_pct" "51.1398717644265"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.863477246207708"
+				"height_pct" "51.1398717644265"
+			}
+		}
+	}
+	"store_asset_mtime" "1634112336"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ISVR"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ISVR"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "37"
+		"4" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_39" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602822764"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1390480"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "597"
+		"2" "1719"
+		"3" "3843"
+		"4" "1775"
+		"5" "3968"
+		"6" "5350"
+		"7" "1685"
+		"8" "4106"
+		"9" "5537"
+		"10" "4726"
+		"11" "4036"
+		"12" "5154"
+		"13" "1664"
+		"14" "4840"
+		"15" "4182"
+		"16" "10695"
+		"17" "4195"
+		"18" "1625"
+		"19" "21"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "ISVR"
+	"publisher" "ISVR"
+	"homepage" "http://www.is-vr.com/"
+}
+"config"
+{
+	"installdir" "NeverBreakup"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NeverBreakUpBeta.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1390481"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4045546596220006599"
+				"size" "708610266"
+				"download" "268907072"
+			}
+		}
+	}
+	"baselanguages" "english,schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7572775"
+			"timeupdated" "1634804952"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuLianXingMeng/NeverBreakUpBeta/{Steam3AccountID}"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "772c39419ec7ee88ec706043f1c367144375f399"
+"_size" "4170"
