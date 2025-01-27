@@ -177,7 +177,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727337098"
+	"store_asset_mtime" "1732698988"
 	"associations"
 	{
 		"0"
@@ -240,8 +240,8 @@
 		"0" "3799"
 		"1" "1742"
 		"2" "5984"
-		"3" "11014"
-		"4" "3964"
+		"3" "3964"
+		"4" "11014"
 		"5" "122"
 		"6" "492"
 		"7" "6691"
@@ -288,25 +288,16 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese"
+	"baselanguages" "english,french,schinese,tchinese"
 	"1768471"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3510694132181254938"
-				"size" "2027764725"
-				"download" "635150848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "0E214CAA64B1B1BBFC2A7D82B9302D72"
-				"size" "D30AF32A14F333C8A62930619B377472"
-				"download" "CA55B54F49FD6D2FD031689A9B938E5E"
+				"gid" "6835979382563793095"
+				"size" "2034253309"
+				"download" "636541520"
 			}
 		}
 	}
@@ -315,16 +306,11 @@
 	{
 		"public"
 		{
-			"buildid" "15873382"
-			"timeupdated" "1727690515"
-		}
-		"test"
-		{
-			"buildid" "15873382"
-			"pwdrequired" "1"
-			"timeupdated" "1727689048"
+			"buildid" "17061554"
+			"timeupdated" "1737958952"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -340,3 +326,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27178563"
+"_sha" "e4138dc478c1c5722edb15baad7f2ce0246c0002"
+"_size" "6759"
