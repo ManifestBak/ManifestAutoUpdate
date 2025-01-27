@@ -272,6 +272,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1723647075"
 	"community_visible_stats" "1"
@@ -279,25 +284,25 @@
 	"gameid" "1040200"
 	"store_tags"
 	{
-		"0" "6378"
-		"1" "599"
+		"0" "599"
+		"1" "6378"
 		"2" "4345"
 		"3" "4182"
 		"4" "3839"
 		"5" "5611"
-		"6" "19"
-		"7" "21"
+		"6" "1654"
+		"7" "19"
 		"8" "4166"
-		"9" "4136"
-		"10" "4175"
-		"11" "3834"
-		"12" "492"
+		"9" "21"
+		"10" "4136"
+		"11" "4175"
+		"12" "3834"
 		"13" "10235"
-		"14" "1687"
-		"15" "5900"
-		"16" "1680"
-		"17" "5502"
-		"18" "1756"
+		"14" "492"
+		"15" "1687"
+		"16" "5900"
+		"17" "1680"
+		"18" "5502"
 		"19" "4667"
 	}
 	"review_score" "9"
@@ -336,30 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "1073273708044888960"
-				"size" "35459674810"
-				"download" "13577811264"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4E89940703189906E1888068599B7595"
-				"size" "2742E38A88159B0F543772F8C3C76B8A"
-				"download" "757BF6B852AC71DEC1095A626ADDC2C6"
-			}
-			"community"
-			{
-				"gid" "EF79290B3D739CE825E872AD8ACD4BDA"
-				"size" "D5BE0728C8398886B4A2415E4392F0E5"
-				"download" "3C3078BB72BFD54A551CE6D00E47F14E"
-			}
-			"internal"
-			{
-				"gid" "E6D65ACF7B7C4D9DE3A7A04139616BBF"
-				"size" "B94CA4172200377D3DEA444A1BCDCE6F"
-				"download" "935E69C867ACE2796AE882E76E629759"
+				"gid" "4785587150864286837"
+				"size" "35659235745"
+				"download" "13735416688"
 			}
 		}
 	}
@@ -367,28 +351,11 @@
 	{
 		"public"
 		{
-			"buildid" "15885472"
-			"timeupdated" "1727867277"
-		}
-		"beta"
-		{
-			"buildid" "15839953"
-			"pwdrequired" "1"
-			"timeupdated" "1727417964"
-		}
-		"community"
-		{
-			"buildid" "15839953"
-			"pwdrequired" "1"
-			"timeupdated" "1727372128"
-		}
-		"internal"
-		{
-			"buildid" "15885472"
-			"pwdrequired" "1"
-			"timeupdated" "1727768072"
+			"buildid" "17143619"
+			"timeupdated" "1737988665"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -405,6 +372,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25494217"
-"_sha" "043645797a73a38035b1b3d85b756a261f21428f"
-"_size" "7083"
+"_change_number" "27186687"
+"_sha" "77df86fd6217adf610025f14b8e2850c2509f9c9"
+"_size" "6317"
