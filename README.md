@@ -1,45 +1,40 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-27 18:22:26
+## 更新时间：2025-01-27 19:16:42
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1988770 | Souldiers - Artbook| DLC |
-| 2009240 | 生死狙击2 Test Server| Beta |
-| 2674440 | DLC：后汉稽异录•廖豪传| DLC |
-| 2050310 | OutWave| Game |
-| 2079040 | Decision: Red Daze Supporter Bundle| DLC |
-| 2087940 | Non-Stop Raiders| Game |
-| 2091250 | 旅行恋恋: 桌面少女 ~ Koishi Navigation Desktop Youkai| Game |
-| 2104090 | Passed Out Playtest| Beta |
-| 210550 | Angry Birds Space| Game |
-| 211050 | Battle vs Chess| Game |
-| 2114680 | Science Girls| Game |
-| 2114750 | Tsundere Girls| Game |
-| 2116560 | Cepheus Protocol Experimental Branch| Beta |
-| 2116980 | The Hideaway| Game |
-| 2118360 | Thymesia - Artbook| DLC |
-| 212680 | FTL: Faster Than Light| Game |
-| 2128180 | Isonzo: Digital Goods| DLC |
-| 2131710 | CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents| DLC |
-| 2135150 | Elin| Game |
-| 214645 | Call of Duty: Black Ops - OS X First Strike| DLC |
-| 214649 | Call of Duty: Black Ops - OS X Rezurrection| DLC |
-| 214646 | Call of Duty Black Ops First Strike OSX SP| DLC |
-| 214630 | Call of Duty: Black Ops - OSX| game |
-| 214640 | Call of Duty: Black Ops - Multiplayer OSX| game |
-| 2148760 | Extreme Truck Stunts| Game |
-| 215 | Source SDK Base 2006| Tool |
-| 215825 | Darksiders II - Argul's Tomb| DLC |
-| 2158860 | JBMod| Game |
-| 2166290 | The Dead City| Game |
-| 2172010 | Until Dawn™| Game |
-| 218 | Source SDK Base 2007| Tool |
-| 2183230 | 奉仕部活入部体验篇~2時限目| Game |
-| 2186080 | 名画展 - 艺术女神（玩家增益助手）| DLC |
-| 2202140 | 女拳主义F-ist-数位美术设定集| DLC |
-| 2204040 | Inheritance: Ladeina's Path| Game |
-| 2215490 | Project Borealis: Prologue| Game |
-| 2219210 | 贪婪大地 Playtest| Beta |
-| 222750 | Wargame: AirLand Battle| Game |
-| 2229890 | 《命令与征服：变节者》| Game |
-| 2229870 | 《命令与征服：将军》| Game |
+| 2232890 | Wo Long: Fallen Dynasty "数字美术画集" "数字迷你原声碟"| DLC |
+| 22380 | Fallout: New Vegas| game |
+| 2251690 | Click Real Fast - Background Pack| DLC |
+| 2255060 | Beach Invasion 1944 - Holiday DLC| DLC |
+| 22490 | Fallout: New Vegas PCR| game |
+| 2285080 | THE KING OF FIGHTERS XV Playtest| Beta |
+| 2321040 | 佣兵哀歌：巫女与七煞星| Game |
+| 2324720 | R18_DLC| DLC |
+| 2326060 | Chinese Frontiers: Prologue Playtest| Beta |
+| 2336570 | 《废土快递》死者国度扩展包| DLC |
+| 2337480 | Combat Champions Playtest| Beta |
+| 2373290 | 安妮的游戏 The Game of Annie| Game |
+| 2387780 | 龙傲天的多元宇宙| Game |
+| 2411770 | The Twisting Trail of Clues| Game |
+| 239140 | Dying Light| Game |
+| 2417490 | HOLEHOLE| Game |
+| 2425890 | Crossing Damaged Bridge| Game |
+| 2427560 | 致命解药 测试版| Beta |
+| 2430450 | 江湖客栈-单人模式【PVE】| Beta |
+| 2446380 | Chicory: Official Art Book| DLC |
+| 2452270 | Seed of the Dead: Charm Song| DLC |
+| 2454570 | Race of Life - Act 1| Game |
+| 2477070 | Garbage Truck Driving Simulator| Game |
+| 2476880 | Gunbrella Soundtrack| Music |
+| 2485400 | The Bookwalker: Thief of Tales - Digital Artbook| DLC |
+| 2490420 | Mugen Sweeper| Game |
+| 2507400 | Penny Blood: Hellbound| Game |
+| 2527870 | Half Sword Playtest| Beta |
+| 3428340 | 幽霾 豪华升级包| DLC |
+| 2542180 | R18 additional content package -DLC| DLC |
+| 2544910 | 咒术回战 双华乱舞 数字美术书＆原声带| DLC |
+| 2544920 | 咒术回战 双华乱舞 Jujusta 2024| DLC |
+| 2545360 | Lonely Mountains: Snow Riders| Game |
+| 2566520 | 盒裂变：行！| Game |
+| 24010 | Train Simulator Classic 2024| Game |
