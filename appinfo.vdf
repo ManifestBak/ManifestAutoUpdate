@@ -1,0 +1,125 @@
+"appid" "3348000"
+"common"
+{
+	"name" "TheLostVillage-异族再起扩展包"
+	"type" "DLC"
+	"parent" "1963040"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "48e53a9bfbb1bf3a949f89367e59e478884c28b9/capsule_231x87.jpg"
+		"schinese" "ffd3aa69c4185ed4c3101d3181ffaeecbf637942/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"store_screenshot" "ss_2626469a534a57078c0704e26bbb486809576cc0.jpg"
+	"store_asset_mtime" "1737101609"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FunYoo Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FunYoo Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1737361187"
+	"gameid" "3348000"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "122"
+		"3" "21"
+		"4" "7332"
+		"5" "492"
+		"6" "8945"
+		"7" "4328"
+		"8" "3959"
+		"9" "6915"
+		"10" "3813"
+		"11" "1643"
+		"12" "1716"
+		"13" "87918"
+		"14" "4195"
+		"15" "1708"
+		"16" "3810"
+		"17" "1684"
+		"18" "220585"
+		"19" "1723"
+	}
+	"review_score" "7"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"dlcforappid" "1963040"
+	"mustownapptopurchase" "1963040"
+	"developer" "FunYoo Games"
+	"publisher" "FunYoo Games"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"3348000"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2864257072751623876"
+				"size" "18718469"
+				"download" "2182208"
+			}
+		}
+		"dlcappid" "3348000"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17060304"
+			"timeupdated" "1737345014"
+		}
+	}
+}
