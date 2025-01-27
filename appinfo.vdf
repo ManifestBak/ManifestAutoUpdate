@@ -137,6 +137,11 @@
 			"type" "publisher"
 			"name" "The Greys"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Greys Collection"
+		}
 	}
 	"primary_genre" "23"
 	"genres"
@@ -229,8 +234,8 @@
 		"18" "21"
 		"19" "493"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -291,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "1977427244959328218"
-				"size" "12997785657"
-				"download" "12617024000"
+				"gid" "8501730069135674278"
+				"size" "12998141662"
+				"download" "12617362288"
 			}
 		}
 	}
@@ -301,8 +306,8 @@
 	{
 		"public"
 		{
-			"buildid" "17086257"
-			"timeupdated" "1737517992"
+			"buildid" "17139046"
+			"timeupdated" "1737930904"
 		}
 	}
 }
@@ -321,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27105416"
-"_sha" "9219be8d8a57d2e73d33bc6ddee68aa78ccadae2"
-"_size" "5414"
+"_change_number" "27175609"
+"_sha" "8337e9dec20fb0dce19f26d174e9e8e589186979"
+"_size" "5490"
