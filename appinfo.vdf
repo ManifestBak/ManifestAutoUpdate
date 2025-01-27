@@ -1,0 +1,281 @@
+"appid" "1401920"
+"common"
+{
+	"name" "Chinatown Detective Agency: Day One"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "6d65b3377c83415e9851fe1a37e9bddfc4657aff"
+	"clienticon" "184af452209d4ea08ddf821837384f97a0a6e025"
+	"icon" "24b14327af65a6aaff8572f85add68d8bfaabdff"
+	"logo" "b8d800824ee62f811d18c090cb2e9807be3f027d"
+	"logo_small" "b8d800824ee62f811d18c090cb2e9807be3f027d_thumb"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"app_retired_publisher_request" "1"
+	"app_retired_was_free" "1"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "6628654"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1623403486"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "General Interactive Co."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "General Interactive Co."
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1601648408"
+	"community_hub_visible" "1"
+	"gameid" "1401920"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "6052"
+		"2" "5613"
+		"3" "4342"
+		"4" "6378"
+		"5" "8369"
+		"6" "1698"
+		"7" "1742"
+		"8" "3871"
+		"9" "5716"
+		"10" "12472"
+		"11" "4115"
+		"12" "4004"
+		"13" "16689"
+		"14" "3964"
+		"15" "6426"
+		"16" "5030"
+		"17" "4295"
+		"18" "6971"
+		"19" "3916"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "General Interactive Co."
+	"publisher" "General Interactive Co."
+	"homepage" "http://www.generalinteractive.co/"
+}
+"config"
+{
+	"installdir" "Chinatown Detective Agency Day One"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Chinatown Detective Agency.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Chinatown Detective Agency.app\\Contents\\MacOS\\Chinatown Detective Agency"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1401921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "847535404527015625"
+				"size" "1203629903"
+				"download" "686947584"
+			}
+		}
+	}
+	"1401922"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2540791078221917921"
+				"size" "1208322773"
+				"download" "687195792"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6628654"
+			"timeupdated" "1620130239"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "abb48e6d862dca6ca55014879025b9ee5c888c89"
+"_size" "4840"
