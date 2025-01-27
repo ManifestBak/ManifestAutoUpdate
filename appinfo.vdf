@@ -1,0 +1,432 @@
+"appid" "1245480"
+"common"
+{
+	"name" "SYNDUALITY Echo of Ada"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "3dfc0ec488de93b3504c3b0f8c6a9dde5e190785"
+	"clienttga" "e0643657d484a261c9a70ff061c83aa89819eda2"
+	"icon" "ecd889907ba793388b444e3b45e42c176750d7ff"
+	"name_localized"
+	{
+		"koreana" "신듀얼리티: 에코 오브 에이다"
+		"tchinese" "奇異賢伴 愛達之歌"
+		"schinese" "奇异贤伴 爱达之歌"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1245480_eula_0"
+			"name" "SYNDUALITY Echo of Ada EULA"
+			"url" "https://store.steampowered.com//eula/1245480_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1734998400"
+		"tested_build_id" "16684002"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "bb467d09cd301a6d775f5e9958771ac6d91ebccd/capsule_231x87.jpg"
+		"koreana" "eb86e9989cf5738da6edcabee9c768a64e9eb0b0/capsule_231x87_koreana.jpg"
+		"tchinese" "7943d5f7fb343ca36c2a3b5fa46bf56062bf2560/capsule_231x87_tchinese.jpg"
+		"schinese" "7943d5f7fb343ca36c2a3b5fa46bf56062bf2560/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,ko,zh-tw,zh-cn"
+		"library_header" "en,ko,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "94.44122808681242"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "94.44122808681242"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"tchinese" "logo_tchinese.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"koreana" "library_header_koreana.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737610168"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Game Studio Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"italian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"thai"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1737673251"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1245480"
+	"store_tags"
+	{
+		"0" "4821"
+		"1" "353880"
+		"2" "1199779"
+		"3" "1775"
+		"4" "6730"
+		"5" "4085"
+		"6" "9551"
+		"7" "3859"
+		"8" "1708"
+		"9" "4726"
+		"10" "7208"
+		"11" "3814"
+		"12" "4191"
+		"13" "3942"
+		"14" "4747"
+		"15" "1774"
+		"16" "19"
+		"17" "3834"
+		"18" "1662"
+		"19" "4106"
+	}
+	"review_score" "5"
+	"review_percentage" "48"
+}
+"extended"
+{
+	"developer" "Game Studio Inc."
+	"publisher" "Bandai Namco Entertainment"
+	"homepage" "https://synduality-ada.bn-ent.net/"
+	"listofdlc" "2963460,2963470,2963480"
+}
+"config"
+{
+	"installdir" "SYNDUALITY"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_protected_game.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"1245481"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1893482868979790304"
+				"size" "61576195885"
+				"download" "55983473760"
+			}
+		}
+	}
+	"1245482"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2163557720205822787"
+				"size" "15"
+				"download" "64"
+			}
+		}
+	}
+	"1299100"
+	{
+		"dlcappid" "1299100"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5231014665795451893"
+				"size" "14464"
+				"download" "3568"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17070002"
+			"timeupdated" "1737957604"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SIN/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SIN/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27178586"
+"_sha" "1b49368c16a826fc9e196ef0b5f462f3f2713e99"
+"_size" "7810"
