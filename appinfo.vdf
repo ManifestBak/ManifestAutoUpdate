@@ -231,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "5291662889213496812"
-				"size" "47733210"
-				"download" "28496752"
+				"gid" "1294529805733599413"
+				"size" "47735258"
+				"download" "28497488"
 			}
 			"legacy-1.1.72"
 			{
@@ -297,9 +297,9 @@
 			}
 			"beta"
 			{
-				"gid" "5291662889213496812"
-				"size" "47733210"
-				"download" "28496752"
+				"gid" "1294529805733599413"
+				"size" "47735258"
+				"download" "28497488"
 			}
 			"legacy-1.11"
 			{
@@ -324,15 +324,6 @@
 				"gid" "4739767277078529521"
 				"size" "47369524"
 				"download" "28398528"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "D8909612FDD41161BC24BD31CE78E67B"
-				"size" "AB1A56035019E2719550128E18EFA426"
-				"download" "509E219E24DA3C5694426A1F5D96DE7C"
 			}
 		}
 	}
@@ -441,23 +432,14 @@
 				"download" "26571697216"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "8DB793C99FFE1FA21BC91CD41E5A5690"
-				"size" "EAE076D3EFEFC72A89C1D13F96899C6F"
-				"download" "778E878617E381A28469D63C6AF69C35"
-			}
-		}
 	}
 	"workshopdepot" "1134710"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16894454"
-			"timeupdated" "1736009384"
+			"buildid" "16986457"
+			"timeupdated" "1737974093"
 		}
 		"legacy-1.1.72"
 		{
@@ -521,15 +503,9 @@
 		}
 		"beta"
 		{
-			"buildid" "16894454"
+			"buildid" "16986457"
 			"description" "Public beta builds"
-			"timeupdated" "1735852999"
-		}
-		"internal"
-		{
-			"buildid" "16706651"
-			"pwdrequired" "1"
-			"timeupdated" "1733917039"
+			"timeupdated" "1736768666"
 		}
 		"legacy-1.11"
 		{
@@ -556,6 +532,7 @@
 			"timeupdated" "1733132336"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -572,6 +549,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26862243"
-"_sha" "c203eb7733f2ab057de10b6b8340ae3c3df4b539"
-"_size" "10750"
+"_change_number" "27181097"
+"_sha" "16d1b4c25993fe02cf6bd03f5a75b37a9542677b"
+"_size" "10254"
