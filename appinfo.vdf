@@ -115,8 +115,8 @@
 		"0" "599"
 		"1" "9"
 		"2" "47827"
-		"3" "31275"
-		"4" "701"
+		"3" "701"
+		"4" "31275"
 		"5" "12472"
 		"6" "6310"
 		"7" "3871"
@@ -192,24 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "9193142147140384840"
-				"size" "613086460"
-				"download" "326218608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "36D60DEDA81CDF808DE8DDE8681DD3D7"
-				"size" "259CC0A079D9E650FD4B6C324648F964"
-				"download" "84B335C031E77D98364A7A62FDE1806D"
-			}
-			"prerelease"
-			{
-				"gid" "EE049432F385B2233C398150670B0FDA"
-				"size" "2ECD4EA0B3E723EEF04FA29FAD686091"
-				"download" "74E2D6FF58312B5E5EB589A3DC30C2BA"
+				"gid" "7959475851508939230"
+				"size" "588933644"
+				"download" "320078048"
 			}
 		}
 	}
@@ -223,24 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "7688177432615887879"
-				"size" "768192044"
-				"download" "374126400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6F5721A7F054C476B5AE18E4E8644374"
-				"size" "188153B091A795BFD8DC1619C9769CBD"
-				"download" "6C2524D2A59F752E2700C0BB79BE5BE9"
-			}
-			"prerelease"
-			{
-				"gid" "940DCF28B844B728ECC45817C4090FEE"
-				"size" "222033ACE76F54F11D3E12188DD0A614"
-				"download" "0D8445BCFA493432266040924F389471"
+				"gid" "4822142773188346339"
+				"size" "744038976"
+				"download" "367976112"
 			}
 		}
 	}
@@ -254,24 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "4165184699283194053"
-				"size" "613494045"
-				"download" "322180048"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "A51B03A2B257337B2D71144B2BD09B90"
-				"size" "5F5663AA9E3D52D9CBA75B60F682AF7E"
-				"download" "F356AE4076D5F5992590254CD87679F0"
-			}
-			"prerelease"
-			{
-				"gid" "F92880B4DDFCA0829DD50103C1FBEC53"
-				"size" "A9D9C85CB47DBC800969A787A0946169"
-				"download" "5F377CCB3F6DA834C52E88756DF3E793"
+				"gid" "8583828826663779860"
+				"size" "589341229"
+				"download" "316013712"
 			}
 		}
 	}
@@ -279,22 +234,11 @@
 	{
 		"public"
 		{
-			"buildid" "16559362"
-			"timeupdated" "1732751437"
-		}
-		"beta"
-		{
-			"buildid" "16559362"
-			"pwdrequired" "1"
-			"timeupdated" "1732751416"
-		}
-		"prerelease"
-		{
-			"buildid" "16559362"
-			"pwdrequired" "1"
-			"timeupdated" "1732751409"
+			"buildid" "17148652"
+			"timeupdated" "1738003602"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -304,6 +248,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26400199"
-"_sha" "79a98659dd8acc20fd9a334339549658991c3e61"
-"_size" "5296"
+"_change_number" "27188804"
+"_sha" "f2d782ad31ddf11ce5c81d3c563f2dd8b5f39bc3"
+"_size" "3973"
