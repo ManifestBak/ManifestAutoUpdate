@@ -12,6 +12,11 @@
 	"logo" "f78cace6505a74317b4c2c4b18ab6c7e0f71690c"
 	"logo_small" "f78cace6505a74317b4c2c4b18ab6c7e0f71690c_thumb"
 	"releasestate" "released"
+	"name_localized"
+	{
+		"tchinese" "伊甸騎士1:2 淫難的巫女公主賽西莉篇"
+		"schinese" "伊甸骑士1:2 淫难的巫女公主赛西莉篇"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -24,16 +29,21 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "4e35c999360c54b55f58016f065526bd0301af17/capsule_231x87_schinese.jpg"
+		"tchinese" "2dca2648fdeab7966462a576a32de50317363fb2/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
-		"library_logo" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-tw,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -48,10 +58,14 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"schinese" "e85f1cbd80957df3bead804a191ca56a1051ff2d/library_600x900_schinese.jpg"
+				"tchinese" "0b0cc53227d25b9da31555bbea5b21b1f165e35d/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"schinese" "e85f1cbd80957df3bead804a191ca56a1051ff2d/library_600x900_schinese_2x.jpg"
+				"tchinese" "0b0cc53227d25b9da31555bbea5b21b1f165e35d/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -66,10 +80,14 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "7d701a02e41eefc5eb3832bb8be4b387f2ce6163/logo_schinese.png"
+				"tchinese" "df5c4cc8a5332b200fd9c3c566541b2146ce88d3/logo_tchinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "7d701a02e41eefc5eb3832bb8be4b387f2ce6163/logo_schinese_2x.png"
+				"tchinese" "df5c4cc8a5332b200fd9c3c566541b2146ce88d3/logo_tchinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -78,8 +96,17 @@
 				"height_pct" "89.03513757724147"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "fa1187e858be41c78de954c3cc255c153ad134d9/library_header.jpg"
+				"tchinese" "03b9a53136fdcfb0c23e3ecb9cbe99e9c63e9191/library_header_tchinese.jpg"
+				"schinese" "579983949a6a6cf40d7e786390c08639c409fdb6/library_header_schinese.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1618842998"
+	"store_asset_mtime" "1732781171"
 	"associations"
 	{
 		"0"
@@ -120,6 +147,16 @@
 		{
 			"full_audio" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1620976854"
 	"community_hub_visible" "1"
@@ -147,7 +184,7 @@
 		"18" "12095"
 		"19" "11014"
 	}
-	"review_score" "7"
+	"review_score" "8"
 	"review_percentage" "90"
 }
 "extended"
@@ -180,35 +217,54 @@
 				"download" "3997481120"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"1566842"
+	{
+		"config"
 		{
-			"beta"
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "46020D7D07B9C30D08F02B5BF0915EB4"
-				"size" "757C7DF11B0E2B7B7FF300EB9F8E3BA7"
-				"download" "C6CF58E4A12A929052ECA9BB84FDD3AE"
+				"gid" "5947222456778779723"
+				"size" "559788071"
+				"download" "472206176"
 			}
 		}
 	}
+	"1566843"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6571395007689482901"
+				"size" "559828893"
+				"download" "472094304"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "6679807"
-			"timeupdated" "1620714495"
-		}
-		"beta"
-		{
-			"buildid" "6679807"
-			"pwdrequired" "1"
-			"timeupdated" "1620714160"
+			"buildid" "16574163"
+			"timeupdated" "1733389394"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "500000000"
-	"maxnumfiles" "300"
+	"quota" "1500000000"
+	"maxnumfiles" "900"
 	"savefiles"
 	{
 		"0"
@@ -218,5 +274,23 @@
 			"pattern" "*"
 			"recursive" "1"
 		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "waffle/Eden\'s Ritter - TW"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "waffle/Eden\'s Ritter - CN"
+			"pattern" "*"
+			"recursive" "1"
+		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27161076"
+"_sha" "13ebb7a1966615b052d0a48311b4183414d05cc7"
+"_size" "5658"
