@@ -271,7 +271,7 @@
 		"19" "1742"
 	}
 	"review_score" "5"
-	"review_percentage" "49"
+	"review_percentage" "48"
 }
 "extended"
 {
@@ -309,48 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "1432809001907541172"
-				"size" "25951046838"
-				"download" "13749264688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0C920B1BEBF0D0F0DA53E1D53A6A44E9"
-				"size" "C37D09E90FC4ED467345C2411A4A3E65"
-				"download" "76BC8C2B94914CC4D82581E0B1589A47"
-			}
-			"alpha"
-			{
-				"gid" "76B5D56A58A24BB163559C55DAAF3E58"
-				"size" "1A2444E2CE176876E930AA21847E4D7C"
-				"download" "266FD5FD948EA9A93FF7240A09D186CC"
-			}
-			"bimdlc"
-			{
-				"gid" "88D30FB95869C92A6FF2E91B2A4F2144"
-				"size" "8AC03EBD2520186FD5E72906631FAD82"
-				"download" "C2DE360859A810838B59814714F9E11D"
-			}
-			"longhairs"
-			{
-				"gid" "0D95A969C613585410D094A1386E9FFB"
-				"size" "A17BB0F4D0F569A86E282AEA4C9496E0"
-				"download" "60F9B8D82EAA3A78B1E2656D27F6EADF"
-			}
-			"macosx"
-			{
-				"gid" "1D25DCDE67E7F8E2574A3E815CA706DA"
-				"size" "C7D0B0EE093F77266A8F3A4C2FB1A726"
-				"download" "943D0CEA32C7482093176F269DDBC2CF"
-			}
-			"steamdeck"
-			{
-				"gid" "4550426A6E8802D0391AD013EE17A8D6"
-				"size" "E156CD183DDC89EB6A6F38AA7DD8FC2C"
-				"download" "26402A952E53445FBA8222D27B7F2088"
+				"gid" "5960204366393254978"
+				"size" "21331733007"
+				"download" "12828138160"
 			}
 		}
 	}
@@ -363,60 +324,16 @@
 		"manifests"
 		{
 		}
-		"encryptedmanifests"
-		{
-			"macosx"
-			{
-				"gid" "72507ADB1E8F26E125A5E02E2ABF9A9E"
-				"size" "1BBBD7EF09C62CC72A3A3FCA2B07DA95"
-				"download" "F9D1F5E31919C9E1A3C33EB0ADAFBF12"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16580369"
-			"timeupdated" "1733420008"
-		}
-		"beta"
-		{
-			"buildid" "14071433"
-			"pwdrequired" "1"
-			"timeupdated" "1713280236"
-		}
-		"alpha"
-		{
-			"buildid" "15602432"
-			"pwdrequired" "1"
-			"timeupdated" "1725535290"
-		}
-		"bimdlc"
-		{
-			"buildid" "14613586"
-			"pwdrequired" "1"
-			"timeupdated" "1717604731"
-		}
-		"longhairs"
-		{
-			"buildid" "16580369"
-			"pwdrequired" "1"
-			"timeupdated" "1732891939"
-		}
-		"macosx"
-		{
-			"buildid" "15887548"
-			"pwdrequired" "1"
-			"timeupdated" "1727779945"
-		}
-		"steamdeck"
-		{
-			"buildid" "14817439"
-			"pwdrequired" "1"
-			"timeupdated" "1719390526"
+			"buildid" "17146916"
+			"timeupdated" "1737999693"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -424,6 +341,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26512495"
-"_sha" "528048b43b3ba8cc6633640b6748c52d86850d8e"
-"_size" "7692"
+"_change_number" "27187686"
+"_sha" "e070199215119d9499186219eea74aab62d43d7c"
+"_size" "5821"
