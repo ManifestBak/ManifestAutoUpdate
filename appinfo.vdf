@@ -1,0 +1,145 @@
+"appid" "582400"
+"common"
+{
+	"name" "Alien Swarm: Reactive Drop Dedicated Server"
+	"type" "Tool"
+	"parent" "563560"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "ebb7491e0400dacd15f6d09b4226ca8ee71dc1b7"
+	"logo" "22eb8626af99c447b422df3a28f2b4c395e94576"
+	"logo_small" "22eb8626af99c447b422df3a28f2b4c395e94576_thumb"
+	"clienticon" "b38c50b6c3dea460c3d50f19f65deacee9a63aa9"
+	"clienttga" "020b464639e70c25a8a9024e1101caf17bc26964"
+	"osextended" ""
+	"name_localized"
+	{
+		"russian" "Alien Swarm: Reactive Drop - Выделенный сервер"
+		"brazilian" "Alien Swarm: Reactive Drop - Servidor Dedicado"
+	}
+	"freetodownload" "1"
+	"metacritic_name" "Alien Swarm: Reactive Drop Dedicated Server"
+	"associations"
+	{
+	}
+	"steam_release_date" "1492708020"
+	"gameid" "582400"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "Alien Swarm Reactive Drop"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds_console.exe"
+			"arguments" "-console -game reactivedrop +exec server +map lobby"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"582401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "563621876600320884"
+				"size" "2737108702"
+				"download" "673400944"
+			}
+			"beta"
+			{
+				"gid" "1984218301828173164"
+				"size" "2737234116"
+				"download" "673320272"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16830239"
+			"timeupdated" "1735685953"
+		}
+		"beta"
+		{
+			"buildid" "17133936"
+			"description" " Latest changes. Probably broken."
+			"timeupdated" "1737858247"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27168495"
+"_sha" "ece7281195224cb1c61323994c83d3ab17a99460"
+"_size" "2447"
