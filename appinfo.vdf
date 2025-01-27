@@ -5,8 +5,8 @@
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "954f3458532e101718475eaa8e0b7c8cd7de5324"
-	"clienticon" "61f427c12cf5579e14ebabaf5f54321e0d4b65ca"
-	"clienttga" "ef9adcd823f8be0f84cd08fe99acf39f77fb2e40"
+	"clienticon" "df7377c4656363817144011fe037c05c6f8ba021"
+	"clienttga" "f71331d017ce6486c673a43dc4f6cc550f30773f"
 	"oslist" "windows,macos,linux"
 	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
@@ -273,26 +273,27 @@
 	{
 		"0" "791774"
 		"1" "1091588"
-		"2" "1666"
-		"3" "9"
-		"4" "1741"
-		"5" "1716"
-		"6" "597"
-		"7" "3959"
-		"8" "4325"
-		"9" "32322"
-		"10" "4604"
-		"11" "1684"
-		"12" "4172"
-		"13" "4182"
-		"14" "11123"
-		"15" "4711"
-		"16" "122"
-		"17" "3871"
-		"18" "492"
+		"2" "1720"
+		"3" "1666"
+		"4" "1716"
+		"5" "9"
+		"6" "1741"
+		"7" "597"
+		"8" "3959"
+		"9" "4325"
+		"10" "32322"
+		"11" "4604"
+		"12" "1684"
+		"13" "1770"
+		"14" "3871"
+		"15" "4172"
+		"16" "4182"
+		"17" "17389"
+		"18" "11123"
+		"19" "122"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -343,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "4988916538102851555"
-				"size" "495961057"
-				"download" "118833856"
+				"gid" "8777731681989012494"
+				"size" "495894832"
+				"download" "118811200"
 			}
 		}
 	}
@@ -359,9 +360,9 @@
 		{
 			"public"
 			{
-				"gid" "5777964915893754021"
-				"size" "519789605"
-				"download" "125885296"
+				"gid" "5221018182537909381"
+				"size" "520070057"
+				"download" "125901904"
 			}
 		}
 	}
@@ -375,9 +376,9 @@
 		{
 			"public"
 			{
-				"gid" "2469058251750107572"
-				"size" "496748794"
-				"download" "117716672"
+				"gid" "3444991046780589577"
+				"size" "496632795"
+				"download" "117678288"
 			}
 		}
 	}
@@ -386,8 +387,8 @@
 	{
 		"public"
 		{
-			"buildid" "17089472"
-			"timeupdated" "1737539598"
+			"buildid" "17145262"
+			"timeupdated" "1737985032"
 		}
 	}
 }
@@ -440,6 +441,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27109478"
-"_sha" "a44c53474a8cdea235345c9c567869df90cdceff"
-"_size" "10053"
+"_change_number" "27183665"
+"_sha" "3e52e28f4111952e9fc10d7beff21652dc6cbfc5"
+"_size" "10071"
