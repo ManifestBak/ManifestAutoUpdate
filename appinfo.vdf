@@ -38,7 +38,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728456929"
+	"store_asset_mtime" "1728378257"
 	"associations"
 	{
 		"0"
@@ -68,11 +68,6 @@
 	"supported_languages"
 	{
 		"schinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -120,9 +115,9 @@
 		{
 			"public"
 			{
-				"gid" "9113770351092371437"
-				"size" "11372892"
-				"download" "11358208"
+				"gid" "3090768815637351321"
+				"size" "34531594"
+				"download" "34676000"
 			}
 		}
 	}
@@ -130,12 +125,8 @@
 	{
 		"public"
 		{
-			"buildid" "15976971"
-			"timeupdated" "1728457018"
+			"buildid" "15967748"
+			"timeupdated" "1728395121"
 		}
 	}
 }
-"_missing_token" "False"
-"_change_number" "25623124"
-"_sha" "ff94f546ea4443037aa9c9e2185f20455cc92a83"
-"_size" "2235"
