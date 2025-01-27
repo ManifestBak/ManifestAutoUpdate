@@ -261,36 +261,15 @@
 		{
 			"public"
 			{
-				"gid" "1693405218479332651"
+				"gid" "8965851416238316314"
 				"size" "1217609659"
-				"download" "1012724320"
+				"download" "1012725056"
 			}
 			"previous_version"
 			{
 				"gid" "7793288730915193497"
 				"size" "1165282802"
 				"download" "961007712"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "FCE9E484B335BA00A4441D3A874910B9"
-				"size" "B849B6F22FDDF22E9615B76169CABE16"
-				"download" "B9319D7E6C69FAD3D1B1CCE54045D2A5"
-			}
-			"system_info"
-			{
-				"gid" "48594033D01DB74781CF243D10DB219C"
-				"size" "84577C34284C0138F6AF7692C42ED285"
-				"download" "A6E02CD3046BA58507B1541DAD8F3D99"
-			}
-			"systeminfo_beta"
-			{
-				"gid" "3872DC5611BE4A46F6A1C1E23BEE7A89"
-				"size" "B6F1E3F81366E4BCEC968456524A2849"
-				"download" "8346FEB5CFBE5523E30568C8C8E298CB"
 			}
 		}
 	}
@@ -310,40 +289,13 @@
 				"download" "868204144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "96AAB2A763E63F137F9D23B310D3ADD5"
-				"size" "EB34C07C2F5D7E2540C3A407951BA61E"
-				"download" "984B44D0ECC7B4042EF6CF01E8549DA9"
-			}
-			"system_info"
-			{
-				"gid" "30CB7C59260CC35B0D3F1CF2E9754D59"
-				"size" "10AECDA6B9A2A312A8F6E95A8ACC64D6"
-				"download" "903887E44ACAC48A891FDA225550F5FC"
-			}
-			"systeminfo_beta"
-			{
-				"gid" "2C082B421A5CFA770EC8FF6E9A967E88"
-				"size" "EB6BA393A956212515D27F0311C99AFD"
-				"download" "E4411D4700D0C484E8518134384F0322"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17011469"
-			"timeupdated" "1736938423"
-		}
-		"beta"
-		{
-			"buildid" "5553156"
-			"pwdrequired" "1"
-			"timeupdated" "1600268681"
+			"buildid" "17116966"
+			"timeupdated" "1737989349"
 		}
 		"previous_version"
 		{
@@ -351,21 +303,10 @@
 			"description" "previous version (1.0.1227)"
 			"timeupdated" "1478863823"
 		}
-		"system_info"
-		{
-			"buildid" "17011469"
-			"pwdrequired" "1"
-			"timeupdated" "1736935983"
-		}
-		"systeminfo_beta"
-		{
-			"buildid" "16496498"
-			"pwdrequired" "1"
-			"timeupdated" "1733306465"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27005791"
-"_sha" "0228655de1ae8dc4a03d0741e205631deadf1194"
-"_size" "6585"
+"_change_number" "27184860"
+"_sha" "1d547df3d39b42bbe7507373b8851148fefbdb0f"
+"_size" "5166"
