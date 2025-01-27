@@ -70,6 +70,8 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -124,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1696168956"
+	"store_asset_mtime" "1737753942"
 	"associations"
 	{
 		"0"
@@ -149,7 +151,6 @@
 		"0" "25"
 		"1" "23"
 		"2" "28"
-		"3" "70"
 	}
 	"category"
 	{
@@ -157,6 +158,8 @@
 		"category_38" "1"
 		"category_1" "1"
 		"category_9" "1"
+		"category_22" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -194,7 +197,8 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1622236239"
+	"steam_release_date" "1738000471"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1562260"
 	"store_tags"
@@ -221,7 +225,7 @@
 		"19" "10235"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "62"
 }
 "extended"
 {
@@ -253,18 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "4269391104474249454"
-				"size" "1609592887"
-				"download" "455793280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "3EBE6FD4DAFA782C5E0983203AF43584"
-				"size" "2350E6F211002E3A478B458C15CBDBB7"
-				"download" "D6BD61690A4360A022CDA3CC2B0D7116"
+				"gid" "8439799486304619461"
+				"size" "1923205703"
+				"download" "557536320"
 			}
 		}
 	}
@@ -272,14 +267,13 @@
 	{
 		"public"
 		{
-			"buildid" "13559847"
-			"timeupdated" "1708903930"
-		}
-		"beta"
-		{
-			"buildid" "13559482"
-			"pwdrequired" "1"
-			"timeupdated" "1708899229"
+			"buildid" "17146670"
+			"timeupdated" "1738000116"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27187920"
+"_sha" "3cabe36c97488e53edf4d20dc42c9c267d973ef0"
+"_size" "4919"
