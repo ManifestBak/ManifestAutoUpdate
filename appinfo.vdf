@@ -10,7 +10,7 @@
 			"id" "1511460_eula_0"
 			"name" "InfraSpace EULA"
 			"url" "https://store.steampowered.com//eula/1511460_eula_0"
-			"version" "1"
+			"version" "4"
 		}
 	}
 	"oslist" "windows,macos"
@@ -257,7 +257,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -304,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "3777975517040415157"
-				"size" "6638862793"
-				"download" "2962499760"
+				"gid" "9090251419840082892"
+				"size" "6641659673"
+				"download" "2962429696"
 			}
 			"alpha-10-pipes-update"
 			{
@@ -356,32 +356,11 @@
 				"size" "2396416539"
 				"download" "1022990080"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"preview-test"
+			"release-1-before-mountain-map"
 			{
-				"gid" "2BB00EE2E6343E1C5E53596FA1981551"
-				"size" "963E1C74D3D9CBE9EB5ADF5EEDFFCB91"
-				"download" "F99CE5AD93197D4B23E12743F55B658A"
-			}
-			"bot-builds"
-			{
-				"gid" "6524DA34035DB9672C5748C8A28083DB"
-				"size" "F81F03150642C7191B3053BA9948F84C"
-				"download" "4AD0D0A12A787B3CEFE72789AE0CF653"
-			}
-			"build-test"
-			{
-				"gid" "57B85903EA101267ACEF7EF52676A87C"
-				"size" "87FBF5E5F394AB66E32054194694D96B"
-				"download" "539EAA33B63EE75EF3EA903782826B8F"
-			}
-			"developmentplaytest"
-			{
-				"gid" "A0B245D059FDB24937BCFA8095D7ED9F"
-				"size" "9AF2765BC9D7C447C3981743749BBB32"
-				"download" "D879414CC031B7864B5D92E5691DBC21"
+				"gid" "6997807567070894586"
+				"size" "6604601939"
+				"download" "2942217392"
 			}
 		}
 	}
@@ -395,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "5146863859412282848"
-				"size" "6643411139"
-				"download" "2950918080"
+				"gid" "979422305937002107"
+				"size" "6646208019"
+				"download" "2950957888"
 			}
 			"beta-2-balancing-update"
 			{
@@ -405,32 +384,11 @@
 				"size" "5685878742"
 				"download" "2513057536"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"preview-test"
+			"release-1-before-mountain-map"
 			{
-				"gid" "0968979C9A2C2B384D4227C241077223"
-				"size" "586D1D435462F57C11E24B76EB5B12F9"
-				"download" "19191016E5CA6F0763D434423CC3DE71"
-			}
-			"bot-builds"
-			{
-				"gid" "BABA6D7D8B7D2051B071E9D6E4973720"
-				"size" "56E14BA584FA70DCE8FF85E966C3A8F1"
-				"download" "5F1B190855DABE802148F69728618C4E"
-			}
-			"build-test"
-			{
-				"gid" "F8E0DF7378E40C60F0967841C1C91B93"
-				"size" "C8143E07719993CB0DE4A7D707219C23"
-				"download" "14F0C77F07DD00F3DD3F4F88BC7EAFA9"
-			}
-			"developmentplaytest"
-			{
-				"gid" "74CC1318569A8FB7BF0070E4788CF5FA"
-				"size" "6859E80D11174728A4541846DEF3D1B6"
-				"download" "B4BA787CBADCBE331A4077CDBBFF9EBB"
+				"gid" "2042104652440732326"
+				"size" "6643886316"
+				"download" "2950228816"
 			}
 		}
 	}
@@ -438,8 +396,8 @@
 	{
 		"public"
 		{
-			"buildid" "15618066"
-			"timeupdated" "1725636931"
+			"buildid" "17145479"
+			"timeupdated" "1737987251"
 		}
 		"alpha-10-pipes-update"
 		{
@@ -489,31 +447,14 @@
 			"description" "Alpha 7: Early Access Release"
 			"timeupdated" "1639174904"
 		}
-		"preview-test"
-		{
-			"buildid" "12916806"
-			"pwdrequired" "1"
-			"timeupdated" "1702087378"
-		}
-		"bot-builds"
-		{
-			"buildid" "15618066"
-			"pwdrequired" "1"
-			"timeupdated" "1725636741"
-		}
-		"build-test"
+		"release-1-before-mountain-map"
 		{
 			"buildid" "14487953"
-			"pwdrequired" "1"
-			"timeupdated" "1725632877"
-		}
-		"developmentplaytest"
-		{
-			"buildid" "15618066"
-			"pwdrequired" "1"
-			"timeupdated" "1725636910"
+			"description" "Release 1: Before Mountain Map"
+			"timeupdated" "1736256877"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -535,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26132493"
-"_sha" "f7b6c0ce550782f6cbc706c6f22a24f15684dc0a"
-"_size" "10126"
+"_change_number" "27184252"
+"_sha" "71060af787fc3dc5123428f0c6591a8547968e32"
+"_size" "8644"
