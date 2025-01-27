@@ -69,7 +69,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "8071b0cf46fda2ec1ae550d0e8f5773a01f709e3/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -94,7 +94,7 @@
 		}
 	}
 	"store_screenshot" "ss_9ca195b216997ff56470887ad05ae8f7262b519a.jpg"
-	"store_asset_mtime" "1723495242"
+	"store_asset_mtime" "1735608180"
 	"associations"
 	{
 		"0"
@@ -108,6 +108,11 @@
 			"name" "Steve Reynolds"
 		}
 		"2"
+		{
+			"type" "developer"
+			"name" "Lokesh Dhanger"
+		}
+		"3"
 		{
 			"type" "publisher"
 			"name" "James Sager"
@@ -220,9 +225,9 @@
 		{
 			"public"
 			{
-				"gid" "1327747966796973114"
-				"size" "6233302195"
-				"download" "4203289376"
+				"gid" "5168789884455025393"
+				"size" "10117428550"
+				"download" "4932369328"
 			}
 		}
 	}
@@ -230,12 +235,12 @@
 	{
 		"public"
 		{
-			"buildid" "16831131"
-			"timeupdated" "1734912652"
+			"buildid" "17139376"
+			"timeupdated" "1737939464"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26757298"
-"_sha" "4e9dff4f2a1a090c3b47b11a220654c8ba65a160"
-"_size" "4371"
+"_change_number" "27176472"
+"_sha" "6e67f89f187fe6cbdce31c8c228b5994ffc159ad"
+"_size" "4483"
