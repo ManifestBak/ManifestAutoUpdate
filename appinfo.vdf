@@ -218,6 +218,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1722567385"
 	"community_visible_stats" "1"
@@ -286,24 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "630213369123331357"
-				"size" "6390422385"
-				"download" "937842256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gaimi2077"
-			{
-				"gid" "1FBAA561D4E5AA694C595D7D1DECE930"
-				"size" "1C7D40A02672A4AD1C0BEE20D44CCE8B"
-				"download" "5C5363EA9B492970C9AF97AFE2465557"
-			}
-			"gametest"
-			{
-				"gid" "6B76EBE6894F1694BC149F9D0280933F"
-				"size" "60D3FCB417C30007F593C7294BACAB99"
-				"download" "5EE66BAD0668C3D31D8043C206E45A95"
+				"gid" "3660561471239302152"
+				"size" "7534651402"
+				"download" "2072909984"
 			}
 		}
 	}
@@ -311,22 +316,11 @@
 	{
 		"public"
 		{
-			"buildid" "16206618"
-			"timeupdated" "1730169135"
-		}
-		"gaimi2077"
-		{
-			"buildid" "12761388"
-			"pwdrequired" "1"
-			"timeupdated" "1700578333"
-		}
-		"gametest"
-		{
-			"buildid" "16168396"
-			"pwdrequired" "1"
-			"timeupdated" "1729787903"
+			"buildid" "17145708"
+			"timeupdated" "1737988371"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -343,6 +337,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25942856"
-"_sha" "b373b56119f098a71d9154249633fd3dd28fad56"
-"_size" "6981"
+"_change_number" "27185815"
+"_sha" "4b300594bc8e101c02510a7c28f0e698373e5772"
+"_size" "6703"
