@@ -1,0 +1,278 @@
+"appid" "1069760"
+"common"
+{
+	"name" "Ethereal Enigma"
+	"type" "Game"
+	"logo" "acb07402c83e229687d28d77823cc4e08e31e57c"
+	"logo_small" "acb07402c83e229687d28d77823cc4e08e31e57c_thumb"
+	"icon" "382f94165f2370077cf3ec33256d5704af67304c"
+	"clienticon" "89721259ff39dac31eb2916ee6d93d45313254e8"
+	"clienttga" "4e8538badff743b15235afa9ba5a87f220e2e17e"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1655769600"
+		"tested_build_id" "8036751"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ethereal Enigma"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.48970251716247"
+			"height_pct" "55.69935882213252"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.48970251716247"
+				"height_pct" "55.69935882213252"
+			}
+		}
+	}
+	"store_asset_mtime" "1667005177"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PixelFade"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PixelFade"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1598080721"
+	"community_hub_visible" "1"
+	"gameid" "1069760"
+	"store_tags"
+	{
+		"0" "4486"
+		"1" "3799"
+		"2" "9551"
+		"3" "4947"
+		"4" "4434"
+		"5" "3871"
+		"6" "4726"
+		"7" "122"
+		"8" "4136"
+		"9" "1742"
+		"10" "1654"
+		"11" "6426"
+		"12" "6971"
+		"13" "4085"
+		"14" "599"
+		"15" "4305"
+		"16" "6815"
+		"17" "1719"
+		"18" "4166"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "PixelFade"
+	"publisher" "PixelFade"
+	"homepage" "https://www.pixelfade.com"
+}
+"config"
+{
+	"installdir" "Ethereal Enigma"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ethereal Enigma.exe"
+			"description" "Windows Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ethereal Enigma.app"
+			"description" "Mac Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1069761"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "588503116661546496"
+				"size" "1539637598"
+				"download" "1321283152"
+			}
+		}
+	}
+	"1069762"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2417190030726633662"
+				"size" "1580537611"
+				"download" "1334743904"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8036751"
+			"timeupdated" "1642458217"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PixelFade Inc/Ethereal Enigma/Utage/SaveSampleLive2D/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "com.PixelFade.EtherealEnigma/Utage/SaveSampleLive2D/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "7361b5093e2efc9ed9109e6377b43cb920ad6c4b"
+"_size" "4670"
