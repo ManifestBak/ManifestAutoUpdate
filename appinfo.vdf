@@ -103,7 +103,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "06bc2facc6e5af8c6fc2540ed5504cecb725363d/capsule_231x87.jpg"
+		"english" "8530515f92fc31dee9c68be3adf2a887fcbc3a19/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -129,11 +129,11 @@
 		{
 			"image"
 			{
-				"english" "d6db083569571f10ca61c8e8b4d586b98f567b0c/library_600x900.jpg"
+				"english" "64b34813afd8e458feb0e1bd7c1c01907a377edb/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "d6db083569571f10ca61c8e8b4d586b98f567b0c/library_600x900_2x.jpg"
+				"english" "64b34813afd8e458feb0e1bd7c1c01907a377edb/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -183,7 +183,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737562852"
+	"store_asset_mtime" "1737986806"
 	"associations"
 	{
 		"0"
@@ -202,13 +202,12 @@
 			"name" "Luden.io"
 		}
 	}
-	"primary_genre" "70"
+	"primary_genre" "23"
 	"genres"
 	{
 		"0" "23"
 		"1" "28"
 		"2" "2"
-		"3" "70"
 	}
 	"category"
 	{
@@ -233,16 +232,19 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"german"
 		{
@@ -386,7 +388,7 @@
 		}
 	}
 	"original_release_date" "1613635200"
-	"steam_release_date" "1613660353"
+	"steam_release_date" "1737986991"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -474,6 +476,7 @@
 "depots"
 {
 	"baselanguages" "english"
+	"workshopdepot" "1150090"
 	"1150091"
 	{
 		"config"
@@ -484,15 +487,15 @@
 		{
 			"public"
 			{
-				"gid" "631010927142473587"
-				"size" "5067136033"
-				"download" "790287088"
+				"gid" "7186169301240411831"
+				"size" "5181010960"
+				"download" "861808800"
 			}
 			"unstable"
 			{
-				"gid" "631010927142473587"
-				"size" "5067136033"
-				"download" "790287088"
+				"gid" "7186169301240411831"
+				"size" "5181010960"
+				"download" "861808800"
 			}
 		}
 	}
@@ -506,15 +509,15 @@
 		{
 			"public"
 			{
-				"gid" "2546172177230310420"
-				"size" "5089810788"
-				"download" "796468848"
+				"gid" "266283869172403529"
+				"size" "5203691052"
+				"download" "867986352"
 			}
 			"unstable"
 			{
-				"gid" "2546172177230310420"
-				"size" "5089810788"
-				"download" "796468848"
+				"gid" "266283869172403529"
+				"size" "5203691052"
+				"download" "867986352"
 			}
 		}
 	}
@@ -528,15 +531,15 @@
 		{
 			"public"
 			{
-				"gid" "4404208194436724837"
-				"size" "5104798027"
-				"download" "789220128"
+				"gid" "5652239830464808878"
+				"size" "5218673698"
+				"download" "860734992"
 			}
 			"unstable"
 			{
-				"gid" "4404208194436724837"
-				"size" "5104798027"
-				"download" "789220128"
+				"gid" "5652239830464808878"
+				"size" "5218673698"
+				"download" "860734992"
 			}
 		}
 	}
@@ -547,31 +550,49 @@
 		{
 			"public"
 			{
-				"gid" "2480139420960372841"
-				"size" "371731061"
-				"download" "174959984"
+				"gid" "3394500727485230935"
+				"size" "405450274"
+				"download" "208467168"
 			}
 			"unstable"
 			{
-				"gid" "2480139420960372841"
-				"size" "371731061"
-				"download" "174959984"
+				"gid" "3394500727485230935"
+				"size" "405450274"
+				"download" "208467168"
 			}
 		}
 	}
-	"workshopdepot" "1150090"
+	"1545771"
+	{
+		"dlcappid" "1545771"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2873284061721377256"
+				"size" "868694104"
+				"download" "864819968"
+			}
+			"unstable"
+			{
+				"gid" "2873284061721377256"
+				"size" "868694104"
+				"download" "864819968"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16787195"
-			"timeupdated" "1734532384"
+			"buildid" "17130585"
+			"timeupdated" "1737987506"
 		}
 		"unstable"
 		{
-			"buildid" "16787195"
+			"buildid" "17130585"
 			"description" "Unstable build"
-			"timeupdated" "1734527934"
+			"timeupdated" "1737987546"
 		}
 	}
 	"privatebranches" "1"
@@ -582,6 +603,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27115181"
-"_sha" "52d7e9e833a811ea0046a785d0464c071d7c3488"
-"_size" "10261"
+"_change_number" "27184349"
+"_sha" "88f856718b87061ce6c1082b04841eb4d41aa5f4"
+"_size" "10621"
