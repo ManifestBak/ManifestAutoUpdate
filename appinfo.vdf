@@ -159,6 +159,16 @@
 			"executable" "VirtuaCreature.exe"
 			"type" "default"
 		}
+		"1"
+		{
+			"executable" "ModLoader.exe"
+			"type" "config"
+			"description_loc"
+			{
+				"english" "ModLoader"
+			}
+			"description" "ModLoader"
+		}
 	}
 }
 "depots"
@@ -169,9 +179,9 @@
 		{
 			"public"
 			{
-				"gid" "6467022650015783059"
-				"size" "53015328"
-				"download" "31182960"
+				"gid" "3996329039013793237"
+				"size" "85112620"
+				"download" "47508896"
 			}
 			"legacy"
 			{
@@ -180,22 +190,13 @@
 				"download" "13353376"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "DEA979CD2DBF69FB07B95DD9F8D6AEBB"
-				"size" "69953AF84EC4B4AF1D67010B138AF630"
-				"download" "5EE0AEFD613B90083246922D02D24262"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13915779"
-			"timeupdated" "1712526996"
+			"buildid" "17125816"
+			"timeupdated" "1738014003"
 		}
 		"legacy"
 		{
@@ -203,18 +204,13 @@
 			"description" "2020 Legacy Version - 1.5.1"
 			"timeupdated" "1678498025"
 		}
-		"preview"
-		{
-			"buildid" "13915779"
-			"pwdrequired" "1"
-			"timeupdated" "1712003748"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "20000"
-	"maxnumfiles" "7"
+	"quota" "10000000"
+	"maxnumfiles" "1000"
 	"savefiles"
 	{
 		"0"
@@ -222,32 +218,17 @@
 			"root" "WinAppDataRoaming"
 			"path" "zip.vc/Local Store/data"
 			"pattern" "*.sav"
+			"recursive" "1"
 		}
-	}
-}
-"localization"
-{
-	"richpresence"
-	{
-		"english"
+		"1"
 		{
-			"tokens"
-			{
-				"#status_atmainmenu" "At the title screen"
-				"#status_inmenus" "Raising a creature"
-				"#status_playm" "Playing a minigame"
-				"#status_playa" "Clearing an arena - %gstatus%"
-				"#status_playt" "Clearing a tower - %gstatus%"
-				"#status_mine" "Using the Void Mine"
-				"#status_playmp" "PvP - {#Status_m%action%}"
-				"#status_playcoop" "Co-Op - {#Status_m%format%}"
-				"#status_minmenu" "In Menus"
-				"#status_msearch" "Searching for match"
-				"#status_mwait" "Waiting for match"
-				"#status_mplay" "Playing match"
-				"#status_mplayers" "{#Status_m%action%} - %gstatus%"
-				"#status_mnoplayers" "{#Status_m%action%}"
-			}
+			"root" "WinAppDataRoaming"
+			"path" "zip.vc/Local Store/#SharedObjects"
+			"pattern" "*.sav.sol"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27190933"
+"_sha" "3e469d8bc6fa91b3e7d93fe55cb1b4e61349bc92"
+"_size" "3850"
