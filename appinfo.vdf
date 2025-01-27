@@ -19,6 +19,7 @@
 		"japanese" "IDUN - 前線防衛サバイバル"
 	}
 	"aicontenttype" "1"
+	"metacritic_name" "IDUN - Frontline Survival"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -190,6 +191,8 @@
 	}
 	"steam_release_date" "1737392464"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2186360/discussions/0/575995207062967449/"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/idun---frontline-survival\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2186360"
@@ -217,7 +220,7 @@
 		"19" "5125"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -284,15 +287,15 @@
 		{
 			"public"
 			{
-				"gid" "8980532177119547014"
-				"size" "1193652493"
-				"download" "617386960"
+				"gid" "7121183874258531254"
+				"size" "1158213983"
+				"download" "600275520"
 			}
 			"beta"
 			{
-				"gid" "8980532177119547014"
-				"size" "1193652493"
-				"download" "617386960"
+				"gid" "7121183874258531254"
+				"size" "1158213983"
+				"download" "600275520"
 			}
 		}
 	}
@@ -306,15 +309,15 @@
 		{
 			"public"
 			{
-				"gid" "6702299321463289894"
-				"size" "1223519449"
-				"download" "627192496"
+				"gid" "4040512421652634775"
+				"size" "1188079418"
+				"download" "610088080"
 			}
 			"beta"
 			{
-				"gid" "6702299321463289894"
-				"size" "1223519449"
-				"download" "627192496"
+				"gid" "4040512421652634775"
+				"size" "1188079418"
+				"download" "610088080"
 			}
 		}
 	}
@@ -328,15 +331,15 @@
 		{
 			"public"
 			{
-				"gid" "4137463901246177930"
-				"size" "1253823403"
-				"download" "626734496"
+				"gid" "2270909226722679729"
+				"size" "1218384867"
+				"download" "609616672"
 			}
 			"beta"
 			{
-				"gid" "4137463901246177930"
-				"size" "1253823403"
-				"download" "626734496"
+				"gid" "2270909226722679729"
+				"size" "1218384867"
+				"download" "609616672"
 			}
 		}
 	}
@@ -344,14 +347,14 @@
 	{
 		"public"
 		{
-			"buildid" "17119817"
-			"timeupdated" "1737724303"
+			"buildid" "17143660"
+			"timeupdated" "1737982285"
 		}
 		"beta"
 		{
-			"buildid" "17119817"
+			"buildid" "17143660"
 			"description" "Public beta branch"
-			"timeupdated" "1737724276"
+			"timeupdated" "1737975862"
 		}
 	}
 }
@@ -405,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27149598"
-"_sha" "059bd00c248cdbce5411cb922f4d49bb59af463b"
-"_size" "7700"
+"_change_number" "27183675"
+"_sha" "e62ae9b90eb4ef7bf2c0696128d19c58cf87885b"
+"_size" "7883"
