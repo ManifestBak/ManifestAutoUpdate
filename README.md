@@ -1,23 +1,38 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-27 17:00:24
+## 更新时间：2025-01-27 17:20:50
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1377570 | Kingdom Wars 4 - Dead Rising| DLC |
-| 1380040 | Hellpoint Digital Artbook| DLC |
-| 1401920 | Chinatown Detective Agency: Day One| Game |
-| 1404680 | Succubus Hunter| DLC |
-| 1421160 | Dota2nobu| Game |
-| 1428220 | The friends of Ringo Ishikawa – Manga| DLC |
-| 1438980 | Solasta: Crown of the Magister - Supporter Pack| DLC |
-| 3412770 | NEEDY GIRL OVERDOSE ARTWORKS| DLC |
-| 1455550 | Warhammer: Chaosbane - 4K Textures| DLC |
-| 1461030 | Carnivores: Dinosaur Hunt| Game |
-| 1467020 | Aefen Fall| Game |
-| 1475180 | XPock| Game |
-| 1478860 | Builder Simulator Playtest| Beta |
-| 1504360 | Happy Day| Game |
-| 1506230 | Bigfoot Forest| Game |
-| 1511510 | Heroines of Swords & Spells: Green Furies| DLC |
-| 1512080 | 熔鉄少女画集| DLC |
-| 1519850 | STOP AND MOVE| Game |
+| 1541760 | Resident Evil Re:Verse 测试版| Game |
+| 1560280 | Stubbs the Zombie in Rebel Without a Pulse - The Fartbook| DLC |
+| 1566840 | 伊甸骑士1:2 淫难的巫女公主赛西莉篇| Game |
+| 1566910 | Riddle Girl| Game |
+| 1574800 | Among Ass 2: Butt Warfare| Game |
+| 1577040 | Pirates: Golden Tits Sea Devil Story| DLC |
+| 1575830 | ArcRunner| Game |
+| 2555280 | Gunbrella - Digital Comic| DLC |
+| 1588410 | 温泉勇者| Game |
+| 1594550 | EroPhone - 18+ Adult Only Content| DLC |
+| 1608070 | CRISIS CORE –FINAL FANTASY VII– REUNION| Game |
+| 1618050 | 合成复古蒸汽波| Game |
+| 1620040 | Nickelodeon Kart Racers 3: Slime Speedway| Game |
+| 1626600 | 桃夭塔 Taoyaota| Game |
+| 1656020 | Mortal Rite Playtest| Beta |
+| 1665400 | ToneStone Beta| Beta |
+| 1692200 | DRAGON BALL: THE BREAKERS Playtest| Beta |
+| 1813870 | SVFI - 透明通道支持| DLC |
+| 1697170 | 大家一起冲冲冲| Game |
+| 1706650 | Women's Prison| Game |
+| 1718570 | 神之天平（ASTLIBRA Revision）| Game |
+| 1727100 | 69 Summon Succubus| Game |
+| 1732390 | 那由多之轨迹：改| Game |
+| 1732050 | Love Season| Game |
+| 1734960 | POWERNAUT 2| Game |
+| 1740520 | Behind the Frame: The Finest Scenery - Art Book| DLC |
+| 1760470 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles:  Character Avatar (Final Selection Tanjiro)| DLC |
+| 1760480 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Character avatars x 12 (full roster)| DLC |
+| 1760490 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles:  High-res PC Wallpaper (Previously Steam profile background)| DLC |
+| 1760500 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Character avatars x 10 (full roster)| DLC |
+| 1773940 | Sphere - Flying Cities: Save the World Bonus Content| DLC |
+| 1773960 | Ark Mobius: Censored Edition - adult patch| DLC |
+| 1781260 | 漫游奇境 Promenade| Game |
