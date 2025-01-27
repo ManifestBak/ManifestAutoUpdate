@@ -111,7 +111,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733147023"
+	"store_asset_mtime" "1736181368"
 	"associations"
 	{
 		"0"
@@ -296,6 +296,12 @@
 		{
 			"public"
 			{
+				"gid" "4784656047098858216"
+				"size" "6918948933"
+				"download" "921588512"
+			}
+			"old_version"
+			{
 				"gid" "6366865359050113748"
 				"size" "6915719374"
 				"download" "918625408"
@@ -306,8 +312,15 @@
 	{
 		"public"
 		{
+			"buildid" "17141115"
+			"timeupdated" "1737958578"
+		}
+		"old_version"
+		{
+			"sc_schinese" "旧版本v1.1.2"
 			"buildid" "16811498"
-			"timeupdated" "1734684027"
+			"description" "Old version v1.1.2"
+			"timeupdated" "1737434657"
 		}
 	}
 	"privatebranches" "1"
@@ -320,6 +333,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26729513"
-"_sha" "7d96a80886392afa0a16608e6b7379c017132267"
-"_size" "6146"
+"_change_number" "27178520"
+"_sha" "b0deb97a3aa6477033a87bea8579e4a3edc9c80b"
+"_size" "6427"
