@@ -1,0 +1,241 @@
+"appid" "3043220"
+"common"
+{
+	"name" "Portal: Lost in Aperture"
+	"section_type" "ownersonly"
+	"type" "game"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"icon" "86674a2ad98dd3b3f209485a947e525cea3ebdb3"
+	"clienttga" "45ecf51dc9c29e6534e34adc42a1398260476af5"
+	"clienticon" "1432a94a6680b79a590cda4bde6eefdd218abffb"
+	"parent" "400"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"hungarian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "4e4d623981b6844961cc53f946fc9ceea0ca5649/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "19.00291668616032"
+			"height_pct" "30.34957278731811"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "19.00291668616032"
+				"height_pct" "30.34957278731811"
+			}
+			"image"
+			{
+				"english" "15199dd23fa9354253a9bafb66b30a58d4afd9cb/logo.png"
+			}
+			"image2x"
+			{
+				"english" "15199dd23fa9354253a9bafb66b30a58d4afd9cb/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732734079"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Innoarchitect kft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Innoarchitect kft"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "2"
+		"5" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_16" "1"
+		"category_13" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1725285600"
+	"community_hub_visible" "1"
+	"gameid" "3043220"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "21"
+		"3" "113"
+		"4" "492"
+		"5" "597"
+		"6" "1664"
+		"7" "5900"
+		"8" "5537"
+		"9" "4191"
+		"10" "3839"
+		"11" "4175"
+		"12" "4295"
+		"13" "6129"
+		"14" "5673"
+		"15" "5716"
+		"16" "7250"
+		"17" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"developer" "Innoarchitect kft"
+	"publisher" "Innoarchitect kft"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Portal Lost in Aperture"
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "4"
+	"mustownapptopurchase" "220"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "hl2.exe"
+			"arguments" "-game \"lostinaperture\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "For Windows"
+			}
+			"description" "For Windows"
+		}
+		"1"
+		{
+			"executable" "hl2.sh"
+			"arguments" "-game \"lostinaperture\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "For Linux"
+			}
+			"description" "For Linux"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"3043221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5487854068679044023"
+				"size" "10892013659"
+				"download" "5295477808"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17123374"
+			"timeupdated" "1737742913"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
