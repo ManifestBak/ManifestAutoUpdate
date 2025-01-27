@@ -1,0 +1,171 @@
+"appid" "2116560"
+"common"
+{
+	"name" "Cepheus Protocol Experimental Branch"
+	"type" "Beta"
+	"parent" "979640"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "34054bde6bd85a1299ea5f215164bb6bbed76304"
+	"clienticon" "37c2f3cbfd4b44cfa88c7815fb4902ebb5d569e2"
+	"clienttga" "28cbff32772d43a0232e23db730c6c2785b484bc"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.40925266903915"
+			"height_pct" "75.83288149888548"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.40925266903915"
+				"height_pct" "75.83288149888548"
+			}
+		}
+	}
+	"store_asset_mtime" "1660093659"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1660249860"
+	"community_hub_visible" "1"
+	"gameid" "2116560"
+	"exfgls" "6"
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"betaforappid" "979640"
+}
+"config"
+{
+	"installdir" "Cepheus Protocol Experimental Branch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CepheusProtocol.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Default"
+			}
+			"description" "Default"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"2116561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4937720133361902194"
+				"size" "6244803158"
+				"download" "5523390384"
+			}
+			"podcast"
+			{
+				"gid" "4937720133361902194"
+				"size" "6244803158"
+				"download" "5523390384"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16850509"
+			"timeupdated" "1736121067"
+		}
+		"podcast"
+		{
+			"buildid" "16850509"
+			"description" "Podcast build"
+			"timeupdated" "1736117669"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "25"
+	"appidredirect" "979640"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "CepheusProtocol/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"copied_from_parent" "1"
+	}
+}
+"_missing_token" "False"
+"_change_number" "26871267"
+"_sha" "86cba62df0c3dd02ce000c3bd341a6a58463e3c4"
+"_size" "2794"
