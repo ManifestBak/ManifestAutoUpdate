@@ -96,7 +96,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723636714"
+	"store_asset_mtime" "1738029486"
 	"associations"
 	{
 		"0"
@@ -170,7 +170,7 @@
 		"13" "4559"
 	}
 	"review_score" "7"
-	"review_percentage" "100"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -210,9 +210,9 @@
 		{
 			"public"
 			{
-				"gid" "174577632089398678"
-				"size" "80966344"
-				"download" "26887936"
+				"gid" "3312061448838025116"
+				"size" "87536680"
+				"download" "31734720"
 			}
 		}
 	}
@@ -220,8 +220,8 @@
 	{
 		"public"
 		{
-			"buildid" "15640452"
-			"timeupdated" "1725897974"
+			"buildid" "17152326"
+			"timeupdated" "1738029523"
 		}
 	}
 }
@@ -243,3 +243,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27193479"
+"_sha" "e152acf3daf23f8b97db2dda7fbe618163ce9338"
+"_size" "3910"
