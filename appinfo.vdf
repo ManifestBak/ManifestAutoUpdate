@@ -123,7 +123,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737548839"
+	"store_asset_mtime" "1738086443"
 	"associations"
 	{
 		"0"
@@ -208,6 +208,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1679698380"
 	"community_visible_stats" "1"
@@ -279,21 +285,21 @@
 		{
 			"public"
 			{
-				"gid" "9200374166263260935"
-				"size" "4801211943"
-				"download" "1867992624"
+				"gid" "126628248400146187"
+				"size" "4840609924"
+				"download" "1882374560"
 			}
 			"beta"
 			{
-				"gid" "9200374166263260935"
-				"size" "4801211943"
-				"download" "1867992624"
+				"gid" "126628248400146187"
+				"size" "4840609924"
+				"download" "1882374560"
 			}
 			"previous"
 			{
-				"gid" "3334315035990709320"
-				"size" "4798246717"
-				"download" "1866505936"
+				"gid" "9200374166263260935"
+				"size" "4801211943"
+				"download" "1867992624"
 			}
 		}
 	}
@@ -302,20 +308,20 @@
 	{
 		"public"
 		{
-			"buildid" "17002887"
-			"timeupdated" "1736876155"
+			"buildid" "17161176"
+			"timeupdated" "1738085836"
 		}
 		"beta"
 		{
-			"buildid" "17002887"
-			"description" "v1.0.4.19"
-			"timeupdated" "1736876095"
+			"buildid" "17161176"
+			"description" "v1.0.5.2"
+			"timeupdated" "1738085806"
 		}
 		"previous"
 		{
-			"buildid" "16819235"
-			"description" "v1.0.4.16"
-			"timeupdated" "1736875203"
+			"buildid" "17002887"
+			"description" "v1.0.4.19"
+			"timeupdated" "1738085775"
 		}
 	}
 	"privatebranches" "1"
@@ -326,6 +332,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27111655"
-"_sha" "c0ebed734b7c8757732db7c69a7525dc5529b000"
-"_size" "5934"
+"_change_number" "27205213"
+"_sha" "8fb45c40817767aee62ced82cd5998a1ccd1d3c1"
+"_size" "6028"
