@@ -196,8 +196,8 @@
 		"6" "5752"
 		"7" "3942"
 		"8" "4295"
-		"9" "599"
-		"10" "1774"
+		"9" "1774"
+		"10" "599"
 		"11" "3993"
 		"12" "1697"
 		"13" "5363"
@@ -268,30 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "8655744535032809270"
-				"size" "8629345922"
-				"download" "8157005216"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"gc-test"
-			{
-				"gid" "93BC1DBAF41D2C956642FCB6971AE35A"
-				"size" "5411C4E8C17234780DB833DC4B5D20CD"
-				"download" "6C0E6D93B617CCC2961894C8A8730040"
-			}
-			"test-hidden-launcher"
-			{
-				"gid" "747B548E54710432A13D086A4A2F562E"
-				"size" "2AD33DA8133082A63B45F66AD12BD381"
-				"download" "4E7C9ACFFE9A9F48563C51F5A8DA89FE"
-			}
-			"test-hidden-launcher-opr-mg"
-			{
-				"gid" "0BD13D92E2B51A4E3147F485D359F4D0"
-				"size" "6FFE691E4BA0B92552D9277C3A8F15E2"
-				"download" "F00CCA48E6F74970AF5FEDED8995C146"
+				"gid" "1142684794696631058"
+				"size" "9087689636"
+				"download" "8587318848"
 			}
 		}
 	}
@@ -299,30 +278,13 @@
 	{
 		"public"
 		{
-			"buildid" "16705356"
-			"timeupdated" "1733926196"
-		}
-		"gc-test"
-		{
-			"buildid" "11588400"
-			"pwdrequired" "1"
-			"timeupdated" "1688043955"
-		}
-		"test-hidden-launcher"
-		{
-			"buildid" "16705356"
-			"pwdrequired" "1"
-			"timeupdated" "1733909654"
-		}
-		"test-hidden-launcher-opr-mg"
-		{
-			"buildid" "16694788"
-			"pwdrequired" "1"
-			"timeupdated" "1733839376"
+			"buildid" "17143058"
+			"timeupdated" "1738081379"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26594213"
-"_sha" "6d0c06c00b694b4c1d9ff57359f660aa9e35881d"
-"_size" "5743"
+"_change_number" "27203859"
+"_sha" "50df8cafda2e394bcce4163a35c273f9f5231251"
+"_size" "4837"
