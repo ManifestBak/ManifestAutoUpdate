@@ -126,6 +126,11 @@
 		}
 		"1"
 		{
+			"type" "developer"
+			"name" "烟熏渔"
+		}
+		"2"
+		{
 			"type" "publisher"
 			"name" "Ze_Yu"
 		}
@@ -225,9 +230,9 @@
 		{
 			"public"
 			{
-				"gid" "686859758746736890"
-				"size" "2395025720"
-				"download" "570711504"
+				"gid" "5484929831108763927"
+				"size" "2396084836"
+				"download" "570661152"
 			}
 		}
 	}
@@ -235,8 +240,8 @@
 	{
 		"public"
 		{
-			"buildid" "16901101"
-			"timeupdated" "1735925786"
+			"buildid" "17160255"
+			"timeupdated" "1738083511"
 		}
 	}
 	"privatebranches" "1"
@@ -261,6 +266,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26854182"
-"_sha" "707380c634e6843a872f697e8e2a13c4dc620d1b"
-"_size" "5019"
+"_change_number" "27204408"
+"_sha" "1ac3b9a6586d616242f58d07bcb7cd18d5df72cd"
+"_size" "5085"
