@@ -192,8 +192,8 @@
 	"store_tags"
 	{
 		"0" "12472"
-		"1" "1643"
-		"2" "599"
+		"1" "599"
+		"2" "1643"
 		"3" "4695"
 		"4" "4845"
 		"5" "3810"
@@ -282,15 +282,15 @@
 		{
 			"public"
 			{
-				"gid" "2716710086345873863"
-				"size" "753442217"
-				"download" "250231504"
+				"gid" "4097991742667953939"
+				"size" "753487665"
+				"download" "250235248"
 			}
 			"unstable"
 			{
-				"gid" "2716710086345873863"
-				"size" "753442217"
-				"download" "250231504"
+				"gid" "4097991742667953939"
+				"size" "753487665"
+				"download" "250235248"
 			}
 			"legacy"
 			{
@@ -305,15 +305,6 @@
 				"download" "152213440"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev"
-			{
-				"gid" "B48BD8EFDD2A47E740C6DDE4B8F1EB7C"
-				"size" "82C47973D74E564A33BCDFFE4BB723C8"
-				"download" "794D5B7DE3ED2E2A28738B749ABF67E7"
-			}
-		}
 	}
 	"362622"
 	{
@@ -325,15 +316,15 @@
 		{
 			"public"
 			{
-				"gid" "4608481460179192286"
-				"size" "764521667"
-				"download" "259445248"
+				"gid" "8582411332784953735"
+				"size" "764559243"
+				"download" "259445776"
 			}
 			"unstable"
 			{
-				"gid" "4608481460179192286"
-				"size" "764521667"
-				"download" "259445248"
+				"gid" "8582411332784953735"
+				"size" "764559243"
+				"download" "259445776"
 			}
 			"legacy"
 			{
@@ -348,15 +339,6 @@
 				"download" "150473152"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev"
-			{
-				"gid" "E8C728DD3922458DF02765ADDA6E6D08"
-				"size" "61D7C63B7017784C23D14E3BF3E8FF0C"
-				"download" "F5DA67AC5FB20BE2E62A608D37DCA051"
-			}
-		}
 	}
 	"362623"
 	{
@@ -368,15 +350,15 @@
 		{
 			"public"
 			{
-				"gid" "4176911037685855821"
-				"size" "722812871"
-				"download" "242657360"
+				"gid" "3086018437759804523"
+				"size" "722858071"
+				"download" "242660944"
 			}
 			"unstable"
 			{
-				"gid" "4176911037685855821"
-				"size" "722812871"
-				"download" "242657360"
+				"gid" "3086018437759804523"
+				"size" "722858071"
+				"download" "242660944"
 			}
 			"legacy"
 			{
@@ -391,15 +373,6 @@
 				"download" "147982976"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev"
-			{
-				"gid" "310B6FC52083E2CA1E9D86DC1D45272C"
-				"size" "4D94C53D66DABA2117D5DCB828A45391"
-				"download" "0CAB25DF8F6FF3A29D3A6BA04080C5A6"
-			}
-		}
 	}
 	"362624"
 	{
@@ -412,15 +385,15 @@
 		{
 			"public"
 			{
-				"gid" "4984745489478414162"
-				"size" "756396177"
-				"download" "251739824"
+				"gid" "4538904346256357310"
+				"size" "756441625"
+				"download" "251742368"
 			}
 			"unstable"
 			{
-				"gid" "4984745489478414162"
-				"size" "756396177"
-				"download" "251739824"
+				"gid" "4538904346256357310"
+				"size" "756441625"
+				"download" "251742368"
 			}
 			"legacy"
 			{
@@ -435,28 +408,19 @@
 				"download" "152992720"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev"
-			{
-				"gid" "AE267BA2753F8AE331531D663DDA91AB"
-				"size" "A34CBE1F00A501E1FE947927D22AF032"
-				"download" "0D72D0C605E519EE65ED982E5A3C08A1"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16523572"
-			"timeupdated" "1732536532"
+			"buildid" "17145764"
+			"timeupdated" "1738061218"
 		}
 		"unstable"
 		{
-			"buildid" "16523572"
+			"buildid" "17145764"
 			"description" "Beta 1.8"
-			"timeupdated" "1732536510"
+			"timeupdated" "1737987759"
 		}
 		"legacy"
 		{
@@ -470,13 +434,8 @@
 			"description" "Alpha 10"
 			"timeupdated" "1649707389"
 		}
-		"dev"
-		{
-			"buildid" "16523572"
-			"pwdrequired" "1"
-			"timeupdated" "1732536200"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -543,6 +502,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26348185"
-"_sha" "2659519bee4151da2b5987a6541da23f23475cc7"
-"_size" "9605"
+"_change_number" "27199065"
+"_sha" "73ea5db6e627ea05d501965e0a028551eab8335e"
+"_size" "8718"
