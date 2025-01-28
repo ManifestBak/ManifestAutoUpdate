@@ -222,8 +222,8 @@
 		"18" "3916"
 		"19" "4182"
 	}
-	"review_score" "6"
-	"review_percentage" "70"
+	"review_score" "5"
+	"review_percentage" "65"
 }
 "extended"
 {
@@ -251,10 +251,10 @@
 			}
 			"description_loc"
 			{
-				"english" "Backrooms rebirth 2 Official version"
-				"schinese" "后室重生2正式版"
+				"english" "Backrooms rebirth 3"
+				"schinese" "后室重生3正式版"
 			}
-			"description" "Backrooms rebirth 2 Official version"
+			"description" "Backrooms rebirth 3"
 		}
 		"2"
 		{
@@ -266,25 +266,10 @@
 			}
 			"description_loc"
 			{
-				"english" "Backrooms rebirth 3 Beta"
-				"schinese" "后室重生3测试版"
+				"english" "Backrooms rebirth 2 old"
+				"schinese" "后室重生2老版本"
 			}
-			"description" "Backrooms rebirth 3 Beta"
-		}
-		"3"
-		{
-			"executable" "WindowsNoEditor\\OpenbackroomsIII.exe"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "Backrooms Rebirth 1 old"
-				"schinese" "后室重生1 老版本"
-			}
-			"description" "Backrooms Rebirth 1 old"
+			"description" "Backrooms rebirth 2 old"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -328,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3254159850860522217"
-				"size" "11630645020"
-				"download" "8422229872"
+				"gid" "8574569809370645203"
+				"size" "9626620021"
+				"download" "6636270144"
 			}
 		}
 	}
@@ -338,8 +323,8 @@
 	{
 		"public"
 		{
-			"buildid" "17093403"
-			"timeupdated" "1737561656"
+			"buildid" "17160269"
+			"timeupdated" "1738080923"
 		}
 	}
 }
@@ -353,6 +338,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27114806"
-"_sha" "b82a6b04eeebabfcb7be33f2d444908debfa8b18"
-"_size" "7178"
+"_change_number" "27203728"
+"_sha" "8d990543a74a2d54dfad762eb18231f9dfe10dd3"
+"_size" "6832"
