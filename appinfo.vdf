@@ -38,6 +38,12 @@
 			"version" "1"
 		}
 	}
+	"name_localized"
+	{
+		"tchinese" "全軍破敵：戰鎚3"
+		"schinese" "全面战争：战锤3"
+		"koreana" "토탈워: 워해머 3"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -389,9 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "457933101958896176"
-				"size" "510980798"
-				"download" "275912160"
+				"gid" "5573291537662015381"
+				"size" "502631614"
+				"download" "271456528"
 			}
 			"domesticated_1_3_retail"
 			{
@@ -401,9 +407,9 @@
 			}
 			"last_hotfix"
 			{
-				"gid" "1352786401938670298"
-				"size" "509878974"
-				"download" "274927840"
+				"gid" "457933101958896176"
+				"size" "510980798"
+				"download" "275912160"
 			}
 			"last_patch"
 			{
@@ -413,9 +419,9 @@
 			}
 			"last_release"
 			{
-				"gid" "1352786401938670298"
-				"size" "509878974"
-				"download" "274927840"
+				"gid" "457933101958896176"
+				"size" "510980798"
+				"download" "275912160"
 			}
 			"last_update"
 			{
@@ -453,9 +459,9 @@
 		{
 			"public"
 			{
-				"gid" "6892931734226240939"
-				"size" "120683253053"
-				"download" "77893980096"
+				"gid" "4312461788094671005"
+				"size" "120683278709"
+				"download" "77893985824"
 			}
 			"domesticated_1_3_retail"
 			{
@@ -465,9 +471,9 @@
 			}
 			"last_hotfix"
 			{
-				"gid" "6705472705443252068"
-				"size" "120683246908"
-				"download" "77893989952"
+				"gid" "6892931734226240939"
+				"size" "120683253053"
+				"download" "77893980096"
 			}
 			"last_patch"
 			{
@@ -477,9 +483,9 @@
 			}
 			"last_release"
 			{
-				"gid" "6705472705443252068"
-				"size" "120683246908"
-				"download" "77893989952"
+				"gid" "6892931734226240939"
+				"size" "120683253053"
+				"download" "77893980096"
 			}
 			"last_update"
 			{
@@ -1363,9 +1369,9 @@
 		{
 			"public"
 			{
-				"gid" "889416853338667391"
+				"gid" "5057254357349121517"
 				"size" "72659874"
-				"download" "3798320"
+				"download" "3798400"
 			}
 			"domesticated_1_3_retail"
 			{
@@ -1375,9 +1381,9 @@
 			}
 			"last_hotfix"
 			{
-				"gid" "7998683098302341206"
+				"gid" "889416853338667391"
 				"size" "72659874"
-				"download" "3798384"
+				"download" "3798320"
 			}
 			"last_patch"
 			{
@@ -1387,9 +1393,9 @@
 			}
 			"last_release"
 			{
-				"gid" "7998683098302341206"
+				"gid" "889416853338667391"
 				"size" "72659874"
-				"download" "3798384"
+				"download" "3798320"
 			}
 			"last_update"
 			{
@@ -3564,9 +3570,9 @@
 			}
 			"dev_nightly"
 			{
-				"gid" "E0B6B469C4EC6F429325011C5E1BA729"
-				"size" "AFA0FCA853CDA54E373F33AEE2B3103D"
-				"download" "5214EAB0D58F18A420FA33F68594D52B"
+				"gid" "6215E4A78DB0DBE35516293A5F960497"
+				"size" "598C57A2696EA8453D440DC62884CBFD"
+				"download" "39DA6ED52582D69D1E220C94DCF79E8D"
 			}
 			"domesticated_sync_current"
 			{
@@ -3708,8 +3714,8 @@
 	{
 		"public"
 		{
-			"buildid" "16998540"
-			"timeupdated" "1736852237"
+			"buildid" "17159328"
+			"timeupdated" "1738076105"
 		}
 		"domesticated_1_3_retail"
 		{
@@ -3719,9 +3725,9 @@
 		}
 		"last_hotfix"
 		{
-			"buildid" "16998606"
-			"description" "Rollback to 6.0.2 (Build #31241)"
-			"timeupdated" "1736852655"
+			"buildid" "17159369"
+			"description" "Rollback to 6.0.3 (Build #31607)"
+			"timeupdated" "1738076292"
 		}
 		"last_patch"
 		{
@@ -3731,9 +3737,9 @@
 		}
 		"last_release"
 		{
-			"buildid" "16998620"
-			"description" "Rollback to 6.0.2 (Build #31241)"
-			"timeupdated" "1736852709"
+			"buildid" "17159365"
+			"description" "Rollback to 6.0.3 (Build #31607)"
+			"timeupdated" "1738076258"
 		}
 		"last_update"
 		{
@@ -3954,6 +3960,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27000908"
-"_sha" "231f4151b4081b0656f5676eb869e0999c6e8455"
-"_size" "69078"
+"_change_number" "27203428"
+"_sha" "a3ac78cd9caa35f212bf4b8093d38a8cbb896dd7"
+"_size" "69222"
