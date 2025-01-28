@@ -272,15 +272,15 @@
 		"11" "7622"
 		"12" "1775"
 		"13" "7481"
-		"14" "3859"
-		"15" "3968"
+		"14" "3968"
+		"15" "3859"
 		"16" "4182"
 		"17" "129761"
 		"18" "1695"
 		"19" "21978"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -388,150 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "5387953669354386392"
-				"size" "50225153005"
-				"download" "46230658192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"agerating"
-			{
-				"gid" "3C03273FE3E1C1438DB25D8645D0EBEB"
-				"size" "6184E6DDDDF61D186621D6AD76342A64"
-				"download" "64F29DE94961871A342F2856A82E9A8F"
-			}
-			"build_testing"
-			{
-				"gid" "C61B2913D548AD13E6B9A56DCA9035A8"
-				"size" "927A084FB0F3B2C4C85DB8BB93293F9E"
-				"download" "E9F99C32D84D3AB6284BF7A9DF48BB9A"
-			}
-			"capture"
-			{
-				"gid" "655F30FCEA2A1145819818561D73F5B0"
-				"size" "8145076913CDEF1E6C3C0A2614A7F76E"
-				"download" "EB2AE4B3BF90586C29FB1ECFC7011141"
-			}
-			"feature_per_tire_friction_nightly"
-			{
-				"gid" "9F3BFB8DC92EFE17DA300430E2E98FB5"
-				"size" "85800FC66D33179CE472814FEC194657"
-				"download" "470A0356D60FB9183F00197210794EF7"
-			}
-			"feature_per_tire_friction_shipping"
-			{
-				"gid" "AF2E88EC533DB7AC582427A769B36934"
-				"size" "DEE9BDE4CD3D95762550580470A4C676"
-				"download" "94E6DF047534CFE30EAD0A0B3A8C6506"
-			}
-			"feature_replay_nightly"
-			{
-				"gid" "77602747145E9A38E094F8E68270E706"
-				"size" "1D2E7B0ECDF5E217FCC3C64218B50533"
-				"download" "1F6F3FCA502C61524CEFC685B460CD24"
-			}
-			"feature_replay_shipping"
-			{
-				"gid" "7B1E2ED94CCA13F723ED86F860D3E416"
-				"size" "0BE1A16EEF31C7F6E48F416A45AB2C51"
-				"download" "9CA9609CC19D2E992DE829FEBBC605E4"
-			}
-			"lqa_testing"
-			{
-				"gid" "AD46CADE5ED3404A9BA61F138C360B11"
-				"size" "02290E02C6CC4B8A163941BA40F308CB"
-				"download" "28D9D92F926E06713F697C006A9EF7E2"
-			}
-			"marketing"
-			{
-				"gid" "6DFB9288326A4FC02029AA05C960D6F4"
-				"size" "3B3A6448A4FB097DF8AEE440585621F6"
-				"download" "228CFBAC882C1A1EB79FD6ABAD4C2EE1"
-			}
-			"milestone"
-			{
-				"gid" "BA7DE14A2D033105A01068A9BA8DD4CF"
-				"size" "CBBFFCEDA2EAC8FF5BADB2392F55CBC0"
-				"download" "F6DE80E04C721A967C9A15A9DE9AB581"
-			}
-			"osplaytest"
-			{
-				"gid" "EA5EDE90061CE00189B4F19197DDC7AC"
-				"size" "A445F845E51301F7FE2538C535E4075E"
-				"download" "679700023EABF14CB5915C6CC1E7BDD8"
-			}
-			"public_beta"
-			{
-				"gid" "81E708551566809AF97D8EFC13E8F567"
-				"size" "BE9888CB5BA7E21C9243FEBE261901C4"
-				"download" "1BE08F91D9FDB32BF70FC6186576944A"
-			}
-			"creators"
-			{
-				"gid" "1294B99F868D5C8947273C01958D9617"
-				"size" "2D937060ECE7FD81EBBE8746C649A287"
-				"download" "6F59E570649BB2DC0167504E63677182"
-			}
-			"creators-testing"
-			{
-				"gid" "776BC5AC1FCB231A1F7F228673B88B55"
-				"size" "55B02C995989CF373238A687A5A778CA"
-				"download" "67B457D4662E34A976720AFE94D99B41"
-			}
-			"gfeature_nightly"
-			{
-				"gid" "63C5FCF0298401DFF4EB4B995B1E4033"
-				"size" "3C328AE7D8FCCE5F84680310A55698FC"
-				"download" "FBE7CD1DBA97E776BAD115BB4F02CC01"
-			}
-			"gfeature_shipping"
-			{
-				"gid" "338BE025BCD07EE2EE07657BD7D56F07"
-				"size" "318A38922BDBA3DEFAFD4CC9D6520C40"
-				"download" "E31455155E405232DCBF5826BAC7C1F1"
-			}
-			"internal"
-			{
-				"gid" "D2CB076FB316C21CA06ABA7D29A59048"
-				"size" "60E645816C70647167C62F07522310B9"
-				"download" "589D2BC694DAAA0D216B76374B4A1316"
-			}
-			"nightly"
-			{
-				"gid" "A31BFD5F7F781ADD03B645DC3C542A32"
-				"size" "96B0D548A53442DB6767518EA1F4C869"
-				"download" "5A111A10124313F3BE55E3C3B5D1876A"
-			}
-			"physx_update"
-			{
-				"gid" "015468E4C991CE1FDE898CD71FB7FF3D"
-				"size" "1FA6979A81368C01E124129E8E346F7E"
-				"download" "08429D95CA8E4031A27EAE97CEA50C86"
-			}
-			"playtest"
-			{
-				"gid" "D1B3902B0E87454ADDD45BC3DFDF9FDA"
-				"size" "5C954540BE324AB28D911D1229397E6F"
-				"download" "50A250A37D210FB9CD68E72CEE0F318E"
-			}
-			"shipping"
-			{
-				"gid" "5711428CBCD5A61CA5A0AF6DD61AC02F"
-				"size" "67F869D18D6C4264063A0D1659303BB2"
-				"download" "B8E04B42432AF4397904FC1861850C4C"
-			}
-			"staging"
-			{
-				"gid" "88B54A5FB21ED5CC9F4273A3C6739E63"
-				"size" "E22602CFD3414E9FA3B487B7D5BB3924"
-				"download" "6D6C8A38AC42D7B1B094303CE1CAE4A7"
-			}
-			"testgate"
-			{
-				"gid" "4346DBA14BECD6E87310ADDE6A3EFDB8"
-				"size" "6900B5A7545BCAF97927901C6F2E1A52"
-				"download" "6D17A14C0E420C52A0DAAA39DF6326E3"
+				"gid" "7057615830978555608"
+				"size" "50106602765"
+				"download" "46087853328"
 			}
 		}
 	}
@@ -539,148 +398,11 @@
 	{
 		"public"
 		{
-			"buildid" "16712560"
-			"timeupdated" "1734440395"
-		}
-		"agerating"
-		{
-			"buildid" "13281300"
-			"pwdrequired" "1"
-			"timeupdated" "1706631303"
-		}
-		"build_testing"
-		{
-			"buildid" "7998885"
-			"pwdrequired" "1"
-			"timeupdated" "1641997850"
-		}
-		"capture"
-		{
-			"buildid" "12235547"
-			"pwdrequired" "1"
-			"timeupdated" "1695225767"
-		}
-		"feature_per_tire_friction_nightly"
-		{
-			"buildid" "11969597"
-			"pwdrequired" "1"
-			"timeupdated" "1692310983"
-		}
-		"feature_per_tire_friction_shipping"
-		{
-			"buildid" "11960396"
-			"pwdrequired" "1"
-			"timeupdated" "1692235550"
-		}
-		"feature_replay_nightly"
-		{
-			"buildid" "12600560"
-			"pwdrequired" "1"
-			"timeupdated" "1698920821"
-		}
-		"feature_replay_shipping"
-		{
-			"buildid" "10997290"
-			"pwdrequired" "1"
-			"timeupdated" "1681411119"
-		}
-		"lqa_testing"
-		{
-			"buildid" "8753756"
-			"pwdrequired" "1"
-			"timeupdated" "1652893568"
-		}
-		"marketing"
-		{
-			"buildid" "8469826"
-			"pwdrequired" "1"
-			"timeupdated" "1649091061"
-		}
-		"milestone"
-		{
-			"buildid" "7221977"
-			"pwdrequired" "1"
-			"timeupdated" "1629495594"
-		}
-		"osplaytest"
-		{
-			"buildid" "11603221"
-			"pwdrequired" "1"
-			"timeupdated" "1691010936"
-		}
-		"public_beta"
-		{
-			"buildid" "10777195"
-			"pwdrequired" "1"
-			"timeupdated" "1678991654"
-		}
-		"creators"
-		{
-			"buildid" "16712560"
-			"pwdrequired" "1"
-			"timeupdated" "1734117339"
-		}
-		"creators-testing"
-		{
-			"buildid" "16716015"
-			"pwdrequired" "1"
-			"timeupdated" "1734117379"
-		}
-		"gfeature_nightly"
-		{
-			"buildid" "16779236"
-			"pwdrequired" "1"
-			"timeupdated" "1734474510"
-		}
-		"gfeature_shipping"
-		{
-			"buildid" "15800208"
-			"pwdrequired" "1"
-			"timeupdated" "1727126692"
-		}
-		"internal"
-		{
-			"buildid" "14576525"
-			"pwdrequired" "1"
-			"timeupdated" "1717626753"
-		}
-		"nightly"
-		{
-			"buildid" "16772124"
-			"pwdrequired" "1"
-			"timeupdated" "1734433776"
-		}
-		"physx_update"
-		{
-			"buildid" "16408967"
-			"pwdrequired" "1"
-			"timeupdated" "1731603229"
-		}
-		"playtest"
-		{
-			"buildid" "15968113"
-			"pwdrequired" "1"
-			"timeupdated" "1728396793"
-		}
-		"shipping"
-		{
-			"buildid" "16716015"
-			"pwdrequired" "1"
-			"timeupdated" "1733973919"
-		}
-		"staging"
-		{
-			"buildid" "15226973"
-			"pwdrequired" "1"
-			"timeupdated" "1722635175"
-		}
-		"testgate"
-		{
-			"buildid" "16712560"
-			"pwdrequired" "1"
-			"timeupdated" "1733955039"
+			"buildid" "17098955"
+			"timeupdated" "1738081098"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -702,6 +424,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26685467"
-"_sha" "aed58da9202edae638857270e1c6dbdf56393d35"
-"_size" "15172"
+"_change_number" "27203767"
+"_sha" "6a1571fb50ad9e53dbd4dc4ebe2f2779844fda36"
+"_size" "8506"
