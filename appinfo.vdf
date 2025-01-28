@@ -76,11 +76,12 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"metacritic_name" "Cuisineer"
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "ac2feaa1c9a28651abdc0c7e28943063aaab30d9/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -91,6 +92,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -98,7 +100,56 @@
 			"height_pct" "86.11111111111111"
 		}
 	}
-	"store_asset_mtime" "1704829636"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.50335570469798"
+				"height_pct" "86.11111111111111"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737558918"
 	"associations"
 	{
 		"0"
@@ -194,6 +245,8 @@
 		}
 	}
 	"steam_release_date" "1699550480"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/cuisineer\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1963570"
@@ -201,24 +254,24 @@
 	{
 		"0" "42804"
 		"1" "3920"
-		"2" "552282"
-		"3" "4085"
-		"4" "597"
-		"5" "1646"
-		"6" "1720"
-		"7" "12472"
+		"2" "4085"
+		"3" "597"
+		"4" "552282"
+		"5" "12472"
+		"6" "1646"
+		"7" "1720"
 		"8" "4726"
-		"9" "7208"
-		"10" "599"
+		"9" "599"
+		"10" "7208"
 		"11" "4434"
 		"12" "1684"
 		"13" "3959"
-		"14" "3955"
-		"15" "6815"
-		"16" "122"
+		"14" "6815"
+		"15" "122"
+		"16" "3955"
 		"17" "4191"
-		"18" "5125"
-		"19" "4166"
+		"18" "4166"
+		"19" "5125"
 	}
 	"review_score" "6"
 	"review_percentage" "77"
@@ -227,6 +280,7 @@
 {
 	"developer" "BattleBrew Productions"
 	"publisher" "Marvelous Europe"
+	"homepage" "https://www.cuisineerthegame.com/"
 	"listofdlc" "2591650"
 	"dlcavailableonstore" "1"
 }
@@ -253,42 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "9181156465010965019"
-				"size" "4654254188"
-				"download" "1261882048"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"demotesting"
-			{
-				"gid" "E2D824CEFF04F30FC7B2A3573E95242C"
-				"size" "D1FDFC45651AE03D0B4E91B417BF515F"
-				"download" "B54464FA695964A0D3C832BF55747940"
-			}
-			"eventbuild"
-			{
-				"gid" "AF3665688A372B3B451BA3648EB2FC7A"
-				"size" "69D3F0BF1BE374F7385FBC8F1B7DB799"
-				"download" "B2FEE7CAFA5627AB281CA5C9E8FEA0ED"
-			}
-			"latestdevdebug"
-			{
-				"gid" "6D47F212F98273C6B735013A8F299F3D"
-				"size" "70A6625C0EDF752337482D5CCA5AA7DD"
-				"download" "8FE81D36BE3086D047C12FB290862830"
-			}
-			"latestdevrelease"
-			{
-				"gid" "A1FB1D648ACFBA10060AA84611EC243E"
-				"size" "50D89BB6D8C340AF659BEC3271E73B08"
-				"download" "11ADCCB82C7C8E8FF50D534C3BC11AF4"
-			}
-			"testing"
-			{
-				"gid" "EDA537CA7D09658B9C0D3B517ABC4CA7"
-				"size" "373C5D19802593387368772B39B10E20"
-				"download" "2E11AE8080CF28384C5EDF5A1849B34C"
+				"gid" "8575940149160324831"
+				"size" "3111764782"
+				"download" "1730641264"
 			}
 		}
 	}
@@ -297,40 +318,11 @@
 	{
 		"public"
 		{
-			"buildid" "14095871"
-			"timeupdated" "1713508543"
-		}
-		"demotesting"
-		{
-			"buildid" "12424079"
-			"pwdrequired" "1"
-			"timeupdated" "1697545089"
-		}
-		"eventbuild"
-		{
-			"buildid" "11614949"
-			"pwdrequired" "1"
-			"timeupdated" "1690797735"
-		}
-		"latestdevdebug"
-		{
-			"buildid" "14095678"
-			"pwdrequired" "1"
-			"timeupdated" "1713440523"
-		}
-		"latestdevrelease"
-		{
-			"buildid" "14095871"
-			"pwdrequired" "1"
-			"timeupdated" "1713441487"
-		}
-		"testing"
-		{
-			"buildid" "14096253"
-			"pwdrequired" "1"
-			"timeupdated" "1713443392"
+			"buildid" "16703023"
+			"timeupdated" "1738051169"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -380,6 +372,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23218050"
-"_sha" "cd9bf85f3d30dfcd5ef363532da02598ae07a17c"
-"_size" "7222"
+"_change_number" "27196959"
+"_sha" "6afab6d8447d7da569d8407c1762a1ac4b064b81"
+"_size" "6775"
