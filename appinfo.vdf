@@ -315,7 +315,7 @@
 	"developer" "Barrel Roll Games"
 	"publisher" "Barrel Roll Games"
 	"homepage" "http://www.witchit.com"
-	"listofdlc" "639750,645870,3212440,3212450,3212460,3212470,3311600"
+	"listofdlc" "639750,645870,3212440,3212450,3212460,3212470,3311600,3365350"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -432,78 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "1783430278762057072"
-				"size" "7513222123"
-				"download" "7198645280"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"connection_testing"
-			{
-				"gid" "AD35B48987ED334737528DDC1F03FD6E"
-				"size" "4DE03F923EA1E56762F5EE3F75515A11"
-				"download" "0C3A58B52DFF3A13E5886516A88FC2B4"
-			}
-			"custom_testing"
-			{
-				"gid" "F7DFB79A5ED167ED0926AF0675129007"
-				"size" "5BF30472742857473AC4ADF96BC321D3"
-				"download" "FD0D4C6D779FF9A20EACA8F409E0E55D"
-			}
-			"lastue4build"
-			{
-				"gid" "CEEF83DAC2A2F4518B8AC95EA260865C"
-				"size" "DE1BA8BFFEAADB535590AAA8CE26D4D1"
-				"download" "EBB0C0B1745F096A5D5C0C51AC744DCF"
-			}
-			"snitchwitch"
-			{
-				"gid" "53DA54F94945FA3714139539655F3E21"
-				"size" "96A38F953355CA384A50B67C0E5F075B"
-				"download" "A75030C75B358A00146EC1922C8AFBA2"
-			}
-			"development"
-			{
-				"gid" "FE00269340EBDCA47AA4A51294CF2925"
-				"size" "16DE818B047A02381D8D488A7CCE38E7"
-				"download" "2B44C0AD70E77C3BFC001317D6EEFBE7"
-			}
-			"internal_dev_testing_a"
-			{
-				"gid" "D064B3E415A5E4EDB6DFAD4EBDE5336B"
-				"size" "EAF79542000EF14DF6DCFE185ABC213F"
-				"download" "2D9FE09610673F53243121DC89BB6BC5"
-			}
-			"internal_dev_testing_b"
-			{
-				"gid" "F95D02F622ED42C258E8F6B516B0D2D2"
-				"size" "0711200594AC28E7715630606DE324CE"
-				"download" "7C080713E7870E8C09819EB40F925712"
-			}
-			"internaltesting"
-			{
-				"gid" "C796A65037347AEB3B0F7731B304FC59"
-				"size" "92E8E0ADE32AD8AACF01AA5DD593A536"
-				"download" "DB4D7008DEADE1BEBF13F85E747E4F01"
-			}
-			"ps-icons"
-			{
-				"gid" "655703A9DEDBFF3562B3EDA6F5417416"
-				"size" "C48BCF19F14908BBDE604E823934645B"
-				"download" "DFA4A9FE4AE96EFEA3A7AFDFAD0B2EA6"
-			}
-			"staging"
-			{
-				"gid" "5413888F83283D7C0F654CDAE7C76B24"
-				"size" "DB477F120B9A70B2FE5E68EA2CC009E9"
-				"download" "04AEE90C6EFF32A4C1083644BCEC2477"
-			}
-			"validation_build"
-			{
-				"gid" "2E0C362D9DFEF819E44C04141DD3B5B5"
-				"size" "50073EA8D267CA1585E36A92434E9C1B"
-				"download" "B2969B9A166C3A313E7567E5A1729956"
+				"gid" "9104508492757892039"
+				"size" "7525517143"
+				"download" "7210439808"
 			}
 		}
 	}
@@ -512,76 +443,11 @@
 	{
 		"public"
 		{
-			"buildid" "16696200"
-			"timeupdated" "1733849559"
-		}
-		"connection_testing"
-		{
-			"buildid" "12990146"
-			"pwdrequired" "1"
-			"timeupdated" "1702908489"
-		}
-		"custom_testing"
-		{
-			"buildid" "12911082"
-			"pwdrequired" "1"
-			"timeupdated" "1702298374"
-		}
-		"lastue4build"
-		{
-			"buildid" "11691872"
-			"pwdrequired" "1"
-			"timeupdated" "1697193545"
-		}
-		"snitchwitch"
-		{
-			"buildid" "6177378"
-			"pwdrequired" "1"
-			"timeupdated" "1612288128"
-		}
-		"development"
-		{
-			"buildid" "16680741"
-			"pwdrequired" "1"
-			"timeupdated" "1733750014"
-		}
-		"internal_dev_testing_a"
-		{
-			"buildid" "14821321"
-			"pwdrequired" "1"
-			"timeupdated" "1719254399"
-		}
-		"internal_dev_testing_b"
-		{
-			"buildid" "15493711"
-			"pwdrequired" "1"
-			"timeupdated" "1724929517"
-		}
-		"internaltesting"
-		{
-			"buildid" "15754908"
-			"pwdrequired" "1"
-			"timeupdated" "1726743550"
-		}
-		"ps-icons"
-		{
-			"buildid" "16470637"
-			"pwdrequired" "1"
-			"timeupdated" "1732098694"
-		}
-		"staging"
-		{
-			"buildid" "16696200"
-			"pwdrequired" "1"
-			"timeupdated" "1733846578"
-		}
-		"validation_build"
-		{
-			"buildid" "14543391"
-			"pwdrequired" "1"
-			"timeupdated" "1717067289"
+			"buildid" "17154966"
+			"timeupdated" "1738057861"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -622,6 +488,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26579001"
-"_sha" "1e337be7098c885c803495b478785d9a29f2cacc"
-"_size" "12187"
+"_change_number" "27198339"
+"_sha" "0bd259c0825dbf4bf7d5780883af4e793a906a40"
+"_size" "8982"
