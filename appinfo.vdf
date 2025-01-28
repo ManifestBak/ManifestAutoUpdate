@@ -266,10 +266,10 @@
 		"4" "1646"
 		"5" "1625"
 		"6" "3959"
-		"7" "4231"
-		"8" "4736"
-		"9" "4106"
-		"10" "1716"
+		"7" "4736"
+		"8" "4231"
+		"9" "1716"
+		"10" "4106"
 		"11" "3871"
 		"12" "4115"
 		"13" "15172"
@@ -278,7 +278,7 @@
 		"16" "7250"
 		"17" "1742"
 		"18" "6971"
-		"19" "19"
+		"19" "3964"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -340,27 +340,6 @@
 				"download" "272461232"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "73ABED7589172ED87C264AB1A50998DD"
-				"size" "EACF716082FD6C54B1A1AD5A39D766B5"
-				"download" "38BE84838311A37E381FB7083C396552"
-			}
-			"linux_test"
-			{
-				"gid" "E7017439664FC30D422231CBD07107B2"
-				"size" "E755CE6FE796E9982E9F47AB3FF401D3"
-				"download" "7496C8B65D7F5A15057278F8BA1B3027"
-			}
-			"mac_test"
-			{
-				"gid" "65C9FAD0DE353948C0E32DA7B2584FD6"
-				"size" "C81A139F02218574F4B4F4C1AD807817"
-				"download" "2531D1EE73F25E5C92CA38BAED63FA4C"
-			}
-		}
 	}
 	"2378622"
 	{
@@ -375,21 +354,6 @@
 				"gid" "3345057993987601863"
 				"size" "448093836"
 				"download" "281928112"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "9EF145D3FC4BB66DDA79BEF2AD11DC8F"
-				"size" "1EF006AD7068765A223442EA3A1AF489"
-				"download" "371BB425C5A5734A0ABDEF45BC4D8B6A"
-			}
-			"mac_test"
-			{
-				"gid" "D3927EE3642CBA41CED1D1909AC148AA"
-				"size" "A390CE9E7FB2BEFDC44B7FC8C4CFBE6B"
-				"download" "F2A81808374AEA4A169F5751B8A9044C"
 			}
 		}
 	}
@@ -408,21 +372,6 @@
 				"download" "258725328"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "BCCBBA34683361B7B3510E03518C97AD"
-				"size" "BA53D871642396DDA6D5056539738C5D"
-				"download" "6971AD6E8822E16BB1BA3CEFA96773E7"
-			}
-			"linux_test"
-			{
-				"gid" "8E74519EBC558CC6D8D0A54C49EF559E"
-				"size" "1B28226A7DDEA3AAFF8612148742C456"
-				"download" "7451B1FC8A8C03EF11B1A9AE09DE95D0"
-			}
-		}
 	}
 	"branches"
 	{
@@ -431,25 +380,8 @@
 			"buildid" "15689795"
 			"timeupdated" "1726225562"
 		}
-		"beta"
-		{
-			"buildid" "15689790"
-			"pwdrequired" "1"
-			"timeupdated" "1726225531"
-		}
-		"linux_test"
-		{
-			"buildid" "14872970"
-			"pwdrequired" "1"
-			"timeupdated" "1719583423"
-		}
-		"mac_test"
-		{
-			"buildid" "14895298"
-			"pwdrequired" "1"
-			"timeupdated" "1719841318"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -492,3 +424,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26819690"
+"_sha" "e3c4562ebe4fc3275abc18190662cedc8bdb8563"
+"_size" "7426"
