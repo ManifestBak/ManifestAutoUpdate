@@ -8,9 +8,10 @@
 	"osarch" ""
 	"logo" "d192baf99723b028e5c46868a8fc89d86155a889"
 	"logo_small" "d192baf99723b028e5c46868a8fc89d86155a889_thumb"
-	"icon" "2fb30a31fa8fc4813f11f664212218261208903c"
+	"icon" "9405250b9a8e3c60021354ace48c2ceb8c478719"
 	"clienticon" "d76519266214846b2394d1b156d79e893625495a"
 	"clienttga" "ce98ebb5bfbd7e5005fb11b417e8641552a90693"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -56,7 +57,7 @@
 	"metacritic_name" "Freeways"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "4063dab74a65b3c656b40ef4b577088afaff9915/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -80,11 +81,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "6caba0331d4e3f544c745a464a695a20b770f834/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "6caba0331d4e3f544c745a464a695a20b770f834/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -108,7 +109,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1572993979"
+	"store_asset_mtime" "1738019678"
 	"associations"
 	{
 		"0"
@@ -179,7 +180,7 @@
 		}
 		"1"
 		{
-			"executable" "Freeways.app\\Contents\\MacOS\\Freeways"
+			"executable" "Freeways.app\\Contents\\MacOS\\MacFreeways"
 			"type" "default"
 			"config"
 			{
@@ -209,9 +210,9 @@
 		{
 			"public"
 			{
-				"gid" "2004558385094533403"
-				"size" "18268372"
-				"download" "17267920"
+				"gid" "3665491508700857074"
+				"size" "21345797"
+				"download" "18970384"
 			}
 		}
 	}
@@ -225,9 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "2885791177901682023"
-				"size" "24258296"
-				"download" "19237440"
+				"gid" "3782716865709388196"
+				"size" "56022535"
+				"download" "51058576"
 			}
 		}
 	}
@@ -236,15 +237,15 @@
 	{
 		"public"
 		{
-			"buildid" "2517194"
-			"timeupdated" "1518394430"
+			"buildid" "17150947"
+			"timeupdated" "1738018678"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "2000000"
-	"maxnumfiles" "200"
+	"quota" "5000000"
+	"maxnumfiles" "500"
 	"savefiles"
 	{
 		"0"
@@ -260,7 +261,7 @@
 		"1"
 		{
 			"root" "MacAppSupport"
-			"path" "CaptainGames/Freeways/save"
+			"path" "CaptainGames/Freeways"
 			"pattern" "*.*"
 			"platforms"
 			{
@@ -270,6 +271,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26309749"
-"_sha" "d9ece2f7daf8ec05811aff3f16d7ef819a8900f9"
-"_size" "4557"
+"_change_number" "27191938"
+"_sha" "29fc5b56ebbe1b4ab938373e29402b395bebbda6"
+"_size" "4738"
