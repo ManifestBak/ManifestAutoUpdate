@@ -87,18 +87,9 @@
 		{
 			"public"
 			{
-				"gid" "8608965347740876996"
-				"size" "441294624"
-				"download" "232845120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "ADF73A0B078F4C22AFC48B6F5E86C4D7"
-				"size" "6C8F00321A96AEACA88DF0586F0AD924"
-				"download" "3177774B6190320ACE590651DE452997"
+				"gid" "884243267881265226"
+				"size" "441294688"
+				"download" "232845184"
 			}
 		}
 		"dlcappid" "2696300"
@@ -114,15 +105,6 @@
 				"download" "12459074144"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "EAEF403E9573A7E996478068CD78F4D9"
-				"size" "74873CE545D212926FBF580CA4DDB4F2"
-				"download" "8A74448E3FEC85CAA6A6C1AF38CA584F"
-			}
-		}
 		"dlcappid" "2696300"
 	}
 	"2696303"
@@ -131,18 +113,9 @@
 		{
 			"public"
 			{
-				"gid" "1929073356168302892"
-				"size" "307317792"
-				"download" "74074128"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "1BDC37CE07E3F9A1ED7DE2505BE7E1BB"
-				"size" "1C37696C81C63FCD324CCEAD9CD2E7F3"
-				"download" "3111DC65F4CCA646CE578A6A9CE12B71"
+				"gid" "736198061122479506"
+				"size" "328218112"
+				"download" "92425200"
 			}
 		}
 		"dlcappid" "2696300"
@@ -158,15 +131,6 @@
 				"download" "1498163888"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "9468EC7131E35D9A7B52CD4BFDB6F89E"
-				"size" "58B9359D80759D47463348BBF564AB63"
-				"download" "6F544AC5BEA7537ACFFAEADE0EF7B854"
-			}
-		}
 		"dlcappid" "2696300"
 	}
 	"2696305"
@@ -175,18 +139,9 @@
 		{
 			"public"
 			{
-				"gid" "8907574422026436613"
-				"size" "209567120"
-				"download" "110820544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "7ADC032B9D1928B1C8F3A9AEE559C5DF"
-				"size" "B33E5C439F5524D1CD60F775788FC018"
-				"download" "6C2F06A3021975B0D4755E3A89ADEB9E"
+				"gid" "4086213593370190389"
+				"size" "358731984"
+				"download" "130171328"
 			}
 		}
 		"dlcappid" "2696300"
@@ -202,33 +157,19 @@
 				"download" "8005423072"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "889E090F53E18F799337F36614B26764"
-				"size" "AFF351BB3BAC984981C2BDCE8BA5109C"
-				"download" "502D6A4B8A8B4E4806923D8C94064F03"
-			}
-		}
 		"dlcappid" "2696300"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16561076"
-			"timeupdated" "1732780204"
-		}
-		"testplay"
-		{
-			"buildid" "16561076"
-			"pwdrequired" "1"
-			"timeupdated" "1732764006"
+			"buildid" "17154540"
+			"timeupdated" "1738051703"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26401218"
-"_sha" "44aa4df6f7e80bafca8913ddd883db86c67c26df"
-"_size" "4349"
+"_change_number" "27196831"
+"_sha" "52c618572f58ecbe54ea2643d53f2474035daccc"
+"_size" "3019"
