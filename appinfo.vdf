@@ -17,9 +17,6 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
-	"openvrsupport" "1"
-	"othervrsupport" "1"
-	"othervrsupport_rift_13" "1"
 	"controllervr"
 	{
 		"steamvr" "1"
@@ -31,6 +28,9 @@
 		"standing" "1"
 	}
 	"releasestate" "released"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
 	"content_descriptors"
 	{
 		"0" "1"
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "6772176719970763634"
-				"size" "9181599827"
-				"download" "7865488016"
+				"gid" "47634366962396174"
+				"size" "9128925155"
+				"download" "7813617888"
 			}
 		}
 	}
@@ -319,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "2971151140792085041"
-				"size" "9181736670"
-				"download" "7857051712"
+				"gid" "7130913134532203290"
+				"size" "9131307337"
+				"download" "7812254944"
 			}
 		}
 	}
@@ -329,13 +329,13 @@
 	{
 		"public"
 		{
-			"buildid" "17023626"
-			"timeupdated" "1737698891"
+			"buildid" "17143898"
+			"timeupdated" "1738033766"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27143970"
-"_sha" "90ae4932d80caddb0788dcf240e8e86263cdc447"
-"_size" "7089"
+"_change_number" "27194187"
+"_sha" "0def7565945c85b9a5c41d1834f541fb9e9bf8bf"
+"_size" "7087"
