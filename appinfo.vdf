@@ -269,6 +269,21 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "Mac/Spirit City - Lofi Sessions.app/Contents/MacOS/Spirit City - Lofi Sessions"
+			"workingdir" "Mac/Spirit City - Lofi Sessions.app/Contents/MacOS/"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch on MacOS"
+			}
+			"description" "Launch on MacOS"
+		}
 	}
 }
 "depots"
@@ -283,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "1852449682364419533"
-				"size" "2098661666"
-				"download" "1753471376"
+				"gid" "7867081765243603103"
+				"size" "2300418684"
+				"download" "1950871120"
 			}
 		}
 	}
@@ -295,13 +310,16 @@
 		{
 			"oslist" "macos"
 		}
+		"manifests"
+		{
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16739262"
-			"timeupdated" "1734366931"
+			"buildid" "17147532"
+			"timeupdated" "1738073013"
 		}
 	}
 	"privatebranches" "1"
@@ -319,8 +337,26 @@
 			"pattern" "*.sav"
 		}
 	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SpiritCity/Saved/SaveGames"
+					"replace" "Epic/SpiritCity/Saved/SaveGames"
+				}
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "26664031"
-"_sha" "22e4709ee90cbb50fccd36548ede804a5f6d7dc1"
-"_size" "5560"
+"_change_number" "27201625"
+"_sha" "1bea568823ba39af556940cdd971030dbc79bc34"
+"_size" "6244"
