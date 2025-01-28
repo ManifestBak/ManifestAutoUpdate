@@ -23,6 +23,7 @@
 		"japanese" "header_japanese.jpg"
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_d934fa8a465f91e7ccd1214e59e02e09ec227da0.jpg"
 	"store_asset_mtime" "1696153142"
 	"associations"
 	{
@@ -97,18 +98,9 @@
 		{
 			"public"
 			{
-				"gid" "7375461316284176676"
-				"size" "174642864"
-				"download" "177004496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "F34C0E3C882570752CAA124CFA1A4866"
-				"size" "081D83C81792964B1C9AFD48EB4EEDAB"
-				"download" "4AB875EC672A41879886AD34A1D266C8"
+				"gid" "1847940297817102463"
+				"size" "174902240"
+				"download" "177256448"
 			}
 		}
 		"dlcappid" "2602460"
@@ -124,29 +116,19 @@
 				"download" "33721778048"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"testplay"
-			{
-				"gid" "496EF9F787CCD4D6509F73893866938A"
-				"size" "E84CAF74360DA36E1EB0022B1BDE9AC1"
-				"download" "A3E4CC47432112108D1B6FE6B7AD4805"
-			}
-		}
 		"dlcappid" "2602460"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15726287"
-			"timeupdated" "1727157125"
-		}
-		"testplay"
-		{
-			"buildid" "15726287"
-			"pwdrequired" "1"
-			"timeupdated" "1726562142"
+			"buildid" "17074132"
+			"timeupdated" "1738051557"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27196771"
+"_sha" "e54d7daf7437a864c3fba76c4f96842000c67ff0"
+"_size" "2293"
