@@ -87,10 +87,11 @@
 	{
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
+			"pinned_position" "BottomLeft"
 			"width_pct" "59.91831971995333"
 			"height_pct" "100"
 		}
@@ -114,11 +115,18 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "d452d1d34b687712cc0b3a0e52954d816693a75b/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "d452d1d34b687712cc0b3a0e52954d816693a75b/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d452d1d34b687712cc0b3a0e52954d816693a75b/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -133,13 +141,13 @@
 			}
 			"logo_position"
 			{
-				"pinned_position" "CenterCenter"
+				"pinned_position" "BottomLeft"
 				"width_pct" "59.91831971995333"
 				"height_pct" "100"
 			}
 		}
 	}
-	"store_asset_mtime" "1737138060"
+	"store_asset_mtime" "1738070341"
 	"associations"
 	{
 		"0"
@@ -321,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "5352485589018981716"
-				"size" "132570990"
-				"download" "73871632"
+				"gid" "2947917025611634541"
+				"size" "132645120"
+				"download" "73896464"
 			}
 			"previous_version"
 			{
@@ -373,9 +381,9 @@
 		{
 			"public"
 			{
-				"gid" "1973394398073926957"
-				"size" "161615515"
-				"download" "82050944"
+				"gid" "8564665556928010889"
+				"size" "161695755"
+				"download" "82078176"
 			}
 			"previous_version"
 			{
@@ -425,9 +433,9 @@
 		{
 			"public"
 			{
-				"gid" "6362239815330069138"
-				"size" "139141073"
-				"download" "74063696"
+				"gid" "1683765971988638107"
+				"size" "139237733"
+				"download" "74075776"
 			}
 			"previous_version"
 			{
@@ -471,8 +479,8 @@
 	{
 		"public"
 		{
-			"buildid" "17042746"
-			"timeupdated" "1737132775"
+			"buildid" "17157642"
+			"timeupdated" "1738077037"
 		}
 		"previous_version"
 		{
@@ -562,6 +570,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27047335"
-"_sha" "22472445e02f6dc0a89c61b95381350d68af5b9d"
-"_size" "9916"
+"_change_number" "27202614"
+"_sha" "2099898bd45e952544b6bc1076d4835632603403"
+"_size" "10161"
