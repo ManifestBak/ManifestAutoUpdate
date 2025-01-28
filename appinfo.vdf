@@ -27,6 +27,7 @@
 	{
 		"library_capsule" "zh-cn,zh-tw,en"
 		"library_hero" "en,zh-cn,zh-tw"
+		"library_hero_blur" "zh-cn,en,zh-tw"
 		"library_logo" "en,zh-cn,zh-tw"
 		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
@@ -66,6 +67,15 @@
 				"english" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero.jpg"
 				"schinese" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero_schinese.jpg"
 				"tchinese" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero_tchinese.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero_blur_schinese.jpg"
+				"english" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero_blur.jpg"
+				"tchinese" "b1c762dad4cb0eaadcbaa4ba40e7e81b69124924/library_hero_blur_tchinese.jpg"
 			}
 		}
 		"library_logo"
@@ -125,7 +135,6 @@
 		"0" "25"
 		"1" "23"
 		"2" "28"
-		"3" "2"
 	}
 	"category"
 	{
@@ -142,14 +151,7 @@
 		}
 		"tchinese"
 		{
-			"supported" "true"
 			"full_audio" "true"
-			"subtitles" "true"
-		}
-		"english"
-		{
-			"supported" "true"
-			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1729735250"
@@ -160,27 +162,27 @@
 	{
 		"0" "1721"
 		"1" "4064"
-		"2" "3834"
-		"3" "1742"
+		"2" "18594"
+		"3" "9204"
 		"4" "5716"
-		"5" "6426"
-		"6" "1667"
+		"5" "3854"
+		"6" "6426"
 		"7" "6971"
-		"8" "4486"
-		"9" "5984"
-		"10" "18594"
-		"11" "3854"
-		"12" "4145"
-		"13" "9"
-		"14" "9204"
-		"15" "1664"
-		"16" "11014"
-		"17" "3799"
+		"8" "3799"
+		"9" "1664"
+		"10" "11014"
+		"11" "5984"
+		"12" "599"
+		"13" "1742"
+		"14" "1667"
+		"15" "4145"
+		"16" "4486"
+		"17" "122"
 		"18" "21"
-		"19" "599"
+		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -211,18 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "7326695684327039470"
-				"size" "33521439182"
-				"download" "30679858896"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_test"
-			{
-				"gid" "68B1EC229A451956413B4F54CD8E3627"
-				"size" "F7AE4B4BFB00B1E3DB65FC5A478000EE"
-				"download" "99D85506CF4C6B632A8FCA063E326A52"
+				"gid" "212007601573924036"
+				"size" "33520921431"
+				"download" "30679391792"
 			}
 		}
 	}
@@ -230,16 +223,11 @@
 	{
 		"public"
 		{
-			"buildid" "16213211"
-			"timeupdated" "1730183120"
-		}
-		"dev_test"
-		{
-			"buildid" "16213211"
-			"pwdrequired" "1"
-			"timeupdated" "1730181892"
+			"buildid" "16670481"
+			"timeupdated" "1738071065"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -283,6 +271,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25952134"
-"_sha" "684c3cfa0459225cb6941e6667aa37f4f30f6497"
-"_size" "6361"
+"_change_number" "27201182"
+"_sha" "98ca19375caad412063c7959829060d131adba17"
+"_size" "6304"
