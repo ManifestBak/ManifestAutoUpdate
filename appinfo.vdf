@@ -205,7 +205,7 @@
 		"5" "21978"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -291,30 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "8104362984248051854"
-				"size" "13355323153"
-				"download" "8302190400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta5.0"
-			{
-				"gid" "41DC8F6D149D3525C4ECC0B0EE870BDA"
-				"size" "A40DB3AEF1B19436EECCC245EBA92F36"
-				"download" "A40DB3AEF1B19436EECCC245EBA92F36"
-			}
-			"internal"
-			{
-				"gid" "113FD58D86D5747BD63927AD92479756"
-				"size" "E1D03F57A80AC3A773F589291EE00545"
-				"download" "589E6951E7E4B44EBF8601B00DC7E955"
-			}
-			"vrbeta"
-			{
-				"gid" "D136904FC63C76AFEA236248DA12BFA2"
-				"size" "0F0429F61AA788D4F84EA8B9E312FEB2"
-				"download" "D8CFDADC677F1591544743B91397B663"
+				"gid" "5151981357666905108"
+				"size" "13353669184"
+				"download" "8301975760"
 			}
 		}
 	}
@@ -331,30 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "1917577612060851646"
-				"size" "7277767296"
-				"download" "5185602800"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta5.0"
-			{
-				"gid" "7188AFE4F504C44A6AA3F407D53346F2"
-				"size" "342987B9B6E1E5A89DFA7CDE430B61EF"
-				"download" "02C51712BD33F0BC5B3AAEDE11E2241C"
-			}
-			"internal"
-			{
-				"gid" "C32EAF95B08D1A891CD6D3B849B3594E"
-				"size" "F9E244AEB57F166411D1D4A3C7C293D2"
-				"download" "A9179C4E5AA7D2E3D6B3921FC6A686DC"
-			}
-			"vrbeta"
-			{
-				"gid" "C15234E159FF3FA0E3B132C946302522"
-				"size" "EE9657CA6547D4EE2DDC48C681E838FC"
-				"download" "1118B048432174BA82FE131BB882F573"
+				"gid" "5071035397463513310"
+				"size" "7277767288"
+				"download" "5185602816"
 			}
 		}
 	}
@@ -362,31 +320,18 @@
 	{
 		"public"
 		{
-			"buildid" "14573118"
-			"timeupdated" "1717503422"
-		}
-		"beta5.0"
-		{
-			"buildid" "10547260"
-			"pwdrequired" "1"
-			"timeupdated" "1676367918"
-		}
-		"internal"
-		{
-			"buildid" "14573118"
-			"pwdrequired" "1"
-			"timeupdated" "1717275469"
-		}
-		"vrbeta"
-		{
-			"buildid" "15647589"
-			"pwdrequired" "1"
-			"timeupdated" "1725952608"
+			"buildid" "17136928"
+			"timeupdated" "1738066800"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10485760"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "27200236"
+"_sha" "e72f8f828114ab0f29b7fdc6bf998acbc743c175"
+"_size" "5591"
