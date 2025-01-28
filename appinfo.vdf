@@ -160,7 +160,6 @@
 	{
 		"0" "1"
 		"1" "2"
-		"2" "70"
 	}
 	"category"
 	{
@@ -219,7 +218,7 @@
 		}
 	}
 	"original_release_date" "1575360000"
-	"steam_release_date" "1575390873"
+	"steam_release_date" "1738016309"
 	"metacritic_score" "82"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/battle-realms\?ftag=MCD-06-10aaa1f"
 	"community_hub_visible" "1"
@@ -229,9 +228,9 @@
 		"0" "9"
 		"1" "19"
 		"2" "1676"
-		"3" "493"
-		"4" "1693"
-		"5" "3859"
+		"3" "1693"
+		"4" "3859"
+		"5" "493"
 		"6" "1684"
 		"7" "1734"
 	}
@@ -274,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "6294897497315716216"
-				"size" "2787600533"
-				"download" "1428555184"
+				"gid" "6859357471802434530"
+				"size" "2787598997"
+				"download" "1428554704"
 			}
 		}
 	}
@@ -286,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "17071818"
-			"timeupdated" "1737424552"
+			"buildid" "17150943"
+			"timeupdated" "1738020952"
 		}
 	}
 	"privatebranches" "1"
@@ -331,6 +330,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27085629"
-"_sha" "cb8c7a1d8fd8f227be9f534073b94fcc6b7b3546"
-"_size" "5949"
+"_change_number" "27192168"
+"_sha" "057ec907e87933ee07cb55a020f676c74baf6b75"
+"_size" "5936"
