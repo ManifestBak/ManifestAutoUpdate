@@ -40,14 +40,14 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1688688000"
-		"tested_build_id" "11615763"
+		"test_timestamp" "1737676800"
+		"tested_build_id" "17037384"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
@@ -56,20 +56,10 @@
 			}
 			"2"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-			}
-			"3"
-			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"4"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"5"
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -78,16 +68,17 @@
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "0"
+			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-8.0-3"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -311,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "1758366588942586372"
-				"size" "3734616050"
-				"download" "1467923824"
+				"gid" "1963996605024492693"
+				"size" "3735625270"
+				"download" "1468167856"
 			}
 		}
 	}
@@ -328,8 +319,8 @@
 	{
 		"public"
 		{
-			"buildid" "17037384"
-			"timeupdated" "1737102746"
+			"buildid" "17153993"
+			"timeupdated" "1738043514"
 		}
 	}
 	"privatebranches" "1"
@@ -349,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27038980"
-"_sha" "66d0a3b3ca0e0a6d383ecd3226b9ebdb00133e8f"
-"_size" "6975"
+"_change_number" "27195403"
+"_sha" "2298c9198fddb800b8c6ccb160cfb6d580867bcc"
+"_size" "6761"
