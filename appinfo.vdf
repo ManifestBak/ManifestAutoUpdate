@@ -1,0 +1,136 @@
+"appid" "765610"
+"common"
+{
+	"name" "Hex-Up"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "d1abba6bce450335db241e38a23b048c32a276bb"
+	"logo" "a710d1765846f2bf2a5d765032839c7813ee3bb9"
+	"logo_small" "a710d1765846f2bf2a5d765032839c7813ee3bb9_thumb"
+	"clienticon" "2701f37db5596f70cc95988eb61b26f27e7703d6"
+	"clienttga" "ce2d34bf1b6a1f90e77e5b902ec7627e29a2116a"
+	"metacritic_name" "Hex-Up"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.jpg"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_68e24164f833774406c47f180d6cef5b66d7fbe2.jpg"
+	"store_asset_mtime" "1560318892"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LuteGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "LuteGames"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1514534400"
+	"steam_release_date" "1514571858"
+	"community_hub_visible" "1"
+	"gameid" "765610"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "492"
+		"2" "1664"
+		"3" "3871"
+		"4" "1756"
+	}
+	"review_score" "7"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "LuteGames"
+	"publisher" "LuteGames"
+}
+"config"
+{
+	"installdir" "Hex-Up"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hex-Up/Hex-Up.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"765611"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7784377785532882798"
+				"size" "116228218"
+				"download" "67416048"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2404411"
+			"timeupdated" "1514629408"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26238434"
+"_sha" "9f37b9e3b84e0a970bf2719b9411325ba43190d4"
+"_size" "2081"
