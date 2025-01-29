@@ -1,19 +1,23 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-29 20:37:40
+## 更新时间：2025-01-29 22:18:15
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1083880 | Princess & Conquest| Game |
-| 1677740 | Stumble Guys| Game |
-| 1757580 | Open Wheel Manager 2| Game |
-| 2132380 | Book of Korvald| Game |
-| 2258770 | 壳之少女| Game |
-| 2276440 | 鞭炮&烟花：春节模拟器Firecrackers&fireworks：china new year simulation| Game |
-| 2850190 | 灾厄黑龙与谎言公主| Game |
-| 2582560 | EA SPORTS™ Madden NFL 25| Game |
+| 1124180 | 铁路调度模拟器| Game |
+| 1159090 | 佐瑞亚：碎裂纪元| Game |
+| 1793090 | Blockbuster Inc.| Game |
+| 1734890 | Visual Novel Sisters| Game |
+| 2211170 | 一起开火车2：汽笛重鸣| Game |
+| 2206350 | Farm Manager World| Game |
+| 2246110 | Q  REMASTERED| Game |
+| 2508980 | PATHOGEN X| Game |
+| 2722270 | 永恒幻境 Eternal Dreamland| Game |
+| 252530 | OMSI 2| Game |
+| 2882870 | Doll Impostor| Game |
+| 275850 | No Man's Sky 无人深空| Game |
 | 2957700 | 太太！我喜欢你！| Game |
-| 282070 | This War of Mine| Game |
-| 1849250 | EA SPORTS™ WRC| Game |
-| 616720 | Live2DViewerEX| Application |
-| 790060 | The Void Rains Upon Her Heart| Game |
-| 773790 | Ostriv| Game |
+| 3058630 | 《神力科莎EVO》  Assetto Corsa EVO| Game |
+| 2904000 | 咒语旅团| Game |
+| 3292260 | Amenti| Game |
+| 758870 | Kynseed| Game |
+| 686810 | 人间地狱| Game |
