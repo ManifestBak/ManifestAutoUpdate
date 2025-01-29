@@ -6,7 +6,7 @@
 	"releasestate" "released"
 	"logo" "c4776b52e9c000b09a6315ece269c631e3c0ba56"
 	"logo_small" "c4776b52e9c000b09a6315ece269c631e3c0ba56_thumb"
-	"oslist" "windows,linux"
+	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
 	"clienticon" "51988c86d40efe124f63ba70ffae4befb8844d9f"
@@ -186,9 +186,9 @@
 		{
 			"public"
 			{
-				"gid" "3793985956081854039"
-				"size" "4293927571"
-				"download" "1688678800"
+				"gid" "4889315315934875441"
+				"size" "4423693450"
+				"download" "1769616080"
 			}
 		}
 	}
@@ -199,16 +199,13 @@
 			"oslist" "linux"
 			"osarch" "64"
 		}
-		"manifests"
-		{
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17120975"
-			"timeupdated" "1737730408"
+			"buildid" "17174967"
+			"timeupdated" "1738176098"
 		}
 	}
 	"privatebranches" "1"
@@ -228,6 +225,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27152208"
-"_sha" "db1f6256ecb3ea453fa645e1ad06bf41289215e9"
-"_size" "3602"
+"_change_number" "27222906"
+"_sha" "ba02e5ada6c2e0b5146cce500eebf47d0c8982b0"
+"_size" "3571"
