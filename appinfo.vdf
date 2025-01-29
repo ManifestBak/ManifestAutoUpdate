@@ -26,6 +26,7 @@
 	"osextended" ""
 	"name_localized"
 	{
+		"schinese" "盗日求生：撤离"
 	}
 	"exfgls" "1"
 	"content_descriptors"
@@ -36,7 +37,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "e2bb74c10d8680264dee8a076061ea8c13c049a7/capsule_231x87.jpg"
+		"english" "68cf4ea2120c0c04b4d58bc622f3a8ae3a0e8cdf/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -61,12 +62,12 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "ca2cb13d3883387224b292c53a49661c696ed2e0/library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "ca2cb13d3883387224b292c53a49661c696ed2e0/library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 			}
 		}
@@ -113,7 +114,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734109304"
+	"store_asset_mtime" "1738170094"
 	"associations"
 	{
 		"0"
@@ -140,7 +141,6 @@
 		"2" "23"
 		"3" "29"
 		"4" "28"
-		"5" "70"
 	}
 	"category"
 	{
@@ -204,7 +204,7 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1723561057"
+	"steam_release_date" "1738170158"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1456940"
@@ -232,7 +232,7 @@
 		"19" "19"
 	}
 	"review_score" "5"
-	"review_percentage" "60"
+	"review_percentage" "59"
 }
 "extended"
 {
@@ -288,66 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "9105464688450079859"
-				"size" "21169501295"
-				"download" "19946595696"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop"
-			{
-				"gid" "857CFED36BCAC55518715754187D6774"
-				"size" "D0992DB93274A3EDB8956262C5A77069"
-				"download" "A938A4BC693C92E89C7E02D6A7CA9436"
-			}
-			"dlss"
-			{
-				"gid" "5E77415D4C43B8CC974AE3D588F05C06"
-				"size" "D4CD6158C0597FA06CED1C18D6BD0D23"
-				"download" "A25252F7EF2184077BF145EE80114945"
-			}
-			"experimental"
-			{
-				"gid" "ED1CE79C5FEE3A5EF6402F890C7B8BE5"
-				"size" "82F5CB3916539F04A617CC024D4E4D3F"
-				"download" "23BE633E0BBDFE81C58545795938F5EB"
-			}
-			"playtesters"
-			{
-				"gid" "1E3446CBF2FC4283DA3BAA4955E5E174"
-				"size" "F594A27E6CB035C98A0F1A946CD19DE3"
-				"download" "B04B2244D35A918C887C3857B2D6CF83"
-			}
-			"stable"
-			{
-				"gid" "DFDE4C76C506B4802E8E569A1DCCC387"
-				"size" "4F2DAA49D7D45DF0B5C861AB4B7A1B32"
-				"download" "BE57A32B2BEEC7FDE7E7B1E23F317B9F"
-			}
-			"test"
-			{
-				"gid" "52EB5CB86AE51B6F451B89D5566DC931"
-				"size" "F81B7D823174978A43CE5099681CCEE1"
-				"download" "2F87F4DE899FDC39B70377F29C99FC3A"
-			}
-			"test2"
-			{
-				"gid" "9278BFCAEFDD0F138720D6BF821D1E94"
-				"size" "9E87D5F0F0AB1CFDE1C0E64BE01358A1"
-				"download" "0226549AF4D741D610B65521CE94EEE9"
-			}
-			"test3"
-			{
-				"gid" "2416552DC13B95F291890E86A89A2535"
-				"size" "4323D14FDC234E309A0443ADD4755C45"
-				"download" "BF58A42D5E46705A776FC6658FB58AAF"
-			}
-			"trailer"
-			{
-				"gid" "A3B8637F0983285BCE68D8FB9143E396"
-				"size" "69ADF15D6187F46AC37594B5DA2B86EE"
-				"download" "3957E5F56AD270C8363796A6606A7247"
+				"gid" "8703812892725646143"
+				"size" "23504406366"
+				"download" "22250909936"
 			}
 		}
 	}
@@ -355,66 +298,13 @@
 	{
 		"public"
 		{
-			"buildid" "16854322"
-			"timeupdated" "1735216832"
-		}
-		"develop"
-		{
-			"buildid" "16853946"
-			"pwdrequired" "1"
-			"timeupdated" "1735212466"
-		}
-		"dlss"
-		{
-			"buildid" "15172724"
-			"pwdrequired" "1"
-			"timeupdated" "1722092422"
-		}
-		"experimental"
-		{
-			"buildid" "16815404"
-			"pwdrequired" "1"
-			"timeupdated" "1734706499"
-		}
-		"playtesters"
-		{
-			"buildid" "15586802"
-			"pwdrequired" "1"
-			"timeupdated" "1725434847"
-		}
-		"stable"
-		{
-			"buildid" "13604908"
-			"pwdrequired" "1"
-			"timeupdated" "1709281272"
-		}
-		"test"
-		{
-			"buildid" "16854322"
-			"pwdrequired" "1"
-			"timeupdated" "1735216313"
-		}
-		"test2"
-		{
-			"buildid" "16854547"
-			"pwdrequired" "1"
-			"timeupdated" "1735219600"
-		}
-		"test3"
-		{
-			"buildid" "16835523"
-			"pwdrequired" "1"
-			"timeupdated" "1734961363"
-		}
-		"trailer"
-		{
-			"buildid" "16787914"
-			"pwdrequired" "1"
-			"timeupdated" "1734601147"
+			"buildid" "17171657"
+			"timeupdated" "1738169107"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26790320"
-"_sha" "05b062d2cefd3332fc10bc6ca9dfbbc081374611"
-"_size" "7603"
+"_change_number" "27221315"
+"_sha" "d70ef5b5a912ef61b4caf8f9dbada4fd40cb00d8"
+"_size" "5213"
