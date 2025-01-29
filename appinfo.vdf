@@ -294,13 +294,13 @@
 		"13" "6730"
 		"14" "4182"
 		"15" "1742"
-		"16" "3993"
-		"17" "4175"
-		"18" "122"
+		"16" "122"
+		"17" "3993"
+		"18" "4175"
 		"19" "3859"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -371,72 +371,9 @@
 		{
 			"public"
 			{
-				"gid" "962869807491327250"
-				"size" "19579444312"
-				"download" "19133544336"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"athena"
-			{
-				"gid" "BD1622A9BF1FC8954FCB2C94CAC2DF89"
-				"size" "2606962FCCBE8EDA993CED9F2CDBC608"
-				"download" "D5A7AE566944D44DB8EA354221E106E6"
-			}
-			"debug"
-			{
-				"gid" "B97441301F719A792DA25CA4B3AA73BC"
-				"size" "63CDE22A1DA35C0B97A7AE2979A1F290"
-				"download" "DC3CC1866744D3300699A96E48234EDD"
-			}
-			"gamescom2023"
-			{
-				"gid" "E37D0A8D57330B43684C059DEB22114D"
-				"size" "C19CF661440CADBCD7BD70B7B1898E22"
-				"download" "AD52FC9D6181974D5E6F52B5593E6AE0"
-			}
-			"inner_preview"
-			{
-				"gid" "339A4326BFF48A6B84856EFDB91F5ED6"
-				"size" "9D92B982E568337311105594C79AA11B"
-				"download" "F057BDD447B0CCAFE7A82442CD8027D9"
-			}
-			"review"
-			{
-				"gid" "CBDA8EA1D589DD6AA54366371E7DC57B"
-				"size" "DB382335637AC11A14F21A68CF5E9BBC"
-				"download" "A7762127A1515B27841C0BD4AC71128C"
-			}
-			"tr_test"
-			{
-				"gid" "5BA95E744D0D69C7CA5981737777E070"
-				"size" "959C4728A1DCE25D1B5589312EFD53D2"
-				"download" "3420085AC73B94F1FDF0AE4447F94428"
-			}
-			"influencers"
-			{
-				"gid" "E7AE471736779D49BC35DC0C70B7AA75"
-				"size" "68FF5C2B37EF7C02EC6FB3376B5A5F3C"
-				"download" "2515BD7069B2365BA25BC24A332C3953"
-			}
-			"qa_dev"
-			{
-				"gid" "200170271AA138016FA75252B8FA485E"
-				"size" "B8E1781F66BB86EF41C5056908267D12"
-				"download" "00D119C71D126D15DB18377F46681D01"
-			}
-			"qa_dev2"
-			{
-				"gid" "E8606A8CE176C99407BA82565D6AEF6A"
-				"size" "5236ED6CC90C4B81DDF62900CC5852CE"
-				"download" "40E052D0061063319415E01924B830AD"
-			}
-			"qa_shipping"
-			{
-				"gid" "8CFEDEF36BDFE15141161A06C0380D62"
-				"size" "992769ADF3BD4A935D8E1F2958942088"
-				"download" "E38381E8F17FBF17379FBA3172DEC107"
+				"gid" "624514940828443003"
+				"size" "19588581111"
+				"download" "19135696928"
 			}
 		}
 	}
@@ -444,70 +381,11 @@
 	{
 		"public"
 		{
-			"buildid" "16708010"
-			"timeupdated" "1734619232"
-		}
-		"athena"
-		{
-			"buildid" "11486875"
-			"pwdrequired" "1"
-			"timeupdated" "1686910159"
-		}
-		"debug"
-		{
-			"buildid" "10897629"
-			"pwdrequired" "1"
-			"timeupdated" "1682064768"
-		}
-		"gamescom2023"
-		{
-			"buildid" "11827365"
-			"pwdrequired" "1"
-			"timeupdated" "1690797319"
-		}
-		"inner_preview"
-		{
-			"buildid" "11644717"
-			"pwdrequired" "1"
-			"timeupdated" "1688720310"
-		}
-		"review"
-		{
-			"buildid" "12545728"
-			"pwdrequired" "1"
-			"timeupdated" "1698410471"
-		}
-		"tr_test"
-		{
-			"buildid" "13724784"
-			"pwdrequired" "1"
-			"timeupdated" "1710326139"
-		}
-		"influencers"
-		{
-			"buildid" "15529337"
-			"pwdrequired" "1"
-			"timeupdated" "1725537536"
-		}
-		"qa_dev"
-		{
-			"buildid" "16808887"
-			"pwdrequired" "1"
-			"timeupdated" "1734661740"
-		}
-		"qa_dev2"
-		{
-			"buildid" "14356214"
-			"pwdrequired" "1"
-			"timeupdated" "1718789667"
-		}
-		"qa_shipping"
-		{
-			"buildid" "16708010"
-			"pwdrequired" "1"
-			"timeupdated" "1733923953"
+			"buildid" "17090347"
+			"timeupdated" "1738165088"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -529,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26725818"
-"_sha" "8670594bff934093427b462f26c864e93440da19"
-"_size" "9843"
+"_change_number" "27220071"
+"_sha" "9a7e08c792c7d577049fee6a629d2caf861b4af9"
+"_size" "7036"
