@@ -159,7 +159,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -190,9 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "7001315319506812994"
-				"size" "43029340193"
-				"download" "36386596560"
+				"gid" "8955246321715404588"
+				"size" "53637516070"
+				"download" "41452957632"
 			}
 			"developmentbuild"
 			{
@@ -200,26 +200,11 @@
 				"size" "31823514150"
 				"download" "26249133792"
 			}
-			"1.0xversion"
-			{
-				"gid" "3380613042826746266"
-				"size" "35256083184"
-				"download" "29515293376"
-			}
 			"beta"
 			{
-				"gid" "7001315319506812994"
-				"size" "43029340193"
-				"download" "36386596560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"privatetest"
-			{
-				"gid" "B520BA1F97A802E0BE6983F7163AD433"
-				"size" "B2D11721456E69DAC410BABE8A39E305"
-				"download" "4C5968935C0B80C191D42A8354895B1E"
+				"gid" "8955246321715404588"
+				"size" "53637516070"
+				"download" "41452957632"
 			}
 		}
 	}
@@ -227,8 +212,8 @@
 	{
 		"public"
 		{
-			"buildid" "16900499"
-			"timeupdated" "1735919130"
+			"buildid" "17167520"
+			"timeupdated" "1738142843"
 		}
 		"developmentbuild"
 		{
@@ -236,25 +221,14 @@
 			"description" "for developing test"
 			"timeupdated" "1699616501"
 		}
-		"1.0xversion"
-		{
-			"buildid" "13830940"
-			"description" "For 1.0X old version"
-			"timeupdated" "1734890519"
-		}
 		"beta"
 		{
-			"buildid" "16900499"
+			"buildid" "17167520"
 			"description" "For pre release test"
-			"timeupdated" "1735919139"
-		}
-		"privatetest"
-		{
-			"buildid" "16900499"
-			"pwdrequired" "1"
-			"timeupdated" "1735919147"
+			"timeupdated" "1738142862"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -264,6 +238,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "26853220"
-"_sha" "581bad4e1a5660ec462852ec90f4656e0417b6bc"
-"_size" "4562"
+"_change_number" "27214910"
+"_sha" "ce7be47f18f47e5182966da7806a597db0624a2e"
+"_size" "4019"
