@@ -10,6 +10,11 @@
 	"clienticon" "3dd307c9221661b41d1344c8a4a63838b4e93ccf"
 	"clienticns" "a681e0ee81c051891bf7885d3af912a3a0bb1616"
 	"oslist" "windows,macos,linux"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
 	"metacritic_name" "Indie Game: The Movie"
 	"small_capsule"
 	{
@@ -19,6 +24,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_b492e78da413428087ced289096f40f49b814d9a.jpg"
 	"store_asset_mtime" "1356972959"
 	"associations"
 	{
@@ -285,21 +291,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "9FBB3ABB272077B06EA3742C7201C4BD"
-				"size" "11892CCE4C0A1EC50357D7E8E792DD20"
-				"download" "63C30E824AD44854FAF54DD196470CD0"
-			}
-			"beta"
-			{
-				"gid" "8754D0DF799B8B2A9BF4820DA7CCAB71"
-				"size" "65C407B9C0AAF99B7FF02B4DDDE034F3"
-				"download" "1AB17D20C49EB8288216DE25331EB6E3"
-			}
-		}
 	}
 	"207082"
 	{
@@ -322,21 +313,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "F83636023240CE764959B37EA7078A75"
-				"size" "83D1F4B4C497E234E1B3DECCC58A4ED4"
-				"download" "63C30E824AD44854FAF54DD196470CD0"
-			}
-			"beta"
-			{
-				"gid" "69988BBD498931720F2F6585DB3DCD69"
-				"size" "BEA3DC8A792034817FD0778B451DAB0C"
-				"download" "1AB17D20C49EB8288216DE25331EB6E3"
-			}
-		}
 	}
 	"207090"
 	{
@@ -353,21 +329,6 @@
 				"gid" "1642060017600455389"
 				"size" "2941349138"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "0B1CA930249BEA147B23129A1C380C9B"
-				"size" "5ABB1DF08C9236CB692282F5C44A1C82"
-				"download" "63C30E824AD44854FAF54DD196470CD0"
-			}
-			"beta"
-			{
-				"gid" "17274D81DC7347A94537858BC6219799"
-				"size" "9353FE98A3DE52F2B9A1C1D2CA79EFE2"
-				"download" "1AB17D20C49EB8288216DE25331EB6E3"
 			}
 		}
 		"dlcappid" "207090"
@@ -393,21 +354,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "CACCB8749C1B9C3665C470EC1CBA2AD0"
-				"size" "3A5A8D84CFDF50DE6826E481BCA37D4F"
-				"download" "63C30E824AD44854FAF54DD196470CD0"
-			}
-			"beta"
-			{
-				"gid" "973B0CF2C9C2141BD9FED07DDFACF2A0"
-				"size" "CF9DD76A9851BC3D510118205C2E4CDC"
-				"download" "1AB17D20C49EB8288216DE25331EB6E3"
-			}
-		}
 	}
 	"branches"
 	{
@@ -415,20 +361,15 @@
 		{
 			"buildid" "255776"
 		}
-		"alpha"
-		{
-			"buildid" "255776"
-			"pwdrequired" "1"
-		}
-		"beta"
-		{
-			"buildid" "255776"
-			"pwdrequired" "1"
-		}
 		"temp"
 		{
 			"buildid" "142187"
 			"description" "for kassidy"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27142347"
+"_sha" "4be172ea556c9f322edf1fd66b2095b66d5e71cd"
+"_size" "6000"
