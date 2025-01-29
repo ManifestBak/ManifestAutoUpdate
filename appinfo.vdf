@@ -199,8 +199,8 @@
 		"11" "4145"
 		"12" "493"
 		"13" "4667"
-		"14" "6730"
-		"15" "4175"
+		"14" "4175"
+		"15" "6730"
 		"16" "26921"
 		"17" "4598"
 	}
@@ -212,7 +212,7 @@
 	"developer" "Future Minimalism"
 	"publisher" "Future Minimalism"
 	"homepage" "https://voordekroon.com/"
-	"listofdlc" "2476920"
+	"listofdlc" "2476920,2476921"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -263,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "5776282982270449158"
-				"size" "20532495552"
-				"download" "7526891232"
+				"gid" "4782663667450584777"
+				"size" "20532494528"
+				"download" "7526899936"
 			}
 		}
 	}
@@ -274,8 +274,8 @@
 	{
 		"public"
 		{
-			"buildid" "17160281"
-			"timeupdated" "1738081411"
+			"buildid" "17176788"
+			"timeupdated" "1738189043"
 		}
 	}
 	"privatebranches" "1"
@@ -286,6 +286,6 @@
 	"maxnumfiles" "30"
 }
 "_missing_token" "False"
-"_change_number" "27203871"
-"_sha" "c5b1bcbfc40a2b31975aceb7f2dd9cb1ca2bc3c8"
-"_size" "5086"
+"_change_number" "27225604"
+"_sha" "3294eb016e2d7eaca9ae3023c346ce5eb555e7d6"
+"_size" "5094"
