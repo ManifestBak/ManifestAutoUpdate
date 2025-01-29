@@ -16,6 +16,7 @@
 	}
 	"oslist" "windows,macos"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -231,3 +232,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "52da569c68ec8ba380f672604d7fbddedcade3e4"
+"_size" "4807"
