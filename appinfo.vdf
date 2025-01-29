@@ -16,6 +16,7 @@
 	"logo_small" "76361dfc1ef09dbb7f6572a6da7ab38a811f54af_thumb"
 	"oslist" "windows,macos"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -93,6 +94,7 @@
 	{
 		"0" "1698"
 		"1" "21"
+		"2" "4242"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -228,3 +230,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26978839"
+"_sha" "506cecb4d118421bac82c4399bc4b482f2779140"
+"_size" "4680"
