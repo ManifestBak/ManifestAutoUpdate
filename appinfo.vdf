@@ -132,6 +132,11 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "News"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "072 Project"
 		}
@@ -180,34 +185,34 @@
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "122"
-		"2" "9130"
-		"3" "916648"
-		"4" "6650"
-		"5" "5611"
+		"1" "9130"
+		"2" "5611"
+		"3" "6650"
+		"4" "916648"
+		"5" "122"
 		"6" "1741"
 		"7" "4434"
 		"8" "4085"
 		"9" "4726"
-		"10" "21"
-		"11" "4325"
-		"12" "3854"
-		"13" "1742"
-		"14" "4182"
-		"15" "492"
-		"16" "1684"
-		"17" "5984"
-		"18" "3942"
-		"19" "4166"
+		"10" "4325"
+		"11" "21"
+		"12" "24904"
+		"13" "3854"
+		"14" "1742"
+		"15" "4182"
+		"16" "492"
+		"17" "1684"
+		"18" "5984"
+		"19" "3942"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
 	"developer" "にゅう工房"
 	"publisher" "072 Project"
-	"homepage" "https://072project.com/\?source=test"
+	"homepage" "https://072project.com/\?source=steam_yarimono&amp;utm_source=steam&amp;utm_medium=yarimono&amp;utm_campaign=store_link"
 	"listofdlc" "3171570"
 	"dlcavailableonstore" "1"
 }
@@ -339,3 +344,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27184358"
+"_sha" "e74122d2bfd94bf4b36726cd02436dd257011e32"
+"_size" "6024"
