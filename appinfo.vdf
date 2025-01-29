@@ -1,0 +1,163 @@
+"appid" "716800"
+"common"
+{
+	"name" "War Builder League"
+	"type" "Game"
+	"releasestate" "unavailable"
+	"logo" "8f5ef6064b3bdac0baa09a41b799cc9499e74fcc"
+	"logo_small" "8f5ef6064b3bdac0baa09a41b799cc9499e74fcc_thumb"
+	"icon" "b0f4495f9d8c36964fd335fb47ac01623e02dc55"
+	"clienttga" "995fe40366466544bfbfaa06162305d46ba2eb52"
+	"clienticon" "0bdd5ed358bc98711857a93b0db7638981dec04c"
+	"metacritic_name" "War Builder League"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_a73241d1e3a939e2f7bdf9712b9d0ee47b921111.jpg"
+	"store_asset_mtime" "1510961490"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cyber Prophet"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fat Dog Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"gameid" "716800"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "599"
+		"3" "21"
+		"4" "113"
+		"5" "3859"
+		"6" "1678"
+		"7" "1685"
+		"8" "3942"
+		"9" "4115"
+		"10" "4711"
+		"11" "5547"
+		"12" "5765"
+		"13" "9"
+		"14" "1662"
+		"15" "1663"
+		"16" "1734"
+		"17" "1756"
+		"18" "4026"
+		"19" "4747"
+	}
+}
+"extended"
+{
+	"developer" "Cyber Prophet"
+	"publisher" "Fat Dog Games"
+	"homepage" "http://fatdoggames.com/game/war-builder-league/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "War Builder League"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WarBuilderLeague.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"716801"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "393793617378288015"
+				"size" "2750902391"
+				"download" "883642128"
+			}
+		}
+	}
+	"716802"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2589292458441932971"
+				"size" "2745698168"
+				"download" "882649968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2316970"
+			"timeupdated" "1511702982"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "512726877984615f8d753aebdf49e3a33c3f456f"
+"_size" "2543"
