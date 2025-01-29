@@ -142,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726144103"
+	"store_asset_mtime" "1735222563"
 	"associations"
 	{
 		"0"
@@ -283,7 +283,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1726156796"
+	"steam_release_date" "1726156740"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1249970"
@@ -311,7 +311,7 @@
 		"19" "4747"
 	}
 	"review_score" "4"
-	"review_percentage" "34"
+	"review_percentage" "35"
 }
 "extended"
 {
@@ -328,7 +328,8 @@
 	{
 		"0"
 		{
-			"executable" "TDUSC.exe"
+			"executable" "Sard\\SARD.Runner.exe"
+			"arguments" "-sardKey 299081a8-c379-4619-881b-d0e1a88191e4 -sardGame \"..\\TDUSC.exe\""
 			"type" "default"
 			"config"
 			{
@@ -356,7 +357,7 @@
 		}
 		"2"
 		{
-			"executable" "Sard\\SardUpdater.exe"
+			"executable" "Sard\\SARD.Runner.exe"
 			"arguments" "-sardKey e6211068-c54e-402a-a455-e42b6810201a -sardGame \"..\\TDUSC.exe\""
 			"type" "option1"
 			"config"
@@ -373,7 +374,7 @@
 		}
 		"3"
 		{
-			"executable" "Sard\\SardUpdater.exe"
+			"executable" "Sard\\SARD.Runner.exe"
 			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
 			"type" "option1"
 			"config"
@@ -390,14 +391,31 @@
 		}
 		"4"
 		{
-			"executable" "Sard\\SardUpdater.exe"
+			"executable" "Sard\\SARD.Runner.exe"
 			"arguments" "-sardKey e89ea851-e395-4d2a-b1b8-27d251a89f15 -sardGame \"..\\TDUSC.exe\""
 			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "external_test_2"
+				"betakey" "nacon_autobuilds"
+			}
+			"description_loc"
+			{
+				"english" "Launch with Sard"
+			}
+			"description" "Launch with Sard"
+		}
+		"5"
+		{
+			"executable" "Sard\\SARD.Runner.exe"
+			"arguments" "-sardKey 299081a8-c379-4619-881b-d0e1a88191e4 -sardGame \"..\\TDUSC.exe\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "preprod_maintenance"
 			}
 			"description_loc"
 			{
@@ -445,138 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "2471024910700225224"
-				"size" "80168057158"
-				"download" "70941681696"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dbox"
-			{
-				"gid" "D816544299EB0AB445667B7A84D666C9"
-				"size" "F31F694B7040FB39D72C2298BF28FADC"
-				"download" "5FEE35EC55E668157F7D6718F71A5791"
-			}
-			"_amd_"
-			{
-				"gid" "5742C8B5C291EC1411D5ED9948D664A0"
-				"size" "AED52E2D25DA1C62EE2E708AF7DDE793"
-				"download" "D03BB946721D05078369D930B066AA91"
-			}
-			"3goo"
-			{
-				"gid" "362A21184BB89FFCE3C12AD81D454BFD"
-				"size" "74E4EF19D625C650FE6C35E95627E43A"
-				"download" "5FD5E992BBDB654ED5963F32858FB95C"
-			}
-			"external_test"
-			{
-				"gid" "CEF0CE75ED526FDC829E53047EF602DF"
-				"size" "5258190A024F786859486015E1CBCE10"
-				"download" "F5451E3D65267BB12412B2ACE5CB9987"
-			}
-			"external_test_2"
-			{
-				"gid" "FA6029C69A4D45B18B4FF8251B23E546"
-				"size" "1EFA40D8D0DD0ECEC2B26D54B658D219"
-				"download" "A5F1EB04A439C82166D5969A0CA1969C"
-			}
-			"external_test_3"
-			{
-				"gid" "263CB6CE17F66861C87DD0F421769E96"
-				"size" "653F8ED2B5F4C43C3D75AD3181EA421A"
-				"download" "B8812FABAEDE182CDAD62FD9F382630B"
-			}
-			"huwiz_build"
-			{
-				"gid" "76C0A18D316ABC41370EF0B26D07991B"
-				"size" "FC5978719EFFB0067E87D152D682296A"
-				"download" "239A45192F7E32F564F1ABDEEDAFDF62"
-			}
-			"intel"
-			{
-				"gid" "4888438B3442FC71DB9723AAEF554A9C"
-				"size" "D4DF56256E21421786698B4F8A76DE91"
-				"download" "523238BBD8D56AFAE0E2729AD541B37D"
-			}
-			"internal_market"
-			{
-				"gid" "9FB79FD562610701187B79EC8166988E"
-				"size" "CE6FECD092DB2AC515A4B18B1B800BE4"
-				"download" "33745E7352419909F2995144B5B5BD32"
-			}
-			"internalautobuilds"
-			{
-				"gid" "A812A430F4D704A040D94B2C223603EA"
-				"size" "151ABAC56338AB9F1EABF63154AB2248"
-				"download" "7ABF34F05CE7B4328D033F277B41CD6C"
-			}
-			"internaltest"
-			{
-				"gid" "4DF919E9686D755A8273C6595C3576FD"
-				"size" "B37655062FEA00435D8D18F131488CF2"
-				"download" "1837C3DB3F0253008E483F1398A601A0"
-			}
-			"internaltest2"
-			{
-				"gid" "F680532CF5675D00A665599FD04C01DA"
-				"size" "8489856A224D9A40D48774F6ECF364C7"
-				"download" "C0215B98ED575A189A086527EF2B9EA9"
-			}
-			"internaltest3"
-			{
-				"gid" "B971908F89C5648CE10A55D7A7A8B120"
-				"size" "F34483821FCA092E46F929A0CFA7557F"
-				"download" "CBB6F2FC2EF0EBEA1E98A745D146935C"
-			}
-			"logsenabled"
-			{
-				"gid" "1C762D43C9AAF789A8C53B996214B2E2"
-				"size" "4F0914490B75348FEE9696445F4DBF20"
-				"download" "1F7318366E5CA517BE84A02B896BA0F4"
-			}
-			"market"
-			{
-				"gid" "9D4B9285FA6E1077AA499D00F3B132AE"
-				"size" "4474A73C2A98748339FCD9B593DAFDDD"
-				"download" "E7930F3785BCCDADE35A327B42B3A2B6"
-			}
-			"market_beta_s2"
-			{
-				"gid" "DDE12445B8DC0F3A70007BFCA15A1ABD"
-				"size" "6E57586543246BA07CB5BCE7C713ABB9"
-				"download" "A17985DF91651908427C3729E86A4C26"
-			}
-			"nacon_autobuilds"
-			{
-				"gid" "BB69BCE98320839B2053999E39D3AB09"
-				"size" "83134F95B89C41D2137552DF49060757"
-				"download" "C18DCB6B9743B2CA52BFF978D5695542"
-			}
-			"nvidia"
-			{
-				"gid" "25194EDDF043705B8D50684F1DA05E9D"
-				"size" "5B9535167B1239EF8C159AA93DC66A39"
-				"download" "DBFEE951C88F0545E8C8CDFCD8A8D0E1"
-			}
-			"preprod_maintenance"
-			{
-				"gid" "96256E4B3E3E6012B461E6764C05B0E9"
-				"size" "1921BFA09506E4E99D2F13D42D72C67E"
-				"download" "F5FC22A74ED67D52BF46051113E68301"
-			}
-			"sard"
-			{
-				"gid" "D4A9EC9CE497EBBB194809DD74E6DFB6"
-				"size" "8324520A9B66CB5D77891E0927FEAD14"
-				"download" "9A358ED268C210DAC8963E564C8B1AF6"
-			}
-			"steering_wheels_tests"
-			{
-				"gid" "19AE7E464249E8B5DED4E62F97D12F73"
-				"size" "0D0D0946CEB9513C632306F18875BB68"
-				"download" "5B806D1999D652FD42EA667CF973267C"
+				"gid" "1231617314424900080"
+				"size" "80328189536"
+				"download" "71023451680"
 			}
 		}
 	}
@@ -584,136 +473,11 @@
 	{
 		"public"
 		{
-			"buildid" "16604941"
-			"timeupdated" "1733906439"
-		}
-		"dbox"
-		{
-			"buildid" "13187537"
-			"pwdrequired" "1"
-			"timeupdated" "1705499106"
-		}
-		"_amd_"
-		{
-			"buildid" "15639649"
-			"pwdrequired" "1"
-			"timeupdated" "1725978006"
-		}
-		"3goo"
-		{
-			"buildid" "15876100"
-			"pwdrequired" "1"
-			"timeupdated" "1728403177"
-		}
-		"external_test"
-		{
-			"buildid" "16536101"
-			"pwdrequired" "1"
-			"timeupdated" "1732789027"
-		}
-		"external_test_2"
-		{
-			"buildid" "16604740"
-			"pwdrequired" "1"
-			"timeupdated" "1733393095"
-		}
-		"external_test_3"
-		{
-			"buildid" "16489468"
-			"pwdrequired" "1"
-			"timeupdated" "1732290771"
-		}
-		"huwiz_build"
-		{
-			"buildid" "16040370"
-			"pwdrequired" "1"
-			"timeupdated" "1728978050"
-		}
-		"intel"
-		{
-			"buildid" "15639649"
-			"pwdrequired" "1"
-			"timeupdated" "1725977979"
-		}
-		"internal_market"
-		{
-			"buildid" "16224805"
-			"pwdrequired" "1"
-			"timeupdated" "1730222048"
-		}
-		"internalautobuilds"
-		{
-			"buildid" "16602579"
-			"pwdrequired" "1"
-			"timeupdated" "1733153679"
-		}
-		"internaltest"
-		{
-			"buildid" "16604740"
-			"pwdrequired" "1"
-			"timeupdated" "1733835267"
-		}
-		"internaltest2"
-		{
-			"buildid" "16604740"
-			"pwdrequired" "1"
-			"timeupdated" "1733165381"
-		}
-		"internaltest3"
-		{
-			"buildid" "16536195"
-			"pwdrequired" "1"
-			"timeupdated" "1732805529"
-		}
-		"logsenabled"
-		{
-			"buildid" "15794334"
-			"pwdrequired" "1"
-			"timeupdated" "1727093362"
-		}
-		"market"
-		{
-			"buildid" "16224805"
-			"pwdrequired" "1"
-			"timeupdated" "1730369822"
-		}
-		"market_beta_s2"
-		{
-			"buildid" "15301298"
-			"pwdrequired" "1"
-			"timeupdated" "1723456432"
-		}
-		"nacon_autobuilds"
-		{
-			"buildid" "16602579"
-			"pwdrequired" "1"
-			"timeupdated" "1733936413"
-		}
-		"nvidia"
-		{
-			"buildid" "15728663"
-			"pwdrequired" "1"
-			"timeupdated" "1727098495"
-		}
-		"preprod_maintenance"
-		{
-			"buildid" "16536195"
-			"pwdrequired" "1"
-			"timeupdated" "1732786682"
-		}
-		"sard"
-		{
-			"buildid" "15728663"
-			"pwdrequired" "1"
-			"timeupdated" "1726653355"
-		}
-		"steering_wheels_tests"
-		{
-			"buildid" "15639649"
-			"pwdrequired" "1"
-			"timeupdated" "1726241690"
+			"buildid" "17076728"
+			"timeupdated" "1738143568"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -721,6 +485,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26596830"
-"_sha" "81fa847e1996d58fe6484f8c1c7b8b27db4c7edb"
-"_size" "14401"
+"_change_number" "27215112"
+"_sha" "c5464f333dfd09cdc6619afee3fda7c24e36f359"
+"_size" "8884"
