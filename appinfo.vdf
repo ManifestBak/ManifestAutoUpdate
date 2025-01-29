@@ -191,7 +191,7 @@
 		"19" "3813"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -277,15 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "3751923906649484589"
-				"size" "2013432495"
-				"download" "1697938176"
-			}
-			"rgd-branch"
-			{
-				"gid" "1889520564432228350"
-				"size" "1857270533"
-				"download" "1637685216"
+				"gid" "6304906100961688107"
+				"size" "2229721801"
+				"download" "1916738368"
 			}
 		}
 	}
@@ -294,14 +288,8 @@
 	{
 		"public"
 		{
-			"buildid" "16707109"
-			"timeupdated" "1733919191"
-		}
-		"rgd-branch"
-		{
-			"buildid" "15378226"
-			"description" "Old Game ver.0.9.n - 旧版本"
-			"timeupdated" "1724903596"
+			"buildid" "17174288"
+			"timeupdated" "1738172492"
 		}
 	}
 }
@@ -321,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26592552"
-"_sha" "9458b110355160d52968e447d130b99759d96844"
-"_size" "6028"
+"_change_number" "27221995"
+"_sha" "2c14f30d97dad931dedb230ad94b3b5539032e2e"
+"_size" "5773"
