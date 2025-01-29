@@ -237,7 +237,7 @@
 	"developer" "KAMITSUBAKI STUDIO"
 	"publisher" "KAMITSUBAKI STUDIO"
 	"homepage" "https://ensemble.kamitsubaki.jp/"
-	"listofdlc" "3063310,3063320,3063330,3063340,3063350,3063360,3063560,3063570,3063580,3063590"
+	"listofdlc" "3063310,3063320,3063330,3063340,3063350,3063360,3063560,3063570,3063580,3063590,3466910,3466920"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -269,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "7823028039903629249"
-				"size" "9356780823"
-				"download" "8626974720"
+				"gid" "8303602806876078572"
+				"size" "10573246272"
+				"download" "9659801264"
 			}
 		}
 	}
@@ -279,8 +279,8 @@
 	{
 		"public"
 		{
-			"buildid" "16715764"
-			"timeupdated" "1735137109"
+			"buildid" "17140402"
+			"timeupdated" "1738174942"
 		}
 	}
 	"privatebranches" "1"
@@ -306,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26781743"
-"_sha" "376a820da56d4bc8979257593bfbd544bd30e68c"
-"_size" "6613"
+"_change_number" "27222703"
+"_sha" "094d60351977e4df50100a9e14a946d0a63cd412"
+"_size" "6630"
