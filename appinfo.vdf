@@ -94,12 +94,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Eternal"
+			"name" "SYN-Studio"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Eternal"
+			"name" "SYN-Studio"
 		}
 	}
 	"primary_genre" "1"
@@ -137,10 +137,10 @@
 	{
 		"0" "7208"
 		"1" "12095"
-		"2" "19"
-		"3" "3814"
-		"4" "3835"
-		"5" "6650"
+		"2" "6650"
+		"3" "19"
+		"4" "3814"
+		"5" "3835"
 		"6" "1774"
 		"7" "4191"
 		"8" "4747"
@@ -151,18 +151,18 @@
 		"13" "1659"
 		"14" "5611"
 		"15" "24904"
-		"16" "21"
-		"17" "4182"
+		"16" "4182"
+		"17" "21"
 		"18" "4106"
 		"19" "9130"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "51"
 }
 "extended"
 {
-	"developer" "Eternal"
-	"publisher" "Eternal"
+	"developer" "SYN-Studio"
+	"publisher" "SYN-Studio"
 }
 "config"
 {
@@ -207,9 +207,9 @@
 		{
 			"public"
 			{
-				"gid" "5620025363298968668"
-				"size" "21608579448"
-				"download" "21078672128"
+				"gid" "6104963458861094706"
+				"size" "21692315476"
+				"download" "21160242768"
 			}
 		}
 	}
@@ -218,8 +218,8 @@
 	{
 		"public"
 		{
-			"buildid" "16831411"
-			"timeupdated" "1734914418"
+			"buildid" "17170778"
+			"timeupdated" "1738154688"
 		}
 	}
 }
@@ -242,6 +242,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26757462"
-"_sha" "275868234bc009b3fba554bf3db8be8063a32891"
-"_size" "3789"
+"_change_number" "27217313"
+"_sha" "badbcd678d9784565057bae8230134a3b5029754"
+"_size" "3801"
