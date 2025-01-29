@@ -298,8 +298,8 @@
 		"6" "19"
 		"7" "1716"
 		"8" "5125"
-		"9" "1662"
-		"10" "1685"
+		"9" "1685"
+		"10" "1662"
 		"11" "597"
 		"12" "7948"
 		"13" "4305"
@@ -477,9 +477,9 @@
 		{
 			"public"
 			{
-				"gid" "6128158478924431789"
-				"size" "579632046"
-				"download" "381199776"
+				"gid" "7100771164020763605"
+				"size" "579538465"
+				"download" "381116672"
 			}
 			"community-cup-japan"
 			{
@@ -489,9 +489,9 @@
 			}
 			"experimental"
 			{
-				"gid" "7995541458552115867"
-				"size" "580194234"
-				"download" "381153344"
+				"gid" "2762445687162484033"
+				"size" "580409566"
+				"download" "381329712"
 			}
 		}
 	}
@@ -506,9 +506,9 @@
 		{
 			"public"
 			{
-				"gid" "6326643742131444344"
-				"size" "515702070"
-				"download" "315540192"
+				"gid" "5184908605937259281"
+				"size" "515689750"
+				"download" "315534896"
 			}
 			"community-cup-japan"
 			{
@@ -518,9 +518,9 @@
 			}
 			"experimental"
 			{
-				"gid" "9163843370717263865"
-				"size" "516952262"
-				"download" "315930496"
+				"gid" "5907939370366387478"
+				"size" "517093174"
+				"download" "316046240"
 			}
 		}
 	}
@@ -547,8 +547,8 @@
 	{
 		"public"
 		{
-			"buildid" "17158251"
-			"timeupdated" "1738079793"
+			"buildid" "17171471"
+			"timeupdated" "1738158475"
 		}
 		"community-cup-japan"
 		{
@@ -558,9 +558,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "17130043"
+			"buildid" "17161099"
 			"description" "Test new features early on!"
-			"timeupdated" "1737807161"
+			"timeupdated" "1738085358"
 		}
 	}
 	"privatebranches" "1"
@@ -606,6 +606,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27203387"
-"_sha" "0bd652f6afc9e6c172bd8e54e798707783bdade3"
+"_change_number" "27218227"
+"_sha" "6bfbed04d27363686d7d6dafcb91973e1f4bb07d"
 "_size" "11796"
