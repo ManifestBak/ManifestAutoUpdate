@@ -175,6 +175,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -193,6 +194,7 @@
 		}
 	}
 	"steam_release_date" "1702575296"
+	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1270580"
@@ -269,84 +271,15 @@
 		{
 			"public"
 			{
-				"gid" "1081343401461875861"
-				"size" "6008180482"
-				"download" "3134678208"
+				"gid" "7766092271971769667"
+				"size" "6008181866"
+				"download" "3134680736"
 			}
 			"prerelease"
 			{
-				"gid" "1081343401461875861"
-				"size" "6008180482"
-				"download" "3134678208"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EED54136F01D36B8FCDDE15DF084293E"
-				"size" "64D1A8ED1FDC45810E1198CE803A105F"
-				"download" "F2279B2F2A82A2A8B108B3CED0B77523"
-			}
-			"hotfixstaging"
-			{
-				"gid" "AD8E5EC26D892DCF0035B9DD67775E94"
-				"size" "015BB0429F16FAFFA8CB22322CFBD654"
-				"download" "30FDE79E02E09E59FD8021CB82007D44"
-			}
-			"previous"
-			{
-				"gid" "E092F5B60F1DEF31E1E98346DEFA9160"
-				"size" "69517B79895813429F354B4F0C876CCE"
-				"download" "07B46003306C097B98C0AF1018933645"
-			}
-			"trailer"
-			{
-				"gid" "FE8F4ECA2EA8911933744A7EBAA85FE2"
-				"size" "D31EFB8EC44799E564DB4E86924B165E"
-				"download" "D3D9A6A5659262A80F8FEB8517B7F54E"
-			}
-			"adhoc_beta"
-			{
-				"gid" "0A24EAF4CF476609649AC23FAA409F72"
-				"size" "6ECEE86527AF1F33720BA75DBA165C4C"
-				"download" "F6F6BF5875E0EA9EBFA69204C9B82BC9"
-			}
-			"adhoc_beta2"
-			{
-				"gid" "1B6DBAE7E6AAF249E75F1626355177DC"
-				"size" "23F1DA69B3BEFF4EF44990720879CE8C"
-				"download" "70CB2F4993597CD1E677B7B512A24BD6"
-			}
-			"debugging"
-			{
-				"gid" "7739C9EF4FE0943D19C968541B404600"
-				"size" "D10AD1021EBCBD64E63AEA9F7A2B763F"
-				"download" "3E9CC9ECFF7B2C57FD4FBE9FE9EEF8DE"
-			}
-			"internal_test"
-			{
-				"gid" "F1B0B0B1C2F6A6D683A50DEAA4E1A3A5"
-				"size" "942724EF065E0D27939E4C869F53D786"
-				"download" "0E57A5BC31AAFECFBD8513741BC047BE"
-			}
-			"macfogtest"
-			{
-				"gid" "8B6B86863315418BAF75FB2CAF233E53"
-				"size" "23E590BFC9816BBEC6C1211936AB20FD"
-				"download" "037C83F1EEFAEF5B5D8C88C5F6559650"
-			}
-			"openbeta"
-			{
-				"gid" "8E2EE0594F5FD3781A03FD1D1EBDD519"
-				"size" "D5798CE82DEA95CBB2D31E9281058DE7"
-				"download" "FAB4FE8FBD9D424BBCE35F293A8424C4"
-			}
-			"streamer_test"
-			{
-				"gid" "59A92F1566E230E5805E8A4F853C4718"
-				"size" "20FFB9522769D5AB8088E86883F47E67"
-				"download" "9286C81824B45CDA8F7FA20606826E37"
+				"gid" "7766092271971769667"
+				"size" "6008181866"
+				"download" "3134680736"
 			}
 		}
 	}
@@ -355,82 +288,17 @@
 	{
 		"public"
 		{
-			"buildid" "16894218"
-			"timeupdated" "1735918941"
-		}
-		"beta"
-		{
-			"buildid" "12764949"
-			"pwdrequired" "1"
-			"timeupdated" "1700606266"
-		}
-		"hotfixstaging"
-		{
-			"buildid" "13408676"
-			"pwdrequired" "1"
-			"timeupdated" "1707430791"
-		}
-		"previous"
-		{
-			"buildid" "13022894"
-			"pwdrequired" "1"
-			"timeupdated" "1703182395"
-		}
-		"trailer"
-		{
-			"buildid" "12883419"
-			"pwdrequired" "1"
-			"timeupdated" "1701810122"
-		}
-		"adhoc_beta"
-		{
-			"buildid" "15478600"
-			"pwdrequired" "1"
-			"timeupdated" "1724515763"
-		}
-		"adhoc_beta2"
-		{
-			"buildid" "14910203"
-			"pwdrequired" "1"
-			"timeupdated" "1720018894"
-		}
-		"debugging"
-		{
-			"buildid" "14617485"
-			"pwdrequired" "1"
-			"timeupdated" "1717619940"
-		}
-		"internal_test"
-		{
-			"buildid" "16894218"
-			"pwdrequired" "1"
-			"timeupdated" "1735850552"
-		}
-		"macfogtest"
-		{
-			"buildid" "16458952"
-			"pwdrequired" "1"
-			"timeupdated" "1733157541"
-		}
-		"openbeta"
-		{
-			"buildid" "16894218"
-			"pwdrequired" "1"
-			"timeupdated" "1735918899"
+			"buildid" "17176612"
+			"timeupdated" "1738187426"
 		}
 		"prerelease"
 		{
-			"buildid" "16894218"
+			"buildid" "17176612"
 			"description" "Pre-release of updates for preview testing"
-			"timeupdated" "1735918911"
-		}
-		"streamer_test"
-		{
-			"buildid" "16238014"
-			"pwdrequired" "1"
-			"timeupdated" "1730297936"
+			"timeupdated" "1738187448"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -481,6 +349,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26853187"
-"_sha" "96695923b9dd04ab5dccc608762de8b4e0042575"
-"_size" "9529"
+"_change_number" "27225314"
+"_sha" "c5a042356595e28e043bc3ccd5983984e3dc4029"
+"_size" "6470"
