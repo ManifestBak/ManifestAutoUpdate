@@ -10,6 +10,7 @@
 	"logo_small" "252a22c149c29a2d93fcb0080f3ee9d2dbbd9a2f_thumb"
 	"oslist" "macos,windows"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -61,6 +62,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_31365f6f7f3f6a412d66044b2c2e361501a61b00.jpg"
 	"store_asset_mtime" "1309459173"
 	"associations"
 	{
@@ -279,3 +281,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "9ffbfad5794e39af06dbfa93eb2d5e91dc847d33"
+"_size" "5145"
