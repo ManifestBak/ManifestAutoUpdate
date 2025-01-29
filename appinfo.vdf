@@ -24,6 +24,11 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
+	"name_localized"
+	{
+		"schinese" "Ancient Cities  古城"
+		"tchinese" "Ancient Cities  古城"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -285,15 +290,15 @@
 		{
 			"public"
 			{
-				"gid" "126628248400146187"
-				"size" "4840609924"
-				"download" "1882374560"
+				"gid" "2257313496599389834"
+				"size" "4840767166"
+				"download" "1882402912"
 			}
 			"beta"
 			{
-				"gid" "126628248400146187"
-				"size" "4840609924"
-				"download" "1882374560"
+				"gid" "2257313496599389834"
+				"size" "4840767166"
+				"download" "1882402912"
 			}
 			"previous"
 			{
@@ -308,14 +313,14 @@
 	{
 		"public"
 		{
-			"buildid" "17161176"
-			"timeupdated" "1738085836"
+			"buildid" "17174012"
+			"timeupdated" "1738170987"
 		}
 		"beta"
 		{
-			"buildid" "17161176"
-			"description" "v1.0.5.2"
-			"timeupdated" "1738085806"
+			"buildid" "17174012"
+			"description" "v1.0.5.3"
+			"timeupdated" "1738170968"
 		}
 		"previous"
 		{
@@ -332,6 +337,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27205213"
-"_sha" "8fb45c40817767aee62ced82cd5998a1ccd1d3c1"
-"_size" "6028"
+"_change_number" "27221550"
+"_sha" "f5c4f0aa45e9d0c9cd44949c6c5e1d1191a72502"
+"_size" "6137"
