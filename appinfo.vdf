@@ -266,10 +266,10 @@
 			}
 			"description_loc"
 			{
-				"english" "Backrooms rebirth 2 old"
-				"schinese" "后室重生2老版本"
+				"english" "Backrooms rebirth  classic"
+				"schinese" "后室重生经典版"
 			}
-			"description" "Backrooms rebirth 2 old"
+			"description" "Backrooms rebirth  classic"
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "231395644890830223"
-				"size" "9629919815"
-				"download" "6635820128"
+				"gid" "3797860522496959494"
+				"size" "9620266957"
+				"download" "6624887232"
 			}
 		}
 	}
@@ -323,8 +323,8 @@
 	{
 		"public"
 		{
-			"buildid" "17169205"
-			"timeupdated" "1738145205"
+			"buildid" "17174170"
+			"timeupdated" "1738171800"
 		}
 	}
 }
@@ -338,6 +338,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27215377"
-"_sha" "d066d935193700736ba86312bf4d1e8513749136"
-"_size" "6831"
+"_change_number" "27221795"
+"_sha" "c374faf51ba94fc1e292fbea4a0210ffa1aa15b4"
+"_size" "6837"
