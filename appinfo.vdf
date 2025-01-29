@@ -86,6 +86,7 @@
 			}
 		}
 	}
+	"store_screenshot" "ss_887b768f2148b69bccf3ee055d538c620666c1fa.jpg"
 	"store_asset_mtime" "1667319592"
 	"associations"
 	{
@@ -253,21 +254,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "5C12EF70C02C34E2CD1B78B69B322676"
-				"size" "19FAF668C8CA42DCEF98F1C17EDF67D8"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "B8F0E4698548A96E7BAB898DBD74BF07"
-				"size" "D945529B8236F0869EB9113D9873943A"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
-			}
-		}
 	}
 	"204862"
 	{
@@ -283,21 +269,6 @@
 				"gid" "7603127495263087192"
 				"size" "255338416"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "80FC907F2F0AE519C0D0749583A7ED60"
-				"size" "E59991B0B4766C0CA556C7A63EF72418"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "14134EBFB8A773A452E693E8CAD1CE6C"
-				"size" "8EAB04472D8D6D3F81E1F2944B161F51"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
 			}
 		}
 	}
@@ -317,21 +288,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "A59E6E36EC24F9F90829A074DA000527"
-				"size" "E7B2E13348EB6467F9FAB41B8978CD99"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "4179D4B6FE2C7947CD214F11CE618791"
-				"size" "306FBD56628B8408805088B72D43005A"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
-			}
-		}
 	}
 	"204864"
 	{
@@ -347,21 +303,6 @@
 				"gid" "1075977105966985640"
 				"size" "94062275"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "78DB82D2E674EA15224279BE8AE68A40"
-				"size" "C1D7B001C17BBFB01099FEEB57D1EDB7"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "D26174FC63E12F3679BE4202DCEAF4BB"
-				"size" "38F759263B253E3B2EACE3BC934FF0CC"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
 			}
 		}
 	}
@@ -381,21 +322,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "CE0B54A26E915213DC5542484F5418E8"
-				"size" "B92D65D5ABFEB9B59BC1CE50A26D5F46"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "CFF2765F5C83A9CA2A0B43F215C0026D"
-				"size" "F03B654BD9BB8FD3C99020F399A50387"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
-			}
-		}
 	}
 	"204866"
 	{
@@ -411,21 +337,6 @@
 				"gid" "7919778366621920647"
 				"size" "102196926"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "5A628F3168C83544AAB5A4B1D35369FB"
-				"size" "75A49B116D5F93B525D9F43650EA3E4F"
-				"download" "58EF186382A9A0DCA43932422323CD84"
-			}
-			"polish_loc"
-			{
-				"gid" "6343E94CCD6A389B0173237077E6FBE6"
-				"size" "BFE1C28AB72B83EB427D8A5327DBFBAA"
-				"download" "AF94805D87D0A997AC9B8A4DCB8DEF36"
 			}
 		}
 	}
@@ -445,15 +356,6 @@
 				"download" "150604224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"polish_loc"
-			{
-				"gid" "761D508977E3642F744D96A18230269C"
-				"size" "FFE1C792523C7344357311B9AF2DD88C"
-				"download" "F4FA5DC6F10DD5B7656764F396D324F2"
-			}
-		}
 	}
 	"branches"
 	{
@@ -462,19 +364,8 @@
 			"buildid" "3656281"
 			"timeupdated" "1552923742"
 		}
-		"beta"
-		{
-			"buildid" "306480"
-			"pwdrequired" "1"
-			"timeupdated" "1552923516"
-		}
-		"polish_loc"
-		{
-			"buildid" "3656281"
-			"pwdrequired" "1"
-			"timeupdated" "1552917147"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -604,3 +495,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27141953"
+"_sha" "c4ad127cb795cc6165a459cee6ba106327cc7e7b"
+"_size" "8526"
