@@ -201,16 +201,16 @@
 "depots"
 {
 	"baselanguages" "english,schinese"
-	"hasdepotsindlc" "0"
+	"hasdepotsindlc" "1"
 	"2936181"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2150090101767198813"
-				"size" "2346817503"
-				"download" "1973887648"
+				"gid" "709701863084008680"
+				"size" "2347414771"
+				"download" "1974395792"
 			}
 		}
 	}
@@ -218,8 +218,8 @@
 	{
 		"public"
 		{
-			"buildid" "16985398"
-			"timeupdated" "1736761295"
+			"buildid" "17168124"
+			"timeupdated" "1738138496"
 		}
 	}
 	"privatebranches" "1"
@@ -245,6 +245,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26969925"
-"_sha" "4cb45235df4a6132a81f7325bb0979a80c88f561"
-"_size" "3975"
+"_change_number" "27214074"
+"_sha" "b567b743d4bb957bdf36a3f6bc9c4ca293056d00"
+"_size" "3974"
