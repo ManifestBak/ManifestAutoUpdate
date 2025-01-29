@@ -209,15 +209,6 @@
 				"download" "580284128"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"tests"
-			{
-				"gid" "585D1EDE660BDA21BAB7DE7AE6AFA1E4"
-				"size" "DA0741C4A9F6BE8633BF1339D8518E23"
-				"download" "128DAF4B46A7A15E312C296E5B1572A5"
-			}
-		}
 	}
 	"264302"
 	{
@@ -234,15 +225,6 @@
 				"download" "686937872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"tests"
-			{
-				"gid" "68C0DD3AF29B57B411D0BB5446C12B70"
-				"size" "FF229211A2A172EA9A1A0C95CD187FA0"
-				"download" "6469DDD54EC1879C0C4EEB2DF0EE4D7A"
-			}
-		}
 	}
 	"362110"
 	{
@@ -257,15 +239,6 @@
 				"gid" "6229160753060390466"
 				"size" "376851913"
 				"download" "381981136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"tests"
-			{
-				"gid" "3E2CDB64A8FE778E53A455E011541952"
-				"size" "4662FABB9987447F7B3C9E01133D5784"
-				"download" "62E5B2B06BDF0AAF646B19F124A3937E"
 			}
 		}
 		"dlcappid" "362110"
@@ -286,15 +259,6 @@
 				"download" "383204816"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"tests"
-			{
-				"gid" "5A275D2AD877B765EAE2D3A49A27B147"
-				"size" "16905990A3ED541F99919B0C42ED28AD"
-				"download" "8A76FA6C75904A4811DD53DC5E044251"
-			}
-		}
 	}
 	"workshopdepot" "264300"
 	"branches"
@@ -304,13 +268,8 @@
 			"buildid" "1331621"
 			"timeupdated" "1473718140"
 		}
-		"tests"
-		{
-			"buildid" "1331621"
-			"pwdrequired" "1"
-			"timeupdated" "1473717510"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -318,6 +277,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26201212"
-"_sha" "bfdecb86c034eae6df60dc86a5c110fe75c07b49"
-"_size" "5668"
+"_change_number" "27188580"
+"_sha" "939d71aaf234ca33df3d699ce5110a055842a5c6"
+"_size" "4772"
