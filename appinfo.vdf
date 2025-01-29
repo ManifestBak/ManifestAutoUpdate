@@ -10,6 +10,7 @@
 	"clienticon" "1b29f9d5219f7eadeb55ace81ba3c3f5cc9c2ce3"
 	"app_retired_publisher_request" "1"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -280,3 +281,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "c6bde8694a68cfa30e95c6f9a923a7fd3a6502ea"
+"_size" "4987"
