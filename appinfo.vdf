@@ -16,6 +16,7 @@
 	"logo_small" "ae0d863314d6111e6debaef7c9cdcf2940738b1e_thumb"
 	"oslist" "windows,macos"
 	"type" "game"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -236,3 +237,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26978845"
+"_sha" "2e132604b017de4a9ba838424e59e680bb95e632"
+"_size" "4954"
