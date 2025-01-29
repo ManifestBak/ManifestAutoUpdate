@@ -1,23 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-29 22:18:15
+## 更新时间：2025-01-29 22:26:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1124180 | 铁路调度模拟器| Game |
-| 1159090 | 佐瑞亚：碎裂纪元| Game |
-| 1793090 | Blockbuster Inc.| Game |
-| 1734890 | Visual Novel Sisters| Game |
-| 2211170 | 一起开火车2：汽笛重鸣| Game |
-| 2206350 | Farm Manager World| Game |
-| 2246110 | Q  REMASTERED| Game |
-| 2508980 | PATHOGEN X| Game |
-| 2722270 | 永恒幻境 Eternal Dreamland| Game |
-| 252530 | OMSI 2| Game |
-| 2882870 | Doll Impostor| Game |
-| 275850 | No Man's Sky 无人深空| Game |
-| 2957700 | 太太！我喜欢你！| Game |
-| 3058630 | 《神力科莎EVO》  Assetto Corsa EVO| Game |
-| 2904000 | 咒语旅团| Game |
-| 3292260 | Amenti| Game |
-| 758870 | Kynseed| Game |
-| 686810 | 人间地狱| Game |
+| 2549380 | Cryptical Path| Game |
+| 1491410 | Eternal Strands| Game |
+| 3480440 | 深渊之印 - 支持者包| DLC |
+| 1309710 | The Stone of Madness| Game |
+| 2273980 | 兽人必须死! 死亡陷阱| Game |
+| 1933370 | 深渊之印| Game |
+| 3206870 | Claritas - Dungeon Crawler RPG| Game |
+| 2782880 | Sword of the Necromancer: Resurrection| Game |
+| 1822060 | Those Who Rule| Game |
+| 3349180 | Tails of Iron 2: Whiskers of Winter - Digital Artbook| DLC |
+| 2473480 | Tails of Iron 2: Whiskers of Winter| Game |
+| 3002840 | 荒古战纪| Game |
