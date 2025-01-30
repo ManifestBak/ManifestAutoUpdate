@@ -38,6 +38,7 @@
 	"header_image"
 	{
 		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
 	}
 	"library_assets"
 	{
@@ -97,7 +98,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734450841"
+	"store_asset_mtime" "1737732588"
 	"associations"
 	{
 		"0"
@@ -334,21 +335,21 @@
 		{
 			"public"
 			{
-				"gid" "5572756635213209399"
-				"size" "14531850475"
-				"download" "6922596880"
+				"gid" "458703492527058271"
+				"size" "15258049968"
+				"download" "7430436512"
 			}
 			"previous_version"
 			{
-				"gid" "2159067064455346281"
-				"size" "14430557265"
-				"download" "6863847296"
-			}
-			"test_edition"
-			{
 				"gid" "5572756635213209399"
 				"size" "14531850475"
 				"download" "6922596880"
+			}
+			"test_edition"
+			{
+				"gid" "458703492527058271"
+				"size" "15258049968"
+				"download" "7430436512"
 			}
 		}
 	}
@@ -408,20 +409,20 @@
 	{
 		"public"
 		{
-			"buildid" "16892713"
-			"timeupdated" "1736371566"
+			"buildid" "17172722"
+			"timeupdated" "1738248862"
 		}
 		"previous_version"
 		{
-			"buildid" "16632855"
-			"description" "v1.30 Build"
-			"timeupdated" "1734450971"
+			"buildid" "16892713"
+			"description" "v1.31 Build"
+			"timeupdated" "1738248816"
 		}
 		"test_edition"
 		{
-			"buildid" "16892713"
+			"buildid" "17172722"
 			"description" "Try out new versions early"
-			"timeupdated" "1736371531"
+			"timeupdated" "1738248778"
 		}
 	}
 	"privatebranches" "1"
@@ -463,6 +464,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26914108"
-"_sha" "5c62bd2faab0c280d03bbdc5165b6be672c3856c"
-"_size" "7703"
+"_change_number" "27236789"
+"_sha" "8a69586699be76c3bf7b57d17f07b0dd3a2319bb"
+"_size" "7738"
