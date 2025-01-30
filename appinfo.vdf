@@ -86,6 +86,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1706183000"
 	"associations"
 	{
@@ -189,7 +231,7 @@
 		"19" "9204"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -262,24 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "1596729373207941643"
-				"size" "787341873"
-				"download" "551369056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "8CEF5284FD8F6F3649435D14074E18C6"
-				"size" "2B23A9155384CC38ECE013C65122FA84"
-				"download" "26190A87AFAAAB7C7A5ACBBCA47B1FF6"
-			}
-			"staging"
-			{
-				"gid" "681158106F9C7028F7E97651C46EDB35"
-				"size" "CF4FBEDCC095A7711C31F490BADD132B"
-				"download" "BB0B83A3281EE3D928BCA8BFFBA94AF9"
+				"gid" "565029978011362828"
+				"size" "779726337"
+				"download" "550915088"
 			}
 		}
 	}
@@ -299,21 +326,6 @@
 				"download" "335328592"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "EFB9D11B408946D934A853B1F9800AF4"
-				"size" "5694E832F20DBE06EA6CD215B8BC7701"
-				"download" "352DA0DDD4A5C2D76A83DF29AE95CEE2"
-			}
-			"staging"
-			{
-				"gid" "277104D13A3F304963E1353B54549EBC"
-				"size" "54850456928C3553CFECDFBE1FFE00C5"
-				"download" "499566153617FA9B732B46B7B82EE527"
-			}
-		}
 	}
 	"1953863"
 	{
@@ -331,21 +343,6 @@
 				"download" "444038928"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "C55F6D2F00BC3164D38EFE60D38011AB"
-				"size" "C5A8C21C93815070AD4964DA896E2F34"
-				"download" "7B1AB06669A7A8DE8B355908728B4C0A"
-			}
-			"staging"
-			{
-				"gid" "E4E8242FB5A8CB1ECBF0BE510EE3EFB0"
-				"size" "57D6AFC0FE29B70ED3595495CBDB4BFB"
-				"download" "3F2521DEF3893F1EC910186D2F83ECE7"
-			}
-		}
 	}
 	"1953864"
 	{
@@ -357,24 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "5489227300511525485"
-				"size" "787341361"
-				"download" "551523952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "980A5ADFBEE00EE4990328E99F1E385F"
-				"size" "18A522CCB53A8D4656720A1BFF0CC75B"
-				"download" "0A8E1B11C0864A2B42B3DA371E535A87"
-			}
-			"staging"
-			{
-				"gid" "0A67AA8ACC1FFA51C37E747347A714D2"
-				"size" "8E5787373B361B27A432EF301E48B514"
-				"download" "01BB27E2A11D89321A15FF90DB220AE3"
+				"gid" "6740438122261998356"
+				"size" "779726849"
+				"download" "551057488"
 			}
 		}
 	}
@@ -390,42 +372,16 @@
 				"download" "577757872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "BAC5D470B3DDEFF694AC557FE90C86B8"
-				"size" "C6BA8F231CBA30DBD833612DA904AE50"
-				"download" "931E615475041FCF6067E767ECDC4176"
-			}
-			"staging"
-			{
-				"gid" "019E5362AACBC4D0EA99208B6F471280"
-				"size" "6DD6F4B3408D98776B61644AAAE9F3FF"
-				"download" "AAC8997111AD1E0CEED25D347F5077F1"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15049894"
-			"timeupdated" "1721136241"
-		}
-		"development"
-		{
-			"buildid" "13314562"
-			"pwdrequired" "1"
-			"timeupdated" "1706629631"
-		}
-		"staging"
-		{
-			"buildid" "15049894"
-			"pwdrequired" "1"
-			"timeupdated" "1721136024"
+			"buildid" "17187155"
+			"timeupdated" "1738255530"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -452,3 +408,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27238757"
+"_sha" "d062fdc14c2f0c1b7cef73d1b7a2a4717cf1d9f5"
+"_size" "6842"
