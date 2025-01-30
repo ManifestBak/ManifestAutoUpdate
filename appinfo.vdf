@@ -26,8 +26,52 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
-	"timeline_marker_updated" "1737458333"
+	"timeline_marker_updated" "1738245519"
 	"timeline_marker_svg" "6fb00f8ba26b78226cc2f79cb0ff5ca3119fc376/markers.svg"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1738195200"
+		"tested_build_id" "17078352"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Lonely Mountains: Snow Riders"
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -226,7 +270,7 @@
 		"19" "3916"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -250,7 +294,7 @@
 		}
 	}
 	"steamcontrollertemplateindex" "4"
-	"steamdecktouchscreen" "1"
+	"steamdecktouchscreen" "5"
 }
 "depots"
 {
@@ -266,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "3095933694347671499"
-				"size" "983539633"
-				"download" "628724832"
+				"gid" "2870087396525417680"
+				"size" "939385896"
+				"download" "617823232"
 			}
 		}
 	}
@@ -285,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "17078352"
-			"timeupdated" "1737471033"
+			"buildid" "17123138"
+			"timeupdated" "1738243266"
 		}
 	}
 	"privatebranches" "1"
@@ -297,6 +341,6 @@
 	"maxnumfiles" "500"
 }
 "_missing_token" "False"
-"_change_number" "27181616"
-"_sha" "3facf5163df191a7ed2a1429d07bdbc7974db2c2"
-"_size" "5042"
+"_change_number" "27236041"
+"_sha" "e61a3fe2cc956777d4f290369c964c35800cb215"
+"_size" "6140"
