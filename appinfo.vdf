@@ -4,8 +4,8 @@
 	"name" "酆都战记"
 	"type" "Game"
 	"icon" "d472b252c77e8a949a1e0825260b8b19cbcc177e"
-	"clienttga" "001afa114d379851786559e75bc9425461d54135"
-	"clienticon" "29a5fb5c346c381841b5edba2947923f5b1063ac"
+	"clienttga" "7a1988b156da0a540b7c0993aaba5f3da922db52"
+	"clienticon" "26457cd76324d0689d6cc7c1dc5d84b73b1a0f3f"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
@@ -204,6 +204,12 @@
 		{
 			"public"
 			{
+				"gid" "6004105979857162082"
+				"size" "715474367"
+				"download" "693651344"
+			}
+			"fengdu"
+			{
 				"gid" "5622231893388256102"
 				"size" "741233391"
 				"download" "718711104"
@@ -214,12 +220,18 @@
 	{
 		"public"
 		{
-			"buildid" "17187936"
-			"timeupdated" "1738258650"
+			"buildid" "17189434"
+			"timeupdated" "1738267122"
+		}
+		"fengdu"
+		{
+			"buildid" "17188781"
+			"description" "New"
+			"timeupdated" "1738264640"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27240353"
-"_sha" "8d86280dcb69cf45d5fa03ea278cfb3588d6a740"
-"_size" "3802"
+"_change_number" "27241624"
+"_sha" "8f16cfa5a4f5f90c115d80c2ec2529d5fb3003e4"
+"_size" "4020"
