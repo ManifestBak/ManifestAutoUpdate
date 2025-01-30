@@ -172,6 +172,8 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_18" "1"
+		"category_29" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -214,7 +216,7 @@
 		"19" "3871"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -245,15 +247,15 @@
 		{
 			"public"
 			{
-				"gid" "8693071638043382692"
-				"size" "2463570585"
-				"download" "1442592208"
+				"gid" "7728409450165409526"
+				"size" "2763327676"
+				"download" "1739354160"
 			}
 			"unstable_kepler"
 			{
-				"gid" "7156591974175582115"
-				"size" "2762833831"
-				"download" "1739065376"
+				"gid" "7728409450165409526"
+				"size" "2763327676"
+				"download" "1739354160"
 			}
 		}
 	}
@@ -262,14 +264,14 @@
 	{
 		"public"
 		{
-			"buildid" "16012577"
-			"timeupdated" "1728666325"
+			"buildid" "17147608"
+			"timeupdated" "1738254230"
 		}
 		"unstable_kepler"
 		{
-			"buildid" "17026816"
+			"buildid" "17147608"
 			"description" "Opt-in Beta"
-			"timeupdated" "1737033646"
+			"timeupdated" "1737997244"
 		}
 	}
 	"privatebranches" "1"
@@ -303,6 +305,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27025369"
-"_sha" "1cd0fa2a34858929cb928d08349cd09f932b91dd"
-"_size" "5470"
+"_change_number" "27238392"
+"_sha" "c5540536780e06240f8fd9fc01b2d05a066be298"
+"_size" "5514"
