@@ -18,6 +18,7 @@
 		"schinese" "1"
 		"russian" "1"
 		"japanese" "1"
+		"brazilian" "1"
 		"latam" "1"
 	}
 	"icon" "18471753d8449b3bbf278cbce6af89db59efe981"
@@ -286,7 +287,7 @@
 		"19" "3993"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -306,6 +307,7 @@
 	}
 	"steamdecktouchscreen" "5"
 	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "2"
 }
 "depots"
 {
@@ -315,9 +317,9 @@
 		{
 			"public"
 			{
-				"gid" "3293545904192222028"
-				"size" "10843376158"
-				"download" "7500101488"
+				"gid" "4228391483761850066"
+				"size" "10805352373"
+				"download" "7461254832"
 			}
 		}
 	}
@@ -325,8 +327,8 @@
 	{
 		"public"
 		{
-			"buildid" "16541638"
-			"timeupdated" "1733777126"
+			"buildid" "16961337"
+			"timeupdated" "1738256477"
 		}
 	}
 	"privatebranches" "1"
@@ -346,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26645096"
-"_sha" "fd914a45976585498c80652cef31a2de22d84dd9"
-"_size" "5993"
+"_change_number" "27239056"
+"_sha" "e55d1fb45bcd8d8c5500478bb60caa21a512c986"
+"_size" "6051"
