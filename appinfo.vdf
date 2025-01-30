@@ -36,6 +36,7 @@
 		"polish" "1"
 		"czech" "1"
 		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"parent" "1874880"
 	"steam_deck_compatibility"
@@ -240,7 +241,7 @@
 }
 "depots"
 {
-	"228988"
+	"228989"
 	{
 		"config"
 		{
@@ -260,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "8772364432276622489"
-				"size" "22890332724"
-				"download" "16747353280"
+				"gid" "1110545020658929325"
+				"size" "22925642902"
+				"download" "16767613024"
 			}
 		}
 	}
@@ -270,8 +271,8 @@
 	{
 		"public"
 		{
-			"buildid" "16992777"
-			"timeupdated" "1737028790"
+			"buildid" "17167409"
+			"timeupdated" "1738238395"
 		}
 	}
 	"privatebranches" "1"
@@ -282,6 +283,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27024254"
-"_sha" "eaef1d9e82836b53ff351e75a7afde41b35de971"
-"_size" "5002"
+"_change_number" "27234409"
+"_sha" "5244e0a8bdc29baed0bbd16f12568adc25ea892e"
+"_size" "5022"
