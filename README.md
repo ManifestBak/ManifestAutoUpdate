@@ -1,17 +1,26 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-30 18:20:32
+## 更新时间：2025-01-30 20:37:23
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1120320 | 盖房模拟器| Game |
-| 1609010 | Forever To You!| Game |
 | 1646790 | Striving for Light| Game |
-| 2124490 | SILENT HILL 2| Game |
-| 2071280 | Ravenswatch 鸦卫奇旅| Game |
-| 2336220 | 杯杯倒满 Feed The Cups| Game |
-| 2264090 | 桌面手办| Game |
-| 2820820 | 巨人杀手：暗黑之潮| Game |
-| 3104540 | SNAP SNAP| Game |
-| 252530 | OMSI 2| Game |
-| 707010 | Will To Live Online| Game |
-| 940680 | The Textorcist: The Story of Ray Bibbia| Game |
+| 1737870 | REKA| Game |
+| 1890880 | Arma Reforger Experimental Tools| Tool |
+| 1836730 | Echo Point Nova| Game |
+| 1856030 | Fresh Start Cleaning Simulator| Game |
+| 1890860 | Arma Reforger Experimental| Game |
+| 1890870 | Arma Reforger Experimental Server| Tool |
+| 1995520 | Pax Dei| Game |
+| 2109370 | The Great War: Western Front™| Game |
+| 2198800 | CRUMB| Game |
+| 2437170 | 《神之浩劫2》| Game |
+| 2727210 | Deathless. Tales of Old Rus| Game |
+| 236390 | War Thunder| Game |
+| 2704140 | Fresh Story 2| Game |
+| 2695490 | Age of Water| Game |
+| 2963880 | 暗黑潜水员| Game |
+| 3150440 | Laundry Store Simulator| Game |
+| 315210 | 自杀小队：消灭正义联盟| Game |
+| 703080 | 动物园之星| Game |
+| 720620 | TaleSpire| Game |
+| 700580 | Rust - Staging Branch| Beta |
