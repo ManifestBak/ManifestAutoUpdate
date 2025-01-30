@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "5544921961470630397"
-				"size" "730510580"
-				"download" "521613952"
+				"gid" "5861959152414582720"
+				"size" "730510724"
+				"download" "521612928"
 			}
 			"legacyearlyaccess"
 			{
@@ -262,15 +262,15 @@
 			}
 			"32bit_version"
 			{
-				"gid" "3359250578581639444"
-				"size" "730511092"
-				"download" "521612480"
+				"gid" "4478029176082083951"
+				"size" "730511236"
+				"download" "521612720"
 			}
 			"experimental"
 			{
-				"gid" "2225387735020766527"
-				"size" "730510580"
-				"download" "521613168"
+				"gid" "7614667053225545980"
+				"size" "730510724"
+				"download" "521613024"
 			}
 		}
 	}
@@ -278,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "17171299"
-			"timeupdated" "1738157839"
+			"buildid" "17186482"
+			"timeupdated" "1738251639"
 		}
 		"legacyearlyaccess"
 		{
@@ -289,15 +289,15 @@
 		}
 		"32bit_version"
 		{
-			"buildid" "17171434"
+			"buildid" "17186517"
 			"description" "for compatibility"
-			"timeupdated" "1738157786"
+			"timeupdated" "1738251619"
 		}
 		"experimental"
 		{
-			"buildid" "17170271"
+			"buildid" "17186370"
 			"description" "Unstable and may break saves.  Use for testing latest only"
-			"timeupdated" "1738151523"
+			"timeupdated" "1738251611"
 		}
 	}
 }
@@ -322,6 +322,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27218060"
-"_sha" "569cbcf6971c4a4dc3bf73002d6f6a6694ba7d56"
+"_change_number" "27237619"
+"_sha" "3a19135dd454c769d941e19848be09310518fbe6"
 "_size" "6005"
