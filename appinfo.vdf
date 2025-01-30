@@ -248,7 +248,7 @@
 		}
 	}
 	"steam_release_date" "1738076378"
-	"metacritic_score" "79"
+	"metacritic_score" "81"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tails-of-iron-2-whiskers-of-winter\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -277,7 +277,7 @@
 		"19" "4608"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -332,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "3589914932192166391"
-				"size" "3692912645"
-				"download" "3189531232"
+				"gid" "85845704038898695"
+				"size" "3692858423"
+				"download" "3189559392"
 			}
 		}
 	}
@@ -348,9 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "4177212076580302794"
-				"size" "3714373397"
-				"download" "3195956784"
+				"gid" "5370831116995427739"
+				"size" "3714355903"
+				"download" "3195984496"
 			}
 		}
 	}
@@ -364,9 +364,9 @@
 		{
 			"public"
 			{
-				"gid" "1085576949091707148"
-				"size" "3660913343"
-				"download" "3160715312"
+				"gid" "4857462647402109599"
+				"size" "3660938205"
+				"download" "3160748864"
 			}
 		}
 	}
@@ -375,8 +375,8 @@
 	{
 		"public"
 		{
-			"buildid" "16733999"
-			"timeupdated" "1734603151"
+			"buildid" "17185713"
+			"timeupdated" "1738257957"
 		}
 	}
 	"privatebranches" "1"
@@ -396,6 +396,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27218738"
-"_sha" "b9f7700d2cd85ab07da4c70a8b6c7f5a7ecba60f"
-"_size" "6822"
+"_change_number" "27240283"
+"_sha" "3dede42a8bd03181a1cb9033501e54cc29e9819e"
+"_size" "6820"
