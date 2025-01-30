@@ -169,7 +169,7 @@
 		"3"
 		{
 			"type" "franchise"
-			"name" "Merge Games"
+			"name" "Maximum Entertainment"
 		}
 	}
 	"primary_genre" "1"
@@ -337,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "9175525430155335119"
-				"size" "22905828415"
-				"download" "10637365584"
+				"gid" "962211121689029045"
+				"size" "22906501263"
+				"download" "10637423248"
 			}
 			"local"
 			{
@@ -347,20 +347,14 @@
 				"size" "3246420580"
 				"download" "1518890672"
 			}
-			"public_test"
-			{
-				"gid" "7950287301628981084"
-				"size" "22903643583"
-				"download" "10637132128"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17090798"
-			"timeupdated" "1737652090"
+			"buildid" "17160626"
+			"timeupdated" "1738256753"
 		}
 		"local"
 		{
@@ -368,12 +362,6 @@
 			"description" "Local Content Server"
 			"lcsrequired" "1"
 			"timeupdated" "1547819659"
-		}
-		"public_test"
-		{
-			"buildid" "17044624"
-			"description" "public test branch"
-			"timeupdated" "1737145598"
 		}
 	}
 	"privatebranches" "1"
@@ -408,6 +396,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27135255"
-"_sha" "461fc2aec1cbed58e9cd3732ee68dc116360d60b"
-"_size" "7220"
+"_change_number" "27239127"
+"_sha" "146e9cdd9bfa87c77bd4840c3a1cda22438de621"
+"_size" "6982"
