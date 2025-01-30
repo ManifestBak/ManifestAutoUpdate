@@ -70,6 +70,7 @@
 	}
 	"market_presence" "1"
 	"metacritic_name" "Project Winter"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -87,8 +88,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
-			"width_pct" "63.4189031505251"
-			"height_pct" "68.08359059605795"
+			"width_pct" "58.28471411901987"
+			"height_pct" "31.607694134409883"
 		}
 	}
 	"library_assets_full"
@@ -116,8 +117,8 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomCenter"
-				"width_pct" "63.4189031505251"
-				"height_pct" "68.08359059605795"
+				"width_pct" "58.28471411901987"
+				"height_pct" "31.607694134409883"
 			}
 			"image"
 			{
@@ -167,6 +168,8 @@
 		"category_29" "1"
 		"category_35" "1"
 		"category_27" "1"
+		"category_55" "1"
+		"category_57" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -293,60 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "7946544127819781506"
-				"size" "2456217420"
-				"download" "1760030304"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"tree_test"
-			{
-				"gid" "ADE6B95B8D858558571C1C3FB3B88F2C"
-				"size" "AB63D93B1349F3A5B358BA900F98AA15"
-				"download" "CE838CB553A481BB24F89CA58A1E3D70"
-			}
-			"unity_upgrade"
-			{
-				"gid" "C96675030D80F13A0B6C7C61F0806D51"
-				"size" "0005577E0694D159BD5B5D936E00F2C5"
-				"download" "E87FE9FCF81673DFAA11F9AA57A0D739"
-			}
-			"devqa"
-			{
-				"gid" "64A1D5BE13881E90E715DEC0BF5E919E"
-				"size" "20144331FB1A96BA33952731F84447DE"
-				"download" "9B3BBFC38D21E803BE09B10DE4A0DC3A"
-			}
-			"discord_test"
-			{
-				"gid" "5E7DFF6FCB7E2E02D176A5E60468152F"
-				"size" "5E74AFF87E1C22AE17853ADC4459A5BD"
-				"download" "757E1E65836290BE9AE66669AE03315A"
-			}
-			"goose_test"
-			{
-				"gid" "B2C8D98F9B282511E411F4EFF817D545"
-				"size" "C8448541EFD6E72DD5B5B2A113BADC37"
-				"download" "CE69DA7D751E8F776731C60DB5EC40A4"
-			}
-			"qa_testing"
-			{
-				"gid" "484710AB0B1576AC352BF26905E14A0E"
-				"size" "00E8B6A5EE1E6E2AAF950AAD9B4E8AE2"
-				"download" "2D2FEDF9E1A272D9D28DEBBA08E4ADCB"
-			}
-			"qadefault"
-			{
-				"gid" "981C65925FF4ACDB61330FFC260010C8"
-				"size" "5A884F1832B6AD926E09727CB66C347E"
-				"download" "119696B225FE09FF727171280B371461"
-			}
-			"raj_test"
-			{
-				"gid" "9E0F0919CDE94386EAD00D75241B9B04"
-				"size" "CB9228800798DE78A12A31DCD084AA24"
-				"download" "F9C02D53E405DDB32D5A1715F1F872B8"
+				"gid" "803948430477763081"
+				"size" "2471798522"
+				"download" "1772297632"
 			}
 		}
 	}
@@ -361,58 +313,11 @@
 	{
 		"public"
 		{
-			"buildid" "16437769"
-			"timeupdated" "1733849253"
-		}
-		"tree_test"
-		{
-			"buildid" "13927387"
-			"pwdrequired" "1"
-			"timeupdated" "1712864886"
-		}
-		"unity_upgrade"
-		{
-			"buildid" "13521718"
-			"pwdrequired" "1"
-			"timeupdated" "1708549957"
-		}
-		"devqa"
-		{
-			"buildid" "16334653"
-			"pwdrequired" "1"
-			"timeupdated" "1731440964"
-		}
-		"discord_test"
-		{
-			"buildid" "14849375"
-			"pwdrequired" "1"
-			"timeupdated" "1720195193"
-		}
-		"goose_test"
-		{
-			"buildid" "15040272"
-			"pwdrequired" "1"
-			"timeupdated" "1721075988"
-		}
-		"qa_testing"
-		{
-			"buildid" "16426065"
-			"pwdrequired" "1"
-			"timeupdated" "1731800077"
-		}
-		"qadefault"
-		{
-			"buildid" "16426065"
-			"pwdrequired" "1"
-			"timeupdated" "1733849400"
-		}
-		"raj_test"
-		{
-			"buildid" "14443384"
-			"pwdrequired" "1"
-			"timeupdated" "1718304734"
+			"buildid" "16931984"
+			"timeupdated" "1738267715"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -422,6 +327,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "26578950"
-"_sha" "a64bbe992079440d20322f119d2e1e2d269c231d"
-"_size" "7863"
+"_change_number" "27241793"
+"_sha" "e8caba257157416e7f34c3f7390321ea0b535b93"
+"_size" "5674"
