@@ -99,10 +99,6 @@
 		}
 		"library_hero"
 		{
-			"image2x"
-			{
-				"english" "library_hero_2x.jpg"
-			}
 			"image"
 			{
 				"english" "library_hero.jpg"
@@ -267,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "3840235937043558164"
-				"size" "28829878408"
-				"download" "27351191104"
+				"gid" "8335896120020299172"
+				"size" "28829879816"
+				"download" "27350096640"
 			}
 		}
 	}
@@ -278,13 +274,13 @@
 	{
 		"public"
 		{
-			"buildid" "17040965"
-			"timeupdated" "1737453835"
+			"buildid" "17175790"
+			"timeupdated" "1738249954"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27092076"
-"_sha" "67b4dd17753c1629050becfbcc180e2c4a0254e4"
-"_size" "5076"
+"_change_number" "27237609"
+"_sha" "1d3a93a15d84a307ca5cc8be3298d2234e6bc4a9"
+"_size" "5012"
