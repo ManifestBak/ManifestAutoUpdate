@@ -139,6 +139,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1734081967"
 	"community_visible_stats" "1"
@@ -204,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "5578069770122755818"
-				"size" "2752682514"
-				"download" "2581160288"
+				"gid" "3260808060563165836"
+				"size" "2792384896"
+				"download" "2602613888"
 			}
 		}
 	}
@@ -220,9 +240,9 @@
 		{
 			"public"
 			{
-				"gid" "1108783937848379794"
-				"size" "2739995912"
-				"download" "2576470256"
+				"gid" "7079069331420385661"
+				"size" "2779698294"
+				"download" "2597923856"
 			}
 		}
 	}
@@ -230,8 +250,8 @@
 	{
 		"public"
 		{
-			"buildid" "16849899"
-			"timeupdated" "1735144554"
+			"buildid" "17182929"
+			"timeupdated" "1738232811"
 		}
 	}
 }
@@ -252,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27055477"
-"_sha" "32fa9268c4edeabd4205f48897987958ded8cd43"
-"_size" "3817"
+"_change_number" "27232965"
+"_sha" "482354ac83be924cd95eb309f177e3ea6bd1e9c5"
+"_size" "4105"
