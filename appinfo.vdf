@@ -116,7 +116,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734245638"
+	"store_asset_mtime" "1737802742"
 	"associations"
 	{
 		"0"
@@ -130,6 +130,11 @@
 			"name" "绝汪"
 		}
 		"2"
+		{
+			"type" "publisher"
+			"name" "NPC Entertainment"
+		}
+		"3"
 		{
 			"type" "franchise"
 			"name" "选王之剑"
@@ -199,7 +204,7 @@
 		"19" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -227,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "3992101923422029987"
-				"size" "3230157679"
-				"download" "2853466256"
+				"gid" "9124256400465612636"
+				"size" "3230157497"
+				"download" "2853466240"
 			}
 		}
 	}
@@ -239,8 +244,8 @@
 	{
 		"public"
 		{
-			"buildid" "16964855"
-			"timeupdated" "1736515225"
+			"buildid" "17186163"
+			"timeupdated" "1738249829"
 		}
 	}
 }
@@ -259,6 +264,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26941849"
-"_sha" "13b788dfc651d0dcfc7a5d20c5d0154e4df17f50"
-"_size" "4556"
+"_change_number" "27237041"
+"_sha" "afc47c96caadfe2ecc72883c488dad8984b2cc0c"
+"_size" "4629"
