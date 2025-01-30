@@ -169,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734616981"
+	"store_asset_mtime" "1738150628"
 	"associations"
 	{
 		"0"
@@ -500,8 +500,8 @@
 		}
 		"10"
 		{
-			"executable" "eac_wt_mlauncher.exe"
-			"arguments" "-eac_dir ../EasyAntiCheat -skip_pkg_validation -forcestart -config:gameplay/enableVR:b=yes"
+			"executable" "beac_wt_mlauncher.exe"
+			"arguments" "-skip_pkg_validation -forcestart -config:gameplay/enableVR:b=yes"
 			"type" "vr"
 			"config"
 			{
@@ -567,15 +567,15 @@
 		{
 			"public"
 			{
-				"gid" "7925082689104253120"
-				"size" "1260228709"
-				"download" "731747792"
+				"gid" "2822779280097913760"
+				"size" "1257548197"
+				"download" "731052608"
 			}
 			"release_candidate"
 			{
-				"gid" "7925082689104253120"
-				"size" "1260228709"
-				"download" "731747792"
+				"gid" "2822779280097913760"
+				"size" "1257548197"
+				"download" "731052608"
 			}
 		}
 	}
@@ -590,15 +590,15 @@
 		{
 			"public"
 			{
-				"gid" "6762865778753667290"
-				"size" "231655346"
-				"download" "110216192"
+				"gid" "730061108833892382"
+				"size" "231696223"
+				"download" "110162864"
 			}
 			"release_candidate"
 			{
-				"gid" "6762865778753667290"
-				"size" "231655346"
-				"download" "110216192"
+				"gid" "730061108833892382"
+				"size" "231696223"
+				"download" "110162864"
 			}
 		}
 	}
@@ -613,15 +613,15 @@
 		{
 			"public"
 			{
-				"gid" "9042594604160487953"
-				"size" "61333953241"
-				"download" "59591939440"
+				"gid" "2601137336199668043"
+				"size" "61334463184"
+				"download" "59592440096"
 			}
 			"release_candidate"
 			{
-				"gid" "9042594604160487953"
-				"size" "61333953241"
-				"download" "59591939440"
+				"gid" "2601137336199668043"
+				"size" "61334463184"
+				"download" "59592440096"
 			}
 		}
 	}
@@ -636,15 +636,15 @@
 		{
 			"public"
 			{
-				"gid" "8126224242141062165"
-				"size" "61219988777"
-				"download" "59499768576"
+				"gid" "4142930328054648583"
+				"size" "61220575709"
+				"download" "59500363936"
 			}
 			"release_candidate"
 			{
-				"gid" "8126224242141062165"
-				"size" "61219988777"
-				"download" "59499768576"
+				"gid" "4142930328054648583"
+				"size" "61220575709"
+				"download" "59500363936"
 			}
 		}
 	}
@@ -660,13 +660,13 @@
 		{
 			"public"
 			{
-				"gid" "1436307744858078932"
+				"gid" "747907075836984394"
 				"size" "18780832061"
 				"download" "18877872496"
 			}
 			"release_candidate"
 			{
-				"gid" "1436307744858078932"
+				"gid" "747907075836984394"
 				"size" "18780832061"
 				"download" "18877872496"
 			}
@@ -684,13 +684,13 @@
 		{
 			"public"
 			{
-				"gid" "1590940787877769640"
+				"gid" "2969394378392576712"
 				"size" "39097848860"
 				"download" "39483956048"
 			}
 			"release_candidate"
 			{
-				"gid" "1590940787877769640"
+				"gid" "2969394378392576712"
 				"size" "39097848860"
 				"download" "39483956048"
 			}
@@ -708,13 +708,13 @@
 		{
 			"public"
 			{
-				"gid" "8211959056056925883"
+				"gid" "951450366766968648"
 				"size" "10193593770"
 				"download" "10159685104"
 			}
 			"release_candidate"
 			{
-				"gid" "8211959056056925883"
+				"gid" "951450366766968648"
 				"size" "10193593770"
 				"download" "10159685104"
 			}
@@ -724,19 +724,19 @@
 	{
 		"public"
 		{
-			"buildid" "17156788"
-			"timeupdated" "1738061979"
+			"buildid" "17183471"
+			"timeupdated" "1738235833"
 		}
 		"release_candidate"
 		{
-			"buildid" "17156142"
+			"buildid" "17182759"
 			"description" "release candidate"
-			"timeupdated" "1738058203"
+			"timeupdated" "1738231911"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27199221"
-"_sha" "5c96d23c60924b54a672e8d011f41fed3c8a6636"
-"_size" "14142"
+"_change_number" "27233627"
+"_sha" "213b5f3b94d19b965a5bf9840defb3beed7cd6c3"
+"_size" "14111"
