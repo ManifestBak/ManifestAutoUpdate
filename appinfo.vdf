@@ -32,16 +32,18 @@
 	"small_capsule"
 	{
 		"english" "c96b4436f858ad35f6604912c6116a1a20a0d09c/capsule_231x87.jpg"
+		"schinese" "74b675f313992103d578b83ebf387d13c8eb71f8/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "zh-cn,en"
 		"library_hero" "en"
-		"library_logo" "en"
+		"library_logo" "en,zh-cn"
 		"library_header" "en"
 		"logo_position"
 		{
@@ -56,13 +58,13 @@
 		{
 			"image"
 			{
-				"schinese" "library_600x900_schinese.jpg"
+				"schinese" "c3cf90f1f023d93f96cd2eeaa40d2de06908ead5/library_600x900_schinese.jpg"
 				"english" "library_600x900.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
+				"schinese" "c3cf90f1f023d93f96cd2eeaa40d2de06908ead5/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -81,12 +83,17 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "20a35de632fe18c1ee3f43892b5a4f34c31b7aa8/logo_schinese.png"
 			}
 			"logo_position"
 			{
 				"pinned_position" "BottomCenter"
 				"width_pct" "78.6084677873254"
 				"height_pct" "91.14404556381598"
+			}
+			"image2x"
+			{
+				"schinese" "89f083bc77f6ff5663b87716ef7b80fd8ce55dac/logo_schinese_2x.png"
 			}
 		}
 		"library_header"
@@ -101,7 +108,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736197059"
+	"store_asset_mtime" "1737492042"
 	"associations"
 	{
 		"0"
@@ -165,6 +172,8 @@
 		"18" "3916"
 		"19" "1738"
 	}
+	"review_score" "7"
+	"review_percentage" "100"
 }
 "extended"
 {
@@ -204,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "1669581493511298488"
-				"size" "1317284215"
-				"download" "932217808"
+				"gid" "4422873425705646623"
+				"size" "1317219543"
+				"download" "932217840"
 			}
 			"local"
 			{
@@ -220,8 +229,8 @@
 	{
 		"public"
 		{
-			"buildid" "16667417"
-			"timeupdated" "1733582983"
+			"buildid" "17187471"
+			"timeupdated" "1738256385"
 		}
 		"local"
 		{
@@ -259,6 +268,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26882633"
-"_sha" "fe401b67873057acb432427ad9325759c8aa4340"
-"_size" "4341"
+"_change_number" "27239004"
+"_sha" "cc00005d733a24d065a241b113785eca7571cd95"
+"_size" "4788"
