@@ -40,42 +40,17 @@
 		"russian" "God of War Рагнарёк"
 		"thai" "ก็อดออฟวอร์ แร็กนาร็อก"
 	}
+	"releasestate" "released"
 	"eulas"
 	{
 		"0"
 		{
 			"id" "2322010_eula_0"
-			"name" "God of War Ragnarök EULA (RoW)"
-			"url" "https://store.steampowered.com/eula/2322010_eula_0"
-			"version" "4"
-			"countries" "AR,AS,BO,BR,CA,CL,CN,CO,CR,EC,GT,GU,HK,HN,ID,MP,MX,MY,NI,PA,PE,PH,PR,PY,SG,SV,TH,TW,US,UY,VI,VN"
-		}
-		"1"
-		{
-			"id" "2322010_eula_1"
-			"name" "God of War Ragnarök EULA (EMEA)"
-			"url" "https://store.steampowered.com/eula/2322010_eula_1"
-			"countries" "AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
-			"version" "1"
-		}
-		"2"
-		{
-			"id" "2322010_eula_2"
-			"name" "God of War Ragnarök EULA (JP)"
-			"url" "https://store.steampowered.com/eula/2322010_eula_2"
-			"countries" "JP"
-			"version" "1"
-		}
-		"3"
-		{
-			"id" "2322010_eula_3"
-			"name" "God of War Ragnarök EULA (KR)"
-			"url" "https://store.steampowered.com/eula/2322010_eula_3"
-			"countries" "KR"
+			"name" "God of War Ragnarök EULA"
+			"url" "https://store.steampowered.com//eula/2322010_eula_0"
 			"version" "1"
 		}
 	}
-	"releasestate" "released"
 	"content_descriptors"
 	{
 		"0" "2"
@@ -145,6 +120,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -180,7 +156,7 @@
 		}
 		"library_hero_blur"
 		{
-			"images"
+			"image"
 			{
 				"english" "8886984a9a1da221a8e043908c6e4918205ef784/library_hero_blur.jpg"
 			}
@@ -386,7 +362,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1726757986"
+	"steam_release_date" "1726757940"
 	"metacritic_score" "90"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/god-of-war-ragnarok\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -401,22 +377,22 @@
 		"4" "4231"
 		"5" "1646"
 		"6" "4145"
-		"7" "4191"
-		"8" "1697"
-		"9" "16094"
+		"7" "1697"
+		"8" "16094"
+		"9" "4191"
 		"10" "4166"
 		"11" "5608"
 		"12" "5984"
 		"13" "1684"
 		"14" "1742"
 		"15" "3993"
-		"16" "1695"
-		"17" "4182"
+		"16" "4182"
+		"17" "1695"
 		"18" "4345"
-		"19" "44868"
+		"19" "6730"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -485,66 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "5866573615378835835"
-				"size" "188587743267"
-				"download" "107393645360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd_partner"
-			{
-				"gid" "A1E21EDC04C37ACDF843313DAC86064C"
-				"size" "D9130F4A38F4116D7B26C06F60F0A301"
-				"download" "897D7DF78FA9D940EEEB365FF9C9BD25"
-			}
-			"compat"
-			{
-				"gid" "6E6C0C1B71747CB348B6E6CFBB9DF244"
-				"size" "ADE31B7EE0C3545FDA98885B8D74EA45"
-				"download" "43262DE7AD19E6455C797398EBEB10B6"
-			}
-			"intel_partner"
-			{
-				"gid" "346991553BCBBDF9C2A1AD83F2BCA614"
-				"size" "8A35169BD932003876411173EEA75256"
-				"download" "E1CCFE1A6BB8E93A75559B0930EAFDFC"
-			}
-			"jpi_rollback"
-			{
-				"gid" "3B002348274CA5BDD5C759F5FABDD341"
-				"size" "4D6F09B910E2BE492104E26AC6791E27"
-				"download" "194949B7DECF368CE701E53D36656C35"
-			}
-			"jpi_rollback2"
-			{
-				"gid" "765A95A4EB8E0473220D200A1BA7F1D2"
-				"size" "D76A446DED4052E728F66647944800A4"
-				"download" "081DBB2B08F7354B0550B0BEEAB09F90"
-			}
-			"latest_platinum"
-			{
-				"gid" "42EBC5451233094EB4BF61DE2D4B60F7"
-				"size" "E7035F3D0851556094A4A7582E43E0EE"
-				"download" "F72245EBEFE147F000FCE546A357AD67"
-			}
-			"nvidia_partner"
-			{
-				"gid" "F41E32B341A1FCE3F6E257C986933B80"
-				"size" "4D3146066DF9D41B2400DF8AD49ABFB1"
-				"download" "D13C9DE47A29A32B10A025A0AFCAA3B4"
-			}
-			"qa_gold"
-			{
-				"gid" "E1CBD792FF24CD72B30222C7C6764456"
-				"size" "5D2C635687DBF11497B920C4D1ECE5EE"
-				"download" "71F5540F66B32337E4E530198609485C"
-			}
-			"ratings"
-			{
-				"gid" "5D438DCEC5B646BF4F8A634902CE84AD"
-				"size" "ACEA2D41B65200F4C252A72069C2BC2E"
-				"download" "960FD5B77BEB6B31B38B0A76B143E8F1"
+				"gid" "6339539328836041734"
+				"size" "188611378748"
+				"download" "107441620816"
 			}
 		}
 	}
@@ -552,64 +471,11 @@
 	{
 		"public"
 		{
-			"buildid" "16404435"
-			"timeupdated" "1731696212"
-		}
-		"amd_partner"
-		{
-			"buildid" "16399496"
-			"pwdrequired" "1"
-			"timeupdated" "1731545894"
-		}
-		"compat"
-		{
-			"buildid" "14056357"
-			"pwdrequired" "1"
-			"timeupdated" "1729211390"
-		}
-		"intel_partner"
-		{
-			"buildid" "16399496"
-			"pwdrequired" "1"
-			"timeupdated" "1731545824"
-		}
-		"jpi_rollback"
-		{
-			"buildid" "16322983"
-			"pwdrequired" "1"
-			"timeupdated" "1731007893"
-		}
-		"jpi_rollback2"
-		{
-			"buildid" "15936841"
-			"pwdrequired" "1"
-			"timeupdated" "1729273199"
-		}
-		"latest_platinum"
-		{
-			"buildid" "16404435"
-			"pwdrequired" "1"
-			"timeupdated" "1731579211"
-		}
-		"nvidia_partner"
-		{
-			"buildid" "16399496"
-			"pwdrequired" "1"
-			"timeupdated" "1731545911"
-		}
-		"qa_gold"
-		{
-			"buildid" "16400642"
-			"pwdrequired" "1"
-			"timeupdated" "1731553152"
-		}
-		"ratings"
-		{
-			"buildid" "14232263"
-			"pwdrequired" "1"
-			"timeupdated" "1714756887"
+			"buildid" "17165330"
+			"timeupdated" "1738256279"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -633,6 +499,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26217674"
-"_sha" "364a88250173940b474320c7a86fc0c18a5b5509"
-"_size" "12952"
+"_change_number" "27238972"
+"_sha" "a14438cd3abcd5c0da5b18c6640f84d2f1d6d37a"
+"_size" "9568"
