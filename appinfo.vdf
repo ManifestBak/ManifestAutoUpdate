@@ -86,10 +86,11 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "CenterCenter"
+			"pinned_position" "UpperCenter"
 			"width_pct" "90.55305012731935"
 			"height_pct" "100"
 		}
@@ -109,30 +110,41 @@
 		}
 		"library_hero"
 		{
+			"image2x"
+			{
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero_2x.jpg"
+			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f80adb687e80bb7b661f6047533dd6df49871836/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "CenterCenter"
+				"pinned_position" "UpperCenter"
 				"width_pct" "90.55305012731935"
 				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "0a3b64a6af979a885aabc157fd5a58b9390d9db2/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "0a3b64a6af979a885aabc157fd5a58b9390d9db2/logo_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1729507501"
+	"store_asset_mtime" "1738261032"
 	"associations"
 	{
 		"0"
@@ -243,12 +255,12 @@
 		"4" "599"
 		"5" "3810"
 		"6" "5363"
-		"7" "4172"
-		"8" "3968"
+		"7" "3968"
+		"8" "4172"
 		"9" "1669"
 		"10" "1643"
-		"11" "3859"
-		"12" "7107"
+		"11" "7107"
+		"12" "3859"
 		"13" "1664"
 		"14" "3843"
 		"15" "15045"
@@ -343,26 +355,23 @@
 				"size" "557362566"
 				"download" "155840480"
 			}
-			"045a"
-			{
-				"gid" "3617175051840139606"
-				"size" "557362566"
-				"download" "155840480"
-			}
 			"previousbuild"
 			{
 				"gid" "3617175051840139606"
 				"size" "557362566"
 				"download" "155840480"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
+			"045a"
 			{
-				"gid" "E61D8E571E63AFECF4A3BB610A94AFBF"
-				"size" "EE9E4371AFE28B65006A68B8A6EFE26B"
-				"download" "BE1627ABAF9B7EF4EE4993056AAA76CD"
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"legacy0.01"
+			{
+				"gid" "3000625788226141153"
+				"size" "393028082"
+				"download" "105063888"
 			}
 		}
 	}
@@ -381,26 +390,23 @@
 				"size" "584312118"
 				"download" "163622208"
 			}
-			"045a"
-			{
-				"gid" "6182491938988627730"
-				"size" "584312118"
-				"download" "163622208"
-			}
 			"previousbuild"
 			{
 				"gid" "6182491938988627730"
 				"size" "584312118"
 				"download" "163622208"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
+			"045a"
 			{
-				"gid" "97FD0ABC1B7B464F411A915CC65C342F"
-				"size" "BBC34B912A3C59C90378930F9CFF08B4"
-				"download" "55F3B8612EF770424A940E95007EB2D2"
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"legacy0.01"
+			{
+				"gid" "9100403710063168105"
+				"size" "392997106"
+				"download" "104912112"
 			}
 		}
 	}
@@ -419,26 +425,23 @@
 				"size" "579283088"
 				"download" "164551984"
 			}
-			"045a"
-			{
-				"gid" "8698462310255593191"
-				"size" "579283088"
-				"download" "164551984"
-			}
 			"previousbuild"
 			{
 				"gid" "8698462310255593191"
 				"size" "579283088"
 				"download" "164551984"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
+			"045a"
 			{
-				"gid" "45FF9604CD796A1BFC0EC45504DFD305"
-				"size" "543673F80B8AEA6FEF84A597C681140F"
-				"download" "EB9A0306128832E6A4875E7219571771"
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"legacy0.01"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
 			}
 		}
 	}
@@ -453,6 +456,12 @@
 		{
 			"public"
 			{
+				"gid" "4394718221639995627"
+				"size" "4223730386"
+				"download" "1287421472"
+			}
+			"previousbuild"
+			{
 				"gid" "4732831581369180919"
 				"size" "4021135448"
 				"download" "1231853120"
@@ -463,20 +472,11 @@
 				"size" "1065497853"
 				"download" "376552208"
 			}
-			"previousbuild"
+			"legacy0.01"
 			{
-				"gid" "1846314087701833786"
-				"size" "4011314138"
-				"download" "1224980864"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
-			{
-				"gid" "BE47DA908CC08A389FD9A8277C73654F"
-				"size" "70074C5A2CB3CE6607EE2DE75BD7ACC1"
-				"download" "73FB81E3BC62BE45A9227557E78E99F8"
+				"gid" "3237674173486013177"
+				"size" "388779522"
+				"download" "103856160"
 			}
 		}
 	}
@@ -491,6 +491,12 @@
 		{
 			"public"
 			{
+				"gid" "4338583091878769724"
+				"size" "4242401676"
+				"download" "1289421584"
+			}
+			"previousbuild"
+			{
 				"gid" "7755756187774338828"
 				"size" "4040059026"
 				"download" "1234028192"
@@ -501,20 +507,11 @@
 				"size" "1109640852"
 				"download" "388535536"
 			}
-			"previousbuild"
+			"legacy0.01"
 			{
-				"gid" "1767764448958831425"
-				"size" "4030301872"
-				"download" "1227223872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
-			{
-				"gid" "802DDBEFF2261237BED451BF1D993792"
-				"size" "FC6DAB8C17F5F6D4CA20E5F3C1491533"
-				"download" "D02FE103DE6549F4994D490AF593F5D3"
+				"gid" "4338583091878769724"
+				"size" "4242401676"
+				"download" "1289421584"
 			}
 		}
 	}
@@ -529,6 +526,12 @@
 		{
 			"public"
 			{
+				"gid" "8538356128479266516"
+				"size" "4234389050"
+				"download" "1288050016"
+			}
+			"previousbuild"
+			{
 				"gid" "8398740502954206891"
 				"size" "4032046404"
 				"download" "1232620656"
@@ -539,20 +542,11 @@
 				"size" "1101117508"
 				"download" "387320400"
 			}
-			"previousbuild"
+			"legacy0.01"
 			{
-				"gid" "8754097460353051838"
-				"size" "4022289242"
-				"download" "1225805840"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"threeheadedmonkey"
-			{
-				"gid" "59B3AED4076BB11A272C13E95516B7EA"
-				"size" "C94A4BD2C8A7DE6564083E3B661A628A"
-				"download" "174C988348E9069167E7BCB877B7ACA6"
+				"gid" "8538356128479266516"
+				"size" "4234389050"
+				"download" "1288050016"
 			}
 		}
 	}
@@ -560,8 +554,13 @@
 	{
 		"public"
 		{
+			"buildid" "17186049"
+			"timeupdated" "1738261256"
+		}
+		"previousbuild"
+		{
 			"buildid" "16601471"
-			"timeupdated" "1733496568"
+			"timeupdated" "1738261227"
 		}
 		"045a"
 		{
@@ -569,18 +568,14 @@
 			"description" "Pre-Multiplayer"
 			"timeupdated" "1641916576"
 		}
-		"previousbuild"
+		"legacy0.01"
 		{
-			"buildid" "16122703"
-			"timeupdated" "1732800325"
-		}
-		"threeheadedmonkey"
-		{
-			"buildid" "16658062"
-			"pwdrequired" "1"
-			"timeupdated" "1733496586"
+			"buildid" "17186038"
+			"description" "The original 2015 early access version"
+			"timeupdated" "1738249114"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -588,6 +583,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26527708"
-"_sha" "d46c85cbbfc1b4e8029fe2b0e5a923143a4b3e40"
-"_size" "10465"
+"_change_number" "27240361"
+"_sha" "a02639e1681fa5efd1cc52a0c75d12e5bb507d9b"
+"_size" "10317"
