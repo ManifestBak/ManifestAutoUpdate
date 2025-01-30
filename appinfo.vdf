@@ -193,6 +193,16 @@
 			}
 			"description" "Andarilho [No Launcher]"
 		}
+		"2"
+		{
+			"executable" "Andarilho AV/Andarilho.exe"
+			"type" "option3"
+			"description_loc"
+			{
+				"english" "Andarilho - Alternative Version"
+			}
+			"description" "Andarilho - Alternative Version"
+		}
 	}
 }
 "depots"
@@ -208,15 +218,15 @@
 		{
 			"public"
 			{
-				"gid" "7009882627643906247"
-				"size" "786372818"
-				"download" "242177264"
+				"gid" "5875592339574534322"
+				"size" "1311889576"
+				"download" "292691968"
 			}
 			"pre_release"
 			{
-				"gid" "7009882627643906247"
-				"size" "786372818"
-				"download" "242177264"
+				"gid" "5875592339574534322"
+				"size" "1311889576"
+				"download" "292691968"
 			}
 		}
 	}
@@ -242,13 +252,13 @@
 	{
 		"public"
 		{
-			"buildid" "16068392"
-			"timeupdated" "1729094421"
+			"buildid" "17186388"
+			"timeupdated" "1738257850"
 		}
 		"pre_release"
 		{
-			"buildid" "16068392"
-			"timeupdated" "1729094322"
+			"buildid" "17186388"
+			"timeupdated" "1738251940"
 		}
 	}
 }
@@ -268,6 +278,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25750142"
-"_sha" "3c7d5b83b817defb3a874317ed107be838a565a0"
-"_size" "4360"
+"_change_number" "27239447"
+"_sha" "c0afae33b3ba011e8b80e2cabe38b26835f781c7"
+"_size" "4585"
