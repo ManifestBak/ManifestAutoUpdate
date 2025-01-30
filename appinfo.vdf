@@ -33,6 +33,7 @@
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 	}
+	"store_screenshot" "ss_c71690050b38d5c2216893565982232b23c91585.jpg"
 	"store_asset_mtime" "1667028504"
 	"associations"
 	{
@@ -95,8 +96,8 @@
 		"4" "12095"
 		"5" "6650"
 	}
-	"review_score" "6"
-	"review_percentage" "70"
+	"review_score" "5"
+	"review_percentage" "63"
 }
 "extended"
 {
@@ -119,9 +120,9 @@
 		{
 			"public"
 			{
-				"gid" "6813032481492856300"
-				"size" "801362399"
-				"download" "639304624"
+				"gid" "2021063956593493000"
+				"size" "599754056"
+				"download" "471704896"
 			}
 		}
 		"dlcappid" "1947360"
@@ -136,9 +137,9 @@
 		{
 			"public"
 			{
-				"gid" "2378310121794919235"
-				"size" "801362399"
-				"download" "639304624"
+				"gid" "8670904432750468603"
+				"size" "599754056"
+				"download" "471704896"
 			}
 		}
 		"dlcappid" "1947360"
@@ -149,9 +150,9 @@
 		{
 			"public"
 			{
-				"gid" "2912720554159972204"
-				"size" "801362399"
-				"download" "639304624"
+				"gid" "998492210959895430"
+				"size" "599754056"
+				"download" "471704896"
 			}
 		}
 		"dlcappid" "1947360"
@@ -160,8 +161,12 @@
 	{
 		"public"
 		{
-			"buildid" "15178276"
-			"timeupdated" "1722178312"
+			"buildid" "17180403"
+			"timeupdated" "1738214557"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27229777"
+"_sha" "418cf103e7e2f47fc7314da42ec8bf77b98b6576"
+"_size" "2734"
