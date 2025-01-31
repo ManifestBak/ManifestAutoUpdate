@@ -1,21 +1,24 @@
 "appid" "1036580"
 "common"
 {
-	"name" "National Park Girls"
+	"name" "National Park Girls: Love Our Parks Edition"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"osarch" "64"
-	"clienticon" "389d3a391092f211320b2c315ef7846c6fa068e1"
-	"clienttga" "30410e0094583f52e440cbbf5091a12c28524a4a"
+	"clienticon" "9ca32be88abce8abb27878b304ea370df8c39d8a"
+	"clienttga" "db839c8de038bd473f955a2dd7b04213911e267c"
 	"icon" "f25d7967dafa4588f11facfb8631fd7a46897d1b"
 	"logo" "9dc494de920ad95fbda34c16b506c03b43ddeb02"
 	"logo_small" "9dc494de920ad95fbda34c16b506c03b43ddeb02_thumb"
 	"osextended" "macos64,macosapplesilicon"
-	"metacritic_name" "National Park Girls"
+	"clienticns" "b735a24de0128ed9902c4f80d44363a650c6ebcb"
+	"linuxclienticon" "11a7edd46c7b8217fd65f08e4fee6e2b949688dc"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "927ebedc423c3e9a1a559432a03ccfdf3a13151e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -25,7 +28,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -39,29 +44,40 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "90a364d0898dd68d71f209ed57a94c030be5a899/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "90a364d0898dd68d71f209ed57a94c030be5a899/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "6f40209ea410d3eafb37d22e1fa1a42a4fc1054d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "6f40209ea410d3eafb37d22e1fa1a42a4fc1054d/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6f40209ea410d3eafb37d22e1fa1a42a4fc1054d/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "8bd021c1916d8bba938a8887bd21e38bf721d357/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "8bd021c1916d8bba938a8887bd21e38bf721d357/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -70,8 +86,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f0976a80ee7869018e45cf27f4c509eaccd54480/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f0976a80ee7869018e45cf27f4c509eaccd54480/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1694201538"
+	"store_asset_mtime" "1738341742"
 	"associations"
 	{
 		"0"
@@ -108,6 +135,11 @@
 		"category_29" "1"
 		"category_13" "1"
 		"category_23" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -158,39 +190,86 @@
 }
 "config"
 {
-	"installdir" "National Park Girls"
+	"installdir" "National Park Girls Love Our Parks Edition"
 	"launch"
 	{
 		"0"
 		{
-			"executable" "NationalParkGirls.exe"
+			"executable" "NationalParkGirlsLOPE.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"1"
+		{
+			"executable" "NationalParkGirlsLOPE.exe"
 			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 			}
 		}
-		"1"
-		{
-			"executable" "NationalParkGirls.app"
-			"type" "none"
-			"config"
-			{
-				"oslist" "macos"
-			}
-		}
 		"2"
 		{
-			"executable" "NationalParkGirls.sh"
+			"executable" "NationalParkGirlsLOPE.sh"
+			"type" "default"
 			"config"
 			{
 				"oslist" "linux"
 			}
 		}
+		"3"
+		{
+			"executable" "NationalParkGirls.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "downgrade-legacy-5.1.2"
+			}
+			"description_loc"
+			{
+				"english" "National Park Girls (Legacy)"
+			}
+			"description" "National Park Girls (Legacy)"
+		}
+		"4"
+		{
+			"executable" "NationalParkGirls.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "downgrade-legacy-5.1.2"
+			}
+			"description_loc"
+			{
+				"english" "National Park Girls (Legacy)"
+			}
+			"description" "National Park Girls (Legacy)"
+		}
+		"5"
+		{
+			"executable" "NationalParkGirls.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "downgrade-legacy-5.1.2"
+			}
+			"description_loc"
+			{
+				"english" "National Park Girls (Legacy)"
+			}
+			"description" "National Park Girls (Legacy)"
+		}
 	}
 	"steamcontrollertemplateindex" "4"
 	"steamcontrollertouchtemplateindex" "9"
 	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
 }
 "depots"
 {
@@ -201,18 +280,21 @@
 		{
 			"public"
 			{
+				"gid" "2349453334895558632"
+				"size" "2077894257"
+				"download" "1583272416"
+			}
+			"downgrade-legacy-5.1.2"
+			{
 				"gid" "3343459386161485440"
 				"size" "1578509640"
 				"download" "1110396880"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-lope-1.0"
 			{
-				"gid" "862FBDED73D109762A2E346D0733DBFA"
-				"size" "020B8D85839E180A9618E40E2F6ED1D0"
-				"download" "F250214509927EEF89A77024577E9C9D"
+				"gid" "7229001570089432516"
+				"size" "2075411144"
+				"download" "1581383984"
 			}
 		}
 	}
@@ -227,14 +309,17 @@
 				"size" "94561772"
 				"download" "91089888"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-legacy-5.1.2"
 			{
-				"gid" "40BF3F555D2DCF5D40B205754053F07C"
-				"size" "7CD59C4F7D96338F0D39A852504A72F2"
-				"download" "4DB21AC9DB87D08279FE713851A26F36"
+				"gid" "3124915146521116204"
+				"size" "94561772"
+				"download" "91089888"
+			}
+			"downgrade-lope-1.0"
+			{
+				"gid" "3124915146521116204"
+				"size" "94561772"
+				"download" "91089888"
 			}
 		}
 	}
@@ -245,18 +330,21 @@
 		{
 			"public"
 			{
+				"gid" "2701926217944104460"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-legacy-5.1.2"
+			{
 				"gid" "292716356956163283"
 				"size" "49598958"
 				"download" "47734960"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-lope-1.0"
 			{
-				"gid" "D938BFBE49BDA081FC783540A6DD0E25"
-				"size" "CE82E7B3ED0AD29FCFA76A3A898A70EF"
-				"download" "C59F41432BD91C80A9C30823F34C03A7"
+				"gid" "2701926217944104460"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -267,18 +355,21 @@
 		{
 			"public"
 			{
+				"gid" "6054158634970627805"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-legacy-5.1.2"
+			{
 				"gid" "5700764495926789720"
 				"size" "111397837"
 				"download" "110901776"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-lope-1.0"
 			{
-				"gid" "DA84DC0076CFB3F08177353D8F5A38F4"
-				"size" "1151350DE5A679F1953EDCD39329DF44"
-				"download" "FEAEA9B5E20B3F04DC66D7A89C58D387"
+				"gid" "6054158634970627805"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -289,18 +380,21 @@
 		{
 			"public"
 			{
+				"gid" "522403189473453877"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-legacy-5.1.2"
+			{
 				"gid" "887004283464791237"
 				"size" "124034640"
 				"download" "120740672"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-lope-1.0"
 			{
-				"gid" "A4B53CC78C86E61C1D71220C0E73EBD9"
-				"size" "8F7C692AC302174F5623F46372F7ED99"
-				"download" "CC93A41A01EA4C449C678053BCF8960A"
+				"gid" "522403189473453877"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -311,18 +405,21 @@
 		{
 			"public"
 			{
+				"gid" "2934365821703086892"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-legacy-5.1.2"
+			{
 				"gid" "8571596514599038552"
 				"size" "261597892"
 				"download" "248018688"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-lope-1.0"
 			{
-				"gid" "770B4355E252FD7CB8719C9CED45F3D8"
-				"size" "F92E5DE0022ECFE689938EBF3E26592D"
-				"download" "538E0F7BC589C04822F3BF438AC58D19"
+				"gid" "2934365821703086892"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -340,14 +437,17 @@
 				"size" "85"
 				"download" "128"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-legacy-5.1.2"
 			{
-				"gid" "90EC2765BB47F91C1675BD4EC2F566F8"
-				"size" "C26BB904001AB5F6D31E1E9B7463A419"
-				"download" "A4497681515D63B525CBF71566C42D12"
+				"gid" "7343170147002302896"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-lope-1.0"
+			{
+				"gid" "7343170147002302896"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -365,14 +465,17 @@
 				"size" "85"
 				"download" "128"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-legacy-5.1.2"
 			{
-				"gid" "44C8610BA2D4C9F8DDA1831D2A9BDBAC"
-				"size" "C26BB904001AB5F6D31E1E9B7463A419"
-				"download" "A4497681515D63B525CBF71566C42D12"
+				"gid" "2707263434331179367"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-lope-1.0"
+			{
+				"gid" "2707263434331179367"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -390,14 +493,17 @@
 				"size" "85"
 				"download" "128"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"melanieinternal"
+			"downgrade-legacy-5.1.2"
 			{
-				"gid" "B062F0F1EBBD810B21EED369C6BA43BD"
-				"size" "C26BB904001AB5F6D31E1E9B7463A419"
-				"download" "A4497681515D63B525CBF71566C42D12"
+				"gid" "3422962104607531587"
+				"size" "85"
+				"download" "128"
+			}
+			"downgrade-lope-1.0"
+			{
+				"gid" "3422962104607531587"
+				"size" "85"
+				"download" "128"
 			}
 		}
 	}
@@ -405,16 +511,23 @@
 	{
 		"public"
 		{
-			"buildid" "13749479"
-			"timeupdated" "1710491117"
+			"buildid" "17202656"
+			"timeupdated" "1738350114"
 		}
-		"melanieinternal"
+		"downgrade-legacy-5.1.2"
 		{
 			"buildid" "13749479"
-			"pwdrequired" "1"
-			"timeupdated" "1710490030"
+			"description" "Downgrades to Legacy 5.1.2. (※ Newer save data may not work correctly.)"
+			"timeupdated" "1738340116"
+		}
+		"downgrade-lope-1.0"
+		{
+			"buildid" "17202560"
+			"description" "Downgrades to LOPE 1.0. (※ Newer save data may not work correctly.)"
+			"timeupdated" "1738346037"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -433,6 +546,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26519425"
-"_sha" "884144fe8451275c02b628598c255a59739b1c44"
-"_size" "7359"
+"_change_number" "27259732"
+"_sha" "240b66296f60079328872a5f23a8de1da95010be"
+"_size" "9879"
