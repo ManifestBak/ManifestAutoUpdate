@@ -247,7 +247,7 @@
 		"7" "1774"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -311,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "7742320160166869852"
-				"size" "26440559"
-				"download" "19972704"
+				"gid" "9169441079929593323"
+				"size" "26079205"
+				"download" "19624528"
 			}
 			"beta"
 			{
@@ -334,24 +334,15 @@
 				"download" "7809760"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"version2"
-			{
-				"gid" "691EFA2BE4594B51A82DEEFC0BB96A9B"
-				"size" "C90B7465E15961E93782DBF48DF02497"
-				"download" "5065E7D193A52B7BB670B3A1EEF29257"
-			}
-		}
 	}
 	"workshopdepot" "1477830"
-	"baselanguages" "english,schinese,russian"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,swedish,czech,turkish,bulgarian"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16303760"
-			"timeupdated" "1730891419"
+			"buildid" "17202183"
+			"timeupdated" "1738346113"
 		}
 		"beta"
 		{
@@ -371,13 +362,8 @@
 			"description" "V1.5330"
 			"timeupdated" "1630411357"
 		}
-		"version2"
-		{
-			"buildid" "16303760"
-			"pwdrequired" "1"
-			"timeupdated" "1730826221"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -385,6 +371,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26070380"
-"_sha" "acdd54514569179e982df94a42072527cfa36203"
-"_size" "6773"
+"_change_number" "27258625"
+"_sha" "57c5870b6dcb7f1dcd2a860fe50c7974fba01401"
+"_size" "6587"
