@@ -29,6 +29,35 @@
 		"portuguese" "1"
 		"brazilian" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1737590400"
+		"tested_build_id" "17038271"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -274,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "6665734015037815130"
-				"size" "2053007834"
-				"download" "643904960"
+				"gid" "3805091664210353775"
+				"size" "2053691682"
+				"download" "643979120"
 			}
 		}
 	}
@@ -308,8 +337,8 @@
 	{
 		"public"
 		{
-			"buildid" "17141892"
-			"timeupdated" "1737964417"
+			"buildid" "17197644"
+			"timeupdated" "1738321460"
 		}
 	}
 }
@@ -353,6 +382,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27179193"
-"_sha" "c786538e8ed57db6bb281c2da323014cff6886c2"
-"_size" "6184"
+"_change_number" "27251643"
+"_sha" "8d75f148d96f6c892467f5c4a17a0497a63fe5e2"
+"_size" "6919"
