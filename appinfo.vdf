@@ -281,8 +281,8 @@
 		"10" "597"
 		"11" "599"
 		"12" "4195"
-		"13" "4166"
-		"14" "1719"
+		"13" "1719"
+		"14" "4166"
 		"15" "5363"
 		"16" "492"
 		"17" "1669"
@@ -328,15 +328,15 @@
 		{
 			"public"
 			{
-				"gid" "2371853041818789360"
-				"size" "1155928778"
-				"download" "259264992"
+				"gid" "5174361083434259674"
+				"size" "1168278393"
+				"download" "267260960"
 			}
 			"experimental"
 			{
-				"gid" "2371853041818789360"
-				"size" "1155928778"
-				"download" "259264992"
+				"gid" "5174361083434259674"
+				"size" "1168278393"
+				"download" "267260960"
 			}
 			"v2024.10.5"
 			{
@@ -351,34 +351,19 @@
 				"download" "116345984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "9FEDC47862DAFAF5A78D1B18AFD81693"
-				"size" "A2E0EA980B01F0E3A256F32ADD291B91"
-				"download" "60B7167878F480EDB41042E56E232178"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16907486"
-			"timeupdated" "1736019293"
-		}
-		"private"
-		{
-			"buildid" "16907486"
-			"pwdrequired" "1"
-			"timeupdated" "1736018749"
+			"buildid" "17199801"
+			"timeupdated" "1738332949"
 		}
 		"experimental"
 		{
-			"buildid" "16907486"
+			"buildid" "17199801"
 			"description" "Public experimental branch for testing out new things"
-			"timeupdated" "1736019261"
+			"timeupdated" "1738332930"
 		}
 		"v2024.10.5"
 		{
@@ -393,8 +378,9 @@
 			"timeupdated" "1639832351"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26863155"
-"_sha" "569cba22181dd36b22b925daa57a814c2fb38b0f"
-"_size" "7058"
+"_change_number" "27254565"
+"_sha" "c3723be2b4046df82afbf2a9caa1ad410c5dd993"
+"_size" "6772"
