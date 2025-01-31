@@ -1,18 +1,19 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-01 04:20:27
+## 更新时间：2025-02-01 06:18:29
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1036580 | National Park Girls: Love Our Parks Edition| Game |
-| 1822060 | Those Who Rule| Game |
+| 1022980 | Ostranauts| Game |
+| 1494840 | Scoot| Game |
+| 1356810 | 帝王牌局：古国纷争| Game |
+| 1102930 | KoboldKare| Game |
+| 1714900 | 《矮人元祖》 (First Dwarf)| Game |
 | 1646790 | Striving for Light| Game |
-| 1987480 | 勇者与亡灵之都| Game |
-| 1836200 | Fallout 76 Public Test Server| Beta |
-| 2020710 | 海港物语 Havendock| Game |
-| 1940340 | Darkest Dungeon® II| Game |
-| 2573100 | Unreal Lust Theory| Game |
-| 2495100 | Hello Kitty Island Adventure| Game |
-| 3292260 | Amenti| Game |
-| 219990 | Grim Dawn| Game |
-| 427730 | Who's Your Daddy?!| Game |
-| 450860 | Andarilho| Game |
+| 1807080 | Ghost Exile| Game |
+| 1861700 | Drop one NPC to another| Game |
+| 1933370 | 深渊之印| Game |
+| 2273980 | 兽人必须死! 死亡陷阱| Game |
+| 2399160 | Soulash 2| Game |
+| 2437170 | 《神之浩劫2》| Game |
+| 2882870 | Doll Impostor| Game |
+| 400630 | Wuppo - Definitive Edition| Game |
