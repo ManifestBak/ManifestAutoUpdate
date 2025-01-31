@@ -159,7 +159,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -190,9 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "9223304102104268043"
-				"size" "53637517678"
-				"download" "41452958528"
+				"gid" "4647353564474278204"
+				"size" "53637518934"
+				"download" "41452960896"
 			}
 			"developmentbuild"
 			{
@@ -202,9 +202,9 @@
 			}
 			"beta"
 			{
-				"gid" "9223304102104268043"
-				"size" "53637517678"
-				"download" "41452958528"
+				"gid" "4647353564474278204"
+				"size" "53637518934"
+				"download" "41452960896"
 			}
 		}
 	}
@@ -212,8 +212,8 @@
 	{
 		"public"
 		{
-			"buildid" "17186004"
-			"timeupdated" "1738249062"
+			"buildid" "17196512"
+			"timeupdated" "1738315814"
 		}
 		"developmentbuild"
 		{
@@ -223,9 +223,9 @@
 		}
 		"beta"
 		{
-			"buildid" "17186004"
+			"buildid" "17196512"
 			"description" "For pre release test"
-			"timeupdated" "1738249075"
+			"timeupdated" "1738315832"
 		}
 	}
 	"privatebranches" "1"
@@ -238,6 +238,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27236852"
-"_sha" "27a6b26d020f937a83e4c4d7d9256aab1658f7a3"
+"_change_number" "27250348"
+"_sha" "d2ec765ccadef304c16abd7bd03b2910da6dc12f"
 "_size" "4019"
