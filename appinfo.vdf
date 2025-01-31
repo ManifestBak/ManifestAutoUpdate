@@ -91,7 +91,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726759780"
+	"store_asset_mtime" "1738332828"
 	"associations"
 	{
 		"0"
@@ -268,36 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "7942855245915526502"
-				"size" "718147894"
-				"download" "466194704"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"expo"
-			{
-				"gid" "80669F8ED6D23DF4DF6DA07C78027487"
-				"size" "5B6C46678513C23DCDE44602A84FA5D2"
-				"download" "124AEFC7D81D04BAEDB003A77119025E"
-			}
-			"internal"
-			{
-				"gid" "328B9BA6F3EC4992E031775BC5A6DCEB"
-				"size" "1CD6AF58F5AFDF8D9F6034469E3BE369"
-				"download" "10BBCBDEEDF76C3AA28B166522C5688B"
-			}
-			"localization"
-			{
-				"gid" "E3EA81229D66242B2A1540A0A7CDEFDA"
-				"size" "4EB57CE241B5E2139FE0086CB9BC61CD"
-				"download" "05BB1CEF674FDBAAEFD45EEFA79F8EF4"
-			}
-			"nightly"
-			{
-				"gid" "EF2417B41970397ABE914F63DD919589"
-				"size" "7C097709B5F9C31DCD9316F85836B967"
-				"download" "10E44A66AF81E2797A447044F7CD55E4"
+				"gid" "1943486218381573384"
+				"size" "1059338741"
+				"download" "696512192"
 			}
 		}
 	}
@@ -305,34 +278,11 @@
 	{
 		"public"
 		{
-			"buildid" "14506834"
-			"timeupdated" "1716813945"
-		}
-		"expo"
-		{
-			"buildid" "15354483"
-			"pwdrequired" "1"
-			"timeupdated" "1723549536"
-		}
-		"internal"
-		{
-			"buildid" "15625587"
-			"pwdrequired" "1"
-			"timeupdated" "1725715280"
-		}
-		"localization"
-		{
-			"buildid" "15625587"
-			"pwdrequired" "1"
-			"timeupdated" "1725715301"
-		}
-		"nightly"
-		{
-			"buildid" "15625587"
-			"pwdrequired" "1"
-			"timeupdated" "1725715341"
+			"buildid" "16759701"
+			"timeupdated" "1738331272"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -348,3 +298,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27254542"
+"_sha" "c2f2c9729fa3b69119889eebd43794ad4dfee52b"
+"_size" "4758"
