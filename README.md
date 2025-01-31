@@ -1,10 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-01-31 16:19:02
+## 更新时间：2025-01-31 16:26:33
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 884800 | Stick Man Fight 3| Game |
-| 848540 | Arctic Cave| Game |
-| 725290 | Psi Project 2| Game |
-| 1063730 | New World: Aeternum| Game |
-| 2651280 | Marvel's Spider-Man 2| Game |
+| 1198820 | Monster Girl Garden| Game |
+| 1621070 | DeadPoly| Game |
+| 2088360 | Watch Your Plastic Duck| Game |
+| 2128480 | Staffer Case - 异能缉凶| Game |
+| 2389040 | ShapeHero Factory 涂鸦英雄工厂| Game |
+| 3085890 | 世外桃源| Game |
