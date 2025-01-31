@@ -295,7 +295,7 @@
 		"14" "122"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -369,36 +369,15 @@
 		{
 			"public"
 			{
-				"gid" "6059351042305444688"
-				"size" "27275891923"
-				"download" "26549083248"
+				"gid" "5863186270311256893"
+				"size" "26580446361"
+				"download" "25854711584"
 			}
 			"public_testing"
 			{
-				"gid" "6059351042305444688"
-				"size" "27275891923"
-				"download" "26549083248"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developers"
-			{
-				"gid" "A885FDD02D2F93DE099AA6785AB8A3EF"
-				"size" "00E1B3F9EE4F09E7B5C4601A64F8F4DA"
-				"download" "14B401E92538407258B59D7AD4A49849"
-			}
-			"early_access"
-			{
-				"gid" "515204022FEF3EEC3340AA3D5EBF964E"
-				"size" "FE1A20D1C857F79214D141AA54ED0AA9"
-				"download" "00BC6DD50BE49F654AC5A601C8470D91"
-			}
-			"tester-team"
-			{
-				"gid" "D5EB77D6C9A3D0D8B420D28F07E7ED04"
-				"size" "3FC7ED85D70F474663DDEB12F428F829"
-				"download" "E7056F2640270756F977ABC95DF23475"
+				"gid" "5863186270311256893"
+				"size" "26580446361"
+				"download" "25854711584"
 			}
 		}
 	}
@@ -406,34 +385,17 @@
 	{
 		"public"
 		{
-			"buildid" "16245828"
-			"timeupdated" "1730341798"
-		}
-		"developers"
-		{
-			"buildid" "16245828"
-			"pwdrequired" "1"
-			"timeupdated" "1730341762"
-		}
-		"early_access"
-		{
-			"buildid" "16245828"
-			"pwdrequired" "1"
-			"timeupdated" "1730341769"
+			"buildid" "17194949"
+			"timeupdated" "1738342907"
 		}
 		"public_testing"
 		{
-			"buildid" "16245828"
+			"buildid" "17194949"
 			"description" "Used immediately prior to public updates for a last round of testing"
-			"timeupdated" "1730341775"
-		}
-		"tester-team"
-		{
-			"buildid" "16245828"
-			"pwdrequired" "1"
-			"timeupdated" "1730340065"
+			"timeupdated" "1738342855"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -451,6 +413,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25982073"
-"_sha" "19c47852d4ed072c698b8c38b0c8c781a19b0099"
-"_size" "8336"
+"_change_number" "27257725"
+"_sha" "6dd9ec2a32e8af4864cad35aebda35a0a22b07f3"
+"_size" "7472"
