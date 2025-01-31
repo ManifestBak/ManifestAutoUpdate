@@ -152,6 +152,11 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "Unleash The Giraffe"
 		}
@@ -246,9 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "380141200273572821"
-				"size" "1152732811"
-				"download" "401461600"
+				"gid" "779565013258469095"
+				"size" "1152733499"
+				"download" "401457488"
 			}
 		}
 	}
@@ -256,8 +261,8 @@
 	{
 		"public"
 		{
-			"buildid" "17103188"
-			"timeupdated" "1737625546"
+			"buildid" "17196218"
+			"timeupdated" "1738326559"
 		}
 	}
 	"privatebranches" "1"
@@ -288,6 +293,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27127800"
-"_sha" "a253697cdf731ca22b634dfe0c2da84b136cda71"
-"_size" "5732"
+"_change_number" "27252854"
+"_sha" "e4792963e97d12d9154819a4f7d0468ef273ef27"
+"_size" "5802"
