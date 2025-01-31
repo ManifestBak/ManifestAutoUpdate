@@ -169,13 +169,13 @@
 	{
 		"0" "5613"
 		"1" "1742"
-		"2" "4166"
-		"3" "5716"
-		"4" "4085"
-		"5" "3799"
+		"2" "5716"
+		"3" "4166"
+		"4" "3799"
+		"5" "4085"
 		"6" "9"
-		"7" "3834"
-		"8" "31275"
+		"7" "31275"
+		"8" "3834"
 		"9" "6378"
 		"10" "21"
 		"11" "4195"
@@ -188,8 +188,8 @@
 		"18" "4064"
 		"19" "7113"
 	}
-	"review_score" "9"
-	"review_percentage" "95"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -238,24 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "8223953178516553007"
-				"size" "2798754431"
-				"download" "2261968928"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"artbook"
-			{
-				"gid" "3F06B7B05A988AAC36299780A87420BC"
-				"size" "C66D3E589422F85E41A84A8F222D736D"
-				"download" "A86F245B5D8872F68D36E5720CEEE150"
-			}
-			"test"
-			{
-				"gid" "D7281663A3CEFBEE638EF6AB8E40DF68"
-				"size" "726D8210B76011EE1D77A1C870D4B16E"
-				"download" "4248FD2DA4205B7C06FD34FF956F55C6"
+				"gid" "8445998115484900749"
+				"size" "2798672079"
+				"download" "2260653776"
 			}
 		}
 	}
@@ -276,21 +261,6 @@
 				"download" "33643600"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"artbook"
-			{
-				"gid" "9BDEECDD4AF01A35D5A0D8C5F4481DF2"
-				"size" "4BB3AD8DAC922D0F09AF45CAE758003C"
-				"download" "24408BEE9098223B2B07076F531E5803"
-			}
-			"test"
-			{
-				"gid" "AF405CC0740639E2346104618FAB3417"
-				"size" "1284F46D901D50C8FB41AC5E36B3E10C"
-				"download" "0D5F8A8B4A5725E383D2B732C7ACE495"
-			}
-		}
 	}
 	"2486608"
 	{
@@ -303,24 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "6783684412450515903"
-				"size" "2824175508"
-				"download" "2270031536"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"artbook"
-			{
-				"gid" "546CBAC947E1F2620A5A853B1A87B627"
-				"size" "E926E936DE9440D939C3D5CA6AF4EAB4"
-				"download" "3E185173700E27BAA2C7F44BD2323CE7"
-			}
-			"test"
-			{
-				"gid" "1BBF34F7A1567D0C52C6BDA0A93E07C1"
-				"size" "626AE02CFF25244C87BE4292C280942E"
-				"download" "3D2E4B98D1D927C0A75F733A26F3001A"
+				"gid" "4076641560754643244"
+				"size" "2824076330"
+				"download" "2265857200"
 			}
 		}
 	}
@@ -328,22 +283,11 @@
 	{
 		"public"
 		{
-			"buildid" "15488849"
-			"timeupdated" "1724665108"
-		}
-		"artbook"
-		{
-			"buildid" "14182964"
-			"pwdrequired" "1"
-			"timeupdated" "1714124120"
-		}
-		"test"
-		{
-			"buildid" "15796764"
-			"pwdrequired" "1"
-			"timeupdated" "1727106124"
+			"buildid" "17192890"
+			"timeupdated" "1738307802"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -400,3 +344,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27248727"
+"_sha" "a479035f9733af03f2da1e6c146123b0631ba249"
+"_size" "5924"
