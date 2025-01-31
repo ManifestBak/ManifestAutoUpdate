@@ -121,6 +121,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -244,6 +245,7 @@
 	}
 	"steam_release_date" "1662706890"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2088360"
 	"store_tags"
@@ -307,25 +309,26 @@
 		{
 			"public"
 			{
-				"gid" "2750842948662413490"
-				"size" "224776104"
-				"download" "197486464"
+				"gid" "6379016760237511162"
+				"size" "224777256"
+				"download" "197488208"
 			}
 		}
 	}
+	"workshopdepot" "2088360"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17184719"
-			"timeupdated" "1738242519"
+			"buildid" "17195312"
+			"timeupdated" "1738307707"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "10000000"
-	"maxnumfiles" "10"
+	"quota" "50000000"
+	"maxnumfiles" "500"
 	"savefiles"
 	{
 		"0"
@@ -337,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27235138"
-"_sha" "957a7967ea9a720a97a2e8a45a0aa3ad69521428"
-"_size" "4876"
+"_change_number" "27248825"
+"_sha" "aa968b1c43686376ed64cfaf9dcd72901030c0b7"
+"_size" "4954"
