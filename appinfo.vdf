@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1735107186"
+	"store_asset_mtime" "1738177177"
 	"associations"
 	{
 		"0"
@@ -285,9 +285,9 @@
 		{
 			"public"
 			{
-				"gid" "3206268243750806779"
-				"size" "735572830"
-				"download" "342795936"
+				"gid" "3442276356282233806"
+				"size" "738303887"
+				"download" "344725296"
 			}
 		}
 	}
@@ -295,15 +295,15 @@
 	{
 		"public"
 		{
-			"buildid" "16797811"
-			"timeupdated" "1736231754"
+			"buildid" "17180702"
+			"timeupdated" "1738309712"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "2097152"
+	"quota" "50000000"
 	"maxnumfiles" "256"
 	"savefiles"
 	{
@@ -327,9 +327,29 @@
 				"1" "MacOS"
 			}
 		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Asobism/ShapeHero Factory/player2Prefs{64BitSteamID}/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Asobism/ShapeHero Factory/player3Prefs{64BitSteamID}/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26887789"
-"_sha" "57def822ee9ef5facf4d1672c1dbff64bdb8e32b"
-"_size" "6793"
+"_change_number" "27249051"
+"_sha" "201deb1f561c5670a3f18c7a5b1aaa9c14f13992"
+"_size" "7172"
