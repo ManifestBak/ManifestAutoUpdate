@@ -76,7 +76,7 @@
 	"metacritic_name" "Battle Realms"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "3902984e987a875fa38fa1990bc0dc8987cedb55/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -86,11 +86,13 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "100"
+			"pinned_position" "UpperCenter"
+			"width_pct" "50.05820721769499"
 			"height_pct" "100"
 		}
 	}
@@ -100,43 +102,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "d52e9ef535ab55a755916a32be1816e57beeb41b/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "d52e9ef535ab55a755916a32be1816e57beeb41b/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "558bbc92ed9d17378d7b87dc89832646c1ea22db/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "558bbc92ed9d17378d7b87dc89832646c1ea22db/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "558bbc92ed9d17378d7b87dc89832646c1ea22db/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "100"
+				"pinned_position" "UpperCenter"
+				"width_pct" "50.05820721769499"
 				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "53adcdc0316a299c48ff7921d1000488884c24de/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "53adcdc0316a299c48ff7921d1000488884c24de/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5b60dcee551febb71a9bac2f4b53e6b20eee93ef/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5b60dcee551febb71a9bac2f4b53e6b20eee93ef/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1736442569"
+	"store_asset_mtime" "1738267751"
 	"associations"
 	{
 		"0"
@@ -172,6 +192,7 @@
 		"category_38" "1"
 		"category_13" "1"
 		"category_23" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -273,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "6859357471802434530"
-				"size" "2787598997"
-				"download" "1428554704"
+				"gid" "125343991974097195"
+				"size" "2787595925"
+				"download" "1428554144"
 			}
 		}
 	}
@@ -285,8 +306,8 @@
 	{
 		"public"
 		{
-			"buildid" "17150943"
-			"timeupdated" "1738020952"
+			"buildid" "17171404"
+			"timeupdated" "1738276332"
 		}
 	}
 	"privatebranches" "1"
@@ -330,6 +351,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27192168"
-"_sha" "057ec907e87933ee07cb55a020f676c74baf6b75"
-"_size" "5936"
+"_change_number" "27243492"
+"_sha" "345f6b115ef122575acc90bbe287c9426445ed2a"
+"_size" "6706"
