@@ -175,6 +175,8 @@
 		"category_18" "1"
 		"category_27" "1"
 		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -212,7 +214,7 @@
 		"19" "493"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -271,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "7886040254091686955"
-				"size" "1591370899"
-				"download" "1456717024"
+				"gid" "6233959690111466069"
+				"size" "1639480721"
+				"download" "1505263632"
 			}
 			"legacy"
 			{
@@ -282,22 +284,13 @@
 				"download" "3741930128"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"deving"
-			{
-				"gid" "5E15F70673BD072BDD14877CA578FA7F"
-				"size" "7070670333E0609D7569C2DCF8184757"
-				"download" "64D324EE7669FCF686EE267E5213C500"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16676394"
-			"timeupdated" "1733719902"
+			"buildid" "17195694"
+			"timeupdated" "1738311926"
 		}
 		"legacy"
 		{
@@ -305,13 +298,8 @@
 			"description" "DeadPoly\'s Legacy version."
 			"timeupdated" "1681065612"
 		}
-		"deving"
-		{
-			"buildid" "16676537"
-			"pwdrequired" "1"
-			"timeupdated" "1733720314"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -347,6 +335,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26552309"
-"_sha" "2217d107f396972c4971dede6a1be476fa4ce434"
-"_size" "6398"
+"_change_number" "27249466"
+"_sha" "dc32296803ad1e217310252dc5bafb137f42d5a9"
+"_size" "6158"
