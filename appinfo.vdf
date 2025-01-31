@@ -19,6 +19,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_68ee235ce723b7b38ff0ba758511a0fff624bafc.jpg"
 	"store_asset_mtime" "1584995698"
 	"associations"
 	{
@@ -87,6 +88,8 @@
 		"1" "599"
 		"2" "492"
 	}
+	"review_score" "7"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -108,18 +111,9 @@
 		{
 			"public"
 			{
-				"gid" "6163665214162578576"
-				"size" "1082910832"
-				"download" "798332224"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"qa_internal"
-			{
-				"gid" "3AB4EC4FCB78F81A96BCC9B96FB9CF64"
-				"size" "F920BFC5B1720F6A98DE218D835206FC"
-				"download" "13580B98ED3B466ADCB1E13D74C76891"
+				"gid" "6163687836313925507"
+				"size" "1744811663"
+				"download" "1325270624"
 			}
 		}
 	}
@@ -127,16 +121,11 @@
 	{
 		"public"
 		{
-			"buildid" "10813489"
-			"timeupdated" "1679679929"
-		}
-		"qa_internal"
-		{
-			"buildid" "10813489"
-			"pwdrequired" "1"
-			"timeupdated" "1679337536"
+			"buildid" "17164276"
+			"timeupdated" "1738337299"
 		}
 	}
+	"privatebranches" "1"
 }
 "albummetadata"
 {
@@ -144,8 +133,378 @@
 	{
 		"album_cover" "b8c1cb603ef702d68c4251d6afa994e4197bacbb"
 	}
+	"metadata"
+	{
+		"artist"
+		{
+			"german" ""
+			"english" "Audinity"
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+			"indonesian" ""
+		}
+		"composer"
+		{
+			"german" ""
+			"english" "Yannick Suess, Robin Birner"
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+			"indonesian" ""
+		}
+		"label"
+		{
+			"german" ""
+			"english" ""
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+			"indonesian" ""
+		}
+		"othercredits"
+		{
+			"german" ""
+			"english" "Solo Viol + Violin - Gaëlle Durand\r\nAccoustic Saz + Guitar - Aleksander Grochocki"
+			"arabic" ""
+			"bulgarian" ""
+			"schinese" ""
+			"tchinese" ""
+			"koreana" ""
+			"danish" ""
+			"latam" ""
+			"spanish" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"hungarian" ""
+			"italian" ""
+			"japanese" ""
+			"norwegian" ""
+			"dutch" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"czech" ""
+			"thai" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+			"indonesian" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Foundation"
+			"m" "2"
+			"s" "12"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Terroir"
+			"m" "6"
+			"s" "52"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Coterie"
+			"m" "3"
+			"s" "0"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Redoubt"
+			"m" "2"
+			"s" "4"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Alis Volat Propriis"
+			"m" "2"
+			"s" "16"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Nuces Relinquere"
+			"m" "1"
+			"s" "23"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Firmly Planted"
+			"m" "1"
+			"s" "30"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Reprieve and Rally"
+			"m" "2"
+			"s" "17"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Reticent Birr"
+			"m" "2"
+			"s" "3"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Semper Pro Grediens"
+			"m" "1"
+			"s" "30"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Of Finer Cloth"
+			"m" "1"
+			"s" "30"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Reverie"
+			"m" "1"
+			"s" "52"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Aere Perennius"
+			"m" "2"
+			"s" "38"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Velum Caligo"
+			"m" "2"
+			"s" "59"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Onus Erstwhile"
+			"m" "2"
+			"s" "18"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Chary Squire"
+			"m" "2"
+			"s" "1"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Gutta Cavat Lapidem"
+			"m" "2"
+			"s" "6"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Ignis Aurum Probat"
+			"m" "2"
+			"s" "28"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Oblecation"
+			"m" "2"
+			"s" "11"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "Uhtceare, ceased"
+			"m" "2"
+			"s" "12"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Ab Intra"
+			"m" "2"
+			"s" "6"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "Gestalt"
+			"m" "3"
+			"s" "3"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "Otia Dant Vitia"
+			"m" "2"
+			"s" "33"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "Apotheosis"
+			"m" "2"
+			"s" "29"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "Ubi Bene, Ibi Patria"
+			"m" "2"
+			"s" "5"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "Hearth And Bulwark"
+			"m" "2"
+			"s" "17"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "Festina Lente"
+			"m" "2"
+			"s" "39"
+		}
+		"27"
+		{
+			"discnumber" "1"
+			"tracknumber" "28"
+			"originalname" "Idyll Moil"
+			"m" "2"
+			"s" "35"
+		}
+		"28"
+		{
+			"discnumber" "2"
+			"tracknumber" "1"
+			"originalname" "BONUS Reticent Birr Piano Version"
+			"m" "2"
+			"s" "16"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "22534048"
-"_sha" "780332b646ce4d6edc66c1d95f54433c1e81df1f"
-"_size" "2395"
+"_change_number" "27255948"
+"_sha" "f8cecd6da78a2ec432676caa8c929273ab86b90c"
+"_size" "8342"
