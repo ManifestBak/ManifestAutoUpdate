@@ -317,30 +317,15 @@
 		{
 			"public"
 			{
-				"gid" "2930914363961495034"
-				"size" "8715246486"
-				"download" "8732816432"
+				"gid" "2049305578572687918"
+				"size" "8713083477"
+				"download" "8728695232"
 			}
 			"publictest"
 			{
-				"gid" "2930914363961495034"
-				"size" "8715246486"
-				"download" "8732816432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "887084E8A2BA4C2850542F5395A6FDFC"
-				"size" "F36A4FD14C9DD02D885804A83546A5E8"
-				"download" "A1A0DAFEA1F80BBBAD4A805785032E54"
-			}
-			"testing"
-			{
-				"gid" "A5F723C107EE7A4135712CA4B14DA07D"
-				"size" "6891992CF1F9F8758A3E696FDE002DBC"
-				"download" "3D5AB43F77FF9AA8B751907A169A329E"
+				"gid" "2049305578572687918"
+				"size" "8713083477"
+				"download" "8728695232"
 			}
 		}
 	}
@@ -355,30 +340,15 @@
 		{
 			"public"
 			{
-				"gid" "4428198556380185057"
-				"size" "8712461342"
-				"download" "8730680432"
+				"gid" "6278850099200080978"
+				"size" "8710298333"
+				"download" "8726559232"
 			}
 			"publictest"
 			{
-				"gid" "4428198556380185057"
-				"size" "8712461342"
-				"download" "8730680432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "CCEFE6C54933DF27775DE0804A2B03DA"
-				"size" "D8EB97B15D8638E5A20011A1404ACF52"
-				"download" "52258FF5711784442B16535ACF8AD66E"
-			}
-			"testing"
-			{
-				"gid" "E7C6D44A94A44F9060C947B95BF2AE51"
-				"size" "0161E497DBFEA71EBAF2C3E656B0EF9E"
-				"download" "A8976DB9E88FA5706CC526E4F5FAF097"
+				"gid" "6278850099200080978"
+				"size" "8710298333"
+				"download" "8726559232"
 			}
 		}
 	}
@@ -404,21 +374,6 @@
 				"download" "6682452416"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "EDB681866A24680F0ACA49C2E9D477D0"
-				"size" "1A6A1CEE04A09AF633EEE92B567E0396"
-				"download" "C3E22B84D822F12123358FBEA7B4769A"
-			}
-			"testing"
-			{
-				"gid" "C73C8697AE20D9700B6F4A8D8B35214A"
-				"size" "719EEA1CC1A26F327C92E29D2DFD764E"
-				"download" "0C4C9AB2B5458D93B2DB16E72DD5A60C"
-			}
-		}
 	}
 	"465494"
 	{
@@ -442,21 +397,6 @@
 				"download" "6536178736"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "3E5C207189C96A4FC9AECAE7A5A54989"
-				"size" "F3EAF4229FCBAFC9871FFB7D6C2ABE8F"
-				"download" "6CAC9201E9A6D7DE6C030C277CACC0DB"
-			}
-			"testing"
-			{
-				"gid" "A3E197F4432B8F9B45B7256ADF12C26D"
-				"size" "FBCC219AC0A2A1A5F9D308C168FA5E49"
-				"download" "2F1D08FAFE527F5C8DF2AC8FD3C647F3"
-			}
-		}
 	}
 	"1641980"
 	{
@@ -476,48 +416,22 @@
 				"download" "114758656"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "D6D5465E5ECDBBF50721BA32E981AF69"
-				"size" "3547C8F1B6E9885531A9ADCD826687C7"
-				"download" "4645D9CF4D95C3194CEC02FE26E669D3"
-			}
-			"testing"
-			{
-				"gid" "332255D77E65AF511166C910733482B0"
-				"size" "0B5ED02E1D390601A57151B0CD57DE9C"
-				"download" "A3E97AC9AEE599E11F6BA23BC6E0EBC0"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16862224"
-			"timeupdated" "1735326966"
-		}
-		"devbranch"
-		{
-			"buildid" "16862224"
-			"pwdrequired" "1"
-			"timeupdated" "1735326573"
+			"buildid" "17201297"
+			"timeupdated" "1738343016"
 		}
 		"publictest"
 		{
-			"buildid" "16862224"
+			"buildid" "17201297"
 			"description" "Public Testing Branch"
-			"timeupdated" "1735326913"
-		}
-		"testing"
-		{
-			"buildid" "16862224"
-			"pwdrequired" "1"
-			"timeupdated" "1735326927"
+			"timeupdated" "1738342801"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -568,6 +482,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26799382"
-"_sha" "5ba5c69113270fb3b74e1db47da352c4d6d98ccc"
-"_size" "9929"
+"_change_number" "27257750"
+"_sha" "61bfba012304ce96bbc2d9b72611ee6a3f616d99"
+"_size" "7834"
