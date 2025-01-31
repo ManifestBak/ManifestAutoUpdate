@@ -232,13 +232,13 @@
 		"10" "4345"
 		"11" "4182"
 		"12" "3993"
-		"13" "1756"
-		"14" "3839"
-		"15" "597"
-		"16" "5547"
-		"17" "4026"
-		"18" "3942"
-		"19" "3859"
+		"13" "3839"
+		"14" "5547"
+		"15" "3942"
+		"16" "4026"
+		"17" "3859"
+		"18" "7481"
+		"19" "1756"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -278,15 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "3303021124928545444"
-				"size" "7540951842"
-				"download" "6172925120"
-			}
-			"beta"
-			{
-				"gid" "3303021124928545444"
-				"size" "7540951842"
-				"download" "6172925120"
+				"gid" "5209197516293882716"
+				"size" "7548796204"
+				"download" "6179099168"
 			}
 			"modding"
 			{
@@ -312,20 +306,11 @@
 				"size" "7149097038"
 				"download" "5852812048"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"demo"
+			"beta"
 			{
-				"gid" "8070D3439EDABCD42CCFF588591D05C7"
-				"size" "6F9A78678EFC3196D007E4334CD0F2C1"
-				"download" "B65594471464626451C49C6E248D758B"
-			}
-			"internal"
-			{
-				"gid" "0FCD557871848590B170D6445ED1957B"
-				"size" "51B8316E00B61C55AC5D170BEC6C387C"
-				"download" "530E43E5AF688C4A781D66AE3E1E48BE"
+				"gid" "5209197516293882716"
+				"size" "7548796204"
+				"download" "6179099168"
 			}
 		}
 	}
@@ -342,26 +327,8 @@
 	{
 		"public"
 		{
-			"buildid" "14052743"
-			"timeupdated" "1713200846"
-		}
-		"beta"
-		{
-			"buildid" "14052743"
-			"description" "Beta branch for testing new and upcoming features"
-			"timeupdated" "1713154112"
-		}
-		"demo"
-		{
-			"buildid" "12882490"
-			"pwdrequired" "1"
-			"timeupdated" "1701802966"
-		}
-		"internal"
-		{
-			"buildid" "14052743"
-			"pwdrequired" "1"
-			"timeupdated" "1713158829"
+			"buildid" "17196456"
+			"timeupdated" "1738342098"
 		}
 		"modding"
 		{
@@ -387,7 +354,14 @@
 			"description" "Legacy branch"
 			"timeupdated" "1713200760"
 		}
+		"beta"
+		{
+			"buildid" "17196456"
+			"description" "Beta branch for testing new and upcoming features"
+			"timeupdated" "1738315336"
+		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -419,3 +393,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27257410"
+"_sha" "0eca96546c6a1903e21753e9d73c717b05bf431b"
+"_size" "7136"
