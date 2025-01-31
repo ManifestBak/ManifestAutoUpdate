@@ -49,6 +49,11 @@
 		"category_1" "1"
 		"category_2" "1"
 		"category_9" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -90,6 +95,7 @@
 	"steam_release_date" "1404401700"
 	"metacritic_score" "77"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/soldiers-heroes-of-world-war-ii\?ftag=MCD-06-10aaa1f"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "11480"
 	"store_tags"
@@ -144,6 +150,30 @@
 				"osarch" "32"
 			}
 		}
+		"3"
+		{
+			"executable" "Soldiers.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "old_version"
+			}
+			"description_loc"
+			{
+				"english" "old version of Soldiers: Heroes of WWII"
+			}
+			"description" "old version of Soldiers: Heroes of WWII"
+		}
+		"4"
+		{
+			"executable" "soldiers_dev.exe"
+			"arguments" "-edit"
+			"type" "editor"
+			"config"
+			{
+				"betakey" "build_test patch_beta"
+			}
+		}
 	}
 }
 "depots"
@@ -156,24 +186,15 @@
 		{
 			"public"
 			{
-				"gid" "5517194944516051715"
-				"size" "1551497392"
-				"download" "1524818720"
+				"gid" "7746209791699764210"
+				"size" "1571910163"
+				"download" "1538233664"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "5A8183676E15E31A1419AC63360D1F5E"
-				"size" "E12F61166DD6F72505521F0BE568D39F"
-				"download" "86A9829A1D207A3BC07581874EDAF458"
-			}
-			"launcher"
-			{
-				"gid" "A677CE648B676B92648D616D08B44FD8"
-				"size" "035F9BC06DD24061C67561ABD5E144B2"
-				"download" "8EE8E2CA7D34636758457CF4FA016371"
+				"gid" "5421709221901619544"
+				"size" "1491639787"
+				"download" "0"
 			}
 		}
 	}
@@ -187,24 +208,15 @@
 		{
 			"public"
 			{
-				"gid" "7142747771662184245"
-				"size" "20760016"
-				"download" "20981008"
+				"gid" "766839692899270128"
+				"size" "20760007"
+				"download" "20980992"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "140578ED76068B0909D7E03F10FBB529"
-				"size" "BB6B55061370A8BC6DDCD8F93506AE1D"
-				"download" "5E565C2279302984FB8AE79146262E10"
-			}
-			"launcher"
-			{
-				"gid" "88E0849CE3A7496480D467F636EBAF3C"
-				"size" "F0142CE177917DE7A47920D8D57B239A"
-				"download" "89579294E6C832838F5A47D791E2CFDA"
+				"gid" "1302744725121352355"
+				"size" "938073"
+				"download" "0"
 			}
 		}
 	}
@@ -218,24 +230,15 @@
 		{
 			"public"
 			{
-				"gid" "3806274060417135242"
-				"size" "20760809"
-				"download" "20981808"
+				"gid" "2150292361558824753"
+				"size" "20760445"
+				"download" "20981456"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "1B9CB13E267181157FA095CE0FE67401"
-				"size" "AC3787248D1A15BE11E4F3BA3F5B3CB2"
-				"download" "29DC15A4FD123B04561D21E3DE240175"
-			}
-			"launcher"
-			{
-				"gid" "2B45EEABF2FBC0C9CFEAFFFBB7EAAEFE"
-				"size" "212B853BF03D6A4A1EFDEA5D6406CCC5"
-				"download" "33419B13010BC0136146742D75053DCF"
+				"gid" "260541677295232429"
+				"size" "957435"
+				"download" "0"
 			}
 		}
 	}
@@ -249,24 +252,15 @@
 		{
 			"public"
 			{
-				"gid" "447826508606419740"
-				"size" "20762987"
-				"download" "20984016"
+				"gid" "1423478888190295987"
+				"size" "20762594"
+				"download" "20983616"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "B6D1BBA5092EA8D105E646DB9C482D09"
-				"size" "73F0ACE251C7E18895BCC204B07BD89E"
-				"download" "E598D6702D7D8C7D148A4BA3250AC83D"
-			}
-			"launcher"
-			{
-				"gid" "8098511A3232D13DB1C9111286FF39FA"
-				"size" "F92B516A1356F0E849C22354307D6B72"
-				"download" "8DA338624A3433D547EC597766F875CD"
+				"gid" "7547324546058651030"
+				"size" "843658"
+				"download" "0"
 			}
 		}
 	}
@@ -280,24 +274,15 @@
 		{
 			"public"
 			{
-				"gid" "5349670166343830811"
-				"size" "20760295"
-				"download" "20981264"
+				"gid" "7433452771367007332"
+				"size" "20759889"
+				"download" "20980896"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "23D5EBE442905831D43843F579BFA951"
-				"size" "E2133356AB4BCF432C394EF10066A723"
-				"download" "D70866B64D84913CE453EA08621A91F3"
-			}
-			"launcher"
-			{
-				"gid" "1853591E378DAC48F3EE775C44335E92"
-				"size" "7390940F54893DF6422589C150DFB678"
-				"download" "F9C8C11DCAB659E5BE1D53C04A5CB449"
+				"gid" "3694395796761610311"
+				"size" "930583"
+				"download" "0"
 			}
 		}
 	}
@@ -311,24 +296,15 @@
 		{
 			"public"
 			{
-				"gid" "8411933418449534116"
-				"size" "20761125"
-				"download" "20982128"
+				"gid" "5803153658846693568"
+				"size" "20760883"
+				"download" "20981872"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "DB14C5F043BC4E113585ABF32B208FFC"
-				"size" "B4E5D165F8D85396932B91C6A4CAED3F"
-				"download" "8B54016DBCEE2437574C04201751F1EC"
-			}
-			"launcher"
-			{
-				"gid" "44287F15FE85E3AF7D09EB43856B5864"
-				"size" "B2E63FBC595672AC6013E24C20110434"
-				"download" "414124A85A43760B3404DA6D2B001D88"
+				"gid" "8225293236202010334"
+				"size" "973584"
+				"download" "0"
 			}
 		}
 	}
@@ -343,49 +319,52 @@
 		{
 			"public"
 			{
-				"gid" "3202089688302444706"
-				"size" "107120557"
-				"download" "104142208"
+				"gid" "8036293280218767369"
+				"size" "107120229"
+				"download" "104141792"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"build_test"
+			"old_version"
 			{
-				"gid" "07C8238F951E8100501AE1057D19574D"
-				"size" "02DFD1F507A47BE29123B5FDD7A26440"
-				"download" "E1CB51809BC33DBC977ED4989F74EF14"
-			}
-			"launcher"
-			{
-				"gid" "D4A9486761D5153BFCB7929F01012F49"
-				"size" "D112B6B2B88659A8A6F86EA874CF3A38"
-				"download" "CA5EF8A33011A1F8D831C5C502C4C24B"
+				"gid" "8504150141512381787"
+				"size" "965081148"
+				"download" "0"
 			}
 		}
 	}
+	"workshopdepot" "11480"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17067048"
-			"timeupdated" "1737389911"
+			"buildid" "17124275"
+			"timeupdated" "1738328782"
 		}
-		"build_test"
+		"old_version"
 		{
-			"buildid" "17067048"
-			"pwdrequired" "1"
-			"timeupdated" "1737389663"
+			"buildid" "315092"
+			"description" "Original Soldiers: Heroes of WWII"
+			"timeupdated" "1737473455"
 		}
-		"launcher"
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
 		{
-			"buildid" "17067048"
-			"pwdrequired" "1"
-			"timeupdated" "1737389928"
+			"root" "WinAppDataLocal"
+			"path" "Soldiers Heroes of World War 2/profiles/player/save"
+			"pattern" "*.*"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27078894"
-"_sha" "643ee6ba8b820f3e1e4b4066c16c34381ce8a3c6"
-"_size" "7237"
+"_change_number" "27253461"
+"_sha" "dcc84143b42d011d6451d8f54d4f87605ab3e056"
+"_size" "6130"
