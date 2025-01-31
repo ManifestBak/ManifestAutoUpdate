@@ -20,6 +20,15 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"norwegian" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -272,8 +281,8 @@
 		"18" "1708"
 		"19" "3834"
 	}
-	"review_score" "6"
-	"review_percentage" "75"
+	"review_score" "8"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -360,9 +369,9 @@
 		{
 			"public"
 			{
-				"gid" "485075436311951783"
-				"size" "1837502910"
-				"download" "824026320"
+				"gid" "757022650072598678"
+				"size" "1837594509"
+				"download" "823985200"
 			}
 		}
 	}
@@ -376,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "407350361415360172"
-				"size" "1854356692"
-				"download" "828266288"
+				"gid" "8259111102961866365"
+				"size" "1859798315"
+				"download" "830183840"
 			}
 		}
 	}
@@ -399,8 +408,8 @@
 	{
 		"public"
 		{
-			"buildid" "17094778"
-			"timeupdated" "1737572182"
+			"buildid" "17199018"
+			"timeupdated" "1738335541"
 		}
 	}
 	"privatebranches" "1"
@@ -433,6 +442,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27122106"
-"_sha" "6f1976e10ecc0d505dd7b1696d3beddd04afc4e8"
-"_size" "7785"
+"_change_number" "27255358"
+"_sha" "7e3a86c80fc0ecad477753fff5af064afeeaf660"
+"_size" "7951"
