@@ -119,6 +119,59 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1724072304"
 	"associations"
 	{
@@ -300,10 +353,10 @@
 		"3" "21"
 		"4" "3859"
 		"5" "597"
-		"6" "4166"
-		"7" "5608"
-		"8" "4726"
-		"9" "3839"
+		"6" "5608"
+		"7" "4166"
+		"8" "3839"
+		"9" "4726"
 		"10" "4191"
 		"11" "5716"
 		"12" "5711"
@@ -407,30 +460,9 @@
 		{
 			"public"
 			{
-				"gid" "4728325168967245483"
-				"size" "7626035794"
-				"download" "4008866096"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "6818CA046D3F8A4FD1518490F5F9F29A"
-				"size" "C412664675B3375795E93EB8CF88623C"
-				"download" "3FA4193C55E12AD1A13E70DD2CA52320"
-			}
-			"development2"
-			{
-				"gid" "67AC51C9E27001BD177EE2D6A2C96D4F"
-				"size" "F67959514BE4EB9CF3F74F2263CECAED"
-				"download" "CC68EB599EFA51F71B0E249BE8A8782B"
-			}
-			"development3"
-			{
-				"gid" "F6E4092416613AE613D05D56F32D413B"
-				"size" "FB2E32818A3EB985929DB98A022CAF24"
-				"download" "AC3091605DD6372BCA94757D8462FF89"
+				"gid" "1708125293676376698"
+				"size" "7626095659"
+				"download" "4008844192"
 			}
 		}
 	}
@@ -439,213 +471,18 @@
 	{
 		"public"
 		{
-			"buildid" "12307374"
-			"timeupdated" "1697442851"
-		}
-		"development"
-		{
-			"buildid" "12307374"
-			"pwdrequired" "1"
-			"timeupdated" "1695909142"
-		}
-		"development2"
-		{
-			"buildid" "11921298"
-			"pwdrequired" "1"
-			"timeupdated" "1691758412"
-		}
-		"development3"
-		{
-			"buildid" "12169923"
-			"pwdrequired" "1"
-			"timeupdated" "1694530661"
+			"buildid" "17195680"
+			"timeupdated" "1738312605"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "32000000"
 	"maxnumfiles" "5"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Browsing The Menus"
-				"#exploring" "Exploring"
-			}
-		}
-		"arabic"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "تصفح القوائم"
-				"#exploring" "استكشاف"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Navegando pelos menus"
-				"#exploring" "Explorando"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "浏览菜单"
-				"#exploring" "探险中"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "瀏覽選單"
-				"#exploring" "探索中"
-			}
-		}
-		"czech"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Prohlížení nabídek"
-				"#exploring" "Objevování"
-			}
-		}
-		"danish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Browsing i menuerne"
-				"#exploring" "Udforskning af"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Door menu\'s bladeren"
-				"#exploring" "Verkennen"
-			}
-		}
-		"finnish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Valikoiden selaaminen"
-				"#exploring" "Tutustuminen"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Parcourir les menus"
-				"#exploring" "Explorer"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Browse in den Menüs"
-				"#exploring" "Erkunde"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Navigazione nei menu"
-				"#exploring" "Esplorazione"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "メニューを閲覧中"
-				"#exploring" "探検"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "메뉴 탐색 중"
-				"#exploring" "탐색 중"
-			}
-		}
-		"norwegian"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Bla gjennom menyene"
-				"#exploring" "Utforsker"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Przeglądanie menu"
-				"#exploring" "Eksploracja"
-			}
-		}
-		"portuguese"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "A navegar pelos menus"
-				"#exploring" "A explorar"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Просмотр меню"
-				"#exploring" "В путешествии"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Viendo los menús"
-				"#exploring" "Explorando"
-			}
-		}
-		"swedish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Bläddrar i menyerna"
-				"#exploring" "Utforskar"
-			}
-		}
-		"thai"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "เรียกดูเมนู"
-				"#exploring" "สำรวจ"
-			}
-		}
-		"turkish"
-		{
-			"tokens"
-			{
-				"#browsingthemenus" "Menüde"
-				"#exploring" "Keşif Yapılıyor"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "27249616"
+"_sha" "5c4ef13cf2781520fe792144d528f97c74f643a4"
+"_size" "8665"
