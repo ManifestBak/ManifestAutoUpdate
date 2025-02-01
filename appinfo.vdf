@@ -395,7 +395,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "continuous, crossplay, farmhouse, enduring, spam"
+				"betakey" "continuous, crossplay, farmhouse, enduring, spam, qa_staging, playtest1"
 			}
 			"description_loc"
 			{
@@ -406,19 +406,36 @@
 		"4"
 		{
 			"executable" "ShooterGame\\Binaries\\Win64\\ArkAscended_BE.exe"
-			"arguments" "-VideoReplayEnabled=false -gpucrashdebugging"
+			"arguments" "-VideoReplayEnabled=false -gpucrashdebugging -log"
 			"workingdir" "ShooterGame\\Binaries\\Win64"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "continuous, crossplay, farmhouse, enduring, spam"
+				"betakey" "continuous, crossplay, farmhouse, enduring, spam, qa_staging, playtest1"
 			}
 			"description_loc"
 			{
-				"english" "QA use this for everyday work. Standard shipping build with extra debugging arguments."
+				"english" "QA"
 			}
-			"description" "QA use this for everyday work. Standard shipping build with extra debugging arguments."
+			"description" "QA"
+		}
+		"5"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ArkAscended.exe"
+			"arguments" "-VideoReplayEnabled=false -gpucrashdebugging -log"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "continuous, crossplay, farmhouse, enduring, spam, qa_staging, playtest1"
+			}
+			"description_loc"
+			{
+				"english" "QA No Battle Eye"
+			}
+			"description" "QA No Battle Eye"
 		}
 	}
 }
@@ -449,9 +466,9 @@
 		{
 			"public"
 			{
-				"gid" "1101238257474400651"
-				"size" "219370747150"
-				"download" "196566687984"
+				"gid" "1593860470507910240"
+				"size" "222782648887"
+				"download" "197457640928"
 			}
 			"public_test_realm"
 			{
@@ -473,8 +490,8 @@
 	{
 		"public"
 		{
-			"buildid" "16985851"
-			"timeupdated" "1736792512"
+			"buildid" "17193300"
+			"timeupdated" "1738368985"
 		}
 		"public_test_realm"
 		{
@@ -491,6 +508,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "26976716"
-"_sha" "5ed5fd65032cb0fc1eadad374b6850654035b9a6"
-"_size" "9193"
+"_change_number" "27263230"
+"_sha" "9578ac7248d6abee47a07404d8fb52f8ed9bccf8"
+"_size" "9544"
