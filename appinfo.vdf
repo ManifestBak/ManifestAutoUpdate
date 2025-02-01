@@ -4,7 +4,7 @@
 	"name" "Ultimate Zombie Defense 2"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows"
+	"oslist" "windows,linux"
 	"osarch" "64"
 	"osextended" ""
 	"clienticon" "85f7a0bec61f76cadcf57f034b216fcc60de21ac"
@@ -374,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "3396494343852797525"
-				"size" "14918727685"
-				"download" "12945694544"
+				"gid" "4921518099631657306"
+				"size" "14835856878"
+				"download" "12881144784"
 			}
 		}
 	}
@@ -386,15 +386,14 @@
 		{
 			"oslist" "linux"
 			"osarch" "64"
-			"steamdeck" "1"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1496924343914919971"
-				"size" "15631764392"
-				"download" "13394729888"
+				"gid" "6418687635498784888"
+				"size" "15546559741"
+				"download" "13327297808"
 			}
 		}
 	}
@@ -402,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "17143439"
-			"timeupdated" "1737977437"
+			"buildid" "17200246"
+			"timeupdated" "1738409203"
 		}
 	}
 	"privatebranches" "1"
@@ -441,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27181977"
-"_sha" "9c8aebac4b8a80c8946d0e9bee430df417032973"
-"_size" "9165"
+"_change_number" "27267822"
+"_sha" "c8c18751b0a0bd526011bfe6f4f7cc978eee719e"
+"_size" "9150"
