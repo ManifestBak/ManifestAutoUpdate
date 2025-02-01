@@ -243,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "3876214931482170300"
-				"size" "24286986106"
-				"download" "16180435440"
+				"gid" "6610375686547862040"
+				"size" "24297339077"
+				"download" "16189586240"
 			}
 			"update110"
 			{
@@ -261,15 +261,15 @@
 			}
 			"alpha"
 			{
-				"gid" "3876214931482170300"
-				"size" "24286986106"
-				"download" "16180435440"
+				"gid" "6610375686547862040"
+				"size" "24297339077"
+				"download" "16189586240"
 			}
 			"experimental"
 			{
-				"gid" "3876214931482170300"
-				"size" "24286986106"
-				"download" "16180435440"
+				"gid" "6610375686547862040"
+				"size" "24297339077"
+				"download" "16189586240"
 			}
 			"update112"
 			{
@@ -290,23 +290,14 @@
 				"download" "15891067792"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closedinternaltesting"
-			{
-				"gid" "3BD1AA094C9A47AE3222BB7E5AFF0730"
-				"size" "BE594851F9EAACA112C8A76D1A5863EA"
-				"download" "DF329C90EA78B8F5E83BE3094B22BCC6"
-			}
-		}
 	}
 	"workshopdepot" "450540"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16903445"
-			"timeupdated" "1735959326"
+			"buildid" "17206556"
+			"timeupdated" "1738377758"
 		}
 		"update110"
 		{
@@ -322,21 +313,15 @@
 		}
 		"alpha"
 		{
-			"buildid" "16903445"
+			"buildid" "17206556"
 			"description" "Mod Safe"
-			"timeupdated" "1735959299"
-		}
-		"closedinternaltesting"
-		{
-			"buildid" "16903445"
-			"pwdrequired" "1"
-			"timeupdated" "1735951156"
+			"timeupdated" "1738377740"
 		}
 		"experimental"
 		{
-			"buildid" "16903445"
+			"buildid" "17206556"
 			"description" "NOT MOD SAFE!!!"
-			"timeupdated" "1735959307"
+			"timeupdated" "1738377732"
 		}
 		"update112"
 		{
@@ -357,8 +342,9 @@
 			"timeupdated" "1734145118"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26858311"
-"_sha" "f8146d52bb4bbb73b62f20054b5c5c7532e18a6c"
-"_size" "6438"
+"_change_number" "27264540"
+"_sha" "3d0fa81e68c4b0614dea086f88836e0432c05241"
+"_size" "6124"
