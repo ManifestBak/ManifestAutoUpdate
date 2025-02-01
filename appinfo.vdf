@@ -215,8 +215,8 @@
 		"10" "3993"
 		"11" "492"
 		"12" "32322"
-		"13" "1775"
-		"14" "7569"
+		"13" "7569"
+		"14" "1775"
 		"15" "7481"
 		"16" "3859"
 		"17" "4085"
@@ -288,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "7004129057733235252"
-				"size" "534834816"
-				"download" "272025904"
+				"gid" "2782696478008922988"
+				"size" "534875057"
+				"download" "272042384"
 			}
 			"multi-keyboard"
 			{
@@ -311,21 +311,6 @@
 				"download" "253317296"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "508590AB73BD074C2E4DE56F950099D3"
-				"size" "0E9CF9F49F3C9F58EDEBB8C0B7A9C0E9"
-				"download" "1E815562BDEE5240053DA4EA48BCC0B4"
-			}
-			"s2test"
-			{
-				"gid" "4F3017726A203C0002BA851D72B9D830"
-				"size" "DBFD032022D6855E9EFE8E97FD3B8993"
-				"download" "A31A9116D47E264CD994A89DB5A29E1B"
-			}
-		}
 	}
 	"1664202"
 	{
@@ -337,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "2361711818871823592"
-				"size" "562909377"
-				"download" "279442784"
+				"gid" "3621899747197713967"
+				"size" "562947795"
+				"download" "279462928"
 			}
 			"multi-keyboard"
 			{
@@ -360,21 +345,6 @@
 				"download" "260737424"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "3C6C4C41BAD1F57B7B28363EF3770730"
-				"size" "1D922CF1ED31F622AF3BDDBA1A2BAEE6"
-				"download" "0D4A01B85382DA813C8E3040D18FCC81"
-			}
-			"s2test"
-			{
-				"gid" "CCAFBA0B2F105DEDE863C4447B84E610"
-				"size" "628F8E1C962FF4D6DB3499E85CD5EB7D"
-				"download" "9D9D6731FF88D5B98CA3A098670408A7"
-			}
-		}
 	}
 	"1664203"
 	{
@@ -386,9 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "102181222614917414"
-				"size" "575265522"
-				"download" "271195008"
+				"gid" "2852255477443124783"
+				"size" "575306600"
+				"download" "271208240"
 			}
 			"multi-keyboard"
 			{
@@ -409,34 +379,13 @@
 				"download" "252460816"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "1DF9864C19E15889619AF9CB64C62A59"
-				"size" "B50611D72D0533FBBC90965DE74CFBF3"
-				"download" "2DF38A847B4BF7F2EB0CD06AD8037EF1"
-			}
-			"s2test"
-			{
-				"gid" "EF9CE628BF44DAE5A31CF1B9F25DCF43"
-				"size" "E3AF4ABF6FE38FD6F4D77E4E486EC49D"
-				"download" "2A56BE623A01C6208457A2CBBA507A4E"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16837001"
-			"timeupdated" "1734977538"
-		}
-		"beta"
-		{
-			"buildid" "16837001"
-			"pwdrequired" "1"
-			"timeupdated" "1734977327"
+			"buildid" "17207255"
+			"timeupdated" "1738379463"
 		}
 		"multi-keyboard"
 		{
@@ -450,12 +399,6 @@
 			"description" "previous build for watching old replays"
 			"timeupdated" "1733605838"
 		}
-		"s2test"
-		{
-			"buildid" "15572751"
-			"pwdrequired" "1"
-			"timeupdated" "1725329102"
-		}
 		"tournament"
 		{
 			"buildid" "14991281"
@@ -463,6 +406,7 @@
 			"timeupdated" "1722269387"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -483,6 +427,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26765340"
-"_sha" "efb2db8cf2120306bcdbd7b8617e6f4138f5397d"
-"_size" "8948"
+"_change_number" "27264749"
+"_sha" "4bb56d1af426ecd79aba2cdbc7e33f8cc83b2ff7"
+"_size" "7642"
