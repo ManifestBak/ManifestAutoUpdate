@@ -312,15 +312,21 @@
 		{
 			"public"
 			{
-				"gid" "3877269253217305642"
-				"size" "677421672"
-				"download" "204911312"
+				"gid" "4106349520961940904"
+				"size" "677422248"
+				"download" "204911072"
+			}
+			"old_stable"
+			{
+				"gid" "1333307337039777674"
+				"size" "676745176"
+				"download" "204823952"
 			}
 			"open_beta"
 			{
-				"gid" "3877269253217305642"
-				"size" "677421672"
-				"download" "204911312"
+				"gid" "4106349520961940904"
+				"size" "677422248"
+				"download" "204911072"
 			}
 		}
 	}
@@ -333,6 +339,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7667211823833263983"
+				"size" "34025984"
+				"download" "10421216"
+			}
+			"old_stable"
 			{
 				"gid" "7667211823833263983"
 				"size" "34025984"
@@ -360,6 +372,12 @@
 				"size" "34492936"
 				"download" "10859600"
 			}
+			"old_stable"
+			{
+				"gid" "3030394590881040616"
+				"size" "34492936"
+				"download" "10859600"
+			}
 			"open_beta"
 			{
 				"gid" "3030394590881040616"
@@ -372,14 +390,20 @@
 	{
 		"public"
 		{
-			"buildid" "17188058"
-			"timeupdated" "1738262845"
+			"buildid" "17209805"
+			"timeupdated" "1738414309"
+		}
+		"old_stable"
+		{
+			"buildid" "17132082"
+			"description" "Older stable releases"
+			"timeupdated" "1738372073"
 		}
 		"open_beta"
 		{
-			"buildid" "17188058"
+			"buildid" "17209805"
 			"description" "Open beta for players"
-			"timeupdated" "1738262766"
+			"timeupdated" "1738414244"
 		}
 	}
 	"privatebranches" "1"
@@ -433,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27240666"
-"_sha" "5977fb41cf0049f4441b1900a4545db7d3fa0926"
-"_size" "7985"
+"_change_number" "27268383"
+"_sha" "bebba6e58d980e42d82f5c50fce6cf20545084bd"
+"_size" "8459"
