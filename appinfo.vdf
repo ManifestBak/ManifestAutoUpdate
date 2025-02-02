@@ -25,15 +25,25 @@
 	"restricted_countries" "CN,DE"
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1722470400"
-		"tested_build_id" "14955626"
+		"category" "2"
+		"test_timestamp" "1732924800"
+		"tested_build_id" "16503670"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
 		"configuration"
@@ -160,10 +170,10 @@
 		"1" "4046"
 		"2" "4604"
 		"3" "9551"
-		"4" "4947"
-		"5" "3799"
-		"6" "122"
-		"7" "6426"
+		"4" "3799"
+		"5" "4947"
+		"6" "6426"
+		"7" "122"
 		"8" "1742"
 		"9" "4486"
 		"10" "19995"
@@ -233,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "140420469718341503"
-				"size" "6160183132"
-				"download" "5958424528"
+				"gid" "5696560723955482778"
+				"size" "6360611641"
+				"download" "6093203312"
 			}
 		}
 	}
@@ -250,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "4754201782833948869"
-				"size" "6160183132"
-				"download" "5958429808"
+				"gid" "4645987882294919865"
+				"size" "6360611641"
+				"download" "6093678656"
 			}
 		}
 	}
@@ -267,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "1350072865838317633"
-				"size" "6160183132"
-				"download" "5958429808"
+				"gid" "2416859426250194389"
+				"size" "6360611641"
+				"download" "6093678656"
 			}
 		}
 	}
@@ -277,8 +287,8 @@
 	{
 		"public"
 		{
-			"buildid" "16503670"
-			"timeupdated" "1732298862"
+			"buildid" "17216806"
+			"timeupdated" "1738519319"
 		}
 	}
 }
@@ -345,6 +355,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26326548"
-"_sha" "d9d414cf3b45963010d3a306862a47e9077792bf"
-"_size" "5725"
+"_change_number" "27278931"
+"_sha" "3ff6f1d2ebac118e5671ff65eca10b56224a5450"
+"_size" "5965"
