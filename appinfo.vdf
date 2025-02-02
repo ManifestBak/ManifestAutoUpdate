@@ -1,0 +1,882 @@
+"appid" "2357570"
+"common"
+{
+	"name" "Overwatch® 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "da42bd294c941d5947b1bc2c2b2efa1313d36a91"
+	"clienticon" "c05905cbf26020ffefcae9b39038d9ad523e2d68"
+	"clienttga" "bed4bf7e1e3a9d8120e7790bd1f7241314bb9e3d"
+	"name_localized"
+	{
+		"french" "Overwatch® 2"
+		"german" "Overwatch® 2"
+		"italian" "Overwatch® 2"
+		"polish" "Overwatch® 2"
+		"portuguese" "Overwatch® 2"
+		"russian" "Overwatch® 2"
+		"spanish" "Overwatch® 2"
+		"turkish" "Overwatch® 2"
+		"brazilian" "Overwatch® 2"
+		"latam" "Overwatch® 2"
+		"japanese" "「オーバーウォッチ® 2」"
+		"koreana" "오버워치™ 2"
+		"tchinese" "《鬥陣特攻® 2》"
+		"schinese" "《守望先锋® 2》"
+		"thai" "Overwatch® 2"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1694822400"
+		"tested_build_id" "12093314"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "3d9c240a1c3d86504856fe002e864066a1b0bb19/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "27.17212264504161"
+			"height_pct" "44.44440029250485"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "27.17212264504161"
+				"height_pct" "44.44440029250485"
+			}
+		}
+	}
+	"store_asset_mtime" "1733864184"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blizzard Entertainment, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Blizzard Entertainment, Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Overwatch"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_35" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1691692200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2357570"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "3859"
+		"2" "620519"
+		"3" "1663"
+		"4" "5711"
+		"5" "1775"
+		"6" "1774"
+		"7" "3839"
+		"8" "5923"
+		"9" "19"
+		"10" "3878"
+		"11" "1685"
+		"12" "5030"
+		"13" "3942"
+		"14" "6730"
+		"15" "4145"
+		"16" "3854"
+		"17" "597"
+		"18" "1718"
+		"19" "7481"
+	}
+	"review_score" "4"
+	"review_percentage" "22"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Blizzard Entertainment, Inc."
+	"publisher" "Blizzard Entertainment, Inc."
+	"homepage" "https://overwatch.blizzard.com/"
+	"isfreeapp" "1"
+	"listofdlc" "2437280,2443730,2443731,2443732,2443733,2443734,2528660,2528670,2584720,2584730,2618570,2618580,2707800,2809330,2923060,2923070,2961080,2961090,2977970,3031620,3031630,3039790,3039800,3039810,3157030,3157040,3157050,3259290,3259300,3259310"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Overwatch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Overwatch.exe"
+		}
+		"1"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetEnabled --cluster proac --bnetserver us.actual.battle.net:1119"
+			"config"
+			{
+				"betakey" "review"
+			}
+			"description_loc"
+			{
+				"english" "Review Branch Args"
+			}
+			"description" "Review Branch Args"
+		}
+		"2"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam1"
+			}
+			"description_loc"
+			{
+				"english" "steam1 branch args"
+			}
+			"description" "steam1 branch args"
+		}
+		"3"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetEnabled --BNetServer st1.bgs.battle.net:1119 --cluster pro_haze"
+			"config"
+			{
+				"betakey" "local"
+			}
+			"description_loc"
+			{
+				"english" "local branch args"
+			}
+			"description" "local branch args"
+		}
+		"4"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam2"
+			}
+			"description_loc"
+			{
+				"english" "steam2 branch args"
+			}
+			"description" "steam2 branch args"
+		}
+		"5"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam3"
+			}
+			"description_loc"
+			{
+				"english" "steam3 branch args"
+			}
+			"description" "steam3 branch args"
+		}
+		"6"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam4"
+			}
+			"description_loc"
+			{
+				"english" "steam4 branch args"
+			}
+			"description" "steam4 branch args"
+		}
+		"7"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam5"
+			}
+			"description_loc"
+			{
+				"english" "steam5 branch args"
+			}
+			"description" "steam5 branch args"
+		}
+		"8"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam6"
+			}
+			"description_loc"
+			{
+				"english" "steam6 branch args"
+			}
+			"description" "steam6 branch args"
+		}
+		"9"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam7"
+			}
+			"description_loc"
+			{
+				"english" "steam7 branch args"
+			}
+			"description" "steam7 branch args"
+		}
+		"10"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam8"
+			}
+			"description_loc"
+			{
+				"english" "steam8 launch args"
+			}
+			"description" "steam8 launch args"
+		}
+		"11"
+		{
+			"executable" "Overwatch.exe"
+			"arguments" "--BNetServer test.actual.battle.net:1119 --BnetEnabled"
+			"config"
+			{
+				"betakey" "steam9"
+			}
+			"description_loc"
+			{
+				"english" "steam9 launch args"
+			}
+			"description" "steam9 launch args"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"2357571"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3639403848988225120"
+				"size" "58313334750"
+				"download" "57182900000"
+			}
+			"local"
+			{
+				"gid" "3320652641754470004"
+				"size" "35307323113"
+				"download" "35120697152"
+			}
+		}
+	}
+	"2357572"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7815760805279070165"
+				"size" "1207367703"
+				"download" "1190489968"
+			}
+			"local"
+			{
+				"gid" "2955634986641920292"
+				"size" "1175893539"
+				"download" "1170830816"
+			}
+		}
+	}
+	"2357573"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8542923800209267527"
+				"size" "1356137941"
+				"download" "1339483744"
+			}
+			"local"
+			{
+				"gid" "4786107597696480680"
+				"size" "1306345648"
+				"download" "1301740288"
+			}
+		}
+	}
+	"2357574"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8258717100052366876"
+				"size" "1360300250"
+				"download" "1342683728"
+			}
+			"local"
+			{
+				"gid" "200779618982349999"
+				"size" "1315107475"
+				"download" "1310079488"
+			}
+		}
+	}
+	"2357575"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4583002313453312176"
+				"size" "1304398827"
+				"download" "1287668768"
+			}
+			"local"
+			{
+				"gid" "1266085240190484425"
+				"size" "1260763627"
+				"download" "1256061952"
+			}
+		}
+	}
+	"2357576"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2610145263266763777"
+				"size" "1342268170"
+				"download" "1325023312"
+			}
+			"local"
+			{
+				"gid" "4350710455492395726"
+				"size" "1280629770"
+				"download" "1275833328"
+			}
+		}
+	}
+	"2357577"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4395909126187192963"
+				"size" "1359151322"
+				"download" "1343693472"
+			}
+			"local"
+			{
+				"gid" "2505011463863248715"
+				"size" "1312893251"
+				"download" "1309194176"
+			}
+		}
+	}
+	"2357578"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5917752081534679740"
+				"size" "1274690931"
+				"download" "1258970240"
+			}
+			"local"
+			{
+				"gid" "4943999636188188214"
+				"size" "1226130593"
+				"download" "1222464416"
+			}
+		}
+	}
+	"2357579"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8235831999910723835"
+				"size" "1366725762"
+				"download" "1351360368"
+			}
+			"local"
+			{
+				"gid" "5151066068741638499"
+				"size" "1303374075"
+				"download" "1299810832"
+			}
+		}
+	}
+	"2437281"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7555178042936983007"
+				"size" "1294133301"
+				"download" "1277118832"
+			}
+			"local"
+			{
+				"gid" "731622728223995433"
+				"size" "1257019845"
+				"download" "1252139904"
+			}
+		}
+	}
+	"2437282"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "817028241695649153"
+				"size" "1343490502"
+				"download" "1326272624"
+			}
+			"local"
+			{
+				"gid" "2993559599047989863"
+				"size" "1288953471"
+				"download" "1283640128"
+			}
+		}
+	}
+	"2437283"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1783971649697915292"
+				"size" "1272192440"
+				"download" "1254268000"
+			}
+			"local"
+			{
+				"gid" "2550750251689854845"
+				"size" "1227511089"
+				"download" "1221827008"
+			}
+		}
+	}
+	"2437284"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6933204412896229214"
+				"size" "1232704156"
+				"download" "1216284032"
+			}
+			"local"
+			{
+				"gid" "622219681067508286"
+				"size" "1190826598"
+				"download" "1186144336"
+			}
+		}
+	}
+	"2437285"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6970166445927309151"
+				"size" "1227545458"
+				"download" "1209476592"
+			}
+			"local"
+			{
+				"gid" "497854501000438338"
+				"size" "1198642454"
+				"download" "1193002896"
+			}
+		}
+	}
+	"2437286"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "872610168492115315"
+				"size" "1207368264"
+				"download" "1190408848"
+			}
+			"local"
+			{
+				"gid" "2251545828529100926"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2437287"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4006285583247742732"
+				"size" "1207368052"
+				"download" "1190398512"
+			}
+			"local"
+			{
+				"gid" "7349254871966668586"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2437288"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5513441363443109741"
+				"size" "378570721"
+				"download" "192906128"
+			}
+			"local"
+			{
+				"gid" "7485790997352910455"
+				"size" "253932121"
+				"download" "119368736"
+			}
+		}
+	}
+	"baselanguages" ""
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17108989"
+			"timeupdated" "1737669610"
+		}
+		"local"
+		{
+			"buildid" "11968816"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1692304422"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27140420"
+"_sha" "bd593447d031afa83ef40df2fcbbcb8f7fd44bf2"
+"_size" "15471"
