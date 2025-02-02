@@ -1,0 +1,270 @@
+"appid" "2066880"
+"common"
+{
+	"name" "RetroArch - A5200"
+	"type" "DLC"
+	"parent" "1118310"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_86bebd1647af79dcedbe4d8b97605386afaddca4.jpg"
+	"store_asset_mtime" "1655927242"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Libretro"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Libretro"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_23" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1656587132"
+	"gameid" "2066880"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "113"
+	}
+	"review_score" "7"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"dlcforappid" "1118310"
+	"mustownapptopurchase" "1118310"
+	"developer" "Libretro"
+	"publisher" "Libretro"
+	"homepage" "https://www.retroarch.com"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2066880"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "2066880"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "378268411633986330"
+				"size" "319341"
+				"download" "124048"
+			}
+			"nightly"
+			{
+				"gid" "970825757028758280"
+				"size" "319341"
+				"download" "124064"
+			}
+		}
+	}
+	"2066881"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7851772004683349201"
+				"size" "294155"
+				"download" "97040"
+			}
+			"nightly"
+			{
+				"gid" "7851772004683349201"
+				"size" "294155"
+				"download" "97040"
+			}
+		}
+		"dlcappid" "2066880"
+	}
+	"2066882"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6419899643293301820"
+				"size" "571339"
+				"download" "171056"
+			}
+			"nightly"
+			{
+				"gid" "6419899643293301820"
+				"size" "571339"
+				"download" "171056"
+			}
+		}
+		"dlcappid" "2066880"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16911388"
+			"timeupdated" "1736093837"
+		}
+		"nightly"
+		{
+			"buildid" "17214956"
+			"description" "Nightly unstable builds"
+			"timeupdated" "1738488672"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27275727"
+"_sha" "705ca23ddf94ff4b2b1434014891858424469fce"
+"_size" "3919"
