@@ -280,15 +280,15 @@
 		{
 			"public"
 			{
-				"gid" "8742675163163324665"
-				"size" "311050424"
-				"download" "178562560"
+				"gid" "1380673380437553623"
+				"size" "311050472"
+				"download" "178562288"
 			}
 			"test_0.6.x"
 			{
-				"gid" "8742675163163324665"
-				"size" "311050424"
-				"download" "178562560"
+				"gid" "1380673380437553623"
+				"size" "311050472"
+				"download" "178562288"
 			}
 		}
 	}
@@ -296,14 +296,14 @@
 	{
 		"public"
 		{
-			"buildid" "17182701"
-			"timeupdated" "1738231634"
+			"buildid" "17214060"
+			"timeupdated" "1738474928"
 		}
 		"test_0.6.x"
 		{
-			"buildid" "17182701"
+			"buildid" "17214060"
 			"description" "0.6测试版"
-			"timeupdated" "1738231590"
+			"timeupdated" "1738473791"
 		}
 	}
 	"privatebranches" "1"
@@ -340,6 +340,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27232680"
-"_sha" "f38392713cff85ff9cb0b36cc4d658ad21de4b69"
+"_change_number" "27274648"
+"_sha" "7deb4fc70870f0b1f527fe034f121f5784ceb810"
 "_size" "6226"
