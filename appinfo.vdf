@@ -18,6 +18,8 @@
 	"eulas"
 	{
 	}
+	"osarch" ""
+	"osextended" "macos64"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -82,6 +84,40 @@
 			"height_pct" "53.79957254808834"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.56476079346558"
+				"height_pct" "53.79957254808834"
+			}
+		}
+	}
 	"store_asset_mtime" "1577185943"
 	"associations"
 	{
@@ -142,7 +178,7 @@
 		"5" "4791"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -198,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "2284431783349112331"
-				"size" "122735164"
-				"download" "81904784"
+				"gid" "876165549577146220"
+				"size" "310979413"
+				"download" "274938592"
 			}
 			"compatibility"
 			{
@@ -215,21 +251,6 @@
 				"download" "127514224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EA63A44B82D9021A4F8D7AE91B99F431"
-				"size" "5D6167145F3264204B236DF47B5AD6FC"
-				"download" "D8AF3E5599660712B2B81F240D8282F9"
-			}
-			"kitsune-mochi"
-			{
-				"gid" "CD2633C93CBF4CA88D510AC0A6F905E7"
-				"size" "A9C0E1CB7828FD92E6EE5BD581A8B450"
-				"download" "3554EE26C22C4B23D2BB65BF8DE2570A"
-			}
-		}
 	}
 	"412272"
 	{
@@ -241,9 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "3263020080113706723"
-				"size" "168737981"
-				"download" "132445456"
+				"gid" "349934273770622033"
+				"size" "369586612"
+				"download" "290294768"
 			}
 			"compatibility"
 			{
@@ -256,21 +277,6 @@
 				"gid" "3263020080113706723"
 				"size" "168737981"
 				"download" "132445456"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "F6C611C87DF2EC9211723514F6A518E4"
-				"size" "6CF73B95A43C085A8C8B3E084668C2FD"
-				"download" "65AFC89F84B54F9C26DCC7B9F8308F9D"
-			}
-			"kitsune-mochi"
-			{
-				"gid" "790B6F8D06CE70E8F274E4DDB8DE8C65"
-				"size" "2B773B685BB1613D4EB4B8A620C16A81"
-				"download" "A651BFE4479FC5FF2C4CFEBA2FBD360D"
 			}
 		}
 	}
@@ -301,45 +307,18 @@
 				"download" "128388448"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "484046B6F18893E1BB70ABAF89D5CCCB"
-				"size" "4E2E771CB06F705E432132CE64A07BF1"
-				"download" "3C75EB865DBAFD5C378C1BC68BBF67A6"
-			}
-			"kitsune-mochi"
-			{
-				"gid" "9F910F0F26E87C375B36E7B71E7FEAB8"
-				"size" "4DAD4B5F1787A4DC797166C79DFACB59"
-				"download" "D91CE312FC13B067E19C7DDC8BD1C42F"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "4524057"
-			"timeupdated" "1577182556"
-		}
-		"beta"
-		{
-			"buildid" "1359481"
-			"pwdrequired" "1"
-			"timeupdated" "1474972146"
+			"buildid" "17217870"
+			"timeupdated" "1738530633"
 		}
 		"compatibility"
 		{
 			"buildid" "1359974"
 			"timeupdated" "1474986436"
-		}
-		"kitsune-mochi"
-		{
-			"buildid" "4187389"
-			"pwdrequired" "1"
-			"timeupdated" "1568223035"
 		}
 		"legacy"
 		{
@@ -347,6 +326,7 @@
 			"timeupdated" "1577178560"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -407,3 +387,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27280325"
+"_sha" "1d8cc08c3c13468123c71dc34332c9d8bf9d38f5"
+"_size" "6860"
