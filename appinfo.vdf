@@ -14,7 +14,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "25ecf3ba7de706ca20761ac7ce13179929c641ca/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -86,15 +86,15 @@
 		{
 			"image"
 			{
-				"english" "1165a5cd146b452dd9cb3b9e380cbdbca4ba8ce0/library_header.jpg"
+				"english" "cc8454ae75e472783d1784c97fb0c275d2b6c931/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "1165a5cd146b452dd9cb3b9e380cbdbca4ba8ce0/library_header_2x.jpg"
+				"english" "cc8454ae75e472783d1784c97fb0c275d2b6c931/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1731363188"
+	"store_asset_mtime" "1738227945"
 	"associations"
 	{
 		"0"
@@ -326,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27151089"
-"_sha" "4657b65bc0924a3bb375686f69b594f1678b290e"
-"_size" "5605"
+"_change_number" "27231869"
+"_sha" "cdecd95b5f29143e98b995ee75759974d7b70435"
+"_size" "5646"
