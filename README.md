@@ -1,13 +1,12 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-02 09:28:24
+## 更新时间：2025-02-02 10:48:19
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1621070 | DeadPoly| Game |
-| 1664200 | Duelists of Eden| Game |
-| 1947280 | KAOS SurVival| Game |
-| 2094070 | Quest Master| Game |
-| 3069470 | Dollar| Game |
-| 351030 | Pixel Puzzles Ultimate Jigsaw| Game |
+| 1461980 | 九州：立志| Game |
+| 1465470 | The Crust| Game |
+| 1269690 | Attack on Toys| Game |
+| 1969920 | Tomb Explorer VR| Game |
+| 2882870 | Doll Impostor| Game |
 | 2849080 | 王国保卫战 5：联盟| Game |
-| 481870 | Mini Thief| Game |
+| 573410 | AI War 2| Game |
