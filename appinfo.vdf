@@ -132,7 +132,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1676049325"
+	"store_asset_mtime" "1736299337"
 	"associations"
 	{
 		"0"
@@ -233,8 +233,8 @@
 	"store_tags"
 	{
 		"0" "3987"
-		"1" "21"
-		"2" "1742"
+		"1" "1742"
+		"2" "21"
 		"3" "8369"
 		"4" "4252"
 		"5" "6815"
@@ -246,8 +246,8 @@
 		"11" "4182"
 		"12" "5613"
 		"13" "3871"
-		"14" "5372"
-		"15" "4172"
+		"14" "4172"
+		"15" "5372"
 		"16" "597"
 		"17" "1698"
 		"18" "7481"
@@ -361,51 +361,6 @@
 				"download" "5784563744"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dayoldbread"
-			{
-				"gid" "22068B53CD2CCD038C47CDD233DE840A"
-				"size" "57F652D79231729CAC6A8C2F250287FD"
-				"download" "861531C349D5132EA4B03368533B8F12"
-			}
-			"demo"
-			{
-				"gid" "55AED1E6C1D36690672FC37951E87B1C"
-				"size" "0C22153708DF886434A01CED52953463"
-				"download" "9BDDACD90F17F40E3A295B0E3D0FE114"
-			}
-			"externallatest"
-			{
-				"gid" "54697DB39EAA030D92CF0FE066E44707"
-				"size" "B215FBE116FBCA44C0287ED3FC20E2EB"
-				"download" "C2DDA2A60396E93C9BDD7E807D7113DC"
-			}
-			"latest"
-			{
-				"gid" "D800DDEF5C56BDE51B00688F088D0E3B"
-				"size" "FCD0C2861614EB690BB76BA51C9B8D00"
-				"download" "1ADA5D51EE86888BC733C0055716E9DD"
-			}
-			"pendingrelease"
-			{
-				"gid" "D3776243CA37B0962387467211DA41F5"
-				"size" "CE00C47124BAFA8E174C2965EA5B3BB8"
-				"download" "864E72D9118F64C1932EAE63584792B5"
-			}
-			"pressbranch"
-			{
-				"gid" "2AED29AD7597FE7D2F55226F60BA790A"
-				"size" "9FF571AD39E9F455F800F9D4160EAA25"
-				"download" "2EEEF16DD58B2F83932963BB92901BB2"
-			}
-			"vert-slice"
-			{
-				"gid" "265CE6BE1DA9C4E7E0648A5D63DEF7E4"
-				"size" "307B20CFB7CFB858AE52D141A164E1F8"
-				"download" "5886C30AD85447B025A7D5F5A80BA4E9"
-			}
-		}
 	}
 	"1205522"
 	{
@@ -422,39 +377,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dayoldbread"
-			{
-				"gid" "F772FEC15167BB8E8096B76135438737"
-				"size" "DCE0D5CCFE531769987283CCFF2D8653"
-				"download" "DCE0D5CCFE531769987283CCFF2D8653"
-			}
-			"externallatest"
-			{
-				"gid" "47A9F3673442C05A62AA051D5A784181"
-				"size" "0BECEA2C8CAA01995F20BBAE97B4C9DC"
-				"download" "0BECEA2C8CAA01995F20BBAE97B4C9DC"
-			}
-			"latest"
-			{
-				"gid" "67640CA8C1D6FEAEEF0E6101DDC36715"
-				"size" "8B423B0644781AC29298CB10993FBDB2"
-				"download" "8B423B0644781AC29298CB10993FBDB2"
-			}
-			"pendingrelease"
-			{
-				"gid" "5ED5A7F9D0BD839EF19DB2C0177B40D6"
-				"size" "1519555EAAD5458788169A30E13DB784"
-				"download" "1519555EAAD5458788169A30E13DB784"
-			}
-			"pressbranch"
-			{
-				"gid" "FCDD7D3957BA086FB53F9064D52DCDBF"
-				"size" "8A59DCE0B4C37D175D3B362C14A95144"
-				"download" "8A59DCE0B4C37D175D3B362C14A95144"
-			}
-		}
 	}
 	"workshopdepot" "1205520"
 	"branches"
@@ -464,49 +386,8 @@
 			"buildid" "13608807"
 			"timeupdated" "1709663647"
 		}
-		"dayoldbread"
-		{
-			"buildid" "9820920"
-			"pwdrequired" "1"
-			"timeupdated" "1666973387"
-		}
-		"demo"
-		{
-			"buildid" "9334991"
-			"pwdrequired" "1"
-			"timeupdated" "1660771644"
-		}
-		"externallatest"
-		{
-			"buildid" "11147807"
-			"pwdrequired" "1"
-			"timeupdated" "1683133430"
-		}
-		"latest"
-		{
-			"buildid" "14058469"
-			"pwdrequired" "1"
-			"timeupdated" "1713195868"
-		}
-		"pendingrelease"
-		{
-			"buildid" "13608807"
-			"pwdrequired" "1"
-			"timeupdated" "1709263232"
-		}
-		"pressbranch"
-		{
-			"buildid" "9889388"
-			"pwdrequired" "1"
-			"timeupdated" "1667928257"
-		}
-		"vert-slice"
-		{
-			"buildid" "6572635"
-			"pwdrequired" "1"
-			"timeupdated" "1618963321"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -529,176 +410,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Main Menu"
-				"#a1d0_presence" "April 21st, 1518"
-				"#a1d1_presence" "April 22nd, 1518"
-				"#a1d2_presence" "April 23rd, 1518"
-				"#a1d3_presence" "April 24th, 1518"
-				"#a1d4_presence" "April 25th, 1518"
-				"#a2d0_presence" "June 22nd, 1525"
-				"#a2d1_presence" "June 23rd, 1525"
-				"#a2d2_presence" "June 24th, 1525"
-				"#a2d3_presence" "June 25th, 1525"
-				"#a3d0_presence" "October 22nd, 1543"
-				"#a3d1_presence" "October 23rd, 1543"
-				"#a3d2_presence" "November 6th, 1543"
-				"#a3d3_presence" "November 20th, 1543"
-				"#a4d0_presence" "December 4th, 1543"
-				"#a4d1_presence" "December 24th, 1543"
-				"#a5d0_presence" "April 15th, 1544"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Hauptmenü"
-				"#a1d0_presence" "21. April 1518"
-				"#a1d1_presence" "22. April 1518"
-				"#a1d2_presence" "23. April 1518"
-				"#a1d3_presence" "24. April 1518"
-				"#a1d4_presence" "25. April 1518"
-				"#a2d0_presence" "22. Juni 1525"
-				"#a2d1_presence" "23. Juni 1525"
-				"#a2d2_presence" "24. Juni 1525"
-				"#a2d3_presence" "25. Juni 1525"
-				"#a3d0_presence" "22. Oktober 1543"
-				"#a3d1_presence" "23. Oktober 1543"
-				"#a3d2_presence" "6. November 1543"
-				"#a3d3_presence" "20. November 1543"
-				"#a4d0_presence" "4. Dezember 1543"
-				"#a4d1_presence" "24. Dezember 1543"
-				"#a5d0_presence" "15. April 1544"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Menu principal"
-				"#a1d0_presence" "21 avril 1518"
-				"#a1d1_presence" "22 avril 1518"
-				"#a1d2_presence" "23 avril 1518"
-				"#a1d3_presence" "24 avril 1518"
-				"#a1d4_presence" "25 avril 1518"
-				"#a2d0_presence" "22 juin 1525"
-				"#a2d1_presence" "23 juin 1525"
-				"#a2d2_presence" "24 juin 1525"
-				"#a2d3_presence" "25 juin 1525"
-				"#a3d0_presence" "22 octobre 1543"
-				"#a3d1_presence" "23 octobre 1543"
-				"#a3d2_presence" "6 novembre 1543"
-				"#a3d3_presence" "20 novembre 1543"
-				"#a4d0_presence" "4 décembre 1543"
-				"#a4d1_presence" "24 décembre 1543"
-				"#a5d0_presence" "15 avril 1544"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Menu principale"
-				"#a1d0_presence" "21 aprile 1518"
-				"#a1d1_presence" "22 aprile 1518"
-				"#a1d2_presence" "23 aprile 1518"
-				"#a1d3_presence" "24 aprile 1518"
-				"#a1d4_presence" "25 aprile 1518"
-				"#a2d0_presence" "22 giugno 1525"
-				"#a2d1_presence" "23 giugno 1525"
-				"#a2d2_presence" "24 giugno 1525"
-				"#a2d3_presence" "25 giugno 1525"
-				"#a3d0_presence" "22 ottobre 1543"
-				"#a3d1_presence" "23 ottobre 1543"
-				"#a3d2_presence" "6 novembre 1543"
-				"#a3d3_presence" "20 novembre 1543"
-				"#a4d0_presence" "4 dicembre 1543"
-				"#a4d1_presence" "24 dicembre 1543"
-				"#a5d0_presence" "15 aprile 1544"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Menú principal"
-				"#a1d0_presence" "21 de abril de 1518"
-				"#a1d1_presence" "22 de abril de 1518"
-				"#a1d2_presence" "23 de abril de 1518"
-				"#a1d3_presence" "24 de abril de 1518"
-				"#a1d4_presence" "25 de abril de 1518"
-				"#a2d0_presence" "22 de junio de 1525"
-				"#a2d1_presence" "23 de junio de 1525"
-				"#a2d2_presence" "24 de junio de 1525"
-				"#a2d3_presence" "25 de junio de 1525"
-				"#a3d0_presence" "22 de octubre de 1543"
-				"#a3d1_presence" "23 de octubre de 1543"
-				"#a3d2_presence" "6 de noviembre de 1543"
-				"#a3d3_presence" "20 de noviembre de 1543"
-				"#a4d0_presence" "4 de diciembre de 1543"
-				"#a4d1_presence" "24 de diciembre de 1543"
-				"#a5d0_presence" "15 de abril de 1544"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Menu principal"
-				"#a1d0_presence" "21 de abril de 1518"
-				"#a1d1_presence" "22 de abril de 1518"
-				"#a1d2_presence" "23 de abril de 1518"
-				"#a1d3_presence" "24 de abril de 1518"
-				"#a1d4_presence" "25 de abril de 1518"
-				"#a2d0_presence" "22 de junho de 1525"
-				"#a2d1_presence" "23 de junho de 1525"
-				"#a2d2_presence" "24 de junho de 1525"
-				"#a2d3_presence" "25 de junho de 1525"
-				"#a3d0_presence" "22 de outubro de 1543"
-				"#a3d1_presence" "23 de outubro de 1543"
-				"#a3d2_presence" "6 de novembro de 1543"
-				"#a3d3_presence" "20 de novembro de 1543"
-				"#a4d0_presence" "4 de dezembro de 1543"
-				"#a4d1_presence" "24 de dezembro de 1543"
-				"#a5d0_presence" "15 de abril de 1544"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#mainmenu_presence" "Menu główne"
-				"#a1d0_presence" "21 kwietnia 1518 roku"
-				"#a1d1_presence" "22 kwietnia 1518 roku"
-				"#a1d2_presence" "23 kwietnia 1518 roku"
-				"#a1d3_presence" "24 kwietnia 1518 roku"
-				"#a1d4_presence" "25 kwietnia 1518 roku"
-				"#a2d0_presence" "22 czerwca 1525 roku"
-				"#a2d1_presence" "23 czerwca 1525 roku"
-				"#a2d2_presence" "24 czerwca 1525 roku"
-				"#a2d3_presence" "25 czerwca 1525 roku"
-				"#a3d0_presence" "22 października 1543 roku"
-				"#a3d1_presence" "23 października 1543 roku"
-				"#a3d2_presence" "6 listopada 1543 roku"
-				"#a3d3_presence" "20 listopada 1543 roku"
-				"#a4d0_presence" "4 grudnia 1543 roku"
-				"#a4d1_presence" "24 grudnia 1543 roku"
-				"#a5d0_presence" "15 kwietnia 1544 roku"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26900912"
+"_sha" "da8096a285c8f0bd821652ae722ee9ae711a71cc"
+"_size" "7001"
