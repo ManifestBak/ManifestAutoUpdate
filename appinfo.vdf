@@ -170,6 +170,11 @@
 		}
 		"3"
 		{
+			"type" "publisher"
+			"name" "Frozen District"
+		}
+		"4"
+		{
 			"type" "franchise"
 			"name" "Frozen Way"
 		}
@@ -188,6 +193,8 @@
 		"category_51" "1"
 		"category_30" "1"
 		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -283,8 +290,8 @@
 	{
 		"0" "4182"
 		"1" "1616"
-		"2" "9204"
-		"3" "3810"
+		"2" "3810"
+		"3" "9204"
 		"4" "1643"
 		"5" "597"
 		"6" "599"
@@ -302,8 +309,8 @@
 		"18" "84"
 		"19" "4726"
 	}
-	"review_score" "8"
-	"review_percentage" "82"
+	"review_score" "6"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -338,27 +345,6 @@
 				"download" "3367857696"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "07A6F25794CF5534194237E7B3AB7FF9"
-				"size" "EC3C769F737A6D067AC62847816CF1E2"
-				"download" "723DBB1BA521C9E634CD4BABE6D69F6A"
-			}
-			"beta"
-			{
-				"gid" "F7DAB35B806AEC9035598C70E7B04FD7"
-				"size" "D2B8CC185C2D13081B61429CBEB60ACD"
-				"download" "DAF75B2E247E5F9C461374F30CDDD594"
-			}
-			"newtutorial"
-			{
-				"gid" "B1DA33AAAB077185A160EE6AB865B68C"
-				"size" "11272226E81AF70A5DF476461CD08D18"
-				"download" "0B8CD8B16198B3C39E7530EA07CE22E2"
-			}
-		}
 	}
 	"1674902"
 	{
@@ -366,30 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "4387232375516960426"
-				"size" "6944104089"
-				"download" "4111731056"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "614F0A81D30821BD18323ECEF673065E"
-				"size" "DF7D148F1539E3B226AB0E60A9F142E3"
-				"download" "D58DDD4D35E8F32CBC13FE05B47EEFD8"
-			}
-			"beta"
-			{
-				"gid" "55E44AB6EF1F7BC4418D939C7C7ECDD3"
-				"size" "BDE0EA155F0CA15C5324327714EDB4E4"
-				"download" "08706D1B2B64D1AD33613EA765EBEB02"
-			}
-			"newtutorial"
-			{
-				"gid" "64007A5CF537CF47460678499F5AD125"
-				"size" "AF8BC09192145E5BDBA24D5E1BDA2210"
-				"download" "2D7E0C17025DB4C9E3D7AC9E01244F1E"
+				"gid" "7171460112821267833"
+				"size" "7147574596"
+				"download" "4264005200"
 			}
 		}
 	}
@@ -397,31 +362,18 @@
 	{
 		"public"
 		{
-			"buildid" "15873825"
-			"timeupdated" "1727704361"
-		}
-		"alpha"
-		{
-			"buildid" "15903090"
-			"pwdrequired" "1"
-			"timeupdated" "1727876518"
-		}
-		"beta"
-		{
-			"buildid" "15743632"
-			"pwdrequired" "1"
-			"timeupdated" "1726668731"
-		}
-		"newtutorial"
-		{
-			"buildid" "13964253"
-			"pwdrequired" "1"
-			"timeupdated" "1712328984"
+			"buildid" "17146391"
+			"timeupdated" "1737999729"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000000"
 	"maxnumfiles" "10000"
 }
+"_missing_token" "False"
+"_change_number" "27243444"
+"_sha" "d9ce70d269b7b047cca4f6cb0af3d1cc34eebde9"
+"_size" "6389"
