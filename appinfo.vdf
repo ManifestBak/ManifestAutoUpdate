@@ -1,0 +1,292 @@
+"appid" "2857800"
+"common"
+{
+	"name" "RetroArch - Geolith"
+	"type" "DLC"
+	"parent" "1118310"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en"
+	}
+	"library_assets_full"
+	{
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_screenshot" "ss_0b3c8f448b9e26970fdb901543d4a7a44fd6774b.jpg"
+	"store_asset_mtime" "1708789743"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Libretro"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Rupert Carmichael"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Libretro"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_23" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1709062618"
+	"gameid" "2857800"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "4004"
+		"2" "8013"
+		"3" "4182"
+		"4" "3859"
+		"5" "1773"
+		"6" "1693"
+		"7" "7368"
+		"8" "599"
+		"9" "3916"
+		"10" "6691"
+		"11" "1685"
+		"12" "3871"
+		"13" "3964"
+		"14" "7743"
+	}
+}
+"extended"
+{
+	"dlcforappid" "1118310"
+	"mustownapptopurchase" "1118310"
+	"developer" "Libretro"
+	"publisher" "Libretro"
+	"homepage" "https://www.retroarch.com"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2857800"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3987004329541107926"
+				"size" "675921"
+				"download" "186544"
+			}
+			"nightly"
+			{
+				"gid" "9208510316367595686"
+				"size" "678993"
+				"download" "186704"
+			}
+		}
+		"dlcappid" "2857800"
+	}
+	"2857801"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9007929323827832359"
+				"size" "730691"
+				"download" "171664"
+			}
+			"nightly"
+			{
+				"gid" "5128886975305392827"
+				"size" "732771"
+				"download" "172016"
+			}
+		}
+		"dlcappid" "2857800"
+	}
+	"2857802"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4885318653043622702"
+				"size" "1363203"
+				"download" "319824"
+			}
+			"nightly"
+			{
+				"gid" "8285089992696420198"
+				"size" "1379619"
+				"download" "320912"
+			}
+		}
+		"dlcappid" "2857800"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16911377"
+			"timeupdated" "1736093747"
+		}
+		"nightly"
+		{
+			"buildid" "17214925"
+			"description" "Nightly unstable builds"
+			"timeupdated" "1738488515"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27275702"
+"_sha" "c187565129889a364c523a1224ac11ad1268a556"
+"_size" "4284"
