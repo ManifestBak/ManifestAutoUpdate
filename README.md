@@ -1,13 +1,12 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-02 20:33:37
+## 更新时间：2025-02-02 22:16:15
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2529540 | 硬币与仙人掌 (Coins & Wishpalm)| Game |
-| 2649800 | 唐草卡 Vinecard| Game |
-| 2791030 | Backrooms:Rebirth| Game |
-| 2978540 | Gaming Cafe Simulator| Game |
-| 3085890 | 世外桃源| Game |
-| 3225970 | 封神榜重置版| Game |
-| 798840 | 装甲纷争:决定版| Game |
-| 846110 | The friends of Ringo Ishikawa| Game |
+| 1000360 | Hellish Quart| Game |
+| 1240630 | Hex of Steel| Game |
+| 2478470 | 末日| Game |
+| 2776450 | 诸天刷宝录| Game |
+| 481870 | Mini Thief| Game |
+| 688130 | Pogostuck: Rage With Your Friends| Game |
+| 690830 | Foundation| Game |
