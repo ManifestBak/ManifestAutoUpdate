@@ -126,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732629448"
+	"store_asset_mtime" "1738364096"
 	"associations"
 	{
 		"0"
@@ -260,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "6700113756628612390"
-				"size" "20550239220"
-				"download" "8450755120"
+				"gid" "5582558543140450420"
+				"size" "20551330651"
+				"download" "8451156288"
 			}
 			"legacy-version"
 			{
@@ -284,9 +284,9 @@
 			}
 			"public-beta"
 			{
-				"gid" "6700113756628612390"
-				"size" "20550239220"
-				"download" "8450755120"
+				"gid" "5582558543140450420"
+				"size" "20551330651"
+				"download" "8451156288"
 			}
 		}
 	}
@@ -295,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "17200516"
-			"timeupdated" "1738337223"
+			"buildid" "17216405"
+			"timeupdated" "1738518158"
 		}
 		"legacy-version"
 		{
@@ -319,14 +319,14 @@
 		}
 		"public-beta"
 		{
-			"buildid" "17200516"
+			"buildid" "17216405"
 			"description" "Public Beta Channel for VR HOT"
-			"timeupdated" "1738337188"
+			"timeupdated" "1738518116"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27255928"
-"_sha" "782ff8efbd3fc05873df31aa21190328bc73da3a"
+"_change_number" "27278803"
+"_sha" "c46438570e982182a00e4f058e4a4a53358c280a"
 "_size" "5815"
