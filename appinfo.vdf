@@ -163,9 +163,10 @@
 		"5" "3968"
 		"6" "3871"
 		"7" "1721"
-		"8" "113"
-		"9" "4182"
+		"8" "4182"
+		"9" "113"
 		"10" "3859"
+		"11" "6910"
 	}
 	"review_score" "8"
 	"review_percentage" "85"
@@ -229,15 +230,6 @@
 				"download" "97504000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"macos"
-			{
-				"gid" "E8E9C508CE183058A783F534817C0095"
-				"size" "2125DB49E91A70ADB4C71D40A86A109A"
-				"download" "8A4840B99C727E55A9AA7E3285944259"
-			}
-		}
 	}
 	"1164852"
 	{
@@ -259,15 +251,6 @@
 				"gid" "8597799518528832835"
 				"size" "114705486"
 				"download" "97105664"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"macos"
-			{
-				"gid" "E51140FC4BA21B8FFE277B6B6BA58FC7"
-				"size" "6F4E54EFFBC584EC7887F3FAC676F01E"
-				"download" "FF465B90561FC6FAE6BFAC3C694463A2"
 			}
 		}
 	}
@@ -293,15 +276,6 @@
 				"download" "1003424"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"macos"
-			{
-				"gid" "074E4525A58174AE57EE84A25DDAC62E"
-				"size" "B6289564CB62BCA8794DF8332435CB72"
-				"download" "DC0A83C7EEA44FA572B6929988822FD0"
-			}
-		}
 	}
 	"workshopdepot" "1164850"
 	"branches"
@@ -311,12 +285,6 @@
 			"buildid" "15185067"
 			"timeupdated" "1722249550"
 		}
-		"macos"
-		{
-			"buildid" "4329628"
-			"pwdrequired" "1"
-			"timeupdated" "1572208799"
-		}
 		"testing"
 		{
 			"buildid" "15185067"
@@ -324,6 +292,7 @@
 			"timeupdated" "1722249495"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -331,6 +300,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "5bdfe9516304f71a6ffe06981bcfb6c1c8eb40e9"
-"_size" "5988"
+"_change_number" "27174250"
+"_sha" "320bcc0712f5ba6605626de1a08e63b629e87552"
+"_size" "5313"
