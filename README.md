@@ -1,12 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-02 16:23:56
+## 更新时间：2025-02-02 18:22:02
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1201550 | Mad Experiments: Escape Room| Game |
-| 1209770 | 子夜之章:历史的终局～MidNights of Desperado～| Game |
-| 2791030 | Backrooms:Rebirth| Game |
-| 2835110 | 海洋幻想 / Sea Fantasy| Game |
-| 2957700 | 太太！我喜欢你！| Game |
-| 612720 | SAELIG| Game |
-| 798840 | 装甲纷争:决定版| Game |
+| 1461980 | 九州：立志| Game |
+| 1606180 | 下一站江湖Ⅱ| Game |
+| 1865010 | 皓际大冒险| Game |
+| 1963510 | Herald of Havoc| Game |
+| 1955830 | 东方冰之勇者记| Game |
+| 3085890 | 世外桃源| Game |
