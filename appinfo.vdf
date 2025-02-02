@@ -27,6 +27,7 @@
 	"osarch" "64"
 	"osextended" ""
 	"openvrsupport" "1"
+	"openvr_action_manifest_path" "TombVR\\Config\\SteamVRBindings\\steamvr_manifest.json"
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -293,9 +294,15 @@
 		{
 			"public"
 			{
-				"gid" "8680261670990850261"
-				"size" "24828567905"
-				"download" "24744837872"
+				"gid" "4297979500292763127"
+				"size" "24822266888"
+				"download" "24743495584"
+			}
+			"beta"
+			{
+				"gid" "4297979500292763127"
+				"size" "24822266888"
+				"download" "24743495584"
 			}
 		}
 	}
@@ -303,12 +310,18 @@
 	{
 		"public"
 		{
-			"buildid" "17114246"
-			"timeupdated" "1738111719"
+			"buildid" "17182720"
+			"timeupdated" "1738463294"
+		}
+		"beta"
+		{
+			"buildid" "17182720"
+			"description" "testing steamvr bindings"
+			"timeupdated" "1738232383"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27210224"
-"_sha" "00295d8bb8f1e48d6370d01648350fdc4a5c5bd3"
-"_size" "4527"
+"_change_number" "27273761"
+"_sha" "ada0aa0d755d2dddbd2bc109c74cc1020ce70098"
+"_size" "4856"
