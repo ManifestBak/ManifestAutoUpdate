@@ -1,0 +1,1836 @@
+"appid" "1407200"
+"common"
+{
+	"name" "World of Tanks"
+	"type" "Game"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1407200_eula_1"
+			"name" "World of Tanks EULA"
+			"url" "https://store.steampowered.com//eula/1407200_eula_1"
+			"version" "6"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "9d1575af08af820e47988bb5867124509b58a970"
+	"logo_small" "9d1575af08af820e47988bb5867124509b58a970_thumb"
+	"icon" "fdedc7d172706ea39d2d2b389cd461cb4cbe7315"
+	"clienticon" "f1d156b2cd1f3d4ffcc4626d107b9a8467dabdb1"
+	"clienttga" "8d4ec4c833e0a8da7da0905bac5e6bf675d18501"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "7886910"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "World of Tanks"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.901509429102646"
+			"height_pct" "56.22422885586756"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "c8ce53a0524e5c0274365ec7c06bda71400fb56a/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "c8ce53a0524e5c0274365ec7c06bda71400fb56a/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "599318e18db25be81b4afdb09383cb1866469910/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "599318e18db25be81b4afdb09383cb1866469910/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "599318e18db25be81b4afdb09383cb1866469910/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.901509429102646"
+				"height_pct" "56.22422885586756"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image2x"
+			{
+				"english" "66b1fffb48f76faaf0a1f9b541a4478fca59fa37/library_header_2x.jpg"
+			}
+			"image"
+			{
+				"english" "66b1fffb48f76faaf0a1f9b541a4478fca59fa37/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738232893"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wargaming Group Limited"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wargaming Group Limited"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "29"
+		"2" "28"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1619668835"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/world-of-tanks\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1407200"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "13276"
+		"1" "113"
+		"2" "19"
+		"3" "4168"
+		"4" "1775"
+		"5" "11104"
+		"6" "3859"
+		"7" "5711"
+		"8" "1708"
+		"9" "128"
+		"10" "1678"
+		"11" "3987"
+		"12" "4150"
+		"13" "599"
+		"14" "1685"
+		"15" "4175"
+		"16" "1774"
+		"17" "1697"
+		"18" "3814"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Wargaming Group Limited"
+	"publisher" "Wargaming Group Limited"
+	"homepage" "https://wargaming.net/wot"
+	"isfreeapp" "1"
+	"listofdlc" "1407580,1407590,1407600,1407610,1647970,1662500,1662501,1662502,1662503,1662504,1662505,1694280,1737350,1737351,1737352,1811790,1811800,1879440,1879450,1879460,1986570,2011940,2108480,2108500,2108510,2144720,2224810,2224820,2254150,2274900,2274920,2274930,2274940,2274950,2348670,2392650,2392680,2392700,2392720,2393060,2393070,2393080,2479850,2479860,2479870,2479880,2572940,2651870,2749320,2818170,2818180,2818190,2864080,2950070,2964240,2964250,3216830,3354880,3407320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "World of Tanks"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "wgcs_api.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,polish,dutch,finnish,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam"
+	"1407201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2901025822582549018"
+				"size" "111370087"
+				"download" "111861728"
+			}
+		}
+	}
+	"1407580"
+	{
+		"dlcappid" "1407580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4209252891237446107"
+				"size" "77462217341"
+				"download" "40324457888"
+			}
+		}
+	}
+	"1407590"
+	{
+		"dlcappid" "1407590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "464829719762367991"
+				"size" "77457864979"
+				"download" "40326048352"
+			}
+		}
+	}
+	"1407600"
+	{
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2176582538015304179"
+				"size" "77462217341"
+				"download" "40329749584"
+			}
+		}
+	}
+	"1407610"
+	{
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5424551721900283156"
+				"size" "77530776533"
+				"download" "40366236112"
+			}
+		}
+	}
+	"1589141"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "30810768048593974"
+				"size" "34783205"
+				"download" "26658240"
+			}
+		}
+	}
+	"1589145"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2673100621106812672"
+				"size" "31155510"
+				"download" "23035840"
+			}
+		}
+	}
+	"1589149"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1463814190960406909"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589153"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8238574923840342896"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589157"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2052819717581210170"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589161"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "184189494195386275"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589165"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7477341272276017187"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589169"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4274273047130114487"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589173"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "618033846024709222"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589177"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6602433516113164824"
+				"size" "34219762"
+				"download" "27657632"
+			}
+		}
+	}
+	"1589181"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2691882066815421019"
+				"size" "34380108"
+				"download" "27772672"
+			}
+		}
+	}
+	"1589185"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8105878594089259049"
+				"size" "34387646"
+				"download" "27918176"
+			}
+		}
+	}
+	"1589189"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3824763003985948471"
+				"size" "32870508"
+				"download" "26038176"
+			}
+		}
+	}
+	"1589193"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3947956179034986722"
+				"size" "32546676"
+				"download" "26065392"
+			}
+		}
+	}
+	"1589197"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5294901394421002976"
+				"size" "27426804"
+				"download" "21074880"
+			}
+		}
+	}
+	"1589201"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "656825574846622238"
+				"size" "32419949"
+				"download" "25991040"
+			}
+		}
+	}
+	"1589205"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "romanian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "520813135653135579"
+				"size" "32402305"
+				"download" "26011968"
+			}
+		}
+	}
+	"1589209"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3062412881058152547"
+				"size" "32628704"
+				"download" "26118048"
+			}
+		}
+	}
+	"1589213"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "finnish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1056716472950085233"
+				"size" "32358927"
+				"download" "26008592"
+			}
+		}
+	}
+	"1589217"
+	{
+		"dlcappid" "1407580"
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3000953869562622259"
+				"size" "32182037"
+				"download" "25969824"
+			}
+		}
+	}
+	"1589142"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7555245033406072673"
+				"size" "34783205"
+				"download" "26658240"
+			}
+		}
+	}
+	"1589146"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "776362072942330721"
+				"size" "31155510"
+				"download" "23035840"
+			}
+		}
+	}
+	"1589150"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6171259273891659653"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589154"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2912325396996869911"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589158"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "270958124890449163"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589162"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3085529257136470227"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589166"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3814690031933308023"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589170"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "717593306510348661"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589174"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6635364929293610920"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589178"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7606022310314344885"
+				"size" "34219762"
+				"download" "27657632"
+			}
+		}
+	}
+	"1589182"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1100452663638964720"
+				"size" "34380108"
+				"download" "27772672"
+			}
+		}
+	}
+	"1589186"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1098267652841040844"
+				"size" "34387646"
+				"download" "27918176"
+			}
+		}
+	}
+	"1589190"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7762841871656984808"
+				"size" "32870508"
+				"download" "26038176"
+			}
+		}
+	}
+	"1589194"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1709925655628672763"
+				"size" "32546676"
+				"download" "26065392"
+			}
+		}
+	}
+	"1589198"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5946415038796520035"
+				"size" "27426804"
+				"download" "21074880"
+			}
+		}
+	}
+	"1589202"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1080859369889031378"
+				"size" "32419949"
+				"download" "25991040"
+			}
+		}
+	}
+	"1589206"
+	{
+		"config"
+		{
+			"language" "romanian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "949829575549014872"
+				"size" "32402305"
+				"download" "26011968"
+			}
+		}
+	}
+	"1589210"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6060427376227615618"
+				"size" "32628704"
+				"download" "26118048"
+			}
+		}
+	}
+	"1589214"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2414509228002552299"
+				"size" "32358927"
+				"download" "26008592"
+			}
+		}
+	}
+	"1589218"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"dlcappid" "1407600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6855275438756247889"
+				"size" "32182037"
+				"download" "25969824"
+			}
+		}
+	}
+	"1589143"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7457265282453968752"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589147"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2995058003449794614"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589151"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2836680906487367690"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589155"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7099987310964131291"
+				"size" "28104610"
+				"download" "21631360"
+			}
+		}
+	}
+	"1589159"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5381911582102110452"
+				"size" "28615818"
+				"download" "22220752"
+			}
+		}
+	}
+	"1589163"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1563908022646302984"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589167"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7584258361359705814"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589171"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3574074415760368167"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589175"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4455202092709897392"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589179"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1267023188495169177"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589183"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3902091112586088420"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589187"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7948404288149992433"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589191"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5736907204245635949"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589195"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5986317776379133817"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589199"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7499829293027256363"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589203"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5973817110517114196"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589207"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "romanian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8024596648094808501"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589211"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5990867193407658149"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589215"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "finnish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3349199700038392897"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589219"
+	{
+		"dlcappid" "1407590"
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3589478603888101797"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589144"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8180918174494675680"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589148"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6366850771343970456"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589152"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1535768400459286427"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589156"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2444213173116538619"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589160"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5336595638170106092"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589164"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7721979203657732646"
+				"size" "35443953"
+				"download" "28172896"
+			}
+		}
+	}
+	"1589168"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "903159365633403958"
+				"size" "27002357"
+				"download" "20233616"
+			}
+		}
+	}
+	"1589172"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2583970335625480831"
+				"size" "32219948"
+				"download" "26109376"
+			}
+		}
+	}
+	"1589176"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1220859691973168936"
+				"size" "31604869"
+				"download" "25573200"
+			}
+		}
+	}
+	"1589180"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1207932541122295410"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589184"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1569037402459939068"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589188"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5681451954078889030"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589192"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1949449017523915188"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589196"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8592573039393660990"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589200"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "27066221931188214"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589204"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9032516977309126703"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589208"
+	{
+		"config"
+		{
+			"language" "romanian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3029225339942525970"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589212"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4701144056090234968"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589216"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5164562708994335352"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"1589220"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"dlcappid" "1407610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6966439241258269505"
+				"size" "32145720"
+				"download" "25938688"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"workshopdepot" "1407200"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17161185"
+			"timeupdated" "1738085807"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27232977"
+"_sha" "aa512558f20cdaeb22476c88e8f356f4de35e1d3"
+"_size" "27216"
