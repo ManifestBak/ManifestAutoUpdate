@@ -27,6 +27,11 @@
 			"version" "6"
 		}
 	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -140,7 +145,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "温翎皓"
+			"name" "Telling Games"
 		}
 		"2"
 		{
@@ -165,7 +170,6 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_48" "1"
-		"category_30" "1"
 		"category_22" "1"
 		"category_62" "1"
 	}
@@ -182,6 +186,7 @@
 		}
 	}
 	"steam_release_date" "1692417540"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2478470"
 	"store_tags"
@@ -208,23 +213,23 @@
 		"19" "1685"
 	}
 	"review_score" "5"
-	"review_percentage" "58"
+	"review_percentage" "53"
 }
 "extended"
 {
 	"anti_cheat_support_url" ""
 	"developer" "Mallet Games"
-	"publisher" "温翎皓"
-	"homepage" "https://malletgames.top/"
+	"publisher" "Telling Games"
+	"homepage" "https://malletgames.cn/"
 }
 "config"
 {
-	"installdir" "doomsday"
+	"installdir" "Doomsday"
 	"launch"
 	{
 		"0"
 		{
-			"executable" "./Windows//Doomsday.exe"
+			"executable" "Doomsday.exe"
 			"type" "default"
 			"config"
 			{
@@ -238,6 +243,7 @@
 "depots"
 {
 	"baselanguages" "english,schinese"
+	"workshopdepot" "2478470"
 	"228989"
 	{
 		"config"
@@ -267,19 +273,18 @@
 		{
 			"public"
 			{
-				"gid" "5019202334130093697"
-				"size" "3792459862"
-				"download" "3667193488"
+				"gid" "289294190541343904"
+				"size" "1243611338"
+				"download" "1074882688"
 			}
 		}
 	}
-	"workshopdepot" "2478470"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14816519"
-			"timeupdated" "1719224875"
+			"buildid" "17215858"
+			"timeupdated" "1738503901"
 		}
 	}
 }
@@ -289,6 +294,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "a771ee21092ab2f2e44a3355d04094d84039fa0d"
-"_size" "4955"
+"_change_number" "27277312"
+"_sha" "5b1fad372446d3f8dbbb8af8ba54ef4b00a7c73b"
+"_size" "5020"
