@@ -19,6 +19,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_6616044144c0a548158c5c2d4d8406d7522f23f1.jpg"
 	"store_asset_mtime" "1628650792"
 	"associations"
 	{
@@ -40,8 +41,11 @@
 	"steam_release_date" "1631089976"
 	"gameid" "1646370"
 	"exfgls" "6"
+	"store_tags"
+	{
+	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -62,18 +66,9 @@
 		{
 			"public"
 			{
-				"gid" "120520668929040239"
-				"size" "78001086"
-				"download" "54504928"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "7EF693DAE4012F212C99334C7F4B045F"
-				"size" "418098C84894E00FC323A9E521D2498A"
-				"download" "72F5E7AB015E353C4AC696BCA87ECA86"
+				"gid" "8315362776204359440"
+				"size" "90705982"
+				"download" "56719152"
 			}
 		}
 	}
@@ -81,16 +76,11 @@
 	{
 		"public"
 		{
-			"buildid" "15970419"
-			"timeupdated" "1728409893"
-		}
-		"beta"
-		{
-			"buildid" "15970419"
-			"pwdrequired" "1"
-			"timeupdated" "1728409640"
+			"buildid" "17216440"
+			"timeupdated" "1738512763"
 		}
 	}
+	"privatebranches" "1"
 }
 "albummetadata"
 {
@@ -271,6 +261,14 @@
 		{
 			"discnumber" "1"
 			"tracknumber" "5"
+			"originalname" "Hands(InGame)"
+			"m" "1"
+			"s" "12"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
 			"originalname" "Flying"
 			"m" "2"
 			"s" "9"
@@ -278,6 +276,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25612952"
-"_sha" "d18233ab92de3eb2a5ad62b6d8f85ad193724b46"
-"_size" "4745"
+"_change_number" "27278224"
+"_sha" "a8bf26a0c981c05e7211ccdbabbe5b1ad7160e70"
+"_size" "4686"
