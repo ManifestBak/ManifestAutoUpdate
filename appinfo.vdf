@@ -256,6 +256,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1709575265"
 	"community_visible_stats" "1"
@@ -269,8 +275,8 @@
 		"3" "492"
 		"4" "597"
 		"5" "8945"
-		"6" "615955"
-		"7" "255534"
+		"6" "255534"
+		"7" "615955"
 		"8" "5851"
 		"9" "12472"
 		"10" "4182"
@@ -335,15 +341,15 @@
 		{
 			"public"
 			{
-				"gid" "6966149345677076030"
-				"size" "396688104"
-				"download" "189473680"
+				"gid" "4611534236894242015"
+				"size" "413680934"
+				"download" "206097120"
 			}
 			"destabilized"
 			{
-				"gid" "6966149345677076030"
-				"size" "396688104"
-				"download" "189473680"
+				"gid" "4611534236894242015"
+				"size" "413680934"
+				"download" "206097120"
 			}
 		}
 	}
@@ -358,15 +364,15 @@
 		{
 			"public"
 			{
-				"gid" "673639469739023491"
-				"size" "528929272"
-				"download" "230299152"
+				"gid" "4717074464142212436"
+				"size" "545904098"
+				"download" "246957488"
 			}
 			"destabilized"
 			{
-				"gid" "673639469739023491"
-				"size" "528929272"
-				"download" "230299152"
+				"gid" "4717074464142212436"
+				"size" "545904098"
+				"download" "246957488"
 			}
 		}
 	}
@@ -397,14 +403,14 @@
 	{
 		"public"
 		{
-			"buildid" "14876829"
-			"timeupdated" "1719609678"
+			"buildid" "17185415"
+			"timeupdated" "1738521555"
 		}
 		"destabilized"
 		{
-			"buildid" "14876036"
+			"buildid" "17185415"
 			"description" "Public testing"
-			"timeupdated" "1719603464"
+			"timeupdated" "1738246259"
 		}
 	}
 }
@@ -413,3 +419,7 @@
 	"quota" "10000000000"
 	"maxnumfiles" "8"
 }
+"_missing_token" "False"
+"_change_number" "27279196"
+"_sha" "0aa73cd499be8a6b8ffa5ab92a8b9124aa85b963"
+"_size" "7458"
