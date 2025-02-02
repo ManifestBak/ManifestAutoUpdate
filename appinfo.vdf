@@ -326,33 +326,6 @@
 				"download" "2653688400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"_void"
-			{
-				"gid" "4FCC84E219C14FF85EEF6184431D967D"
-				"size" "A5D7E8EAB6A1A76CE575D568BF7B983C"
-				"download" "56194DFE2EEE0E553EBF4AF18A5E0926"
-			}
-			"internaltest"
-			{
-				"gid" "681707DAB3EECA1758EC2E73A4CD5D85"
-				"size" "2D3B4922D33C8FE91AFB5AB8078B849A"
-				"download" "346EDBC015B9D0EE40BAB9C8DC3C1D0F"
-			}
-			"test2021"
-			{
-				"gid" "E48BAE383321BE219713B50BCAF1EE7F"
-				"size" "B4BA1E421E568C487E09F0E5AB721668"
-				"download" "9F3EABFC49F27F7F95D1D9FEB62F909D"
-			}
-			"unicef"
-			{
-				"gid" "683129A5F7407C77EE8589E790CFCFEE"
-				"size" "AB6058CA5371CE74ABA7FA9881486B1F"
-				"download" "824385FFB7DCE83CA89971415324DF0A"
-			}
-		}
 	}
 	"1356242"
 	{
@@ -369,33 +342,6 @@
 				"download" "2191830480"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"_void"
-			{
-				"gid" "8E0165534C697169E67AB3F0518FDD3C"
-				"size" "A23D7764E68C439068BD6CCDB071E068"
-				"download" "21350218BAEE790D3596886ABF08A292"
-			}
-			"internaltest"
-			{
-				"gid" "6E4F0D2785410D3B630F8BC351CA225F"
-				"size" "2C998759309E0813F0B836EE6CA13EC6"
-				"download" "9FB944BFABDCA3135476D74A49B979FC"
-			}
-			"test2021"
-			{
-				"gid" "69C78B124E9E208A2F211445E688EA41"
-				"size" "AD63858C09A87A481A1E5C102E119160"
-				"download" "BA2D844C8840B52B1ED8440DECF95279"
-			}
-			"unicef"
-			{
-				"gid" "7009F302A81BA8D10358B2498F5F7103"
-				"size" "2751004DDBB1A471C583706F531B8CF4"
-				"download" "06F0D15F54EF4200C390C2B8B2ACBDE2"
-			}
-		}
 	}
 	"1815670"
 	{
@@ -407,21 +353,6 @@
 				"gid" "5331545040901085099"
 				"size" "134229989"
 				"download" "53674624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"_void"
-			{
-				"gid" "CE30EE3026D162E10B26AA6B87CC363B"
-				"size" "0479F6B69415C8D6A11C98004F4D0870"
-				"download" "A94B5BD54E26AA75FC6EADC3E64F16FC"
-			}
-			"test2021"
-			{
-				"gid" "614DA98927102056855650E3CB8C5399"
-				"size" "15777247DC98DAD3A025974CE88A3BE0"
-				"download" "CCF1DE9CC9CF46D64D6D10686E2913B4"
 			}
 		}
 	}
@@ -437,21 +368,6 @@
 				"download" "91664"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"_void"
-			{
-				"gid" "3D086FC2856B737B202D526B5E36AAD0"
-				"size" "F01DA940AE11156DDE77FB1AF904500B"
-				"download" "277D6AB8ABB29F48AAA69D0C9150C47B"
-			}
-			"test2021"
-			{
-				"gid" "601DF2731B983A8DE56D2EBC66AC8BD0"
-				"size" "D58A6BD8648C7245808C1F71DAA12CB7"
-				"download" "C2D442624F8747DFB19E4A92C6F66B13"
-			}
-		}
 	}
 	"branches"
 	{
@@ -460,29 +376,10 @@
 			"buildid" "12731469"
 			"timeupdated" "1702919882"
 		}
-		"_void"
-		{
-			"buildid" "12365784"
-			"pwdrequired" "1"
-			"timeupdated" "1696598229"
-		}
-		"internaltest"
-		{
-			"buildid" "5874061"
-			"pwdrequired" "1"
-			"timeupdated" "1606214128"
-		}
-		"test2021"
-		{
-			"buildid" "12731469"
-			"pwdrequired" "1"
-			"timeupdated" "1700227595"
-		}
-		"unicef"
-		{
-			"buildid" "6503496"
-			"pwdrequired" "1"
-			"timeupdated" "1617813962"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26920265"
+"_sha" "0f33f118930f94d5e067bb05f34e154819619691"
+"_size" "8030"
