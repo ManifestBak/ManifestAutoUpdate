@@ -2,10 +2,10 @@
 "common"
 {
 	"name" "LoveChoice - Original Sound Tracks 2"
-	"type" "DLC"
+	"type" "Music"
 	"parent" "939400"
 	"releasestate" "released"
-	"oslist" "windows,macos"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"clienttga" "582a6238469f1d317692624e1371f2656e502f4f"
 	"logo" "3442b549ef249f1dd42312c9276280900a4f059d"
@@ -15,8 +15,10 @@
 	"name_localized"
 	{
 		"sc_schinese" "拣爱原声音乐合辑 (二)"
+		"schinese" "LoveChoice拣爱_原声音乐合辑 (二)"
 	}
 	"releasestatesteamchina" "released"
+	"osextended" ""
 	"metacritic_name" "&amp;quot;LoveChoice - Original Sound Track 2&amp;quot;"
 	"small_capsule"
 	{
@@ -28,6 +30,7 @@
 		"english" "header.jpg"
 		"sc_schinese" "header_sc_schinese.jpg"
 	}
+	"store_screenshot" "ss_aaccdaf62c5ce7219fb1a3bb3d5acdf9c4fafda8.jpg"
 	"store_asset_mtime" "1631760811"
 	"associations"
 	{
@@ -54,7 +57,6 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
-		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -96,6 +98,7 @@
 	}
 	"steam_release_date" "1561972260"
 	"gameid" "1111070"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "21"
@@ -108,11 +111,11 @@
 }
 "extended"
 {
-	"dlcforappid" "939400"
-	"mustownapptopurchase" "939400"
+	"musicalbumforappid" "939400"
+	"isconverteddlc" "1"
 	"developer" "Akaba Studio"
 	"publisher" "Akaba Studio"
-	"dlcavailableonstore" "1"
+	"musicalbumavailableonstore" "1"
 }
 "config"
 {
@@ -121,6 +124,7 @@
 		"steam_china_enable_duration_control" "0"
 		"steam_china_duration_control_show_interstitial" "0"
 	}
+	"installdir" "LoveChoice - Original Sound Tracks 2"
 }
 "depots"
 {
@@ -130,35 +134,264 @@
 		{
 			"public"
 			{
-				"gid" "6995412353502022893"
-				"size" "158284956"
-				"download" "144676736"
+				"gid" "3800444041445997170"
+				"size" "20744256"
+				"download" "19828384"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"1111071"
+	{
+		"config"
 		{
-			"steam_china_only"
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "74E03F20A330BC35A9A82C1A95229C92"
-				"size" "C4CD388BC444DBE7D3EAE7A7DFD5F4CA"
-				"download" "03445A682931A9BBFFEC143313196881"
+				"gid" "5899120587461016359"
+				"size" "137540700"
+				"download" "124848352"
 			}
 		}
-		"dlcappid" "1111070"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "4667675"
-			"timeupdated" "1581500409"
-		}
-		"steam_china_only"
-		{
-			"buildid" "4667675"
-			"pwdrequired" "1"
-			"timeupdated" "1631757679"
-			"sc_schinese" "仅中国"
+			"buildid" "17219921"
+			"timeupdated" "1738554781"
 		}
 	}
+	"privatebranches" "1"
 }
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "MIDIPanda"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"composer"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "07_Far Memory_Piano version"
+			"m" "1"
+			"s" "3"
+			"internationalname" "Far Memory(Piano version)"
+			"languagecode" "en"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "08_Far Memory_MusicBox version"
+			"m" "1"
+			"s" "3"
+			"internationalname" "Far Memory(MusicBox version)"
+			"languagecode" "en"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "09_Truth Untold"
+			"m" "1"
+			"s" "4"
+			"internationalname" "Truth Untold"
+			"languagecode" "en"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "10_Long For Beginning"
+			"m" "1"
+			"s" "18"
+			"internationalname" "Long For Beginning"
+			"languagecode" "en"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "11_Gentle Recall"
+			"m" "1"
+			"s" "21"
+			"internationalname" "Gentle Recall"
+			"languagecode" "en"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "12_Piece Lost"
+			"m" "1"
+			"s" "28"
+			"internationalname" "Piece Lost"
+			"languagecode" "en"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "13_Time and Progress"
+			"m" "1"
+			"s" "1"
+			"internationalname" "Time and Progress"
+			"languagecode" "en"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Extra_SongBroken"
+			"m" "0"
+			"s" "29"
+			"internationalname" "Extra_SongBroken"
+			"languagecode" "en"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "60fda26acad2746c0e753f633b3a71fe4ba0248e"
+	}
+}
+"_missing_token" "False"
+"_change_number" "27283281"
+"_sha" "fb038b6993db57313856b7587ed9031029a9f33d"
+"_size" "7101"
