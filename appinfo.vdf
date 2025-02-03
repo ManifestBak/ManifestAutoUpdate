@@ -80,7 +80,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1658693864"
+	"store_asset_mtime" "1676398608"
 	"associations"
 	{
 		"0"
@@ -161,6 +161,7 @@
 {
 	"developer" "YAW Studios"
 	"publisher" "YAW Studios"
+	"homepage" "https://www.yawstudios.com"
 	"listofdlc" "1584380"
 	"dlcavailableonstore" "1"
 }
@@ -189,18 +190,9 @@
 		{
 			"public"
 			{
-				"gid" "1423079853425361588"
-				"size" "1870943993"
-				"download" "286373696"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"teste_interno"
-			{
-				"gid" "10A2E6F6E22BED675005BF2A8541B029"
-				"size" "C4D90E8342EC564886E9D679BBE1333A"
-				"download" "149A6A0F6B63CE90E6145FE2962C8316"
+				"gid" "7877786893026595417"
+				"size" "1711898644"
+				"download" "136895184"
 			}
 		}
 	}
@@ -216,28 +208,18 @@
 				"download" "6334368"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"teste_interno"
-			{
-				"gid" "DA1A7BD0762DA065FF7C87E2BAF9CD68"
-				"size" "56C9E7D801AD52E622040A2392FD9B2D"
-				"download" "FF85C90E146F40E6A73F7362F8361163"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11660812"
-			"timeupdated" "1689626410"
-		}
-		"teste_interno"
-		{
-			"buildid" "11660812"
-			"pwdrequired" "1"
-			"timeupdated" "1688932274"
+			"buildid" "16817211"
+			"timeupdated" "1738611631"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27295269"
+"_sha" "e3e9e435effbf0ddf04224156c1fc9b439adb6d6"
+"_size" "3546"
