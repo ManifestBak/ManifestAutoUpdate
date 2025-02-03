@@ -293,8 +293,8 @@
 		"11" "1677"
 		"12" "12095"
 		"13" "1756"
-		"14" "4026"
-		"15" "791774"
+		"14" "791774"
+		"15" "4026"
 		"16" "597"
 		"17" "1770"
 		"18" "4166"
@@ -362,33 +362,6 @@
 				"download" "5203444944"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "24DD6A4139FD15F105495112510EE6B8"
-				"size" "736F32FC064BD644146A98F22016AC8F"
-				"download" "F21114BC59520B2030FE338A1D0CE0B9"
-			}
-			"beta"
-			{
-				"gid" "D26C2CBACD4B6B555E8B95D6FF35E565"
-				"size" "B1985C07054C3AD608AAE71E8BD49ADE"
-				"download" "BD2A5C34517F11FFA19D56E6D211A3D8"
-			}
-			"internal"
-			{
-				"gid" "268F4CBB880E9932DD3DF254BFBF60CE"
-				"size" "E679F5B2AD59555D173E5CA07D1B9E84"
-				"download" "B91AB1C5517EEA3DA9B83ED65E499E15"
-			}
-			"seawolf"
-			{
-				"gid" "DFFF99487457EFEE6B61B46D71FBAFDC"
-				"size" "95E22738E2767D4689E5169626948714"
-				"download" "C6B3040C9C0FDF7F083989CAE3760D59"
-			}
-		}
 	}
 	"1284412"
 	{
@@ -405,33 +378,6 @@
 				"gid" "4935063395709817286"
 				"size" "98100344"
 				"download" "97970992"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "DDF89C90095ADF17ADD7CF574F2A00BB"
-				"size" "056B4AAAFB8D517D1CF1A75614E5673E"
-				"download" "2CB5E60335B9E6AE11DFF89B20F6A5EC"
-			}
-			"beta"
-			{
-				"gid" "3A38C1076F3B8F185E8EB1F731C7A1D5"
-				"size" "3C473D95A435023C0AB34CF57BB23292"
-				"download" "A4261167F17017C56479ECDCAB8E7699"
-			}
-			"internal"
-			{
-				"gid" "B0DE9292AB06C6285929BAFA55326F51"
-				"size" "6EDAF62B989AECEA9978345905D31782"
-				"download" "357F325804D8962AF96A604EFE19C78C"
-			}
-			"seawolf"
-			{
-				"gid" "FB6EBCC3B599D7BDFBDDBFD6718649D2"
-				"size" "4D6608CEBD6501463E6A139B7ACCD26D"
-				"download" "CE130444197CBC1321CB409AF404AAC5"
 			}
 		}
 	}
@@ -452,33 +398,6 @@
 				"download" "91588000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "0E8AF0A6F70A92801E6CB8C722C80878"
-				"size" "7D5538598CA4F01D232848062495B4D0"
-				"download" "99A95F6493F850F2BE92B2DA5436941D"
-			}
-			"beta"
-			{
-				"gid" "B7D77BADD366E21EB20F4DD68B429C65"
-				"size" "A54158E7B4A775B3E7811DA91D5BAEA8"
-				"download" "F11311564CB93A4C65994EF0F787C91C"
-			}
-			"internal"
-			{
-				"gid" "148ABEE10EDB58F6718D456FD3644590"
-				"size" "435B5EC4D234B9A0D42FEDAF758F183B"
-				"download" "A4B2FC7F42BCF1B35B4A927E5CDF12BE"
-			}
-			"seawolf"
-			{
-				"gid" "2148CCFE1D212DD7E187FBE92011965A"
-				"size" "81259A00AB9BA9575F93BA318F63A430"
-				"download" "9640C363EF53A7E52A7532C7AB525EBF"
-			}
-		}
 	}
 	"1284414"
 	{
@@ -495,33 +414,6 @@
 				"gid" "6378204103458909152"
 				"size" "97723731"
 				"download" "97601728"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "E966994D310A5FCBF54DEA558DEDA648"
-				"size" "7D82DBBA976C01B01C3C33E845646627"
-				"download" "56E833A8BB40C48637757CA2A53DFFC6"
-			}
-			"beta"
-			{
-				"gid" "7A4FE022CA3077C8681258F1453296EB"
-				"size" "C9929D91C2A660216184C3880C083F6A"
-				"download" "6FC17C505406638E713774A6ABD510CB"
-			}
-			"internal"
-			{
-				"gid" "47C97FD9BAC3F6B78FD014A5E8D9DBE6"
-				"size" "0F9FAC8A904F6F33E07D261995A22FA9"
-				"download" "EBAC703CDAF535CA5614F606F40AB9EA"
-			}
-			"seawolf"
-			{
-				"gid" "B77EBE19EA8FC02A3B53A90582184E4E"
-				"size" "A30EEDA3045668BBDD1145DB18640EA9"
-				"download" "784C04BE66E6DE8061084672DE0C6C75"
 			}
 		}
 	}
@@ -542,33 +434,6 @@
 				"download" "95339376"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "627C79C872D0654CCDEF2B7A50513577"
-				"size" "D3DAEAF4DC862A03AC7424F7E365F8CA"
-				"download" "3924CD1299DEC7857C1B4337AA7260CE"
-			}
-			"beta"
-			{
-				"gid" "B5FA767F1BFD6671D6C24D5367771700"
-				"size" "7D2848551775D6E961C6A0CFCDD73EA2"
-				"download" "2B3CA060AC09AAA53B8DF4FAF4818433"
-			}
-			"internal"
-			{
-				"gid" "88F68E7051EEAE239DB46E5FC00A527C"
-				"size" "E24E3018E295EC22B1E819645F7C03A5"
-				"download" "F1C18B1F597EAE6762A84B881E4718F1"
-			}
-			"seawolf"
-			{
-				"gid" "05DF6D7C0F47C013BC59C115ADDA5B71"
-				"size" "8B24D00AF58BFEE5DEE0B9CEFC8B27C3"
-				"download" "8CBC6D49E247AB8F4C61D37018A993D2"
-			}
-		}
 	}
 	"1284416"
 	{
@@ -587,33 +452,6 @@
 				"download" "92684032"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "C1AC5983F24C45A0C682B8016F9CA529"
-				"size" "BEA889D20AE35AA640BE6AE2DBA75E07"
-				"download" "4FE4B4C5BAF619A4ED7C4CAD02F64F1B"
-			}
-			"beta"
-			{
-				"gid" "DF357186538C00A30682A362743A2243"
-				"size" "54ACED95EA6CCE182BB101565339F4C7"
-				"download" "26B0579779110E70B76D39B788875CD2"
-			}
-			"internal"
-			{
-				"gid" "A44ECAE6484303A7D57B6705504879ED"
-				"size" "872D271E428C38DC7C481789CBF2AB19"
-				"download" "D1CBB40C20DB3E38C9F467384B63A000"
-			}
-			"seawolf"
-			{
-				"gid" "00530AFD1E2DEB43581EE5923DE0AF77"
-				"size" "22A5738F2DF8CA08B9C5513E0226F4A7"
-				"download" "943211BE22ECE10E383F160175F24837"
-			}
-		}
 	}
 	"1288440"
 	{
@@ -627,33 +465,6 @@
 				"download" "2294127024"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "32E5593DE46476B6DEF6DD46F5A2043F"
-				"size" "C1781C8D0F0D4972F3ED21D7DA494B6F"
-				"download" "7DC654575B8B9FCE5D19E8910CA16B44"
-			}
-			"beta"
-			{
-				"gid" "3101F266340EF787634B5659C787BE8D"
-				"size" "023B616E0769A4C290ACA8C24C0D3516"
-				"download" "F5F7F6B7BD68D8909ACEF29FBC5BC172"
-			}
-			"internal"
-			{
-				"gid" "0C1E3020117CD876AE9DB61138D7E50D"
-				"size" "5A75308B45189552AC87B35D291A1776"
-				"download" "74648BAD042564AB9A7D4E219EF942B6"
-			}
-			"seawolf"
-			{
-				"gid" "2C13263B203536C011983D33B386E602"
-				"size" "F9FE6B2BBF7560DE97A754B5E27AE39D"
-				"download" "84C309DA936C3B1833C87CBF00879B0D"
-			}
-		}
 	}
 	"branches"
 	{
@@ -662,29 +473,10 @@
 			"buildid" "13000930"
 			"timeupdated" "1702998259"
 		}
-		"alpha"
-		{
-			"buildid" "13000930"
-			"pwdrequired" "1"
-			"timeupdated" "1702993391"
-		}
-		"beta"
-		{
-			"buildid" "8734041"
-			"pwdrequired" "1"
-			"timeupdated" "1652445603"
-		}
-		"internal"
-		{
-			"buildid" "11112128"
-			"pwdrequired" "1"
-			"timeupdated" "1682665841"
-		}
-		"seawolf"
-		{
-			"buildid" "7378067"
-			"pwdrequired" "1"
-			"timeupdated" "1631888139"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26906793"
+"_sha" "146e4746801c74950ad738e8929bd855ffe7912e"
+"_size" "9136"
