@@ -1,0 +1,309 @@
+"appid" "860020"
+"common"
+{
+	"name" "Exfil"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "c8d62fb1aca5c36e021408619385db4378ea720c"
+	"logo_small" "c8d62fb1aca5c36e021408619385db4378ea720c_thumb"
+	"icon" "f8348007b891296f314c1162b0769c3145770b48"
+	"clienticon" "33737b8b5f5423d893b052648200821b5133cc62"
+	"clienttga" "8c2d111c302bde042b28a6d0f20a963782bbbdf4"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "860020_eula_0"
+			"name" "Exfil EULA"
+			"url" "https://store.steampowered.com//eula/860020_eula_0"
+			"version" "10"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "549ba8c2d28742c205a6cb1d308b5484ccd56ec0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.51906916612802"
+			"height_pct" "87.2159390749096"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "b0ac25d0dcc06d2437216a33fcf3b219ccb027e6/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "b0ac25d0dcc06d2437216a33fcf3b219ccb027e6/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "2b42f28269ffe96fe00314f238615b4a09b0de70/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "2b42f28269ffe96fe00314f238615b4a09b0de70/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "2b42f28269ffe96fe00314f238615b4a09b0de70/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.51906916612802"
+				"height_pct" "87.2159390749096"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "f729bc006ca52d28f734ee6759e2c261eeb7a567/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734630226"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Misultin Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MicroProse Software"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733954779"
+	"community_hub_visible" "1"
+	"gameid" "860020"
+	"store_tags"
+	{
+		"0" "1678"
+		"1" "1663"
+		"2" "3993"
+		"3" "3839"
+		"4" "4175"
+		"5" "599"
+		"6" "4168"
+		"7" "1708"
+		"8" "5711"
+		"9" "4684"
+		"10" "3916"
+		"11" "4166"
+		"12" "19"
+		"13" "1687"
+		"14" "1662"
+		"15" "1775"
+		"16" "9"
+		"17" "1774"
+		"18" "4145"
+		"19" "492"
+	}
+	"review_score" "5"
+	"review_percentage" "43"
+}
+"extended"
+{
+	"gamedir" "exfil"
+	"serverbrowsername" "Exfil"
+	"developer" "Misultin Studios"
+	"publisher" "MicroProse Software"
+	"homepage" "http://www.misultin.com"
+	"listofdlc" "3370650"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Exfil"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "exfil_launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"860021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8163774692812370853"
+				"size" "10306605629"
+				"download" "10122981952"
+			}
+			"public-testing"
+			{
+				"gid" "2046133478271199473"
+				"size" "10307529096"
+				"download" "10121503504"
+			}
+		}
+	}
+	"3370650"
+	{
+		"dlcappid" "3370650"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17179737"
+			"timeupdated" "1738210903"
+		}
+		"public-testing"
+		{
+			"buildid" "17216690"
+			"description" "Public access to the latest features for testing"
+			"timeupdated" "1738519337"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Exfil/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Exfil/Saved/Config/Windows"
+			"pattern" "Settings.ini"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27283591"
+"_sha" "ea95af490bf0a99a76d0a9ab395d1e45f45c5c31"
+"_size" "5300"
