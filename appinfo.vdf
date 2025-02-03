@@ -67,7 +67,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "774e74fbd8d0974a5895f5ad2d536230678815f4/capsule_231x87.jpg"
+		"english" "e36855aa3170bf99bc181fc49991d609c460eff7/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732204003"
+	"store_asset_mtime" "1738593989"
 	"associations"
 	{
 		"0"
@@ -216,6 +216,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1732212054"
 	"metacritic_score" "78"
@@ -283,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "7515384076928211145"
-				"size" "14095555823"
-				"download" "8060811888"
+				"gid" "8523782300996902804"
+				"size" "14230218979"
+				"download" "8140251744"
 			}
 		}
 	}
@@ -331,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "16955139"
-			"timeupdated" "1736449275"
+			"buildid" "17226686"
+			"timeupdated" "1738605102"
 		}
 	}
 	"privatebranches" "1"
@@ -386,6 +396,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27066661"
-"_sha" "8eef59cedf270517cd53756cf2c9d8a338892313"
-"_size" "6926"
+"_change_number" "27293618"
+"_sha" "eec117481c94805d1325bd81276b8d4c3646d541"
+"_size" "7067"
