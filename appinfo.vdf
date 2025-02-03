@@ -12,6 +12,7 @@
 	"oslist" "windows"
 	"osarch" ""
 	"metacritic_name" "Triton Survival"
+	"controllertagwizard" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -31,6 +32,51 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "51.691731507092186"
 			"height_pct" "84.49972332228046"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "51.691731507092186"
+				"height_pct" "84.49972332228046"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1714454867"
@@ -135,18 +181,9 @@
 		{
 			"public"
 			{
-				"gid" "9179893859805526708"
-				"size" "8722191096"
-				"download" "2712927296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "7B7600A26CBB720300B6BB92B3F6D364"
-				"size" "64E270FAFAE498054A83B6C7A8B53CBE"
-				"download" "2BE9E2A05D1D4E58E5E987FE979586BF"
+				"gid" "7476842112786280253"
+				"size" "9370358632"
+				"download" "2942735392"
 			}
 		}
 	}
@@ -154,16 +191,11 @@
 	{
 		"public"
 		{
-			"buildid" "7630197"
-			"timeupdated" "1635595670"
-		}
-		"test"
-		{
-			"buildid" "7630197"
-			"pwdrequired" "1"
-			"timeupdated" "1714470763"
+			"buildid" "17208510"
+			"timeupdated" "1738589612"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -185,3 +217,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27289461"
+"_sha" "3f13fd4699bcd17e6e077ba734037931f0ec231f"
+"_size" "3540"
