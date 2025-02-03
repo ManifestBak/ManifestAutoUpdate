@@ -91,6 +91,60 @@
 			"height_pct" "64.23611111111111"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "62.40409207161126"
+				"height_pct" "64.23611111111111"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1718996444"
 	"associations"
 	{
@@ -164,13 +218,13 @@
 		"4" "3959"
 		"5" "4695"
 		"6" "12472"
-		"7" "4726"
-		"8" "5981"
+		"7" "5981"
+		"8" "4726"
 		"9" "3871"
-		"10" "1716"
-		"11" "597"
-		"12" "599"
-		"13" "3964"
+		"10" "597"
+		"11" "1716"
+		"12" "3964"
+		"13" "599"
 		"14" "4094"
 		"15" "4305"
 		"16" "8945"
@@ -212,18 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "6979798977047528697"
-				"size" "61451285"
-				"download" "51630608"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "2F872ED28698AFBD94C2C6BD15CBE7B4"
-				"size" "E8578BE42BDA36464A1FD232D9437BBC"
-				"download" "4E11920910A61918F39EC9768D209BFA"
+				"gid" "5035509112756291648"
+				"size" "61348373"
+				"download" "51639344"
 			}
 		}
 	}
@@ -231,16 +276,11 @@
 	{
 		"public"
 		{
-			"buildid" "14841051"
-			"timeupdated" "1719384829"
-		}
-		"beta"
-		{
-			"buildid" "14835120"
-			"pwdrequired" "1"
-			"timeupdated" "1719339506"
+			"buildid" "17227404"
+			"timeupdated" "1738605383"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -261,6 +301,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24121542"
-"_sha" "2a81c6a15c170893372ab93d52a154afc4f3a453"
-"_size" "4533"
+"_change_number" "27293820"
+"_sha" "2eea9a159b808b6182c9cf49a1a8ea23f6dcd3ac"
+"_size" "5191"
