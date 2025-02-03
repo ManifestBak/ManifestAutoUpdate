@@ -7,9 +7,9 @@
 	"linuxclienticon" "2f75ec5a6f2819822b312c1eb4cd1fbeb59e7eeb"
 	"clienticon" "555622103f70c215d101471a6f5197d220448ee3"
 	"clienttga" "32c24c9756526ac59f07ce43d1f9b08940bb5b3a"
-	"oslist" "windows,linux"
+	"oslist" "windows,macos,linux"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"releasestate" "released"
 	"clienticns" "e7feb2a1d84c950b2578939f807abe93263358e2"
 	"aicontenttype" "1"
@@ -352,6 +352,14 @@
 				"osarch" "64"
 			}
 		}
+		"2"
+		{
+			"executable" "claritas-rpg.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 }
 "depots"
@@ -401,9 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "4046255176031443001"
-				"size" "0"
-				"download" "0"
+				"gid" "2436644520515357002"
+				"size" "474061119"
+				"download" "292484784"
 			}
 		}
 	}
@@ -411,12 +419,12 @@
 	{
 		"public"
 		{
-			"buildid" "17216366"
-			"timeupdated" "1738511488"
+			"buildid" "17224759"
+			"timeupdated" "1738591743"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27278096"
-"_sha" "f4186fc768015a5bc1f753a9642c6796b23d6605"
-"_size" "7054"
+"_change_number" "27289925"
+"_sha" "519eded73858137ceb781a514dd76515cf482359"
+"_size" "7203"
