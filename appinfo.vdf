@@ -63,6 +63,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228990"
 	{
 		"config"
@@ -82,9 +91,9 @@
 		{
 			"public"
 			{
-				"gid" "4505443049630931087"
-				"size" "100160436399"
-				"download" "36416487104"
+				"gid" "4397254197990796483"
+				"size" "88280013606"
+				"download" "34535023568"
 			}
 		}
 	}
@@ -93,8 +102,8 @@
 	{
 		"public"
 		{
-			"buildid" "17162476"
-			"timeupdated" "1738173644"
+			"buildid" "16264406"
+			"timeupdated" "1738611868"
 		}
 	}
 	"privatebranches" "1"
