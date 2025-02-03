@@ -260,7 +260,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,tchinese"
+	"baselanguages" ""
 	"3031151"
 	{
 		"config"
@@ -271,26 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "3635806094119314945"
-				"size" "467222326"
-				"download" "112443312"
-			}
-		}
-	}
-	"3031152"
-	{
-		"config"
-		{
-			"language" "tchinese"
-			"oslist" "windows"
-		}
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "8369214481428001090"
-				"size" "469118377"
-				"download" "112780128"
+				"gid" "7204635553935107776"
+				"size" "468836950"
+				"download" "112515008"
 			}
 		}
 	}
@@ -298,12 +281,12 @@
 	{
 		"public"
 		{
-			"buildid" "17137078"
-			"timeupdated" "1737905172"
+			"buildid" "17219619"
+			"timeupdated" "1738551247"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27172858"
-"_sha" "53f5e4de6f25e1eeb135923316d1da269b0ac4fc"
-"_size" "5605"
+"_change_number" "27282775"
+"_sha" "efe8e2963dffe851b93c56a9154e3e3e283142a0"
+"_size" "5358"
