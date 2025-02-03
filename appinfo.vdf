@@ -5,10 +5,10 @@
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
-	"clienticns" "79fc2039fd153fcd8c7693c9bd71fae03180f281"
+	"clienticns" "cd15d62daaccdb1c1bd4836f42ec92570c0ace27"
 	"icon" "4c998b921ffe428790bcdecb7f451e8e89d8b1c9"
-	"clienttga" "269d62fc7acbca0338281b3d9c048735d5b91204"
-	"clienticon" "3ac916be1980f861fec6c3768b1ca93198fcba1d"
+	"clienttga" "57a1e4fbb897f5878bc9a545ef0ed18ee837617d"
+	"clienticon" "7c29eec304ba78b769f6fdc912de3f66a09c85e3"
 	"logo" "c876e79429446aa635f2a8e6f0930c3be0b2ab66"
 	"logo_small" "c876e79429446aa635f2a8e6f0930c3be0b2ab66_thumb"
 	"osarch" "64"
@@ -284,7 +284,6 @@
 		"3"
 		{
 			"executable" "risingworldx64.exe"
-			"workingdir" "_Java Version"
 			"type" "option1"
 			"config"
 			{
@@ -300,7 +299,6 @@
 		"4"
 		{
 			"executable" "risingworld"
-			"workingdir" "_Java Version"
 			"type" "option1"
 			"config"
 			{
@@ -502,15 +500,15 @@
 		{
 			"public"
 			{
-				"gid" "2956552831519415873"
-				"size" "10092981506"
-				"download" "6704476400"
+				"gid" "2688477389687592397"
+				"size" "10095488172"
+				"download" "6706590368"
 			}
 			"unity"
 			{
-				"gid" "2956552831519415873"
-				"size" "10092981506"
-				"download" "6704476400"
+				"gid" "2688477389687592397"
+				"size" "10095488172"
+				"download" "6706590368"
 			}
 			"unity_old"
 			{
@@ -530,15 +528,15 @@
 		{
 			"public"
 			{
-				"gid" "2017148301357087663"
-				"size" "10045821004"
-				"download" "6677563424"
+				"gid" "3058848048532568819"
+				"size" "10048287018"
+				"download" "6679781424"
 			}
 			"unity"
 			{
-				"gid" "2017148301357087663"
-				"size" "10045821004"
-				"download" "6677563424"
+				"gid" "3058848048532568819"
+				"size" "10048287018"
+				"download" "6679781424"
 			}
 			"unity_old"
 			{
@@ -558,15 +556,15 @@
 		{
 			"public"
 			{
-				"gid" "5713090560881407245"
-				"size" "10191579135"
-				"download" "6647593168"
+				"gid" "3879080154099976610"
+				"size" "10194094278"
+				"download" "6648314048"
 			}
 			"unity"
 			{
-				"gid" "5713090560881407245"
-				"size" "10191579135"
-				"download" "6647593168"
+				"gid" "3879080154099976610"
+				"size" "10194094278"
+				"download" "6648314048"
 			}
 			"unity_old"
 			{
@@ -580,8 +578,8 @@
 	{
 		"public"
 		{
-			"buildid" "17201181"
-			"timeupdated" "1738341913"
+			"buildid" "17211211"
+			"timeupdated" "1738432833"
 		}
 		"java"
 		{
@@ -591,9 +589,9 @@
 		}
 		"unity"
 		{
-			"buildid" "17201181"
+			"buildid" "17211211"
 			"description" "New Version Preview"
-			"timeupdated" "1738342059"
+			"timeupdated" "1738432848"
 		}
 		"unity_old"
 		{
@@ -610,6 +608,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27257391"
-"_sha" "99f361e245828f63401a119750e8a6b8afe3b2d2"
-"_size" "10923"
+"_change_number" "27270556"
+"_sha" "c97d9913c58f5428c9e1d39618c0c0a0e0348de3"
+"_size" "10855"
