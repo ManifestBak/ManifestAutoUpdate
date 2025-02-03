@@ -10,6 +10,7 @@
 	"logo" "a8e67b78516384acab4fa854f8fe47605228bfe7"
 	"logo_small" "a8e67b78516384acab4fa854f8fe47605228bfe7_thumb"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Hexoscope"
 	"small_capsule"
 	{
@@ -29,6 +30,44 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "55.53505535055351"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.53505535055351"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1573427833"
@@ -56,6 +95,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -148,7 +188,6 @@
 	}
 	"511301"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -158,10 +197,10 @@
 				"download" "2054480"
 			}
 		}
+		"dlcappid" "511301"
 	}
 	"511300"
 	{
-		"dlcappid" "0"
 		"manifests"
 		{
 			"public"
@@ -171,6 +210,7 @@
 				"download" "20463360"
 			}
 		}
+		"dlcappid" "511300"
 	}
 	"branches"
 	{
@@ -210,6 +250,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "18903802"
-"_sha" "d1de1187ce37f1c533a32c505e07a1cd9a697a5f"
-"_size" "3270"
+"_change_number" "26253459"
+"_sha" "c573778551dae1d7e7d870f05f13dbbb2de07f62"
+"_size" "3879"
