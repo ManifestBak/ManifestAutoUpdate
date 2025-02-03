@@ -11,8 +11,8 @@
 	"clienticns" "a297df5e58059f6425a00b2dc9d6ab313a60d04e"
 	"clienticon" "a297df5e58059f6425a00b2dc9d6ab313a60d04e"
 	"icon" "1832520559ace5dd8c8e3d52cc01f9fa49be545b"
-	"osarch" ""
-	"osextended" "macos64"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
 	"content_descriptors"
 	{
 		"0" "5"
@@ -304,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "4962232080520024599"
-				"size" "7096412745"
-				"download" "3005205712"
+				"gid" "7808570465759280694"
+				"size" "7178396198"
+				"download" "3018182016"
 			}
 		}
 	}
@@ -331,8 +331,8 @@
 	{
 		"public"
 		{
-			"buildid" "17202325"
-			"timeupdated" "1738348038"
+			"buildid" "17220093"
+			"timeupdated" "1738609047"
 		}
 	}
 	"privatebranches" "1"
@@ -343,6 +343,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27259310"
-"_sha" "076528da46d30af3a7608bff34a08afb67eb9388"
-"_size" "6167"
+"_change_number" "27294636"
+"_sha" "7486ca5110e55c4dc174f0921eeb7f17afd65ca0"
+"_size" "6187"
