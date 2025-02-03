@@ -381,9 +381,9 @@
 			}
 			"lastversion"
 			{
-				"gid" "9181437876320815360"
-				"size" "3334809691"
-				"download" "2735452048"
+				"gid" "1847323019174411554"
+				"size" "3080711901"
+				"download" "2509841040"
 			}
 		}
 	}
@@ -488,6 +488,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"lastversion"
+			{
+				"gid" "156741920058084521"
+				"size" "3091500631"
+				"download" "2521462960"
+			}
 		}
 	}
 	"branches"
@@ -505,9 +511,9 @@
 		}
 		"lastversion"
 		{
-			"buildid" "5810666"
-			"description" "The version before BoTN Update"
-			"timeupdated" "1612420006"
+			"buildid" "14286806"
+			"description" "The version before the latest Update"
+			"timeupdated" "1738257501"
 		}
 	}
 	"privatebranches" "1"
@@ -574,6 +580,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27235408"
-"_sha" "21ca6a23179b45221a3e879dce06ad5be8b7fea6"
-"_size" "11406"
+"_change_number" "27239369"
+"_sha" "7dbe9dac15b636ca49f0be5c9448dcd317c116d9"
+"_size" "11532"
