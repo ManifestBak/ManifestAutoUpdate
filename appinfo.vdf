@@ -2,10 +2,10 @@
 "common"
 {
 	"name" "LoveChoice - Original Sound Tracks 3"
-	"type" "DLC"
+	"type" "Music"
 	"parent" "939400"
 	"releasestate" "released"
-	"oslist" "windows,macos"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" ""
 	"clienttga" "582a6238469f1d317692624e1371f2656e502f4f"
@@ -16,6 +16,7 @@
 	"name_localized"
 	{
 		"sc_schinese" "拣爱原声音乐合辑 (三)"
+		"schinese" "LoveChoice 拣爱_原声音乐合辑 (三)"
 	}
 	"releasestatesteamchina" "released"
 	"metacritic_name" "LoveChoice - Original Sound Tracks 3"
@@ -55,6 +56,7 @@
 			}
 		}
 	}
+	"store_screenshot" "ss_bb1481e86bad8d880de34cd4cef23c14e1b8c1d5.jpg"
 	"store_asset_mtime" "1631764204"
 	"associations"
 	{
@@ -82,7 +84,6 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
-		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -134,6 +135,7 @@
 	}
 	"steam_release_date" "1568302620"
 	"gameid" "1156960"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "599"
@@ -146,11 +148,11 @@
 }
 "extended"
 {
-	"dlcforappid" "939400"
-	"mustownapptopurchase" "939400"
+	"musicalbumforappid" "939400"
+	"isconverteddlc" "1"
 	"developer" "Akaba Studio"
 	"publisher" "Akaba Studio"
-	"dlcavailableonstore" "1"
+	"musicalbumavailableonstore" "1"
 }
 "config"
 {
@@ -159,6 +161,7 @@
 		"steam_china_enable_duration_control" "0"
 		"steam_china_duration_control_show_interstitial" "0"
 	}
+	"installdir" "LoveChoice - Original Sound Tracks 3"
 }
 "depots"
 {
@@ -168,35 +171,254 @@
 		{
 			"public"
 			{
-				"gid" "1760990600486329287"
-				"size" "180051600"
-				"download" "159695136"
+				"gid" "8413932917959429574"
+				"size" "31341555"
+				"download" "27529024"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"1156961"
+	{
+		"config"
 		{
-			"steam_china_only"
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "A2C5888F41D78BE7D178E5A62FB653BB"
-				"size" "762ED9F1EAE88E1D24C725188BF8EB67"
-				"download" "9A9BEDC25AB4D1CFD73F4C568E8B2FDE"
+				"gid" "7607074119629999669"
+				"size" "148710045"
+				"download" "132166112"
 			}
 		}
-		"dlcappid" "1156960"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "6758503"
-			"timeupdated" "1631757759"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "6758503"
-			"pwdrequired" "1"
-			"timeupdated" "1631757766"
+			"buildid" "17220597"
+			"timeupdated" "1738562313"
 		}
 	}
+	"privatebranches" "1"
 }
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "MIDIPanda, tzu-yang han"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"composer"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "14_As Usual"
+			"m" "1"
+			"s" "13"
+			"internationalname" "As Usual"
+			"languagecode" "en"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "15_Cute Accidence"
+			"m" "1"
+			"s" "55"
+			"internationalname" "Cute Accidence"
+			"languagecode" "en"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "16_As Promised"
+			"m" "2"
+			"s" "1"
+			"internationalname" "As Promised"
+			"languagecode" "en"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "17_Flickering Light"
+			"m" "1"
+			"s" "6"
+			"internationalname" "Flickering Light"
+			"languagecode" "en"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "18_LoveChoice"
+			"m" "4"
+			"s" "35"
+			"internationalname" "LoveChoice"
+			"languagecode" "en"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Extra_Family"
+			"m" "2"
+			"s" "20"
+			"internationalname" "Extra_Family"
+			"languagecode" "en"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Extra_Naughty Cutey"
+			"m" "1"
+			"s" "15"
+			"internationalname" "Extra_Naughty Cutey"
+			"languagecode" "en"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "60fda26acad2746c0e753f633b3a71fe4ba0248e"
+	}
+}
+"_missing_token" "False"
+"_change_number" "27284333"
+"_sha" "b21a2b35a0b3b91dd98394632f78d2f39a3fe13e"
+"_size" "7606"
