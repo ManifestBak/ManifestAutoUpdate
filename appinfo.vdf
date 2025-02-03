@@ -32,6 +32,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "68.20303383897317"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1685081875"
 	"associations"
 	{
@@ -123,9 +165,9 @@
 		{
 			"public"
 			{
-				"gid" "6567902967913690109"
-				"size" "956887545"
-				"download" "745598880"
+				"gid" "6583862910589168879"
+				"size" "956965981"
+				"download" "745653488"
 			}
 		}
 	}
@@ -141,8 +183,8 @@
 	{
 		"public"
 		{
-			"buildid" "12907772"
-			"timeupdated" "1702012792"
+			"buildid" "17222262"
+			"timeupdated" "1738576803"
 		}
 	}
 	"appmanagesdlc" "1"
@@ -173,3 +215,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27286891"
+"_sha" "4174d8abf0310c84ac1a5532b7d1d084b2bab699"
+"_size" "3331"
