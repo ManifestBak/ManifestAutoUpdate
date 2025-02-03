@@ -198,6 +198,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1705327081"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/1674920/discussions/0/4030224296648891869/"
@@ -265,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "9052475884236167512"
-				"size" "11618332445"
-				"download" "4670128464"
+				"gid" "8915521017032567094"
+				"size" "11671211193"
+				"download" "4715817536"
 			}
 		}
 	}
@@ -276,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "17016205"
-			"timeupdated" "1737131799"
+			"buildid" "17203159"
+			"timeupdated" "1738601390"
 		}
 	}
 	"privatebranches" "1"
@@ -297,6 +302,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27060185"
-"_sha" "68c9eb9849f41090bd81324d47da99f715a28585"
-"_size" "6559"
+"_change_number" "27293084"
+"_sha" "f3d0d6e9be96bdd65b3d0811e574d981a75007ce"
+"_size" "6630"
