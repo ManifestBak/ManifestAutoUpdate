@@ -185,6 +185,7 @@
 		"category_57" "1"
 		"category_18" "1"
 		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -379,9 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "5437223363514316606"
-				"size" "54658535620"
-				"download" "53564034128"
+				"gid" "4204778998893022998"
+				"size" "55222667189"
+				"download" "54070714944"
 			}
 			"nightingale-0.3.2"
 			{
@@ -391,18 +392,9 @@
 			}
 			"public-test-realm"
 			{
-				"gid" "215207847420433927"
-				"size" "54658510806"
-				"download" "53563288816"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"live"
-			{
-				"gid" "7399F63E7C1437D5328388A497FC18FA"
-				"size" "80B5A885DE087A8DF4190F6102A8AF08"
-				"download" "F1553911E125B3AAB431C60F5F2360DB"
+				"gid" "1223791732803178704"
+				"size" "55222677685"
+				"download" "54073688096"
 			}
 		}
 	}
@@ -410,14 +402,8 @@
 	{
 		"public"
 		{
-			"buildid" "16795069"
-			"timeupdated" "1734579751"
-		}
-		"live"
-		{
-			"buildid" "16795069"
-			"pwdrequired" "1"
-			"timeupdated" "1734575716"
+			"buildid" "17212614"
+			"timeupdated" "1738607448"
 		}
 		"nightingale-0.3.2"
 		{
@@ -427,11 +413,12 @@
 		}
 		"public-test-realm"
 		{
-			"buildid" "16740234"
+			"buildid" "17178357"
 			"description" "Test branch for upcoming releases"
-			"timeupdated" "1734122372"
+			"timeupdated" "1738198072"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -449,6 +436,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26720613"
-"_sha" "91dccfa8642c3f1e851217dcb377e48e8680701b"
-"_size" "8386"
+"_change_number" "27294242"
+"_sha" "d71b1540fdfda6845514d98f72ea1ef841037a18"
+"_size" "8129"
