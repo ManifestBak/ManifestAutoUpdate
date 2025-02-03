@@ -1,0 +1,265 @@
+"appid" "2936080"
+"common"
+{
+	"name" "ReSetna"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "9ec7da98d1d04a1d7d4ea6a4cd09cdb1f6752313"
+	"clienttga" "f5ce4bc1e61758382be6f9d76d661e637a630808"
+	"clienticon" "79f8172dde1827268989e0f381b31505f370f5b9"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "41d8cde614beca9e06f4b774fd0c25e4e3cdf8f4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "69.79166666666666"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "69.79166666666666"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738360594"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Today\'s Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Today\'s Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738278026"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2936080"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "4106"
+		"3" "1625"
+		"4" "5379"
+		"5" "3834"
+		"6" "1742"
+		"7" "1628"
+		"8" "3798"
+		"9" "4975"
+		"10" "4252"
+		"11" "7926"
+		"12" "4166"
+		"13" "4295"
+		"14" "3835"
+		"15" "5752"
+		"16" "3942"
+		"17" "4182"
+		"18" "4137"
+		"19" "492"
+	}
+	"review_score" "7"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Today\'s Games"
+	"publisher" "Today\'s Games"
+	"homepage" "https://tgdevs.com/"
+}
+"config"
+{
+	"installdir" "ReSetna"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ReSetna.exe"
+		}
+	}
+}
+"depots"
+{
+	"2936081"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4183004080962357070"
+				"size" "24009893570"
+				"download" "11013981216"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17216098"
+			"timeupdated" "1738510025"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "ReSetna_Data/Saves"
+			"pattern" "*.rst"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "ReSetna_Data/Settings"
+			"pattern" "*.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27280000"
+"_sha" "97fd4f698fa45bbe569173507e6383f0445d5e5c"
+"_size" "4065"
