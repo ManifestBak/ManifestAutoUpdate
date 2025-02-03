@@ -225,6 +225,12 @@
 		{
 			"public"
 			{
+				"gid" "4362980211861253803"
+				"size" "212741365"
+				"download" "167083264"
+			}
+			"chinese"
+			{
 				"gid" "7650328865178974774"
 				"size" "212714093"
 				"download" "167077344"
@@ -235,8 +241,14 @@
 	{
 		"public"
 		{
+			"buildid" "17219847"
+			"timeupdated" "1738554277"
+		}
+		"chinese"
+		{
 			"buildid" "17169532"
-			"timeupdated" "1738147095"
+			"description" "Chinese Beta"
+			"timeupdated" "1738201514"
 		}
 	}
 	"privatebranches" "1"
@@ -260,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27215741"
-"_sha" "f9509574abf49a6f3f1d3efc14b6bc6152d56715"
-"_size" "4722"
+"_change_number" "27283109"
+"_sha" "6f05267352e549b601c184a9c1d74408d1533c8f"
+"_size" "4951"
