@@ -107,6 +107,16 @@
 			"type" "publisher"
 			"name" "Hangover Cat Purrroduction"
 		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Saikey Studios"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Saikey Studios"
+		}
 	}
 	"primary_genre" "25"
 	"genres"
@@ -162,7 +172,7 @@
 		"19" "1721"
 	}
 	"review_score" "7"
-	"review_percentage" "94"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -219,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "412472010826713871"
-				"size" "2061061716"
-				"download" "1693036400"
+				"gid" "7740535797704625082"
+				"size" "2530153418"
+				"download" "1886864224"
 			}
 		}
 	}
@@ -229,13 +239,13 @@
 	{
 		"public"
 		{
-			"buildid" "16805691"
-			"timeupdated" "1734642000"
+			"buildid" "17227797"
+			"timeupdated" "1738607900"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26721433"
-"_sha" "71cdb5be538b0c7e6306328c5e9bff241e5059ba"
-"_size" "4065"
+"_change_number" "27294352"
+"_sha" "2fd5e351eb99bb4b598b2264bef40bb8f330e496"
+"_size" "4206"
