@@ -231,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "2342092987631952093"
-				"size" "15301967137"
-				"download" "5800204256"
+				"gid" "2333424897997847574"
+				"size" "15272817058"
+				"download" "5789813728"
 			}
 			"latest"
 			{
@@ -242,76 +242,13 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "A7513A1EF1B49F8D3029B10A6AEFCDFF"
-				"size" "A16E075B5D2B025820ED73FF135F1366"
-				"download" "26104A8B82B7C68857F79AB4E62257C0"
-			}
-			"dev-latest"
-			{
-				"gid" "BBA2B45AC945D0B1A11FF6A015A64928"
-				"size" "28F9A4959FF2BC6D4AEA249CC3CF9361"
-				"download" "53BCC59B42BFC9656589244F2FE1B5E1"
-			}
-			"earlyaccess"
-			{
-				"gid" "539341E735C3659AA036BB4E3FEF2DCA"
-				"size" "37028D75471F31014D4ECA023966BCC3"
-				"download" "DEA706FD593C955A1F1157244A7B653C"
-			}
-			"earlyaccess-staging"
-			{
-				"gid" "4C994719073FB140B07CFBF0A5A07DA7"
-				"size" "B6DE17925BB624CB1B3919FE126AD557"
-				"download" "D771433453249D725EE5140AF7C01B32"
-			}
-			"viewer"
-			{
-				"gid" "DA2A4000A2B29A324E3DE1DE47A7637B"
-				"size" "7B32E3BFE75B2CF281ADFFF091041B5A"
-				"download" "BC30BFC7DE429D69E6BC76D6603DB639"
-			}
-			"viewer-alpha"
-			{
-				"gid" "B41832F72EC87D7537848CAFE1E021F2"
-				"size" "0DD2A7A37E4910630A1CC14B54A1169F"
-				"download" "0A435FB65126DDBE5FA10242FB38F821"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16622416"
-			"timeupdated" "1733852261"
-		}
-		"alpha"
-		{
-			"buildid" "16381343"
-			"pwdrequired" "1"
-			"timeupdated" "1733850521"
-		}
-		"dev-latest"
-		{
-			"buildid" "16703560"
-			"pwdrequired" "1"
-			"timeupdated" "1733896642"
-		}
-		"earlyaccess"
-		{
-			"buildid" "14379456"
-			"pwdrequired" "1"
-			"timeupdated" "1715799291"
-		}
-		"earlyaccess-staging"
-		{
-			"buildid" "14379456"
-			"pwdrequired" "1"
-			"timeupdated" "1715796728"
+			"buildid" "17099359"
+			"timeupdated" "1738608737"
 		}
 		"latest"
 		{
@@ -319,19 +256,8 @@
 			"description" "Beta Build Testing"
 			"timeupdated" "1731104499"
 		}
-		"viewer"
-		{
-			"buildid" "16381343"
-			"pwdrequired" "1"
-			"timeupdated" "1731602512"
-		}
-		"viewer-alpha"
-		{
-			"buildid" "16621633"
-			"pwdrequired" "1"
-			"timeupdated" "1733268760"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -339,6 +265,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26587688"
-"_sha" "551045628513b4521cc1cb70464856dc7ffb1d7a"
-"_size" "6399"
+"_change_number" "27294555"
+"_sha" "b82b7caaa9cfa85e62272afd4b0328b1b0e9ad2e"
+"_size" "4686"
