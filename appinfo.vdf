@@ -72,6 +72,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -103,6 +104,13 @@
 			"image2x"
 			{
 				"english" "e67c0fb15d643126f95024e9af964e61ec26a9b2/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e67c0fb15d643126f95024e9af964e61ec26a9b2/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -211,6 +219,22 @@
 		{
 			"supported" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1728650980"
 	"community_visible_stats" "1"
@@ -227,8 +251,8 @@
 		"6" "1723"
 		"7" "4191"
 		"8" "1643"
-		"9" "5851"
-		"10" "4305"
+		"9" "4305"
+		"10" "5851"
 		"11" "7332"
 		"12" "4252"
 		"13" "1684"
@@ -236,8 +260,8 @@
 		"15" "4182"
 		"16" "492"
 		"17" "7481"
-		"18" "493"
-		"19" "1646"
+		"18" "1646"
+		"19" "493"
 	}
 	"review_score" "9"
 	"review_percentage" "96"
@@ -296,48 +320,21 @@
 		{
 			"public"
 			{
-				"gid" "6674993503361461815"
-				"size" "793134001"
-				"download" "260578416"
+				"gid" "8216137706613483638"
+				"size" "982070677"
+				"download" "273638208"
 			}
 			"previousversionrollback"
 			{
-				"gid" "8534538067522345369"
-				"size" "664433588"
-				"download" "211520688"
-			}
-			"publicbeta"
-			{
 				"gid" "6674993503361461815"
 				"size" "793134001"
 				"download" "260578416"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_beta"
+			"publicbeta"
 			{
-				"gid" "DBBA10B156A4B42AB8DF85D05052C78A"
-				"size" "701B6F69EADBDC0D3BA5B121C1AD282F"
-				"download" "CB6B7A647A39BF95A23A66E0348FD2D6"
-			}
-			"debug_trailer_recording"
-			{
-				"gid" "39066AF9446FACBA3E617E316444D071"
-				"size" "47483D73D619E496B6817D0C1B9DC436"
-				"download" "799022388691E5C8E9B6B555BDFCFFD6"
-			}
-			"internal_testing"
-			{
-				"gid" "FFEB6DB4530D498E20700BA09C036FE9"
-				"size" "DD1F5D1455B480A55047F1616913C0B4"
-				"download" "C1A28D26D481ABE44CB0733848B435EB"
-			}
-			"prerelease_press"
-			{
-				"gid" "630F287B318E817AA1CBB7E8B1054D72"
-				"size" "4B3D9409769C172FD842AA5AA2C0E32A"
-				"download" "F7C66764754247F13E4BB6F3488133F2"
+				"gid" "8216137706613483638"
+				"size" "982070677"
+				"download" "273638208"
 			}
 		}
 	}
@@ -352,48 +349,21 @@
 		{
 			"public"
 			{
-				"gid" "4503241204162199245"
-				"size" "818066454"
-				"download" "267724480"
+				"gid" "8847390540014643045"
+				"size" "1006734432"
+				"download" "280675552"
 			}
 			"previousversionrollback"
 			{
-				"gid" "2992481037184721386"
-				"size" "688388225"
-				"download" "218561056"
-			}
-			"publicbeta"
-			{
 				"gid" "4503241204162199245"
 				"size" "818066454"
 				"download" "267724480"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_beta"
+			"publicbeta"
 			{
-				"gid" "B7F6D4B2A8D5D53BE5299571DB366681"
-				"size" "F64CBA4A37E2BA4D68A68AD73B4CA79D"
-				"download" "31AEAC4F568917ABC3E671BE25EB51A8"
-			}
-			"debug_trailer_recording"
-			{
-				"gid" "C166EAC6DAF63593ACC3D9D9C3005208"
-				"size" "4FC548761F16931E773C864296174760"
-				"download" "18631CD073BD0B832F2FEDA7059E308A"
-			}
-			"internal_testing"
-			{
-				"gid" "E7EA95BB6E9221A3AA3B03108D078412"
-				"size" "74726AEA9407AFF9802046F7D17ABDB5"
-				"download" "0C58A9F22AC98AA9B4589FD27648A2EC"
-			}
-			"prerelease_press"
-			{
-				"gid" "B2C4DBD04A4A896E1F6AF7F27BA4182A"
-				"size" "71910953A71594D4F40A6E68099416A4"
-				"download" "1DF97662EBB641EFE2426C47B05920EC"
+				"gid" "8847390540014643045"
+				"size" "1006734432"
+				"download" "280675552"
 			}
 		}
 	}
@@ -401,46 +371,23 @@
 	{
 		"public"
 		{
-			"buildid" "16153885"
-			"timeupdated" "1729702367"
-		}
-		"closed_beta"
-		{
-			"buildid" "16020139"
-			"pwdrequired" "1"
-			"timeupdated" "1728732281"
-		}
-		"debug_trailer_recording"
-		{
-			"buildid" "15730627"
-			"pwdrequired" "1"
-			"timeupdated" "1726585636"
-		}
-		"internal_testing"
-		{
-			"buildid" "14702561"
-			"pwdrequired" "1"
-			"timeupdated" "1718266940"
-		}
-		"prerelease_press"
-		{
-			"buildid" "16020139"
-			"pwdrequired" "1"
-			"timeupdated" "1728732273"
+			"buildid" "17216593"
+			"timeupdated" "1738582781"
 		}
 		"previousversionrollback"
 		{
-			"buildid" "14529570"
+			"buildid" "16153885"
 			"description" "Roll back to the previous version of Thronefall."
-			"timeupdated" "1720533768"
+			"timeupdated" "1738582668"
 		}
 		"publicbeta"
 		{
-			"buildid" "16153885"
+			"buildid" "17216593"
 			"description" "Public beta branch"
-			"timeupdated" "1729700967"
+			"timeupdated" "1738515145"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -481,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25861775"
-"_sha" "842b9d81bc513877a41ff617399391def444ced0"
-"_size" "9036"
+"_change_number" "27288440"
+"_sha" "f2e6b6abde89596f2700d73ecf53a3d62fe9249c"
+"_size" "7436"
