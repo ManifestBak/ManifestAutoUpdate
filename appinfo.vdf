@@ -117,7 +117,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1709022513"
+	"store_asset_mtime" "1736444653"
 	"associations"
 	{
 		"0"
@@ -260,7 +260,7 @@
 	"developer" "Purple Ray Studio"
 	"publisher" "Untold Tales"
 	"homepage" "https://purpleray.studio/"
-	"listofdlc" "2649360,2729630,2729700,2736460,2777290"
+	"listofdlc" "2649360,2729630,2729700,2736460,2777280,2777290"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -413,72 +413,9 @@
 		{
 			"public"
 			{
-				"gid" "9058567027330634209"
-				"size" "12275064365"
-				"download" "3809997088"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"cdactionexpo"
-			{
-				"gid" "331B80D84B0849011123BCB72E8F2601"
-				"size" "89F1ADBB3A74CD00B3624DF3016C0716"
-				"download" "538F4C3AC37C461111201F4BF0C26134"
-			}
-			"digitaldragons2023"
-			{
-				"gid" "D889611A4463EE7E29DED5A9EF35D283"
-				"size" "B64D93E6B1841DC4B9F2C50513AD27AE"
-				"download" "0C64D8ADAD93A6B0FB289C50A0989BC7"
-			}
-			"gamingfactory"
-			{
-				"gid" "2728E976B4639748F4CDEC31FC7853E0"
-				"size" "A0C9A41A5B2DAFEF38C99671A14EBED8"
-				"download" "3830821659B78296E84CA75D54F7492B"
-			}
-			"stablebranch"
-			{
-				"gid" "CC2C60A731B7092FB38A01DDAF3926F2"
-				"size" "8025332823AE74361468647013BA68E4"
-				"download" "F296B33E85EC59E64A79DA519828647B"
-			}
-			"steamfest_feb23_demo"
-			{
-				"gid" "34A1553B68D0B5F636633CDF7B966DA0"
-				"size" "B45ADE56C49CFDDE6B84836D0AADCE4F"
-				"download" "1CEEC81E5065E2ED93E09B42A0DF6E82"
-			}
-			"betabranchp"
-			{
-				"gid" "D5DE9AEBC82AF3EA3E72A5241E6063A7"
-				"size" "45A56A7B976792C7E9F80A3FEEF68FCF"
-				"download" "984DCA2E614882C502ADB069325A3250"
-			}
-			"may_2023_stablebeta"
-			{
-				"gid" "D34CACE859F28FB5AA6FD28523BEEE1A"
-				"size" "657C4B230923E3C894B92AD75A930731"
-				"download" "906970E1D4FE6AF7150AF95E646589AF"
-			}
-			"tempexternaltest"
-			{
-				"gid" "B878BE084CCC9405EC4C46B1988D07B5"
-				"size" "BAD60696D0A7F20E552CD38244973B21"
-				"download" "36178A0BE4894A96A723370981457427"
-			}
-			"testbranch"
-			{
-				"gid" "F095666E2A2A87DBDE95B535F0932740"
-				"size" "8758F3DDBC1567846F9FEB5291AF5BB8"
-				"download" "B43F966EDD5108DF7286B9331E9EB3A0"
-			}
-			"testbranch_internal"
-			{
-				"gid" "CC654F15FACAB2B51CF04C5E05CB99F3"
-				"size" "4BD5F905670354186E649225C730984F"
-				"download" "F03EE1BD0E92E3353D5F7839F0D90BAB"
+				"gid" "888802355169829930"
+				"size" "12281039974"
+				"download" "3809274704"
 			}
 		}
 	}
@@ -500,70 +437,11 @@
 	{
 		"public"
 		{
-			"buildid" "16365222"
-			"timeupdated" "1731352998"
-		}
-		"cdactionexpo"
-		{
-			"buildid" "11602825"
-			"pwdrequired" "1"
-			"timeupdated" "1688170902"
-		}
-		"digitaldragons2023"
-		{
-			"buildid" "11368117"
-			"pwdrequired" "1"
-			"timeupdated" "1685610117"
-		}
-		"gamingfactory"
-		{
-			"buildid" "13558391"
-			"pwdrequired" "1"
-			"timeupdated" "1708881451"
-		}
-		"stablebranch"
-		{
-			"buildid" "11678564"
-			"pwdrequired" "1"
-			"timeupdated" "1689113890"
-		}
-		"steamfest_feb23_demo"
-		{
-			"buildid" "11149354"
-			"pwdrequired" "1"
-			"timeupdated" "1683147400"
-		}
-		"betabranchp"
-		{
-			"buildid" "15551408"
-			"pwdrequired" "1"
-			"timeupdated" "1725071011"
-		}
-		"may_2023_stablebeta"
-		{
-			"buildid" "15566296"
-			"pwdrequired" "1"
-			"timeupdated" "1725275856"
-		}
-		"tempexternaltest"
-		{
-			"buildid" "14587073"
-			"pwdrequired" "1"
-			"timeupdated" "1717429169"
-		}
-		"testbranch"
-		{
-			"buildid" "15915814"
-			"pwdrequired" "1"
-			"timeupdated" "1727957773"
-		}
-		"testbranch_internal"
-		{
-			"buildid" "16365222"
-			"pwdrequired" "1"
-			"timeupdated" "1731328417"
+			"buildid" "17181623"
+			"timeupdated" "1738591107"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -585,6 +463,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26145551"
-"_sha" "d6f1df9b9904f0a86026009662d17401adc33383"
-"_size" "10646"
+"_change_number" "27289786"
+"_sha" "341d92b1a44ea6fb6c71442f86ec42eed974baa9"
+"_size" "7714"
