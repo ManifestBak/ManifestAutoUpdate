@@ -1,0 +1,169 @@
+"appid" "475370"
+"common"
+{
+	"name" "BrainBread 2 Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,linux"
+	"icon" "bcac28b1b2c19e4ce04ef1bdc166bdb54566c998"
+	"logo" "40adc9d73e8d98840d17ef5b6934c96e4d9806b8"
+	"logo_small" "40adc9d73e8d98840d17ef5b6934c96e4d9806b8_thumb"
+	"clienttga" "f7c4bb8558dc1e4ca1980978974e903fcdf8a15b"
+	"clienticon" "e68927fec1c250b87d08a3997e8947bcea586009"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "475370"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "brainbread2ds"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"arguments" "-game brainbread2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"475371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2653273841806789923"
+				"size" "1793350842"
+				"download" "474588976"
+			}
+		}
+	}
+	"475372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6428392292385460631"
+				"size" "93251864"
+				"download" "30218768"
+			}
+		}
+	}
+	"475373"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6501372612691361779"
+				"size" "69960278"
+				"download" "18472064"
+			}
+		}
+	}
+	"475374"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8691390406380101584"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16866391"
+			"timeupdated" "1735401987"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "a1be6d37d8551d7f006185ecc0d85f496bfd188e"
+"_size" "2412"
