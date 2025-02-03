@@ -2,10 +2,10 @@
 "common"
 {
 	"name" "LoveChoice - Original Sound Track"
-	"type" "DLC"
+	"type" "Music"
 	"parent" "939400"
 	"releasestate" "released"
-	"oslist" "windows,macos"
+	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"logo" "57a11d0556c209db9f36fd65569989148a2b894d"
 	"logo_small" "57a11d0556c209db9f36fd65569989148a2b894d_thumb"
@@ -15,8 +15,10 @@
 	"name_localized"
 	{
 		"sc_schinese" "拣爱原声音乐合辑 (一)"
+		"schinese" "LoveChoice 拣爱_原声音乐合辑(一)"
 	}
 	"releasestatesteamchina" "released"
+	"osextended" ""
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -27,7 +29,8 @@
 		"english" "header.jpg"
 		"sc_schinese" "header_sc_schinese.jpg"
 	}
-	"store_asset_mtime" "1631759682"
+	"store_screenshot" "ss_bb1481e86bad8d880de34cd4cef23c14e1b8c1d5.jpg"
+	"store_asset_mtime" "1631760149"
 	"associations"
 	{
 		"0"
@@ -51,7 +54,6 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
-		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -78,6 +80,7 @@
 	}
 	"steam_release_date" "1538378040"
 	"gameid" "942430"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "122"
@@ -88,11 +91,11 @@
 }
 "extended"
 {
-	"dlcforappid" "939400"
-	"mustownapptopurchase" "939400"
+	"musicalbumforappid" "939400"
+	"isconverteddlc" "1"
 	"developer" "Akaba Studio"
 	"publisher" "Akaba Studio"
-	"dlcavailableonstore" "1"
+	"musicalbumavailableonstore" "1"
 }
 "config"
 {
@@ -101,6 +104,7 @@
 		"steam_china_enable_duration_control" "0"
 		"steam_china_duration_control_show_interstitial" "0"
 	}
+	"installdir" "LoveChoice - Original Sound Track"
 }
 "depots"
 {
@@ -110,35 +114,228 @@
 		{
 			"public"
 			{
-				"gid" "388837456609811850"
-				"size" "139121425"
-				"download" "128211920"
+				"gid" "8142050997138681992"
+				"size" "7675811"
+				"download" "6873792"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "4B50FAAA6BF524BFF197B11B4580D827"
-				"size" "F801D61611FED54F2845C6135CAF6E89"
-				"download" "07A84BF3A7C4E065A95C52074AF040A4"
-			}
-		}
-		"dlcappid" "942430"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "4555369"
-			"timeupdated" "1631757619"
-		}
-		"steam_china_only"
-		{
-			"buildid" "4555369"
-			"pwdrequired" "1"
-			"timeupdated" "1631757630"
-			"sc_schinese" "仅中国"
+			"buildid" "17219383"
+			"timeupdated" "1738548552"
 		}
 	}
+	"privatebranches" "1"
 }
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "MIDIPanda"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"composer"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"spanish" ""
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"sc_schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"vietnamese" ""
+			"koreana" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "01_Theme"
+			"m" "1"
+			"s" "34"
+			"internationalname" "Theme"
+			"languagecode" "es"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "02_Like A Detective"
+			"m" "1"
+			"s" "21"
+			"internationalname" "Like A Detective"
+			"languagecode" "es"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "03_Sign Of Sweet"
+			"m" "1"
+			"s" "7"
+			"internationalname" "Sign Of Sweet"
+			"languagecode" "es"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "04_Conflict"
+			"m" "1"
+			"s" "41"
+			"internationalname" "Conflict"
+			"languagecode" "es"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "05_A Tale Of Memory"
+			"m" "1"
+			"s" "17"
+			"internationalname" "A Tale Of Memory"
+			"languagecode" "es"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "06_Happy Summer"
+			"m" "1"
+			"s" "40"
+			"internationalname" "Happy Summer"
+			"languagecode" "es"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "60fda26acad2746c0e753f633b3a71fe4ba0248e"
+	}
+}
+"_missing_token" "False"
+"_change_number" "27282696"
+"_sha" "8ecea104747f1b1337cee74d20e18eafef8e7d0a"
+"_size" "6070"
