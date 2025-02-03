@@ -242,7 +242,7 @@
 		"3" "4085"
 	}
 	"review_score" "7"
-	"review_percentage" "84"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -283,9 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "4217570367213071423"
-				"size" "1552306919"
-				"download" "1529517232"
+				"gid" "5159058755532318322"
+				"size" "1552001873"
+				"download" "1529256464"
 			}
 			"mikan"
 			{
@@ -301,9 +301,9 @@
 			}
 			"korean"
 			{
-				"gid" "4217570367213071423"
-				"size" "1552306919"
-				"download" "1529517232"
+				"gid" "1462903768494886544"
+				"size" "1552307928"
+				"download" "1529503008"
 			}
 		}
 	}
@@ -381,8 +381,8 @@
 	{
 		"public"
 		{
-			"buildid" "17155821"
-			"timeupdated" "1738125284"
+			"buildid" "17227318"
+			"timeupdated" "1738605001"
 		}
 		"mikan"
 		{
@@ -398,9 +398,9 @@
 		}
 		"korean"
 		{
-			"buildid" "17155821"
+			"buildid" "17183522"
 			"description" "korean"
-			"timeupdated" "1738056346"
+			"timeupdated" "1738236063"
 		}
 	}
 	"privatebranches" "1"
@@ -420,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27212191"
-"_sha" "d03763617fed749e3f1713672fc24826a1b914ec"
+"_change_number" "27293598"
+"_sha" "35ae4c892583c151b01a9ce15a0e83d4b16c0068"
 "_size" "7941"
