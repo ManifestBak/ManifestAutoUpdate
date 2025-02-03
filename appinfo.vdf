@@ -1,0 +1,305 @@
+"appid" "2880730"
+"common"
+{
+	"name" "AI2U: With You \'Til The End"
+	"type" "Game"
+	"icon" "0e6b3290a20b24e8c17ddcc539f88b2869fa668e"
+	"clienttga" "baa8fc3d58af2f1a081722b73eaad2a81d90182b"
+	"clienticon" "297957135eb1cedbec3fc44cb3409cb74654966d"
+	"clienticns" "c22c27f9f635eb263ccb0a40c049609207181c76"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"name_localized"
+	{
+		"schinese" " AI2U: 与你直到世界尽头 ~ 我的病娇猫娘AI女友"
+		"tchinese" "AI2U: 與你直到世界盡頭 ~ 我的病嬌貓娘AI女友"
+		"english" "AI2U: With You \'Til The End"
+		"japanese" "AI2U: 最後まで一緒だよ∼病みかわ猫耳AI彼女"
+	}
+	"aicontenttype" "2"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "606342909570dcdee2f605d83f46cd112689eea4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.36199095022624"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "e24c5148f392805161541439d7b75030cebd543d/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "e24c5148f392805161541439d7b75030cebd543d/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "963fc01c230084a35b74cd003efe64365b5ac684/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "963fc01c230084a35b74cd003efe64365b5ac684/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "963fc01c230084a35b74cd003efe64365b5ac684/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.36199095022624"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "7045a6bbae027cf1644248816fc6559e3007316e/logo.png"
+			}
+			"image2x"
+			{
+				"english" "7045a6bbae027cf1644248816fc6559e3007316e/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cecb0b0415c9ee27648a81d8528369681addae30/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "cecb0b0415c9ee27648a81d8528369681addae30/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737661795"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AlterStaff Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AlterStaff Inc."
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1737669627"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2880730"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "4085"
+		"2" "1721"
+		"3" "4486"
+		"4" "7926"
+		"5" "3799"
+		"6" "1664"
+		"7" "4947"
+		"8" "9551"
+		"9" "3834"
+		"10" "9204"
+		"11" "122"
+		"12" "4191"
+		"13" "3839"
+		"14" "15172"
+		"15" "6971"
+		"16" "599"
+		"17" "1667"
+		"18" "4747"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "AlterStaff Inc."
+	"publisher" "AlterStaff Inc."
+	"homepage" "https://www.alterstaff.io/"
+}
+"config"
+{
+	"installdir" "AI2U"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AI2U - With you til the end.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AI2U - With you til the end.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,japanese,latam"
+	"2880731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6427073901307058712"
+				"size" "4509924491"
+				"download" "1585893744"
+			}
+			"beta"
+			{
+				"gid" "6427073901307058712"
+				"size" "4509924491"
+				"download" "1585893744"
+			}
+		}
+	}
+	"2880733"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "224139799805595064"
+				"size" "4509924491"
+				"download" "1585521280"
+			}
+			"beta"
+			{
+				"gid" "5647192625027129517"
+				"size" "4393978171"
+				"download" "1559068480"
+			}
+		}
+	}
+	"2880732"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7499318242874675213"
+				"size" "4623966374"
+				"download" "1623361984"
+			}
+			"beta"
+			{
+				"gid" "7499318242874675213"
+				"size" "4623966374"
+				"download" "1623361984"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17114722"
+			"timeupdated" "1737694288"
+		}
+		"beta"
+		{
+			"buildid" "17193357"
+			"description" "beta branch"
+			"timeupdated" "1738292417"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27281950"
+"_sha" "5ff5979e0811e561cd8737530fdd4389d96054f1"
+"_size" "5395"
