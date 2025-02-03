@@ -440,15 +440,15 @@
 			}
 			"nightly"
 			{
-				"gid" "6633770003850748277"
-				"size" "31170539"
-				"download" "8468384"
+				"gid" "2977016299037532903"
+				"size" "32011525"
+				"download" "8720560"
 			}
 			"testing"
 			{
-				"gid" "2620923734172476016"
-				"size" "29570916"
-				"download" "8131968"
+				"gid" "3515457055231343471"
+				"size" "31619645"
+				"download" "8654432"
 			}
 		}
 	}
@@ -547,15 +547,15 @@
 			}
 			"nightly"
 			{
-				"gid" "3669893615792940536"
-				"size" "28306923"
-				"download" "7821728"
+				"gid" "3624664386755042950"
+				"size" "29026053"
+				"download" "8036560"
 			}
 			"testing"
 			{
-				"gid" "8314575277207996397"
-				"size" "26968052"
-				"download" "7578704"
+				"gid" "5626974708198141375"
+				"size" "28637245"
+				"download" "7983008"
 			}
 		}
 	}
@@ -654,15 +654,15 @@
 			}
 			"nightly"
 			{
-				"gid" "509937700297345265"
-				"size" "45387096"
-				"download" "11558752"
+				"gid" "2320573012522629541"
+				"size" "46625878"
+				"download" "11962352"
 			}
 			"testing"
 			{
-				"gid" "6694664790600789564"
-				"size" "43448402"
-				"download" "11101856"
+				"gid" "3885337652401424646"
+				"size" "46112931"
+				"download" "11900368"
 			}
 		}
 	}
@@ -761,15 +761,15 @@
 			}
 			"nightly"
 			{
-				"gid" "58608891288974264"
-				"size" "84655124"
-				"download" "24555968"
+				"gid" "1494469224137295214"
+				"size" "87494542"
+				"download" "25343328"
 			}
 			"testing"
 			{
-				"gid" "8999115301338033629"
-				"size" "84336947"
-				"download" "24285360"
+				"gid" "6925669488983729824"
+				"size" "87175622"
+				"download" "25287664"
 			}
 		}
 	}
@@ -1598,32 +1598,19 @@
 		}
 		"nightly"
 		{
-			"buildid" "15724658"
+			"buildid" "17220605"
 			"description" "Nightly versions"
-			"timeupdated" "1726551200"
+			"timeupdated" "1738562365"
 		}
 		"testing"
 		{
-			"buildid" "14260262"
+			"buildid" "16843474"
 			"description" "Beta and RC versions"
-			"timeupdated" "1714770634"
+			"timeupdated" "1735049159"
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#mainmenu" "Main Menu"
-				"#scenarioeditor" "Scenario Editor - %map_width%x%map_height%"
-				"#singleplayer" "Singleplayer - %map_width%x%map_height%"
-				"#multiplayer" "Multiplayer - %map_width%x%map_height%"
-				"#joiningmultiplayer" "Joining Multiplayer"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "27284343"
+"_sha" "d6037eb0186d38a4920a95393834e7d060e1eb81"
+"_size" "27177"
