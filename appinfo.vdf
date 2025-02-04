@@ -160,11 +160,14 @@
 		"1" "4726"
 		"2" "87"
 		"3" "4085"
-		"4" "1721"
-		"5" "872"
+		"4" "872"
+		"5" "1721"
+		"6" "29482"
+		"7" "1667"
+		"8" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -172,7 +175,7 @@
 	"publisher" "infiniteloop"
 	"homepage" "https://www.infiniteloop.co.jp/desktopmate/"
 	"isfreeapp" "1"
-	"listofdlc" "3359730"
+	"listofdlc" "3359730,3465160"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -196,9 +199,9 @@
 		{
 			"public"
 			{
-				"gid" "8228098102537752112"
-				"size" "137874768"
-				"download" "43035296"
+				"gid" "7968135565427475546"
+				"size" "152039577"
+				"download" "54425056"
 			}
 		}
 	}
@@ -206,13 +209,13 @@
 	{
 		"public"
 		{
-			"buildid" "17035406"
-			"timeupdated" "1737108165"
+			"buildid" "17233660"
+			"timeupdated" "1738657055"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27040204"
-"_sha" "94b9ea70fa539663daa76ef7abc22a1cd829d929"
-"_size" "4547"
+"_change_number" "27303108"
+"_sha" "dab8e79943603b57a01c83394ca5cec6817186b9"
+"_size" "4602"
