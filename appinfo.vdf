@@ -280,7 +280,7 @@
 	"absolutemousecoordinates" "0"
 	"developer" "Marco Amadei"
 	"publisher" "Corvostudio di Amadei Marco"
-	"homepage" "https://www.corvostudio.it/easyred2.html"
+	"homepage" "https://www.easyred2.com/"
 	"listofdlc" "1888350,2317930,2617770"
 	"dlcavailableonstore" "1"
 }
@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "6110414396938566551"
-				"size" "15867628200"
-				"download" "6967604944"
+				"gid" "1711009088562328584"
+				"size" "16192187892"
+				"download" "7145804992"
 			}
 			"console_crossplay"
 			{
@@ -437,9 +437,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "7279211401192979646"
-				"size" "16038189309"
-				"download" "7019465968"
+				"gid" "1711009088562328584"
+				"size" "16192187892"
+				"download" "7145804992"
 			}
 		}
 	}
@@ -454,9 +454,9 @@
 		{
 			"public"
 			{
-				"gid" "5353283451735616243"
-				"size" "15902821938"
-				"download" "6990441952"
+				"gid" "6394313490116327435"
+				"size" "16227492138"
+				"download" "7168354736"
 			}
 			"console_crossplay"
 			{
@@ -466,9 +466,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "2025849809261713949"
-				"size" "16073400643"
-				"download" "7042838784"
+				"gid" "6394313490116327435"
+				"size" "16227492138"
+				"download" "7168354736"
 			}
 		}
 	}
@@ -483,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "658219766773378934"
-				"size" "15828455689"
-				"download" "6966064848"
+				"gid" "551306570137536481"
+				"size" "16151947796"
+				"download" "7142966336"
 			}
 			"console_crossplay"
 			{
@@ -495,9 +495,9 @@
 			}
 			"publicbeta"
 			{
-				"gid" "2495536271708830880"
-				"size" "15998556429"
-				"download" "7018047376"
+				"gid" "551306570137536481"
+				"size" "16151947796"
+				"download" "7142966336"
 			}
 		}
 	}
@@ -507,8 +507,8 @@
 	{
 		"public"
 		{
-			"buildid" "17003390"
-			"timeupdated" "1736879239"
+			"buildid" "17223191"
+			"timeupdated" "1738663124"
 		}
 		"console_crossplay"
 		{
@@ -518,9 +518,9 @@
 		}
 		"publicbeta"
 		{
-			"buildid" "17094014"
+			"buildid" "17223191"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1737564669"
+			"timeupdated" "1738583024"
 		}
 	}
 	"privatebranches" "1"
@@ -595,6 +595,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27115679"
-"_sha" "203d87e48ab547753c1535cbc42eea96643c3a1c"
-"_size" "11161"
+"_change_number" "27304429"
+"_sha" "5cca59c4e9361ddf1419683d8aa179e22ef75fae"
+"_size" "11145"
