@@ -84,7 +84,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727874877"
+	"store_asset_mtime" "1737672407"
 	"associations"
 	{
 		"0"
@@ -189,8 +189,8 @@
 		"18" "1673"
 		"19" "5752"
 	}
-	"review_score" "7"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -228,37 +228,25 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,ukrainian"
 	"2669521"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1564844349647004549"
-				"size" "4019002786"
-				"download" "1488120368"
+				"gid" "5605425522429870542"
+				"size" "4019084301"
+				"download" "1488139952"
 			}
 		}
 	}
-	"2669522"
-	{
-		"manifests"
-		{
-			"public"
-			{
-				"gid" "7069623359574216757"
-				"size" "2583871875"
-				"download" "1206557920"
-			}
-		}
-	}
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,ukrainian"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17090849"
-			"timeupdated" "1737559302"
+			"buildid" "17241778"
+			"timeupdated" "1738702198"
 		}
 	}
 	"privatebranches" "1"
@@ -278,6 +266,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27114150"
-"_sha" "1c26b8433723bc46f331577342ba74da5246200b"
-"_size" "4435"
+"_change_number" "27314397"
+"_sha" "add3f0ff9f00ac2588f53d86afb9df46e8f85b5d"
+"_size" "4275"
