@@ -147,18 +147,20 @@
 		"6" "597"
 		"7" "4166"
 		"8" "7926"
-		"9" "4747"
-		"10" "4821"
+		"9" "4821"
+		"10" "4747"
 		"11" "9204"
 		"12" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "80"
 }
 "extended"
 {
 	"developer" "Don Pachi"
 	"publisher" "Don Pachi"
+	"listofdlc" "3198710"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -179,9 +181,9 @@
 		{
 			"public"
 			{
-				"gid" "5687627680373928765"
-				"size" "2003472805"
-				"download" "173698144"
+				"gid" "1992829453193575509"
+				"size" "2337901610"
+				"download" "192700128"
 			}
 		}
 	}
@@ -189,12 +191,12 @@
 	{
 		"public"
 		{
-			"buildid" "16659395"
-			"timeupdated" "1733503858"
+			"buildid" "17210703"
+			"timeupdated" "1738669193"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26529621"
-"_sha" "0f55d8c3fc6c276456bdd72236cd75e43c7e6733"
-"_size" "2982"
+"_change_number" "27305943"
+"_sha" "b0d7c6fce59492b0012df5aa9e7162649ac374c2"
+"_size" "3036"
