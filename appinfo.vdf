@@ -260,7 +260,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1677171651"
+	"steam_release_date" "1677171600"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1016950"
@@ -269,9 +269,9 @@
 		"0" "1775"
 		"1" "3859"
 		"2" "4182"
-		"3" "9"
-		"4" "1684"
-		"5" "1770"
+		"3" "1684"
+		"4" "1770"
+		"5" "9"
 		"6" "1677"
 		"7" "122"
 		"8" "1741"
@@ -348,90 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "7078886631037237853"
-				"size" "13697034728"
-				"download" "12284443200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_deck_review"
-			{
-				"gid" "9106F76DA6787A8F5359354225D9CE87"
-				"size" "B9673C16448EFB213BFFB768DAAEC3F9"
-				"download" "02CA5F8D9A1324D58A3A9DEE729D4A68"
-			}
-			"delivery"
-			{
-				"gid" "95801C2D78D0319DE1F25407573A5916"
-				"size" "3A0CB9F39CBBD9293FA1844741F9064D"
-				"download" "AB6720A173AFA9D962D0F4AFB435FCFC"
-			}
-			"delivery_season5"
-			{
-				"gid" "D4C05EF084B74F38275DF1791EE9C737"
-				"size" "A0D62453ABFFB56D5361111912A562BC"
-				"download" "C8849E61BB240D04DA13D414E9B7EAA0"
-			}
-			"delivery_season6"
-			{
-				"gid" "C40AD4605F9670634D7E72954C1E31D5"
-				"size" "493BD99C0D363CAE7273E4867BA42E6D"
-				"download" "7054FBAE5086E0369D10B7812C2084AA"
-			}
-			"delivery_season7"
-			{
-				"gid" "EF1B78D3CBF375759EC1E2FA222FAF02"
-				"size" "2AD229EC3C3F99C6FC86AEE6421EC62C"
-				"download" "6E4C742925D3C99906BC28AF92C20FC7"
-			}
-			"editor"
-			{
-				"gid" "2A33AEFA4D8A93028D4F796DB714E75B"
-				"size" "1BCFE7262167BA2E32F8A2E70ED6B95C"
-				"download" "3479E31634F9F926E909E75369B775CD"
-			}
-			"external"
-			{
-				"gid" "621F5E6AA838DA0E8A4274F1BE4F4034"
-				"size" "9368FAC39182F2D7FAB36A0039DCC73C"
-				"download" "1DA87D1D817DE2235FEB28643898574A"
-			}
-			"internal"
-			{
-				"gid" "A13DC7F57AD37203195CAEBD61B45411"
-				"size" "9E0FFD468978C58F53CE17D94B9BD763"
-				"download" "81B9F5F767524261CDD6FC43218C4FD2"
-			}
-			"market"
-			{
-				"gid" "D5676E38C59B6D03788046F19EC7EF43"
-				"size" "1ADBD35D84AE4474807D93EF8D86B50F"
-				"download" "4739C40408848891B0AD097274715F38"
-			}
-			"preview"
-			{
-				"gid" "3976028DE888AC155ED3E46C587199EF"
-				"size" "B3EFCA7CBC93158A196DD215E82A85F7"
-				"download" "A1B8D9541CB8A662BA90505B98C596E7"
-			}
-			"review"
-			{
-				"gid" "E57019A6356BE271BDA37C3ED91B2240"
-				"size" "9B35B6685B949B9C22FB6A79091CAF9C"
-				"download" "1ABA24A3AE1791B21D56975E4E7B2651"
-			}
-			"test"
-			{
-				"gid" "C1FF74DBE4D5D053B1939788A62E4AF4"
-				"size" "2130C7F13D88334BE6F1C9A192E7A93D"
-				"download" "C0216C8A06ED11B20D84CF6D224189F7"
-			}
-			"vip_preview"
-			{
-				"gid" "B5DE31CEC7791665E6032B4F77211838"
-				"size" "2838402301852B6647EA5B76BD5BEE18"
-				"download" "969A94E433C87FA3AC0F69FDE91F2474"
+				"gid" "2020224741652179055"
+				"size" "13704441384"
+				"download" "12289716864"
 			}
 		}
 	}
@@ -439,88 +358,11 @@
 	{
 		"public"
 		{
-			"buildid" "16730757"
-			"timeupdated" "1734599560"
-		}
-		"steam_deck_review"
-		{
-			"buildid" "10497109"
-			"pwdrequired" "1"
-			"timeupdated" "1675937798"
-		}
-		"delivery"
-		{
-			"buildid" "16634807"
-			"pwdrequired" "1"
-			"timeupdated" "1733752954"
-		}
-		"delivery_season5"
-		{
-			"buildid" "14917348"
-			"pwdrequired" "1"
-			"timeupdated" "1720001029"
-		}
-		"delivery_season6"
-		{
-			"buildid" "15833652"
-			"pwdrequired" "1"
-			"timeupdated" "1727338398"
-		}
-		"delivery_season7"
-		{
-			"buildid" "16730757"
-			"pwdrequired" "1"
-			"timeupdated" "1734064905"
-		}
-		"editor"
-		{
-			"buildid" "16582182"
-			"pwdrequired" "1"
-			"timeupdated" "1732902594"
-		}
-		"external"
-		{
-			"buildid" "14694025"
-			"pwdrequired" "1"
-			"timeupdated" "1719838781"
-		}
-		"internal"
-		{
-			"buildid" "16793783"
-			"pwdrequired" "1"
-			"timeupdated" "1734566500"
-		}
-		"market"
-		{
-			"buildid" "16294025"
-			"pwdrequired" "1"
-			"timeupdated" "1730908714"
-		}
-		"preview"
-		{
-			"buildid" "16579816"
-			"pwdrequired" "1"
-			"timeupdated" "1732895807"
-		}
-		"review"
-		{
-			"buildid" "16579816"
-			"pwdrequired" "1"
-			"timeupdated" "1732895853"
-		}
-		"test"
-		{
-			"buildid" "15524580"
-			"pwdrequired" "1"
-			"timeupdated" "1724936025"
-		}
-		"vip_preview"
-		{
-			"buildid" "16579816"
-			"pwdrequired" "1"
-			"timeupdated" "1732895790"
+			"buildid" "17122670"
+			"timeupdated" "1738660058"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -541,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26710299"
-"_sha" "b98f6b7699fa9413e102cfb5731e34619a21c793"
-"_size" "10015"
+"_change_number" "27303743"
+"_sha" "4c5681524b35af540e045c0a6c50d7988e57d389"
+"_size" "6329"
