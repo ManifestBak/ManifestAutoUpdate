@@ -220,7 +220,7 @@
 		"19" "5125"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -287,15 +287,15 @@
 		{
 			"public"
 			{
-				"gid" "4845758533178796708"
-				"size" "1158526859"
-				"download" "600522032"
+				"gid" "1160923043099607834"
+				"size" "1159049553"
+				"download" "600621648"
 			}
 			"beta"
 			{
-				"gid" "4845758533178796708"
-				"size" "1158526859"
-				"download" "600522032"
+				"gid" "1160923043099607834"
+				"size" "1159049553"
+				"download" "600621648"
 			}
 		}
 	}
@@ -309,15 +309,15 @@
 		{
 			"public"
 			{
-				"gid" "264908647625392888"
-				"size" "1188394035"
-				"download" "610327728"
+				"gid" "8068737705815555916"
+				"size" "1188916452"
+				"download" "610433808"
 			}
 			"beta"
 			{
-				"gid" "264908647625392888"
-				"size" "1188394035"
-				"download" "610327728"
+				"gid" "8068737705815555916"
+				"size" "1188916452"
+				"download" "610433808"
 			}
 		}
 	}
@@ -331,15 +331,15 @@
 		{
 			"public"
 			{
-				"gid" "1154973213216169161"
-				"size" "1218702161"
-				"download" "609870016"
+				"gid" "4733173851482214792"
+				"size" "1219225569"
+				"download" "609976864"
 			}
 			"beta"
 			{
-				"gid" "1154973213216169161"
-				"size" "1218702161"
-				"download" "609870016"
+				"gid" "4733173851482214792"
+				"size" "1219225569"
+				"download" "609976864"
 			}
 		}
 	}
@@ -347,14 +347,14 @@
 	{
 		"public"
 		{
-			"buildid" "17183194"
-			"timeupdated" "1738242253"
+			"buildid" "17239507"
+			"timeupdated" "1738684387"
 		}
 		"beta"
 		{
-			"buildid" "17183194"
+			"buildid" "17239507"
 			"description" "Public beta branch"
-			"timeupdated" "1738234518"
+			"timeupdated" "1738682651"
 		}
 	}
 }
@@ -408,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27235085"
-"_sha" "a6bdd497b12c1466a43565194bcf430a31d26204"
-"_size" "7881"
+"_change_number" "27309709"
+"_sha" "fa0df911e552cef7c4629ef5252cdebc6c5f82ca"
+"_size" "7883"
