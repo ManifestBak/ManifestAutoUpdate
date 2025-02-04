@@ -44,6 +44,56 @@
 		"ukrainian" "The Sims™ 2 Legacy Collection"
 	}
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738195200"
+		"tested_build_id" "16991965"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "gamedrive,"
+		}
+	}
 	"metacritic_name" "The Sims 2"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -265,7 +315,7 @@
 		"11" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "49"
 }
 "extended"
 {
@@ -310,9 +360,9 @@
 		{
 			"public"
 			{
-				"gid" "3431961973849827216"
-				"size" "13039911315"
-				"download" "8000370992"
+				"gid" "4205646364544540743"
+				"size" "13041364039"
+				"download" "8000722272"
 			}
 		}
 	}
@@ -321,13 +371,13 @@
 	{
 		"public"
 		{
-			"buildid" "17175009"
-			"timeupdated" "1738196155"
+			"buildid" "17229395"
+			"timeupdated" "1738692040"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27281634"
-"_sha" "d95446bc760e617612a0afbfda4177cf202a8a75"
-"_size" "6295"
+"_change_number" "27311907"
+"_sha" "565d135c804c8be5e5b24899dcbfb880155c0394"
+"_size" "7571"
