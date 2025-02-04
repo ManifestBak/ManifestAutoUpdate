@@ -114,7 +114,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "173e7b60cb98747beffec09198340b94843441da/capsule_231x87.jpg"
+		"english" "b97763366f3f1bfe1a5bab3d12db65d7d981d40a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -124,12 +124,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "41.328545279930545"
-			"height_pct" "38.24788551990467"
+			"width_pct" "38.21470245040841"
+			"height_pct" "52.27974352885299"
 		}
 	}
 	"library_assets_full"
@@ -138,43 +140,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "8517c0415397d69e5c0e818eb1f2eb0ae83806b2/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "8517c0415397d69e5c0e818eb1f2eb0ae83806b2/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "e9799d3ab7d370e4a901a56b3422a919cba3c469/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "e9799d3ab7d370e4a901a56b3422a919cba3c469/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e9799d3ab7d370e4a901a56b3422a919cba3c469/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
-			"logo_position"
-			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "41.328545279930545"
-				"height_pct" "38.24788551990467"
-			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "de848923a3a05dd3811c9487b6946d8db718669b/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "de848923a3a05dd3811c9487b6946d8db718669b/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.21470245040841"
+				"height_pct" "52.27974352885299"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4fb04458a6b601d551ad0c8117971bcf1c339b02/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4fb04458a6b601d551ad0c8117971bcf1c339b02/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1723831740"
+	"store_asset_mtime" "1738346594"
 	"associations"
 	{
 		"0"
@@ -300,8 +320,8 @@
 	"gameid" "2221490"
 	"store_tags"
 	{
-		"0" "353880"
-		"1" "1695"
+		"0" "1695"
+		"1" "353880"
 		"2" "3859"
 		"3" "3814"
 		"4" "4182"
@@ -368,7 +388,7 @@
 		"2"
 		{
 			"executable" "Rogue_x64_Release.exe"
-			"arguments" " -public_key_store_address pks.pc.tctd2.ubisoft.com -public_key_store_port 27015 -proxylist pc-yankee.tctd2.ubisoft.com -proxylist_port 51000 -online -sdfonly -login_ubiservices -uplay_launcher -retail_frontend -use_public_key_store -retail_certs -startgame -dnatracking -enable_client_tracking -uplay_steam_mode"
+			"arguments" " -public_key_store_address pks.pc.tctd2.ubisoft.com -public_key_store_port 27015 -proxylist pc-alfa.tctd2.ubisoft.com -proxylist_port 51000 -online -sdfonly -login_ubiservices -uplay_launcher -retail_frontend -use_public_key_store -retail_certs -startgame -dnatracking -enable_client_tracking -uplay_steam_mode"
 			"type" "default"
 			"config"
 			{
@@ -417,7 +437,7 @@
 		}
 		"7"
 		{
-			"executable" "thedivision2launchersteam.exe"
+			"executable" "TheDivision2.exe"
 			"arguments" "-uplay_steam_mode"
 			"type" "default"
 			"config"
@@ -447,6 +467,23 @@
 				"english" "Release"
 			}
 			"description" "Release"
+		}
+		"9"
+		{
+			"executable" "Rogue_x64_Release.exe"
+			"arguments" "-online -startgame -nophysdatecheck -noAssetScanner -sdfonly -retail_frontend -enabledebugui -nolatency -allowcutsceneskip -enable_mps_debug -log_platform_events -noserver -ssl -no_game_proxy -relative_paths -enable_client_tracking -login_ubiservices -uplay_launcher -proxylist buc-pfarm03 -proxylist_port 51000 -allowclmismatch -anticheat_settings=Settings_Release_PROD.json -uplay_steam_mode"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "eac-release"
+			}
+			"description_loc"
+			{
+				"english" "eac-release"
+			}
+			"description" "eac-release"
 		}
 	}
 	"steamcontrollertemplateindex" "2"
@@ -496,9 +533,9 @@
 		{
 			"public"
 			{
-				"gid" "6433849011141670407"
-				"size" "90667901054"
-				"download" "81039703776"
+				"gid" "5226573232485999240"
+				"size" "91173051091"
+				"download" "81506486736"
 			}
 			"local"
 			{
@@ -518,9 +555,9 @@
 		{
 			"public"
 			{
-				"gid" "1706915769331846688"
-				"size" "2569859147"
-				"download" "2423571184"
+				"gid" "1347699414773278875"
+				"size" "2580840341"
+				"download" "2434310576"
 			}
 		}
 	}
@@ -534,9 +571,9 @@
 		{
 			"public"
 			{
-				"gid" "7523101000456164920"
-				"size" "2667464060"
-				"download" "2546824272"
+				"gid" "3159019319714585512"
+				"size" "2678830274"
+				"download" "2557934816"
 			}
 		}
 	}
@@ -550,9 +587,9 @@
 		{
 			"public"
 			{
-				"gid" "3334235215723131564"
-				"size" "2508554438"
-				"download" "2396219520"
+				"gid" "2311544886577139781"
+				"size" "2519756001"
+				"download" "2407171600"
 			}
 		}
 	}
@@ -566,9 +603,9 @@
 		{
 			"public"
 			{
-				"gid" "5641807903481272618"
-				"size" "2648272522"
-				"download" "2536519904"
+				"gid" "6771196585896580713"
+				"size" "2659034670"
+				"download" "2547007008"
 			}
 		}
 	}
@@ -582,9 +619,9 @@
 		{
 			"public"
 			{
-				"gid" "5379566222627789187"
-				"size" "2594954074"
-				"download" "2482558672"
+				"gid" "6867510734821665490"
+				"size" "2606179594"
+				"download" "2493518240"
 			}
 		}
 	}
@@ -598,9 +635,9 @@
 		{
 			"public"
 			{
-				"gid" "5971855691171449341"
-				"size" "2523936529"
-				"download" "2412132320"
+				"gid" "611695230844634889"
+				"size" "2535101110"
+				"download" "2423038272"
 			}
 		}
 	}
@@ -614,9 +651,9 @@
 		{
 			"public"
 			{
-				"gid" "2611067104187870378"
-				"size" "2575515916"
-				"download" "2462810448"
+				"gid" "2459940874000352479"
+				"size" "2586996392"
+				"download" "2474052464"
 			}
 		}
 	}
@@ -630,9 +667,9 @@
 		{
 			"public"
 			{
-				"gid" "6656348490954548614"
-				"size" "2501091691"
-				"download" "2385084480"
+				"gid" "3240922959641591007"
+				"size" "2512044820"
+				"download" "2395775152"
 			}
 		}
 	}
@@ -646,9 +683,9 @@
 		{
 			"public"
 			{
-				"gid" "220109736700974824"
-				"size" "2718874816"
-				"download" "2600241632"
+				"gid" "1069838154153775334"
+				"size" "2729243280"
+				"download" "2610363344"
 			}
 		}
 	}
@@ -657,8 +694,8 @@
 	{
 		"public"
 		{
-			"buildid" "16441671"
-			"timeupdated" "1733216708"
+			"buildid" "17088298"
+			"timeupdated" "1738659849"
 		}
 		"local"
 		{
@@ -671,6 +708,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26893089"
-"_sha" "a728ec7e72e77fb119c7a0101d7a8e025c8dbb17"
-"_size" "12522"
+"_change_number" "27303696"
+"_sha" "eb615e1e0da8eee3e51528a7dc29fd45d7fd6f63"
+"_size" "13874"
