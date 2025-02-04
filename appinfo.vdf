@@ -8,8 +8,8 @@
 	"logo" "6db75976d004e12c7c255fe01538b7b39e3b96bb"
 	"logo_small" "6db75976d004e12c7c255fe01538b7b39e3b96bb_thumb"
 	"icon" "9e960c1918049a8e20e109986c1cfeb14cfffb20"
-	"clienticon" "e2ddc826e97e18fec412d4e6a8b9debf5924e723"
-	"clienttga" "a54f1b8d1c75f4d6581e9369642187ad7a659314"
+	"clienticon" "426983f878f172f23c2e86f7d40043bcd1eb724b"
+	"clienttga" "0a7c4a326a9a80f3846b1d4b95928f632c30f61f"
 	"languages"
 	{
 		"english" "1"
@@ -18,8 +18,8 @@
 	"eulas"
 	{
 	}
-	"osarch" ""
-	"osextended" "macos64"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -77,6 +77,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -117,8 +118,19 @@
 				"height_pct" "53.79957254808834"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "083f07184f78ea47ea49eb17f41d2d61bb6a95cc/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "083f07184f78ea47ea49eb17f41d2d61bb6a95cc/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1577185943"
+	"store_asset_mtime" "1738537665"
 	"associations"
 	{
 		"0"
@@ -234,9 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "876165549577146220"
+				"gid" "7434388898595211840"
 				"size" "310979413"
-				"download" "274938592"
+				"download" "274924000"
 			}
 			"compatibility"
 			{
@@ -262,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "349934273770622033"
-				"size" "369586612"
-				"download" "290294768"
+				"gid" "8174469369312246407"
+				"size" "369589216"
+				"download" "290300192"
 			}
 			"compatibility"
 			{
@@ -312,8 +324,8 @@
 	{
 		"public"
 		{
-			"buildid" "17217870"
-			"timeupdated" "1738530633"
+			"buildid" "17230878"
+			"timeupdated" "1738626106"
 		}
 		"compatibility"
 		{
@@ -388,6 +400,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27280325"
-"_sha" "1d8cc08c3c13468123c71dc34332c9d8bf9d38f5"
-"_size" "6860"
+"_change_number" "27298315"
+"_sha" "109be4f7959bfe6054baf335681746b5b8bb5b35"
+"_size" "7162"
