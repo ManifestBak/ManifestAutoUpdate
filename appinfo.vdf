@@ -165,7 +165,7 @@
 		"3" "4191"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -212,24 +212,15 @@
 		{
 			"public"
 			{
-				"gid" "1303431446357597010"
-				"size" "226584330"
-				"download" "82795680"
+				"gid" "584328467125634942"
+				"size" "217944290"
+				"download" "72364112"
 			}
 			"beta"
 			{
-				"gid" "1303431446357597010"
-				"size" "226584330"
-				"download" "82795680"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internalbeta"
-			{
-				"gid" "5BF22432D831B6B43A6C674D8C47D946"
-				"size" "CDA8F59F75E1612D131E77622A6DFFD4"
-				"download" "C4BE2941CEB307F6F9B554C3FDCBA0EA"
+				"gid" "584328467125634942"
+				"size" "217944290"
+				"download" "72364112"
 			}
 		}
 	}
@@ -237,24 +228,19 @@
 	{
 		"public"
 		{
-			"buildid" "13645715"
-			"timeupdated" "1728887535"
+			"buildid" "17198261"
+			"timeupdated" "1738666156"
 		}
 		"beta"
 		{
-			"buildid" "13645715"
+			"buildid" "17198261"
 			"description" "Boom 3D Beta"
-			"timeupdated" "1709644306"
-		}
-		"internalbeta"
-		{
-			"buildid" "15979279"
-			"pwdrequired" "1"
-			"timeupdated" "1728470643"
+			"timeupdated" "1738666983"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25701974"
-"_sha" "42da1de11afe44916094c1b778b23de683995e34"
-"_size" "4410"
+"_change_number" "27305485"
+"_sha" "13fded7f2e469e5ca1bd07bf9538c8d97d658de1"
+"_size" "4112"
