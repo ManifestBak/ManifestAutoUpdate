@@ -99,7 +99,45 @@
 			"height_pct" "71.40675798794996"
 		}
 	}
-	"store_asset_mtime" "1694685736"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31.539313399778507"
+				"height_pct" "71.40675798794996"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1738663603"
 	"associations"
 	{
 		"0"
@@ -147,6 +185,7 @@
 		"category_9" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -250,8 +289,8 @@
 		"14" "4026"
 		"15" "4166"
 		"16" "1685"
-		"17" "493"
-		"18" "3810"
+		"17" "3810"
+		"18" "493"
 		"19" "1662"
 	}
 	"review_score" "8"
@@ -368,9 +407,9 @@
 		{
 			"public"
 			{
-				"gid" "6422896750139998991"
-				"size" "1092896524"
-				"download" "397527168"
+				"gid" "6009722768169515096"
+				"size" "1093384260"
+				"download" "397832656"
 			}
 			"macos32bit"
 			{
@@ -384,26 +423,11 @@
 				"size" "964226628"
 				"download" "365381408"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "7F8EB5ED1B7F34ACDB13668627DAC08B"
-				"size" "2E4B6C66E993EBA5A224979BF308C56D"
-				"download" "4AE62DE7360239F3CEAF12F6CA120CB8"
-			}
-			"ndemicbeta"
-			{
-				"gid" "517A1BB6F6E704D7B6498B8A5CCAB534"
-				"size" "4986630843F85FAF31AAE8534AB440B2"
-				"download" "6D3D9B4BD9EB3D2998463A99A39E2669"
-			}
-			"ndemicbetamp"
-			{
-				"gid" "A954D0C21070933A2E57F758AD74B3C7"
-				"size" "12D71F84205C8CFF543B383E0B9211C3"
-				"download" "40E38A4A11973763903C956E893D5BD4"
+				"gid" "6009722768169515096"
+				"size" "1093384260"
+				"download" "397832656"
 			}
 		}
 	}
@@ -417,9 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "8477708816563708951"
-				"size" "1097133989"
-				"download" "398878400"
+				"gid" "116431937198945972"
+				"size" "1097622237"
+				"download" "399189280"
 			}
 			"macos32bit"
 			{
@@ -433,26 +457,11 @@
 				"size" "847187315"
 				"download" "353603632"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "51BEE37867BB77431E75BF8719AF9704"
-				"size" "6B6F498100D286919471FA261C179892"
-				"download" "2754E6BD0BB52739393AE844EB6707D7"
-			}
-			"ndemicbeta"
-			{
-				"gid" "B8F89FDF038369EFD091F5C6204FE98C"
-				"size" "FAA39E37D6D9C4CFBCF53F2562F20FF5"
-				"download" "970E8433DB3C17D21FD70EF0EF6C2E63"
-			}
-			"ndemicbetamp"
-			{
-				"gid" "CCD0743F123E7B76182B9268780FB3E7"
-				"size" "2C802FA7326A0419B06980C3A9AF5CB0"
-				"download" "9E93AFE2C65532C33EF08A2B361192F1"
+				"gid" "116431937198945972"
+				"size" "1097622237"
+				"download" "399189280"
 			}
 		}
 	}
@@ -466,9 +475,9 @@
 		{
 			"public"
 			{
-				"gid" "7452189476008297100"
-				"size" "1107100856"
-				"download" "399800816"
+				"gid" "1739838149153098616"
+				"size" "1107595376"
+				"download" "400106880"
 			}
 			"macos32bit"
 			{
@@ -482,26 +491,11 @@
 				"size" "1048687181"
 				"download" "377112912"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "AEE6783BF2F4A3261A0175F0AE8D61FF"
-				"size" "4BB20BA995EB53E795263457B76C4BEE"
-				"download" "A2B841A2016FFADF0253096B58A42F02"
-			}
-			"ndemicbeta"
-			{
-				"gid" "5C0C0752275091C50CF33477CC8969BD"
-				"size" "C8432FE57BFEFA4C4EA1A76443203725"
-				"download" "7D34761FEDC537D33CEFD44B42EBB345"
-			}
-			"ndemicbetamp"
-			{
-				"gid" "F18191C975758EF03E099E32C8019795"
-				"size" "2DA3BD4CD3340F6F8A45C0D3875B8897"
-				"download" "95FE57C2B2A4B1B2EC0A429FA421ACFE"
+				"gid" "1739838149153098616"
+				"size" "1107595376"
+				"download" "400106880"
 			}
 		}
 	}
@@ -523,14 +517,11 @@
 				"size" "193682344"
 				"download" "34415424"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "88AD847591C6DDCC364450A52E243CEA"
-				"size" "A22E595D2F3B7AE199C3640576A876B5"
-				"download" "B6920BE949162C2272349383EF5DA786"
+				"gid" "712597846969897429"
+				"size" "193682344"
+				"download" "34415424"
 			}
 		}
 	}
@@ -548,14 +539,11 @@
 				"size" "195821014"
 				"download" "35447872"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "A18FF25BB7868D1131CBAAADA86D02B8"
-				"size" "4088B78F4390C73918EFDD93CB652A8C"
-				"download" "1663C051A013B5DE21337779F33501BA"
+				"gid" "8060770308095908779"
+				"size" "195821014"
+				"download" "35447872"
 			}
 		}
 	}
@@ -573,14 +561,11 @@
 				"size" "231643815"
 				"download" "44431360"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"publicbeta"
 			{
-				"gid" "3776FDA6ABDD71DD1AF27D650174903C"
-				"size" "6DA7E657DA21C72024E2C7E91015CEC1"
-				"download" "F3CC00F59440AF6D412E2159CD45CCD7"
+				"gid" "1898025581291238622"
+				"size" "231643815"
+				"download" "44431360"
 			}
 		}
 	}
@@ -588,14 +573,8 @@
 	{
 		"public"
 		{
-			"buildid" "9770563"
-			"timeupdated" "1666859556"
-		}
-		"beta"
-		{
-			"buildid" "9770563"
-			"pwdrequired" "1"
-			"timeupdated" "1666353013"
+			"buildid" "17183545"
+			"timeupdated" "1738673592"
 		}
 		"macos32bit"
 		{
@@ -603,25 +582,20 @@
 			"description" "Legacy OSX 32 bit build"
 			"timeupdated" "1588066108"
 		}
-		"ndemicbeta"
-		{
-			"buildid" "4673163"
-			"pwdrequired" "1"
-			"timeupdated" "1582816162"
-		}
-		"ndemicbetamp"
-		{
-			"buildid" "3887080"
-			"pwdrequired" "1"
-			"timeupdated" "1606408417"
-		}
 		"win32bit"
 		{
 			"buildid" "4950777"
 			"description" "Legacy Windows 32 bit build"
 			"timeupdated" "1607346410"
 		}
+		"publicbeta"
+		{
+			"buildid" "17183545"
+			"description" "Public Beta"
+			"timeupdated" "1738249768"
+		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -629,6 +603,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "20284493"
-"_sha" "9a15c7b4e12c68be6176489311b4785a964eb002"
-"_size" "11727"
+"_change_number" "27307986"
+"_sha" "a728ba529d987bbc824065119dac184a0a1c1905"
+"_size" "10552"
