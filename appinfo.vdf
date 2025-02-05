@@ -206,8 +206,8 @@
 		"14" "4305"
 		"15" "4252"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -242,18 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "607623672465075998"
-				"size" "165653637"
-				"download" "75575888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "B1142933F376E1EBD16A3464FBD6D8EB"
-				"size" "3A3F7D614ED7DD4F93E92158775D03CF"
-				"download" "A52D700D430BE6702C1F482080B3384C"
+				"gid" "5574269418218901512"
+				"size" "166926872"
+				"download" "75881072"
 			}
 		}
 	}
@@ -262,19 +253,18 @@
 	{
 		"public"
 		{
-			"buildid" "14660018"
-			"timeupdated" "1717994223"
-		}
-		"test"
-		{
-			"buildid" "14608766"
-			"pwdrequired" "1"
-			"timeupdated" "1717573312"
+			"buildid" "17255178"
+			"timeupdated" "1738777624"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "27330717"
+"_sha" "619341338969bd4fc6559641ab68e6d851a2345f"
+"_size" "4724"
