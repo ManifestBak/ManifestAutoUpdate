@@ -179,6 +179,8 @@
 		"15" "5379"
 		"16" "493"
 	}
+	"review_score" "6"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -204,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "7988443767951083337"
-				"size" "715819237"
-				"download" "695227664"
+				"gid" "6543128688115295582"
+				"size" "1431226308"
+				"download" "695207856"
 			}
 			"fengdu"
 			{
@@ -220,8 +222,8 @@
 	{
 		"public"
 		{
-			"buildid" "17210911"
-			"timeupdated" "1738428479"
+			"buildid" "17247140"
+			"timeupdated" "1738731574"
 		}
 		"fengdu"
 		{
@@ -232,6 +234,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27270055"
-"_sha" "1a0572dc1c9393f891ef36ace48ea285d8adacc6"
-"_size" "4044"
+"_change_number" "27319712"
+"_sha" "b4759f66bcdab1f90b686ddf4609846836e43b92"
+"_size" "4095"
