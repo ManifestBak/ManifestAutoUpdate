@@ -334,7 +334,7 @@
 	"developer" "Super Evil Megacorp"
 	"publisher" "Super Evil Megacorp"
 	"homepage" "https://superevilmegacorp.com/games/tmnt-splintered-fate/"
-	"listofdlc" "3255900"
+	"listofdlc" "3255900,3316670"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -380,9 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "1961107226119617223"
-				"size" "2871150010"
-				"download" "1070160000"
+				"gid" "2825520086276474982"
+				"size" "3897505623"
+				"download" "1544584480"
 			}
 			"local"
 			{
@@ -409,8 +409,8 @@
 	{
 		"public"
 		{
-			"buildid" "16933384"
-			"timeupdated" "1736794718"
+			"buildid" "17146040"
+			"timeupdated" "1738778518"
 		}
 		"local"
 		{
@@ -437,6 +437,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26979758"
-"_sha" "e75e4973780c004c9d8dfe5f696a03e8941acc17"
-"_size" "8742"
+"_change_number" "27331020"
+"_sha" "b6e3d09313752922600ea9178fe8dc25c0793212"
+"_size" "8750"
