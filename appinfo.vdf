@@ -293,6 +293,7 @@
 		"12" "3810"
 		"13" "1667"
 		"14" "122"
+		"15" "4182"
 	}
 	"review_score" "6"
 	"review_percentage" "71"
@@ -305,7 +306,7 @@
 	"developer" "Sastrei Studios, LLC"
 	"publisher" "Sastrei Studios, LLC"
 	"homepage" "http://beastsofbermuda.com"
-	"listofdlc" "2231260,2665720,2665730,2665740,2665760,2665770,2665780,2665790,2665800,2665810,2665820,2665830,2665840,2665850,2665860,2665870,2665880,2665890,2665900,2832670"
+	"listofdlc" "2231260,2665720,2665730,2665740,2665750,2665760,2665770,2665780,2665790,2665800,2665810,2665820,2665830,2665840,2665850,2665860,2665870,2665880,2665890,2665900,2832670"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -369,15 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "5863186270311256893"
-				"size" "26580446361"
-				"download" "25854711584"
+				"gid" "5730583599426533850"
+				"size" "26580373512"
+				"download" "25854674672"
 			}
 			"public_testing"
 			{
-				"gid" "5863186270311256893"
-				"size" "26580446361"
-				"download" "25854711584"
+				"gid" "5730583599426533850"
+				"size" "26580373512"
+				"download" "25854674672"
 			}
 		}
 	}
@@ -385,14 +386,14 @@
 	{
 		"public"
 		{
-			"buildid" "17194949"
-			"timeupdated" "1738342907"
+			"buildid" "17227326"
+			"timeupdated" "1738727693"
 		}
 		"public_testing"
 		{
-			"buildid" "17194949"
+			"buildid" "17227326"
 			"description" "Used immediately prior to public updates for a last round of testing"
-			"timeupdated" "1738342855"
+			"timeupdated" "1738727738"
 		}
 	}
 	"privatebranches" "1"
@@ -413,6 +414,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27257725"
-"_sha" "6dd9ec2a32e8af4864cad35aebda35a0a22b07f3"
-"_size" "7472"
+"_change_number" "27319122"
+"_sha" "5bb053fec5b42a73ebc29e731c143f4ef571d50d"
+"_size" "7496"
