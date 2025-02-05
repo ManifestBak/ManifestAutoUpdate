@@ -177,16 +177,17 @@
 		{
 			"executable" "Launcher/SC Jogos Launcher.exe"
 			"arguments" "appid=450860"
-			"type" "default"
-			"config"
+			"type" "option2"
+			"description_loc"
 			{
-				"oslist" "windows"
+				"english" "Andarilho"
 			}
+			"description" "Andarilho"
 		}
 		"1"
 		{
 			"executable" "Andarilho/Andarilho.exe"
-			"type" "option1"
+			"type" "option3"
 			"description_loc"
 			{
 				"english" "Andarilho [No Launcher]"
@@ -196,7 +197,7 @@
 		"2"
 		{
 			"executable" "Andarilho AV/Andarilho.exe"
-			"type" "option3"
+			"type" "option1"
 			"description_loc"
 			{
 				"english" "Andarilho - Alternative Version"
@@ -218,15 +219,15 @@
 		{
 			"public"
 			{
-				"gid" "768342221785612519"
-				"size" "1355652344"
-				"download" "309544368"
+				"gid" "1194378586803771555"
+				"size" "1411537396"
+				"download" "339604848"
 			}
 			"pre_release"
 			{
-				"gid" "768342221785612519"
-				"size" "1355652344"
-				"download" "309544368"
+				"gid" "1194378586803771555"
+				"size" "1411537396"
+				"download" "339604848"
 			}
 		}
 	}
@@ -252,13 +253,13 @@
 	{
 		"public"
 		{
-			"buildid" "17227445"
-			"timeupdated" "1738606499"
+			"buildid" "17257237"
+			"timeupdated" "1738789264"
 		}
 		"pre_release"
 		{
-			"buildid" "17227445"
-			"timeupdated" "1738606326"
+			"buildid" "17257237"
+			"timeupdated" "1738789061"
 		}
 	}
 }
@@ -278,6 +279,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27294034"
-"_sha" "54eebb844464cfa4473667744945818c0f307501"
-"_size" "4583"
+"_change_number" "27333342"
+"_sha" "52c15765fced8a4ef0f4f9fe3cecbd1813b2c0e5"
+"_size" "4628"
