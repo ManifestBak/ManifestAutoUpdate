@@ -12,6 +12,35 @@
 	"osextended" ""
 	"logo" "59976d9df91f5d634417a5b80d651dedd3e8bbce"
 	"logo_small" "59976d9df91f5d634417a5b80d651dedd3e8bbce_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1737158400"
+		"tested_build_id" "16696090"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -194,8 +223,8 @@
 		"7" "701"
 		"8" "3810"
 		"9" "597"
-		"10" "916648"
-		"11" "122"
+		"10" "122"
+		"11" "916648"
 		"12" "4305"
 		"13" "5350"
 		"14" "5711"
@@ -260,18 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "2186200795826456683"
-				"size" "5842155679"
-				"download" "5709537856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "0F4A3001C4D824E36C9B9CA12C01B1F2"
-				"size" "A8C6DDF38201AC57E4835839C444A3D2"
-				"download" "B088B9DBE873B891C5E6562152CD66A0"
+				"gid" "1955259125941456393"
+				"size" "5838494617"
+				"download" "5707215776"
 			}
 		}
 	}
@@ -279,18 +299,13 @@
 	{
 		"public"
 		{
-			"buildid" "16696090"
-			"timeupdated" "1733846089"
-		}
-		"development"
-		{
-			"buildid" "16696090"
-			"pwdrequired" "1"
-			"timeupdated" "1733846054"
+			"buildid" "17255312"
+			"timeupdated" "1738777978"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26578204"
-"_sha" "2539e8bb8ef82226b1e36bc6b805e6bd5faa4f72"
-"_size" "4601"
+"_change_number" "27330790"
+"_sha" "2c6d945d02e1b8491e80ed565c317bbbf0958d30"
+"_size" "5051"
