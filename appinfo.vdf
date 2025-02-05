@@ -73,7 +73,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "639ed642e5b66b3787e57696d7ce66f42a11eb4a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -91,7 +91,45 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1698859229"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.459661481228714"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1723737077"
 	"associations"
 	{
 		"0"
@@ -210,7 +248,7 @@
 		"19" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -254,78 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "8510087458460856604"
-				"size" "2673821580"
-				"download" "1115056384"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alex"
-			{
-				"gid" "33B06E0F260C799EF973F212A059F007"
-				"size" "6E28D56031F0E381861448C64CE69C54"
-				"download" "3642ECE35DB023EACDA2A564B519327B"
-			}
-			"alex_old"
-			{
-				"gid" "7E62B6296084D5DEF26DCCC8D9D94CBB"
-				"size" "A885BD23E1185EAB91E657FBF688E615"
-				"download" "1E7FB251A9859B84DD8BA30AF1AE662D"
-			}
-			"devdemo"
-			{
-				"gid" "5416405A6B657DC96F9DD9D7D6D2125F"
-				"size" "E41D6468174A1715D04FCDFCC05783D2"
-				"download" "7EB8A8D3CF9BF02D662C3A4712D2F4CE"
-			}
-			"external"
-			{
-				"gid" "C35E863A8DBE184C5143D2371879DB60"
-				"size" "D6F2D61B660361D04139EC3E7BC7A38F"
-				"download" "725DF463CADD56CF5F0C44F5F11B2C1C"
-			}
-			"kwalee"
-			{
-				"gid" "4DE7F77C34F635B07EFB663A4A133588"
-				"size" "D102B65E847937A3B62E9051A8F9ACAE"
-				"download" "8CE6CD00198F1F7C3FCEA2EDCB22E25B"
-			}
-			"nightly"
-			{
-				"gid" "782827458D9CE316829D7F61A46C2F39"
-				"size" "EDEDF7EE6973294B8D4360B999CC6C67"
-				"download" "6A32A6E951D6D5E3D889E2F5487C61FF"
-			}
-			"showdemo"
-			{
-				"gid" "740CBDF3D88788FA274016BFF0EEE419"
-				"size" "622EAB2F4A3E2047E6F4CF396114E219"
-				"download" "A73B8F24D45CBEF37709FD60FE73A338"
-			}
-			"weekly"
-			{
-				"gid" "7B696FAB8FF987D65213AFCDA14B598B"
-				"size" "A7786785263A85D0BB70525924A856EB"
-				"download" "F55EEE9CA60FE1BBBB6C1EBDA73880FC"
-			}
-			"autobuild"
-			{
-				"gid" "27BDE581424069D286A2946276E1D4E2"
-				"size" "A6792F602EC679A70C6D1ACEF214FCAD"
-				"download" "01C0C9B952488D3A1907FAF21B36C72F"
-			}
-			"compliance"
-			{
-				"gid" "FB323BF90305F5AAA4E7EF5F083ABF3F"
-				"size" "BECB9C1378E8E10FEF6F726B0738CB06"
-				"download" "15EE5ADF81DC75294D98DA686395A5EB"
-			}
-			"devtest"
-			{
-				"gid" "AC0203A9B4DBD36A8C4B128D7B07BE51"
-				"size" "905F20979751D4292CF00A0F301AC294"
-				"download" "A0513753EECE18FB18DE3C1A021BC3E7"
+				"gid" "4112516990283477610"
+				"size" "2673812508"
+				"download" "1115287024"
 			}
 		}
 	}
@@ -333,76 +302,11 @@
 	{
 		"public"
 		{
-			"buildid" "14349984"
-			"timeupdated" "1716994505"
-		}
-		"alex"
-		{
-			"buildid" "13509947"
-			"pwdrequired" "1"
-			"timeupdated" "1708446254"
-		}
-		"alex_old"
-		{
-			"buildid" "12339347"
-			"pwdrequired" "1"
-			"timeupdated" "1703703752"
-		}
-		"devdemo"
-		{
-			"buildid" "11063007"
-			"pwdrequired" "1"
-			"timeupdated" "1682108563"
-		}
-		"external"
-		{
-			"buildid" "9409871"
-			"pwdrequired" "1"
-			"timeupdated" "1665578054"
-		}
-		"kwalee"
-		{
-			"buildid" "11062859"
-			"pwdrequired" "1"
-			"timeupdated" "1683275428"
-		}
-		"nightly"
-		{
-			"buildid" "14028560"
-			"pwdrequired" "1"
-			"timeupdated" "1712879187"
-		}
-		"showdemo"
-		{
-			"buildid" "13140863"
-			"pwdrequired" "1"
-			"timeupdated" "1705416825"
-		}
-		"weekly"
-		{
-			"buildid" "12882216"
-			"pwdrequired" "1"
-			"timeupdated" "1701800699"
-		}
-		"autobuild"
-		{
-			"buildid" "14349984"
-			"pwdrequired" "1"
-			"timeupdated" "1715608050"
-		}
-		"compliance"
-		{
-			"buildid" "14349984"
-			"pwdrequired" "1"
-			"timeupdated" "1715608263"
-		}
-		"devtest"
-		{
-			"buildid" "14327841"
-			"pwdrequired" "1"
-			"timeupdated" "1715351855"
+			"buildid" "16988360"
+			"timeupdated" "1738744924"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -423,39 +327,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#mainmenu" "In main menu"
-				"#dayandlocation" "{#TimeOfDay_%timeofday%} %day% - {#Location_%location%}"
-				"#timeofday_night" "Night"
-				"#timeofday_day" "Day"
-				"#timeofday_dawn" "Dawn"
-				"#timeofday_dusk" "Dusk"
-				"#location_none" "None"
-				"#location_dunes" "Dunes"
-				"#location_oasis" "Oasis"
-				"#location_hills" "Dunes"
-				"#location_saltflats" "Salt Flats"
-				"#location_canyons" "Canyons"
-				"#location_mountains" "Mountains"
-				"#location_crater" "Crater"
-				"#location_saltflatsisland" "Salt Flats"
-				"#location_saltflatsislandlarge" "Salt Flats"
-				"#location_temple_garden" "Grove Temple"
-				"#location_temple_naia" "Temple of Naia"
-				"#location_temple_oros" "Temple of Oros"
-				"#location_temple_stryge" "Temple of Stryge"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23742049"
-"_sha" "3eebdc8fbbf3211514340f0eb500f05067838a8c"
-"_size" "9079"
+"_change_number" "27321984"
+"_sha" "501da7691fe48cc80a0e1ef781d7dd929809f73f"
+"_size" "5704"
