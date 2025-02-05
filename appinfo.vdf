@@ -204,7 +204,7 @@
 	"developer" "PixelTail Games"
 	"publisher" "PixelTail Games"
 	"homepage" "https://www.towerunite.com"
-	"listofdlc" "2792910"
+	"listofdlc" "2792910,3490630"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -330,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "3778926769395956789"
-				"size" "28466322688"
-				"download" "27281498416"
+				"gid" "4263729583228648558"
+				"size" "28589488184"
+				"download" "27399491136"
 			}
 		}
 	}
@@ -341,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "17157944"
-			"timeupdated" "1738104083"
+			"buildid" "17243549"
+			"timeupdated" "1738712454"
 		}
 	}
 	"privatebranches" "1"
@@ -395,6 +395,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27210485"
-"_sha" "e603fc21dfedbec894739f26e1212a793be0d734"
-"_size" "6949"
+"_change_number" "27316377"
+"_sha" "4b057a0530a130ec8b0e7e5bac3ce34e6e2ee07e"
+"_size" "6957"
