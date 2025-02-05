@@ -12,6 +12,7 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"metacritic_name" "Coridden"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -84,7 +85,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738170890"
+	"store_asset_mtime" "1738589917"
 	"associations"
 	{
 		"0"
@@ -165,6 +166,8 @@
 	}
 	"steam_release_date" "1738169828"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1656930/partnerevents/preview/524206779663385342"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/coridden\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1656930"
@@ -174,15 +177,15 @@
 		"1" "7368"
 		"2" "4231"
 		"3" "1646"
-		"4" "4155"
-		"5" "3843"
+		"4" "3843"
+		"5" "4155"
 		"6" "122"
 		"7" "5160"
-		"8" "1685"
-		"9" "916648"
+		"8" "916648"
+		"9" "1685"
 		"10" "3841"
-		"11" "5851"
-		"12" "6730"
+		"11" "6730"
+		"12" "5851"
 		"13" "3834"
 		"14" "4747"
 		"15" "4191"
@@ -191,8 +194,8 @@
 		"18" "1742"
 		"19" "19"
 	}
-	"review_score" "7"
-	"review_percentage" "100"
+	"review_score" "8"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -230,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "1690525814594492843"
-				"size" "15170829761"
-				"download" "6652672992"
+				"gid" "1826475704717197039"
+				"size" "15176930220"
+				"download" "6654823872"
 			}
 		}
 	}
@@ -242,8 +245,8 @@
 	{
 		"public"
 		{
-			"buildid" "17144342"
-			"timeupdated" "1738163603"
+			"buildid" "17221724"
+			"timeupdated" "1738754455"
 		}
 	}
 	"privatebranches" "1"
@@ -267,6 +270,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27224155"
-"_sha" "661a1f158a881b0b11179d32c4984b6f8889ab78"
-"_size" "4545"
+"_change_number" "27324377"
+"_sha" "cea21ccbf4c6ba8503c6568b9168a8bf127e5bcd"
+"_size" "4693"
