@@ -205,7 +205,7 @@
 		"19" "3993"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -286,15 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "4958059293565553086"
-				"size" "952821161"
-				"download" "771682656"
-			}
-			"preview"
-			{
-				"gid" "214727658979536531"
-				"size" "952365234"
-				"download" "771444544"
+				"gid" "4152150920230290339"
+				"size" "953125592"
+				"download" "771941120"
 			}
 		}
 	}
@@ -303,19 +297,33 @@
 	{
 		"public"
 		{
-			"buildid" "17197592"
-			"timeupdated" "1738326391"
-		}
-		"preview"
-		{
-			"buildid" "17066776"
-			"description" "1.0 preview"
-			"timeupdated" "1737388123"
+			"buildid" "17249416"
+			"timeupdated" "1738750571"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "4000000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SettlementsRising/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "27252801"
-"_sha" "e917b6922120f195cbf2aa85eefd47f11860c5fc"
-"_size" "5127"
+"_change_number" "27323331"
+"_sha" "025a9687eb6d323e1669338f6f5080c8656c1bdf"
+"_size" "5199"
