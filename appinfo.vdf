@@ -203,6 +203,10 @@
 		{
 			"supported" "true"
 		}
+		"romanian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1722301177"
 	"community_visible_stats" "1"
@@ -232,7 +236,7 @@
 		"19" "4155"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -265,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "1368580044950846284"
-				"size" "402702520"
-				"download" "248073936"
+				"gid" "7808344892613409331"
+				"size" "402778792"
+				"download" "248102528"
 			}
 		}
 	}
@@ -279,8 +283,8 @@
 	{
 		"public"
 		{
-			"buildid" "15571909"
-			"timeupdated" "1725320746"
+			"buildid" "17249539"
+			"timeupdated" "1738748355"
 		}
 	}
 }
@@ -303,3 +307,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27322792"
+"_sha" "4d4e36e34bf99c9736ad6375f698511c4350cc36"
+"_size" "5867"
