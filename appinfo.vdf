@@ -251,30 +251,15 @@
 		{
 			"public"
 			{
-				"gid" "197952911035744121"
-				"size" "1103137445"
-				"download" "1002838064"
+				"gid" "2090328492378072440"
+				"size" "1103137293"
+				"download" "1002833216"
 			}
 			"touch-support"
 			{
 				"gid" "2621807529129855358"
 				"size" "905305767"
 				"download" "827551408"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "BFD2E46787344E8EE25BE577BD4A8131"
-				"size" "2FBBAABEC9AE993251EAFA876B79B625"
-				"download" "1FCA8CDED47A7C260689150243F60CB2"
-			}
-			"beta"
-			{
-				"gid" "D994E20BF4100757D327FA61D94E1F32"
-				"size" "CB7BC975320A29A0384DDA694CD971BA"
-				"download" "35F912A269DE967AA2F7809FFCD5663C"
 			}
 		}
 	}
@@ -288,30 +273,15 @@
 		{
 			"public"
 			{
-				"gid" "448253441154410840"
-				"size" "1112438980"
-				"download" "1006708336"
+				"gid" "2008788722332234088"
+				"size" "1112438316"
+				"download" "1006707824"
 			}
 			"touch-support"
 			{
 				"gid" "5018027704937127746"
 				"size" "922042555"
 				"download" "833651568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "E60D77AF865312A3005DC98D38D12367"
-				"size" "70E5DAE41667CE11A789D0CDEDE3D490"
-				"download" "48DE1206AC7340B74ECDF90153623A14"
-			}
-			"beta"
-			{
-				"gid" "4342F9E1CE212B39267CAA575FF7FB24"
-				"size" "6BDFD3D4DAF1F0B25300DD9EF43F39FD"
-				"download" "2605AC07C8E827F5F88712FEF16034D4"
 			}
 		}
 	}
@@ -325,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "546403013120059463"
-				"size" "1148666907"
-				"download" "1016392864"
+				"gid" "1302117298985604007"
+				"size" "1148665731"
+				"download" "1016392432"
 			}
 			"touch-support"
 			{
@@ -336,28 +306,13 @@
 				"download" "844034592"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "33CD7A776E7D237578AF54CE6DA1A1FA"
-				"size" "BD2FC76ABE2629EC2FBA3FB1C91D44FE"
-				"download" "F49B434F83F4B24BA084BCAA058C6BB6"
-			}
-			"beta"
-			{
-				"gid" "739837AB013C6488E2529E54C7209A63"
-				"size" "16355F36E87C9519183D7A3D20B7181C"
-				"download" "1B9D03F8E97EE6560A01E106B654488C"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16867354"
-			"timeupdated" "1735579003"
+			"buildid" "17110039"
+			"timeupdated" "1738785260"
 		}
 		"touch-support"
 		{
@@ -365,19 +320,8 @@
 			"description" "Touchscreen Support"
 			"timeupdated" "1672555980"
 		}
-		"alpha"
-		{
-			"buildid" "16867354"
-			"pwdrequired" "1"
-			"timeupdated" "1735417473"
-		}
-		"beta"
-		{
-			"buildid" "16867354"
-			"pwdrequired" "1"
-			"timeupdated" "1735417485"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -385,6 +329,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "26818989"
-"_sha" "184fd97dd89b0af8e14d23b64ada25972719aef7"
-"_size" "7072"
+"_change_number" "27332519"
+"_sha" "5e1ac866a54d10456f91d6bc4d16937ce3c209c3"
+"_size" "5772"
