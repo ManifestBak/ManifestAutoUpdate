@@ -171,7 +171,7 @@
 {
 	"developer" "GOCORE"
 	"publisher" "GOCORE"
-	"listofdlc" "2867010,2873000,3212190,3212200"
+	"listofdlc" "2867010,2873000,3212190,3212200,3212210,3468070"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -195,9 +195,9 @@
 		{
 			"public"
 			{
-				"gid" "7781827488428910434"
-				"size" "797834234"
-				"download" "457838880"
+				"gid" "4059327011660020656"
+				"size" "826174911"
+				"download" "486432480"
 			}
 		}
 	}
@@ -205,8 +205,8 @@
 	{
 		"public"
 		{
-			"buildid" "16730671"
-			"timeupdated" "1734068983"
+			"buildid" "17248946"
+			"timeupdated" "1738751091"
 		}
 	}
 	"privatebranches" "1"
@@ -217,6 +217,6 @@
 	"maxnumfiles" "9999"
 }
 "_missing_token" "False"
-"_change_number" "26624092"
-"_sha" "5d13cb7a446ea3ac0fdaa109dc33f916beaba79b"
-"_size" "3323"
+"_change_number" "27323462"
+"_sha" "ee499066520951324a41a3789f90d0b057774903"
+"_size" "3339"
