@@ -30,42 +30,32 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1731456000"
-		"tested_build_id" "16234482"
+		"category" "3"
+		"test_timestamp" "1733788800"
+		"tested_build_id" "16598429"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-			}
-			"1"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
-			}
-			"2"
-			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
-			"3"
+			"1"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
-			"4"
+			"2"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
-			"5"
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"6"
+			"4"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -305,8 +295,8 @@
 	{
 		"0" "19"
 		"1" "1659"
-		"2" "1646"
-		"3" "7208"
+		"2" "7208"
+		"3" "1646"
 		"4" "1697"
 		"5" "4182"
 		"6" "4106"
@@ -315,8 +305,8 @@
 		"9" "4667"
 		"10" "4085"
 		"11" "1751"
-		"12" "13190"
-		"13" "4305"
+		"12" "4305"
+		"13" "13190"
 		"14" "597"
 		"15" "4726"
 		"16" "4777"
@@ -325,7 +315,7 @@
 		"19" "4345"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -385,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "3153020432686627095"
-				"size" "14986284564"
-				"download" "14046116912"
+				"gid" "3249342103134641914"
+				"size" "15006721960"
+				"download" "14063992880"
 			}
 		}
 	}
@@ -403,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "16598429"
-			"timeupdated" "1733223511"
+			"buildid" "17247886"
+			"timeupdated" "1738753205"
 		}
 	}
 }
@@ -427,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26538848"
-"_sha" "36cbcd2326b955092471a345d402bda166ed8d09"
-"_size" "8976"
+"_change_number" "27325139"
+"_sha" "92481912dc7b9a7366202d76b3af20e5ca3aa381"
+"_size" "8745"
