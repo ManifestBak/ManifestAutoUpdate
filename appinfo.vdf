@@ -234,16 +234,16 @@
 		"5" "597"
 		"6" "7368"
 		"7" "1685"
-		"8" "7481"
-		"9" "1625"
+		"8" "1625"
+		"9" "7481"
 		"10" "19"
 		"11" "3843"
 		"12" "1684"
 		"13" "3841"
 		"14" "4840"
 		"15" "5350"
-		"16" "5055"
-		"17" "4195"
+		"16" "4195"
+		"17" "5055"
 		"18" "4182"
 		"19" "492"
 	}
@@ -321,78 +321,15 @@
 		{
 			"public"
 			{
-				"gid" "1940143586530568267"
-				"size" "1164447399"
-				"download" "1130553584"
+				"gid" "429379183566460165"
+				"size" "1172018142"
+				"download" "1138072608"
 			}
 			"32bit-windows"
 			{
-				"gid" "4864712091828191346"
-				"size" "1178221371"
-				"download" "1138185360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"agent"
-			{
-				"gid" "EE19C2939B131D2AAB30EA9173E47E78"
-				"size" "AB235509E0AD0091636C3A38113667AB"
-				"download" "CABE1BE6F80FB2937A4F59DF506822DF"
-			}
-			"certification"
-			{
-				"gid" "B83CF695739648CB8B3C0CC4978A7270"
-				"size" "4686D4D74B12550A9B4B5063B9A9399C"
-				"download" "2703D25301EE4E4ECA1686DB6C7E9F6D"
-			}
-			"certification-32bit-windows"
-			{
-				"gid" "722645B3B7E440E3251143CB851F97ED"
-				"size" "0CC009124DF474B8A0B3EDA9CEFC36C6"
-				"download" "B480FA36CFB972EBB406C63E5CDB04F8"
-			}
-			"daily"
-			{
-				"gid" "B346BAD2A8EC829FAF12927B1856A647"
-				"size" "7EBF5C6D7A03394A231D75CDBC8ADA5D"
-				"download" "EFC8F8586B1CCD2B22BC4EC9950D5065"
-			}
-			"fleet"
-			{
-				"gid" "C0F70370E4B2D43F649BDBAAFDA611C2"
-				"size" "4612C7132D067D4D0D76503A5E7C6BDA"
-				"download" "F2E52AD4B7528534811F69A681B18311"
-			}
-			"partner"
-			{
-				"gid" "E5EE3243A0E2E9D084FDEB87E0941EFE"
-				"size" "4D4A47E13E45BE730B60EDF61C4076CA"
-				"download" "25D7780B014A0567E49AF0DFC399C82A"
-			}
-			"partner-investigation"
-			{
-				"gid" "DF2ACDEEA61F213FFCFD0A0C4CF4D202"
-				"size" "34F1381648210B564824810C145F14E0"
-				"download" "F387427FA61D8605B5DCBBBEEDF774C7"
-			}
-			"peachtree"
-			{
-				"gid" "A4790097139BC096B127041984EE01B3"
-				"size" "CA54F9847FAEF5A9B5866A430E2AD893"
-				"download" "843496D8C219B152A4649D8EC8B6E1F9"
-			}
-			"pending-32bit-windows"
-			{
-				"gid" "252ECA4B18E1E3AA75C65A6D461385CC"
-				"size" "DDDA9057406FE6A031BF428629EBAC33"
-				"download" "2EC6CFB65D83E784C67218F33B12CA42"
-			}
-			"pending-default"
-			{
-				"gid" "F65B82573BEB39D654925EA9E3DCDA6A"
-				"size" "FBF4EDCACCC78C72AD7CDC79CFE69AE6"
-				"download" "8B3F2F404BD0573AB8E74DED9014EA17"
+				"gid" "7256774383608537122"
+				"size" "1185796074"
+				"download" "1145708496"
 			}
 		}
 	}
@@ -407,78 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "8803153610235795890"
-				"size" "1179344539"
-				"download" "1131843872"
+				"gid" "6391324916664961908"
+				"size" "1186915318"
+				"download" "1139362624"
 			}
 			"32bit-windows"
 			{
-				"gid" "2809621027955366880"
-				"size" "1179340759"
-				"download" "1131839568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"agent"
-			{
-				"gid" "D7D1D19D040BA54B286F9A840CE1448D"
-				"size" "5C0193FCED543AC23AF3CB322EA2329F"
-				"download" "7D875F34E131A2344357E0283180B6B2"
-			}
-			"certification"
-			{
-				"gid" "23F79B2BEC80C045592C98DBA8748FCD"
-				"size" "439726097BA43774248BBB8F108E286A"
-				"download" "C092B571C6364F12437AB0BC01E45320"
-			}
-			"certification-32bit-windows"
-			{
-				"gid" "6226CAA4CCAE2B9B03E84024368C58C0"
-				"size" "F845214F5A64D2D75A1ED1ED81586627"
-				"download" "823EB9CDEB7E4C50E2F41F7B1002900C"
-			}
-			"daily"
-			{
-				"gid" "3B3F5DE61BFCC5B06B582336DA7D492A"
-				"size" "CC869756E720A27A72CEA09DE2F89A95"
-				"download" "6F49AE59AD001EE9E4C2DAC740B0EFDD"
-			}
-			"fleet"
-			{
-				"gid" "53666B43ADA4DCBB35E67F0A78E39D00"
-				"size" "EE903118EA92AF2DAC1CF439286775FF"
-				"download" "EAFF315AF24B7EAA877D91EE1140E9F4"
-			}
-			"partner"
-			{
-				"gid" "E60449776415E55B6FFBABB1D164108B"
-				"size" "CE155559607CFB208DB2015C5DF90E90"
-				"download" "47AFC6D75D1394379B238FE8F7C65F67"
-			}
-			"partner-investigation"
-			{
-				"gid" "0A19C24639254E93412D1EBBE4D71717"
-				"size" "9EE916409C804661DE44F3FB08EEA4C5"
-				"download" "D319B8BB7C5A7B57F1048FFB5C191322"
-			}
-			"peachtree"
-			{
-				"gid" "14B390120BBFB1EE4AB206962A267FE3"
-				"size" "FEC68DF20204C080B4BE800F4B5446AE"
-				"download" "573CDBDEF4B47581A76145AA271A3FF7"
-			}
-			"pending-32bit-windows"
-			{
-				"gid" "D997391C05C6FA89A730ECF5135CE1A1"
-				"size" "ACFE8929B23081AE3F85774E0ABC6A6C"
-				"download" "3DE2642322C34AC66CCC7B2A5929CA91"
-			}
-			"pending-default"
-			{
-				"gid" "61D5DAE4DC95FE020F6F471DFD915A7E"
-				"size" "07800CA8EF7DDA7FB003DDE51F54DF44"
-				"download" "D77912E47849BEED1A44CC326005E437"
+				"gid" "4650232745449198079"
+				"size" "1186916007"
+				"download" "1139363264"
 			}
 		}
 	}
@@ -487,78 +361,19 @@
 	{
 		"public"
 		{
-			"buildid" "16955001"
-			"timeupdated" "1736949910"
+			"buildid" "17240825"
+			"timeupdated" "1738763981"
 		}
 		"32bit-windows"
 		{
-			"buildid" "16955089"
+			"buildid" "17241101"
 			"description" "32-bit Brawlhalla for older computers"
-			"timeupdated" "1736949832"
-		}
-		"agent"
-		{
-			"buildid" "16319498"
-			"pwdrequired" "1"
-			"timeupdated" "1730928751"
-		}
-		"certification"
-		{
-			"buildid" "16955001"
-			"pwdrequired" "1"
-			"timeupdated" "1736448323"
-		}
-		"certification-32bit-windows"
-		{
-			"buildid" "16955089"
-			"pwdrequired" "1"
-			"timeupdated" "1736448822"
-		}
-		"daily"
-		{
-			"buildid" "17014391"
-			"pwdrequired" "1"
-			"timeupdated" "1736953134"
-		}
-		"fleet"
-		{
-			"buildid" "16305005"
-			"pwdrequired" "1"
-			"timeupdated" "1730833105"
-		}
-		"partner"
-		{
-			"buildid" "15360056"
-			"pwdrequired" "1"
-			"timeupdated" "1723837644"
-		}
-		"partner-investigation"
-		{
-			"buildid" "16631712"
-			"pwdrequired" "1"
-			"timeupdated" "1733349079"
-		}
-		"peachtree"
-		{
-			"buildid" "16371889"
-			"pwdrequired" "1"
-			"timeupdated" "1731426039"
-		}
-		"pending-32bit-windows"
-		{
-			"buildid" "16815304"
-			"pwdrequired" "1"
-			"timeupdated" "1734705330"
-		}
-		"pending-default"
-		{
-			"buildid" "16815108"
-			"pwdrequired" "1"
-			"timeupdated" "1734704259"
+			"timeupdated" "1738763946"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27009288"
-"_sha" "7a1e44cb7b7ac0de1b23b87276ef51cac40b3501"
-"_size" "11863"
+"_change_number" "27326812"
+"_sha" "7ad1b473183c3e2c5bc089f1b0020555920943a6"
+"_size" "7145"
