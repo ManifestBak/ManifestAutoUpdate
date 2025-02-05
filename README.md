@@ -1,15 +1,12 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-05 06:17:27
+## 更新时间：2025-02-05 09:06:25
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1157700 | Pro Wrestling Sim| Game |
-| 1454400 | Cookie Clicker| Game |
-| 1938090 | 使命召唤®| Game |
-| 2217000 | Rivals of Aether II| Game |
-| 2276930 | Chillquarium| Game |
-| 2458560 | 癫狂动物园 Zoochosis| Game |
-| 2669520 | Expansion VR| Game |
-| 3074110 | The Rangers In The South| Game |
-| 3011560 | 爱欲之都开篇季| Game |
-| 960090 | Bloons TD 6| Game |
+| 578080 | PUBG: BATTLEGROUNDS| Game |
+| 1018800 | 非常普通的鹿 DEEEER Simulator| Game |
+| 824270 | KovaaK's| Game |
+| 1876070 | Windsor - Strategy| Game |
+| 2399830 | 方舟: 生存飞升| Game |
+| 2288150 | 三国志8  REMAKE| Game |
+| 394690 | Tower Unite| Game |
