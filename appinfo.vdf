@@ -402,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "3621118899934075636"
-				"size" "4358080867"
-				"download" "4132103456"
+				"gid" "6816118386999298935"
+				"size" "4358219788"
+				"download" "4132206096"
 			}
 		}
 	}
@@ -418,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "2098392439565932248"
-				"size" "3997832470"
-				"download" "3717533616"
+				"gid" "8511287023071455693"
+				"size" "3997959919"
+				"download" "3717646992"
 			}
 		}
 	}
@@ -435,9 +435,9 @@
 		{
 			"public"
 			{
-				"gid" "2294361964569256448"
-				"size" "1587073160"
-				"download" "1324254000"
+				"gid" "7729254897929437843"
+				"size" "1587210657"
+				"download" "1324362448"
 			}
 		}
 	}
@@ -445,8 +445,8 @@
 	{
 		"public"
 		{
-			"buildid" "16780083"
-			"timeupdated" "1734536791"
+			"buildid" "17112046"
+			"timeupdated" "1738757066"
 		}
 	}
 	"privatebranches" "1"
@@ -466,7 +466,7 @@
 	}
 	"rootoverrides"
 	{
-		"0"
+		"2"
 		{
 			"root" "WinAppDataLocalLow"
 			"os" "MacOS"
@@ -476,7 +476,7 @@
 			{
 				"0"
 				{
-					"find" "com.rawfury.snufkin/Saves"
+					"find" "Hyper Games/Snufkin - Melody of Moominvalley/Saves"
 					"replace" "com.rawfury.snufkin/Saves"
 				}
 			}
@@ -484,6 +484,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27064748"
-"_sha" "ed07f609847ee0dd2e119825df5bd6b67cb68dd2"
-"_size" "11152"
+"_change_number" "27325090"
+"_sha" "b9cc9bb82bf36859eb2524e590afd68ffd53e117"
+"_size" "11177"
