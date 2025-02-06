@@ -275,8 +275,8 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1737075629"
-	"metacritic_score" "85"
+	"steam_release_date" "1737075600"
+	"metacritic_score" "84"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dynasty-warriors-origins\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -291,21 +291,21 @@
 		"5" "4231"
 		"6" "9"
 		"7" "3987"
-		"8" "4191"
-		"9" "1697"
-		"10" "4608"
-		"11" "7481"
-		"12" "19"
-		"13" "323922"
-		"14" "6971"
-		"15" "1742"
-		"16" "1708"
-		"17" "9551"
-		"18" "1678"
-		"19" "4182"
+		"8" "1697"
+		"9" "4191"
+		"10" "9551"
+		"11" "4608"
+		"12" "323922"
+		"13" "7481"
+		"14" "19"
+		"15" "6971"
+		"16" "1742"
+		"17" "1708"
+		"18" "4182"
+		"19" "1678"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -397,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "8347826608026935430"
-				"size" "53490722036"
-				"download" "49423946752"
+				"gid" "3475103404834729763"
+				"size" "53490723060"
+				"download" "49423947536"
 			}
 		}
 	}
@@ -415,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "16936649"
-			"timeupdated" "1737334905"
+			"buildid" "17220463"
+			"timeupdated" "1738804516"
 		}
 	}
 	"privatebranches" "1"
@@ -440,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27068318"
-"_sha" "84f0b4d2a81cd1c1759a7d349ef422dfafe7468f"
+"_change_number" "27336659"
+"_sha" "2396be66b3ca0103174cdf4eba3d406f5ad949ca"
 "_size" "12004"
