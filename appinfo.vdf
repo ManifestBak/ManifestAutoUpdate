@@ -11,6 +11,12 @@
 	"icon" "c8ff43f6bc2110cf50c185e2613c3630bfe9f56f"
 	"clienttga" "53e309319766d8538b948a86973a9ebf48a87897"
 	"clienticon" "839e85b9e98c5198e503967e7410a2d641d548a1"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"restricted_countries" "DE"
 	"metacritic_name" "Dodge Show"
 	"small_capsule"
 	{
@@ -20,6 +26,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_5a767bf0b220965410baa2742d8c3bf662d4cbd4.jpg"
 	"store_asset_mtime" "1522879396"
 	"associations"
 	{
@@ -43,6 +50,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -57,6 +67,7 @@
 		}
 	}
 	"steam_release_date" "1524217978"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "835520"
 	"store_tags"
@@ -65,12 +76,14 @@
 		"1" "597"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "82"
 }
 "extended"
 {
 	"developer" "Qunee"
 	"publisher" "Qunee"
+	"listofdlc" "3492000"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -102,9 +115,9 @@
 		{
 			"public"
 			{
-				"gid" "6342104533155815783"
-				"size" "61954554"
-				"download" "44743808"
+				"gid" "9000387963229625885"
+				"size" "289094003"
+				"download" "187259648"
 			}
 		}
 	}
@@ -112,8 +125,28 @@
 	{
 		"public"
 		{
-			"buildid" "2825741"
-			"timeupdated" "1527858201"
+			"buildid" "17260994"
+			"timeupdated" "1738813557"
 		}
 	}
 }
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "data"
+			"pattern" "*.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27338256"
+"_sha" "5e6ded560b6eec2173ccdc4e5dc9ce96013f55ab"
+"_size" "2385"
