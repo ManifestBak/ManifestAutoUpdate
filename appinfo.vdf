@@ -191,7 +191,7 @@
 	}
 	"steam_release_date" "1737392464"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2186360/discussions/0/575995207062967449/"
-	"metacritic_score" "75"
+	"metacritic_score" "73"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/idun---frontline-survival\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -220,7 +220,7 @@
 		"19" "5125"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -287,15 +287,15 @@
 		{
 			"public"
 			{
-				"gid" "1160923043099607834"
-				"size" "1159049553"
-				"download" "600621648"
+				"gid" "2591224174927826212"
+				"size" "1157956577"
+				"download" "600128384"
 			}
 			"beta"
 			{
-				"gid" "1160923043099607834"
-				"size" "1159049553"
-				"download" "600621648"
+				"gid" "2591224174927826212"
+				"size" "1157956577"
+				"download" "600128384"
 			}
 		}
 	}
@@ -309,15 +309,15 @@
 		{
 			"public"
 			{
-				"gid" "8068737705815555916"
-				"size" "1188916452"
-				"download" "610433808"
+				"gid" "306457244216902497"
+				"size" "1187823660"
+				"download" "609944464"
 			}
 			"beta"
 			{
-				"gid" "8068737705815555916"
-				"size" "1188916452"
-				"download" "610433808"
+				"gid" "306457244216902497"
+				"size" "1187823660"
+				"download" "609944464"
 			}
 		}
 	}
@@ -331,15 +331,15 @@
 		{
 			"public"
 			{
-				"gid" "4733173851482214792"
-				"size" "1219225569"
-				"download" "609976864"
+				"gid" "5163194737503701622"
+				"size" "1218129257"
+				"download" "609466656"
 			}
 			"beta"
 			{
-				"gid" "4733173851482214792"
-				"size" "1219225569"
-				"download" "609976864"
+				"gid" "5163194737503701622"
+				"size" "1218129257"
+				"download" "609466656"
 			}
 		}
 	}
@@ -347,14 +347,14 @@
 	{
 		"public"
 		{
-			"buildid" "17239507"
-			"timeupdated" "1738684387"
+			"buildid" "17257832"
+			"timeupdated" "1738794025"
 		}
 		"beta"
 		{
-			"buildid" "17239507"
+			"buildid" "17257832"
 			"description" "Public beta branch"
-			"timeupdated" "1738682651"
+			"timeupdated" "1738792485"
 		}
 	}
 }
@@ -408,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27309709"
-"_sha" "fa0df911e552cef7c4629ef5252cdebc6c5f82ca"
-"_size" "7883"
+"_change_number" "27334387"
+"_sha" "5d09e9135473b21208cdc61d796fc811224a32ac"
+"_size" "7881"
