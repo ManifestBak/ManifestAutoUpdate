@@ -28,41 +28,6 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
-	"eulas"
-	{
-		"0"
-		{
-			"id" "2561580_eula_0"
-			"name" "Horizon Zero Dawn™ Remastered EULA (RoW)"
-			"url" "https://store.steampowered.com/eula/2561580_eula_0"
-			"version" "5"
-			"countries" "AR,AS,BO,BR,CA,CL,CN,CO,CR,EC,GT,GU,HK,HN,ID,MP,MX,MY,NI,PA,PE,PH,PR,PY,SG,SV,TH,TW,US,UY,VI,VN"
-		}
-		"1"
-		{
-			"id" "2561580_eula_1"
-			"name" "Horizon Zero Dawn™ Remastered EULA (EMEA)"
-			"url" "https://store.steampowered.com/eula/2561580_eula_1"
-			"countries" "AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
-			"version" "2"
-		}
-		"2"
-		{
-			"id" "2561580_eula_2"
-			"name" "Horizon Zero Dawn™ Remastered EULA (JP)"
-			"url" "https://store.steampowered.com//eula/2561580_eula_2"
-			"countries" "JP"
-			"version" "6"
-		}
-		"3"
-		{
-			"id" "2561580_eula_3"
-			"name" "Horizon Zero Dawn™ Remastered EULA (KR)"
-			"url" "https://store.steampowered.com//eula/2561580_eula_3"
-			"countries" "KR"
-			"version" "5"
-		}
-	}
 	"name_localized"
 	{
 		"schinese" "《地平线 零之曙光™》重制版"
@@ -76,6 +41,16 @@
 	"osextended" ""
 	"icon" "c4ac0e964ac3391e1c842a4f732d95ccd2227d26"
 	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2561580_eula_0"
+			"name" "Horizon Zero Dawn™ Remastered EULA"
+			"url" "https://store.steampowered.com//eula/2561580_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -368,7 +343,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1730386617"
+	"steam_release_date" "1730386560"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2561580"
@@ -378,8 +353,8 @@
 		"1" "7208"
 		"2" "1697"
 		"3" "1695"
-		"4" "4821"
-		"5" "3835"
+		"4" "3835"
+		"5" "4821"
 		"6" "19"
 		"7" "1742"
 		"8" "3942"
@@ -396,7 +371,7 @@
 		"19" "44868"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -483,9 +458,9 @@
 		{
 			"public"
 			{
-				"gid" "4701521639183060623"
-				"size" "111059725597"
-				"download" "89934946048"
+				"gid" "7465240662519965185"
+				"size" "111059463436"
+				"download" "89931274480"
 			}
 		}
 	}
@@ -500,9 +475,9 @@
 		{
 			"public"
 			{
-				"gid" "1107236896085880767"
+				"gid" "265552515056369382"
 				"size" "589465816"
-				"download" "466231296"
+				"download" "466229952"
 			}
 		}
 	}
@@ -518,9 +493,9 @@
 		{
 			"public"
 			{
-				"gid" "5387585542573662894"
-				"size" "45377132093"
-				"download" "22328014656"
+				"gid" "658909054457792757"
+				"size" "45353645771"
+				"download" "22323059888"
 			}
 		}
 	}
@@ -743,8 +718,8 @@
 	{
 		"public"
 		{
-			"buildid" "16712749"
-			"timeupdated" "1734012481"
+			"buildid" "17237254"
+			"timeupdated" "1738853312"
 		}
 	}
 	"privatebranches" "1"
@@ -768,6 +743,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26612217"
-"_sha" "b1ff781cd1871266593fefe49cf03209d889ba80"
-"_size" "13828"
+"_change_number" "27346711"
+"_sha" "26952dccb20807d8946f7d05f3bb7f6c8e93b4d5"
+"_size" "12952"
