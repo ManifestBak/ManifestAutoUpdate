@@ -72,9 +72,9 @@
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomCenter"
-			"width_pct" "94.06880189798335"
-			"height_pct" "92.28869208988493"
+			"pinned_position" "BottomLeft"
+			"width_pct" "67.62514551804425"
+			"height_pct" "96.58038470672051"
 		}
 	}
 	"library_assets_full"
@@ -94,39 +94,39 @@
 		{
 			"image2x"
 			{
-				"english" "70a5d9a422f665864f8b68d01edd53667e0b64f7/library_hero_2x.jpg"
+				"english" "48c0e93ac51b7e40f775c77a5437dab415a8634e/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "70a5d9a422f665864f8b68d01edd53667e0b64f7/library_hero.jpg"
+				"english" "48c0e93ac51b7e40f775c77a5437dab415a8634e/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "70a5d9a422f665864f8b68d01edd53667e0b64f7/library_hero_blur.jpg"
+				"english" "48c0e93ac51b7e40f775c77a5437dab415a8634e/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "BottomCenter"
-				"width_pct" "94.06880189798335"
-				"height_pct" "92.28869208988493"
+				"pinned_position" "BottomLeft"
+				"width_pct" "67.62514551804425"
+				"height_pct" "96.58038470672051"
 			}
 			"image"
 			{
-				"english" "3ece6f864904b8b9ae28d109fbf1950e4c12a87f/logo.png"
+				"english" "96da7e28a69871ad85be9495c44cbdf965a6871f/logo.png"
 			}
 			"image2x"
 			{
-				"english" "3ece6f864904b8b9ae28d109fbf1950e4c12a87f/logo_2x.png"
+				"english" "96da7e28a69871ad85be9495c44cbdf965a6871f/logo_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1737650315"
+	"store_asset_mtime" "1737985836"
 	"associations"
 	{
 		"0"
@@ -377,15 +377,15 @@
 		{
 			"public"
 			{
-				"gid" "5844462389993954345"
-				"size" "65510975325"
-				"download" "41870826336"
+				"gid" "3625179359565860396"
+				"size" "65499308873"
+				"download" "41860190240"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "5844462389993954345"
-				"size" "65510975325"
-				"download" "41870826336"
+				"gid" "3625179359565860396"
+				"size" "65499308873"
+				"download" "41860190240"
 			}
 		}
 	}
@@ -413,15 +413,15 @@
 		{
 			"public"
 			{
-				"gid" "6656414489057636492"
-				"size" "244401814"
-				"download" "65076576"
+				"gid" "7701260374154098135"
+				"size" "243918805"
+				"download" "62930288"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "6656414489057636492"
-				"size" "244401814"
-				"download" "65076576"
+				"gid" "7701260374154098135"
+				"size" "243918805"
+				"download" "62930288"
 			}
 		}
 	}
@@ -431,15 +431,15 @@
 		{
 			"public"
 			{
-				"gid" "5241446278172489543"
-				"size" "295602948"
-				"download" "74994400"
+				"gid" "8448628952898881336"
+				"size" "294795268"
+				"download" "72218720"
 			}
 			"temporary_launcher_workaround"
 			{
-				"gid" "5241446278172489543"
-				"size" "295602948"
-				"download" "74994400"
+				"gid" "8448628952898881336"
+				"size" "294795268"
+				"download" "72218720"
 			}
 		}
 	}
@@ -477,14 +477,14 @@
 	{
 		"public"
 		{
-			"buildid" "17119895"
-			"timeupdated" "1737724667"
+			"buildid" "17267145"
+			"timeupdated" "1738849893"
 		}
 		"temporary_launcher_workaround"
 		{
-			"buildid" "17119872"
+			"buildid" "17267120"
 			"description" "Bypass Launcher"
-			"timeupdated" "1737724549"
+			"timeupdated" "1738849695"
 		}
 	}
 	"privatebranches" "1"
@@ -496,6 +496,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27149696"
-"_sha" "d2ee9c8f5042c8741163f924d4b2971966dae908"
-"_size" "9295"
+"_change_number" "27345790"
+"_sha" "ac895e6fdfa60568810c31e93072445c6a95f8c6"
+"_size" "9291"
