@@ -134,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1630397312"
+	"store_asset_mtime" "1738865692"
 	"associations"
 	{
 		"0"
@@ -233,8 +233,8 @@
 		"1" "597"
 		"2" "17894"
 		"3" "492"
-		"4" "599"
-		"5" "44868"
+		"4" "44868"
+		"5" "599"
 		"6" "1695"
 		"7" "1654"
 		"8" "7208"
@@ -251,12 +251,14 @@
 		"19" "6041"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "87"
 }
 "extended"
 {
 	"developer" "Peachy Keen Games"
 	"publisher" "Whitethorn Games"
+	"listofdlc" "3298220"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -304,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "1122393246881157373"
-				"size" "885105855"
-				"download" "381071696"
+				"gid" "8324555323191496893"
+				"size" "1058319207"
+				"download" "430997632"
 			}
 		}
 	}
@@ -332,8 +334,8 @@
 	{
 		"public"
 		{
-			"buildid" "10333924"
-			"timeupdated" "1673894191"
+			"buildid" "17270940"
+			"timeupdated" "1738868756"
 		}
 	}
 }
@@ -366,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "1e1a2bc55b0e6c63a930ce14761eeb1d60f73176"
-"_size" "6086"
+"_change_number" "27351269"
+"_sha" "8b5d76db6738a64797ba3f9adf40811f542d1dae"
+"_size" "6141"
