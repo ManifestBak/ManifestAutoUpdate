@@ -33,7 +33,7 @@
 	"othervrsupport_rift_13" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "306de56f1c89a3deec71f0f90014c1335b85749e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -44,6 +44,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -51,7 +52,60 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1719826146"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "17a35f15d64577ace2b990c0ef672a9fe8c90716/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "17a35f15d64577ace2b990c0ef672a9fe8c90716/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728481764"
 	"associations"
 	{
 		"0"
@@ -173,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "2437512306505991124"
-				"size" "4976015887"
-				"download" "1726183424"
+				"gid" "1680902663869363890"
+				"size" "4976039339"
+				"download" "1726190992"
 			}
 			"version_1.24"
 			{
@@ -191,42 +245,9 @@
 			}
 			"beta"
 			{
-				"gid" "2437512306505991124"
-				"size" "4976015887"
-				"download" "1726183424"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"microsoft_wmr_qa"
-			{
-				"gid" "759D6B9585F2335AB339FB2AEC291F40"
-				"size" "0F4086B89B1AB2828E02B4433638A820"
-				"download" "1B2ABD9602DDBFF562A7929769E635BE"
-			}
-			"playtesting"
-			{
-				"gid" "173B8B450F02292523ABA3324A2DDD0F"
-				"size" "1EB8DAA8AEECC7F5767D02E495826766"
-				"download" "70736F8E3812F0697085A90D67E59DE7"
-			}
-			"press"
-			{
-				"gid" "BB0580051620D66D2C1E4AF2E497C148"
-				"size" "C78FF5D65582C7739A7EBB7A540B8794"
-				"download" "FD587211E67A66F86A7B07C23DD2F203"
-			}
-			"stabilized_camera"
-			{
-				"gid" "671528DF163FA159335409C68B29E6BE"
-				"size" "4B007672F3D6C2D5E1AF61A2B1B608F3"
-				"download" "B11326C1E34B6F6E664EB0D99BE44277"
-			}
-			"development"
-			{
-				"gid" "398FDD2D36EDDA892811748D775C7C7E"
-				"size" "69E078D6FC3CAB895BDC080BF94059B0"
-				"download" "DFEFB89224D5577438C36C425FAE05A7"
+				"gid" "1680902663869363890"
+				"size" "4976039339"
+				"download" "1726190992"
 			}
 		}
 	}
@@ -234,32 +255,8 @@
 	{
 		"public"
 		{
-			"buildid" "14961524"
-			"timeupdated" "1720725201"
-		}
-		"microsoft_wmr_qa"
-		{
-			"buildid" "9518196"
-			"pwdrequired" "1"
-			"timeupdated" "1663194442"
-		}
-		"playtesting"
-		{
-			"buildid" "12427651"
-			"pwdrequired" "1"
-			"timeupdated" "1697143661"
-		}
-		"press"
-		{
-			"buildid" "8825739"
-			"pwdrequired" "1"
-			"timeupdated" "1653693965"
-		}
-		"stabilized_camera"
-		{
-			"buildid" "8946964"
-			"pwdrequired" "1"
-			"timeupdated" "1655358213"
+			"buildid" "17196603"
+			"timeupdated" "1738873092"
 		}
 		"version_1.24"
 		{
@@ -275,19 +272,14 @@
 		}
 		"beta"
 		{
-			"buildid" "14961524"
+			"buildid" "17196603"
 			"description" "The pre-release version of the game."
-			"timeupdated" "1720422961"
-		}
-		"development"
-		{
-			"buildid" "14961524"
-			"pwdrequired" "1"
-			"timeupdated" "1720422833"
+			"timeupdated" "1738871254"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "24888458"
-"_sha" "6418c1b98ceb778f91915ee11b78240782921e6c"
-"_size" "5367"
+"_change_number" "27352253"
+"_sha" "81b1b0615315754e2a11d7bae984545fde78fd64"
+"_size" "4830"
