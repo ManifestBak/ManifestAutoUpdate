@@ -8,11 +8,11 @@
 	"osarch" ""
 	"logo" "efefa913c0080860913a5670103f6c169324602f"
 	"logo_small" "efefa913c0080860913a5670103f6c169324602f_thumb"
-	"icon" "1ec8fedcd81aef5a4ab5be84cbf2f3d00c5b197c"
-	"clienttga" "718d5c770f5a79fb357ec75a744c3dfc6cd75e75"
-	"linuxclienticon" "5dc7bedaf070acdec05dc9d09d69e2adaf0899cd"
-	"clienticon" "8054ee01327d264b3de764854e55b5712cbdfae5"
-	"clienticns" "bdfcfa0d7b2f1f5b6566a7f9d0708239479a0bb5"
+	"icon" "d5702cf0402efb94240f69a505e7c6ee8abb3460"
+	"clienttga" "2affef0460013fc6147ce2c85c76911eb6e803a0"
+	"linuxclienticon" "d275d448f88f54bbe810116c9236ff9dee03daf2"
+	"clienticon" "7cfcb1aaf01595b99bc12d9fb8fb58a3866501ec"
+	"clienticns" "2a72ed62bd85dc567f202cb8ae5081f84537f4fc"
 	"osextended" "macos64,macosapplesilicon"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -215,8 +215,8 @@
 		"7" "597"
 		"8" "12472"
 		"9" "1669"
-		"10" "21"
-		"11" "3859"
+		"10" "3859"
+		"11" "21"
 		"12" "4004"
 		"13" "3871"
 		"14" "5851"
@@ -280,6 +280,9 @@
 			}
 		}
 	}
+	"app_mappings"
+	{
+	}
 }
 "depots"
 {
@@ -294,24 +297,15 @@
 		{
 			"public"
 			{
-				"gid" "3055291788773851366"
-				"size" "225124102"
-				"download" "145372688"
+				"gid" "1293559400806264193"
+				"size" "225311405"
+				"download" "145556256"
 			}
 			"beta"
 			{
-				"gid" "3055291788773851366"
-				"size" "225124102"
-				"download" "145372688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "345F2FDF39A8ABD8F30E45565B44637B"
-				"size" "941CCA8F3B5DF5CE99E3A2C7A05F0486"
-				"download" "52BD61CB7A15E2099B03FBB50F1E9984"
+				"gid" "1293559400806264193"
+				"size" "225311405"
+				"download" "145556256"
 			}
 		}
 	}
@@ -325,24 +319,15 @@
 		{
 			"public"
 			{
-				"gid" "6140924728901966754"
-				"size" "250988531"
-				"download" "149444960"
+				"gid" "2808947532491097894"
+				"size" "251177879"
+				"download" "149630464"
 			}
 			"beta"
 			{
-				"gid" "6140924728901966754"
-				"size" "250988531"
-				"download" "149444960"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "98EC41AB4953AE3BDB276921D9BE7A8F"
-				"size" "7CE663514BE6EA5EFECAE0D7AE8E7137"
-				"download" "63F6E08A2BDD528F24CCC6220565DABF"
+				"gid" "2808947532491097894"
+				"size" "251177879"
+				"download" "149630464"
 			}
 		}
 	}
@@ -356,24 +341,15 @@
 		{
 			"public"
 			{
-				"gid" "1896935650026735500"
-				"size" "121593255"
-				"download" "119857856"
+				"gid" "4022754596842143314"
+				"size" "121780558"
+				"download" "120042112"
 			}
 			"beta"
 			{
-				"gid" "1896935650026735500"
-				"size" "121593255"
-				"download" "119857856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "FAEB83460B3B55008FBAF84C6CD2A6A0"
-				"size" "6B8FF5DEB18D2EB35CFBC44AED0599D5"
-				"download" "315C330C3513091BD19FC991632809BD"
+				"gid" "4022754596842143314"
+				"size" "121780558"
+				"download" "120042112"
 			}
 		}
 	}
@@ -382,22 +358,17 @@
 	{
 		"public"
 		{
-			"buildid" "16799436"
-			"timeupdated" "1734899747"
-		}
-		"alpha"
-		{
-			"buildid" "16799436"
-			"pwdrequired" "1"
-			"timeupdated" "1734605892"
+			"buildid" "17251650"
+			"timeupdated" "1738853697"
 		}
 		"beta"
 		{
-			"buildid" "16799436"
+			"buildid" "17251650"
 			"description" "Branch for testing new features"
-			"timeupdated" "1734605899"
+			"timeupdated" "1738759743"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -438,6 +409,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26756062"
-"_sha" "4d506c080464e3973f69eaeee6cbfee2f2886124"
-"_size" "6855"
+"_change_number" "27346877"
+"_sha" "351fcf618964160cff634c1a7a69beff76c6362a"
+"_size" "6188"
