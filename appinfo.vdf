@@ -60,7 +60,6 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"metacritic_name" "Computer Tycoon"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -161,26 +160,26 @@
 	"gameid" "686680"
 	"store_tags"
 	{
-		"0" "4136"
-		"1" "16689"
-		"2" "9204"
-		"3" "3810"
-		"4" "4695"
-		"5" "6310"
-		"6" "12472"
-		"7" "4845"
-		"8" "1036"
-		"9" "7332"
-		"10" "4026"
-		"11" "4364"
-		"12" "9"
-		"13" "4004"
-		"14" "3871"
-		"15" "6426"
-		"16" "4191"
-		"17" "8013"
-		"18" "3987"
-		"19" "599"
+		"0" "4004"
+		"1" "4136"
+		"2" "7743"
+		"3" "603297"
+		"4" "8013"
+		"5" "4364"
+		"6" "6426"
+		"7" "9"
+		"8" "4695"
+		"9" "6310"
+		"10" "4845"
+		"11" "12472"
+		"12" "3987"
+		"13" "4202"
+		"14" "9204"
+		"15" "3810"
+		"16" "4026"
+		"17" "1036"
+		"18" "8945"
+		"19" "7332"
 	}
 	"review_score" "8"
 	"review_percentage" "84"
@@ -239,36 +238,15 @@
 		{
 			"public"
 			{
-				"gid" "2796944523524549379"
-				"size" "2892611778"
-				"download" "303185488"
+				"gid" "136711232676161801"
+				"size" "2892614369"
+				"download" "303186928"
 			}
 			"opentestbranch"
 			{
-				"gid" "2855730301421812702"
-				"size" "3070569958"
-				"download" "389656768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"holidaytestbranch"
-			{
-				"gid" "82ADA184AD7CD62AE16539023EABB56E"
-				"size" "1C0EEB4578410636101B4B42E3CA69D8"
-				"download" "B8FE93DD4CD86A4E4B161822F263CC15"
-			}
-			"discordbetabranch"
-			{
-				"gid" "C729802DDF199F3AF1A2BB3F5FA8593F"
-				"size" "6EBDF434E7C72960F71C98626EE8DCC3"
-				"download" "C7369BFEABAA9951234E28BD37B9580D"
-			}
-			"originaleareleasebuild"
-			{
-				"gid" "D3DCEEEED9DF4C4A2A97B93878C4C578"
-				"size" "294AB1A12EE90BDA85240D0D3D94591F"
-				"download" "63C1DA0DE363C40F9A92A50A51CBFF87"
+				"gid" "3043043365727996315"
+				"size" "679341878"
+				"download" "492012544"
 			}
 		}
 	}
@@ -282,36 +260,15 @@
 		{
 			"public"
 			{
-				"gid" "7445515710127722126"
-				"size" "2909920231"
-				"download" "307402336"
+				"gid" "1943671784260903821"
+				"size" "2909922822"
+				"download" "307403776"
 			}
 			"opentestbranch"
 			{
-				"gid" "5088984270962933295"
-				"size" "3088813911"
-				"download" "394026048"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"holidaytestbranch"
-			{
-				"gid" "14C949FF71D8FDD2479BF2B3EA31DFC9"
-				"size" "FF1A9DF29D093B9A4356507FE87929A7"
-				"download" "AA9F69A10E654E469D265E17EAE9716E"
-			}
-			"discordbetabranch"
-			{
-				"gid" "D590CAC902106F7523B47D755076983B"
-				"size" "40D9D3AA4D32E7F552CCAF9050F4167D"
-				"download" "00C9EB3588A3A19B5C48C64231F450EA"
-			}
-			"originaleareleasebuild"
-			{
-				"gid" "CC170F2F9CA312587556A4DA0E868B47"
-				"size" "CE26CCABA883C6ED2C000373026993E3"
-				"download" "A95B87ABE0BFCA7E6FEDC4FDF9F2E711"
+				"gid" "1796592729414547972"
+				"size" "712505666"
+				"download" "491132336"
 			}
 		}
 	}
@@ -319,37 +276,24 @@
 	{
 		"public"
 		{
-			"buildid" "9995167"
-			"timeupdated" "1669153557"
-		}
-		"holidaytestbranch"
-		{
-			"buildid" "13164595"
-			"pwdrequired" "1"
-			"timeupdated" "1705149096"
-		}
-		"discordbetabranch"
-		{
-			"buildid" "15470023"
-			"pwdrequired" "1"
-			"timeupdated" "1724404045"
+			"buildid" "17271701"
+			"timeupdated" "1738873229"
 		}
 		"opentestbranch"
 		{
-			"buildid" "14976008"
+			"buildid" "17211207"
 			"description" "This is the Open Beta Branch. The Community Tests here the next version - bugs are expected!"
-			"timeupdated" "1720525510"
-		}
-		"originaleareleasebuild"
-		{
-			"buildid" "4336721"
-			"pwdrequired" "1"
-			"timeupdated" "1720527624"
+			"timeupdated" "1738432754"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "0"
 	"maxnumfiles" "0"
 }
+"_missing_token" "False"
+"_change_number" "27352294"
+"_sha" "319fde32e04a88d5e870d64f4ff522356d670c67"
+"_size" "5193"
