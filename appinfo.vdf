@@ -168,7 +168,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Triband "
+			"name" "Triband"
 		}
 		"2"
 		{
@@ -286,8 +286,8 @@
 		"3" "1719"
 		"4" "4106"
 		"5" "699"
-		"6" "21"
-		"7" "4726"
+		"6" "4726"
+		"7" "21"
 		"8" "4191"
 		"9" "4305"
 		"10" "4878"
@@ -307,7 +307,7 @@
 "extended"
 {
 	"developer" "Triband"
-	"publisher" "Triband "
+	"publisher" "Triband"
 	"homepage" "https://whatthegames.com/car"
 }
 "config"
@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "7093801223332756772"
-				"size" "2956337304"
-				"download" "465515648"
+				"gid" "3937658488833949237"
+				"size" "2959148579"
+				"download" "466752768"
 			}
 		}
 	}
@@ -362,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "2465137533842904491"
-				"size" "2641283427"
-				"download" "404950464"
+				"gid" "7099274126935413319"
+				"size" "2644116735"
+				"download" "405718448"
 			}
 		}
 	}
@@ -389,8 +389,8 @@
 	{
 		"public"
 		{
-			"buildid" "16917833"
-			"timeupdated" "1736239415"
+			"buildid" "17143315"
+			"timeupdated" "1738878235"
 		}
 	}
 	"privatebranches" "1"
@@ -434,6 +434,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26889333"
-"_sha" "ca31bb068551769a039cbb0fe2416ce4cc774f0a"
-"_size" "7112"
+"_change_number" "27353431"
+"_sha" "5cebd2f63ca684a3c40b367945c383c780116e78"
+"_size" "7110"
