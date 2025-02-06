@@ -31,8 +31,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1700179200"
-		"tested_build_id" "12676820"
+		"test_timestamp" "1738627200"
+		"tested_build_id" "17197158"
 		"tests"
 		{
 			"0"
@@ -55,25 +55,21 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
-			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Cuisineer"
@@ -307,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "5871690474130879738"
-				"size" "3117183401"
-				"download" "1732000928"
+				"gid" "7003386472357785239"
+				"size" "3117182385"
+				"download" "1732013344"
 			}
 		}
 	}
@@ -318,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "17197158"
-			"timeupdated" "1738600785"
+			"buildid" "17263015"
+			"timeupdated" "1738842284"
 		}
 	}
 	"privatebranches" "1"
@@ -372,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27292408"
-"_sha" "8f3cd41208226620dc9ee3bbf45e452bd67838e8"
-"_size" "6775"
+"_change_number" "27343987"
+"_sha" "2b60d7b9979e2523094c4cdbb40f37b78f2e2d78"
+"_size" "6668"
