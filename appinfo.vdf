@@ -228,8 +228,8 @@
 		"8" "13276"
 		"9" "1775"
 		"10" "3987"
-		"11" "599"
-		"12" "4175"
+		"11" "4175"
+		"12" "599"
 		"13" "1708"
 		"14" "7743"
 		"15" "1685"
@@ -245,7 +245,7 @@
 {
 	"developer" "Eugen Systems"
 	"publisher" "Eugen Systems"
-	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840,3333270,3363540"
+	"listofdlc" "2978610,2978620,2978630,2978640,2978650,2981540,3017370,3025400,3261230,3309840,3333270,3363540,3484700"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -304,6 +304,12 @@
 		{
 			"public"
 			{
+				"gid" "3040516710706229263"
+				"size" "52183563692"
+				"download" "42358468848"
+			}
+			"compat_141935"
+			{
 				"gid" "2488000856389408977"
 				"size" "50167533172"
 				"download" "41226856448"
@@ -339,39 +345,24 @@
 				"download" "46318260512"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"compat_vip"
-			{
-				"gid" "8B6AFC3C48B00770BB74C1E28E504D5B"
-				"size" "0F51689096B29244FE8BCD63D0C24CFB"
-				"download" "FF65CB057B10C06B030B0852B6857F1A"
-			}
-			"full_vip"
-			{
-				"gid" "C7A3823E615F5C8075C7A222F9D32EF2"
-				"size" "CBDCA16239CF8348BFD04EBF9A263093"
-				"download" "51103D078A7FAD57238EBA1288029859"
-			}
-			"qa_test"
-			{
-				"gid" "963E31F12A2298FFBCB510E817DA8869"
-				"size" "EB7AF14D8DF88EF9C199D369B0F9F0E3"
-				"download" "16F82D2C326A26EADE83FA105F820A8F"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
+			"buildid" "17254450"
+			"timeupdated" "1738833168"
+		}
+		"compat_141935"
+		{
 			"buildid" "16837181"
-			"timeupdated" "1735026493"
+			"description" "Compatibility for mods based on version 141935, compatibility for saves and replays prior to or equal to 141935"
+			"timeupdated" "1738834083"
 		}
 		"compat_141373"
 		{
 			"buildid" "16759867"
-			"description" "Compatibility for mods based on version 141373, compatibility for saves and replays prior to or equal to 141373"
+			"description" "(Old)"
 			"timeupdated" "1735026824"
 		}
 		"compat_139445"
@@ -398,25 +389,8 @@
 			"description" "(Old)"
 			"timeupdated" "1679588606"
 		}
-		"compat_vip"
-		{
-			"buildid" "16837181"
-			"pwdrequired" "1"
-			"timeupdated" "1735026638"
-		}
-		"full_vip"
-		{
-			"buildid" "16837181"
-			"pwdrequired" "1"
-			"timeupdated" "1735026647"
-		}
-		"qa_test"
-		{
-			"buildid" "16837181"
-			"pwdrequired" "1"
-			"timeupdated" "1734979322"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -424,6 +398,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26771006"
-"_sha" "b0154cf7f8e6a653caeddabd17fb42f5fc4b0830"
-"_size" "8249"
+"_change_number" "27341878"
+"_sha" "bc69d0f2ac7c35c82cceb529ae83f847969a4ca4"
+"_size" "7647"
