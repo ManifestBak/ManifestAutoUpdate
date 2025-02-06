@@ -232,9 +232,9 @@
 		"4" "10816"
 		"5" "1775"
 		"6" "3968"
-		"7" "6730"
-		"8" "7368"
-		"9" "3859"
+		"7" "3859"
+		"8" "6730"
+		"9" "7368"
 		"10" "4182"
 	}
 	"review_score" "8"
@@ -296,90 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "8211651909055706420"
-				"size" "26450329657"
-				"download" "24688026416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"agerating"
-			{
-				"gid" "0C0CF8F455DA038D1CA5453C2CDE2ED5"
-				"size" "66D3F31211F494B61A9828DE38F399B8"
-				"download" "FC0B24468BA027AF349992AFE8A260A3"
-			}
-			"branch_agenzia_lm5"
-			{
-				"gid" "AD8C2E75EECB1F47A1446F9669CDA0E7"
-				"size" "AF69CCE73A21965488AE61419B7F0195"
-				"download" "73393F83FFB137533ACC60927BD9A254"
-			}
-			"branch_agenzia_riot"
-			{
-				"gid" "5933182D30434C4BCD8DFB8E88A9C6F3"
-				"size" "3F0E7D1D0B6921FDFC5FF050817B156B"
-				"download" "9BAC16770ED667B306245C7B8BFCD658"
-			}
-			"branch_amd"
-			{
-				"gid" "4F6C39A19085E64CBB063A6C06B4415B"
-				"size" "6FDA121665C89EEA5BAE0C9C395B060B"
-				"download" "B78476A4B42960E528A2062DE0C16250"
-			}
-			"branch_build_review"
-			{
-				"gid" "30B2A1D15868243D1B51F9CCD0A703AA"
-				"size" "3DCB483209C783262F00D6DCEF4EB73F"
-				"download" "ECE8A9B6F8B785131AFFBEBA84789784"
-			}
-			"branch_creators"
-			{
-				"gid" "C0C14F7CD20384C267D4EC910E54BDDF"
-				"size" "D4729722E61D3B5915560C5F04EDCF2B"
-				"download" "6E589E21864CC8ADBB17281F44272450"
-			}
-			"branch_mockreview"
-			{
-				"gid" "3E853F77CA114A964F853F813C9A9A00"
-				"size" "5C92DB242711265C7BD017F2B567A8EC"
-				"download" "667AD3A7DF1E7F08360EDCDA4DEA492C"
-			}
-			"branch_nvidia"
-			{
-				"gid" "F787B46797DB8C43DBBE63BEC6AE154B"
-				"size" "D0226731D875818AE6338969733609B2"
-				"download" "CF3D9FAAA5017C0D767F5256A751288D"
-			}
-			"dornareview"
-			{
-				"gid" "D4FEA8BE7BBB226F5B5FCA06670180E4"
-				"size" "408EFE64B60B0CD3CE4A7CCEB7C8A68C"
-				"download" "7C040E08511FCE18E7158F60C7AABAFE"
-			}
-			"externalqa"
-			{
-				"gid" "6BAB11F0EEAD42B3E5EC96D3F4561D2E"
-				"size" "3888DA049C40461E424944066F9DC63D"
-				"download" "ACCE0734813F9BF03746BBD39FDAC353"
-			}
-			"pccompatibility"
-			{
-				"gid" "6F808D3D820977B01487C859D31A4FF1"
-				"size" "B77B48BA47EAD42C8B53E76F39852135"
-				"download" "6E22A593336B23ECBA479E3FA61E8CA3"
-			}
-			"devbranch"
-			{
-				"gid" "608A38B0771084124FB931ABDD95FDF2"
-				"size" "03AEB29ACC512C877502F1E229ED04D3"
-				"download" "D7144CD611E7B43522C5388903B8E3F5"
-			}
-			"testbranch"
-			{
-				"gid" "CC47FCEB783A8A18B8FD3A0903DC3E1C"
-				"size" "4D7F09E35783EB48A75B6275941F5070"
-				"download" "A9F90D36B1D8E1C4F6EAAC0D688FF3D8"
+				"gid" "8263426870026251053"
+				"size" "26471126216"
+				"download" "24707933184"
 			}
 		}
 	}
@@ -388,88 +307,11 @@
 	{
 		"public"
 		{
-			"buildid" "15622536"
-			"timeupdated" "1725973172"
-		}
-		"agerating"
-		{
-			"buildid" "13144703"
-			"pwdrequired" "1"
-			"timeupdated" "1704965153"
-		}
-		"branch_agenzia_lm5"
-		{
-			"buildid" "13610663"
-			"pwdrequired" "1"
-			"timeupdated" "1709281613"
-		}
-		"branch_agenzia_riot"
-		{
-			"buildid" "13154644"
-			"pwdrequired" "1"
-			"timeupdated" "1705048726"
-		}
-		"branch_amd"
-		{
-			"buildid" "13643426"
-			"pwdrequired" "1"
-			"timeupdated" "1709630037"
-		}
-		"branch_build_review"
-		{
-			"buildid" "14020935"
-			"pwdrequired" "1"
-			"timeupdated" "1713168415"
-		}
-		"branch_creators"
-		{
-			"buildid" "13894239"
-			"pwdrequired" "1"
-			"timeupdated" "1711716007"
-		}
-		"branch_mockreview"
-		{
-			"buildid" "13841738"
-			"pwdrequired" "1"
-			"timeupdated" "1711358384"
-		}
-		"branch_nvidia"
-		{
-			"buildid" "13643518"
-			"pwdrequired" "1"
-			"timeupdated" "1709630627"
-		}
-		"dornareview"
-		{
-			"buildid" "13679138"
-			"pwdrequired" "1"
-			"timeupdated" "1709889121"
-		}
-		"externalqa"
-		{
-			"buildid" "13881710"
-			"pwdrequired" "1"
-			"timeupdated" "1711625851"
-		}
-		"pccompatibility"
-		{
-			"buildid" "13516760"
-			"pwdrequired" "1"
-			"timeupdated" "1708502993"
-		}
-		"devbranch"
-		{
-			"buildid" "15594998"
-			"pwdrequired" "1"
-			"timeupdated" "1725481441"
-		}
-		"testbranch"
-		{
-			"buildid" "15622536"
-			"pwdrequired" "1"
-			"timeupdated" "1725669518"
+			"buildid" "17251879"
+			"timeupdated" "1738836159"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -487,6 +329,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25157346"
-"_sha" "ef4a30f2719384274dcbc3a67ee12dc2ec34f02b"
-"_size" "9153"
+"_change_number" "27342462"
+"_sha" "f9473d6ea8b7f9c5a56d683acfbd365594c42795"
+"_size" "5375"
