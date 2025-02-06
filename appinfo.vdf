@@ -182,6 +182,9 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -206,7 +209,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1743404400"
+	"steam_release_date" "1738515462"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/2598800/discussions/0/4517758247945370357/"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -216,12 +219,12 @@
 		"0" "7208"
 		"1" "4085"
 		"2" "3814"
-		"3" "3959"
-		"4" "492"
-		"5" "42804"
-		"6" "1663"
-		"7" "13382"
-		"8" "1697"
+		"3" "492"
+		"4" "13382"
+		"5" "1697"
+		"6" "3959"
+		"7" "42804"
+		"8" "1663"
 		"9" "21"
 		"10" "19"
 		"11" "1716"
@@ -235,7 +238,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -271,9 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "7489276725433269785"
-				"size" "3638429185"
-				"download" "982049168"
+				"gid" "8732670010124937704"
+				"size" "3638431857"
+				"download" "982026528"
 			}
 		}
 	}
@@ -281,8 +284,8 @@
 	{
 		"public"
 		{
-			"buildid" "17255316"
-			"timeupdated" "1738778051"
+			"buildid" "17270807"
+			"timeupdated" "1738868206"
 		}
 	}
 	"privatebranches" "1"
@@ -295,6 +298,6 @@
 	"hidecloudui" "1"
 }
 "_missing_token" "False"
-"_change_number" "27331328"
-"_sha" "13073cee469ff93c91cbbb204c25b352cffb42d7"
-"_size" "6799"
+"_change_number" "27351151"
+"_sha" "ff1a927b908b5aff801a3e801600d71585dbbdca"
+"_size" "6865"
