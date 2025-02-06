@@ -399,9 +399,9 @@
 			}
 			"description_loc"
 			{
-				"english" "EarlyAccess"
+				"english" "Main Prod"
 			}
-			"description" "EarlyAccess"
+			"description" "Main Prod"
 		}
 		"3"
 		{
@@ -460,14 +460,18 @@
 		"8"
 		{
 			"executable" "forhonor.exe"
-			"arguments" "-uplay_steam_mode /startedByUplay:UAT,2916,Test_TUPC"
-			"description" "TUPC"
+			"arguments" "-uplay_steam_mode /startedByUplay:UAT,2916,tu"
 			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"betakey" "tupc"
 			}
+			"description_loc"
+			{
+				"english" "TUPC"
+			}
+			"description" "TUPC"
 		}
 	}
 	"steamcontrollertemplateindex" "2"
@@ -491,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "6848747386462871073"
-				"size" "115305900738"
-				"download" "114077983200"
+				"gid" "5205082099975463814"
+				"size" "115307588198"
+				"download" "114079665008"
 			}
 			"local"
 			{
@@ -520,8 +524,8 @@
 	{
 		"public"
 		{
-			"buildid" "17175966"
-			"timeupdated" "1738246330"
+			"buildid" "17257666"
+			"timeupdated" "1738850839"
 		}
 		"local"
 		{
@@ -534,6 +538,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27236068"
-"_sha" "b1a44aec7d9a687dc213430bc6c7fe33cc32b7cb"
-"_size" "10371"
+"_change_number" "27346050"
+"_sha" "c0bf20c41189277c012e6d25c243f3598de09dc8"
+"_size" "10417"
