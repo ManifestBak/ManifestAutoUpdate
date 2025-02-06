@@ -35,6 +35,7 @@
 	"logo" "8f7a8f1b21c56b541d239925e5378d2c82c30182"
 	"logo_small" "8f7a8f1b21c56b541d239925e5378d2c82c30182_thumb"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Battle of Red Cliffs VR"
 	"small_capsule"
 	{
@@ -44,6 +45,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_c64341639168978eae476354bed5bcf0980b7948.jpg"
 	"store_asset_mtime" "1509951838"
 	"associations"
 	{
@@ -147,18 +149,9 @@
 		{
 			"public"
 			{
-				"gid" "4770073106692881352"
-				"size" "2541772007"
-				"download" "783546752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "C5044E77F09ABCCA372839FD6E2FB636"
-				"size" "57D17934004428FAF2DB7F38C489F2E5"
-				"download" "30EB118AC19A8E5E86C935D017FE6E37"
+				"gid" "6566989371313080824"
+				"size" "2541798536"
+				"download" "783572912"
 			}
 		}
 	}
@@ -166,19 +159,18 @@
 	{
 		"public"
 		{
-			"buildid" "11215365"
-			"timeupdated" "1683872121"
-		}
-		"test"
-		{
-			"buildid" "11215365"
-			"pwdrequired" "1"
-			"timeupdated" "1683871492"
+			"buildid" "17259536"
+			"timeupdated" "1738803558"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000"
 	"maxnumfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27336451"
+"_sha" "88a91a13ab220b3f2bb3c9a80cf8b12d92c07735"
+"_size" "2763"
