@@ -68,6 +68,7 @@
 		}
 	}
 	"metacritic_name" "Super Bit Blaster XL"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -82,6 +83,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -89,7 +91,60 @@
 			"height_pct" "77.08333333333334"
 		}
 	}
-	"store_asset_mtime" "1683074933"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "29.636835278858626"
+				"height_pct" "77.08333333333334"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d6c92d6b9da784f3b19006be4809520d6e055947/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d6c92d6b9da784f3b19006be4809520d6e055947/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738876516"
 	"associations"
 	{
 		"0"
@@ -185,26 +240,26 @@
 	"gameid" "865040"
 	"store_tags"
 	{
-		"0" "19"
-		"1" "492"
-		"2" "597"
-		"3" "4004"
-		"4" "1773"
-		"5" "4255"
-		"6" "3871"
-		"7" "4885"
-		"8" "5154"
-		"9" "1685"
-		"10" "7368"
-		"11" "4182"
-		"12" "4190"
-		"13" "4711"
-		"14" "5350"
-		"15" "1693"
-		"16" "1734"
-		"17" "3859"
-		"18" "3942"
-		"19" "1662"
+		"0" "4885"
+		"1" "4255"
+		"2" "1775"
+		"3" "1773"
+		"4" "3871"
+		"5" "7481"
+		"6" "19"
+		"7" "597"
+		"8" "4305"
+		"9" "3964"
+		"10" "5350"
+		"11" "3942"
+		"12" "1755"
+		"13" "5154"
+		"14" "1662"
+		"15" "4004"
+		"16" "7743"
+		"17" "3993"
+		"18" "1685"
+		"19" "3841"
 	}
 	"review_score" "8"
 	"review_percentage" "93"
@@ -237,28 +292,18 @@
 				"oslist" "linux"
 			}
 		}
-		"2"
-		{
-			"executable" "Super Bit Blaster XL.exe"
-			"type" "none"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "32"
-			}
-		}
 		"3"
 		{
 			"executable" "Super Bit Blaster XL.exe"
-			"type" "none"
 			"config"
 			{
 				"oslist" "windows"
-				"osarch" "64"
 			}
 		}
 	}
 	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
 }
 "depots"
 {
@@ -274,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "3445609864429606761"
-				"size" "137581195"
-				"download" "88893104"
+				"gid" "255857901659337729"
+				"size" "124208474"
+				"download" "71656960"
 			}
 		}
 	}
@@ -291,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "6726526094292397845"
-				"size" "131559218"
-				"download" "87087440"
+				"gid" "4924824629358671805"
+				"size" "116596159"
+				"download" "69537680"
 			}
 		}
 	}
@@ -308,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "1044486575658484130"
-				"size" "183820338"
-				"download" "91914864"
+				"gid" "7016136899176401855"
+				"size" "121407241"
+				"download" "69012848"
 			}
 		}
 	}
@@ -336,8 +381,8 @@
 	{
 		"public"
 		{
-			"buildid" "10560180"
-			"timeupdated" "1676487414"
+			"buildid" "17272078"
+			"timeupdated" "1738875439"
 		}
 	}
 }
@@ -347,21 +392,6 @@
 	"maxnumfiles" "50"
 	"rootoverrides"
 	{
-		"0"
-		{
-			"root" "WinAppDataLocalLow"
-			"os" "MacOS"
-			"oscompare" "="
-			"useinstead" "MacAppSupport"
-			"pathtransforms"
-			{
-				"0"
-				{
-					"find" "Nickervision Studios/Super Bit Blaster XL"
-					"replace" "unity.Nickervision Studios.Super Bit Blaster XL"
-				}
-			}
-		}
 		"1"
 		{
 			"root" "WinAppDataLocalLow"
@@ -377,6 +407,51 @@
 				}
 			}
 		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Nickervision Studios/Super Bit Blaster XL"
+					"replace" ".config/unity3d/Adamvision Studios/Super Bit Blaster XL"
+				}
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Nickervision Studios/Super Bit Blaster XL"
+					"replace" "com.Nickervision-Studios.Super-Bit-Blaster-XL"
+				}
+			}
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Nickervision Studios/Super Bit Blaster XL"
+					"replace" "com.adamvision.superbitblasterxl"
+				}
+			}
+		}
 	}
 	"savefiles"
 	{
@@ -387,9 +462,16 @@
 			"pattern" "*.sbbxl"
 			"recursive" "1"
 		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Adamvision Studios/Super Bit Blaster XL"
+			"pattern" "*.sbbxl"
+			"recursive" "1"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24268697"
-"_sha" "42132d625e773b6cf037854ff70e9d692fcf37f5"
-"_size" "6808"
+"_change_number" "27353077"
+"_sha" "abba057ab76f226f228fd98398caae0407fad241"
+"_size" "8359"
