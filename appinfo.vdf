@@ -11,6 +11,7 @@
 	"clienticon" "67fb1f6d7b73f19c9609e54f5af4bbfa7405ffd6"
 	"clienttga" "f9e54067e062ea2c823efc73b0f69e28514bcafa"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -172,7 +173,7 @@
 		"10" "3942"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -205,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "9085169473531120025"
-				"size" "1635697483"
-				"download" "807336672"
+				"gid" "9016048336456660565"
+				"size" "1660710368"
+				"download" "832566176"
 			}
 		}
 	}
@@ -215,8 +216,12 @@
 	{
 		"public"
 		{
-			"buildid" "13041464"
-			"timeupdated" "1703479111"
+			"buildid" "17271089"
+			"timeupdated" "1738869834"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27351464"
+"_sha" "f96e5e86885d3c6534be6204a90ea3d34ac06b4b"
+"_size" "4005"
