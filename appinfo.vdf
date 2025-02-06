@@ -78,7 +78,7 @@
 	"onlyvrsupport" "1"
 	"exfgls" "9"
 	"review_score" "5"
-	"review_percentage" "44"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -148,24 +148,15 @@
 		{
 			"public"
 			{
-				"gid" "2299059409038612693"
-				"size" "22480863"
-				"download" "10802528"
+				"gid" "191742436550526795"
+				"size" "22482399"
+				"download" "10802032"
 			}
 			"beta"
 			{
-				"gid" "2299059409038612693"
-				"size" "22480863"
-				"download" "10802528"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "597F1BD065BAC762032E6C3B3F996C2A"
-				"size" "C503E6D4292E8E66E5DCC9CB31183BE8"
-				"download" "1447B93AB51F5D5C82FF797670E97A5B"
+				"gid" "191742436550526795"
+				"size" "22482399"
+				"download" "10802032"
 			}
 		}
 	}
@@ -173,24 +164,19 @@
 	{
 		"public"
 		{
-			"buildid" "16028891"
-			"timeupdated" "1728851918"
-		}
-		"alpha"
-		{
-			"buildid" "16028891"
-			"pwdrequired" "1"
-			"timeupdated" "1728851683"
+			"buildid" "17240269"
+			"timeupdated" "1738871862"
 		}
 		"beta"
 		{
-			"buildid" "16028891"
+			"buildid" "17240269"
 			"description" "Public testing branch"
-			"timeupdated" "1728851903"
+			"timeupdated" "1738871838"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26201212"
-"_sha" "fc453e0d65846299c225f237e0cc8dc35126a84d"
-"_size" "3238"
+"_change_number" "27351956"
+"_sha" "b968abd4a47ac067152fe60d51f85b24c7759ab0"
+"_size" "2954"
