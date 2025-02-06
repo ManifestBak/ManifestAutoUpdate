@@ -218,9 +218,9 @@
 		"3" "122"
 		"4" "4747"
 		"5" "4172"
-		"6" "4231"
-		"7" "21"
-		"8" "3859"
+		"6" "21"
+		"7" "3859"
+		"8" "4231"
 		"9" "1775"
 		"10" "6730"
 		"11" "9564"
@@ -234,7 +234,7 @@
 		"19" "4057"
 	}
 	"review_score" "5"
-	"review_percentage" "42"
+	"review_percentage" "45"
 }
 "extended"
 {
@@ -264,9 +264,8 @@
 		}
 		"1"
 		{
-			"executable" "Sard\\SardUpdater.exe"
-			"arguments" "-sardKey acdb79b1-5fcd-48af-a0bb-f957b179d9ec -sardGame ../TheQuinfall.exe"
-			"type" "config"
+			"executable" "start_protected_game.exe"
+			"type" "editor"
 			"config"
 			{
 				"oslist" "windows"
@@ -294,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "1439430065357466388"
-				"size" "63338582557"
-				"download" "34874278736"
+				"gid" "6139011714872802212"
+				"size" "63339068667"
+				"download" "34874420400"
 			}
 		}
 	}
@@ -305,13 +304,13 @@
 	{
 		"public"
 		{
-			"buildid" "17207073"
-			"timeupdated" "1738377585"
+			"buildid" "17260347"
+			"timeupdated" "1738809527"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27279764"
-"_sha" "eac8341fba92338376eaacbe7ea85e298f8e8bb0"
-"_size" "5371"
+"_change_number" "27337590"
+"_sha" "bce33d2fc8c34bb8824182e9cbed2dde78a39144"
+"_size" "5280"
