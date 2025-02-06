@@ -1,17 +1,21 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-07 00:23:14
+## 更新时间：2025-02-07 02:26:06
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1116170 | CyberCorp| Game |
-| 1428100 | Instruments of Destruction| Game |
-| 1084020 | TheoTown| Game |
-| 1895630 | VRM Posing Desktop| Application |
-| 2366530 | Flashpoint Campaigns: Southern Storm| Game |
-| 2399420 | Le Mans Ultimate| Game |
-| 2415240 | Leaving DNA| Game |
-| 2514680 | 时空传说-佣兵王战记| Game |
-| 2561580 | 《地平线 零之曙光™》重制版| Game |
-| 2706300 | MILF's Plaza| Game |
-| 603320 | Age of Defense| Game |
-| 507490 | Ashes of the Singularity: Escalation| Game |
+| 1304320 | 重装无限·Metal Infinite| Game |
+| 1807080 | Ghost Exile| Game |
+| 1953860 | Garden in!| Game |
+| 1963570 | Cuisineer 猫娘小厨| Game |
+| 1928980 | 夜莺传说| Game |
+| 1971870 | 真人快打 1 | Game |
+| 2398170 | 深地爆破采掘| Game |
+| 2343930 | Eyes Of War| Game |
+| 2459350 | Taboo University Book One| Game |
+| 2399160 | Soulash 2| Game |
+| 2928500 | 无尽的休闲驾驶| Game |
+| 2834600 | 我的小小人生| Game |
+| 3314060 | 《The Sims™》经典合集| Game |
+| 3314070 | 《The Sims™ 2》经典合集| Game |
+| 65800 | Dungeon Defenders| game |
+| 798840 | 装甲纷争:决定版| Game |
