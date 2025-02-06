@@ -19,7 +19,7 @@
 			"id" "1521580_eula_0"
 			"name" "Perfect Heist 2 EULA"
 			"url" "https://store.steampowered.com//eula/1521580_eula_0"
-			"version" "5"
+			"version" "8"
 		}
 	}
 	"steam_deck_compatibility"
@@ -305,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "8127632286701748312"
-				"size" "9680848949"
-				"download" "1564462656"
+				"gid" "5473677615788219291"
+				"size" "9680850997"
+				"download" "1564127232"
 			}
 			"raytracing-test"
 			{
@@ -317,9 +317,9 @@
 			}
 			"beta"
 			{
-				"gid" "8127632286701748312"
-				"size" "9680848949"
-				"download" "1564462656"
+				"gid" "5473677615788219291"
+				"size" "9680850997"
+				"download" "1564127232"
 			}
 			"debug"
 			{
@@ -368,8 +368,8 @@
 	{
 		"public"
 		{
-			"buildid" "17254763"
-			"timeupdated" "1738774928"
+			"buildid" "17266819"
+			"timeupdated" "1738848102"
 		}
 		"raytracing-test"
 		{
@@ -379,9 +379,9 @@
 		}
 		"beta"
 		{
-			"buildid" "17254763"
+			"buildid" "17266819"
 			"description" "beta"
-			"timeupdated" "1738774906"
+			"timeupdated" "1738848112"
 		}
 		"debug"
 		{
@@ -397,6 +397,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27329955"
-"_sha" "92c98072d53110dec628bf255f052737e3181c7b"
+"_change_number" "27345346"
+"_sha" "f578d303e8ab1de1b4b27c8d5cb91d186d0e9e15"
 "_size" "6865"
