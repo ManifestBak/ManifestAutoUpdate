@@ -343,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "8464864502378003524"
-				"size" "207156498"
-				"download" "136487520"
+				"gid" "2402880109174120329"
+				"size" "207449635"
+				"download" "136528464"
 			}
 			"modding"
 			{
@@ -361,9 +361,9 @@
 			}
 			"beta"
 			{
-				"gid" "8464864502378003524"
-				"size" "207156498"
-				"download" "136487520"
+				"gid" "2402880109174120329"
+				"size" "207449635"
+				"download" "136528464"
 			}
 			"reset"
 			{
@@ -396,15 +396,15 @@
 		{
 			"public"
 			{
-				"gid" "3417987739378127878"
+				"gid" "2572351370287003944"
 				"size" "55321840"
-				"download" "52502256"
+				"download" "52503152"
 			}
 			"beta"
 			{
-				"gid" "3417987739378127878"
+				"gid" "2572351370287003944"
 				"size" "55321840"
-				"download" "52502256"
+				"download" "52503152"
 			}
 			"v1.1.0.0-compat"
 			{
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "17251472"
-			"timeupdated" "1738759128"
+			"buildid" "17263823"
+			"timeupdated" "1738833440"
 		}
 		"modding"
 		{
@@ -441,9 +441,9 @@
 		}
 		"beta"
 		{
-			"buildid" "17251472"
+			"buildid" "17263823"
 			"description" "Test new updates before they go public, may be unstable"
-			"timeupdated" "1738758932"
+			"timeupdated" "1738833399"
 		}
 		"reset"
 		{
@@ -482,6 +482,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27326787"
-"_sha" "5c1b9289ed91864b97ba670a06b6f91246bbcec8"
+"_change_number" "27341700"
+"_sha" "f607b72e19aab840d2481118a8b153943f3408ea"
 "_size" "8893"
