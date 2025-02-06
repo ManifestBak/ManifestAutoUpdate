@@ -51,15 +51,40 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1729641600"
-		"tested_build_id" "15964586"
+		"category" "2"
+		"test_timestamp" "1738713600"
+		"tested_build_id" "17156054"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -153,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733829409"
+	"store_asset_mtime" "1736347826"
 	"associations"
 	{
 		"0"
@@ -309,13 +334,13 @@
 		"6" "21"
 		"7" "4106"
 		"8" "1697"
-		"9" "4684"
-		"10" "3942"
+		"9" "3942"
+		"10" "4684"
 		"11" "4191"
 		"12" "1684"
-		"13" "5094"
-		"14" "1678"
-		"15" "1755"
+		"13" "1678"
+		"14" "1755"
+		"15" "5094"
 		"16" "4182"
 		"17" "4175"
 		"18" "4145"
@@ -329,7 +354,7 @@
 	"developer" "Saber Interactive"
 	"publisher" "Focus Entertainment"
 	"homepage" "https://community.focus-entmt.com/focus-entertainment/space-marine-2\?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic"
-	"listofdlc" "2486150,2792140,2792150,2792170,2792280,3202690,3212040"
+	"listofdlc" "2486150,2792140,2792150,2792170,2792280,3202690,3212040,3274400,3274410"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -360,7 +385,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp"
+				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp, test_pvp"
 			}
 			"description_loc"
 			{
@@ -421,7 +446,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp"
+				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp, test_pvp"
 			}
 			"description_loc"
 			{
@@ -435,7 +460,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp"
+				"betakey" "focus_marketing_recording, focus_playtest, ms_builds, fe_hw_nvidia_temp, test_pvp"
 			}
 			"description_loc"
 			{
@@ -512,7 +537,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "focus_test_dev, steam_features, test_backend, test_pros_true_retail, saber_external_preview, fe_crossplay, steam_dev_livefocus_test_dev, steam_features, test_backend, test_pros_true_retail, saber_external_preview, fe_crossplay, steam_dev_live, test_steam_dev, test_prod_dev, patch_steam_dev"
+				"betakey" "focus_test_dev, steam_features, test_backend, test_pros_true_retail, saber_external_preview, fe_crossplay, steam_dev_livefocus_test_dev, steam_features, test_backend, test_pros_true_retail, saber_external_preview, fe_crossplay, steam_dev_live, test_steam_dev, test_prod_dev, patch_steam_dev, test_bender"
 			}
 			"description_loc"
 			{
@@ -602,7 +627,7 @@
 			"workingdir" "client_pc\\root\\bin\\pc"
 			"config"
 			{
-				"betakey" "anti-cheat_test, test_prod_steamfeats, test_backend, steam_features"
+				"betakey" "anti-cheat_test, test_prod_steamfeats, test_backend, steam_features, steam_dev_live"
 			}
 			"description_loc"
 			{
@@ -633,7 +658,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "test_pros_true_retail, anti-cheat_test, test_backend, patch_steamfeats"
+				"betakey" "test_pros_true_retail, anti-cheat_test, test_backend"
 			}
 			"description_loc"
 			{
@@ -648,7 +673,7 @@
 			"workingdir" "client_pc\\root\\bin\\pc\\"
 			"config"
 			{
-				"betakey" "patch_steamfeats, test_prod_steamfeats, steam_features, patch_steam_dev, test_steamdeck, steam_dev_live  "
+				"betakey" "patch_steamfeats, test_prod_steamfeats, steam_features, patch_steam_dev, test_steamdeck, steam_dev_live, test_backend "
 			}
 			"description_loc"
 			{
@@ -663,7 +688,7 @@
 			"workingdir" "client_pc\\root\\bin\\pc\\"
 			"config"
 			{
-				"betakey" "patch_steamfeats, test_prod_steamfeats, test_steam_dev, patch_steam_dev, test_steamdeck  "
+				"betakey" "patch_steamfeats, test_prod_steamfeats, test_steam_dev, patch_steam_dev, test_steamdeck, test_backend"
 			}
 			"description_loc"
 			{
@@ -678,7 +703,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "anti-cheat_test, test_retail, test_backend, patch_steamfeats"
+				"betakey" "anti-cheat_test, test_retail, test_backend"
 			}
 			"description_loc"
 			{
@@ -737,9 +762,9 @@
 		{
 			"public"
 			{
-				"gid" "299775650984689505"
-				"size" "73483455215"
-				"download" "58877056416"
+				"gid" "2343482055742108876"
+				"size" "75541621357"
+				"download" "60439555088"
 			}
 		}
 	}
@@ -750,9 +775,9 @@
 		{
 			"public"
 			{
-				"gid" "1669608897056503819"
-				"size" "98313089674"
-				"download" "98818235440"
+				"gid" "4674547487371266871"
+				"size" "101477755118"
+				"download" "102003181696"
 			}
 		}
 	}
@@ -773,8 +798,8 @@
 	{
 		"public"
 		{
-			"buildid" "16760882"
-			"timeupdated" "1734364513"
+			"buildid" "17264442"
+			"timeupdated" "1738835752"
 		}
 	}
 	"privatebranches" "1"
@@ -799,6 +824,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26671590"
-"_sha" "9834714331fe59cecd0445402b99500751c4875e"
-"_size" "17971"
+"_change_number" "27342413"
+"_sha" "3b56a7470bc448e3cf94a20956d45001316663c2"
+"_size" "18665"
