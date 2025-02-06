@@ -1,16 +1,13 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-06 10:48:01
+## 更新时间：2025-02-06 12:22:27
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1254120 | 神佑释放| Game |
-| 1876070 | Windsor - Strategy| Game |
-| 2441570 | 満車率300%| Game |
-| 2294660 | The Quinfall| Game |
-| 2415240 | Leaving DNA| Game |
-| 2399830 | 方舟: 生存飞升| Game |
-| 2957700 | 太太！我喜欢你！| Game |
-| 3056270 | Mekkablood: Quarry Assault| Game |
-| 3001070 | 逐鹿问鼎：君王成长计划/Strive for power:King Growth Program| Game |
-| 363890 | RPG Maker MV| Application |
+| 1116540 | DAVIGO| Game |
+| 1426450 | 黑暗时代：背水一战 | Game |
+| 1725860 | 坑小球的小宇宙| Game |
+| 1977570 | A Dance of Fire and Ice - Neo Cosmos| DLC |
+| 3065170 | Monster Hunter Wilds Beta test| Beta |
 | 582660 | Black Desert| Game |
+| 835520 | Dodge Show| Game |
+| 977950 | 冰与火之舞 A Dance of Fire and Ice| Game |
