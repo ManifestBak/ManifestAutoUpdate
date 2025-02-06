@@ -125,7 +125,12 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "072 Project"
+			"name" "072 Project X"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Train Capacity 300%"
 		}
 	}
 	"primary_genre" "28"
@@ -173,8 +178,8 @@
 	"store_tags"
 	{
 		"0" "9130"
-		"1" "12095"
-		"2" "6378"
+		"1" "6378"
+		"2" "12095"
 		"3" "24904"
 		"4" "5611"
 		"5" "6650"
@@ -184,23 +189,23 @@
 		"9" "5984"
 		"10" "12472"
 		"11" "122"
-		"12" "1742"
-		"13" "4191"
-		"14" "1616"
-		"15" "1687"
-		"16" "599"
-		"17" "4231"
+		"12" "4182"
+		"13" "1742"
+		"14" "4191"
+		"15" "1616"
+		"16" "1687"
+		"17" "599"
 		"18" "3871"
-		"19" "6971"
+		"19" "4231"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "71"
 }
 "extended"
 {
 	"developer" "ベルゼブブ"
 	"publisher" "072 Project"
-	"homepage" "https://072project.com/"
+	"homepage" "https://072project.com/\?source=steam_train300&amp;utm_source=steam&amp;utm_medium=train300&amp;utm_campaign=store_link"
 }
 "config"
 {
@@ -233,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "1641192953154705579"
-				"size" "3307498602"
-				"download" "2735261392"
+				"gid" "2553994289365059881"
+				"size" "3321559471"
+				"download" "2746114768"
 			}
 			"savedata"
 			{
@@ -256,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "2130504738122907903"
-				"size" "3307498602"
-				"download" "2735802448"
+				"gid" "4088504972613115277"
+				"size" "3321559471"
+				"download" "2746660720"
 			}
 		}
 	}
@@ -273,9 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "724986241968094420"
-				"size" "3307498602"
-				"download" "2735802448"
+				"gid" "6782862149162094351"
+				"size" "3321559471"
+				"download" "2746660720"
 			}
 		}
 	}
@@ -290,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "8032927364565496495"
-				"size" "3307498602"
-				"download" "2735802448"
+				"gid" "2320930681035311778"
+				"size" "3321559471"
+				"download" "2746660720"
 			}
 		}
 	}
@@ -309,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "14826211"
-			"timeupdated" "1719284317"
+			"buildid" "17260429"
+			"timeupdated" "1738809321"
 		}
 		"savedata"
 		{
@@ -338,3 +343,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27337559"
+"_sha" "e896f3363c0b0e67c4ba308696fd15a3c5d5195b"
+"_size" "5901"
