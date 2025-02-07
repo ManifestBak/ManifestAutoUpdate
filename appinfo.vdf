@@ -9,8 +9,8 @@
 	"logo" "54cefa7aa8da752b8b01afde2bb4644281f99ab0"
 	"logo_small" "54cefa7aa8da752b8b01afde2bb4644281f99ab0_thumb"
 	"icon" "27f4f98cc032ebecfb510ee120bbf751d572cc63"
-	"clienttga" "9ad6e96ea3ebb552b04d6d9a34883f253e48a35a"
-	"clienticon" "de47b95d8ada8c105c66abefdbf5ee9c803fa92e"
+	"clienttga" "7b9f0a6b84ff0c10e0c988e127526a922d9439f5"
+	"clienticon" "c3b31a2afb85ffc38034c2c2ff36b5b55c893f2f"
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -325,15 +325,15 @@
 		{
 			"public"
 			{
-				"gid" "1020614438257817185"
-				"size" "12038894894"
-				"download" "10442042720"
+				"gid" "4018978293509283979"
+				"size" "12038769099"
+				"download" "10441970448"
 			}
 			"public-test"
 			{
-				"gid" "1020614438257817185"
-				"size" "12038894894"
-				"download" "10442042720"
+				"gid" "4018978293509283979"
+				"size" "12038769099"
+				"download" "10441970448"
 			}
 		}
 	}
@@ -341,19 +341,19 @@
 	{
 		"public"
 		{
-			"buildid" "17012351"
-			"timeupdated" "1736951330"
+			"buildid" "17266810"
+			"timeupdated" "1738927838"
 		}
 		"public-test"
 		{
-			"buildid" "17012351"
+			"buildid" "17266810"
 			"description" "Public testing branch"
-			"timeupdated" "1736941571"
+			"timeupdated" "1738848149"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27008802"
-"_sha" "09912a29d2f1713d3a50a25bac0131ca25679067"
+"_change_number" "27362434"
+"_sha" "05cdf07f5ad7148e04c0f441209f1fe0a5e12469"
 "_size" "5517"
