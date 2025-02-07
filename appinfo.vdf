@@ -17,7 +17,7 @@
 			"id" "3301060_eula_0"
 			"name" "Desktop Mate EULA"
 			"url" "https://store.steampowered.com//eula/3301060_eula_0"
-			"version" "5"
+			"version" "6"
 		}
 	}
 	"small_capsule"
@@ -158,16 +158,14 @@
 	{
 		"0" "113"
 		"1" "4726"
-		"2" "87"
-		"3" "4085"
-		"4" "872"
-		"5" "1721"
+		"2" "4085"
+		"3" "87"
+		"4" "1721"
+		"5" "872"
 		"6" "29482"
-		"7" "1667"
-		"8" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -199,9 +197,9 @@
 		{
 			"public"
 			{
-				"gid" "7968135565427475546"
-				"size" "152039577"
-				"download" "54425056"
+				"gid" "4844413311438987896"
+				"size" "152181090"
+				"download" "54646272"
 			}
 		}
 	}
@@ -209,13 +207,13 @@
 	{
 		"public"
 		{
-			"buildid" "17233660"
-			"timeupdated" "1738657055"
+			"buildid" "17264319"
+			"timeupdated" "1738899520"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27303108"
-"_sha" "dab8e79943603b57a01c83394ca5cec6817186b9"
-"_size" "4602"
+"_change_number" "27357615"
+"_sha" "b658c1b47119f694cc4365604f8b9adb0d50adf3"
+"_size" "4571"
