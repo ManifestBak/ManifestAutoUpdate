@@ -196,7 +196,7 @@
 		"19" "4191"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -241,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "7074761329935791355"
-				"size" "7648294072"
-				"download" "2296824496"
+				"gid" "343463330813921097"
+				"size" "7748773021"
+				"download" "2316855568"
 			}
 			"0.3.22"
 			{
@@ -275,11 +275,17 @@
 				"size" "5317918979"
 				"download" "1566061504"
 			}
-			"playtestingpublic"
+			"0.4.01"
 			{
 				"gid" "7074761329935791355"
 				"size" "7648294072"
 				"download" "2296824496"
+			}
+			"playtestingpublic"
+			{
+				"gid" "343463330813921097"
+				"size" "7748773021"
+				"download" "2316855568"
 			}
 		}
 	}
@@ -287,8 +293,8 @@
 	{
 		"public"
 		{
-			"buildid" "17080586"
-			"timeupdated" "1737547631"
+			"buildid" "17278570"
+			"timeupdated" "1738931042"
 		}
 		"0.3.22"
 		{
@@ -320,11 +326,17 @@
 			"description" "v. 0.3.38"
 			"timeupdated" "1735662621"
 		}
-		"playtestingpublic"
+		"0.4.01"
 		{
 			"buildid" "17080586"
+			"description" "V. 0.4.01"
+			"timeupdated" "1738928454"
+		}
+		"playtestingpublic"
+		{
+			"buildid" "17278570"
 			"description" "Public testing branch"
-			"timeupdated" "1737480286"
+			"timeupdated" "1738925621"
 		}
 	}
 	"privatebranches" "1"
@@ -345,6 +357,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27122896"
-"_sha" "73681431141d8f1a836fc6902b6cbac7da3624d1"
-"_size" "6305"
+"_change_number" "27363085"
+"_sha" "eabdaffc388b703f901f57534f1d833fb2e5e8fe"
+"_size" "6529"
