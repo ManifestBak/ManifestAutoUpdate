@@ -24,6 +24,55 @@
 	}
 	"osextended" ""
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1737417600"
+		"tested_build_id" "17015856"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "Builders Of Egypt"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -134,42 +183,52 @@
 		"english"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"french"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"german"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"brazilian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"turkish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1736351349"
@@ -199,7 +258,7 @@
 		"19" "9204"
 	}
 	"review_score" "5"
-	"review_percentage" "45"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -280,15 +339,15 @@
 		{
 			"public"
 			{
-				"gid" "3500367911746953652"
-				"size" "15951660484"
-				"download" "15240073072"
+				"gid" "4587234815613230313"
+				"size" "15951453931"
+				"download" "15239914704"
 			}
 			"patch_test"
 			{
-				"gid" "3500367911746953652"
-				"size" "15951660484"
-				"download" "15240073072"
+				"gid" "4587234815613230313"
+				"size" "15951453931"
+				"download" "15239914704"
 			}
 			"previous_version"
 			{
@@ -303,14 +362,14 @@
 	{
 		"public"
 		{
-			"buildid" "17109086"
-			"timeupdated" "1737739320"
+			"buildid" "17284598"
+			"timeupdated" "1738957612"
 		}
 		"patch_test"
 		{
-			"buildid" "17109086"
+			"buildid" "17284598"
 			"description" "The latest patch is being tested here. Warning, there may be bugs!"
-			"timeupdated" "1737713157"
+			"timeupdated" "1738956821"
 		}
 		"previous_version"
 		{
@@ -327,6 +386,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27153610"
-"_sha" "e22da7284d008fa0bf23abbefbb03bbbff26038a"
-"_size" "5359"
+"_change_number" "27370006"
+"_sha" "ea6ecfd786995d52d4fd7f4d03421dbfced04113"
+"_size" "6842"
