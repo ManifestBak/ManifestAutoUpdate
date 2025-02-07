@@ -183,12 +183,14 @@
 		"17" "12286"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "74"
 }
 "extended"
 {
 	"developer" "咕咕制作组"
 	"publisher" "咕咕制作组"
+	"listofdlc" "3239390"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -204,15 +206,16 @@
 "depots"
 {
 	"baselanguages" "schinese"
+	"hasdepotsindlc" "0"
 	"2460981"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1054212321492832438"
-				"size" "673093274"
-				"download" "643050464"
+				"gid" "1644016567576831940"
+				"size" "675706388"
+				"download" "645648512"
 			}
 		}
 	}
@@ -220,8 +223,12 @@
 	{
 		"public"
 		{
-			"buildid" "15149671"
-			"timeupdated" "1721907103"
+			"buildid" "17278939"
+			"timeupdated" "1738926125"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27362007"
+"_sha" "95e204b1faf737f799a8065b93989d271c89711d"
+"_size" "4124"
