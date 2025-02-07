@@ -16,6 +16,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_1116017dff86d10fa2be72450f9e4017ec2488ab.jpg"
 	"store_asset_mtime" "1710860154"
 	"associations"
 	{
@@ -48,6 +49,51 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1651787591"
@@ -67,8 +113,8 @@
 		"9" "4342"
 		"10" "1721"
 		"11" "113"
-		"12" "3834"
-		"13" "1742"
+		"12" "1742"
+		"13" "3834"
 		"14" "4064"
 		"15" "1662"
 		"16" "4166"
@@ -77,7 +123,7 @@
 		"19" "4726"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -96,18 +142,9 @@
 		{
 			"public"
 			{
-				"gid" "6474053569987505700"
-				"size" "9616340770"
-				"download" "9392454704"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_beta"
-			{
-				"gid" "90078DF193AB6D2F0F5F10359DC01CCF"
-				"size" "C33C249750CB21992177BC90AEC2AAED"
-				"download" "FB985FFD5D7162B2C9D7C2B4BD17335B"
+				"gid" "2957411760343078601"
+				"size" "8913357573"
+				"download" "8698128896"
 			}
 		}
 		"dlcappid" "1817490"
@@ -116,18 +153,13 @@
 	{
 		"public"
 		{
-			"buildid" "16254135"
-			"timeupdated" "1730391312"
-		}
-		"dev_beta"
-		{
-			"buildid" "16254135"
-			"pwdrequired" "1"
-			"timeupdated" "1730391288"
+			"buildid" "8809556"
+			"timeupdated" "1738959181"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25992752"
-"_sha" "662942fa8b2748df0754cf0a73c2cae6fed08efb"
-"_size" "2073"
+"_change_number" "27370347"
+"_sha" "b5c9abf5bdc9537e63f53ca9ddcd7d04891910d8"
+"_size" "2547"
