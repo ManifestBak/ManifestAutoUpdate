@@ -84,6 +84,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -91,7 +92,52 @@
 			"height_pct" "51"
 		}
 	}
-	"store_asset_mtime" "1567740774"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32"
+				"height_pct" "51"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1714089509"
 	"associations"
 	{
 		"0"
@@ -132,6 +178,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -192,10 +239,10 @@
 	{
 		"0" "3877"
 		"1" "4026"
-		"2" "3964"
-		"3" "1756"
-		"4" "1625"
-		"5" "492"
+		"2" "1756"
+		"3" "3964"
+		"4" "492"
+		"5" "1625"
 		"6" "5379"
 		"7" "7208"
 		"8" "4182"
@@ -205,8 +252,8 @@
 		"12" "4726"
 		"13" "5537"
 		"14" "4166"
-		"15" "19"
-		"16" "44868"
+		"15" "44868"
+		"16" "19"
 		"17" "3798"
 		"18" "4004"
 		"19" "3834"
@@ -262,6 +309,15 @@
 			"controller_type" "controller_mobile_touch"
 			"enabled_branches" "default"
 			"use_action_block" "false"
+		}
+	}
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "sdl3"
 		}
 	}
 }
@@ -353,14 +409,11 @@
 				"size" "1394557076"
 				"download" "809246192"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"flibittest"
+			"sdl3"
 			{
-				"gid" "49DA9547EC570A193BF990AA1D586701"
-				"size" "2A46ACA0552E38CD77B80A8B1BB47B49"
-				"download" "AE880AE1A7EC18636BF22AB0EC7DF9AE"
+				"gid" "708531128774243067"
+				"size" "1164449173"
+				"download" "746053600"
 			}
 		}
 	}
@@ -432,14 +485,11 @@
 				"size" "1415445905"
 				"download" "813078800"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"flibittest"
+			"sdl3"
 			{
-				"gid" "3E5108567B482D7755D05C20C2134221"
-				"size" "3374044EA9BDE86E9212681D6ABC4AB8"
-				"download" "A96E015033593C9CEA53FE2790E38100"
+				"gid" "3271492884622616896"
+				"size" "1204558574"
+				"download" "755533680"
 			}
 		}
 	}
@@ -453,9 +503,9 @@
 		{
 			"public"
 			{
-				"gid" "1505052356460012099"
+				"gid" "5880027853585448535"
 				"size" "1201840326"
-				"download" "763373088"
+				"download" "763373248"
 			}
 			"beta-1.3.3.0"
 			{
@@ -511,14 +561,11 @@
 				"size" "1424861016"
 				"download" "824217824"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"flibittest"
+			"sdl3"
 			{
-				"gid" "D1CCBBA7103FB5E9ED3B85AD29AFD515"
-				"size" "1883521743CA95F7EC376F3C6E7FE9E7"
-				"download" "44A4CC7B0B46E52E34377145D5E9F25F"
+				"gid" "1357050380636741633"
+				"size" "1192227167"
+				"download" "760991824"
 			}
 		}
 	}
@@ -527,8 +574,8 @@
 	{
 		"public"
 		{
-			"buildid" "6458966"
-			"timeupdated" "1617053798"
+			"buildid" "17282758"
+			"timeupdated" "1738947606"
 		}
 		"beta-1.3.3.0"
 		{
@@ -541,12 +588,6 @@
 			"buildid" "6458966"
 			"description" "v1.4.0.0 (XNA)"
 			"timeupdated" "1617052801"
-		}
-		"flibittest"
-		{
-			"buildid" "10851360"
-			"pwdrequired" "1"
-			"timeupdated" "1679687070"
 		}
 		"opengl"
 		{
@@ -585,7 +626,14 @@
 			"description" "v1.3.1.2 - opengl"
 			"timeupdated" "1617053210"
 		}
+		"sdl3"
+		{
+			"buildid" "17282795"
+			"description" "Linux SDL 3.0 Testing, UNSTABLE"
+			"timeupdated" "1738947744"
+		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -621,6 +669,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20921618"
-"_sha" "2f95c7f949e580957a99cb1bf5464b0ddea8a448"
-"_size" "11586"
+"_change_number" "27367206"
+"_sha" "33533e50c6f748ea44d5a01d37d28c1353ddaba8"
+"_size" "12136"
