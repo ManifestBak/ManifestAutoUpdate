@@ -173,7 +173,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734520762"
+	"store_asset_mtime" "1735806177"
 	"associations"
 	{
 		"0"
@@ -357,42 +357,21 @@
 		{
 			"public"
 			{
-				"gid" "400358408555826991"
-				"size" "2335281595"
-				"download" "2182018224"
+				"gid" "4751545988342561967"
+				"size" "2334310915"
+				"download" "2181261952"
 			}
 			"pre-release"
 			{
-				"gid" "400358408555826991"
-				"size" "2335281595"
-				"download" "2182018224"
+				"gid" "4751545988342561967"
+				"size" "2334310915"
+				"download" "2181261952"
 			}
 			"previous-release"
 			{
-				"gid" "6903235923476092008"
-				"size" "2256476115"
-				"download" "2103902448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "2427ADDF532B5956CA00DEC60026BB73"
-				"size" "853DC40EED8729E0E2014C2A4867E9A5"
-				"download" "66E076DFD92FA7B29E2DEE741C9EEA2D"
-			}
-			"cioutput"
-			{
-				"gid" "958C056DFD31E0F30BD0C2CDC69AF5F7"
-				"size" "E999F9BA82C098C0DBCC5F431BA859F1"
-				"download" "561CDC1E2486D3649ECAA7813E3813C1"
-			}
-			"develop"
-			{
-				"gid" "B12115D8CCF048AD0C0541074FE9578F"
-				"size" "4D467B7D8F862014FB8D0ECA6F84F889"
-				"download" "EF3F03BD41FE3027D973E88AAE06B665"
+				"gid" "400358408555826991"
+				"size" "2335281595"
+				"download" "2182018224"
 			}
 		}
 	}
@@ -400,42 +379,25 @@
 	{
 		"public"
 		{
-			"buildid" "16816946"
-			"timeupdated" "1734723604"
-		}
-		"alpha"
-		{
-			"buildid" "16816946"
-			"pwdrequired" "1"
-			"timeupdated" "1734722230"
-		}
-		"cioutput"
-		{
-			"buildid" "16816946"
-			"pwdrequired" "1"
-			"timeupdated" "1734714690"
-		}
-		"develop"
-		{
-			"buildid" "16816946"
-			"pwdrequired" "1"
-			"timeupdated" "1734722516"
+			"buildid" "17277719"
+			"timeupdated" "1738940110"
 		}
 		"pre-release"
 		{
-			"buildid" "16816946"
+			"buildid" "17277719"
 			"description" "Beta branch for Ragnarock. Might not be multiplayer-compatible with the current version."
-			"timeupdated" "1734722506"
+			"timeupdated" "1738940589"
 		}
 		"previous-release"
 		{
-			"buildid" "16521304"
+			"buildid" "16816946"
 			"description" "Previous stable version, to compare and keep playing if you experience any regressions. Please notify us on Discord. Might not be multiplayer-compatible with the current version."
-			"timeupdated" "1734451231"
+			"timeupdated" "1738939874"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26738896"
-"_sha" "c1cdc269a06511ce80f961cc47ccb934c3724ece"
-"_size" "8824"
+"_change_number" "27365207"
+"_sha" "78fadb54a6365c9aa0bc633c67fedb31ea9435f1"
+"_size" "7987"
