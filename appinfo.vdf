@@ -215,8 +215,8 @@
 		"2" "14139"
 		"3" "1677"
 		"4" "17305"
-		"5" "4684"
-		"6" "1741"
+		"5" "1741"
+		"6" "4684"
 		"7" "10695"
 		"8" "7208"
 		"9" "4434"
@@ -306,30 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "2858585445205942060"
-				"size" "9259425674"
-				"download" "8981841328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_dlcupdate"
-			{
-				"gid" "B81731FDDF9C80F11EC30DB56389C7F1"
-				"size" "EE305D3968595B85B69F0F05A4737C0E"
-				"download" "6FA611C68E6F87C9FA8FF958776DF2A9"
-			}
-			"testlocalization_rus"
-			{
-				"gid" "C4AC751907BF9D98702CC0675FA8ACDE"
-				"size" "6A28B441A0F40AD29C409522536C15DD"
-				"download" "9495C53572837063827E7EE06524A2EB"
-			}
-			"test_clientupdate"
-			{
-				"gid" "5BAF724F5F9E8EE245DDC4CF6B5ADE68"
-				"size" "1AAFA9820FE38C12ECF7AA99B07A7B52"
-				"download" "19AD1E66C8B14F3300624619C7B9E73B"
+				"gid" "1259906805137382769"
+				"size" "9259424435"
+				"download" "8981849984"
 			}
 		}
 	}
@@ -350,27 +329,6 @@
 				"download" "480"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test_dlcupdate"
-			{
-				"gid" "F06E5774D72B1B3F82B5FB3D34E3C207"
-				"size" "E460DDA7D3FC843554EFF8045D12D746"
-				"download" "3579C129C8B446EC150A0D3084235AB6"
-			}
-			"testlocalization_rus"
-			{
-				"gid" "5A75AF0CDAC30C5565055821605721A0"
-				"size" "E140B33649F7ABC7E5F69CE031C7BD9A"
-				"download" "E9ECA24B7EE6EEFC9D779246D9E83D39"
-			}
-			"test_clientupdate"
-			{
-				"gid" "BAB7BE38540A0452A15DAC25F288A134"
-				"size" "C1C7613FF400B0384A66AD62C7E189EC"
-				"download" "B6C1C6517379E4565272A5A8D00170F3"
-			}
-		}
 	}
 	"470313"
 	{
@@ -387,27 +345,6 @@
 				"gid" "1120484937661759009"
 				"size" "488"
 				"download" "480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_dlcupdate"
-			{
-				"gid" "41E9EF31669A71DEBF2560D1AD5A5012"
-				"size" "E460DDA7D3FC843554EFF8045D12D746"
-				"download" "3579C129C8B446EC150A0D3084235AB6"
-			}
-			"testlocalization_rus"
-			{
-				"gid" "F48EA89D03E1702DE3FA706A40CFDF35"
-				"size" "14E45EC52AAE74464CD8D167046E0B0B"
-				"download" "94ADDAEA659ECBE42B92439942F7B7B8"
-			}
-			"test_clientupdate"
-			{
-				"gid" "FAE506C70F48E9047C498523CA9F7D94"
-				"size" "C1C7613FF400B0384A66AD62C7E189EC"
-				"download" "B6C1C6517379E4565272A5A8D00170F3"
 			}
 		}
 	}
@@ -437,21 +374,6 @@
 				"download" "480"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test_dlcupdate"
-			{
-				"gid" "86A2A32C1D489DE5A926815EC01B9C0E"
-				"size" "5A2EA36431F17D1C1AA534657F7D31E3"
-				"download" "4E6A71CA91BA3FD7568F7473408CB99D"
-			}
-			"test_clientupdate"
-			{
-				"gid" "C2378BAEE5A784A023586CB7411A8181"
-				"size" "C1C7613FF400B0384A66AD62C7E189EC"
-				"download" "B6C1C6517379E4565272A5A8D00170F3"
-			}
-		}
 	}
 	"1345800"
 	{
@@ -463,21 +385,6 @@
 				"gid" "5504059710883603641"
 				"size" "2476323609"
 				"download" "2040477232"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_dlcupdate"
-			{
-				"gid" "8972CF028D7B53CB470C604A0A1942E4"
-				"size" "89C2208B3BDA9E50DA4E53DCF170FE35"
-				"download" "EB3A2167CE7F33F5097025ACF6CA54C5"
-			}
-			"test_clientupdate"
-			{
-				"gid" "BD208EDEA2B9B6AEE68279B289475CD0"
-				"size" "91174649EF0CCDCED1DDA3CD77B9565D"
-				"download" "CDF8D7293BBC319CB1902DFB002F0160"
 			}
 		}
 	}
@@ -497,15 +404,6 @@
 				"download" "2075348800"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test_clientupdate"
-			{
-				"gid" "71348969C079E8CD8315915D5F0DADD8"
-				"size" "8C74908DBA48CE61990661F15FD3B499"
-				"download" "32481A5A3024A9488C301BD992FE98C2"
-			}
-		}
 	}
 	"2670390"
 	{
@@ -517,15 +415,6 @@
 				"gid" "8539359198381256130"
 				"size" "1921256578"
 				"download" "1853698240"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test_clientupdate"
-			{
-				"gid" "9FFA1A210E847A67106D101EE082C9DF"
-				"size" "0481CBCDC2954652D3C4153C38A82044"
-				"download" "CC95DF6C4E7BA23B69230183663F1273"
 			}
 		}
 	}
@@ -546,42 +435,17 @@
 				"download" "480"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test_clientupdate"
-			{
-				"gid" "3C311ADE967AF37C080A1EE5B5260BD5"
-				"size" "A6F5396401443413FB4D27F5358E4AFE"
-				"download" "B6C1C6517379E4565272A5A8D00170F3"
-			}
-		}
 	}
+	"workshopdepot" "470310"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16797746"
-			"timeupdated" "1734599085"
-		}
-		"test_dlcupdate"
-		{
-			"buildid" "6316853"
-			"pwdrequired" "1"
-			"timeupdated" "1614686543"
-		}
-		"testlocalization_rus"
-		{
-			"buildid" "3632219"
-			"pwdrequired" "1"
-			"timeupdated" "1552271032"
-		}
-		"test_clientupdate"
-		{
-			"buildid" "16797746"
-			"pwdrequired" "1"
-			"timeupdated" "1734597641"
+			"buildid" "17277151"
+			"timeupdated" "1738911514"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -609,6 +473,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26710184"
-"_sha" "8f1700f2a4294474882ffc74ddb3570c0f8c7f05"
-"_size" "11593"
+"_change_number" "27359608"
+"_sha" "72c9cf33be69d972524b3012da4170d4dcde7c06"
+"_size" "8112"
