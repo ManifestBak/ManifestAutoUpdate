@@ -217,7 +217,7 @@
 		"19" "4094"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -251,15 +251,15 @@
 		{
 			"public"
 			{
-				"gid" "8145932536402321043"
-				"size" "3526295354"
-				"download" "923256128"
+				"gid" "4556077745147215750"
+				"size" "3517533866"
+				"download" "918537696"
 			}
 			"preview"
 			{
-				"gid" "8145932536402321043"
-				"size" "3526295354"
-				"download" "923256128"
+				"gid" "4556077745147215750"
+				"size" "3517533866"
+				"download" "918537696"
 			}
 		}
 	}
@@ -271,21 +271,21 @@
 	{
 		"public"
 		{
-			"buildid" "17211131"
-			"timeupdated" "1738431786"
+			"buildid" "17283176"
+			"timeupdated" "1738949243"
 		}
 		"preview"
 		{
-			"buildid" "17211131"
+			"buildid" "17283176"
 			"description" "Preview branch with the newest public build. May be unstable."
-			"timeupdated" "1738431796"
+			"timeupdated" "1738949258"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "1000000"
+	"quota" "100000000"
 	"maxnumfiles" "10"
 	"savefiles"
 	{
@@ -296,8 +296,26 @@
 			"pattern" "*.es3"
 		}
 	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Topstitch Games/Rogue Hex"
+					"replace" ".config/unity3d/Topstitch Games/Rogue Hex"
+				}
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27270424"
-"_sha" "3da6e8c5b0b41db41e418df35a4785ebdeddbf03"
-"_size" "4929"
+"_change_number" "27367790"
+"_sha" "98dcb2a50ce4a95c505ba0114ee77ec22814d6b8"
+"_size" "5235"
