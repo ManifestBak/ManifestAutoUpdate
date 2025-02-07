@@ -230,6 +230,10 @@
 		{
 			"supported" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1708005543"
 	"community_visible_stats" "1"
@@ -337,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "962211121689029045"
-				"size" "22906501263"
-				"download" "10637423248"
+				"gid" "1173468643378582739"
+				"size" "22906708623"
+				"download" "10637411488"
 			}
 			"local"
 			{
@@ -353,8 +357,8 @@
 	{
 		"public"
 		{
-			"buildid" "17160626"
-			"timeupdated" "1738256753"
+			"buildid" "17255201"
+			"timeupdated" "1738947348"
 		}
 		"local"
 		{
@@ -396,6 +400,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27239127"
-"_sha" "146e9cdd9bfa87c77bd4840c3a1cda22438de621"
-"_size" "6982"
+"_change_number" "27367002"
+"_sha" "2fe21c38701d76ea25a6db35f81247eeeba7ca62"
+"_size" "7031"
