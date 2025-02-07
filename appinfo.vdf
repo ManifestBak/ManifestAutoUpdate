@@ -1,0 +1,343 @@
+"appid" "2531940"
+"common"
+{
+	"name" "Stray Path"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "Stray Path"
+		"schinese" "迷失之径"
+		"tchinese" "迷失之徑"
+		"japanese" "ロスト・パス"
+		"koreana" "스트레이 패스"
+		"sc_schinese" "迷失之径"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "dedcda3f23f4cb74f173c743904a0db1abf7d8f2"
+	"clienttga" "47c28015468c29290f6d1dbd1ce7a8bfeb1b539f"
+	"icon" "dbd85680ed84f1af21fdf1eb39d922d5f263b075"
+	"releasestate" "released"
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "74f50a6f9804575a1d73f71820920401ff2d8ec6/capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "zh-cn,en,zh-tw,zh-xc"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "c143533afa59a0831d003c183039f8138ca48451/library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "c143533afa59a0831d003c183039f8138ca48451/library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "443e82268db91b18ed36cf4cd0750097f92c3b3c/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "443e82268db91b18ed36cf4cd0750097f92c3b3c/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738924140"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "chx games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Yogscast Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Yogscast Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738850282"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2531940"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "9"
+		"2" "3964"
+		"3" "3959"
+		"4" "21"
+		"5" "3834"
+		"6" "1666"
+		"7" "1741"
+		"8" "1716"
+		"9" "3871"
+		"10" "4325"
+		"11" "4726"
+		"12" "492"
+		"13" "597"
+		"14" "4166"
+		"15" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "chx games"
+	"publisher" "Yogscast Games"
+}
+"config"
+{
+	"installdir" "Stray Path"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stray Path\\Stray Path.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"2531941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7274372875052281700"
+				"size" "155513584"
+				"download" "104743360"
+			}
+		}
+	}
+	"baselanguages" ""
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17251642"
+			"timeupdated" "1738835232"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot\\app_userdata\\Stray Path"
+			"pattern" "*.res"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27362392"
+"_sha" "0e2db05f5b92a7ec732a33a3bc4476c781bca435"
+"_size" "6072"
