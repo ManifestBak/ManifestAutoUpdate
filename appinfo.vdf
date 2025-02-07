@@ -1,0 +1,399 @@
+"appid" "2346410"
+"common"
+{
+	"name" "Border Pioneer"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "3e3666b9b87835258663703fb1e2abc049eee130"
+	"clienttga" "e0e9a01c21a9497e54b811e4dc197c3e5985687e"
+	"linuxclienticon" "b475e1d84b736cd7e4e1c8ebdbe7de894ab3abf6"
+	"clienticns" "ccc95a8680bc01867fbbcb759f78a13e506d27f0"
+	"clienticon" "41161a8edce9b12996ff62e9e7a71f31ea8883df"
+	"name_localized"
+	{
+		"english" "Border Pioneer"
+		"schinese" "边境开拓者"
+		"japanese" "辺境開拓者"
+		"koreana" "변경의 수호자"
+		"tchinese" "邊境開拓者"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "908edc0a73d5718f2cf9d16c101875afe67eb802/capsule_231x87.jpg"
+		"japanese" "b84889241e20800db2ab4d03118efdaa1f969bf3/capsule_231x87_japanese.jpg"
+		"schinese" "366687c1e5b81e57012e39ae1da07bf1f3902a8a/capsule_231x87_schinese.jpg"
+		"tchinese" "36ea6a090b52637167e9402509445d12e4f6cee2/capsule_231x87_tchinese.jpg"
+		"koreana" "6d410182697c2aa9af1220496bba5716b73f6a4b/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,ja,zh-tw,ko"
+		"library_hero" "en,zh-cn,ko,ja,zh-tw"
+		"library_hero_blur" "ko,ja"
+		"library_logo" "zh-cn,en,zh-tw,ko,ja"
+		"library_header" "zh-cn,en,ja,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "49.649941656942815"
+			"height_pct" "80.77653763951554"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"japanese" "cbbc2c51713a97c1a9f9c558021646081f0c7086/library_600x900_japanese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "10853dfffa0380d484bfcdd1af879cd117f2cb04/library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"japanese" "cbbc2c51713a97c1a9f9c558021646081f0c7086/library_600x900_japanese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "10853dfffa0380d484bfcdd1af879cd117f2cb04/library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"koreana" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_koreana.jpg"
+				"japanese" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_japanese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"koreana" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_koreana_2x.jpg"
+				"japanese" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_japanese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"koreana" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_blur_koreana.jpg"
+				"japanese" "48e8638b0036a8f780358e5df70434f90c750087/library_hero_blur_japanese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+				"koreana" "858fccc3bd1fc0f95c6b991ee988ea8f9508ee79/logo_koreana.png"
+				"japanese" "eeb29d9a1e5007820f01efe2801754a7976e1d85/logo_japanese.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"koreana" "858fccc3bd1fc0f95c6b991ee988ea8f9508ee79/logo_koreana_2x.png"
+				"japanese" "eeb29d9a1e5007820f01efe2801754a7976e1d85/logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "49.649941656942815"
+				"height_pct" "80.77653763951554"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+				"japanese" "05a5d43c6d3876116298e76e67573635adcf4b8f/library_header_japanese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"koreana" "b5d94b91f756c22b68d0642906ed7a9085da2443/library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_header_schinese_2x.jpg"
+				"tchinese" "library_header_tchinese_2x.jpg"
+				"english" "library_header_2x.jpg"
+				"koreana" "b5d94b91f756c22b68d0642906ed7a9085da2443/library_header_koreana_2x.jpg"
+				"japanese" "05a5d43c6d3876116298e76e67573635adcf4b8f/library_header_japanese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738924288"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Yahzj Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Yogscast Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Yogscast Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738850300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2346410"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "9"
+		"2" "4328"
+		"3" "4172"
+		"4" "7332"
+		"5" "19"
+		"6" "1676"
+		"7" "1684"
+		"8" "3993"
+		"9" "3959"
+		"10" "4684"
+		"11" "3964"
+		"12" "3871"
+		"13" "4182"
+		"14" "4305"
+		"15" "1666"
+		"16" "4791"
+		"17" "1741"
+		"18" "8945"
+		"19" "32322"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Yahzj Games"
+	"publisher" "Yogscast Games"
+}
+"config"
+{
+	"installdir" "border pioneer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Border Pioneer.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "MacOS"
+			}
+			"description" "MacOS"
+		}
+	}
+	"app_mappings"
+	{
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"workshopdepot" "2346410"
+	"2346411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4341470959384419993"
+				"size" "484135811"
+				"download" "258688416"
+			}
+		}
+	}
+	"2346412"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3444381226433417169"
+				"size" "420154707"
+				"download" "240858256"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17246804"
+			"timeupdated" "1738728682"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacDocuments"
+			"path" "Border Pioneer/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27361665"
+"_sha" "011e56b6db1d1d996c384558fe978c642eb7de81"
+"_size" "8334"
