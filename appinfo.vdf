@@ -198,7 +198,7 @@
 		"19" "4172"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -239,12 +239,30 @@
 		{
 			"oslist" "windows"
 		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7099491681320802540"
+				"size" "197674196"
+				"download" "118057920"
+			}
+		}
 	}
 	"2488472"
 	{
 		"config"
 		{
 			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6592031200326138195"
+				"size" "230406449"
+				"download" "128203760"
+			}
 		}
 	}
 	"2488473"
@@ -257,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "5209743394875409552"
-				"size" "194964627"
-				"download" "116567504"
+				"gid" "5757209549502588289"
+				"size" "197674196"
+				"download" "118057584"
 			}
 		}
 	}
@@ -273,9 +291,9 @@
 		{
 			"public"
 			{
-				"gid" "5983139066478445740"
-				"size" "227697722"
-				"download" "126723920"
+				"gid" "4538686682406748305"
+				"size" "230406449"
+				"download" "128203696"
 			}
 		}
 	}
@@ -284,8 +302,8 @@
 	{
 		"public"
 		{
-			"buildid" "15164566"
-			"timeupdated" "1722008024"
+			"buildid" "17291710"
+			"timeupdated" "1739022461"
 		}
 	}
 }
@@ -322,3 +340,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27378775"
+"_sha" "33ad251764be1f8a853665b77a5283ca39e64a10"
+"_size" "5304"
