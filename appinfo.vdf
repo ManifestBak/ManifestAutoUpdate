@@ -106,6 +106,7 @@
 			"hdr_support" "2"
 		}
 	}
+	"metacritic_name" "Sid Meier\'s Civilization VII"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -186,7 +187,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738791701"
+	"store_asset_mtime" "1738804484"
 	"associations"
 	{
 		"0"
@@ -305,6 +306,8 @@
 		}
 	}
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1295660/announcements/detail/508442816334005258"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sid-meiers-civilization-vii\?ftag=MCD-06-10aaa1f"
 	"community_hub_visible" "1"
 	"gameid" "1295660"
 	"exfgls" "8"
@@ -317,22 +320,22 @@
 		"4" "3987"
 		"5" "1717"
 		"6" "1708"
-		"7" "599"
-		"8" "4182"
+		"7" "4182"
+		"8" "599"
 		"9" "3859"
 		"10" "4328"
 		"11" "26921"
-		"12" "1775"
-		"13" "4598"
-		"14" "4711"
+		"12" "4598"
+		"13" "4711"
+		"14" "1775"
 		"15" "14139"
-		"16" "6310"
-		"17" "1678"
+		"16" "1678"
+		"17" "6310"
 		"18" "4252"
 		"19" "4695"
 	}
 	"review_score" "5"
-	"review_percentage" "50"
+	"review_percentage" "49"
 }
 "extended"
 {
@@ -482,7 +485,7 @@
 		"3377423133"
 		{
 			"controller_type" "controller_xboxone"
-			"enabled_branches" "default,2kqa_a,2kqa_b,build_review,franky,ihvbuild,legacy,local,manual-deploy-internal,midday-debug-internal,playtest-external,playtest-internal,ratings_a,siat-branch,smoke,smoke-dev-1-0-1,smoke-dev-1-1-0,smoke-future,smoke-release-1-0-1,smoke-release-1-0-1-quality,smoke-release-1-1-0,smoke-release-a,smoke-release-ml"
+			"enabled_branches" "default,2kqa_a,2kqa_b,build_review,franky,ihvbuild,legacy,local,manual-deploy-internal,midday-debug-internal,playtest-external,playtest-internal,predeploy,ratings_a,siat-branch,smoke,smoke-dev-1-0-1,smoke-dev-1-1-0,smoke-future,smoke-release-1-0-1,smoke-release-1-0-1-quality,smoke-release-1-1-0,smoke-release-a,smoke-release-ml"
 			"use_action_block" "false"
 		}
 	}
@@ -503,9 +506,9 @@
 		{
 			"public"
 			{
-				"gid" "366905948793374035"
+				"gid" "7240977258371019921"
 				"size" "18084080632"
-				"download" "15985147216"
+				"download" "15985150896"
 			}
 		}
 	}
@@ -520,9 +523,9 @@
 		{
 			"public"
 			{
-				"gid" "4719386616408658435"
-				"size" "1252007512"
-				"download" "735338448"
+				"gid" "6987009325590530954"
+				"size" "1248218168"
+				"download" "736102528"
 			}
 		}
 	}
@@ -537,9 +540,9 @@
 		{
 			"public"
 			{
-				"gid" "6543142197608878394"
-				"size" "25157738464"
-				"download" "15242380336"
+				"gid" "4538828829019097328"
+				"size" "25161936701"
+				"download" "15242643008"
 			}
 		}
 	}
@@ -561,9 +564,9 @@
 		{
 			"public"
 			{
-				"gid" "6853445053403507438"
-				"size" "280008655"
-				"download" "30640560"
+				"gid" "6414014706297539114"
+				"size" "235350535"
+				"download" "30463952"
 			}
 		}
 	}
@@ -578,9 +581,9 @@
 		{
 			"public"
 			{
-				"gid" "5102476569370905718"
+				"gid" "2537240585164322114"
 				"size" "24788106564"
-				"download" "15007548400"
+				"download" "15007548000"
 			}
 		}
 	}
@@ -588,13 +591,13 @@
 	{
 		"public"
 		{
-			"buildid" "17226959"
-			"timeupdated" "1738714130"
+			"buildid" "17276084"
+			"timeupdated" "1738948294"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27336013"
-"_sha" "4df5cea0e75480ffa5389fceed00933ca2044bae"
-"_size" "12561"
+"_change_number" "27371250"
+"_sha" "ae549022ebc89d336ed86ea8f2abcb1cf41ef4f6"
+"_size" "12760"
