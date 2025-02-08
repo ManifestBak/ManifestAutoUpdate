@@ -1,0 +1,265 @@
+"appid" "2890890"
+"common"
+{
+	"name" "LingerieS / ランジェリーズ"
+	"type" "Game"
+	"icon" "ccb7a720db2fd11366591a78cb9afc38b5eff1d9"
+	"clienttga" "ca849fef8818f29df905521ca20b130881a3ea87"
+	"clienticon" "50bc08342737155414e8055352d4ee17856e70ee"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2890890_eula_0"
+			"name" "LingerieS / ランジェリーズ EULA"
+			"url" "https://store.steampowered.com//eula/2890890_eula_0"
+			"version" "4"
+		}
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "77.14285714285714"
+			"height_pct" "84.02777777777779"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "77.14285714285714"
+				"height_pct" "84.02777777777779"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734849228"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ramune Games / ラムネゲームズ"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ramune Games / ラムネゲームズ"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734605120"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2890890"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3799"
+		"2" "12095"
+		"3" "6650"
+		"4" "9551"
+		"5" "4486"
+		"6" "4726"
+		"7" "4947"
+		"8" "1742"
+		"9" "4085"
+		"10" "4182"
+		"11" "597"
+		"12" "492"
+		"13" "9130"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Ramune Games / ラムネゲームズ"
+	"publisher" "Ramune Games / ラムネゲームズ"
+	"homepage" "https://fantia.jp/fanclubs/518762"
+	"listofdlc" "2893920"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "LingerieS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LingerieS.exe"
+		}
+	}
+}
+"depots"
+{
+	"2890891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7257050253617803275"
+				"size" "1759510448"
+				"download" "1566285584"
+			}
+		}
+	}
+	"2893920"
+	{
+		"dlcappid" "2893920"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4798376722145345620"
+				"size" "1756863201"
+				"download" "1697547104"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17186882"
+			"timeupdated" "1738253801"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "game/saves"
+			"pattern" "persistent"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27317492"
+"_sha" "a2ad68fd7f90d757075e388adad72bf21dd54cd4"
+"_size" "4194"
