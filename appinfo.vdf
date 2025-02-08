@@ -76,6 +76,8 @@
 		}
 	}
 	"metacritic_name" "Metro Sim Hustle"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -134,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734708969"
+	"store_asset_mtime" "1734919370"
 	"associations"
 	{
 		"0"
@@ -169,6 +171,11 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_25" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -262,7 +269,7 @@
 		"19" "12095"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -300,24 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "3088543461496447049"
-				"size" "9518583472"
-				"download" "3206110992"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"legacy"
-			{
-				"gid" "8967B85EE6C7F3EBB7D86ED93E03A00B"
-				"size" "E8118C18D496A8558B31977F42376E73"
-				"download" "212B6ECEE412E08D0436529640E03DE6"
-			}
-			"private"
-			{
-				"gid" "065C8C1792DDB81A0527D92D36935455"
-				"size" "99B79767AAEDBD6CF31744D8E62A9A64"
-				"download" "6B9571F8D3918E5E36FBBA638AC8C9FE"
+				"gid" "906284541130447838"
+				"size" "9639331270"
+				"download" "3264757776"
 			}
 		}
 	}
@@ -325,22 +317,11 @@
 	{
 		"public"
 		{
-			"buildid" "16825827"
-			"timeupdated" "1734817815"
-		}
-		"legacy"
-		{
-			"buildid" "7488828"
-			"pwdrequired" "1"
-			"timeupdated" "1734719881"
-		}
-		"private"
-		{
-			"buildid" "16825827"
-			"pwdrequired" "1"
-			"timeupdated" "1734817195"
+			"buildid" "17293066"
+			"timeupdated" "1739041111"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -361,6 +342,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26749081"
-"_sha" "945c0be3f8ea43e551f36fa2cd1980ec52a369f6"
-"_size" "6423"
+"_change_number" "27381134"
+"_sha" "60eb99de4bfdbfda6d6050382d4d5db3105dba44"
+"_size" "6032"
