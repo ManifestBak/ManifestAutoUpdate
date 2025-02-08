@@ -20,6 +20,11 @@
 	"clienttga" "3299c4183ab01ce5e790ac59f80dfd76cba25260"
 	"clienticon" "593fcee5f85e84b7f1dac1cd04f152598848b98f"
 	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "军事冲突：越南"
+		"tchinese" "軍事衝突：越南"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -272,7 +277,7 @@
 	"steamconfigurator3rdpartynative" "65535"
 	"steamcontrollerconfigdetails"
 	{
-		"2883593998"
+		"3422926888"
 		{
 			"controller_type" "controller_xboxone"
 			"enabled_branches" "default"
@@ -294,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "5411419645803152192"
-				"size" "22637565269"
-				"download" "10084182768"
+				"gid" "8259768458467787775"
+				"size" "22683024203"
+				"download" "10143607824"
 			}
 		}
 	}
@@ -314,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "4408175806375920929"
-				"size" "22584331720"
-				"download" "10077467568"
+				"gid" "921916766851239094"
+				"size" "22727160075"
+				"download" "10145328608"
 			}
 		}
 	}
@@ -324,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "16985316"
-			"timeupdated" "1736760602"
+			"buildid" "17291165"
+			"timeupdated" "1739014862"
 		}
 	}
 }
@@ -335,6 +340,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26969794"
-"_sha" "760d01639d2d9cf989dc17ebe4c10af725d94e68"
-"_size" "5412"
+"_change_number" "27377879"
+"_sha" "1c9cc7bcc40340d11560281f69f1a808fe10c668"
+"_size" "5516"
