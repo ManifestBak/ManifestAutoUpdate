@@ -14,7 +14,7 @@
 			"id" "2294660_eula_0"
 			"name" "Quinfall EULA"
 			"url" "https://store.steampowered.com//eula/2294660_eula_0"
-			"version" "4"
+			"version" "5"
 		}
 	}
 	"icon" "9caeb341d1fd256af94a3d7428d8482f36a8448f"
@@ -287,6 +287,7 @@
 }
 "extended"
 {
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=2294660"
 	"developer" "Vawraek Technology Inc."
 	"publisher" "Vawraek Technology Inc."
 	"homepage" "https://www.quinfall.com/"
@@ -298,7 +299,7 @@
 	{
 		"0"
 		{
-			"executable" "start_protected_game.exe"
+			"executable" "TheQuinfall_eac.bat"
 			"type" "editor"
 			"config"
 			{
@@ -313,7 +314,7 @@
 		}
 		"1"
 		{
-			"executable" "start_protected_game.exe"
+			"executable" "TheQuinfall_eac.bat"
 			"type" "editor"
 			"config"
 			{
@@ -342,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "1372528179231993083"
-				"size" "63375133973"
-				"download" "34886431344"
+				"gid" "6119188335045743230"
+				"size" "63375134120"
+				"download" "34886431504"
 			}
 		}
 	}
@@ -353,13 +354,13 @@
 	{
 		"public"
 		{
-			"buildid" "17287744"
-			"timeupdated" "1738979849"
+			"buildid" "17293007"
+			"timeupdated" "1739043156"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27374099"
-"_sha" "96c642f79c4e061445df513e2aadc92a642ca396"
-"_size" "6562"
+"_change_number" "27381358"
+"_sha" "6a562b5a91916bd73b6594cefb4b3083dd050753"
+"_size" "6639"
