@@ -240,6 +240,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 		"spanish"
 		{
 			"supported" "true"
@@ -345,9 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "1326476232365185238"
-				"size" "1231504441"
-				"download" "232704512"
+				"gid" "1321052127495486588"
+				"size" "1240192005"
+				"download" "234912624"
 			}
 			"devtest"
 			{
@@ -361,8 +366,8 @@
 	{
 		"public"
 		{
-			"buildid" "17210030"
-			"timeupdated" "1738414637"
+			"buildid" "17292453"
+			"timeupdated" "1739032607"
 		}
 		"devtest"
 		{
@@ -396,6 +401,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27268449"
-"_sha" "ffe81c30421beae5fbc07fece7d81afe96ec6d51"
-"_size" "6856"
+"_change_number" "27380092"
+"_sha" "de94fc89a6f5b81f54adb9c7747966f3a28ff8dd"
+"_size" "6925"
