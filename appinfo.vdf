@@ -30,6 +30,45 @@
 			"height_pct" "66.33816195677989"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "88.03967327887983"
+				"height_pct" "66.33816195677989"
+			}
+		}
+	}
 	"store_asset_mtime" "1663829225"
 	"associations"
 	{
@@ -162,18 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "6721500915485785010"
-				"size" "710739078"
-				"download" "158603920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "E5A4128B6B016728858CC33AEA19BB49"
-				"size" "69F43072B774373688B59C64786D702E"
-				"download" "2C5124A41E6502C0BEF2315651D81D13"
+				"gid" "8576595641258607566"
+				"size" "711180412"
+				"download" "158828832"
 			}
 		}
 	}
@@ -181,16 +211,11 @@
 	{
 		"public"
 		{
-			"buildid" "13805824"
-			"timeupdated" "1711350891"
-		}
-		"test"
-		{
-			"buildid" "13805824"
-			"pwdrequired" "1"
-			"timeupdated" "1710994097"
+			"buildid" "17274985"
+			"timeupdated" "1738982871"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -217,3 +242,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27374544"
+"_sha" "2bd287a78c9a88472d5a07de3c53269292bf8857"
+"_size" "3663"
