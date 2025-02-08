@@ -118,6 +118,7 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_56" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -139,6 +140,11 @@
 			"subtitles" "true"
 		}
 		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -172,7 +178,7 @@
 		"19" "3859"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -208,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "4762251662185757484"
-				"size" "256778543"
-				"download" "171284496"
+				"gid" "4180636627227578233"
+				"size" "256763291"
+				"download" "171283744"
 			}
 		}
 	}
@@ -219,8 +225,8 @@
 	{
 		"public"
 		{
-			"buildid" "16882035"
-			"timeupdated" "1735653571"
+			"buildid" "17291417"
+			"timeupdated" "1739019405"
 		}
 	}
 }
@@ -239,6 +245,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26826210"
-"_sha" "7c1cda83a6521f5d736e8becb26767203fbb2dff"
-"_size" "3891"
+"_change_number" "27378384"
+"_sha" "bdc61c3beba5f305e483a69e64b81475b45b8214"
+"_size" "3984"
