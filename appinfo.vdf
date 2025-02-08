@@ -238,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "7168278587399988718"
-				"size" "2109742625"
-				"download" "648210800"
+				"gid" "2047204587949710691"
+				"size" "2069604472"
+				"download" "646547184"
 			}
 			"agdq"
 			{
@@ -249,59 +249,14 @@
 				"download" "806533248"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "FBF3CD6D9EDED63E46664DBA79E7A851"
-				"size" "0D4176825D429576B415DF89EADC15EF"
-				"download" "6E7D4C4BC5E66495C2ACB04CEB205EFC"
-			}
-			"goalie-swap-fix"
-			{
-				"gid" "B7545A8AC551B642F4ABA2FC45C33CD0"
-				"size" "1E7DF5ED231F8F62AEEE16913319BFED"
-				"download" "069D17E4DE0A42E22F12CAB54CD200F2"
-			}
-			"new_teams"
-			{
-				"gid" "133375FD88C90A8352129D8181BB0F16"
-				"size" "02838969392154FC42B4B8B60A167ADB"
-				"download" "1E1796CF38CD0521DCD17107B05DA40C"
-			}
-			"roguelite"
-			{
-				"gid" "E52DD0A73BA04AEE7EEFF8FFF1214BB4"
-				"size" "4E8F3A0C87CE0F72A658F99491FC671B"
-				"download" "79C7FB6B01E272BAD3C86203B2ACB656"
-			}
-			"shipmates"
-			{
-				"gid" "CA74EAF8E702704CD54DD58A1103FCEE"
-				"size" "E1DD523A15BF39592D5DDA3EF20CDE60"
-				"download" "F975A221D8C364DE007C9560BAE83E5C"
-			}
-			"shipmates-main"
-			{
-				"gid" "AEBA984C4CC6036488BAEF191F824C6C"
-				"size" "C42E2B4A4948A0845C5CCF3E22B03737"
-				"download" "76534F8F69B62E62D89F3B3698F809E0"
-			}
-			"shipmates-test"
-			{
-				"gid" "FEA9F5F70FDFF89BB53C06944500EE9D"
-				"size" "58145857718090DDDAA31127C2EFB6FC"
-				"download" "695647996DBD49081A134A5A3AB68F3D"
-			}
-		}
 	}
 	"baselanguages" "english,french"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16830184"
-			"timeupdated" "1734899539"
+			"buildid" "17288573"
+			"timeupdated" "1739021166"
 		}
 		"agdq"
 		{
@@ -309,49 +264,8 @@
 			"description" "speedrun"
 			"timeupdated" "1704913733"
 		}
-		"beta"
-		{
-			"buildid" "16830184"
-			"pwdrequired" "1"
-			"timeupdated" "1734903861"
-		}
-		"goalie-swap-fix"
-		{
-			"buildid" "15384339"
-			"pwdrequired" "1"
-			"timeupdated" "1723740096"
-		}
-		"new_teams"
-		{
-			"buildid" "16746807"
-			"pwdrequired" "1"
-			"timeupdated" "1734198449"
-		}
-		"roguelite"
-		{
-			"buildid" "16830184"
-			"pwdrequired" "1"
-			"timeupdated" "1734895713"
-		}
-		"shipmates"
-		{
-			"buildid" "16221094"
-			"pwdrequired" "1"
-			"timeupdated" "1730205132"
-		}
-		"shipmates-main"
-		{
-			"buildid" "16206648"
-			"pwdrequired" "1"
-			"timeupdated" "1730123710"
-		}
-		"shipmates-test"
-		{
-			"buildid" "16221592"
-			"pwdrequired" "1"
-			"timeupdated" "1730207662"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -359,6 +273,6 @@
 	"maxnumfiles" "10"
 }
 "_missing_token" "False"
-"_change_number" "26756506"
-"_sha" "87cb0c33cc023a19bf6ba4fd8a5fb6dfc0ee4c38"
-"_size" "6977"
+"_change_number" "27378576"
+"_sha" "9424a79d36ab47baaea23549621cbcc6571662d7"
+"_size" "4979"
