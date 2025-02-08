@@ -214,6 +214,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1730365668"
 	"community_hub_visible" "1"
@@ -226,8 +231,8 @@
 		"3" "1687"
 		"4" "3834"
 		"5" "4166"
-		"6" "1721"
-		"7" "3978"
+		"6" "3978"
+		"7" "1721"
 		"8" "3839"
 		"9" "492"
 		"10" "4182"
@@ -241,8 +246,8 @@
 		"18" "4342"
 		"19" "5094"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -315,24 +320,9 @@
 		{
 			"public"
 			{
-				"gid" "1235096359184312774"
-				"size" "10153413613"
-				"download" "3631270752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha_test"
-			{
-				"gid" "F1EDD86213685CA9F67078FB570602B2"
-				"size" "F4C27CC585FD1C603F19ACB06E14809E"
-				"download" "31CCECDC30FDF2A5C3C6202974DE7A30"
-			}
-			"alpha_test_ea"
-			{
-				"gid" "4E8F6C7A6ABE2A24DC636D23A2D54DA7"
-				"size" "D2A08AB7E10A5495DE988F28D94C9907"
-				"download" "21DE637F2C13F19FE933291FD089FC48"
+				"gid" "4060002058942453737"
+				"size" "10155073797"
+				"download" "3632218032"
 			}
 		}
 	}
@@ -340,24 +330,13 @@
 	{
 		"public"
 		{
-			"buildid" "16855757"
-			"timeupdated" "1735259232"
-		}
-		"alpha_test"
-		{
-			"buildid" "16855757"
-			"pwdrequired" "1"
-			"timeupdated" "1735238408"
-		}
-		"alpha_test_ea"
-		{
-			"buildid" "10236645"
-			"pwdrequired" "1"
-			"timeupdated" "1729615791"
+			"buildid" "17278413"
+			"timeupdated" "1739009902"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26792483"
-"_sha" "1c4e2555bf66d0f6130835ecf1d9cff0d7155bb6"
-"_size" "6326"
+"_change_number" "27377354"
+"_sha" "1e3c23d838711c169b252cf0f3f44d0275425e96"
+"_size" "5815"
