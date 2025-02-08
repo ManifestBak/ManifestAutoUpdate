@@ -198,8 +198,8 @@
 	"gameid" "1366540"
 	"store_tags"
 	{
-		"0" "1755"
-		"1" "255534"
+		"0" "255534"
+		"1" "1755"
 		"2" "7332"
 		"3" "1643"
 		"4" "1695"
@@ -260,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "902026745661760921"
-				"size" "4562284512"
-				"download" "1564239520"
+				"gid" "5573893576601495807"
+				"size" "4562323525"
+				"download" "1564324512"
 			}
 			"0.4.11"
 			{
@@ -320,9 +320,9 @@
 			}
 			"0.10.x"
 			{
-				"gid" "902026745661760921"
-				"size" "4562284512"
-				"download" "1564239520"
+				"gid" "5573893576601495807"
+				"size" "4562323525"
+				"download" "1564324512"
 			}
 			"previous-version"
 			{
@@ -341,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "17120652"
-			"timeupdated" "1737728690"
+			"buildid" "17291519"
+			"timeupdated" "1739020801"
 		}
 		"0.4.11"
 		{
@@ -407,9 +407,9 @@
 		}
 		"0.10.x"
 		{
-			"buildid" "17120652"
+			"buildid" "17291519"
 			"description" "DSP Alpha 0.10 latest"
-			"timeupdated" "1737728706"
+			"timeupdated" "1739020815"
 		}
 		"previous-version"
 		{
@@ -444,6 +444,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27150741"
-"_sha" "b8ce144b31f840bebc59b7ec3e73401d159c757c"
-"_size" "8853"
+"_change_number" "27378541"
+"_sha" "d97c90df33cd97a1681b2993cbed93f594124079"
+"_size" "8855"
