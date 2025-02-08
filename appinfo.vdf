@@ -14,6 +14,17 @@
 	"clienticns" "346d14724e5c0ba91f0282c5c11074603be87239"
 	"linuxclienticon" "c31b277b73f66721169a526fecd71a45b5a646c7"
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -189,6 +200,7 @@
 		"category_58" "1"
 		"category_60" "1"
 		"category_23" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -270,7 +282,7 @@
 		"19" "4172"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -341,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "4727233329367329444"
-				"size" "280710016"
-				"download" "170787392"
+				"gid" "2984705042194165688"
+				"size" "315452837"
+				"download" "179777472"
 			}
 		}
 	}
@@ -358,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "1496292624822002736"
-				"size" "317119848"
-				"download" "180504016"
+				"gid" "6800203813901875245"
+				"size" "358660561"
+				"download" "190130544"
 			}
 		}
 	}
@@ -375,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "5527132556449176036"
-				"size" "287949352"
-				"download" "173401584"
+				"gid" "3757670367697749089"
+				"size" "327506309"
+				"download" "183537984"
 			}
 		}
 	}
@@ -385,8 +397,8 @@
 	{
 		"public"
 		{
-			"buildid" "17245309"
-			"timeupdated" "1738717526"
+			"buildid" "17294009"
+			"timeupdated" "1739052828"
 		}
 	}
 }
@@ -438,6 +450,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27317392"
-"_sha" "5b8de65de43381304c5c08b943871bf17888e82d"
-"_size" "8102"
+"_change_number" "27382436"
+"_sha" "c51cb9fce64fcdd08009434e6b895bd72195d5d1"
+"_size" "8291"
