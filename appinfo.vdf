@@ -286,8 +286,8 @@
 		"18" "6691"
 		"19" "21"
 	}
-	"review_score" "6"
-	"review_percentage" "76"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -359,18 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "2033278322359554124"
-				"size" "1123834985"
-				"download" "257499216"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "948535E448E3A246042F8714120D247E"
-				"size" "523477ACF28190AEF2C4D6E018692825"
-				"download" "F7D58C8A7F5E20882DA711030D6C71A4"
+				"gid" "7699266369804089801"
+				"size" "1107934919"
+				"download" "253588288"
 			}
 		}
 	}
@@ -389,15 +380,6 @@
 				"download" "265919360"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "7C9702A2BC7E1BAC4C275EC6A8A9CC8B"
-				"size" "BBC2EFE9244EF77305EA697454E48311"
-				"download" "B74427E8086C229C6524B33063099506"
-			}
-		}
 	}
 	"2790003"
 	{
@@ -409,18 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "7928998895535577838"
-				"size" "1078321369"
-				"download" "246645744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "4B642FA096A040C980419FF6F538E743"
-				"size" "00679D14FFD729F4235385721BCE7E52"
-				"download" "5C55AF728E7D17DE6CB1EDC54B5FDE44"
+				"gid" "778496832234883789"
+				"size" "1078321823"
+				"download" "246719504"
 			}
 		}
 	}
@@ -436,30 +409,16 @@
 				"download" "8635008"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "0321C9057C846901D605DDA6C51648E1"
-				"size" "FA3C53A0CE6776F3FE7840A2DF40282B"
-				"download" "79553CE74FF21BBA48CB3954273A7BC8"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16646836"
-			"timeupdated" "1733421341"
-		}
-		"beta"
-		{
-			"buildid" "16646836"
-			"pwdrequired" "1"
-			"timeupdated" "1733420774"
+			"buildid" "16869374"
+			"timeupdated" "1735462200"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -495,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26522152"
-"_sha" "bb0b06d5903abb7f775d86e811cacfff58889d41"
-"_size" "8420"
+"_change_number" "27099097"
+"_sha" "bee3e2bfec66a029fc593dea1b4f9f9800494e7a"
+"_size" "7527"
