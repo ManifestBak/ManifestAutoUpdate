@@ -259,15 +259,21 @@
 		{
 			"public"
 			{
-				"gid" "4873063495640902876"
-				"size" "658308870"
-				"download" "516139056"
+				"gid" "9116902348765961668"
+				"size" "658332735"
+				"download" "516156160"
 			}
 			"previous_version"
 			{
 				"gid" "3441290653789828099"
 				"size" "536097808"
 				"download" "443053328"
+			}
+			"before_block_check"
+			{
+				"gid" "1295083722674683039"
+				"size" "649240497"
+				"download" "514885472"
 			}
 		}
 	}
@@ -282,15 +288,21 @@
 		{
 			"public"
 			{
-				"gid" "1086260975862231012"
-				"size" "660881670"
-				"download" "516515792"
+				"gid" "1277199194495020210"
+				"size" "660906047"
+				"download" "516531696"
 			}
 			"previous_version"
 			{
 				"gid" "3373814494751560164"
 				"size" "538430480"
 				"download" "443408544"
+			}
+			"before_block_check"
+			{
+				"gid" "2732998592600980611"
+				"size" "651801521"
+				"download" "515254816"
 			}
 		}
 	}
@@ -299,14 +311,20 @@
 	{
 		"public"
 		{
-			"buildid" "17252268"
-			"timeupdated" "1738762977"
+			"buildid" "17291629"
+			"timeupdated" "1739021609"
 		}
 		"previous_version"
 		{
 			"buildid" "8151348"
 			"description" "Fallback to Alpha 4"
 			"timeupdated" "1679756373"
+		}
+		"before_block_check"
+		{
+			"buildid" "16847567"
+			"description" "The last version which allows blocking buildings (0.5.9.10)"
+			"timeupdated" "1738951641"
 		}
 	}
 }
@@ -329,6 +347,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27326471"
-"_sha" "7c05b405856bb048677eb160a311194617214720"
-"_size" "5922"
+"_change_number" "27378633"
+"_sha" "ef70d511aeb07c3b23c82a8ec71e3997a1c97974"
+"_size" "6345"
