@@ -22,6 +22,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_6604c874093a0a7dd4f9dfa63ccae92e1cb6006c.jpg"
 	"store_asset_mtime" "1718099158"
 	"associations"
 	{
@@ -51,6 +52,7 @@
 		"category_1" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -71,6 +73,7 @@
 			"subtitles" "true"
 		}
 	}
+	"steam_release_date" "1718335914"
 	"gameid" "3048920"
 	"store_tags"
 	{
@@ -120,9 +123,9 @@
 		{
 			"public"
 			{
-				"gid" "2003272042022331154"
-				"size" "61128089640"
-				"download" "60264519552"
+				"gid" "3573523652954121125"
+				"size" "33231047812"
+				"download" "33634655232"
 			}
 		}
 		"dlcappid" "3048920"
@@ -131,9 +134,13 @@
 	{
 		"public"
 		{
-			"buildid" "14985325"
-			"timeupdated" "1721013631"
+			"buildid" "17288164"
+			"timeupdated" "1738983592"
 		}
 	}
 	"appmanagesdlc" "1"
 }
+"_missing_token" "False"
+"_change_number" "27374632"
+"_sha" "8f9b863b9ba2b27431c29326b341788d66137a38"
+"_size" "2316"
