@@ -26,6 +26,55 @@
 		"2" "5"
 	}
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738368000"
+		"tested_build_id" "17163077"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -218,8 +267,8 @@
 		"3" "122"
 		"4" "4747"
 		"5" "4172"
-		"6" "21"
-		"7" "3859"
+		"6" "3859"
+		"7" "21"
 		"8" "4231"
 		"9" "1775"
 		"10" "6730"
@@ -234,7 +283,7 @@
 		"19" "4057"
 	}
 	"review_score" "5"
-	"review_percentage" "45"
+	"review_percentage" "46"
 }
 "extended"
 {
@@ -249,7 +298,7 @@
 	{
 		"0"
 		{
-			"executable" "TheQuinfall.exe"
+			"executable" "start_protected_game.exe"
 			"type" "editor"
 			"config"
 			{
@@ -274,9 +323,9 @@
 			}
 			"description_loc"
 			{
-				"english" "DirectX 11"
+				"english" "DirectX 11 with AntiCheat"
 			}
-			"description" "DirectX 11"
+			"description" "DirectX 11 with AntiCheat"
 		}
 	}
 }
@@ -293,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "6139011714872802212"
-				"size" "63339068667"
-				"download" "34874420400"
+				"gid" "1372528179231993083"
+				"size" "63375133973"
+				"download" "34886431344"
 			}
 		}
 	}
@@ -304,13 +353,13 @@
 	{
 		"public"
 		{
-			"buildid" "17260347"
-			"timeupdated" "1738809527"
+			"buildid" "17287744"
+			"timeupdated" "1738979849"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27337590"
-"_sha" "bce33d2fc8c34bb8824182e9cbed2dde78a39144"
-"_size" "5280"
+"_change_number" "27374099"
+"_sha" "96c642f79c4e061445df513e2aadc92a642ca396"
+"_size" "6562"
