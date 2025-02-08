@@ -118,6 +118,14 @@
 		"english"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1521604440"
@@ -175,7 +183,7 @@
 }
 "depots"
 {
-	"baselanguages" ""
+	"baselanguages" "english"
 	"workshopdepot" "581630"
 	"228983"
 	{
@@ -242,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "5601633043490748318"
-				"size" "2052054235"
-				"download" "440701152"
+				"gid" "2840394612922123154"
+				"size" "2040969724"
+				"download" "451260592"
 			}
 		}
 	}
@@ -260,8 +268,8 @@
 	{
 		"public"
 		{
-			"buildid" "17179845"
-			"timeupdated" "1738210199"
+			"buildid" "17287206"
+			"timeupdated" "1738974261"
 		}
 	}
 	"privatebranches" "1"
@@ -272,6 +280,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27229212"
-"_sha" "8e3fd9fc4447ccb8520958919d16dbf0643c03fc"
-"_size" "4719"
+"_change_number" "27373230"
+"_sha" "dbe2894c863ffed72cb047c05797a42d71327ec7"
+"_size" "4872"
