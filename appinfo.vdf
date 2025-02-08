@@ -206,7 +206,7 @@
 		"18" "597"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -256,9 +256,9 @@
 		{
 			"public"
 			{
-				"gid" "3921440693478475981"
-				"size" "335088008"
-				"download" "87551344"
+				"gid" "8228899771787814650"
+				"size" "342007526"
+				"download" "87718352"
 			}
 		}
 	}
@@ -272,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "6077986969562258556"
-				"size" "358226983"
-				"download" "94244944"
+				"gid" "1271199289138195860"
+				"size" "365146908"
+				"download" "94409344"
 			}
 		}
 	}
@@ -282,15 +282,15 @@
 	{
 		"public"
 		{
-			"buildid" "17086263"
-			"timeupdated" "1737624511"
+			"buildid" "17289942"
+			"timeupdated" "1739009792"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "100000000"
+	"quota" "1000000000"
 	"maxnumfiles" "30"
 	"savefiles"
 	{
@@ -299,14 +299,28 @@
 			"root" "WinAppDataLocalLow"
 			"path" "Aotenjo/Aotenjo"
 			"pattern" "*.aotenjoprofile"
-			"platforms"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
 			{
-				"1" "Windows"
+				"0"
+				{
+					"find" "Aotenjo/Aotenjo"
+					"replace" "com.Aotenjo.Aotenjo"
+				}
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27127549"
-"_sha" "e24c7a7ae3633f5a3dff0daf21788b9e23427174"
-"_size" "6746"
+"_change_number" "27377325"
+"_sha" "2e06d8c25752bcaf0f51bbf3ef8a54aed9a36c30"
+"_size" "6975"
