@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738924288"
+	"store_asset_mtime" "1739013523"
 	"associations"
 	{
 		"0"
@@ -260,15 +260,15 @@
 		"0" "1645"
 		"1" "9"
 		"2" "4328"
-		"3" "4172"
-		"4" "7332"
+		"3" "7332"
+		"4" "4172"
 		"5" "19"
 		"6" "1676"
 		"7" "1684"
 		"8" "3993"
-		"9" "3959"
-		"10" "4684"
-		"11" "3964"
+		"9" "3964"
+		"10" "3959"
+		"11" "4684"
 		"12" "3871"
 		"13" "4182"
 		"14" "4305"
@@ -279,7 +279,7 @@
 		"19" "32322"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -332,9 +332,27 @@
 		{
 			"public"
 			{
+				"gid" "8516521781901950876"
+				"size" "484212424"
+				"download" "258693104"
+			}
+			"macos-arm64"
+			{
 				"gid" "1806980543329621642"
 				"size" "484159278"
 				"download" "258688064"
+			}
+			"windows11test"
+			{
+				"gid" "8516521781901950876"
+				"size" "484212424"
+				"download" "258693104"
+			}
+			"windows7compatibility"
+			{
+				"gid" "2149994510607241896"
+				"size" "429540728"
+				"download" "244849552"
 			}
 		}
 	}
@@ -349,6 +367,24 @@
 		{
 			"public"
 			{
+				"gid" "5148593814168534992"
+				"size" "463927472"
+				"download" "252450896"
+			}
+			"macos-arm64"
+			{
+				"gid" "6562481285810706093"
+				"size" "459608600"
+				"download" "244441520"
+			}
+			"windows11test"
+			{
+				"gid" "5015957073761543182"
+				"size" "422241444"
+				"download" "241380832"
+			}
+			"windows7compatibility"
+			{
 				"gid" "5015957073761543182"
 				"size" "422241444"
 				"download" "241380832"
@@ -359,15 +395,33 @@
 	{
 		"public"
 		{
-			"buildid" "17283405"
-			"timeupdated" "1738951425"
+			"buildid" "17297611"
+			"timeupdated" "1739124531"
+		}
+		"macos-arm64"
+		{
+			"buildid" "17299153"
+			"description" "MacOS-arm64"
+			"timeupdated" "1739124659"
+		}
+		"windows11test"
+		{
+			"buildid" "17297615"
+			"description" "WIN11测试版"
+			"timeupdated" "1739104512"
+		}
+		"windows7compatibility"
+		{
+			"buildid" "17299151"
+			"description" "WIN7旧版本"
+			"timeupdated" "1739124640"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "10000"
+	"quota" "52428800"
 	"maxnumfiles" "20"
 	"savefiles"
 	{
@@ -394,6 +448,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27368539"
-"_sha" "00366353c1e16f098160abd7d209010d292da37f"
-"_size" "8334"
+"_change_number" "27389529"
+"_sha" "2ee5ce3e5536f02c7cc5ebf5ed23e6dc61a32902"
+"_size" "9440"
