@@ -1,12 +1,9 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-09 10:50:10
+## 更新时间：2025-02-09 12:21:19
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1793250 | 带我去地下城吧！！| Game |
-| 2004640 | Svarog's Dream| Game |
-| 2066980 | Summer For You| Game |
-| 2598800 | 灵能哨卫：无限| Game |
-| 2644210 | 伯克利家的女仆：重制版（玛格丽特）| Game |
-| 2294660 | The Quinfall| Game |
-| 2696760 | Starlight Legacy| Game |
+| 2094070 | Quest Master| Game |
+| 2957700 | 太太！我喜欢你！| Game |
+| 3059010 | 二战前线合集| Game |
+| 3376250 | 九球轮盘赌| Game |
