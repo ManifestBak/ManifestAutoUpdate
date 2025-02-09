@@ -11,7 +11,6 @@
 	"clienticon" "67fb1f6d7b73f19c9609e54f5af4bbfa7405ffd6"
 	"clienttga" "f9e54067e062ea2c823efc73b0f69e28514bcafa"
 	"releasestate" "released"
-	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -143,6 +142,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_15" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -173,7 +173,7 @@
 		"10" "3942"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -206,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "9016048336456660565"
-				"size" "1660710368"
-				"download" "832566176"
+				"gid" "3977832918145061717"
+				"size" "1660710258"
+				"download" "832566224"
 			}
 		}
 	}
@@ -216,12 +216,12 @@
 	{
 		"public"
 		{
-			"buildid" "17271089"
-			"timeupdated" "1738869834"
+			"buildid" "17299990"
+			"timeupdated" "1739134768"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27351464"
-"_sha" "f96e5e86885d3c6534be6204a90ea3d34ac06b4b"
-"_size" "4005"
+"_change_number" "27391153"
+"_sha" "62ba863774edea3f4cb15b1ac6647f25c9e9ba11"
+"_size" "3996"
