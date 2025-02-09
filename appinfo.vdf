@@ -107,11 +107,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "ce2129f7c854fcfcb2e31607392886a42d0e5cac/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ce2129f7c854fcfcb2e31607392886a42d0e5cac/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1736367477"
+	"store_asset_mtime" "1739097566"
 	"associations"
 	{
 		"0"
@@ -268,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "9024133455302770247"
-				"size" "25540195569"
-				"download" "6721817600"
+				"gid" "6121677600275182692"
+				"size" "25432655516"
+				"download" "6696163344"
 			}
 		}
 	}
@@ -278,12 +282,12 @@
 	{
 		"public"
 		{
-			"buildid" "17279949"
-			"timeupdated" "1738941354"
+			"buildid" "17297575"
+			"timeupdated" "1739104053"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27365405"
-"_sha" "9672904092bf166a295da8f53e389198584b74d6"
-"_size" "4745"
+"_change_number" "27387065"
+"_sha" "2af45a7abe158d9f09184c6304c1d37703064cc4"
+"_size" "4893"
