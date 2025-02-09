@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734366741"
+	"store_asset_mtime" "1738612705"
 	"associations"
 	{
 		"0"
@@ -111,10 +111,15 @@
 		}
 		"1"
 		{
-			"type" "publisher"
-			"name" "Muharukahana BloodEdge"
+			"type" "developer"
+			"name" "Cydron"
 		}
 		"2"
+		{
+			"type" "publisher"
+			"name" "Muharukahana Studio"
+		}
+		"3"
 		{
 			"type" "franchise"
 			"name" "RealityPhobia"
@@ -168,12 +173,12 @@
 		"19" "4195"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "64"
 }
 "extended"
 {
 	"developer" "Muharukahana Studio"
-	"publisher" "Muharukahana BloodEdge"
+	"publisher" "Muharukahana Studio"
 	"listofdlc" "3311500"
 	"dlcavailableonstore" "1"
 }
@@ -203,9 +208,9 @@
 		{
 			"public"
 			{
-				"gid" "1666548527785526224"
-				"size" "609359955"
-				"download" "395023472"
+				"gid" "2975285569527292622"
+				"size" "634441025"
+				"download" "416226208"
 			}
 		}
 	}
@@ -231,12 +236,12 @@
 	{
 		"public"
 		{
-			"buildid" "16963490"
-			"timeupdated" "1736507575"
+			"buildid" "17294911"
+			"timeupdated" "1739064720"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27045180"
-"_sha" "0aa7b38a040a0311fab37609dd68064158e52e1e"
-"_size" "3936"
+"_change_number" "27383628"
+"_sha" "0443e1b7a6f948c7e0e1da4331ae60e49e87fab9"
+"_size" "3992"
