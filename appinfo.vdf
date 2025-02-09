@@ -81,6 +81,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -129,19 +130,26 @@
 				"height_pct" "82.67632391355971"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "7cdcc3b9e55164bcdce58d01d9c7eb84998d1fe5/library_header.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1675969083"
+	"store_asset_mtime" "1733746578"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "IlluminatiGames"
+			"name" "LuminatiGames"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "IlluminatiGames"
+			"name" "LuminatiGames"
 		}
 	}
 	"primary_genre" "25"
@@ -203,33 +211,33 @@
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "9130"
-		"2" "5611"
-		"3" "6650"
-		"4" "24904"
-		"5" "1684"
-		"6" "1719"
-		"7" "21"
-		"8" "7332"
-		"9" "3799"
-		"10" "4726"
-		"11" "4136"
-		"12" "4085"
-		"13" "1742"
-		"14" "597"
-		"15" "1773"
-		"16" "3871"
-		"17" "6815"
-		"18" "9551"
-		"19" "599"
+		"1" "5611"
+		"2" "6650"
+		"3" "3799"
+		"4" "9130"
+		"5" "24904"
+		"6" "4166"
+		"7" "11014"
+		"8" "1684"
+		"9" "4182"
+		"10" "1719"
+		"11" "4726"
+		"12" "4136"
+		"13" "4085"
+		"14" "1742"
+		"15" "597"
+		"16" "1773"
+		"17" "3871"
+		"18" "6815"
+		"19" "9551"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
 }
 "extended"
 {
-	"developer" "IlluminatiGames"
-	"publisher" "IlluminatiGames"
+	"developer" "LuminatiGames"
+	"publisher" "LuminatiGames"
 }
 "config"
 {
@@ -275,24 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "2116884153236798840"
-				"size" "1177609273"
-				"download" "282332784"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fixesbranch"
-			{
-				"gid" "B23B6911732820EBF79C7285D97209A1"
-				"size" "AE8EB1FA32B10A1C6C3CBF349186DD14"
-				"download" "27218915699FAF809C7B807F53746E24"
-			}
-			"test"
-			{
-				"gid" "A9E4BEDCBE317FF392A8E42BC13B6747"
-				"size" "2B957396D5E5572EE68058CE3EB0B19D"
-				"download" "2F917F4D9DAEC3ADB8F0670B13BC8DE4"
+				"gid" "4252751794789319786"
+				"size" "1176515069"
+				"download" "282555088"
 			}
 		}
 	}
@@ -307,24 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "7970094725795590850"
-				"size" "1169914673"
-				"download" "279871776"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fixesbranch"
-			{
-				"gid" "0B929FFA85AC6BFFC199BE21E1545F7C"
-				"size" "59D0CBCED38C83B158141EB0DDB373C6"
-				"download" "9244596312604E368756B7E52D505539"
-			}
-			"test"
-			{
-				"gid" "BB8FFD194A2DB62C318CC12EF3A5CB20"
-				"size" "2195C8D36FF4337C91628DA90FB7671F"
-				"download" "03B3DA72023896E3F2740B406644BF6C"
+				"gid" "545643648745763001"
+				"size" "1168821989"
+				"download" "280111888"
 			}
 		}
 	}
@@ -338,24 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "5922214760937700523"
-				"size" "1220142596"
-				"download" "283193952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fixesbranch"
-			{
-				"gid" "EC6BC400A8271C977BF2FA5CCF95D22F"
-				"size" "B5F0C5B3F7D34A1A70D4550F53034BFC"
-				"download" "E0A11B8C93A93FC997E4AF25C8D1F62A"
-			}
-			"test"
-			{
-				"gid" "CD1BE49AD818AB39061ECE56D7A3A8C3"
-				"size" "70384A9C848B5652354D4171E7A26781"
-				"download" "868A9933481538BAEEB2D38F3AFAF43C"
+				"gid" "6214971550616317159"
+				"size" "1219048392"
+				"download" "283418096"
 			}
 		}
 	}
@@ -370,24 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "6350933861710253594"
-				"size" "1170247983"
-				"download" "279533040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fixesbranch"
-			{
-				"gid" "C00565887008DF8468D30CE171F320DD"
-				"size" "B20FE857F98252F7B07999C8F5BFB8BE"
-				"download" "E7598170862E2A6BB25C87169E0C0F70"
-			}
-			"test"
-			{
-				"gid" "5AA03862F7FD114068C80022CADCC826"
-				"size" "6B99DE6905E1210F44396D729F10EE9B"
-				"download" "404E25669AC17E11BBB8330D15239D3B"
+				"gid" "2243406168163975165"
+				"size" "1169154051"
+				"download" "279760624"
 			}
 		}
 	}
@@ -402,24 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "6386451208227869309"
-				"size" "1173613007"
-				"download" "281883008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fixesbranch"
-			{
-				"gid" "E38E2D4913E98CA519DFDBB4624CECFD"
-				"size" "AE66FACBED2376508158C2DF079D00B4"
-				"download" "A45D3DE82748D009D05D9D400745648C"
-			}
-			"test"
-			{
-				"gid" "B9D3338922E4AB6D1B9FED0917313821"
-				"size" "9BDD6A81F31B625C9FC7F6CE8CE3CCA6"
-				"download" "45495C16C61FF6977F44404F91B25DAC"
+				"gid" "3656339772346461465"
+				"size" "1172519075"
+				"download" "282110576"
 			}
 		}
 	}
@@ -427,25 +360,18 @@
 	{
 		"public"
 		{
-			"buildid" "13648550"
-			"timeupdated" "1709666962"
-		}
-		"fixesbranch"
-		{
-			"buildid" "10683147"
-			"pwdrequired" "1"
-			"timeupdated" "1677842774"
-		}
-		"test"
-		{
-			"buildid" "13648550"
-			"pwdrequired" "1"
-			"timeupdated" "1709662395"
+			"buildid" "17295148"
+			"timeupdated" "1739123190"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "100000000"
 	"maxnumfiles" "100"
 }
+"_missing_token" "False"
+"_change_number" "27389328"
+"_sha" "5f1a7f077b58296d61c92720e2bf1af07a60591b"
+"_size" "6148"
