@@ -11,7 +11,7 @@
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64"
 	"content_descriptors"
 	{
 		"0" "1"
@@ -119,12 +119,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "IlluminatiGames"
+			"name" "LuminatiGames"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "IlluminatiGames"
+			"name" "LuminatiGames"
 		}
 	}
 	"primary_genre" "4"
@@ -289,12 +289,12 @@
 		"19" "7250"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "88"
 }
 "extended"
 {
-	"developer" "IlluminatiGames"
-	"publisher" "IlluminatiGames"
+	"developer" "LuminatiGames"
+	"publisher" "LuminatiGames"
 	"listofdlc" "1559640"
 	"dlcavailableonstore" "1"
 }
@@ -344,18 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "8987393808916739724"
-				"size" "124858847"
-				"download" "52650768"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "0147F16B9B9DEC764092F3D1060403EB"
-				"size" "718108A560E5F409963E0F05463CA79B"
-				"download" "F830EA5E92E1ECC08C548DE8E2A16AD1"
+				"gid" "5285074313932454289"
+				"size" "149874196"
+				"download" "62937296"
 			}
 		}
 	}
@@ -370,18 +361,9 @@
 		{
 			"public"
 			{
-				"gid" "4726727144175603217"
-				"size" "117596519"
-				"download" "50340320"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "50392129017E6DAE5035C085C4102856"
-				"size" "79C5295CA884F8FED644D950F7FA14C7"
-				"download" "570659A3D0285988B9A2AFCE62A7C5CF"
+				"gid" "3783773046387727787"
+				"size" "137782276"
+				"download" "59383264"
 			}
 		}
 	}
@@ -396,18 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "7912003316342330108"
-				"size" "125982856"
-				"download" "53047456"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "E89B44B47FB24FE2E4C0BB1585C4B76C"
-				"size" "6B903EEBAF59730B8033EF97BE4E6073"
-				"download" "D1A0F80F50C38F96F01EC8D529C082D3"
+				"gid" "4755830081731119914"
+				"size" "132927929"
+				"download" "59595536"
 			}
 		}
 	}
@@ -422,18 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "8984150409548433933"
-				"size" "135092172"
-				"download" "54005904"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testing"
-			{
-				"gid" "DB836C6D2AB5A1DA3D087452FDB6EF91"
-				"size" "B8B04F1C5D473761DE23521E0F82748C"
-				"download" "A65AC751DD10BD5E5A93638482EDC635"
+				"gid" "2370329532885033448"
+				"size" "144707424"
+				"download" "60943440"
 			}
 		}
 	}
@@ -442,19 +406,18 @@
 	{
 		"public"
 		{
-			"buildid" "7569027"
-			"timeupdated" "1634807288"
-		}
-		"testing"
-		{
-			"buildid" "8223757"
-			"pwdrequired" "1"
-			"timeupdated" "1645117322"
+			"buildid" "17298807"
+			"timeupdated" "1739123067"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000"
 	"maxnumfiles" "5"
 }
+"_missing_token" "False"
+"_change_number" "27389315"
+"_sha" "c3027594185be4f44ccb6d0a31208f49387fd56a"
+"_size" "6391"
