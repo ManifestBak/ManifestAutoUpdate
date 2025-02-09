@@ -12,7 +12,7 @@
 	"releasestate" "released"
 	"oslist" "windows,macos"
 	"osarch" ""
-	"osextended" ""
+	"osextended" "macos64"
 	"content_descriptors"
 	{
 		"0" "1"
@@ -90,7 +90,49 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1649273248"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "53.95348837209301"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1733412533"
 	"associations"
 	{
 		"0"
@@ -102,6 +144,11 @@
 		{
 			"type" "publisher"
 			"name" "Bear in the Night"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lust Academy"
 		}
 	}
 	"primary_genre" "25"
@@ -116,6 +163,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -142,8 +190,8 @@
 		"3" "24904"
 		"4" "3799"
 		"5" "9551"
-		"6" "4947"
-		"7" "44868"
+		"6" "44868"
+		"7" "4947"
 		"8" "6426"
 		"9" "1742"
 		"10" "4175"
@@ -158,12 +206,13 @@
 		"19" "5984"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "Bear in the Night"
 	"publisher" "Bear in the Night"
+	"homepage" "http://lust-academy.com/"
 	"listofdlc" "1909140"
 	"dlcavailableonstore" "1"
 }
@@ -217,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "2746237079403203119"
-				"size" "2903122368"
-				"download" "2547966784"
+				"gid" "1283588283019221105"
+				"size" "2903266849"
+				"download" "2548109584"
 			}
 		}
 	}
@@ -233,9 +282,9 @@
 		{
 			"public"
 			{
-				"gid" "2011295839766086521"
-				"size" "2809191455"
-				"download" "2520628192"
+				"gid" "8753329371896493821"
+				"size" "2809335936"
+				"download" "2520771632"
 			}
 		}
 	}
@@ -247,8 +296,8 @@
 	{
 		"public"
 		{
-			"buildid" "13448060"
-			"timeupdated" "1707862378"
+			"buildid" "17299514"
+			"timeupdated" "1739129061"
 		}
 	}
 }
@@ -277,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22332387"
-"_sha" "18765789f278b448e186ca0ee06f429fe0b15a17"
-"_size" "4864"
+"_change_number" "27390090"
+"_sha" "75f5d7295c0a25ec3ad3b076a8d2ca92733c1396"
+"_size" "5612"
