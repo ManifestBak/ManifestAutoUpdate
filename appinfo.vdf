@@ -71,7 +71,7 @@
 	"metacritic_name" "Memoirs of a Battle Brothel"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "f59ce4d6f11c74a818138edca901d3bae6b8d956/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -123,13 +123,13 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1691530368"
+	"store_asset_mtime" "1739222053"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "A Memory of Eternity LLC"
+			"name" "A Memory of Eternity"
 		}
 		"1"
 		{
@@ -139,7 +139,7 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" "A Memory of Eternity LLC"
+			"name" "A Memory of Eternity"
 		}
 		"3"
 		{
@@ -198,7 +198,7 @@
 }
 "extended"
 {
-	"developer" "A Memory of Eternity LLC"
+	"developer" "A Memory of Eternity"
 	"publisher" "TinyHat Studios"
 	"homepage" "https://www.memoryofeternity.com"
 	"listofdlc" "2249220"
@@ -229,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "1772257289455623179"
-				"size" "1740044593"
-				"download" "1486825440"
+				"gid" "2227243375838769498"
+				"size" "1742576916"
+				"download" "1488743536"
 			}
 		}
 	}
@@ -243,12 +243,12 @@
 	{
 		"public"
 		{
-			"buildid" "15906642"
-			"timeupdated" "1727896297"
+			"buildid" "17312336"
+			"timeupdated" "1739221134"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25675460"
-"_sha" "da5e53755b8b1db79dd9ab365eda83df9e11b7fb"
-"_size" "4561"
+"_change_number" "27408807"
+"_sha" "681c57bfaf14d827d21b3763f33053819a1590a5"
+"_size" "4590"
