@@ -1,7 +1,7 @@
 "appid" "3169000"
 "common"
 {
-	"name" "謐漩星記錄"
+	"name" "RECORD_DrowsyVortex"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows"
@@ -12,6 +12,7 @@
 	{
 		"english" "RECORD_DrowsyVortex"
 		"schinese" "谧漩星记录"
+		"tchinese" "謐漩星記錄"
 	}
 	"clienttga" "108a391e57f8dbb868c3d1b680c8e99a32edeb65"
 	"clienticon" "fd93068000c1341bcdb6ff052ae35ea813ca1481"
@@ -213,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "4422873425705646623"
-				"size" "1317219543"
-				"download" "932217840"
+				"gid" "8151948327292594105"
+				"size" "1317217648"
+				"download" "932218080"
 			}
 			"local"
 			{
@@ -229,8 +230,8 @@
 	{
 		"public"
 		{
-			"buildid" "17187471"
-			"timeupdated" "1738256385"
+			"buildid" "17309941"
+			"timeupdated" "1739207622"
 		}
 		"local"
 		{
@@ -268,6 +269,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27239004"
-"_sha" "cc00005d733a24d065a241b113785eca7571cd95"
-"_size" "4788"
+"_change_number" "27404947"
+"_sha" "43f1a619e5c2afbdf400261f4c17161dc03a9bb1"
+"_size" "4825"
