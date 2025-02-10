@@ -15,6 +15,50 @@
 		"english" "1"
 		"french" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738368000"
+		"tested_build_id" "15917680"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -145,8 +189,8 @@
 		"8" "1716"
 		"9" "32322"
 		"10" "4604"
-		"11" "6730"
-		"12" "1666"
+		"11" "1666"
+		"12" "6730"
 		"13" "4791"
 		"14" "14139"
 		"15" "3854"
@@ -209,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "1312333455175153685"
-				"size" "439070200"
-				"download" "226555440"
+				"gid" "6268596668595022516"
+				"size" "475744599"
+				"download" "260962192"
 			}
 		}
 	}
@@ -225,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "5411733482403272211"
-				"size" "403536748"
-				"download" "209969616"
+				"gid" "4670304493211647443"
+				"size" "441266399"
+				"download" "244658688"
 			}
 		}
 	}
@@ -235,8 +279,8 @@
 	{
 		"public"
 		{
-			"buildid" "15917680"
-			"timeupdated" "1727967737"
+			"buildid" "17310336"
+			"timeupdated" "1739209434"
 		}
 	}
 }
@@ -273,3 +317,7 @@
 	}
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "27405552"
+"_sha" "29b67c85597b566a64f76a3ab552d4447a3eff8e"
+"_size" "5333"
