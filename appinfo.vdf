@@ -284,18 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "4863310512319557029"
-				"size" "532610342"
-				"download" "55688720"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_testing"
-			{
-				"gid" "86686740269B6CEAC79037C71C195529"
-				"size" "967D10C95E3302982D8C1556F2BA30BA"
-				"download" "A81882E0EB40438DBF3D72F56D8A4DA8"
+				"gid" "3482933670786943783"
+				"size" "537292475"
+				"download" "58846816"
 			}
 		}
 	}
@@ -310,18 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "2659962255577916239"
-				"size" "575480228"
-				"download" "56633008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_testing"
-			{
-				"gid" "465E79FC6203FEE94D9CF9BE2591E845"
-				"size" "010ABDA7CB1AC63C39602D338BA03103"
-				"download" "B79A3A177B52A38C5BD21A0016D8F86C"
+				"gid" "2590115263271299320"
+				"size" "580162361"
+				"download" "59789536"
 			}
 		}
 	}
@@ -336,18 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "1005431708173487637"
-				"size" "555027471"
-				"download" "62175856"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private_testing"
-			{
-				"gid" "C0461714C5AE8E5D8C5B9C880A189B64"
-				"size" "487181A2D468B9021337A2E23B2C4998"
-				"download" "8EA644D7A581B9660E5F695F2AE27EF5"
+				"gid" "774882883188528987"
+				"size" "559709602"
+				"download" "65343584"
 			}
 		}
 	}
@@ -361,32 +334,18 @@
 		"manifests"
 		{
 		}
-		"encryptedmanifests"
-		{
-			"private_testing"
-			{
-				"gid" "6E724E0C4A58C8FE62B29DDB93FF9486"
-				"size" "E0F3A07DE074E00ADF7BE0F366EC4E59"
-				"download" "7DF048FFD2123A21077BF33F16E7B57A"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16845199"
-			"timeupdated" "1735073305"
-		}
-		"private_testing"
-		{
-			"buildid" "7491559"
-			"pwdrequired" "1"
-			"timeupdated" "1633569225"
+			"buildid" "17284993"
+			"timeupdated" "1739199623"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26776114"
-"_sha" "2fc668a7268734851e765586077e9dc39187e697"
-"_size" "6991"
+"_change_number" "27402552"
+"_sha" "531a2af2a57f1507e54200f7e599e9d95666704f"
+"_size" "6044"
