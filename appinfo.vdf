@@ -173,7 +173,7 @@
 		"19" "4195"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "62"
 }
 "extended"
 {
@@ -208,9 +208,21 @@
 		{
 			"public"
 			{
-				"gid" "4921965749705973537"
-				"size" "634442463"
-				"download" "416228144"
+				"gid" "146395607800599938"
+				"size" "634453119"
+				"download" "416230576"
+			}
+			"updatetestver"
+			{
+				"gid" "2414119317787392580"
+				"size" "634453119"
+				"download" "416230576"
+			}
+			"legacy"
+			{
+				"gid" "6993248507331680107"
+				"size" "482172975"
+				"download" "273109552"
 			}
 		}
 	}
@@ -236,12 +248,24 @@
 	{
 		"public"
 		{
-			"buildid" "17295012"
-			"timeupdated" "1739066225"
+			"buildid" "17305078"
+			"timeupdated" "1739182251"
+		}
+		"updatetestver"
+		{
+			"buildid" "17304721"
+			"description" "此版本更新会非常不稳定，只有确定稳定后会挪用到default"
+			"timeupdated" "1739180639"
+		}
+		"legacy"
+		{
+			"buildid" "14926727"
+			"description" "已经作废的旧版"
+			"timeupdated" "1739180506"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27383763"
-"_sha" "1a8ea7b7f2cfacaa669c2bb1fd15e72957eb3a7d"
-"_size" "3992"
+"_change_number" "27398099"
+"_sha" "e9034a78efb09be812174c5fc8a7ddb9d622ee6a"
+"_size" "4532"
