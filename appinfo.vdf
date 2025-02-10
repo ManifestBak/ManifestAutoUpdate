@@ -239,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "6786172914883421809"
-				"size" "9809156399"
-				"download" "4239569760"
+				"gid" "5090714207503347562"
+				"size" "10359770111"
+				"download" "4371090544"
 			}
 			"revision-8"
 			{
@@ -251,9 +251,9 @@
 			}
 			"beta"
 			{
-				"gid" "3647543112203294813"
-				"size" "10564672241"
-				"download" "4757212544"
+				"gid" "3306143151782911541"
+				"size" "11115102538"
+				"download" "4888645904"
 			}
 			"revision-1"
 			{
@@ -262,94 +262,13 @@
 				"download" "4174014432"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"cutella"
-			{
-				"gid" "46C2BF708993143C871F9156564B1B2E"
-				"size" "77C8E1CBB01CEB0133BA0230E55DF889"
-				"download" "899D36B0E7781A3F0D93A6E4166A54BF"
-			}
-			"revision-2"
-			{
-				"gid" "82725D643D14F48C2F55315DDDFECA27"
-				"size" "03C5022C3C87176027686EC3A765A626"
-				"download" "8D7339DF6092924D95F8634FCAB17537"
-			}
-			"revision-5"
-			{
-				"gid" "6E9D8A5B6DBBE2625253D26552AC85B3"
-				"size" "F4F711AA1CA1B13238B900EBD8F86DF4"
-				"download" "095542EE77E252BA5073993AA7C4CF76"
-			}
-			"revision-6"
-			{
-				"gid" "D2F97FC12E7152AB5BF24809F62C7B3A"
-				"size" "C8532F93B0234B28917178DD3F5D4153"
-				"download" "66319D957B059EFEC8659A7F0E530DCD"
-			}
-			"revision-7"
-			{
-				"gid" "BDF75464F6823B4AED3574DCD3F41EA8"
-				"size" "334DE6BAF55B046FADCCE7A3DD852404"
-				"download" "F8520657FF0D635689A7F1366F3A91C2"
-			}
-			"alpha"
-			{
-				"gid" "AE7000C0890AC8111E634A8AC3223413"
-				"size" "8D4F9493516ABD14DFED9C8AA4950360"
-				"download" "870DDF1390AE9F02F2F48109988FEAB5"
-			}
-			"revision-3"
-			{
-				"gid" "A468E55C43135086C381424A601B9B5D"
-				"size" "771E7DCC7BD9AF22319C4C49AF004083"
-				"download" "12E9F0A70B853AD0445D29755A90F1EA"
-			}
-			"revision-4"
-			{
-				"gid" "EB04986B6DBF45988F0F69B5B7B29551"
-				"size" "5A7838D504565593B99BBF153153C305"
-				"download" "22DB79736F9251B202219DA3CFCEFCF9"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16782238"
-			"timeupdated" "1734498727"
-		}
-		"cutella"
-		{
-			"buildid" "12046943"
-			"pwdrequired" "1"
-			"timeupdated" "1693715150"
-		}
-		"revision-2"
-		{
-			"buildid" "9228356"
-			"pwdrequired" "1"
-			"timeupdated" "1660385417"
-		}
-		"revision-5"
-		{
-			"buildid" "10242568"
-			"pwdrequired" "1"
-			"timeupdated" "1672657684"
-		}
-		"revision-6"
-		{
-			"buildid" "13399018"
-			"pwdrequired" "1"
-			"timeupdated" "1711720891"
-		}
-		"revision-7"
-		{
-			"buildid" "11422448"
-			"pwdrequired" "1"
-			"timeupdated" "1698932830"
+			"buildid" "17303031"
+			"timeupdated" "1739168792"
 		}
 		"revision-8"
 		{
@@ -357,39 +276,22 @@
 			"description" "SVFI 3.23.1"
 			"timeupdated" "1698293509"
 		}
-		"alpha"
-		{
-			"buildid" "16782172"
-			"pwdrequired" "1"
-			"timeupdated" "1734498323"
-		}
 		"beta"
 		{
-			"buildid" "16782172"
+			"buildid" "17303045"
 			"description" "SVFI Beta Test"
-			"timeupdated" "1734498313"
+			"timeupdated" "1739168828"
 		}
 		"revision-1"
 		{
 			"buildid" "14333239"
-			"description" "SVFI 6.15.9-beta"
+			"description" "SVFI 6.15.9"
 			"timeupdated" "1716205209"
 		}
-		"revision-3"
-		{
-			"buildid" "9384156"
-			"pwdrequired" "1"
-			"timeupdated" "1661487985"
-		}
-		"revision-4"
-		{
-			"buildid" "9923848"
-			"pwdrequired" "1"
-			"timeupdated" "1668829449"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26689280"
-"_sha" "8764cce6a6af298308eff4f9981f635821498e85"
-"_size" "7303"
+"_change_number" "27394995"
+"_sha" "c530e033240d4436066148a436ada02401bc3307"
+"_size" "5045"
