@@ -157,8 +157,8 @@
 		"7" "6971"
 		"8" "1036"
 		"9" "4085"
-		"10" "9"
-		"11" "9551"
+		"10" "9551"
+		"11" "9"
 		"12" "6426"
 		"13" "3987"
 		"14" "5984"
@@ -204,9 +204,9 @@
 		{
 			"public"
 			{
-				"gid" "4673641845528192159"
-				"size" "2409392832"
-				"download" "1964262896"
+				"gid" "4271849115612937752"
+				"size" "2415259045"
+				"download" "1968465680"
 			}
 			"local"
 			{
@@ -220,8 +220,8 @@
 	{
 		"public"
 		{
-			"buildid" "17211276"
-			"timeupdated" "1738434338"
+			"buildid" "17305307"
+			"timeupdated" "1739189783"
 		}
 		"local"
 		{
@@ -235,25 +235,15 @@
 }
 "ufs"
 {
-	"quota" "1024000"
-	"maxnumfiles" "1000"
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
 	"savefiles"
 	{
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "PakyiGame/StudentAge/Saves/{64BitSteamID}"
-			"pattern" "*.save"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
-		"1"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "PakyiGame/StudentAge/Saves/{64BitSteamID}"
-			"pattern" "*.autosave"
+			"pattern" "*"
 			"platforms"
 			{
 				"1" "Windows"
@@ -262,6 +252,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27271191"
-"_sha" "0dec90639da74d5e46d271596f79b1b0f7e09f73"
-"_size" "4553"
+"_change_number" "27400102"
+"_sha" "38f274f15f66d6f744556888453d0f1817532c55"
+"_size" "4371"
