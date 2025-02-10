@@ -95,7 +95,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730275941"
+	"store_asset_mtime" "1738911092"
 	"associations"
 	{
 		"0"
@@ -204,13 +204,13 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
 	"developer" "Lustration Team"
 	"publisher" "TopHouse Publishing"
-	"listofdlc" "3170180,3170190,3170200,3299220"
+	"listofdlc" "3170180,3170190,3170200,3299220,3467870"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -275,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "6664597349898666719"
-				"size" "4231603481"
-				"download" "1661091920"
+				"gid" "7674571960597328098"
+				"size" "4357619273"
+				"download" "1742273952"
 			}
 		}
 	}
@@ -285,13 +285,13 @@
 	{
 		"public"
 		{
-			"buildid" "16802278"
-			"timeupdated" "1734620562"
+			"buildid" "17311392"
+			"timeupdated" "1739216619"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26715828"
-"_sha" "ed7e231e1439ca8d4bc0b3c423594a3dfea171dc"
-"_size" "5189"
+"_change_number" "27407495"
+"_sha" "36e343228fa3646f497728d04082f71bf3f76ca3"
+"_size" "5197"
