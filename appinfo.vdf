@@ -191,6 +191,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -241,6 +242,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1729868058"
 	"community_visible_stats" "1"
@@ -269,8 +275,8 @@
 		"18" "4085"
 		"19" "4667"
 	}
-	"review_score" "8"
-	"review_percentage" "81"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -328,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "3736386165019858681"
-				"size" "3480165614"
-				"download" "1302857008"
+				"gid" "1431304341364264280"
+				"size" "3548244557"
+				"download" "1309099792"
 			}
 			"hardcore_mode"
 			{
@@ -339,82 +345,13 @@
 				"download" "1305719152"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"chromatest"
-			{
-				"gid" "184F3DE9177EAF98982CEB65AB962A14"
-				"size" "A0E699DA7C180523D0FCEE418748C3D0"
-				"download" "02DAA76C29491939ED947E092E3C555F"
-			}
-			"digitaldemo"
-			{
-				"gid" "6F15530F635F0201288FE8F6A30406DD"
-				"size" "B539BEC74DBA45CEC41436D7C50C9222"
-				"download" "B2691D1FD176E24D9F1330FB11ACA10C"
-			}
-			"dlcfix"
-			{
-				"gid" "5D4F3B9A673CD398D44FB39C19CCC96B"
-				"size" "E85A88FDEE67C925B1BCFD9D7ECC4CE8"
-				"download" "329051C994B38CF005B6FB65B999235A"
-			}
-			"hardcoremode_inhousetest"
-			{
-				"gid" "EED5BFEA9E2B8B041E680F12D1E3BC75"
-				"size" "9E1DFE1A388E0EB9EC082427B8BDA4FF"
-				"download" "A309EF7840D92F2F26F832208475B3B9"
-			}
-			"inhousesteamdecktest"
-			{
-				"gid" "D221BBCE3DA61F36844EB35FD4610581"
-				"size" "E0C213D74770D5CAFEAF9BD9805E82FE"
-				"download" "FC67260E07D419E15A7B3B52B203733E"
-			}
-			"inhousetest"
-			{
-				"gid" "91535EF2323B446E4C4425106370249B"
-				"size" "FEDDEF988C4DE1E79DBF9984CB70B207"
-				"download" "9B3A5200397E031E6F715026153C584F"
-			}
-			"jpntest"
-			{
-				"gid" "6A08581EEB5449459F1E27BAE2A716A8"
-				"size" "58FFC7B7EB0024F81423371EDE3CB230"
-				"download" "A44FC97EB7E87E8F6115549656714289"
-			}
-			"offlinedemo"
-			{
-				"gid" "75E88D1C78FDE91F1F7B08D1F68D56F6"
-				"size" "1DB613D9DB0D2DD5D1EDDE092BFBC0E3"
-				"download" "B72D8425F583DD8D69B8007CA158D037"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16732954"
-			"timeupdated" "1734352605"
-		}
-		"chromatest"
-		{
-			"buildid" "16640701"
-			"pwdrequired" "1"
-			"timeupdated" "1733389125"
-		}
-		"digitaldemo"
-		{
-			"buildid" "15283991"
-			"pwdrequired" "1"
-			"timeupdated" "1722993383"
-		}
-		"dlcfix"
-		{
-			"buildid" "16203727"
-			"pwdrequired" "1"
-			"timeupdated" "1730106898"
+			"buildid" "17302813"
+			"timeupdated" "1739202333"
 		}
 		"hardcore_mode"
 		{
@@ -422,37 +359,8 @@
 			"description" "Hardcore Mode"
 			"timeupdated" "1730707774"
 		}
-		"hardcoremode_inhousetest"
-		{
-			"buildid" "16248979"
-			"pwdrequired" "1"
-			"timeupdated" "1730530016"
-		}
-		"inhousesteamdecktest"
-		{
-			"buildid" "16009958"
-			"pwdrequired" "1"
-			"timeupdated" "1728653392"
-		}
-		"inhousetest"
-		{
-			"buildid" "16732954"
-			"pwdrequired" "1"
-			"timeupdated" "1734081670"
-		}
-		"jpntest"
-		{
-			"buildid" "16338379"
-			"pwdrequired" "1"
-			"timeupdated" "1731052256"
-		}
-		"offlinedemo"
-		{
-			"buildid" "15283991"
-			"pwdrequired" "1"
-			"timeupdated" "1722993397"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -473,6 +381,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26660566"
-"_sha" "bca2df1691454bf471cb76e25db9d41cc2ed1a3f"
-"_size" "8763"
+"_change_number" "27403403"
+"_sha" "0e911bece419e6d94fa0a1b6b138c04c6ef73910"
+"_size" "6544"
