@@ -81,7 +81,7 @@
 		"4" "872"
 	}
 	"review_score" "7"
-	"review_percentage" "92"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -105,9 +105,9 @@
 		{
 			"public"
 			{
-				"gid" "8750647396340117350"
-				"size" "5991928609"
-				"download" "3097946736"
+				"gid" "4530508750660130646"
+				"size" "5455504449"
+				"download" "2996271344"
 			}
 			"revision-8"
 			{
@@ -117,66 +117,15 @@
 			}
 			"beta"
 			{
-				"gid" "2480999096308683364"
-				"size" "8227910767"
-				"download" "4755682128"
+				"gid" "5905867820307172145"
+				"size" "7726061449"
+				"download" "4673523968"
 			}
 			"revision-1"
 			{
 				"gid" "2123462492286852784"
 				"size" "7293016920"
 				"download" "4529490064"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"cutella"
-			{
-				"gid" "221EE177972664099504011D6B9FB895"
-				"size" "A2F45F90A812A833B85714C39BF3B44B"
-				"download" "750EAEBB0152EE1E95A783397EDB2B4F"
-			}
-			"revision-2"
-			{
-				"gid" "D58C369AC97DAD4F2244980159515C6B"
-				"size" "C8E6F041AC5D763C8C7A9EA2FC1DBDD6"
-				"download" "57117273C799A77BC19945953C875CB4"
-			}
-			"revision-3"
-			{
-				"gid" "95940A710B8748527627760AA6A0666D"
-				"size" "D50D04540CE423877E96CABE18E74524"
-				"download" "2A0836D731025CC3972B3E37CB7226FE"
-			}
-			"revision-4"
-			{
-				"gid" "D1E4177D4CFC6449B722CCEBC9F137C1"
-				"size" "71A7ABED5C7672083F2008617E536871"
-				"download" "2208C049FDCB32616BC6B94D3492E792"
-			}
-			"revision-5"
-			{
-				"gid" "DCA5783CE121E679C535002D86B1B7D9"
-				"size" "5D544DBE48D3C3C909C813F670D12F45"
-				"download" "54713239D57321E29A9A6DE8D2C204D9"
-			}
-			"revision-7"
-			{
-				"gid" "486160D956BD98E528339B010F8EB13D"
-				"size" "71754118083AAB043B598F27DAAE722C"
-				"download" "98813BBCC3910D927F22047E07216191"
-			}
-			"alpha"
-			{
-				"gid" "00AAA6921A99AA618EBA155780930D66"
-				"size" "FCABD90A106B264C04C44763AC5D6F19"
-				"download" "4652A94EAB5D768AB46A8159160E4222"
-			}
-			"revision-6"
-			{
-				"gid" "9529267F8341A161F586021E60FFEA69"
-				"size" "5284A15EC316C6CE95A5357CAF5C2B74"
-				"download" "30710839595CEB70FC36980D808CBFE0"
 			}
 		}
 		"dlcappid" "1718750"
@@ -192,30 +141,15 @@
 		{
 			"public"
 			{
-				"gid" "4359792037021838644"
-				"size" "49229312"
-				"download" "21939520"
+				"gid" "2527088099681255573"
+				"size" "49448960"
+				"download" "21964016"
 			}
 			"beta"
 			{
-				"gid" "6401072873814393806"
-				"size" "49295360"
-				"download" "21932224"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "3CD1D2882F70DBFB25C64351CF9099FA"
-				"size" "D7BD9A5DE8745A9577C4488E71374C88"
-				"download" "EE343FF9B5AD5C56A4BBB5171D9BDAE3"
-			}
-			"revision-6"
-			{
-				"gid" "5B4F9B71EF1550A9C34FAF99F8189DE6"
-				"size" "6AF26E6379D0CB7F7BC7078E557F942B"
-				"download" "B752C27FDE6DF9120ADA4EBD90176A8F"
+				"gid" "2527088099681255573"
+				"size" "49448960"
+				"download" "21964016"
 			}
 		}
 		"dlcappid" "1718750"
@@ -224,44 +158,8 @@
 	{
 		"public"
 		{
-			"buildid" "16782295"
-			"timeupdated" "1734498771"
-		}
-		"cutella"
-		{
-			"buildid" "12076074"
-			"pwdrequired" "1"
-			"timeupdated" "1693715367"
-		}
-		"revision-2"
-		{
-			"buildid" "9184759"
-			"pwdrequired" "1"
-			"timeupdated" "1660324036"
-		}
-		"revision-3"
-		{
-			"buildid" "9391740"
-			"pwdrequired" "1"
-			"timeupdated" "1661488021"
-		}
-		"revision-4"
-		{
-			"buildid" "10418275"
-			"pwdrequired" "1"
-			"timeupdated" "1682135260"
-		}
-		"revision-5"
-		{
-			"buildid" "9184789"
-			"pwdrequired" "1"
-			"timeupdated" "1672658088"
-		}
-		"revision-7"
-		{
-			"buildid" "11084827"
-			"pwdrequired" "1"
-			"timeupdated" "1698988070"
+			"buildid" "17302563"
+			"timeupdated" "1739163915"
 		}
 		"revision-8"
 		{
@@ -269,17 +167,11 @@
 			"description" "SVFI 3.23.1"
 			"timeupdated" "1698293546"
 		}
-		"alpha"
-		{
-			"buildid" "16835238"
-			"pwdrequired" "1"
-			"timeupdated" "1734958105"
-		}
 		"beta"
 		{
-			"buildid" "16835238"
+			"buildid" "17296912"
 			"description" "SVFI Beta Test"
-			"timeupdated" "1734958091"
+			"timeupdated" "1739094132"
 		}
 		"revision-1"
 		{
@@ -287,11 +179,10 @@
 			"description" "SVFI 6.15.9"
 			"timeupdated" "1716205213"
 		}
-		"revision-6"
-		{
-			"buildid" "16834868"
-			"pwdrequired" "1"
-			"timeupdated" "1734957933"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27394342"
+"_sha" "1543770728485c0b58e601d30a915abe626e035d"
+"_size" "3255"
