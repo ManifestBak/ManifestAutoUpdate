@@ -41,6 +41,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -89,8 +90,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8330a24a5c1a7bccb88bfc0c39d20f333f90e211/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8330a24a5c1a7bccb88bfc0c39d20f333f90e211/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1724930299"
+	"store_asset_mtime" "1738594031"
 	"associations"
 	{
 		"0"
@@ -241,7 +253,7 @@
 		"19" "4166"
 	}
 	"review_score" "9"
-	"review_percentage" "95"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -332,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "8695458370489715875"
-				"size" "847888334"
-				"download" "608727344"
+				"gid" "1468307953788351889"
+				"size" "917979552"
+				"download" "671212064"
 			}
 			"christmas_2023"
 			{
@@ -349,82 +361,19 @@
 				"download" "485868224"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dw_ea_test"
-			{
-				"gid" "99F6DC80285192C4609D7649893F479D"
-				"size" "82F694D416E0256282C46738D1D20454"
-				"download" "9BA419F42C94A77DBC84C5CFCBE0B275"
-			}
-			"dw_early_access"
-			{
-				"gid" "01F3C7C7FF1639BA5D2D81CE2DCE79D4"
-				"size" "04B80FB31CF6346913AB759FA2C33FF1"
-				"download" "85E0604EC526DEB3E72C0A190ADF37B0"
-			}
-			"internal_test"
-			{
-				"gid" "53B50B60DE173ADD86A3AED790F3314D"
-				"size" "42A19BAEB81302E21904154FEC846159"
-				"download" "86FE1A1DCEBE41F7A7EE390122B736C0"
-			}
-			"playtest_dw_exit"
-			{
-				"gid" "2A2331E3BE5CE542159BA16DEB4D8C8C"
-				"size" "4C0CA2D899EFEF88E98D2E72C537C1F8"
-				"download" "36F90B82C373B5CFBD00D5D0C16558EA"
-			}
-			"playtest_dw_pickman"
-			{
-				"gid" "815E8F95E9E0F1A210E54EB5C13ADE68"
-				"size" "A47FAB9F9F240A29EF192AF056C2BB80"
-				"download" "38AE4057C6053D38411E04606B2E3C8D"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16623038"
-			"timeupdated" "1733392010"
+			"buildid" "17236607"
+			"timeupdated" "1739184065"
 		}
 		"christmas_2023"
 		{
 			"buildid" "13311106"
 			"description" "A Curious Christmas"
 			"timeupdated" "1706607932"
-		}
-		"dw_ea_test"
-		{
-			"buildid" "15477637"
-			"pwdrequired" "1"
-			"timeupdated" "1725280484"
-		}
-		"dw_early_access"
-		{
-			"buildid" "15518411"
-			"pwdrequired" "1"
-			"timeupdated" "1724892715"
-		}
-		"internal_test"
-		{
-			"buildid" "16623038"
-			"pwdrequired" "1"
-			"timeupdated" "1733278978"
-		}
-		"playtest_dw_exit"
-		{
-			"buildid" "15125256"
-			"pwdrequired" "1"
-			"timeupdated" "1721749260"
-		}
-		"playtest_dw_pickman"
-		{
-			"buildid" "14524766"
-			"pwdrequired" "1"
-			"timeupdated" "1716935535"
 		}
 		"ue4_2024"
 		{
@@ -433,6 +382,7 @@
 			"timeupdated" "1724769306"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -465,6 +415,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26504780"
-"_sha" "c8d511ac2eb23ccfa52e77cc9eb068975a655fe8"
-"_size" "8019"
+"_change_number" "27398600"
+"_sha" "8572accdca3b3e372da8782d48aab545da1467f4"
+"_size" "6814"
