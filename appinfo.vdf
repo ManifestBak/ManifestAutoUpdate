@@ -28,6 +28,7 @@
 		"1" "2"
 		"2" "5"
 	}
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -90,6 +91,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_14bbb127c713646a613143f279d48f875352e211.jpg"
 	"store_asset_mtime" "1568287725"
 	"associations"
 	{
@@ -121,6 +123,7 @@
 		"category_13" "1"
 		"category_29" "1"
 		"category_49" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -194,7 +197,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -238,18 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "4446150911283244688"
-				"size" "2472193395"
-				"download" "1102679200"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"betaohueta"
-			{
-				"gid" "C62C2916813E4A37AD25EC0DDBCE1C3F"
-				"size" "FF7DA91A406D62081E903CB6A379016F"
-				"download" "265AB096FA7361ED7F6202FE10E57D26"
+				"gid" "6959915451457801912"
+				"size" "2471837555"
+				"download" "1102488000"
 			}
 		}
 	}
@@ -258,18 +252,13 @@
 	{
 		"public"
 		{
-			"buildid" "4189960"
-			"timeupdated" "1568289344"
-		}
-		"betaohueta"
-		{
-			"buildid" "4189533"
-			"pwdrequired" "1"
-			"timeupdated" "1568280487"
+			"buildid" "17228326"
+			"timeupdated" "1739176693"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "22332387"
-"_sha" "0f41fbee793f6609dd96c81102d9917b7612485e"
-"_size" "4895"
+"_change_number" "27396520"
+"_sha" "7ca1539d5f7ea8d4b3276faff57c954e4c0855b2"
+"_size" "4730"
