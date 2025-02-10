@@ -41,27 +41,75 @@
 			"height_pct" "57.358497837054074"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.202031723630824"
+				"height_pct" "57.358497837054074"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1714561635"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Cool Car"
+			"name" "Cool Car Studio"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Cool Car"
+			"name" "Cool Car Studio"
 		}
 	}
-	"primary_genre" "70"
+	"primary_genre" "1"
 	"genres"
 	{
 		"0" "1"
 		"1" "25"
 		"2" "23"
-		"3" "70"
 	}
 	"category"
 	{
@@ -107,7 +155,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1714132801"
+	"steam_release_date" "1739204265"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2814950"
@@ -135,12 +183,12 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "72"
 }
 "extended"
 {
-	"developer" "Cool Car"
-	"publisher" "Cool Car"
+	"developer" "Cool Car Studio"
+	"publisher" "Cool Car Studio"
 }
 "config"
 {
@@ -161,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "648569406112621547"
-				"size" "5216263255"
-				"download" "1914424352"
+				"gid" "3038568878511683918"
+				"size" "5216466441"
+				"download" "1914934800"
 			}
 		}
 	}
@@ -171,8 +219,12 @@
 	{
 		"public"
 		{
-			"buildid" "14921869"
-			"timeupdated" "1720027052"
+			"buildid" "17309221"
+			"timeupdated" "1739204134"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27403933"
+"_sha" "b28239314f4303f74b3e5416fc0b6fec8035dbeb"
+"_size" "3411"
