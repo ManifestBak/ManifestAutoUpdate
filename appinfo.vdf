@@ -109,7 +109,7 @@
 	"metacritic_name" "World of Tanks"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "35181aaa602db5e8dc3fb48b0f723ebb35705353/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -181,15 +181,15 @@
 		{
 			"image2x"
 			{
-				"english" "66b1fffb48f76faaf0a1f9b541a4478fca59fa37/library_header_2x.jpg"
+				"english" "3f9449fc95aafcf6ee9e59f98da8ee472bd924dd/library_header_2x.jpg"
 			}
 			"image"
 			{
-				"english" "66b1fffb48f76faaf0a1f9b541a4478fca59fa37/library_header.jpg"
+				"english" "3f9449fc95aafcf6ee9e59f98da8ee472bd924dd/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1738232893"
+	"store_asset_mtime" "1739174504"
 	"associations"
 	{
 		"0"
@@ -395,9 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "2901025822582549018"
-				"size" "111370087"
-				"download" "111861728"
+				"gid" "3228542920796778122"
+				"size" "111339863"
+				"download" "111833344"
 			}
 		}
 	}
@@ -1819,8 +1819,8 @@
 	{
 		"public"
 		{
-			"buildid" "17263778"
-			"timeupdated" "1738832662"
+			"buildid" "17304161"
+			"timeupdated" "1739177133"
 		}
 	}
 	"privatebranches" "1"
@@ -1831,6 +1831,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27341471"
-"_sha" "461126e31b7f1cb973a9fca4deaf977b95ee285e"
-"_size" "27223"
+"_change_number" "27396607"
+"_sha" "37a4e2adfbd6940c2858eeaf4b4b3c279faaa2ab"
+"_size" "27264"
