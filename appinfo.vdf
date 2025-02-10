@@ -170,6 +170,11 @@
 			"type" "publisher"
 			"name" "Serious Bros."
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Imagine Earth"
+		}
 	}
 	"primary_genre" "2"
 	"genres"
@@ -363,9 +368,9 @@
 		{
 			"public"
 			{
-				"gid" "8765523529705146065"
-				"size" "1112761285"
-				"download" "951722592"
+				"gid" "6333364931031664300"
+				"size" "1112763463"
+				"download" "951738704"
 			}
 		}
 	}
@@ -379,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "3009963951038520530"
-				"size" "1137849242"
-				"download" "955780544"
+				"gid" "6741289987696977264"
+				"size" "1137874344"
+				"download" "955837056"
 			}
 		}
 	}
@@ -405,8 +410,8 @@
 	{
 		"public"
 		{
-			"buildid" "17161301"
-			"timeupdated" "1738087429"
+			"buildid" "17312243"
+			"timeupdated" "1739220973"
 		}
 	}
 	"privatebranches" "1"
@@ -446,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27205499"
-"_sha" "6454a310b518ee008552ceb09bc2e1058f4abb14"
-"_size" "8004"
+"_change_number" "27408571"
+"_sha" "62990e1de5346368a0ac11685757f9c8f079e2d7"
+"_size" "8073"
