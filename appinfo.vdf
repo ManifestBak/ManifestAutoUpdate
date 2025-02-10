@@ -202,7 +202,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Wave Game"
+			"name" "波浪游戏 (Wave Game)"
 		}
 		"1"
 		{
@@ -288,8 +288,8 @@
 		"6" "122"
 		"7" "4791"
 		"8" "32322"
-		"9" "454187"
-		"10" "5125"
+		"9" "5125"
+		"10" "454187"
 		"11" "19"
 		"12" "7432"
 		"13" "4057"
@@ -305,7 +305,7 @@
 }
 "extended"
 {
-	"developer" "Wave Game"
+	"developer" "波浪游戏 (Wave Game)"
 	"publisher" "bilibili"
 	"homepage" "https://game.bilibili.com/magicraft/"
 }
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "5804835537831656084"
-				"size" "2405973606"
-				"download" "415366000"
+				"gid" "6519997480363697606"
+				"size" "2385698044"
+				"download" "398127840"
 			}
 		}
 	}
@@ -345,8 +345,8 @@
 	{
 		"public"
 		{
-			"buildid" "17135213"
-			"timeupdated" "1737889329"
+			"buildid" "17290567"
+			"timeupdated" "1739185071"
 		}
 	}
 	"privatebranches" "1"
@@ -370,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27170973"
-"_sha" "ec04391b45180c2060f36b9f149d4fd63f96b98b"
-"_size" "8979"
+"_change_number" "27398849"
+"_sha" "f213964fe890c6ab5422525b7877cd77780f0950"
+"_size" "9009"
