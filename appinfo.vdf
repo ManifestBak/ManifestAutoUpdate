@@ -1,0 +1,350 @@
+"appid" "2776780"
+"common"
+{
+	"name" "Blood Bar Tycoon"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "d02ac891ed9f31699d39c12e0c116c6e8268717b"
+	"clienticon" "1b5f1c353eec984d4584a3d7fd22faf0764ec62a"
+	"clienttga" "38c60b962f64a9be347c4d9f443b35e0fa12b2e2"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "吸血鬼酒吧大亨"
+		"tchinese" "吸血鬼酒吧大亨"
+		"japanese" "吸血鬼バータイクーン"
+		"koreana" "뱀파이어 바 타이쿤"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "1f036df02e038132965158b7f0a920604e37d93d/capsule_231x87.jpg"
+		"schinese" "224eb2f2ce4bbab2c7337e1fd74b4cdc259f457d/capsule_231x87_schinese.jpg"
+		"koreana" "406a9e2be87f8e603651f7c9c2e2d842f7a3ef7e/capsule_231x87_koreana.jpg"
+		"japanese" "0781848c690cd3b0188c0b11cf4e73e6064c03e4/capsule_231x87_japanese.jpg"
+		"tchinese" "224eb2f2ce4bbab2c7337e1fd74b4cdc259f457d/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ko,ja,zh-tw"
+		"library_hero" "en,zh-cn,ko,ja,zh-tw"
+		"library_hero_blur" "zh-cn,ko,ja,zh-tw,en"
+		"library_logo" "en,zh-cn,ko,ja,zh-tw"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "102.40748990328065"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "6e139e384c5ed2b4e0737dadffae1df6720a8025/library_600x900.jpg"
+				"schinese" "0117e1918b0fbb858b87733e5aeb3ce73ea2b0d0/library_600x900_schinese.jpg"
+				"koreana" "9e656838dc4690aeb0b61cf6e8211147d270604e/library_600x900_koreana.jpg"
+				"japanese" "8236524ee020f72726c2e887fcff95139b6b3cf3/library_600x900_japanese.jpg"
+				"tchinese" "0117e1918b0fbb858b87733e5aeb3ce73ea2b0d0/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "6e139e384c5ed2b4e0737dadffae1df6720a8025/library_600x900_2x.jpg"
+				"schinese" "0117e1918b0fbb858b87733e5aeb3ce73ea2b0d0/library_600x900_schinese_2x.jpg"
+				"koreana" "9e656838dc4690aeb0b61cf6e8211147d270604e/library_600x900_koreana_2x.jpg"
+				"japanese" "8236524ee020f72726c2e887fcff95139b6b3cf3/library_600x900_japanese_2x.jpg"
+				"tchinese" "0117e1918b0fbb858b87733e5aeb3ce73ea2b0d0/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "3107af69701756ccbee05a25e67b0075cf11a75c/library_hero.jpg"
+				"schinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_schinese.jpg"
+				"koreana" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_koreana.jpg"
+				"japanese" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_japanese.jpg"
+				"tchinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "3107af69701756ccbee05a25e67b0075cf11a75c/library_hero_2x.jpg"
+				"schinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_schinese_2x.jpg"
+				"koreana" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_koreana_2x.jpg"
+				"japanese" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_japanese_2x.jpg"
+				"tchinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"schinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_blur_schinese.jpg"
+				"koreana" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_blur_koreana.jpg"
+				"japanese" "574504fadf64b1aa9e05e281ae32cb9a4a76595b/library_hero_blur_japanese.jpg"
+				"tchinese" "c78bbb735cb25761c1e99b29d0c91725303b72bc/library_hero_blur_tchinese.jpg"
+				"english" "3107af69701756ccbee05a25e67b0075cf11a75c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "70cdbfaba1152b17925f4ea087f467ae9d8ec40a/logo_schinese.png"
+				"koreana" "1c4d8cd221fe5db6daa271793963b846f3d2cab8/logo_koreana.png"
+				"japanese" "2af052f938add822f22f9f4efd4ee27f8978ec2d/logo_japanese.png"
+				"tchinese" "70cdbfaba1152b17925f4ea087f467ae9d8ec40a/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "70cdbfaba1152b17925f4ea087f467ae9d8ec40a/logo_schinese_2x.png"
+				"koreana" "1c4d8cd221fe5db6daa271793963b846f3d2cab8/logo_koreana_2x.png"
+				"japanese" "2af052f938add822f22f9f4efd4ee27f8978ec2d/logo_japanese_2x.png"
+				"tchinese" "70cdbfaba1152b17925f4ea087f467ae9d8ec40a/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "102.40748990328065"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8249f09791cb04704dedd001bb7f5d05cdcda39c/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8249f09791cb04704dedd001bb7f5d05cdcda39c/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737734605"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Clever Trickster Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Clever Trickster Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Top Indie Developers"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738666546"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2776780"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "12472"
+		"2" "4136"
+		"3" "1643"
+		"4" "4328"
+		"5" "4018"
+		"6" "597"
+		"7" "10235"
+		"8" "9"
+		"9" "3810"
+		"10" "5923"
+		"11" "1654"
+		"12" "4562"
+		"13" "7332"
+		"14" "4695"
+		"15" "19995"
+		"16" "1719"
+		"17" "6276"
+		"18" "255534"
+		"19" "4711"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Clever Trickster Studio"
+	"publisher" "Clever Trickster Productions"
+	"homepage" "https://clevertrickster.com/blood-bar-tycoon/"
+	"listofdlc" "3372940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Blood Bar Tycoon"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BloodBarTycoon.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,japanese,brazilian"
+	"2776781"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5763063012688591748"
+				"size" "3082844463"
+				"download" "2024960272"
+			}
+		}
+	}
+	"3372940"
+	{
+		"dlcappid" "3372940"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17267118"
+			"timeupdated" "1738851043"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Clever Trickster Studio/BloodBarTycoon/Saves/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27396417"
+"_sha" "e58ebe6bf99c095f88ff1ebfff0cef02174becd8"
+"_size" "8322"
