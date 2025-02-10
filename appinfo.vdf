@@ -197,6 +197,7 @@
 	}
 	"steam_release_date" "1728312115"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2112750"
 	"store_tags"
@@ -269,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "4430915366305969981"
-				"size" "671087832"
-				"download" "574860240"
+				"gid" "5886949677040395782"
+				"size" "719585320"
+				"download" "583070960"
 			}
 		}
 	}
@@ -286,18 +287,19 @@
 		{
 			"public"
 			{
-				"gid" "4972640766182885625"
-				"size" "685019645"
-				"download" "577608736"
+				"gid" "1132298330682247834"
+				"size" "812960600"
+				"download" "613217504"
 			}
 		}
 	}
+	"workshopdepot" "2112750"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17187753"
-			"timeupdated" "1738334529"
+			"buildid" "17283318"
+			"timeupdated" "1739202680"
 		}
 	}
 }
@@ -343,6 +345,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27255064"
-"_sha" "2210a1274d8f93d2430787b336ef48ffe7040c17"
-"_size" "6195"
+"_change_number" "27403456"
+"_sha" "17843a2ad72cc6b7c94c405aed008ff2df97d52f"
+"_size" "6250"
