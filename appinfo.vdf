@@ -211,8 +211,8 @@
 	"store_tags"
 	{
 		"0" "1685"
-		"1" "42804"
-		"2" "4885"
+		"1" "4885"
+		"2" "42804"
 		"3" "1716"
 		"4" "4085"
 		"5" "4726"
@@ -228,8 +228,8 @@
 		"15" "3993"
 		"16" "6730"
 		"17" "122"
-		"18" "4195"
-		"19" "3841"
+		"18" "3841"
+		"19" "4195"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -258,36 +258,15 @@
 		{
 			"public"
 			{
-				"gid" "5107195842932930694"
-				"size" "394551347"
-				"download" "318316512"
+				"gid" "7531955930698095112"
+				"size" "394685073"
+				"download" "318318320"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta-test-dev"
+			"modding-beta"
 			{
-				"gid" "A25B5D8170E3DFC6B18CB63125E201D7"
-				"size" "C0B036A4FF7E525428A5A5A3D8593C21"
-				"download" "A2664D3EDCD96531C1CE6004C19A6B21"
-			}
-			"developer-test"
-			{
-				"gid" "A0F9BE7FA5DFF2BA128E038E4C5C7E28"
-				"size" "CCB07A799964958BED37DCDD9A5143D8"
-				"download" "807EBA0E326FFEAFCF053BDE2B128108"
-			}
-			"showfloor"
-			{
-				"gid" "65AD94D73A9DFFB083F16633E3BB2653"
-				"size" "A7E9BB47A1B3335BC1792C1A32439363"
-				"download" "B9CDE993CAA4C9EB37B8D9313CD3FDAC"
-			}
-			"vm-test"
-			{
-				"gid" "DB12601233D6AA858C21205D00E07B3B"
-				"size" "B343CCC83657E0218D8153F7E96D1195"
-				"download" "C9329303D024B6964A26C358F79B8965"
+				"gid" "7531955930698095112"
+				"size" "394685073"
+				"download" "318318320"
 			}
 		}
 	}
@@ -297,34 +276,17 @@
 	{
 		"public"
 		{
-			"buildid" "16481400"
-			"timeupdated" "1732181884"
+			"buildid" "17309962"
+			"timeupdated" "1739212807"
 		}
-		"beta-test-dev"
+		"modding-beta"
 		{
-			"buildid" "16481400"
-			"pwdrequired" "1"
-			"timeupdated" "1732169162"
-		}
-		"developer-test"
-		{
-			"buildid" "16481400"
-			"pwdrequired" "1"
-			"timeupdated" "1732163147"
-		}
-		"showfloor"
-		{
-			"buildid" "14866196"
-			"pwdrequired" "1"
-			"timeupdated" "1719540212"
-		}
-		"vm-test"
-		{
-			"buildid" "15174661"
-			"pwdrequired" "1"
-			"timeupdated" "1729767007"
+			"buildid" "17309962"
+			"description" "For modding"
+			"timeupdated" "1739209226"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -342,6 +304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26295097"
-"_sha" "77545f0ab5210e8b3f3b9d01a53bb7ade0e9e524"
-"_size" "6206"
+"_change_number" "27406549"
+"_sha" "bc5848f61ba2cd966df1bdaeb03f563a543af27d"
+"_size" "5297"
