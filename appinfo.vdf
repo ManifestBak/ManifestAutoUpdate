@@ -1,0 +1,333 @@
+"appid" "2307170"
+"common"
+{
+	"name" "Everwarder"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2435898d689e48df746dd5b87e7f5a0562542728"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"clienttga" "f82c43f695e78409f7e391cf67e7e88eefcad80e"
+	"linuxclienticon" "7722f95e223a14b210ee19021a33c39945a66492"
+	"clienticon" "7cb29965afc703627f2674b08fe1dda42b297747"
+	"clienticns" "6319e9f3da28f44661075de5d9dd5351f61899b1"
+	"name_localized"
+	{
+		"schinese" "永恒守望"
+		"tchinese" "永恒守望"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "ee3e66bfb3c085140059806f67f9c3c4bd323f42/capsule_231x87.jpg"
+		"schinese" "ffb1205b0baedc4e99562809683e694c07b5961c/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.199420114513785"
+			"height_pct" "99.24008549038233"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.199420114513785"
+				"height_pct" "99.24008549038233"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738620216"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "qLate"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "indie.io"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Paras Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "indie.io"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738853962"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2307170"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "1662"
+		"2" "9"
+		"3" "3959"
+		"4" "1643"
+		"5" "5125"
+		"6" "4182"
+		"7" "3964"
+		"8" "1716"
+		"9" "4791"
+		"10" "4342"
+		"11" "4115"
+		"12" "4166"
+		"13" "1684"
+		"14" "4604"
+		"15" "3942"
+		"16" "3871"
+		"17" "4026"
+		"18" "1708"
+		"19" "597"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"developer" "qLate"
+	"publisher" "indie.io"
+}
+"config"
+{
+	"installdir" "Everwarder"
+	"steamdecktouchscreen" "5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Everwarder.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Everwarder.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "Everwarder.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "Everwarder.app/Contents/MacOS/Everwarder"
+			"workingdir" "Everwarder.app/Contents/MacOS"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2307172"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8561374328073016946"
+				"size" "287310315"
+				"download" "73986944"
+			}
+		}
+	}
+	"2307171"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6399840664454240923"
+				"size" "284444401"
+				"download" "72775696"
+			}
+		}
+	}
+	"2307173"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "657521839038071588"
+				"size" "302439136"
+				"download" "80248784"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17296233"
+			"timeupdated" "1739087861"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Late Games/Everwarder/Saves"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Late Games/Everwarder/Saves"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d/Late Games/Everwarder/Saves"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27421388"
+"_sha" "ba3c1538b4e6f001659aafcf41b41f157132903e"
+"_size" "5259"
