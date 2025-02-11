@@ -35,6 +35,7 @@
 		"0" "1"
 		"1" "5"
 	}
+	"restricted_countries" "DE"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -247,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "5194406664023835794"
-				"size" "418174703"
-				"download" "242833744"
+				"gid" "3014509403547888904"
+				"size" "418159541"
+				"download" "242818512"
 			}
 		}
 	}
@@ -265,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "5406995941727089399"
-				"size" "392127209"
-				"download" "240241680"
+				"gid" "3926253116829454596"
+				"size" "392112047"
+				"download" "240226272"
 			}
 		}
 	}
@@ -275,8 +276,8 @@
 	{
 		"public"
 		{
-			"buildid" "11086794"
-			"timeupdated" "1682433264"
+			"buildid" "17318357"
+			"timeupdated" "1739263343"
 		}
 	}
 }
@@ -294,3 +295,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27416272"
+"_sha" "dabfcfc001a208c6e06e0a04ceb5d2208a48c455"
+"_size" "5601"
