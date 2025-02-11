@@ -170,7 +170,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726692098"
+	"store_asset_mtime" "1739286632"
 	"associations"
 	{
 		"0"
@@ -304,7 +304,7 @@
 		"19" "4364"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -344,15 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "6009273494206121272"
-				"size" "2270182272"
-				"download" "973076144"
+				"gid" "1581295005717750983"
+				"size" "1880978512"
+				"download" "915502832"
 			}
 			"beta"
 			{
-				"gid" "6009273494206121272"
-				"size" "2270182272"
-				"download" "973076144"
+				"gid" "1581295005717750983"
+				"size" "1880978512"
+				"download" "915502832"
 			}
 			"debug"
 			{
@@ -367,40 +367,25 @@
 				"download" "881194208"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "73868EA0BDD3F49F301E0664F3CD182D"
-				"size" "82E0F5DD6596870A3D29B96C4DB16A71"
-				"download" "CCF7C079B31C3C3CDDA920CC95AE503B"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16865040"
-			"timeupdated" "1735728610"
+			"buildid" "17322870"
+			"timeupdated" "1739285661"
 		}
 		"beta"
 		{
-			"buildid" "16865040"
+			"buildid" "17322870"
 			"description" "Beta patch"
-			"timeupdated" "1735376283"
+			"timeupdated" "1739285625"
 		}
 		"debug"
 		{
 			"buildid" "16137087"
 			"description" "for troubleshooting issues"
 			"timeupdated" "1729604293"
-		}
-		"development"
-		{
-			"buildid" "16750779"
-			"pwdrequired" "1"
-			"timeupdated" "1734267046"
 		}
 		"hold"
 		{
@@ -409,6 +394,7 @@
 			"timeupdated" "1718979072"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -425,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26831790"
-"_sha" "b871375d5fa9b803beca527db0f12872a06f46e5"
-"_size" "8001"
+"_change_number" "27422282"
+"_sha" "e8848c153e76ee42b746f3ad77847adb6571c63a"
+"_size" "7707"
