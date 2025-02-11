@@ -80,7 +80,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "c52dce961bdada472eba61d12ab9d35a555a74bd/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -140,11 +140,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "f1dc774a63c86cd389a88b7c960758092cd669d4/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "f1dc774a63c86cd389a88b7c960758092cd669d4/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1730114757"
+	"store_asset_mtime" "1738600281"
 	"associations"
 	{
 		"0"
@@ -284,11 +288,11 @@
 		"2" "1663"
 		"3" "6730"
 		"4" "3859"
-		"5" "3835"
-		"6" "1659"
+		"5" "1659"
+		"6" "3835"
 		"7" "4175"
-		"8" "19"
-		"9" "3843"
+		"8" "3843"
+		"9" "19"
 		"10" "3839"
 		"11" "128"
 		"12" "1685"
@@ -382,27 +386,6 @@
 				"download" "0"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"pre-master"
-			{
-				"gid" "2ACC07CDB1F405D884239B508F3EEA82"
-				"size" "D8A0F2F5C3F0B6CE60A66E7BC701BEAD"
-				"download" "2F2AD67121A1257BF5BE403686E0BB0D"
-			}
-			"development"
-			{
-				"gid" "92699ACD12D020BFFEF539D528B973E0"
-				"size" "A0C316D514879877EAFE92096AD60B03"
-				"download" "A0C316D514879877EAFE92096AD60B03"
-			}
-			"pre-experimental"
-			{
-				"gid" "A6DF6FE3A8B653B9235E0C9E9D7577DB"
-				"size" "D2E051A90D11A5FDB7FCD2C08BBAE3A4"
-				"download" "D2E051A90D11A5FDB7FCD2C08BBAE3A4"
-			}
-		}
 	}
 	"541302"
 	{
@@ -415,36 +398,15 @@
 		{
 			"public"
 			{
-				"gid" "7752006688990434844"
-				"size" "13350466335"
-				"download" "4792753360"
+				"gid" "1196177580122630278"
+				"size" "11898694282"
+				"download" "4489843248"
 			}
 			"experimental"
 			{
-				"gid" "7752006688990434844"
-				"size" "13350466335"
-				"download" "4792753360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pre-master"
-			{
-				"gid" "BAEDECFC2BF6D84AE6BFD6EABF9E787C"
-				"size" "CDD9D97A43BF500D3D6D2CD1A323A537"
-				"download" "215EDF853D7D8D024A6088D41E6523AC"
-			}
-			"development"
-			{
-				"gid" "1C9A1438C3BFD27792A9491D2534DAF7"
-				"size" "8C8F5E8BDDB47E087CBBA97D9EE3A2B9"
-				"download" "7B5268A5D7930F1375A623B6C775746A"
-			}
-			"pre-experimental"
-			{
-				"gid" "7D542EE0A6C101CABB6104B4192F33D9"
-				"size" "59E5F2B390F2411B0087CC36F0BB7D92"
-				"download" "BBD20F7E0A35F46D18DFA2EE8DBFD898"
+				"gid" "1196177580122630278"
+				"size" "11898694282"
+				"download" "4489843248"
 			}
 		}
 	}
@@ -461,34 +423,17 @@
 	{
 		"public"
 		{
-			"buildid" "16814328"
-			"timeupdated" "1734709506"
-		}
-		"pre-master"
-		{
-			"buildid" "4378542"
-			"pwdrequired" "1"
-			"timeupdated" "1573515332"
-		}
-		"development"
-		{
-			"buildid" "14158094"
-			"pwdrequired" "1"
-			"timeupdated" "1713955841"
+			"buildid" "17310183"
+			"timeupdated" "1739287764"
 		}
 		"experimental"
 		{
-			"buildid" "16814328"
+			"buildid" "17310183"
 			"description" "Most up to date testing branch. In here things will be more broken than in the public branch. Expect more DB resets and a lot more bugs. Be in here if you\'re hunting for the newest issues."
-			"timeupdated" "1734709480"
-		}
-		"pre-experimental"
-		{
-			"buildid" "16814328"
-			"pwdrequired" "1"
-			"timeupdated" "1734699723"
+			"timeupdated" "1739287571"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -496,6 +441,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26735710"
-"_sha" "2b572b9e5bc717b619feae9ad228e44ee32ede24"
-"_size" "9329"
+"_change_number" "27422622"
+"_sha" "737d0efda2ca315995309d57df146a963a9edbff"
+"_size" "8078"
