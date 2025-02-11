@@ -103,7 +103,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "8530515f92fc31dee9c68be3adf2a887fcbc3a19/capsule_231x87.jpg"
+		"english" "c4c3db7880fb4b1efe6ad2a9a3510ededdfddc0a/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -183,7 +183,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738136591"
+	"store_asset_mtime" "1739197722"
 	"associations"
 	{
 		"0"
@@ -387,8 +387,7 @@
 			"subtitles" "true"
 		}
 	}
-	"original_release_date" "1613635200"
-	"steam_release_date" "1737986991"
+	"steam_release_date" "1737986940"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -487,15 +486,15 @@
 		{
 			"public"
 			{
-				"gid" "6559714407481681907"
-				"size" "5194329176"
-				"download" "875549840"
+				"gid" "927503769817016773"
+				"size" "5197559632"
+				"download" "876415888"
 			}
 			"unstable"
 			{
-				"gid" "6559714407481681907"
-				"size" "5194329176"
-				"download" "875549840"
+				"gid" "927503769817016773"
+				"size" "5197559632"
+				"download" "876415888"
 			}
 		}
 	}
@@ -509,15 +508,15 @@
 		{
 			"public"
 			{
-				"gid" "1335401556440942760"
-				"size" "5217005284"
-				"download" "881731488"
+				"gid" "380337220533920587"
+				"size" "5220150457"
+				"download" "882583280"
 			}
 			"unstable"
 			{
-				"gid" "1335401556440942760"
-				"size" "5217005284"
-				"download" "881731488"
+				"gid" "380337220533920587"
+				"size" "5220150457"
+				"download" "882583280"
 			}
 		}
 	}
@@ -531,15 +530,15 @@
 		{
 			"public"
 			{
-				"gid" "8465719355798647517"
-				"size" "5231987930"
-				"download" "874436128"
+				"gid" "7567709499078478620"
+				"size" "5235227066"
+				"download" "875311760"
 			}
 			"unstable"
 			{
-				"gid" "8465719355798647517"
-				"size" "5231987930"
-				"download" "874436128"
+				"gid" "7567709499078478620"
+				"size" "5235227066"
+				"download" "875311760"
 			}
 		}
 	}
@@ -585,17 +584,16 @@
 	{
 		"public"
 		{
-			"buildid" "17182526"
-			"timeupdated" "1738244013"
+			"buildid" "17321411"
+			"timeupdated" "1739286324"
 		}
 		"unstable"
 		{
-			"buildid" "17182526"
+			"buildid" "17321411"
 			"description" "Unstable build"
-			"timeupdated" "1738230543"
+			"timeupdated" "1739278139"
 		}
 	}
-	"privatebranches" "1"
 }
 "ufs"
 {
@@ -603,6 +601,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27235493"
-"_sha" "0d3ba0ef2754facf4ffcf10ec792cdd9a53d3558"
-"_size" "10631"
+"_change_number" "27422183"
+"_sha" "82887cab4863f9211681f092f7e8632d122dae9e"
+"_size" "10562"
