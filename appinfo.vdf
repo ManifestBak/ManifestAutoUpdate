@@ -46,6 +46,7 @@
 			"url" "vr-input-workshop://2002044420"
 		}
 	}
+	"app_retired_publisher_request" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -231,15 +232,15 @@
 		{
 			"public"
 			{
-				"gid" "2490264182964947725"
-				"size" "5038762719"
-				"download" "1266877376"
+				"gid" "7249590194464992211"
+				"size" "5031979527"
+				"download" "1271462224"
 			}
 			"beta"
 			{
-				"gid" "2490264182964947725"
-				"size" "5038762719"
-				"download" "1266877376"
+				"gid" "7249590194464992211"
+				"size" "5031979527"
+				"download" "1271462224"
 			}
 		}
 	}
@@ -247,18 +248,18 @@
 	{
 		"public"
 		{
-			"buildid" "17138795"
-			"timeupdated" "1737989981"
+			"buildid" "17323297"
+			"timeupdated" "1739289511"
 		}
 		"beta"
 		{
-			"buildid" "17138795"
-			"timeupdated" "1737989995"
+			"buildid" "17323297"
+			"timeupdated" "1739289521"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27185048"
-"_sha" "856a88b821adc85e86c2e7f776dd0a2908926d28"
-"_size" "4441"
+"_change_number" "27423136"
+"_sha" "67cae0dfb873c0eb8593800e8113aaa51ade7a8f"
+"_size" "4480"
