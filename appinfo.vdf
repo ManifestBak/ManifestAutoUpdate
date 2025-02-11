@@ -83,6 +83,60 @@
 			"height_pct" "61.85154237197551"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"russian" "library_600x900_russian.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "52.07186228841755"
+				"height_pct" "61.85154237197551"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"russian" "logo_russian.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"russian" "logo_russian_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"russian" "library_header_russian.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1705904522"
 	"associations"
 	{
@@ -166,7 +220,7 @@
 	"developer" "Soviet Games"
 	"publisher" "Soviet Games"
 	"homepage" "https://lmr.su"
-	"listofdlc" "2318010"
+	"listofdlc" "2318010,3313270"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -225,15 +279,15 @@
 		{
 			"public"
 			{
-				"gid" "7316485122219518820"
-				"size" "2813466720"
-				"download" "2500128896"
+				"gid" "569122320745607617"
+				"size" "2809129959"
+				"download" "2483616688"
 			}
-			"beta_es"
+			"beta_chinese"
 			{
-				"gid" "114128108378144741"
-				"size" "2813466726"
-				"download" "2500129424"
+				"gid" "2761276072154488943"
+				"size" "2811719604"
+				"download" "2486662448"
 			}
 		}
 	}
@@ -252,11 +306,11 @@
 				"size" "2972162451"
 				"download" "2568806752"
 			}
-			"beta_es"
+			"beta_chinese"
 			{
-				"gid" "9164853309350366778"
-				"size" "2998498130"
-				"download" "2575392928"
+				"gid" "5782087860985999557"
+				"size" "2972162451"
+				"download" "2568806752"
 			}
 		}
 	}
@@ -270,15 +324,15 @@
 		{
 			"public"
 			{
+				"gid" "4195260398553677854"
+				"size" "3135359858"
+				"download" "2570026944"
+			}
+			"beta_chinese"
+			{
 				"gid" "448641325595197865"
 				"size" "3139628917"
 				"download" "2582906368"
-			}
-			"beta_es"
-			{
-				"gid" "5005311439722284630"
-				"size" "3137850916"
-				"download" "2581810064"
 			}
 		}
 	}
@@ -297,11 +351,11 @@
 				"size" "2770668542"
 				"download" "2491597984"
 			}
-			"beta_es"
+			"beta_chinese"
 			{
-				"gid" "1805829405607942396"
-				"size" "2786900344"
-				"download" "2496426240"
+				"gid" "1729274472925248836"
+				"size" "2770668542"
+				"download" "2491597984"
 			}
 		}
 	}
@@ -310,14 +364,14 @@
 	{
 		"public"
 		{
-			"buildid" "14842201"
-			"timeupdated" "1719391424"
+			"buildid" "17313642"
+			"timeupdated" "1739228937"
 		}
-		"beta_es"
+		"beta_chinese"
 		{
-			"buildid" "14805009"
-			"description" "Spanish Translation"
-			"timeupdated" "1719070266"
+			"buildid" "17004794"
+			"description" "Chinese translation"
+			"timeupdated" "1736888086"
 		}
 	}
 }
@@ -389,3 +443,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27410259"
+"_sha" "3352fe2c7904ff9ef03b12d48a3ee451c1af5bb3"
+"_size" "7687"
