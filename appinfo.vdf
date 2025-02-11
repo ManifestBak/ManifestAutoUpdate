@@ -253,6 +253,7 @@
 	}
 	"steam_release_date" "1738850300"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2346410"
 	"store_tags"
@@ -265,8 +266,8 @@
 		"5" "19"
 		"6" "1676"
 		"7" "1684"
-		"8" "3993"
-		"9" "3964"
+		"8" "3964"
+		"9" "3993"
 		"10" "3959"
 		"11" "4684"
 		"12" "3871"
@@ -332,17 +333,11 @@
 		{
 			"public"
 			{
-				"gid" "8516521781901950876"
-				"size" "484212424"
-				"download" "258693104"
+				"gid" "5531970018380604540"
+				"size" "484228180"
+				"download" "258687184"
 			}
-			"macos-arm64"
-			{
-				"gid" "1806980543329621642"
-				"size" "484159278"
-				"download" "258688064"
-			}
-			"windows11test"
+			"macos-universal-test"
 			{
 				"gid" "8516521781901950876"
 				"size" "484212424"
@@ -350,9 +345,21 @@
 			}
 			"windows7compatibility"
 			{
-				"gid" "2149994510607241896"
-				"size" "429540728"
-				"download" "244849552"
+				"gid" "8899118351364235939"
+				"size" "429603232"
+				"download" "244848896"
+			}
+			"windows11test"
+			{
+				"gid" "1238436893945070384"
+				"size" "484118258"
+				"download" "258754592"
+			}
+			"macos-arm64"
+			{
+				"gid" "1806980543329621642"
+				"size" "484159278"
+				"download" "258688064"
 			}
 		}
 	}
@@ -367,21 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "5148593814168534992"
-				"size" "463927472"
-				"download" "252450896"
+				"gid" "3356096841738261115"
+				"size" "463942556"
+				"download" "252444704"
 			}
-			"macos-arm64"
+			"macos-universal-test"
 			{
-				"gid" "6562481285810706093"
-				"size" "459608600"
-				"download" "244441520"
-			}
-			"windows11test"
-			{
-				"gid" "5015957073761543182"
-				"size" "422241444"
-				"download" "241380832"
+				"gid" "4442310502818870010"
+				"size" "655488367"
+				"download" "307341936"
 			}
 			"windows7compatibility"
 			{
@@ -389,32 +390,50 @@
 				"size" "422241444"
 				"download" "241380832"
 			}
+			"windows11test"
+			{
+				"gid" "4678404962682863767"
+				"size" "656624534"
+				"download" "307374864"
+			}
+			"macos-arm64"
+			{
+				"gid" "7103034336225966418"
+				"size" "459623260"
+				"download" "244469536"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17297611"
-			"timeupdated" "1739124531"
+			"buildid" "17321283"
+			"timeupdated" "1739285612"
 		}
-		"macos-arm64"
+		"macos-universal-test"
 		{
-			"buildid" "17299153"
-			"description" "MacOS-arm64"
-			"timeupdated" "1739124659"
-		}
-		"windows11test"
-		{
-			"buildid" "17297615"
-			"description" "WIN11测试版"
-			"timeupdated" "1739104512"
+			"buildid" "17315573"
+			"description" "MacOS-universal-TEST"
+			"timeupdated" "1739241914"
 		}
 		"windows7compatibility"
 		{
-			"buildid" "17299151"
+			"buildid" "17322917"
 			"description" "WIN7旧版本"
-			"timeupdated" "1739124640"
+			"timeupdated" "1739285837"
+		}
+		"windows11test"
+		{
+			"buildid" "17317847"
+			"description" "WIN11测试版"
+			"timeupdated" "1739259564"
+		}
+		"macos-arm64"
+		{
+			"buildid" "17322898"
+			"description" "MacOS-arm64"
+			"timeupdated" "1739285767"
 		}
 	}
 	"privatebranches" "1"
@@ -448,6 +467,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27389529"
-"_sha" "2ee5ce3e5536f02c7cc5ebf5ed23e6dc61a32902"
-"_size" "9440"
+"_change_number" "27422739"
+"_sha" "9ae5d2ccf655a415696cb008935730fc42d158bb"
+"_size" "9856"
