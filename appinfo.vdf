@@ -1,0 +1,256 @@
+"appid" "2635120"
+"common"
+{
+	"name" "Birch Simulator"
+	"type" "Game"
+	"name_localized"
+	{
+		"russian" "СИМУЛЯТОР СИБИРСКОЙ БЕРЕЗЫ"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "9937e9fc4d1db0da490941026a8ff8062666f556"
+	"clienttga" "21f5537546abe9f987c17d0688bd6e96f267d751"
+	"icon" "f69884729a5e7398237006819c1b79af72df499c"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1720742400"
+		"tested_build_id" "13474269"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"russian" "capsule_231x87_russian.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"russian" "header_russian.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ru,en"
+		"library_hero" "en"
+		"library_logo" "ru,en"
+		"library_header" "ru,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"russian" "library_600x900_russian.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"russian" "library_600x900_russian_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"russian" "logo_russian.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"russian" "logo_russian_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"russian" "library_header_russian.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1708076083"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Performance Artist"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Performance Artist"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698941423"
+	"community_hub_visible" "1"
+	"gameid" "2635120"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "30358"
+		"2" "597"
+		"3" "10235"
+		"4" "9204"
+		"5" "1697"
+		"6" "4191"
+		"7" "4166"
+		"8" "21"
+		"9" "1719"
+		"10" "3834"
+		"11" "19"
+		"12" "122"
+		"13" "4305"
+		"14" "4747"
+		"15" "1695"
+		"16" "10397"
+		"17" "29482"
+		"18" "5608"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Performance Artist"
+	"publisher" "Performance Artist"
+}
+"config"
+{
+	"installdir" "Birch Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Birch Simulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2635121"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "414050348176243898"
+				"size" "8654814739"
+				"download" "4504266848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13474269"
+			"timeupdated" "1708076565"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26437845"
+"_sha" "24d35590663a85ce722b070fb4f1d824fa735ebd"
+"_size" "4488"
