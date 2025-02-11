@@ -86,7 +86,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727714254"
+	"store_asset_mtime" "1739297071"
 	"associations"
 	{
 		"0"
@@ -187,6 +187,14 @@
 		{
 			"supported" "true"
 		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1727275812"
 	"community_visible_stats" "1"
@@ -194,11 +202,11 @@
 	"gameid" "2400770"
 	"store_tags"
 	{
-		"0" "1645"
-		"1" "12472"
+		"0" "12472"
+		"1" "1645"
 		"2" "1720"
-		"3" "9"
-		"4" "1684"
+		"3" "1684"
+		"4" "9"
 		"5" "4695"
 		"6" "599"
 		"7" "4711"
@@ -216,7 +224,7 @@
 		"19" "4726"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -248,24 +256,15 @@
 		{
 			"public"
 			{
-				"gid" "5474551516121674645"
-				"size" "908165585"
-				"download" "164900912"
+				"gid" "5563296919848479666"
+				"size" "1411748135"
+				"download" "293157168"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"closed-beta"
+			"open-beta"
 			{
-				"gid" "BF29F18D2944AF00D47C014E11005CB3"
-				"size" "05044047E91554E96AA3F998DB43997C"
-				"download" "B97254B3DCB0006C0AF83138D3329600"
-			}
-			"testing"
-			{
-				"gid" "4344E9C5123592D802AB09B709A1F5DB"
-				"size" "BD2BE603F7A08E633FC8EB55A89572F1"
-				"download" "13F610496A54012336BA301C04DDD261"
+				"gid" "6227919000725990711"
+				"size" "1411467447"
+				"download" "293157296"
 			}
 		}
 	}
@@ -280,28 +279,29 @@
 				"size" "32029709"
 				"download" "31876432"
 			}
+			"open-beta"
+			{
+				"gid" "3437469253914081200"
+				"size" "32029709"
+				"download" "31876432"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16124190"
-			"timeupdated" "1729524116"
+			"buildid" "17325112"
+			"timeupdated" "1739296267"
 		}
-		"closed-beta"
+		"open-beta"
 		{
-			"buildid" "16124037"
-			"pwdrequired" "1"
-			"timeupdated" "1729523385"
-		}
-		"testing"
-		{
-			"buildid" "15794700"
-			"pwdrequired" "1"
-			"timeupdated" "1727095340"
+			"buildid" "16999629"
+			"description" "Public beta branch - May contain bugs!"
+			"timeupdated" "1736858232"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -319,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25822500"
-"_sha" "d8c25d516fd029e6e80459803bd3104df5010163"
-"_size" "5013"
+"_change_number" "27425277"
+"_sha" "345cea630e93acadf7d9c57d844f60a5b70255f5"
+"_size" "4910"
