@@ -249,7 +249,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1712757291"
+	"steam_release_date" "1712757240"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1284190"
@@ -257,17 +257,17 @@
 	{
 		"0" "1100689"
 		"1" "7332"
-		"2" "3843"
-		"3" "1662"
+		"2" "1662"
+		"3" "3843"
 		"4" "1685"
 		"5" "1643"
 		"6" "1702"
 		"7" "1695"
 		"8" "3834"
 		"9" "1755"
-		"10" "3810"
-		"11" "3839"
-		"12" "255534"
+		"10" "255534"
+		"11" "3810"
+		"12" "3839"
 		"13" "3942"
 		"14" "4182"
 		"15" "8945"
@@ -312,24 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "5236058317155850553"
-				"size" "7407872186"
-				"download" "3368157840"
+				"gid" "7643170043700596609"
+				"size" "4156446762"
+				"download" "2604001792"
 			}
 			"development"
 			{
-				"gid" "5236058317155850553"
-				"size" "7407872186"
-				"download" "3368157840"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "7053EEAA18D35884F0EF20899CB289E1"
-				"size" "0CD132588F9CF018AE3C8E0D53864BD2"
-				"download" "28DF6047F6B1FB7A23B40CC8B8251D0E"
+				"gid" "7643170043700596609"
+				"size" "4156446762"
+				"download" "2604001792"
 			}
 		}
 	}
@@ -337,22 +328,17 @@
 	{
 		"public"
 		{
-			"buildid" "16775409"
-			"timeupdated" "1734516984"
+			"buildid" "17319109"
+			"timeupdated" "1739268860"
 		}
 		"development"
 		{
-			"buildid" "16775409"
+			"buildid" "17319109"
 			"description" "Dev branch. This is a work in progress branch. May contains bugs & broken features. May affect or corrupt save files.."
-			"timeupdated" "1734516936"
-		}
-		"internal"
-		{
-			"buildid" "16775409"
-			"pwdrequired" "1"
-			"timeupdated" "1734451041"
+			"timeupdated" "1739268117"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -383,6 +369,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26692846"
-"_sha" "f82ffbb47751bcaeb0f77ea41cf67a91960f911f"
-"_size" "7151"
+"_change_number" "27417675"
+"_sha" "9895755acfde1925c1422b36cfe2cc02564c40ae"
+"_size" "6863"
