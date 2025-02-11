@@ -212,11 +212,11 @@
 		"9" "3871"
 		"10" "4667"
 		"11" "21"
-		"12" "11014"
-		"13" "5611"
+		"12" "5611"
+		"13" "11014"
 		"14" "1698"
-		"15" "4085"
-		"16" "4726"
+		"15" "4726"
+		"16" "4085"
 		"17" "1756"
 		"18" "493"
 		"19" "492"
@@ -269,30 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "217842501280390089"
-				"size" "3859625015"
-				"download" "3531806624"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"blogers"
-			{
-				"gid" "C383783F0328ADC6FEDE51654C3B5B20"
-				"size" "6546D6790309FBE45CB3E22373F2CAEE"
-				"download" "ADC42FA8016D25A9E137329798873FAC"
-			}
-			"test2"
-			{
-				"gid" "CD5FD4129FEFE3A98655AD3C4B710AD1"
-				"size" "812EB231C2AFA873A9F679463AB16409"
-				"download" "4BDDAA46CEFE99ADCD2F870B09243832"
-			}
-			"testers"
-			{
-				"gid" "747C0845C17BEA8FCBF9374612C949C4"
-				"size" "B4AE6A15B45CEBF49E13D67AE0473E3D"
-				"download" "7B3A9528343DBAE0D22C5A38C3AEA505"
+				"gid" "7127804939833328922"
+				"size" "3935068601"
+				"download" "3557670528"
 			}
 		}
 	}
@@ -300,30 +279,13 @@
 	{
 		"public"
 		{
-			"buildid" "16473475"
-			"timeupdated" "1732114255"
-		}
-		"blogers"
-		{
-			"buildid" "11355600"
-			"pwdrequired" "1"
-			"timeupdated" "1685499981"
-		}
-		"test2"
-		{
-			"buildid" "11355600"
-			"pwdrequired" "1"
-			"timeupdated" "1685499969"
-		}
-		"testers"
-		{
-			"buildid" "16473475"
-			"pwdrequired" "1"
-			"timeupdated" "1732112648"
+			"buildid" "17314007"
+			"timeupdated" "1739269863"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26281615"
-"_sha" "900b1f18a23292fe0952f004558dbe8c3e73526f"
-"_size" "6054"
+"_change_number" "27417918"
+"_sha" "552e9fe81ac279d2b7768a6c122263177e6815ef"
+"_size" "5219"
