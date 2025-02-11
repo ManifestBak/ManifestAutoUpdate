@@ -276,8 +276,8 @@
 		"18" "4145"
 		"19" "4562"
 	}
-	"review_score" "7"
-	"review_percentage" "93"
+	"review_score" "8"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -286,7 +286,7 @@
 	"developer" "Exalted Studio"
 	"publisher" "Dear Villagers"
 	"homepage" "https://bighelmetheroesgame.com/"
-	"listofdlc" "3417620"
+	"listofdlc" "3417620,3493570"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -297,10 +297,7 @@
 		"0"
 		{
 			"executable" "BigHelmetHeroes.exe"
-			"config"
-			{
-				"betakey" "partners"
-			}
+			"type" "default"
 		}
 		"1"
 		{
@@ -325,6 +322,21 @@
 			{
 				"betakey" "playtest"
 			}
+		}
+		"4"
+		{
+			"executable" "BHH - Coloring Book\\LaunchColoringBook.bat"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "kstmptest"
+				"ownsdlc" "3493570"
+			}
+			"description_loc"
+			{
+				"english" "the Coloring Book"
+			}
+			"description" "the Coloring Book"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -379,13 +391,22 @@
 	"3493570"
 	{
 		"dlcappid" "3493570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2571773669524191876"
+				"size" "52189416"
+				"download" "46769216"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17224573"
-			"timeupdated" "1738590659"
+			"buildid" "17283000"
+			"timeupdated" "1738948374"
 		}
 	}
 	"privatebranches" "1"
@@ -411,6 +432,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27350661"
-"_sha" "1709a290f4b768396fa2e00dca3345547fe4dd00"
-"_size" "6957"
+"_change_number" "27417083"
+"_sha" "dcf49a5a6cf658f3c1935a811391f6e2e0d224a3"
+"_size" "7362"
