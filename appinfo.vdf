@@ -40,6 +40,11 @@
 			"type" "publisher"
 			"name" "Qunee"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "DodgeShow"
+		}
 	}
 	"primary_genre" "23"
 	"genres"
@@ -82,7 +87,7 @@
 {
 	"developer" "Qunee"
 	"publisher" "Qunee"
-	"listofdlc" "3492000"
+	"listofdlc" "3492000,3500500"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -115,9 +120,9 @@
 		{
 			"public"
 			{
-				"gid" "789495628030923822"
-				"size" "289094259"
-				"download" "187259536"
+				"gid" "4402907140865931025"
+				"size" "289119091"
+				"download" "187223488"
 			}
 		}
 	}
@@ -125,8 +130,8 @@
 	{
 		"public"
 		{
-			"buildid" "17261517"
-			"timeupdated" "1738816972"
+			"buildid" "17324644"
+			"timeupdated" "1739293776"
 		}
 	}
 }
@@ -147,6 +152,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27338723"
-"_sha" "8f33eedf85c73543ffc2178d1387fc66f8dae547"
-"_size" "2384"
+"_change_number" "27424885"
+"_sha" "8bde41f0d67197815efcf3b337a215c8db1e239b"
+"_size" "2458"
