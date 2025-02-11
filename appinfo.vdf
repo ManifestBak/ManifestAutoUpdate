@@ -45,7 +45,7 @@
 	"type" "Game"
 	"osarch" ""
 	"osextended" ""
-	"timeline_marker_updated" "1732403908"
+	"timeline_marker_updated" "1737137267"
 	"timeline_marker_svg" "ebea7de6e6ce132f4c24b698f70f1d87e0b979e1/markers.svg"
 	"content_descriptors"
 	{
@@ -235,80 +235,143 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"french"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"german"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"schinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"tchinese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"dutch"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"danish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"finnish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"japanese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"norwegian"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"polish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"portuguese"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"swedish"
 		{
 			"supported" "true"
+			"subtitles" "true"
 		}
 		"thai"
 		{
 			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1100592000"
@@ -470,15 +533,15 @@
 		{
 			"public"
 			{
-				"gid" "5341507048774783651"
-				"size" "3219809668"
-				"download" "1906425216"
+				"gid" "1561513099212714715"
+				"size" "3219792682"
+				"download" "1906365344"
 			}
 			"beta"
 			{
-				"gid" "5341507048774783651"
-				"size" "3219809668"
-				"download" "1906425216"
+				"gid" "1561513099212714715"
+				"size" "3219792682"
+				"download" "1906365344"
 			}
 			"previous"
 			{
@@ -491,15 +554,6 @@
 				"gid" "139290177754532669"
 				"size" "2942466811"
 				"download" "1745902272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "1B91A0C99AF50B91CFEA4F76EE0C3296"
-				"size" "7C244289E9816D3D20032626259B83FB"
-				"download" "E8A7A9E9FFEF1B6B75E82BE3C62E2315"
 			}
 		}
 	}
@@ -533,15 +587,6 @@
 				"download" "944"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "61A9CE38FDDAE3281E0CB3A27F6ABA8D"
-				"size" "DB19E01D6374BBD127EADD665F5637EF"
-				"download" "C515936880087F3EEB63824947A3A31F"
-			}
-		}
 	}
 	"221"
 	{
@@ -550,15 +595,15 @@
 		{
 			"public"
 			{
-				"gid" "44432101604462279"
-				"size" "5435904733"
-				"download" "2751447856"
+				"gid" "5134805552204684547"
+				"size" "5435925141"
+				"download" "2751394880"
 			}
 			"beta"
 			{
-				"gid" "44432101604462279"
-				"size" "5435904733"
-				"download" "2751447856"
+				"gid" "5134805552204684547"
+				"size" "5435925141"
+				"download" "2751394880"
 			}
 			"previous"
 			{
@@ -573,15 +618,6 @@
 				"download" "2097118976"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "8CA9077758D25A40AF4A4FBE34DB2E41"
-				"size" "2A4163EED125EF546B54D00CDAF1F57B"
-				"download" "BCE389CF4A12B21A97E95D719E7559EA"
-			}
-		}
 	}
 	"222"
 	{
@@ -594,15 +630,15 @@
 		{
 			"public"
 			{
-				"gid" "6593276330719242083"
+				"gid" "194313754385176324"
 				"size" "333423538"
-				"download" "205507808"
+				"download" "205507488"
 			}
 			"beta"
 			{
-				"gid" "6593276330719242083"
+				"gid" "194313754385176324"
 				"size" "333423538"
-				"download" "205507808"
+				"download" "205507488"
 			}
 			"previous"
 			{
@@ -617,15 +653,6 @@
 				"download" "64016576"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "03A6EC38B5A0083AF5854FA6678AC516"
-				"size" "62982F5CE2061DC52135213B87E3A2FF"
-				"download" "4E20BA81AA83EFDDEFFD9CBACEEBDA2A"
-			}
-		}
 	}
 	"223"
 	{
@@ -638,15 +665,15 @@
 		{
 			"public"
 			{
-				"gid" "4550847972062813378"
+				"gid" "3374361253717799"
 				"size" "313246388"
-				"download" "181300832"
+				"download" "181297520"
 			}
 			"beta"
 			{
-				"gid" "4550847972062813378"
+				"gid" "3374361253717799"
 				"size" "313246388"
-				"download" "181300832"
+				"download" "181297520"
 			}
 			"previous"
 			{
@@ -661,15 +688,6 @@
 				"download" "36020848"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "C35D22CDEF490B212999670E3879AB1F"
-				"size" "DD76AEF211689DEFFC9631B06FA81039"
-				"download" "17412A3D71F98FE97F4956FB3B95D677"
-			}
-		}
 	}
 	"224"
 	{
@@ -682,15 +700,15 @@
 		{
 			"public"
 			{
-				"gid" "4249846673673068496"
+				"gid" "4926268356299689385"
 				"size" "336987213"
-				"download" "194430208"
+				"download" "194426480"
 			}
 			"beta"
 			{
-				"gid" "4249846673673068496"
+				"gid" "4926268356299689385"
 				"size" "336987213"
-				"download" "194430208"
+				"download" "194426480"
 			}
 			"previous"
 			{
@@ -703,15 +721,6 @@
 				"gid" "5699984820642974318"
 				"size" "142488759"
 				"download" "52997488"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "F63D5DA08291E8D4D12DD5EAF6712A69"
-				"size" "199D878E5CC8171675CED99BF8A9A337"
-				"download" "882F514BD8E29B716C4D8788C52B6DD8"
 			}
 		}
 	}
@@ -748,15 +757,6 @@
 				"download" "706746416"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "78858AC1317CCB7216AB87777E48A861"
-				"size" "03C91FEF0502D736687FCBE3497242E9"
-				"download" "7820EE8C82A3C5AEA0173CEBBB4CC99F"
-			}
-		}
 	}
 	"226"
 	{
@@ -789,15 +789,6 @@
 				"gid" "2714357289061426116"
 				"size" "767863769"
 				"download" "658763808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "3D5F721B7584BD4F91469A29DE698554"
-				"size" "B276015F3D57B2463993D7A04E84817D"
-				"download" "758B8F798E5BCED34D00492AE9C2F86F"
 			}
 		}
 	}
@@ -834,15 +825,6 @@
 				"download" "646144000"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "708DBA7AEDFB1D0B9522AA11167CAD9D"
-				"size" "B663F17F8F48016652C16AB426685E04"
-				"download" "B609D45E033EAE76A03781D1E2CF097C"
-			}
-		}
 	}
 	"228"
 	{
@@ -875,15 +857,6 @@
 				"gid" "6436857496404272512"
 				"size" "768779276"
 				"download" "652717808"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "F5D9B717D1F52911F827A9220869147A"
-				"size" "4164FA09ABEF5277908E3B91DF205857"
-				"download" "7CF42345C49525D2B675D4B58EABB462"
 			}
 		}
 	}
@@ -920,15 +893,6 @@
 				"download" "616690080"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "7B75C0F999D02DD99436CB37C2704C55"
-				"size" "BF245F528EDC2484833FE2B4F14DD416"
-				"download" "943D72040DB82BD56A00BF1AF003040E"
-			}
-		}
 	}
 	"230"
 	{
@@ -961,15 +925,6 @@
 				"gid" "6084315296130989856"
 				"size" "720479895"
 				"download" "611625920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "327DCAED93FEEE9B09D9669132B65297"
-				"size" "06AADC8CFD55B693A5687967FF0EFFAF"
-				"download" "4B6F0D98B4CCFFCA7662729525C23F57"
 			}
 		}
 	}
@@ -1006,15 +961,6 @@
 				"download" "652136960"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "3E1CF0923B8FB823C3A36C8C1546AD2B"
-				"size" "0021CC366A73FECE5EB0771E419072DD"
-				"download" "F4F0616F4FE2755DE54559621DB7F359"
-			}
-		}
 	}
 	"232"
 	{
@@ -1047,15 +993,6 @@
 				"gid" "5674666767121162923"
 				"size" "768973777"
 				"download" "661302656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "B8ADEA19C63C76BCAE20B900BBC3408A"
-				"size" "FEFE49480CEC9EADBBF75073A28B0781"
-				"download" "0FE36B75F94E7FF98B8577B5AF2588DB"
 			}
 		}
 	}
@@ -1267,14 +1204,14 @@
 	{
 		"public"
 		{
-			"buildid" "16557524"
-			"timeupdated" "1732741319"
+			"buildid" "17324696"
+			"timeupdated" "1739299468"
 		}
 		"beta"
 		{
-			"buildid" "16557524"
+			"buildid" "17324696"
 			"description" "Beta updates"
-			"timeupdated" "1732738982"
+			"timeupdated" "1739294098"
 		}
 		"previous"
 		{
@@ -1288,13 +1225,8 @@
 			"description" "Pre-20th Anniversary Build"
 			"timeupdated" "1731706655"
 		}
-		"test"
-		{
-			"buildid" "16557524"
-			"pwdrequired" "1"
-			"timeupdated" "1732738969"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -1329,6 +1261,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26394014"
-"_sha" "2a09fca12818e81b282861af21fc1bb760572f65"
-"_size" "22942"
+"_change_number" "27425834"
+"_sha" "5ad7824daf024e739c01f2cbc1fcb3f6ca022844"
+"_size" "21080"
