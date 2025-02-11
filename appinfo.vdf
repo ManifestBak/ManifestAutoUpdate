@@ -338,6 +338,12 @@
 		{
 			"public"
 			{
+				"gid" "6883021880931072884"
+				"size" "12703390866"
+				"download" "6578295840"
+			}
+			"old_default"
+			{
 				"gid" "3091859177688674493"
 				"size" "12703380943"
 				"download" "6578307936"
@@ -350,9 +356,9 @@
 			}
 			"public_testing"
 			{
-				"gid" "3091859177688674493"
-				"size" "12703380943"
-				"download" "6578307936"
+				"gid" "6883021880931072884"
+				"size" "12703390866"
+				"download" "6578295840"
 			}
 			"v0.137.1"
 			{
@@ -397,99 +403,6 @@
 				"download" "6581138480"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"intro_testing"
-			{
-				"gid" "B303036C77C94BAFB6EF3D604A88CDD0"
-				"size" "F4717EF223B8E7A8C9CB65ED6623C9C5"
-				"download" "C8B63336ABD0728A12FD485844EDBC29"
-			}
-			"light_test"
-			{
-				"gid" "4569F6A82577E3932BD190ED155AF27C"
-				"size" "4388A1C9CDA2C15BC30A071FF2057B6F"
-				"download" "DC9BB4026B96187E07E63980CE61BBBD"
-			}
-			"old_intro"
-			{
-				"gid" "B648FEC3603DB5F162A9C586304B2129"
-				"size" "71C9FCED3FCA7F2298525E6F5A131D61"
-				"download" "D33DB8FA1146BEDBAEEA4A5CE7564DDF"
-			}
-			"stable_testing"
-			{
-				"gid" "FB8966AEDACDFEC6A824AE438C04AA69"
-				"size" "AD9EF729090EA1CE8DFF3CDBAE96913B"
-				"download" "7437C1666C95D0CDAE1AE2B3F77EA410"
-			}
-			"stream"
-			{
-				"gid" "E74E9021EE2F8486B32C3B64AF1DFAE7"
-				"size" "EFB5576446A3D94EE4D71A3EB606394C"
-				"download" "8A9BE694433036C11B7DAD0FB5088E71"
-			}
-			"alpha_master"
-			{
-				"gid" "61A389217533CF26D6C58B04D71E801C"
-				"size" "EB883ACA223A5BE821ADE5DBF3DE8D4B"
-				"download" "0DACE8B3BB68A06883186B4BECBB5FCB"
-			}
-			"coop_testing"
-			{
-				"gid" "F779C7D0CB88C9CD1CD2C0F0E1FCB5CD"
-				"size" "EB9AFA95BA3B82391551059918490514"
-				"download" "36AD483C8B517EE8B4B62A3AA6F71D62"
-			}
-			"deep_profiler_testing"
-			{
-				"gid" "7B8BA0A9E631744CA6FAC2DA1EBB7782"
-				"size" "85086A7AC449B26F71BA2D05027C27A4"
-				"download" "535584772D4F25AB2051DCB604CC4FC6"
-			}
-			"external_testing"
-			{
-				"gid" "15E1E612A03342C56CD561BA8B67544C"
-				"size" "7DAFBE2660588534D61C912CE46FFF63"
-				"download" "347D88B7BE26DB4C142F17A224D36D62"
-			}
-			"internal_testing"
-			{
-				"gid" "71507DCAFAE459D7936EAB186293F59A"
-				"size" "0646C1DDE794D15E7268800BFF039EC4"
-				"download" "8EE0E80ADD01FC4EDF1AA97C162C0A3A"
-			}
-			"profiler_testing"
-			{
-				"gid" "B42D6C004FE51CD8BE298459CF88FCE9"
-				"size" "511209168CABA9EDBB8BCC815B7C5AE5"
-				"download" "6C43F150A25E1D7A104BBBE003730E68"
-			}
-			"rc_testing"
-			{
-				"gid" "A8C1E1E03130B1EA399D9E08B1F502A4"
-				"size" "0434322E903ACE7CF07B415D33DA5198"
-				"download" "102D3EB36A06129863820B6338875033"
-			}
-			"vehicle_testing"
-			{
-				"gid" "5006E77EFECECDE6B49A8FE7EC5B836C"
-				"size" "B23643D2D88441C484CD60463F37AAE6"
-				"download" "1B4C3CA6107E2407560DF8CA27886B16"
-			}
-			"vip_coop_testing"
-			{
-				"gid" "FCA7F410DE19146426739072E0AE805D"
-				"size" "664531F27989C87BC45DA0900FC5DC25"
-				"download" "586A7F62C9F7E64D0D706AAEBABBC0E4"
-			}
-			"vip_testing"
-			{
-				"gid" "9535737E43ABE4D7387EDA8C4C23B73F"
-				"size" "4914BF90E8D036A04F5765F3DDAA4E3E"
-				"download" "0161109C1502D78730E24C7B3C5C0D1B"
-			}
-		}
 	}
 	"1187390"
 	{
@@ -503,83 +416,20 @@
 				"download" "2810330528"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internal_testing"
-			{
-				"gid" "9D6841417EC0142F3DA985DBE58692BF"
-				"size" "5F2390B9FE80BE6EE49E71FD356995CD"
-				"download" "EBA40913F05366F8A608571E38E674AE"
-			}
-		}
 		"depotfromapp" "1187390"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16937785"
-			"timeupdated" "1736629539"
+			"buildid" "17094315"
+			"timeupdated" "1739272102"
 		}
-		"intro_testing"
-		{
-			"buildid" "11183852"
-			"pwdrequired" "1"
-			"timeupdated" "1683583697"
-		}
-		"light_test"
-		{
-			"buildid" "11340952"
-			"pwdrequired" "1"
-			"timeupdated" "1685354168"
-		}
-		"old_intro"
-		{
-			"buildid" "6416521"
-			"pwdrequired" "1"
-			"timeupdated" "1616374684"
-		}
-		"stable_testing"
-		{
-			"buildid" "11358744"
-			"pwdrequired" "1"
-			"timeupdated" "1693714176"
-		}
-		"stream"
-		{
-			"buildid" "12658841"
-			"pwdrequired" "1"
-			"timeupdated" "1701950291"
-		}
-		"alpha_master"
+		"old_default"
 		{
 			"buildid" "16937785"
-			"pwdrequired" "1"
-			"timeupdated" "1736327671"
-		}
-		"coop_testing"
-		{
-			"buildid" "16960852"
-			"pwdrequired" "1"
-			"timeupdated" "1736491895"
-		}
-		"deep_profiler_testing"
-		{
-			"buildid" "16462706"
-			"pwdrequired" "1"
-			"timeupdated" "1732051151"
-		}
-		"external_testing"
-		{
-			"buildid" "16205652"
-			"pwdrequired" "1"
-			"timeupdated" "1730387584"
-		}
-		"internal_testing"
-		{
-			"buildid" "16882405"
-			"pwdrequired" "1"
-			"timeupdated" "1735805975"
+			"description" "previous default build"
+			"timeupdated" "1739272072"
 		}
 		"previous"
 		{
@@ -587,23 +437,11 @@
 			"description" "v0.160.2 - Last before Anniversary"
 			"timeupdated" "1725296022"
 		}
-		"profiler_testing"
-		{
-			"buildid" "16464123"
-			"pwdrequired" "1"
-			"timeupdated" "1732051286"
-		}
 		"public_testing"
 		{
-			"buildid" "16937785"
+			"buildid" "17094315"
 			"description" "Public Test Version"
-			"timeupdated" "1736515237"
-		}
-		"rc_testing"
-		{
-			"buildid" "16205652"
-			"pwdrequired" "1"
-			"timeupdated" "1730117974"
+			"timeupdated" "1738613659"
 		}
 		"v0.137.1"
 		{
@@ -647,25 +485,8 @@
 			"description" "#4 Winter Update - Christmas 2024"
 			"timeupdated" "1735045076"
 		}
-		"vehicle_testing"
-		{
-			"buildid" "16774223"
-			"pwdrequired" "1"
-			"timeupdated" "1734445113"
-		}
-		"vip_coop_testing"
-		{
-			"buildid" "16960852"
-			"pwdrequired" "1"
-			"timeupdated" "1736523251"
-		}
-		"vip_testing"
-		{
-			"buildid" "16937785"
-			"pwdrequired" "1"
-			"timeupdated" "1736515253"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -717,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26957453"
-"_sha" "c94b1625d7860e814766c2a7cb7b9dcd96d722a4"
-"_size" "14126"
+"_change_number" "27418464"
+"_sha" "0dd850ec31ffec15be3b7ef8777074769e35619d"
+"_size" "9813"
