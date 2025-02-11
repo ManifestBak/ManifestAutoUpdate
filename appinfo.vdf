@@ -176,11 +176,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"russian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"schinese"
 		{
 			"supported" "true"
@@ -210,8 +205,8 @@
 		"8" "5923"
 		"9" "5379"
 		"10" "4191"
-		"11" "1720"
-		"12" "3959"
+		"11" "3959"
+		"12" "1720"
 		"13" "4166"
 		"14" "1759"
 		"15" "4252"
@@ -220,6 +215,8 @@
 		"18" "1684"
 		"19" "4182"
 	}
+	"review_score" "8"
+	"review_percentage" "93"
 }
 "extended"
 {
@@ -254,9 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "358135638097376135"
-				"size" "4086287508"
-				"download" "3004598048"
+				"gid" "8720091694602650975"
+				"size" "4086683039"
+				"download" "3004408048"
 			}
 		}
 	}
@@ -264,8 +261,8 @@
 	{
 		"public"
 		{
-			"buildid" "17174346"
-			"timeupdated" "1738172652"
+			"buildid" "17308615"
+			"timeupdated" "1739271851"
 		}
 	}
 	"privatebranches" "1"
@@ -289,6 +286,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27222026"
-"_sha" "cce3c14d96c4dbdb01864ff170407f56d375a1e6"
-"_size" "4951"
+"_change_number" "27418399"
+"_sha" "e63a621bb2a08f3fe8d97696b3706d34aed0684e"
+"_size" "4931"
