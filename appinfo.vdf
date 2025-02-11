@@ -1,0 +1,100 @@
+"appid" "2540390"
+"common"
+{
+	"name" "Tower! Simulator 3 - KAUS Airport"
+	"type" "DLC"
+	"parent" "2176130"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1726433613"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "FeelThere"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "FeelThere "
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1690969806"
+	"gameid" "2540390"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "597"
+		"2" "599"
+	}
+}
+"extended"
+{
+	"dlcforappid" "2176130"
+	"mustownapptopurchase" "2176130"
+	"developer" "FeelThere"
+	"publisher" "FeelThere "
+	"homepage" "https://www.feelthere.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2540390"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1139923492340221140"
+				"size" "962916790"
+				"download" "410774192"
+			}
+		}
+		"dlcappid" "2540390"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16316599"
+			"timeupdated" "1730967654"
+		}
+	}
+}
