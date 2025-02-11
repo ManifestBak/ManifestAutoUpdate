@@ -220,14 +220,14 @@
 		"12" "7481"
 		"13" "5379"
 		"14" "1625"
-		"15" "1734"
-		"16" "3878"
+		"15" "3878"
+		"16" "1734"
 		"17" "4305"
 		"18" "5310"
 		"19" "597"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -311,15 +311,15 @@
 		{
 			"public"
 			{
-				"gid" "8791463324800720048"
-				"size" "2794894994"
-				"download" "2459713424"
+				"gid" "3835442619149445908"
+				"size" "2794988327"
+				"download" "2459844976"
 			}
 			"previous_version"
 			{
-				"gid" "3956148228710415352"
-				"size" "2748019898"
-				"download" "2423438096"
+				"gid" "8791463324800720048"
+				"size" "2794894994"
+				"download" "2459713424"
 			}
 		}
 	}
@@ -327,14 +327,14 @@
 	{
 		"public"
 		{
-			"buildid" "17256122"
-			"timeupdated" "1738784208"
+			"buildid" "17323601"
+			"timeupdated" "1739298536"
 		}
 		"previous_version"
 		{
-			"buildid" "17173682"
+			"buildid" "17256122"
 			"description" "The previously live version of the game. Use this to access invalid replays"
-			"timeupdated" "1738691796"
+			"timeupdated" "1739298513"
 		}
 	}
 	"privatebranches" "1"
@@ -358,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27332282"
-"_sha" "1de3e44071fe083a06698acbc27f841c3b63508f"
+"_change_number" "27425632"
+"_sha" "6bd0373c3e877d797b39c2726503f265d9213097"
 "_size" "6545"
