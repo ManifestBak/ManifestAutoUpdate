@@ -56,6 +56,7 @@
 			}
 		}
 	}
+	"store_screenshot" "ss_a25d1881de1c8b7c2239a35cc1d6cce276be17af.jpg"
 	"store_asset_mtime" "1632145763"
 	"associations"
 	{
@@ -164,9 +165,9 @@
 	{
 		"0" "597"
 		"1" "599"
-		"2" "21"
-		"3" "4486"
-		"4" "4747"
+		"2" "4747"
+		"3" "21"
+		"4" "4486"
 		"5" "9551"
 		"6" "10235"
 	}
@@ -194,15 +195,6 @@
 				"download" "67130176"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "4A6B721998E1BEF4C6E45CFB52DCC270"
-				"size" "20943B4C92399DA1360A297C8F148498"
-				"download" "FCF518E02C367F32FB312B221A4587F5"
-			}
-		}
 	}
 	"1537180"
 	{
@@ -217,15 +209,6 @@
 				"gid" "7605052263895637658"
 				"size" "461"
 				"download" "400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "D4595C0898624471DE2FE1537E83810F"
-				"size" "02195ABC8A3037CBA6891941CD598A77"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
 			}
 		}
 		"dlcappid" "1458152"
@@ -245,15 +228,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "79AF099F7AB37B6600FA5B6DA6584D63"
-				"size" "35F2F4E159D11AE6AFA47B2C52765150"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537182"
@@ -269,15 +243,6 @@
 				"gid" "6500035700890860593"
 				"size" "478"
 				"download" "416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "15E76F1D15E92F848CF926CE521BA464"
-				"size" "3987F312DC1475E21049628EA96019C4"
-				"download" "7DA84144B77977019BF39E8F787E59A1"
 			}
 		}
 		"dlcappid" "1458152"
@@ -297,15 +262,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "07E1C12605CD5EF92AE6B1EF5D11BCE0"
-				"size" "60B13BF18A45DAA610F1A05EE76F938D"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537184"
@@ -321,15 +277,6 @@
 				"gid" "3874298487968293308"
 				"size" "473"
 				"download" "416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "131AA8C245C39083B860B708A7BC4342"
-				"size" "781631DA2661E1A8A1513E0488A8B9BE"
-				"download" "7DA84144B77977019BF39E8F787E59A1"
 			}
 		}
 		"dlcappid" "1458152"
@@ -349,15 +296,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "54E86D770FFC95EC1DEAB93D87B9A26E"
-				"size" "43E3ECDED30BB4C2C3C1B6CACD7A6B47"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537186"
@@ -373,15 +311,6 @@
 				"gid" "7079531201266068702"
 				"size" "442"
 				"download" "384"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "3DC84A8F61607C313B012F35E052F14D"
-				"size" "8C1B1CC0C8B297F7FA0ED69B6474D8DF"
-				"download" "10DB2097A417A1E992B32808817132E1"
 			}
 		}
 		"dlcappid" "1458152"
@@ -401,15 +330,6 @@
 				"download" "384"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "189FB3CA067B4C6ED3F9429E273EFE9B"
-				"size" "8C1B1CC0C8B297F7FA0ED69B6474D8DF"
-				"download" "10DB2097A417A1E992B32808817132E1"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537188"
@@ -425,15 +345,6 @@
 				"gid" "1798109752741105394"
 				"size" "522"
 				"download" "480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "A594A52D22BCEC73EB07C53DDF560508"
-				"size" "A7B79F4E78172C49A691F2394FA51C5B"
-				"download" "09BA9CDC1D158359FAFF317E05419A28"
 			}
 		}
 		"dlcappid" "1458152"
@@ -453,15 +364,6 @@
 				"download" "416"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "CEB34D6E4F383E4C21D079C963853D9F"
-				"size" "848219DB18F814392DC87C12A8B82E4C"
-				"download" "7DA84144B77977019BF39E8F787E59A1"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537190"
@@ -477,15 +379,6 @@
 				"gid" "761684628497610066"
 				"size" "465"
 				"download" "400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "2F3AEA86CD07BDEBA620645252167350"
-				"size" "F6B5A2524ACC67EBBA7019BE6DF845AF"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
 			}
 		}
 		"dlcappid" "1458152"
@@ -505,15 +398,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "CFA5CF9536CD9C8F8410FC925A5A4443"
-				"size" "3ABFF5B74A370C43611FA6945615C41C"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537192"
@@ -529,15 +413,6 @@
 				"gid" "9052101709154199926"
 				"size" "468"
 				"download" "400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "C1BA5B343B9505643A77FCDD84C42FAC"
-				"size" "52F6A9CA454ABAE540083A4D117B0AB7"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
 			}
 		}
 		"dlcappid" "1458152"
@@ -557,15 +432,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "9EE9B528A2AF22A8F2985FC613526B5D"
-				"size" "3ABFF5B74A370C43611FA6945615C41C"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537194"
@@ -581,15 +447,6 @@
 				"gid" "5032166772500320191"
 				"size" "469"
 				"download" "400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "F6B71A6A8CB37A66A4F0B146B32EE47C"
-				"size" "3ABFF5B74A370C43611FA6945615C41C"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
 			}
 		}
 		"dlcappid" "1458152"
@@ -609,15 +466,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "2B76461CB254523ABD9600D889A65727"
-				"size" "02195ABC8A3037CBA6891941CD598A77"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"1537196"
@@ -633,15 +481,6 @@
 				"gid" "8364807158749026324"
 				"size" "477"
 				"download" "416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "911EB4C5587616AFAA7ECAC456D18207"
-				"size" "CC055C7A4A9C7F2C2AEFF700EE556969"
-				"download" "7DA84144B77977019BF39E8F787E59A1"
 			}
 		}
 		"dlcappid" "1458152"
@@ -661,15 +500,6 @@
 				"download" "400"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "09121C8D5F30A00E5D246FE1955C0EAA"
-				"size" "3ABFF5B74A370C43611FA6945615C41C"
-				"download" "27A563C16316EA5378A3D0218D4B9732"
-			}
-		}
 		"dlcappid" "1458152"
 	}
 	"branches"
@@ -679,11 +509,10 @@
 			"buildid" "7318278"
 			"timeupdated" "1631030850"
 		}
-		"eacc"
-		{
-			"buildid" "7318278"
-			"pwdrequired" "1"
-			"timeupdated" "1631030377"
-		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26915709"
+"_sha" "6db06b6d302b0b131e0e2aba46561af6418a39ff"
+"_size" "7650"
