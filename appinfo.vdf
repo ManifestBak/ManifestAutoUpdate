@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725970092"
+	"store_asset_mtime" "1726045056"
 	"associations"
 	{
 		"0"
@@ -249,8 +249,8 @@
 		"3" "10383"
 		"4" "12472"
 		"5" "9"
-		"6" "1643"
-		"7" "4695"
+		"6" "4695"
+		"7" "1643"
 		"8" "8945"
 		"9" "5125"
 		"10" "1669"
@@ -265,7 +265,7 @@
 		"19" "4791"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -380,57 +380,6 @@
 				"download" "2287458960"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"lockit"
-			{
-				"gid" "8FA773036E41F2F3E6B7E6BA6139360B"
-				"size" "F3E643B144C947350829D410AAEDB2FB"
-				"download" "86615D9E2A24BF65E87DEA1BC44F0B41"
-			}
-			"preview"
-			{
-				"gid" "5FE677BFE0F0E31DC7CC7F2E696C4CB3"
-				"size" "CDF12651E636BAE2EA010D4E8D539E5F"
-				"download" "E696EC0C45CE1BCEDA3D55F26581EB68"
-			}
-			"usability"
-			{
-				"gid" "DFE92F28AFADC481BD66BC7230E9A271"
-				"size" "3A9E490949D599DA136217A1E4DBE368"
-				"download" "F5D06E6E07487F7C39EE9BD151E49D35"
-			}
-			"early"
-			{
-				"gid" "EC66DF65BDF3B1BB17C2C97C999A1643"
-				"size" "25515088556FEA49541F606E499F6331"
-				"download" "093FB0A8B7502B50440DACFE41BDCA8D"
-			}
-			"ernestas"
-			{
-				"gid" "9CFE3FCC089A581B47B9C1C66687E6C3"
-				"size" "FE0F2B2FD3DDB6DEFBB55DDD2B0D29C4"
-				"download" "E3771F0626996A15F72A8DAFBAB88021"
-			}
-			"qa_stable"
-			{
-				"gid" "A2C056BC705514C41F398056E737CAB8"
-				"size" "72AAE8BD9737A41A1FA1C0B9DA90A0B9"
-				"download" "85A11C9F0E7656D53C6E80E211694D5C"
-			}
-			"qa_test"
-			{
-				"gid" "DE370AB8CA51E07CAB8C0ACCCD8CEB6E"
-				"size" "D45770B851D66E224654E1CEFADE41EF"
-				"download" "F8D5CDDCD4523AFEA85ADAC736742791"
-			}
-			"trailer"
-			{
-				"gid" "0DDD170044443AC43B68BA8DC27EEC42"
-				"size" "03AFBEAE455804C75D56D8D81F35193C"
-				"download" "27417ED34A0D889CEB066B9296BF07B0"
-			}
-		}
 	}
 	"1612772"
 	{
@@ -457,27 +406,6 @@
 				"download" "487518992"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"ernestas"
-			{
-				"gid" "27B27F8C0877324436864016AE3701F3"
-				"size" "AAC0323DDB6D69C6F4B672D48D4E26DA"
-				"download" "A99537C0A77428FB85418F3CA4BE4AC7"
-			}
-			"qa_test"
-			{
-				"gid" "254B58BD5776ACFD9494AE5408713A84"
-				"size" "5CBA1D58A0C43D514BDB1FC5B94FA9E3"
-				"download" "62A3922291A4028AAEF1270AE5F8D4AC"
-			}
-			"trailer"
-			{
-				"gid" "E4387196D4887857AAFE21CA206ADCDE"
-				"size" "272955A16BD6815FD5D3B0BC6C9037D9"
-				"download" "9657BC8B51AB73178B55DCCBA40DC216"
-			}
-		}
 	}
 	"branches"
 	{
@@ -485,24 +413,6 @@
 		{
 			"buildid" "15431212"
 			"timeupdated" "1725972973"
-		}
-		"lockit"
-		{
-			"buildid" "14084027"
-			"pwdrequired" "1"
-			"timeupdated" "1713364259"
-		}
-		"preview"
-		{
-			"buildid" "11726184"
-			"pwdrequired" "1"
-			"timeupdated" "1690292028"
-		}
-		"usability"
-		{
-			"buildid" "10028247"
-			"pwdrequired" "1"
-			"timeupdated" "1669644808"
 		}
 		"v.0.2"
 		{
@@ -528,43 +438,14 @@
 			"description" "Sweet Transit v.0.5"
 			"timeupdated" "1700635649"
 		}
-		"early"
-		{
-			"buildid" "15431211"
-			"pwdrequired" "1"
-			"timeupdated" "1724141582"
-		}
-		"ernestas"
-		{
-			"buildid" "15431212"
-			"pwdrequired" "1"
-			"timeupdated" "1724141531"
-		}
 		"experimental"
 		{
 			"buildid" "15431211"
 			"description" "Experimental branch."
 			"timeupdated" "1724141671"
 		}
-		"qa_stable"
-		{
-			"buildid" "14177130"
-			"pwdrequired" "1"
-			"timeupdated" "1714074164"
-		}
-		"qa_test"
-		{
-			"buildid" "15431212"
-			"pwdrequired" "1"
-			"timeupdated" "1724141560"
-		}
-		"trailer"
-		{
-			"buildid" "15431212"
-			"pwdrequired" "1"
-			"timeupdated" "1724141572"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -601,6 +482,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25157301"
-"_sha" "6fddbabe60d12f10ea883701ae468fcd4300da89"
-"_size" "11307"
+"_change_number" "26845279"
+"_sha" "8b26b08f514e511436c87d362eae5e4a00b85f1b"
+"_size" "8524"
