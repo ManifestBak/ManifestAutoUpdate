@@ -1,0 +1,226 @@
+"appid" "1059460"
+"common"
+{
+	"name" "Drunken Fist"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "87ca0ea93aee6ea8ee4d7bdb4b97ea841aa67637"
+	"logo_small" "87ca0ea93aee6ea8ee4d7bdb4b97ea841aa67637_thumb"
+	"icon" "07d84300cecf98aafb6ce8e8f4911883757b65f6"
+	"clienttga" "32d8684cb4c09c5444560ab235a0a2b249e71ed4"
+	"clienticon" "bfacab8aa0e80fd32edb6913ed3ae1376ceed579"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"metacritic_name" "Drunken Fist 🍺👊 Totally Accurate Beat \'em up"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1567137600"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DEKLAZON"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DEKLAZON"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_33" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1566791512"
+	"community_hub_visible" "1"
+	"gameid" "1059460"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "599"
+		"2" "492"
+		"3" "21"
+		"4" "597"
+		"5" "1743"
+		"6" "3968"
+		"7" "4136"
+		"8" "1719"
+		"9" "4158"
+		"10" "4182"
+		"11" "4667"
+		"12" "14906"
+		"13" "1697"
+		"14" "4191"
+		"15" "5228"
+		"16" "6506"
+		"17" "12190"
+		"18" "1646"
+		"19" "4094"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "DEKLAZON"
+	"publisher" "DEKLAZON"
+	"homepage" "https://www.indiedb.com/games/drunken-fist"
+}
+"config"
+{
+	"installdir" "Drunken Fist"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DrunkenFist422.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1059461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4542667820020785045"
+				"size" "699350685"
+				"download" "657425200"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4168346"
+			"timeupdated" "1567657291"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26823341"
+"_sha" "588999ea7c613d8d3f070c3719305326ffbc7f26"
+"_size" "3497"
