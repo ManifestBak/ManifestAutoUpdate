@@ -129,6 +129,7 @@
 		"category_38" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -159,6 +160,7 @@
 		}
 	}
 	"steam_release_date" "1732200257"
+	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2647680"
@@ -225,15 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "8445418918379879768"
-				"size" "5966448917"
-				"download" "5076423408"
-			}
-			"beta"
-			{
-				"gid" "6306254758930719663"
-				"size" "5908256187"
-				"download" "5014287296"
+				"gid" "6417907038247636941"
+				"size" "5964093447"
+				"download" "5074144656"
 			}
 		}
 	}
@@ -243,15 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "3911002022817368988"
-				"size" "3506019"
-				"download" "1263216"
-			}
-			"beta"
-			{
-				"gid" "5410507241103057542"
-				"size" "3469357"
-				"download" "1230560"
+				"gid" "3626055475531087235"
+				"size" "3509488"
+				"download" "1264608"
 			}
 		}
 	}
@@ -260,14 +250,8 @@
 	{
 		"public"
 		{
-			"buildid" "17025398"
-			"timeupdated" "1737037930"
-		}
-		"beta"
-		{
-			"buildid" "16785855"
-			"description" "Open Beta"
-			"timeupdated" "1734544136"
+			"buildid" "17199577"
+			"timeupdated" "1739290754"
 		}
 	}
 	"privatebranches" "1"
@@ -288,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27026481"
-"_sha" "c9dfe88dfa18cca31fcd2d9a6067aa8f86535c6b"
-"_size" "4452"
+"_change_number" "27423655"
+"_sha" "88c571768e83100bebc3db140884a4e3cd2d0dae"
+"_size" "4178"
