@@ -1,0 +1,291 @@
+"appid" "1729140"
+"common"
+{
+	"name" "Hired 2 Die"
+	"type" "Game"
+	"logo" "0e407c03fe88db6466868dc56c66d2fd0265a5d2"
+	"logo_small" "0e407c03fe88db6466868dc56c66d2fd0265a5d2_thumb"
+	"icon" "b271f095271e737d9d650235c46ff666ce440544"
+	"clienttga" "7cb5e0d6297afe8e548e50dbb71855ac368b73eb"
+	"clienticon" "1d2b23b0ea89e90fbdeb66129ba6a473c39ccf1f"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Hired 2 Die 雇佣受死"
+		"tchinese" "Hired 2 Die 雇佣受死"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "b7f790fcf31fe51514738e91fdda4eb88a09ac71/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.124854142357094"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.124854142357094"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738953163"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Electric Monkeys"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electric Monkeys"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hired 2 Die"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738335616"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1729140"
+	"store_tags"
+	{
+		"0" "6730"
+		"1" "599"
+		"2" "16689"
+		"3" "1667"
+		"4" "3843"
+		"5" "1721"
+		"6" "3859"
+		"7" "3978"
+		"8" "1685"
+		"9" "3839"
+		"10" "4064"
+		"11" "4342"
+		"12" "4026"
+		"13" "4166"
+		"14" "4182"
+		"15" "1662"
+		"16" "1664"
+		"17" "4191"
+		"18" "19"
+		"19" "5716"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Electric Monkeys"
+	"publisher" "Electric Monkeys"
+	"homepage" "https://hired2die.com/"
+}
+"config"
+{
+	"installdir" "Hired2Die"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hired2Die.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"1729141"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "713978057063069359"
+				"size" "2689326702"
+				"download" "1385621152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17308913"
+			"timeupdated" "1739202626"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Electric Monkeys\\Hired2Die\\{64BitSteamID}\\"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27405455"
+"_sha" "0df20ef9ac88e68c836650b602c4ab424fcb7c44"
+"_size" "4642"
