@@ -96,6 +96,40 @@
 			"height_pct" "47.34029921633814"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.58139534883722"
+				"height_pct" "47.34029921633814"
+			}
+		}
+	}
 	"store_asset_mtime" "1683635732"
 	"associations"
 	{
@@ -186,7 +220,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -226,36 +260,15 @@
 		{
 			"public"
 			{
-				"gid" "7449725159787617921"
-				"size" "572626587"
-				"download" "422752176"
+				"gid" "3645561968852218197"
+				"size" "573066161"
+				"download" "423312400"
 			}
 			"external"
 			{
-				"gid" "7449725159787617921"
-				"size" "572626587"
-				"download" "422752176"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external_debug"
-			{
-				"gid" "73B143F086D39B64AB5C4FD1D17C9492"
-				"size" "8037C9DC2C47DE49610FBD73F39E9D8E"
-				"download" "D33C0C447995C495DF8F3B124092D56C"
-			}
-			"internal"
-			{
-				"gid" "46B5E981C1F801C58E1F9D73EAD1531B"
-				"size" "B217C39879A8A29D9F806207A64CF2AF"
-				"download" "9F261B27545AE45C7866AEFA46A9AF71"
-			}
-			"internal_default"
-			{
-				"gid" "802CBAF63BEA87EB0E3778B41E070A6A"
-				"size" "07E72AFEEF28C95720FFBB86E791960E"
-				"download" "83CC96A19F8E7E2BE199F18FB6278D6D"
+				"gid" "3645561968852218197"
+				"size" "573066161"
+				"download" "423312400"
 			}
 		}
 	}
@@ -263,34 +276,17 @@
 	{
 		"public"
 		{
-			"buildid" "13951867"
-			"timeupdated" "1712249353"
+			"buildid" "17325273"
+			"timeupdated" "1739297760"
 		}
 		"external"
 		{
-			"buildid" "13951867"
+			"buildid" "17325273"
 			"description" "Beta Branch No Debug"
-			"timeupdated" "1712249368"
-		}
-		"external_debug"
-		{
-			"buildid" "11271784"
-			"pwdrequired" "1"
-			"timeupdated" "1684500933"
-		}
-		"internal"
-		{
-			"buildid" "11271745"
-			"pwdrequired" "1"
-			"timeupdated" "1684500917"
-		}
-		"internal_default"
-		{
-			"buildid" "13951867"
-			"pwdrequired" "1"
-			"timeupdated" "1712248927"
+			"timeupdated" "1739297776"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -310,3 +306,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27425441"
+"_sha" "8ce54aecbc858255550de4d68707caebc27dda9e"
+"_size" "5401"
