@@ -253,8 +253,8 @@
 		"1" "1100687"
 		"2" "21"
 		"3" "3859"
-		"4" "3834"
-		"5" "1644"
+		"4" "1644"
+		"5" "3834"
 		"6" "4175"
 		"7" "3810"
 		"8" "1695"
@@ -278,7 +278,7 @@
 	"developer" "Saber Interactive"
 	"publisher" "Focus Entertainment"
 	"homepage" "https://community.focus-entmt.com/focus-entertainment/snow-runner\?utm_source=Steam&amp;utm_medium=StorePage_SR&amp;utm_campaign=Organic"
-	"listofdlc" "1533000,1533001,1533002,1533003,1533004,1533005,1533006,1533007,1533008,1533009,1533010,1533011,1585810,1585811,1585812,1585813,1585814,1585815,1585816,1613110,1613111,1785850,1838500,2058880,2058881,2154170,2154171,2154172,2154173,2154174,2353720,2353721,2353722,2353723,2709430,2709450,2709460,2856380,3023640"
+	"listofdlc" "1533000,1533001,1533002,1533003,1533004,1533005,1533006,1533007,1533008,1533009,1533010,1533011,1585810,1585811,1585812,1585813,1585814,1585815,1585816,1613110,1613111,1785850,1838500,2058880,2058881,2154170,2154171,2154172,2154173,2154174,2353720,2353721,2353722,2353723,2709430,2709450,2709460,2856380,3023640,3398280"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -341,78 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "1443109229902374327"
-				"size" "59208807878"
-				"download" "40508738528"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"fhi_crossplay"
-			{
-				"gid" "1497B0F02577970BB68F821DCF5A39CF"
-				"size" "5F54000110CB3BEF4DF98DDD569973CA"
-				"download" "1587FB2588FF36CFD4A5550B01529371"
-			}
-			"fhi_perfectw"
-			{
-				"gid" "C127F3095BB65EEC45D05523F7D90C36"
-				"size" "2911C83DAAB649C9B8930C34D2CFDA9E"
-				"download" "98ACD998640E90DB41232D53B8DAA72C"
-			}
-			"sbr_fhi_crossplay"
-			{
-				"gid" "9CA1B4BCB7FC09307893C5736127F238"
-				"size" "0DA7945A8CEAA7A89640067EDD7DC746"
-				"download" "30BB092178AFB0A80C1ABE545428EF72"
-			}
-			"sbr_mac"
-			{
-				"gid" "DDDF75FF82B6AF83F9C433F9538BDA77"
-				"size" "9A058A446F69C9CC0D9E1A0D8A6A2F66"
-				"download" "7C88FA80C51B4CA21CD11B06D66D80CC"
-			}
-			"external_review"
-			{
-				"gid" "DAF353006AE82C283904F1BA6A72BE01"
-				"size" "DEB8F46806F7E44206F02FF0ACB7665B"
-				"download" "3E83FBCCC0ACB1697A0C65542BCF9D2C"
-			}
-			"sbr_dev_internal"
-			{
-				"gid" "51C088E1E28D24E61DFA8DD305AC6714"
-				"size" "9D3C04753F4C38D10FCBCE58B6B29342"
-				"download" "9967A97E41A69F82909559EE239F4750"
-			}
-			"sbr_fhi"
-			{
-				"gid" "CBE5D3CD599B3AFA8474D65DAB21B67D"
-				"size" "953A8B72A36BA92ACCFBB031C83F0F9D"
-				"download" "8A8EE8CF3B7C467838F11FE0A1555DC0"
-			}
-			"sbr_fhi_dev"
-			{
-				"gid" "FE13260CF51466CC3A24C00985FA67BA"
-				"size" "8CFF257A6F45F5CB921FBEBB2FD63094"
-				"download" "72564CDBBF941634BC11221F57D00F64"
-			}
-			"sbr_mac_test"
-			{
-				"gid" "1912A61C53B29B75A1FD3B96AF9E6C73"
-				"size" "4190A6730CDAA58B589B71F3ED465CC5"
-				"download" "3DCBFB9BB456755C29F33D61F80A2FD0"
-			}
-			"sbr_qa_dev"
-			{
-				"gid" "72C1683E5470669364472199CE0EA524"
-				"size" "D728E6FB8765590E59096B51DE3B944A"
-				"download" "525E110B330C185F1A22457F47AB64F6"
-			}
-			"sbr_qa_retail"
-			{
-				"gid" "02C702EC57E9B0D91D95BCFAD309BF96"
-				"size" "4280DBC1B3E5EB02EA5D478CE51AFBF1"
-				"download" "4319CA10717561190C6FA7EF460F07C0"
+				"gid" "3074634988615009723"
+				"size" "59635786848"
+				"download" "40838871632"
 			}
 		}
 	}
@@ -427,36 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "8614800827593524894"
-				"size" "47162324100"
-				"download" "30631167712"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"sbr_mac"
-			{
-				"gid" "183D1D70F49EDF69A3C6A68E2855741B"
-				"size" "EB3876780B4C07BB8D4CF796CA3131D8"
-				"download" "7B66DE58BA71660F43C84970DEA84A8D"
-			}
-			"external_review"
-			{
-				"gid" "ADC4EFB56F8AADCAD5BA849640BC15B5"
-				"size" "8DE830BD933C65196D8D11B1FA587780"
-				"download" "865680264EBDCCCFE29E541BFC4F0D0D"
-			}
-			"sbr_fhi"
-			{
-				"gid" "BF009E976FFB9B0CF02D736575D5657A"
-				"size" "5ECF4E0ACD0A5705AC17EBE3BD317BAB"
-				"download" "5551D473CBFCFA646CFC87CC554C1064"
-			}
-			"sbr_mac_test"
-			{
-				"gid" "C173DDD18EFBF1C4FAF92727DA8F89C9"
-				"size" "98299120B4A6C94FAF51F1FF1BF94ED6"
-				"download" "F67A4D695F75640789AE2D0C1F4BB841"
+				"gid" "2191546956134620463"
+				"size" "47504980804"
+				"download" "30910114128"
 			}
 		}
 	}
@@ -464,76 +368,11 @@
 	{
 		"public"
 		{
-			"buildid" "16487109"
-			"timeupdated" "1733219866"
-		}
-		"fhi_crossplay"
-		{
-			"buildid" "7075879"
-			"pwdrequired" "1"
-			"timeupdated" "1627031675"
-		}
-		"fhi_perfectw"
-		{
-			"buildid" "6247634"
-			"pwdrequired" "1"
-			"timeupdated" "1613661085"
-		}
-		"sbr_fhi_crossplay"
-		{
-			"buildid" "8658078"
-			"pwdrequired" "1"
-			"timeupdated" "1653904926"
-		}
-		"sbr_mac"
-		{
-			"buildid" "11296181"
-			"pwdrequired" "1"
-			"timeupdated" "1684838529"
-		}
-		"external_review"
-		{
-			"buildid" "16552379"
-			"pwdrequired" "1"
-			"timeupdated" "1732711651"
-		}
-		"sbr_dev_internal"
-		{
-			"buildid" "16691035"
-			"pwdrequired" "1"
-			"timeupdated" "1733819991"
-		}
-		"sbr_fhi"
-		{
-			"buildid" "16487109"
-			"pwdrequired" "1"
-			"timeupdated" "1732197025"
-		}
-		"sbr_fhi_dev"
-		{
-			"buildid" "16455544"
-			"pwdrequired" "1"
-			"timeupdated" "1732004843"
-		}
-		"sbr_mac_test"
-		{
-			"buildid" "16473926"
-			"pwdrequired" "1"
-			"timeupdated" "1732114597"
-		}
-		"sbr_qa_dev"
-		{
-			"buildid" "16731801"
-			"pwdrequired" "1"
-			"timeupdated" "1734073911"
-		}
-		"sbr_qa_retail"
-		{
-			"buildid" "16639952"
-			"pwdrequired" "1"
-			"timeupdated" "1733384376"
+			"buildid" "17146780"
+			"timeupdated" "1739267535"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -541,6 +380,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "26624822"
-"_sha" "e76f0fcae20fdc7a3784de70303bebfe1043859b"
-"_size" "10764"
+"_change_number" "27417376"
+"_sha" "d30294fa8c7b965525ec2597efc0e52c6d44b8f1"
+"_size" "6868"
