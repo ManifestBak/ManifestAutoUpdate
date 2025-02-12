@@ -238,15 +238,15 @@
 		"0" "599"
 		"1" "12472"
 		"2" "4695"
-		"3" "9204"
-		"4" "4182"
+		"3" "4182"
+		"4" "9204"
 		"5" "4202"
 		"6" "4236"
 		"7" "3839"
 		"8" "1654"
 		"9" "8945"
-		"10" "1644"
-		"11" "4845"
+		"10" "4845"
+		"11" "1644"
 		"12" "3810"
 		"13" "4191"
 		"14" "4175"
@@ -360,6 +360,21 @@
 			}
 			"description" "DirectX 11"
 		}
+		"3"
+		{
+			"executable" "StorageHunter.exe"
+			"arguments" "-vulkan"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Vulkan"
+			}
+			"description" "Vulkan"
+		}
 	}
 }
 "depots"
@@ -420,9 +435,9 @@
 		{
 			"public"
 			{
-				"gid" "1779900892022999424"
-				"size" "10994506717"
-				"download" "8746473392"
+				"gid" "433101281143034929"
+				"size" "11119523695"
+				"download" "8865679424"
 			}
 		}
 	}
@@ -430,8 +445,8 @@
 	{
 		"public"
 		{
-			"buildid" "17169174"
-			"timeupdated" "1738162342"
+			"buildid" "17335849"
+			"timeupdated" "1739363425"
 		}
 	}
 	"privatebranches" "1"
@@ -551,6 +566,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27219540"
-"_sha" "d314fa239acfce37157302de8bc329d0f9755d15"
-"_size" "11370"
+"_change_number" "27439006"
+"_sha" "bc89f1d78cc1d12085fec4fd88676b18bb4ab33c"
+"_size" "11610"
