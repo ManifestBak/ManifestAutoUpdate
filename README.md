@@ -1,30 +1,36 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-13 00:25:14
+## 更新时间：2025-02-13 02:26:55
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1074280 | Oirbo| Game |
-| 1161830 | 重铸纪元：自由地| Game |
-| 1570330 | 西部对决 (West Hunt)| Game |
-| 1691190 | Rogue Waters| Game |
-| 1829370 | Death Horizon: Reloaded| Game |
-| 1942280 | 土豆兄弟(Brotato)| Game |
-| 1926520 | Ambulance Life: A Paramedic Simulator| Game |
-| 1989070 | 奇星协力 (Synergy)| Game |
-| 2004640 | Svarog's Dream| Game |
-| 2109270 | Preserve| Game |
-| 2224640 | Artisan TD| Game |
-| 2206270 | 吸血鬼猎人| Game |
-| 2190220 | 东方弹幕神乐 失落幻想| Game |
-| 2343930 | Eyes Of War| Game |
-| 2447350 | 帶我去地下城吧！！ - 美術設定集| DLC |
-| 2654540 | 無休仙途/EndlessJourney| Game |
-| 2608350 | 救国少女之斯娜静歌:Sentinel Girls2| Game |
-| 2598800 | 灵能哨卫：无限| Game |
+| 1239080 | 破门而入2：北方特遣队| Game |
+| 1298480 | Kardboard Kings| Game |
+| 1270580 | 超灵秘法社| Game |
+| 1305260 | SteamDolls - Order Of Chaos| Game |
+| 1714900 | 《矮人元祖》 (First Dwarf)| Game |
+| 1551360 | 极限竞速：地平线 5| Game |
+| 1933820 | SGS Korean War| Game |
+| 2073250 | Rift of the NecroDancer| Game |
+| 2094070 | Quest Master| Game |
+| 1940340 | Darkest Dungeon® II| Game |
+| 2458560 | 癫狂动物园 Zoochosis| Game |
+| 2458830 | Towerborne| Game |
+| 2501650 | Electrogical| Game |
 | 2418520 | Farm Together 2| Game |
-| 2776780 | 吸血鬼酒吧大亨| Game |
-| 2730530 | 协律01：新生活| Game |
-| 2708790 | Together After Dark| Game |
-| 450860 | Andarilho| Game |
-| 743650 | Quake Champions PTS| Game |
-| 882250 | Metro Sim Hustle| Game |
+| 1938090 | 使命召唤®| Game |
+| 2604480 | 城市交通模拟：电车| Game |
+| 2756920 | Keep Driving| Game |
+| 2814950 | 摸鱼爬爬| Game |
+| 2834600 | 我的小小人生| Game |
+| 251570 | 7 Days to Die| Game |
+| 3093590 | Kemopop!| Game |
+| 294420 | 7 Days to Die Dedicated Server| Tool |
+| 3314070 | 《The Sims™ 2》经典合集| Game |
+| 3314060 | 《The Sims™》经典合集| Game |
+| 322330 | 饥荒联机版| Game |
+| 343050 | Don't Starve Together Dedicated Server| Tool |
+| 393380 | Squad| Game |
+| 403240 | Squad Dedicated Server| Tool |
+| 573090 | Stormworks: Build and Rescue| Game |
+| 615530 | Love, Money, Rock'n'Roll| Game |
+| 688540 | ZOMBIE RAID: No One Survives| Game |
