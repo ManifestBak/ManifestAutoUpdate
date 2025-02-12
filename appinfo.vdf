@@ -255,8 +255,8 @@
 		"13" "1663"
 		"14" "4345"
 		"15" "1734"
-		"16" "7948"
-		"17" "4004"
+		"16" "4004"
+		"17" "7948"
 		"18" "4667"
 		"19" "1667"
 	}
@@ -295,90 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "801074246923907781"
-				"size" "10868183041"
-				"download" "6388218560"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "AD07A070303CBFAAAA01AAA758C015F2"
-				"size" "087DC587302D0222DED04193D9354D06"
-				"download" "70AB321957D6DAE0CB6E992A6D3C9375"
-			}
-			"debug"
-			{
-				"gid" "FC03149F076D65271D3CD4FB25DB97B6"
-				"size" "D2B0544D2DD78C4C51CDFD4815B7A56A"
-				"download" "1256C71AE27575541B25D2F57B695508"
-			}
-			"experimental"
-			{
-				"gid" "9C34BDC39B7DEC50333E8A8B41445DD7"
-				"size" "6126D7C7DD138082B82C3961B98E16BD"
-				"download" "07100D30624C12DE02D70A88B4A7872C"
-			}
-			"expo"
-			{
-				"gid" "0D80DEA8CA4BE2B2C4C9DB125CCE090E"
-				"size" "89FFDDD91E63308A403B546F1A818794"
-				"download" "41A17AAADA3AF648E312DF2D5E79F85C"
-			}
-			"laststable"
-			{
-				"gid" "F8536751669EBFE9C6EB8DBD6D79424D"
-				"size" "CDCFE89B3DAD93B0A40D40D307E0A5D1"
-				"download" "72EFF13E8049D12EBA8EEDCEE240CDE1"
-			}
-			"marketing"
-			{
-				"gid" "F7405EBD2EE5AEFE9D1C15665AD213B1"
-				"size" "82A6A4B70A46A6C0C1545E91971A69B2"
-				"download" "711587F03D009FDD25F75221B6867DA9"
-			}
-			"press"
-			{
-				"gid" "33C0A443A525F43B3CF9DCE5E6840D9C"
-				"size" "6C8B2B0A6955802CE6402F21A1F3EDAF"
-				"download" "0EC067B15A7FDAC61796007A89602BB0"
-			}
-			"shipping"
-			{
-				"gid" "372641BE78AC9496D017CCDFABB40A15"
-				"size" "1E4B6FD515298566539E3BF8EEACA2FE"
-				"download" "46B8EF3CBD4FC69C97541299B110D6E0"
-			}
-			"ludeo_playtest"
-			{
-				"gid" "5FE8E511005633F38104920D2988BEE1"
-				"size" "7CB52A424FB846425EB5E75AC6302764"
-				"download" "19493B4F0ACCBB3DFFF4D5DDAF5F5FC9"
-			}
-			"ludeodevinternal"
-			{
-				"gid" "BA2D68942D38D23AC6EF8B9F7687F9E0"
-				"size" "3A1381ED2D1F6228CFBDF9F6F8C31BB9"
-				"download" "0C93CD6AF780B330F640157506B07487"
-			}
-			"ludeodevsandbox"
-			{
-				"gid" "3FE5D9174A0DBDC1509F9B920D330F62"
-				"size" "C2B97FBF8FF01A446F5F11190693821C"
-				"download" "0BCE12C4563DEB572DE46654A7C7C16C"
-			}
-			"ludeoeditor"
-			{
-				"gid" "13E5BAD71FA31ADB0F3ECC44DBEF89EF"
-				"size" "BAA94093DEF57B1FFBFF965E49A9EB07"
-				"download" "1D164C05172FCCA9B3D366828DC0946C"
-			}
-			"testing"
-			{
-				"gid" "4D5FF7C58745519AE8C2DC4FFE15DF84"
-				"size" "00DFA7E4220409F7612C647090FC7E74"
-				"download" "20E3CC80767D0D137796FB123DA39410"
+				"gid" "1070601230426694520"
+				"size" "10937572026"
+				"download" "6380273648"
 			}
 		}
 	}
@@ -394,88 +313,11 @@
 	{
 		"public"
 		{
-			"buildid" "13157329"
-			"timeupdated" "1705417761"
-		}
-		"beta"
-		{
-			"buildid" "6337927"
-			"pwdrequired" "1"
-			"timeupdated" "1685101538"
-		}
-		"debug"
-		{
-			"buildid" "13136804"
-			"pwdrequired" "1"
-			"timeupdated" "1704893282"
-		}
-		"experimental"
-		{
-			"buildid" "12214756"
-			"pwdrequired" "1"
-			"timeupdated" "1695032593"
-		}
-		"expo"
-		{
-			"buildid" "9658931"
-			"pwdrequired" "1"
-			"timeupdated" "1664974491"
-		}
-		"laststable"
-		{
-			"buildid" "13116176"
-			"pwdrequired" "1"
-			"timeupdated" "1705067492"
-		}
-		"marketing"
-		{
-			"buildid" "9870988"
-			"pwdrequired" "1"
-			"timeupdated" "1681733383"
-		}
-		"press"
-		{
-			"buildid" "8868317"
-			"pwdrequired" "1"
-			"timeupdated" "1681733418"
-		}
-		"shipping"
-		{
-			"buildid" "12214756"
-			"pwdrequired" "1"
-			"timeupdated" "1695045011"
-		}
-		"ludeo_playtest"
-		{
-			"buildid" "15354938"
-			"pwdrequired" "1"
-			"timeupdated" "1723553094"
-		}
-		"ludeodevinternal"
-		{
-			"buildid" "15112726"
-			"pwdrequired" "1"
-			"timeupdated" "1721659349"
-		}
-		"ludeodevsandbox"
-		{
-			"buildid" "15354938"
-			"pwdrequired" "1"
-			"timeupdated" "1723553084"
-		}
-		"ludeoeditor"
-		{
-			"buildid" "14440130"
-			"pwdrequired" "1"
-			"timeupdated" "1716457764"
-		}
-		"testing"
-		{
-			"buildid" "14505908"
-			"pwdrequired" "1"
-			"timeupdated" "1716805247"
+			"buildid" "17305480"
+			"timeupdated" "1739355407"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -495,3 +337,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27436997"
+"_sha" "478c5f7564066fd9071a11157e8e6004e304db09"
+"_size" "5999"
