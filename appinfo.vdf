@@ -8,8 +8,8 @@
 	"osarch" ""
 	"osextended" "macos64,macosapplesilicon"
 	"icon" "155b66a41ef76819af27b3a915ae51ca1e1c5c71"
-	"clienttga" "a2c2d55887aa64f7270ca78c8af41e359fed9e63"
-	"clienticon" "959e2c7de2b8b76809fea6193757ee1fd7dabe10"
+	"clienttga" "2ef8ac884c45dd2ac24c3f14f389fc5bb48b4c91"
+	"clienticon" "b1c3e4c9d8472433039ca3d4c1cea22589311994"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -249,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "1769066233570474918"
-				"size" "905003491"
-				"download" "250384672"
+				"gid" "756821012018014349"
+				"size" "905188763"
+				"download" "250434784"
 			}
 			"1.0.0-rebooted"
 			{
@@ -283,9 +283,9 @@
 		{
 			"public"
 			{
-				"gid" "84678467029438513"
-				"size" "930847557"
-				"download" "258237216"
+				"gid" "5260630096469396638"
+				"size" "931032829"
+				"download" "258291312"
 			}
 			"1.0.0-rebooted"
 			{
@@ -312,8 +312,8 @@
 	{
 		"public"
 		{
-			"buildid" "17134224"
-			"timeupdated" "1737863055"
+			"buildid" "17331492"
+			"timeupdated" "1739339497"
 		}
 		"1.0.0-rebooted"
 		{
@@ -342,6 +342,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "27168874"
-"_sha" "740839e10a8bc1371805d1897b3292695951f5c4"
-"_size" "6303"
+"_change_number" "27433254"
+"_sha" "ce2556e1cba186a46acedf88f432b2cbe4f274a3"
+"_size" "6304"
