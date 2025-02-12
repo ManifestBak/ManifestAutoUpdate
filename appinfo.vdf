@@ -8,9 +8,25 @@
 	"osarch" ""
 	"clienticon" "28a6ec1ce583ec1c1ab3465d6d8afd03f02538d3"
 	"clienttga" "93f3f4b134921667ebbf13909536d9a0a904a278"
-	"icon" "afeb2e9c8535165995784a86d7013199b865dd63"
+	"icon" "b713f392caa0d311d311f2f1419d091420d2d1a4"
 	"logo" "05b9a08a3c0fb9a58b9a9b30b48d56c2f821ab4b"
 	"logo_small" "05b9a08a3c0fb9a58b9a9b30b48d56c2f821ab4b_thumb"
+	"name_localized"
+	{
+		"koreana" "Dinkum(딩컴)"
+		"schinese" "Dinkum(金垦小镇)"
+		"tchinese" "Dinkum(金墾小鎮)"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1062520_eula_0"
+			"name" "Dinkum EULA"
+			"url" "https://store.steampowered.com//eula/1062520_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -308,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "2699738967037162288"
-				"size" "3087729419"
-				"download" "808559552"
+				"gid" "6483361911292843673"
+				"size" "3087729379"
+				"download" "808559184"
 			}
 		}
 	}
@@ -318,8 +334,8 @@
 	{
 		"public"
 		{
-			"buildid" "17277026"
-			"timeupdated" "1739325637"
+			"buildid" "17330350"
+			"timeupdated" "1739334123"
 		}
 	}
 	"privatebranches" "1"
@@ -355,6 +371,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27431038"
-"_sha" "b441ff7ec90639a32ebf6bd8eba2c95a0cf15ebc"
-"_size" "6469"
+"_change_number" "27432486"
+"_sha" "78d66f2c38c2eaff110042a8410b48bfe8d75b63"
+"_size" "6775"
