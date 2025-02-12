@@ -38,6 +38,35 @@
 		"0" "2"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1735084800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -216,9 +245,10 @@
 		"7" "4667"
 		"8" "4182"
 		"9" "4345"
+		"10" "29482"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -499,6 +529,17 @@
 			}
 			"description" "Steam OpenXR Mode (Steam Link Compatible)"
 		}
+		"26"
+		{
+			"executable" "BHM.exe"
+			"arguments" "-steam -hmd=OculusXRHMD"
+			"type" "vr"
+			"description_loc"
+			{
+				"english" "Meta XR Mode (No Theater Mode)"
+			}
+			"description" "Meta XR Mode (No Theater Mode)"
+		}
 	}
 	"uselaunchcommandline" "1"
 }
@@ -528,138 +569,9 @@
 		{
 			"public"
 			{
-				"gid" "7966165927197543695"
-				"size" "48562134776"
-				"download" "45836867936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha_shipping"
-			{
-				"gid" "94DC6504383739038F334047EC416F2F"
-				"size" "55906F5209DAB866EC176D76CA199453"
-				"download" "72AF410EBA614E1DB7C03CAC29640DF0"
-			}
-			"alpha_test"
-			{
-				"gid" "41E7BC27114C80512A182D4AC1162FA9"
-				"size" "1D0E2DE28A7353214D2D945FBC8DA0A9"
-				"download" "CC19204A5AEA6C24D31B199AC3A81519"
-			}
-			"early_preview_test"
-			{
-				"gid" "67CD958AD2BC836117A93B0F5EFCE889"
-				"size" "8EE403ECCF189403C38B4C5B5BDF0978"
-				"download" "32981B5971C272A42571B22C7C4E22FF"
-			}
-			"external_marketing_test"
-			{
-				"gid" "2EAAE41ACC83076CED8664A878753535"
-				"size" "0119B6084A2582FA8CCFD02E699595A9"
-				"download" "0FF8753BAA45782295265875881F490E"
-			}
-			"gamescom2024_shipping"
-			{
-				"gid" "93BDCA4EFCB6ADEB695C484B00564D0B"
-				"size" "62CE64A2F4BFC4262C20B75AA68BF3BD"
-				"download" "37747097EC1C6DF215F93F278BD96E05"
-			}
-			"gamescom2024_test"
-			{
-				"gid" "1FDA8A80CAF1692CD6457032F32DC51A"
-				"size" "8EB44D27BF39E05CC85FA4D541ADE73E"
-				"download" "4F0D9B0EE9EF5E887087E64EA9660669"
-			}
-			"liv_enabled_test"
-			{
-				"gid" "A3D55E451A255D9104696932A777EFEA"
-				"size" "6D538DA969F534A3E188E2D9F001EA0F"
-				"download" "4AC77F6A5E3D3FB94AD9CE68B864BAF4"
-			}
-			"live_test"
-			{
-				"gid" "42E80561760DE45C443E7F4FB885F505"
-				"size" "A0CB951D1DEDC4DEEE60E1F22F460E24"
-				"download" "727B4D9058893E446CCBDCDD9EFDDD67"
-			}
-			"marketing_test"
-			{
-				"gid" "1D1B0720D235E501D4AD8629AA5E850D"
-				"size" "73450B79E88968C0E4A7BC037978ADBD"
-				"download" "7A76A55EE2FCF34EC440D2884ABAA720"
-			}
-			"partner_shipping"
-			{
-				"gid" "0E2CF2C551F2AA191FA95E7A9CE73CB9"
-				"size" "3BB75E0C3B2CF45292149C9CFD39F48B"
-				"download" "E480C9DBF6FFC4F3577409BA10883942"
-			}
-			"partner_test"
-			{
-				"gid" "719E3D4E20AC6528F4D5FD3E32AD3F59"
-				"size" "45197003813A6E26A6BBBCE1E768A541"
-				"download" "F3AD7B3C585DCD1B1B2D7E97501B890E"
-			}
-			"pressreview"
-			{
-				"gid" "55A5197096A006209023C8E4DC231A79"
-				"size" "2B6023302A51A0D98ED9D52F866FE0A4"
-				"download" "080B2DEDA9A341DDF3250F23C218ED0B"
-			}
-			"pressreview_test"
-			{
-				"gid" "644461C7F4C8F06DE5AC964E6E249841"
-				"size" "0D22EF66905D2A92E27A773C3CE58DD7"
-				"download" "3EE9AE4753F4B9DB8491309B58CE1291"
-			}
-			"ue5-patch_shipping"
-			{
-				"gid" "B5D75EFF49D191252479FD34677066F4"
-				"size" "27C34506725F52D7D6EF1E36E4A30ECA"
-				"download" "07B21B3D2DFBABC5F963DCF88E08D370"
-			}
-			"ue5-patch_test"
-			{
-				"gid" "876A3BA406CEC1A91E3AA990E9E4C61C"
-				"size" "F0148680F8DC93C963DF23CA92158E4E"
-				"download" "0AEF4B234E611C19CC59DCC670293653"
-			}
-			"ue5-stage-new_development"
-			{
-				"gid" "3ACC7F432FD6429F266FBADD10618CC2"
-				"size" "701697C9600F2F70F6D26A8A2F023C9A"
-				"download" "B6BB43DD1FED0D9EEADAD18D4833F8D2"
-			}
-			"ue5-stage-new_shipping"
-			{
-				"gid" "49A5BA7E4BAAE69993F7BE715302F773"
-				"size" "04F717E6270A93C81EB047EED27E86F8"
-				"download" "408F6ED0DA5C2ADD7D2E7045E3A2FCB9"
-			}
-			"ue5-stage-new_test"
-			{
-				"gid" "1879BD03ED8790146596E1DC7B8D3C04"
-				"size" "A3CF973B02EEF5F89CD46DDF280C62FA"
-				"download" "F34124E826A707B4B54778C1D2CE7285"
-			}
-			"ue5_development"
-			{
-				"gid" "CD6895C8C177C53C90DE6C04E10D6F4A"
-				"size" "911C0B5F4783BA2A83C3F0718A9C858C"
-				"download" "23E88AEB81E6ADDBF15C748C6C993ECA"
-			}
-			"ue5_shipping"
-			{
-				"gid" "8ED95F0DCAFEA1920166E50C4BF1D101"
-				"size" "254ECAF389F86CF04FD1AE889D1A2077"
-				"download" "882D55A969049A5DCAACA658F504EA26"
-			}
-			"ue5_test"
-			{
-				"gid" "CAC0C1307A6BD8AD27962362F3946EA6"
-				"size" "471F2496D9D45EDC6181D80A0543491C"
-				"download" "0CE9790C6BFCDEEEFB43F27DC2B226B5"
+				"gid" "6205988328962029023"
+				"size" "48393215374"
+				"download" "45680806752"
 			}
 		}
 	}
@@ -668,136 +580,11 @@
 	{
 		"public"
 		{
-			"buildid" "16753732"
-			"timeupdated" "1734312547"
-		}
-		"alpha_shipping"
-		{
-			"buildid" "14874067"
-			"pwdrequired" "1"
-			"timeupdated" "1719646899"
-		}
-		"alpha_test"
-		{
-			"buildid" "14873589"
-			"pwdrequired" "1"
-			"timeupdated" "1719646911"
-		}
-		"early_preview_test"
-		{
-			"buildid" "16554824"
-			"pwdrequired" "1"
-			"timeupdated" "1732832097"
-		}
-		"external_marketing_test"
-		{
-			"buildid" "16197317"
-			"pwdrequired" "1"
-			"timeupdated" "1731391654"
-		}
-		"gamescom2024_shipping"
-		{
-			"buildid" "15403982"
-			"pwdrequired" "1"
-			"timeupdated" "1723884248"
-		}
-		"gamescom2024_test"
-		{
-			"buildid" "15403698"
-			"pwdrequired" "1"
-			"timeupdated" "1723882839"
-		}
-		"liv_enabled_test"
-		{
-			"buildid" "16491982"
-			"pwdrequired" "1"
-			"timeupdated" "1732236620"
-		}
-		"live_test"
-		{
-			"buildid" "16623600"
-			"pwdrequired" "1"
-			"timeupdated" "1733515903"
-		}
-		"marketing_test"
-		{
-			"buildid" "15230639"
-			"pwdrequired" "1"
-			"timeupdated" "1722539822"
-		}
-		"partner_shipping"
-		{
-			"buildid" "14874067"
-			"pwdrequired" "1"
-			"timeupdated" "1719646564"
-		}
-		"partner_test"
-		{
-			"buildid" "14873589"
-			"pwdrequired" "1"
-			"timeupdated" "1719646575"
-		}
-		"pressreview"
-		{
-			"buildid" "16623251"
-			"pwdrequired" "1"
-			"timeupdated" "1733418158"
-		}
-		"pressreview_test"
-		{
-			"buildid" "16615196"
-			"pwdrequired" "1"
-			"timeupdated" "1733331443"
-		}
-		"ue5-patch_shipping"
-		{
-			"buildid" "16668046"
-			"pwdrequired" "1"
-			"timeupdated" "1733591486"
-		}
-		"ue5-patch_test"
-		{
-			"buildid" "16668205"
-			"pwdrequired" "1"
-			"timeupdated" "1733594077"
-		}
-		"ue5-stage-new_development"
-		{
-			"buildid" "16632990"
-			"pwdrequired" "1"
-			"timeupdated" "1733336019"
-		}
-		"ue5-stage-new_shipping"
-		{
-			"buildid" "16753732"
-			"pwdrequired" "1"
-			"timeupdated" "1734308388"
-		}
-		"ue5-stage-new_test"
-		{
-			"buildid" "16753973"
-			"pwdrequired" "1"
-			"timeupdated" "1734311394"
-		}
-		"ue5_development"
-		{
-			"buildid" "16711159"
-			"pwdrequired" "1"
-			"timeupdated" "1733940871"
-		}
-		"ue5_shipping"
-		{
-			"buildid" "16753741"
-			"pwdrequired" "1"
-			"timeupdated" "1734308464"
-		}
-		"ue5_test"
-		{
-			"buildid" "16753937"
-			"pwdrequired" "1"
-			"timeupdated" "1734311003"
+			"buildid" "17294720"
+			"timeupdated" "1739385450"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -822,6 +609,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26768820"
-"_sha" "d5a3439ff68e720c8d08dfb5dd2b81d614f46a1b"
-"_size" "16088"
+"_change_number" "27444920"
+"_sha" "ff74e1f444b579225df53a1084f4156553d034f6"
+"_size" "10885"
