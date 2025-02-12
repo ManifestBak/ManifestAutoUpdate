@@ -55,10 +55,11 @@
 		}
 	}
 	"metacritic_name" "Dinkum"
-	"controller_support" "partial"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "6532bfcb4155f332599f2efd4dda1623df5baf78/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -68,12 +69,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "UpperCenter"
-			"width_pct" "100"
-			"height_pct" "66.9230772210296"
+			"pinned_position" "BottomLeft"
+			"width_pct" "97.0070329103894"
+			"height_pct" "100"
 		}
 	}
 	"library_assets_full"
@@ -82,43 +85,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "209522a49da6d8bf9dc22dd82eb973f358c46610/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "209522a49da6d8bf9dc22dd82eb973f358c46610/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "16fc4c2f981bd6c7352764c5cc992868cbd99120/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "16fc4c2f981bd6c7352764c5cc992868cbd99120/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "16fc4c2f981bd6c7352764c5cc992868cbd99120/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "750a3ca51ce9292d64ecdc45f64b0ccdc92e7de7/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "750a3ca51ce9292d64ecdc45f64b0ccdc92e7de7/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "UpperCenter"
-				"width_pct" "100"
-				"height_pct" "66.9230772210296"
+				"pinned_position" "BottomLeft"
+				"width_pct" "97.0070329103894"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0628b4929d44f30b71cf5f2062c4f898d71a8690/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0628b4929d44f30b71cf5f2062c4f898d71a8690/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729246386"
+	"store_asset_mtime" "1739180434"
 	"associations"
 	{
 		"0"
@@ -129,7 +150,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "James Bendon"
+			"name" "KRAFTON, Inc."
 		}
 	}
 	"primary_genre" "28"
@@ -144,16 +165,85 @@
 	{
 		"category_2" "1"
 		"category_38" "1"
-		"category_18" "1"
 		"category_1" "1"
 		"category_9" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
 	{
 		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -168,15 +258,15 @@
 		"1" "87918"
 		"2" "10235"
 		"3" "21"
-		"4" "1685"
-		"5" "1100689"
+		"4" "1100689"
+		"5" "1685"
 		"6" "1643"
 		"7" "1695"
 		"8" "1702"
 		"9" "3834"
 		"10" "3810"
-		"11" "4182"
-		"12" "22602"
+		"11" "22602"
+		"12" "4182"
 		"13" "15564"
 		"14" "9564"
 		"15" "4726"
@@ -186,12 +276,12 @@
 		"19" "1654"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "93"
 }
 "extended"
 {
 	"developer" "James Bendon"
-	"publisher" "James Bendon"
+	"publisher" "KRAFTON, Inc."
 	"homepage" "http://www.playdinkum.com/"
 }
 "config"
@@ -218,30 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "6070218435442571682"
-				"size" "3112308677"
-				"download" "787974576"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"experimental"
-			{
-				"gid" "E671391D665D24D91934AE5E343AC2C4"
-				"size" "4B6E646CD2FA4284ADCA552DA0293E0D"
-				"download" "8B10E8ABBE0900A34DBC8878612A240F"
-			}
-			"experimentalupdate"
-			{
-				"gid" "C0821B94C1CCB5842A92DE0616B84998"
-				"size" "CCE0796958BE805A099785A74F497B5B"
-				"download" "380B8D002811C51D699BADC7E0D01023"
-			}
-			"internaltesting"
-			{
-				"gid" "2C4D8DD39705BB8893003EDF4D8FF627"
-				"size" "5C9CE694D83C734392185F40D5313F28"
-				"download" "319635353C83DAAEAD3A0587BB473B7A"
+				"gid" "2699738967037162288"
+				"size" "3087729419"
+				"download" "808559552"
 			}
 		}
 	}
@@ -249,28 +318,11 @@
 	{
 		"public"
 		{
-			"buildid" "16213581"
-			"timeupdated" "1730167235"
-		}
-		"experimental"
-		{
-			"buildid" "16118699"
-			"pwdrequired" "1"
-			"timeupdated" "1729495208"
-		}
-		"experimentalupdate"
-		{
-			"buildid" "16145718"
-			"pwdrequired" "1"
-			"timeupdated" "1729657030"
-		}
-		"internaltesting"
-		{
-			"buildid" "16117599"
-			"pwdrequired" "1"
-			"timeupdated" "1729483682"
+			"buildid" "17277026"
+			"timeupdated" "1739325637"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -303,6 +355,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25942460"
-"_sha" "08ef704931d064679cedea17a9b9353691a903ea"
-"_size" "5600"
+"_change_number" "27431038"
+"_sha" "b441ff7ec90639a32ebf6bd8eba2c95a0cf15ebc"
+"_size" "6469"
