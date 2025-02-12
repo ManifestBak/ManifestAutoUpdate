@@ -270,7 +270,7 @@
 		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -303,36 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "7453582564293423102"
-				"size" "2685889785"
-				"download" "822141152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"freeweekbranch"
-			{
-				"gid" "1740973834C4BDF5DF4436413CE437AE"
-				"size" "6BF5621EF7313E4B646E41421B7218BF"
-				"download" "6031CD478ABB2640CF14DD5C267EEDA8"
-			}
-			"tournament"
-			{
-				"gid" "6D6FD2730C1DB7C0F7E0A56AB42E8687"
-				"size" "FC4971A1AFF6A11C09EC60B9F9D1DFE8"
-				"download" "736255BA01E2EBEAE52B75585F8DF7FB"
-			}
-			"newbranch"
-			{
-				"gid" "760D63C9E7AC4D91FDBE7DD1F4EF5545"
-				"size" "870CB71990D63F8AB5C2BCE75FCADAA4"
-				"download" "C28C319DB18B0F45C0C37E82B88DC46B"
-			}
-			"privatetestbranch"
-			{
-				"gid" "37FFF8FFF15AEBB9D0532C5BB3F2D8E0"
-				"size" "0FC4BAF70B4118A509F8EC228BF046D5"
-				"download" "3D0145825764ADF9E163EE4D07893881"
+				"gid" "2582061075607403889"
+				"size" "2681607812"
+				"download" "822489728"
 			}
 		}
 	}
@@ -344,36 +317,13 @@
 	{
 		"public"
 		{
-			"buildid" "16722436"
-			"timeupdated" "1734617506"
-		}
-		"freeweekbranch"
-		{
-			"buildid" "13445538"
-			"pwdrequired" "1"
-			"timeupdated" "1707843729"
-		}
-		"tournament"
-		{
-			"buildid" "8918843"
-			"pwdrequired" "1"
-			"timeupdated" "1654987625"
-		}
-		"newbranch"
-		{
-			"buildid" "16499053"
-			"pwdrequired" "1"
-			"timeupdated" "1732273242"
-		}
-		"privatetestbranch"
-		{
-			"buildid" "16722436"
-			"pwdrequired" "1"
-			"timeupdated" "1734516098"
+			"buildid" "17336453"
+			"timeupdated" "1739373479"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26719627"
-"_sha" "aa51d3ebd50dfa9d79df77663a65ef71d8fcb924"
-"_size" "6749"
+"_change_number" "27441611"
+"_sha" "c89891fbc08a2d8324b5aaacc97c7fdb2b2928b1"
+"_size" "5589"
