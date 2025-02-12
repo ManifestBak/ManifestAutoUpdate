@@ -251,7 +251,7 @@
 		"19" "4202"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -299,15 +299,15 @@
 		{
 			"public"
 			{
-				"gid" "7275750105246247028"
-				"size" "4123396607"
-				"download" "825630256"
+				"gid" "8474862138496605871"
+				"size" "4123397671"
+				"download" "825606128"
 			}
-			"experimental_public"
+			"release_0.4"
 			{
-				"gid" "3330431363972773102"
-				"size" "4123394559"
-				"download" "825628032"
+				"gid" "7466377835444119342"
+				"size" "4122334883"
+				"download" "819510448"
 			}
 			"release_0.3"
 			{
@@ -339,15 +339,15 @@
 		{
 			"public"
 			{
-				"gid" "2012209624955977036"
-				"size" "4173085470"
-				"download" "836756352"
+				"gid" "7050018474988357006"
+				"size" "4173086534"
+				"download" "836748224"
 			}
-			"experimental_public"
+			"release_0.4"
 			{
-				"gid" "5367941159364430623"
-				"size" "4173083422"
-				"download" "836756480"
+				"gid" "613889579733853346"
+				"size" "4172042922"
+				"download" "830596864"
 			}
 			"release_0.3"
 			{
@@ -380,7 +380,7 @@
 				"size" "341071533"
 				"download" "334546416"
 			}
-			"experimental_public"
+			"release_0.4"
 			{
 				"gid" "5851144457067261337"
 				"size" "341071533"
@@ -410,14 +410,14 @@
 	{
 		"public"
 		{
-			"buildid" "17252913"
-			"timeupdated" "1738769949"
+			"buildid" "17331631"
+			"timeupdated" "1739376098"
 		}
-		"experimental_public"
+		"release_0.4"
 		{
-			"buildid" "17172928"
-			"description" "This branch will hold the upcoming modifications we intend to publish in the next update"
-			"timeupdated" "1738165984"
+			"buildid" "16698853"
+			"description" "Synergy 0.4"
+			"timeupdated" "1738842197"
 		}
 		"release_0.3"
 		{
@@ -480,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27328488"
-"_sha" "699447e5756c4e830a1e8ee0cda3b62710d11ce8"
-"_size" "8823"
+"_change_number" "27442347"
+"_sha" "2ec5b55da97427c88fe395713139a7c8ab690632"
+"_size" "8713"
