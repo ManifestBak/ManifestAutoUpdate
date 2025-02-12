@@ -253,6 +253,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1738335769"
 	"community_visible_stats" "1"
@@ -266,8 +271,8 @@
 		"3" "9"
 		"4" "3810"
 		"5" "8945"
-		"6" "1654"
-		"7" "12472"
+		"6" "12472"
+		"7" "1654"
 		"8" "4166"
 		"9" "4695"
 		"10" "1643"
@@ -333,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "7920324429132274769"
-				"size" "5778426910"
-				"download" "2747218160"
+				"gid" "7220854617908820932"
+				"size" "5779821372"
+				"download" "2747582896"
 			}
 			"early_access_1_9"
 			{
@@ -378,8 +383,8 @@
 	{
 		"public"
 		{
-			"buildid" "17293482"
-			"timeupdated" "1739050513"
+			"buildid" "17313332"
+			"timeupdated" "1739300064"
 		}
 		"early_access_1_9"
 		{
@@ -402,6 +407,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27382187"
-"_sha" "d4e6fd3ce12dc5aa918c61cf29b15fa77a0c3abd"
-"_size" "7493"
+"_change_number" "27425955"
+"_sha" "19120dc8f363df5ca3b6856111d3128455873e5e"
+"_size" "7564"
