@@ -194,12 +194,6 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
-		"schinese"
-		{
-			"supported" "true"
-			"full_audio" "true"
-			"subtitles" "true"
-		}
 	}
 	"steam_release_date" "1713976331"
 	"community_hub_visible" "1"
@@ -269,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "8637479323059270744"
-				"size" "1005007201"
-				"download" "967510576"
+				"gid" "8035687147450632423"
+				"size" "1005001425"
+				"download" "967514816"
 			}
 			"publicbeta"
 			{
@@ -285,8 +279,8 @@
 	{
 		"public"
 		{
-			"buildid" "17258102"
-			"timeupdated" "1738867090"
+			"buildid" "17327215"
+			"timeupdated" "1739311386"
 		}
 		"publicbeta"
 		{
@@ -345,6 +339,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27350854"
-"_sha" "5c7c61fe2456232f9108c44770edf37610d5b319"
-"_size" "6593"
+"_change_number" "27428410"
+"_sha" "db9a394d51f4da3744416b6c849c90b953746943"
+"_size" "6496"
