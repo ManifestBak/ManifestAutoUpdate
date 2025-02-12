@@ -1,18 +1,22 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-12 12:22:29
+## 更新时间：2025-02-12 14:27:07
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1062520 | Dinkum(金垦小镇)| Game |
-| 1299060 | 咒笼: 诅咒领域| Game |
-| 1307550 | Craftopia / 创世理想乡| Game |
-| 1758570 | SVFI - 显卡优化DLC| DLC |
-| 1809540 | 九日| Game |
-| 1670340 | Craftopia Dedicated Server| Tool |
-| 2404170 | 九号博物馆| Game |
-| 2530980 | 美德传奇fRemastered| Game |
-| 2719030 | 超级键盘侠| Game |
-| 2511050 | 勇拳冲锋  -3对3 乱斗竞技场-| Game |
-| 2594920 | 蕾斯莱莉娅娜的炼金工房 ～忘却的炼金术与极夜的解放者～| Game |
-| 3287520 | NINJA GAIDEN 2 Black| Game |
-| 3011560 | 爱欲之都开篇季| Game |
+| 1094780 | Fisher Online| Game |
+| 1500740 | Snail Simulator| Game |
+| 1534980 | 终点站：僵尸幸存者| Game |
+| 2055500 | Repetendium| Game |
+| 2072980 | 地下城骑士团| Game |
+| 2307170 | 永恒守望| Game |
+| 2461050 | 晨昏线| Game |
+| 250900 | The Binding of Isaac: Rebirth| Game |
+| 2857200 | Abiotic Factor Dedicated Server| Tool |
+| 2866430 | 血色逆旅：我们之间的高墙| Game |
+| 3077020 | DOKAPON! Sword of Fury| Game |
+| 3072640 | Guidus Zero| Game |
+| 3096340 | Family Friends: Beyond Home| Game |
+| 427410 | Abiotic Factor| Game |
+| 323670 | Super Indie Karts| Game |
+| 342560 | Airships: Conquer the Skies| Game |
+| 958260 | DEAD OR ALIVE Xtreme Venus Vacation| Game |
