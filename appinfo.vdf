@@ -283,15 +283,15 @@
 		{
 			"public"
 			{
-				"gid" "1822038111154017650"
-				"size" "513209768"
-				"download" "456923760"
+				"gid" "6357475565942624744"
+				"size" "517828152"
+				"download" "461752976"
 			}
 			"beta"
 			{
-				"gid" "1822038111154017650"
-				"size" "513209768"
-				"download" "456923760"
+				"gid" "6357475565942624744"
+				"size" "517828152"
+				"download" "461752976"
 			}
 		}
 	}
@@ -305,15 +305,15 @@
 		{
 			"public"
 			{
-				"gid" "7820554216484401314"
-				"size" "519804560"
-				"download" "458645728"
+				"gid" "6138814861018439432"
+				"size" "524422944"
+				"download" "463474944"
 			}
 			"beta"
 			{
-				"gid" "7820554216484401314"
-				"size" "519804560"
-				"download" "458645728"
+				"gid" "6138814861018439432"
+				"size" "524422944"
+				"download" "463474944"
 			}
 		}
 	}
@@ -327,31 +327,32 @@
 		{
 			"public"
 			{
-				"gid" "5757549110380957906"
-				"size" "584757978"
-				"download" "472155264"
+				"gid" "3914503009090947770"
+				"size" "589376362"
+				"download" "476983728"
 			}
 			"beta"
 			{
-				"gid" "5757549110380957906"
-				"size" "584757978"
-				"download" "472155264"
+				"gid" "3914503009090947770"
+				"size" "589376362"
+				"download" "476983728"
 			}
 		}
 	}
 	"workshopdepot" "3093590"
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17315256"
-			"timeupdated" "1739239764"
+			"buildid" "17340471"
+			"timeupdated" "1739384322"
 		}
 		"beta"
 		{
-			"buildid" "17315256"
+			"buildid" "17340471"
 			"description" "Live distribution staging branch"
-			"timeupdated" "1739239698"
+			"timeupdated" "1739383571"
 		}
 	}
 }
@@ -396,6 +397,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27412266"
-"_sha" "8fa2436c68ae9341ff773a61dfd9398969dd4705"
-"_size" "6914"
+"_change_number" "27444628"
+"_sha" "9c8771ef52a7644c72ef631f3f0e7c201e82defa"
+"_size" "6938"
