@@ -66,6 +66,7 @@
 			"hdr_support" "2"
 		}
 	}
+	"metacritic_name" "Ninja Gaiden 2 Black"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -236,6 +237,8 @@
 		}
 	}
 	"steam_release_date" "1737658823"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ninja-gaiden-2-black\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3287520"
@@ -244,23 +247,24 @@
 		"0" "19"
 		"1" "6915"
 		"2" "1697"
-		"3" "4106"
-		"4" "1688"
-		"5" "21"
-		"6" "4345"
-		"7" "4608"
-		"8" "4667"
-		"9" "1646"
+		"3" "1688"
+		"4" "4106"
+		"5" "4345"
+		"6" "4608"
+		"7" "21"
+		"8" "1646"
+		"9" "4667"
 		"10" "3993"
 		"11" "4182"
-		"12" "4175"
-		"13" "4026"
+		"12" "4026"
+		"13" "4175"
 		"14" "4777"
 		"15" "3955"
-		"16" "29482"
+		"16" "12095"
+		"17" "29482"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -308,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "4547057091695434748"
-				"size" "86961457733"
-				"download" "81038239536"
+				"gid" "1162494661906979271"
+				"size" "86966169252"
+				"download" "81042521856"
 			}
 		}
 	}
@@ -318,8 +322,8 @@
 	{
 		"public"
 		{
-			"buildid" "17141095"
-			"timeupdated" "1738120049"
+			"buildid" "17251493"
+			"timeupdated" "1739329363"
 		}
 	}
 	"privatebranches" "1"
@@ -363,6 +367,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27212036"
-"_sha" "f66439be132123e38ee8cbea50c5a3de32362771"
-"_size" "6585"
+"_change_number" "27431719"
+"_sha" "ab12e62399650aeca17896a4511ce888aa93ac20"
+"_size" "6775"
