@@ -280,7 +280,7 @@
 		"19" "3834"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -306,7 +306,7 @@
 		}
 		"1"
 		{
-			"executable" "TSS.app\\Contents\\MacOS\\Trigon_ Space Story"
+			"executable" "TSS.app\\Contents\\MacOS\\TSS"
 			"type" "default"
 			"config"
 			{
@@ -363,15 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "5722589966420301766"
+				"gid" "7585193513361469347"
 				"size" "2950757078"
 				"download" "921291280"
-			}
-			"public_test"
-			{
-				"gid" "5862131138130149732"
-				"size" "2950731214"
-				"download" "921287680"
 			}
 		}
 	}
@@ -386,15 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "6545577481598307084"
-				"size" "2947269984"
-				"download" "921294992"
-			}
-			"public_test"
-			{
-				"gid" "1789226542121602170"
-				"size" "2978066682"
-				"download" "930511984"
+				"gid" "4202078104642811512"
+				"size" "2947269985"
+				"download" "921295232"
 			}
 		}
 	}
@@ -409,15 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "4763538797188383856"
-				"size" "3011116350"
-				"download" "930334496"
-			}
-			"public_test"
-			{
-				"gid" "3800292205846114467"
-				"size" "3011127821"
-				"download" "930328768"
+				"gid" "1248611420721467556"
+				"size" "3011115681"
+				"download" "930333984"
 			}
 		}
 	}
@@ -436,26 +418,14 @@
 				"size" "1878339498"
 				"download" "1748981232"
 			}
-			"public_test"
-			{
-				"gid" "671546642333335833"
-				"size" "1878339498"
-				"download" "1748981232"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17198675"
-			"timeupdated" "1738326990"
-		}
-		"public_test"
-		{
-			"buildid" "16842183"
-			"description" "public test branch"
-			"timeupdated" "1735044956"
+			"buildid" "17335352"
+			"timeupdated" "1739363685"
 		}
 	}
 	"privatebranches" "1"
@@ -524,6 +494,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27252976"
-"_sha" "f1d8d33f5764d4cc56a0e9565737e1a0469ed97f"
-"_size" "9351"
+"_change_number" "27439075"
+"_sha" "6b7a1936b51d1f7fc97b559e2e4bfe90ba27b3c9"
+"_size" "8734"
