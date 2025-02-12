@@ -3,7 +3,7 @@
 {
 	"name" "Sid Meier\'s Civilization VII"
 	"type" "Game"
-	"releasestate" "prerelease"
+	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"osarch" "64"
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
@@ -187,7 +187,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739203328"
+	"store_asset_mtime" "1739304948"
 	"associations"
 	{
 		"0"
@@ -230,6 +230,7 @@
 		"category_61" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -305,12 +306,13 @@
 			"subtitles" "true"
 		}
 	}
+	"steam_release_date" "1739228482"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/1295660/announcements/detail/508442816334005258"
 	"metacritic_score" "81"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sid-meiers-civilization-vii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1295660"
-	"exfgls" "8"
 	"store_tags"
 	{
 		"0" "9"
@@ -318,16 +320,16 @@
 		"2" "1670"
 		"3" "4364"
 		"4" "3987"
-		"5" "1708"
-		"6" "1717"
+		"5" "1717"
+		"6" "1708"
 		"7" "599"
-		"8" "4182"
-		"9" "3859"
+		"8" "3859"
+		"9" "4182"
 		"10" "4328"
 		"11" "26921"
 		"12" "4598"
-		"13" "4711"
-		"14" "1775"
+		"13" "1775"
+		"14" "4711"
 		"15" "1678"
 		"16" "14139"
 		"17" "6310"
@@ -335,14 +337,14 @@
 		"19" "4695"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "51"
 }
 "extended"
 {
 	"developer" "Firaxis Games"
 	"publisher" "2K"
 	"homepage" "https://civilization.2k.com/"
-	"listofdlc" "2778060,3004650,3004660,3087220,3087240,3087260,3087270,3087430,3087460"
+	"listofdlc" "2778060,3004650,3004660,3087220,3087240,3087250,3087260,3087270,3087430,3087460,3490290,3502600"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -506,9 +508,9 @@
 		{
 			"public"
 			{
-				"gid" "2185268813335497958"
-				"size" "18105292488"
-				"download" "15995988816"
+				"gid" "7727045853697600300"
+				"size" "18074671808"
+				"download" "15996268128"
 			}
 		}
 	}
@@ -523,9 +525,9 @@
 		{
 			"public"
 			{
-				"gid" "1842454926557915126"
-				"size" "1258068544"
-				"download" "743605136"
+				"gid" "7578850310540722300"
+				"size" "1259256208"
+				"download" "742691360"
 			}
 		}
 	}
@@ -540,9 +542,9 @@
 		{
 			"public"
 			{
-				"gid" "8045541024203813481"
-				"size" "25178959218"
-				"download" "15253158560"
+				"gid" "9014389928676841809"
+				"size" "25189133554"
+				"download" "15256105744"
 			}
 		}
 	}
@@ -564,9 +566,9 @@
 		{
 			"public"
 			{
-				"gid" "8049094628237855627"
-				"size" "279837263"
-				"download" "30444032"
+				"gid" "4408146571687483053"
+				"size" "280041935"
+				"download" "30683680"
 			}
 		}
 	}
@@ -581,9 +583,9 @@
 		{
 			"public"
 			{
-				"gid" "3264788655456161122"
-				"size" "24809374108"
-				"download" "15018385952"
+				"gid" "2660370564136861262"
+				"size" "24815299001"
+				"download" "15020993712"
 			}
 		}
 	}
@@ -591,9 +593,13 @@
 	{
 		"public"
 		{
-			"buildid" "17301154"
-			"timeupdated" "1739207966"
+			"buildid" "17330820"
+			"timeupdated" "1739390625"
 		}
 	}
 	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "27446431"
+"_sha" "c082e4e10910d9a46f240987be91bd792765d0be"
+"_size" "12858"
