@@ -1,22 +1,27 @@
 "appid" "1758570"
 "common"
 {
-	"name" "SVFI - Targeted optimization of RTX 30 series graphics cards"
+	"name" "SVFI - Advanced-GPU Optimization Pack"
 	"type" "DLC"
 	"parent" "1692080"
 	"releasestate" "released"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "SVFI - 显卡优化DLC"
+	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "de9847131c34d5f4c3a45dbf3e60372ff113432c/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 	}
-	"store_asset_mtime" "1636196060"
+	"store_screenshot" "ss_003de9e512beabe96c6c7e87a894a1aa9a38f100.jpg"
+	"store_asset_mtime" "1739331209"
 	"associations"
 	{
 		"0"
@@ -96,15 +101,9 @@
 		{
 			"public"
 			{
-				"gid" "3804877537452420472"
-				"size" "18"
-				"download" "64"
-			}
-			"beta"
-			{
-				"gid" "3804877537452420472"
-				"size" "18"
-				"download" "64"
+				"gid" "7111158572143106672"
+				"size" "12426410084"
+				"download" "3528204288"
 			}
 			"revision-8"
 			{
@@ -113,47 +112,14 @@
 				"download" "1540095984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "E92444EC86FACBA073F79C617731F5AD"
-				"size" "3029889B41FCA0A3CDA5358D4DDA0B14"
-				"download" "FE2E8E09252C4DFD6E92C127861B656F"
-			}
-			"revision-7"
-			{
-				"gid" "DC0428D7561B201BD921313A9FA8045B"
-				"size" "46283DD0E2EE5071C822E8B956E2085E"
-				"download" "63436CDEBC47D30E911D5E10C05B46BE"
-			}
-		}
 		"dlcappid" "1758570"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12440614"
-			"timeupdated" "1698297164"
-		}
-		"alpha"
-		{
-			"buildid" "12440614"
-			"pwdrequired" "1"
-			"timeupdated" "1697275420"
-		}
-		"beta"
-		{
-			"buildid" "12440614"
-			"description" "SVFI Beta Test"
-			"timeupdated" "1697286841"
-		}
-		"revision-7"
-		{
-			"buildid" "10653113"
-			"pwdrequired" "1"
-			"timeupdated" "1698933033"
+			"buildid" "17330738"
+			"timeupdated" "1739334026"
 		}
 		"revision-8"
 		{
@@ -162,5 +128,10 @@
 			"timeupdated" "1698293553"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
+"_missing_token" "False"
+"_change_number" "27432473"
+"_sha" "7276369c9298583b129eb5e0a021bafef770df30"
+"_size" "2215"
