@@ -8,6 +8,7 @@
 		"japanese" "東方ダンマクカグラ ファンタジア・ロスト"
 		"schinese" "东方弹幕神乐 失落幻想"
 		"tchinese" "東方彈幕神樂 失落幻想"
+		"koreana" "동방 탄막 카구라 판타지아 로스트"
 	}
 	"oslist" "windows"
 	"osarch" "64"
@@ -70,6 +71,7 @@
 		"japanese" "capsule_231x87_japanese.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "5739105901cabf087fa87a89be3562ee21d4e6a8/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
@@ -77,13 +79,15 @@
 		"japanese" "header_japanese.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
+		"koreana" "header_koreana.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,ja,zh-cn,zh-tw"
+		"library_capsule" "en,ja,zh-cn,zh-tw,ko"
 		"library_hero" "en,ja,zh-cn,zh-tw"
-		"library_logo" "en,ja,zh-cn,zh-tw"
-		"library_header" "en,ja,zh-cn"
+		"library_hero_blur" "en"
+		"library_logo" "en,ja,zh-cn,zh-tw,ko"
+		"library_header" "en,ja,zh-cn,ko"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -101,6 +105,7 @@
 				"japanese" "library_600x900_japanese.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 				"tchinese" "library_600x900_tchinese.jpg"
+				"koreana" "0b21395a5a7ca209c650eedd0d8655631a5833a1/library_600x900_koreana.jpg"
 			}
 			"image2x"
 			{
@@ -108,23 +113,31 @@
 				"japanese" "library_600x900_japanese_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"koreana" "0b21395a5a7ca209c650eedd0d8655631a5833a1/library_600x900_koreana_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "59194273bd707875ecf0a83ca14aaa6e0305a6d2/library_hero.jpg"
 				"japanese" "library_hero_japanese.jpg"
 				"schinese" "library_hero_schinese.jpg"
 				"tchinese" "library_hero_tchinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "59194273bd707875ecf0a83ca14aaa6e0305a6d2/library_hero_2x.jpg"
 				"japanese" "library_hero_japanese_2x.jpg"
 				"schinese" "library_hero_schinese_2x.jpg"
 				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "59194273bd707875ecf0a83ca14aaa6e0305a6d2/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -135,6 +148,7 @@
 				"japanese" "logo_japanese.png"
 				"schinese" "logo_schinese.png"
 				"tchinese" "logo_tchinese.png"
+				"koreana" "7cfcdf572d5a47ed8550ecd228faab0f21a8fa4e/logo_koreana.png"
 			}
 			"image2x"
 			{
@@ -142,6 +156,7 @@
 				"japanese" "logo_japanese_2x.png"
 				"schinese" "logo_schinese_2x.png"
 				"tchinese" "logo_tchinese_2x.png"
+				"koreana" "7cfcdf572d5a47ed8550ecd228faab0f21a8fa4e/logo_koreana_2x.png"
 			}
 			"logo_position"
 			{
@@ -157,10 +172,15 @@
 				"english" "library_header.jpg"
 				"japanese" "library_header_japanese.jpg"
 				"schinese" "library_header_schinese.jpg"
+				"koreana" "807616b2ef0a65d326a79758e46a0f5065c14078/library_header_koreana.jpg"
+			}
+			"image2x"
+			{
+				"koreana" "807616b2ef0a65d326a79758e46a0f5065c14078/library_header_koreana_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1733359732"
+	"store_asset_mtime" "1739348748"
 	"associations"
 	{
 		"0"
@@ -216,8 +236,13 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1707318010"
+	"steam_release_date" "1707318000"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2190220"
@@ -270,7 +295,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,schinese,tchinese,japanese"
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
 	"hasdepotsindlc" "1"
 	"2190221"
 	{
@@ -278,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "1605423707829996977"
-				"size" "6096915465"
-				"download" "5511060448"
+				"gid" "6214101921093472889"
+				"size" "6341516574"
+				"download" "5668118720"
 			}
 		}
 	}
@@ -292,8 +317,8 @@
 	{
 		"public"
 		{
-			"buildid" "16681631"
-			"timeupdated" "1734512319"
+			"buildid" "17310387"
+			"timeupdated" "1739372151"
 		}
 	}
 	"privatebranches" "1"
@@ -328,6 +353,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26691641"
-"_sha" "40769393bb1cb8d08e26beb944e9f39bd6190329"
-"_size" "6606"
+"_change_number" "27441390"
+"_sha" "14bffd5deee13290161b90ffea0f55fe7dbcb177"
+"_size" "7658"
