@@ -263,15 +263,15 @@
 	"exfgls" "6"
 	"store_tags"
 	{
-		"0" "492"
-		"1" "599"
+		"0" "599"
+		"1" "492"
 		"2" "7481"
 		"3" "87"
 		"4" "8013"
 		"5" "150626"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -325,15 +325,15 @@
 		{
 			"public"
 			{
-				"gid" "5830473345574929228"
+				"gid" "2023660974729136216"
 				"size" "394408373"
-				"download" "136624592"
+				"download" "136630400"
 			}
 			"dsx_v3.1_beta"
 			{
-				"gid" "2976905397527177782"
-				"size" "434135541"
-				"download" "149258240"
+				"gid" "7897018194158872837"
+				"size" "402962115"
+				"download" "131825472"
 			}
 			"dsx_2.5.0"
 			{
@@ -342,34 +342,19 @@
 				"download" "23540240"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dsx_v3_beta_devteam"
-			{
-				"gid" "79972CB65AB1221E4EAFEA28CACDE212"
-				"size" "8895C22B7E57615C6EC8692B5167531D"
-				"download" "9DCD152A9C474DC28A0321D5698891C6"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16518190"
-			"timeupdated" "1732486930"
+			"buildid" "17334488"
+			"timeupdated" "1739355094"
 		}
 		"dsx_v3.1_beta"
 		{
-			"buildid" "16515750"
+			"buildid" "17333087"
 			"description" "v3.1 Beta"
-			"timeupdated" "1732451287"
-		}
-		"dsx_v3_beta_devteam"
-		{
-			"buildid" "16515750"
-			"pwdrequired" "1"
-			"timeupdated" "1732450452"
+			"timeupdated" "1739349307"
 		}
 		"dsx_2.5.0"
 		{
@@ -378,6 +363,7 @@
 			"timeupdated" "1729893678"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -399,6 +385,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26340557"
-"_sha" "0f0f2de3aa187c8be3906b7a4e8599541980c300"
-"_size" "6426"
+"_change_number" "27436935"
+"_sha" "2ef182cbfdc4a27ca9f8c94baa6b4be0ae45be39"
+"_size" "6116"
