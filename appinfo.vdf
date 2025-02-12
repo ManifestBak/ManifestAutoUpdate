@@ -177,7 +177,7 @@
 		{
 			"executable" "Andarilho AV/Andarilho.exe"
 			"arguments" "appid=450860"
-			"type" "default"
+			"type" "option1"
 			"description_loc"
 			{
 				"english" "Andarilho - Alternative Version"
@@ -219,15 +219,15 @@
 		{
 			"public"
 			{
-				"gid" "2032755884609810976"
-				"size" "1414689100"
-				"download" "339869312"
+				"gid" "2847474161407443809"
+				"size" "1415545072"
+				"download" "341970672"
 			}
 			"pre_release"
 			{
-				"gid" "2032755884609810976"
-				"size" "1414689100"
-				"download" "339869312"
+				"gid" "2847474161407443809"
+				"size" "1415545072"
+				"download" "341970672"
 			}
 		}
 	}
@@ -253,13 +253,13 @@
 	{
 		"public"
 		{
-			"buildid" "17285499"
-			"timeupdated" "1738963120"
+			"buildid" "17337744"
+			"timeupdated" "1739371060"
 		}
 		"pre_release"
 		{
-			"buildid" "17285499"
-			"timeupdated" "1738962465"
+			"buildid" "17337744"
+			"timeupdated" "1739370884"
 		}
 	}
 }
@@ -279,6 +279,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27371337"
-"_sha" "b05225706f0ea8ff117299bd8d1b9acd3f6a998f"
+"_change_number" "27440939"
+"_sha" "f5a5b9ed23958fbf96eda74882fe6ca2c7639677"
 "_size" "4656"
