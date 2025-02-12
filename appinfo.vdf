@@ -82,8 +82,8 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "543ba0f9f25da80bc3b4b66a64c38ce52c445f7f/capsule_231x87_schinese.jpg"
+		"english" "f7787aa2366c28760e35fb5837a94351c9db68a2/capsule_231x87.jpg"
+		"schinese" "9c6c5aa784870a0d5622279f9694262cfb6f5a59/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -158,12 +158,17 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"schinese" "c04bd695dd06144aed5eda4c36ee998e786eff3d/library_header_schinese.jpg"
+				"english" "e44765e9f4aa5508c2bf20ff5af201a320ca012d/library_header.jpg"
+				"schinese" "7193383691b8b57c5d3ef6b55120c7d7b008ad44/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "7193383691b8b57c5d3ef6b55120c7d7b008ad44/library_header_schinese_2x.jpg"
+				"english" "e44765e9f4aa5508c2bf20ff5af201a320ca012d/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1730227324"
+	"store_asset_mtime" "1737650995"
 	"associations"
 	{
 		"0"
@@ -195,6 +200,8 @@
 		"category_58" "1"
 		"category_25" "1"
 		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -302,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "8903543359291685963"
-				"size" "7400928530"
-				"download" "1391326912"
+				"gid" "2242834280750550627"
+				"size" "7401353218"
+				"download" "1391390368"
 			}
 		}
 	}
@@ -312,8 +319,8 @@
 	{
 		"public"
 		{
-			"buildid" "17095062"
-			"timeupdated" "1737575635"
+			"buildid" "17337822"
+			"timeupdated" "1739372467"
 		}
 	}
 	"privatebranches" "1"
@@ -347,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27118322"
-"_sha" "4b193da38f2c8082498ed3e7df098e2bbc77c028"
-"_size" "6358"
+"_change_number" "27441337"
+"_sha" "e58fe6bce0de0cb2b24bb45787cc6553290ac2be"
+"_size" "6682"
