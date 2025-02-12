@@ -38,8 +38,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1736294400"
-		"tested_build_id" "16436159"
+		"test_timestamp" "1738368000"
+		"tested_build_id" "17136388"
 		"tests"
 		{
 			"0"
@@ -308,6 +308,8 @@
 {
 	"developer" "Emprom Game"
 	"publisher" "Emprom Game"
+	"listofdlc" "3513460"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -357,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "4319241273680052141"
-				"size" "704327307"
-				"download" "475269872"
+				"gid" "8979064481876885226"
+				"size" "704602860"
+				"download" "475440528"
 			}
 		}
 	}
@@ -374,9 +376,9 @@
 		{
 			"public"
 			{
-				"gid" "6396538250311970820"
-				"size" "678309045"
-				"download" "456359568"
+				"gid" "5665963561183353761"
+				"size" "678620632"
+				"download" "456535024"
 			}
 		}
 	}
@@ -391,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "7021663202120297159"
-				"size" "689305006"
-				"download" "471383360"
+				"gid" "7450217093677785815"
+				"size" "689525210"
+				"download" "471496976"
 			}
 		}
 	}
@@ -404,8 +406,8 @@
 	{
 		"public"
 		{
-			"buildid" "17136388"
-			"timeupdated" "1737895597"
+			"buildid" "17329276"
+			"timeupdated" "1739322362"
 		}
 	}
 	"privatebranches" "1"
@@ -459,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27171532"
-"_sha" "d8e4bea7b61832919d84818be8cb80983daea55d"
-"_size" "8693"
+"_change_number" "27430400"
+"_sha" "f00ed05843060eefc1950f03d93951fcb4d0eb5c"
+"_size" "8747"
