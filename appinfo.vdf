@@ -222,9 +222,9 @@
 		{
 			"public"
 			{
-				"gid" "6742653400222650154"
-				"size" "4390024898"
-				"download" "541977760"
+				"gid" "3043917139774451919"
+				"size" "4390038890"
+				"download" "541962000"
 			}
 		}
 	}
@@ -232,26 +232,33 @@
 	{
 		"public"
 		{
-			"buildid" "17320148"
-			"timeupdated" "1739271536"
+			"buildid" "17336324"
+			"timeupdated" "1739363781"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "10000000000"
-	"maxnumfiles" "10000"
+	"quota" "8000000000"
+	"maxnumfiles" "7000"
 	"savefiles"
 	{
 		"0"
 		{
-			"root" "gameinstall"
-			"path" "SavesDir"
-			"pattern" "*.sav"
+			"root" "WinAppDataLocalLow"
+			"path" "LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
 		}
 	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27418340"
-"_sha" "a22627825ebd5680f8eed570d9d490301ed851d2"
-"_size" "4932"
+"_change_number" "27439098"
+"_sha" "f9809e92da414eaa5eeba7405cda1e00d12c469a"
+"_size" "5084"
