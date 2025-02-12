@@ -311,7 +311,7 @@
 	"developer" "Tomas Sala"
 	"publisher" "Wired Productions"
 	"homepage" "http://www.theFalconeer.com"
-	"listofdlc" "2727620,2789830,2789840,3165180,3165190"
+	"listofdlc" "2727620,2789830,2789840,3165180,3165190,3478410"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "1581295005717750983"
-				"size" "1880978512"
-				"download" "915502832"
+				"gid" "2973702209480569143"
+				"size" "1884555857"
+				"download" "917622528"
 			}
 			"beta"
 			{
@@ -372,8 +372,8 @@
 	{
 		"public"
 		{
-			"buildid" "17322870"
-			"timeupdated" "1739285661"
+			"buildid" "17334550"
+			"timeupdated" "1739355556"
 		}
 		"beta"
 		{
@@ -411,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27422282"
-"_sha" "e8848c153e76ee42b746f3ad77847adb6571c63a"
-"_size" "7707"
+"_change_number" "27437033"
+"_sha" "62843ba890dd45ca91e06086481c5de3a055524a"
+"_size" "7715"
