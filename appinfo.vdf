@@ -18,8 +18,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1726617600"
-		"tested_build_id" "15447955"
+		"test_timestamp" "1737676800"
+		"tested_build_id" "17012958"
 		"tests"
 		{
 			"0"
@@ -58,7 +58,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -337,9 +337,9 @@
 		{
 			"public"
 			{
-				"gid" "2980420473103969971"
-				"size" "2260034520"
-				"download" "965326352"
+				"gid" "4428735714200296544"
+				"size" "2252861448"
+				"download" "962242832"
 			}
 		}
 	}
@@ -354,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "5900001399465049943"
-				"size" "2260034520"
-				"download" "965479744"
+				"gid" "5654203707068776114"
+				"size" "2252861448"
+				"download" "962366384"
 			}
 		}
 	}
@@ -373,8 +373,8 @@
 	{
 		"public"
 		{
-			"buildid" "17119397"
-			"timeupdated" "1737722028"
+			"buildid" "17333210"
+			"timeupdated" "1739349671"
 		}
 	}
 	"privatebranches" "1"
@@ -398,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27149035"
-"_sha" "bc9a40c57944a180bee3f63dfedf0cfcceeed5fa"
+"_change_number" "27435382"
+"_sha" "b9a2f6ebe2186a24961e9535e0edbe40c56db40f"
 "_size" "7745"
