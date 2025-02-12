@@ -124,12 +124,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "R-Age"
+			"name" "R-Age LLC"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "R-Age"
+			"name" "R-Age LLC"
 		}
 	}
 	"primary_genre" "0"
@@ -178,8 +178,8 @@
 }
 "extended"
 {
-	"developer" "R-Age"
-	"publisher" "R-Age"
+	"developer" "R-Age LLC"
+	"publisher" "R-Age LLC"
 	"listofdlc" "1420500,1632740,2320970"
 	"dlcavailableonstore" "1"
 }
@@ -209,15 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "6657983958620250524"
-				"size" "26062385518"
-				"download" "20970913120"
-			}
-			"open_beta"
-			{
-				"gid" "767451726164934477"
-				"size" "23552051063"
-				"download" "21233887600"
+				"gid" "3413255273974838412"
+				"size" "25939272145"
+				"download" "20837882784"
 			}
 		}
 	}
@@ -229,14 +223,8 @@
 	{
 		"public"
 		{
-			"buildid" "17280228"
-			"timeupdated" "1738935058"
-		}
-		"open_beta"
-		{
-			"buildid" "17271029"
-			"description" "open_beta"
-			"timeupdated" "1738869446"
+			"buildid" "17321956"
+			"timeupdated" "1739341382"
 		}
 	}
 	"privatebranches" "1"
@@ -250,6 +238,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27363962"
-"_sha" "1f8e873cbc4efc891309000875799bea38b0bf76"
-"_size" "4541"
+"_change_number" "27433544"
+"_sha" "40d0334f9f76882894a8ae81b4031de515e0e10d"
+"_size" "4324"
