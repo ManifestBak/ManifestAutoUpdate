@@ -26,6 +26,7 @@
 		"tchinese" "header_tchinese.jpg"
 		"english" "header.jpg"
 	}
+	"store_screenshot" "ss_e9ac4bd95d64087e30c7d899928ba1e45ed1c435.jpg"
 	"store_asset_mtime" "1687937905"
 	"associations"
 	{
@@ -101,9 +102,9 @@
 		{
 			"public"
 			{
-				"gid" "146407706603125440"
-				"size" "138500739"
-				"download" "118098160"
+				"gid" "6462289602082122088"
+				"size" "315669328"
+				"download" "269600128"
 			}
 		}
 		"dlcappid" "2447350"
@@ -112,8 +113,12 @@
 	{
 		"public"
 		{
-			"buildid" "11584966"
-			"timeupdated" "1688015218"
+			"buildid" "17338759"
+			"timeupdated" "1739375737"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27442233"
+"_sha" "39879d707525ed9b7ae1833792baae7221dc4440"
+"_size" "1871"
