@@ -62,6 +62,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "ZERO Sievert"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -142,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736252726"
+	"store_asset_mtime" "1739292200"
 	"associations"
 	{
 		"0"
@@ -242,6 +243,8 @@
 		}
 	}
 	"steam_release_date" "1729697043"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/zero-sievert\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1782120"
@@ -253,8 +256,8 @@
 		"3" "353880"
 		"4" "4791"
 		"5" "1774"
-		"6" "19"
-		"7" "3964"
+		"6" "3964"
+		"7" "19"
 		"8" "1695"
 		"9" "4182"
 		"10" "492"
@@ -305,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "3390722224532106506"
-				"size" "343476277"
-				"download" "187748864"
+				"gid" "4702978297428334093"
+				"size" "356720376"
+				"download" "197849056"
 			}
 			"legacy"
 			{
@@ -321,8 +324,8 @@
 	{
 		"public"
 		{
-			"buildid" "16949520"
-			"timeupdated" "1736424353"
+			"buildid" "17317655"
+			"timeupdated" "1739375796"
 		}
 		"legacy"
 		{
@@ -339,6 +342,6 @@
 	"maxnumfiles" "4"
 }
 "_missing_token" "False"
-"_change_number" "26923299"
-"_sha" "bdff81557916d6464396c278575436d84e01f7ff"
-"_size" "6227"
+"_change_number" "27442250"
+"_sha" "1b3a8dea17deea970263f79fb99883d2b8f5ca6b"
+"_size" "6384"
