@@ -1,0 +1,323 @@
+"appid" "3126330"
+"common"
+{
+	"name" "Kiosk"
+	"type" "Game"
+	"icon" "583dda5621c2d8bd1e24312debe97b8126f7e877"
+	"clienticon" "8dd3e81aea89f30fcfa0e8938a4cc391c1225382"
+	"clienttga" "9010d7ace37a54c32be1a78a9d43aa9c4afbe0f3"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"clienticns" "97524735272116b497b37a9c41356a8afa7680dd"
+	"linuxclienticon" "0e1c4e90decd46bbab8c5134700c08acdfc0b1ce"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "a9ee7b257b02eefb210d82b2151cf82929329c71/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "16.111535523300233"
+			"height_pct" "40.1723609090999"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "16.111535523300233"
+				"height_pct" "40.1723609090999"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737717419"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vivi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vivi"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Vivi"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738137804"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3126330"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3920"
+		"2" "9204"
+		"3" "3839"
+		"4" "1721"
+		"5" "4106"
+		"6" "3964"
+		"7" "4191"
+		"8" "5900"
+		"9" "15172"
+		"10" "1742"
+		"11" "599"
+		"12" "4166"
+		"13" "1719"
+		"14" "5716"
+		"15" "6691"
+		"16" "21"
+		"17" "4342"
+		"18" "4004"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Vivi"
+	"publisher" "Vivi"
+}
+"config"
+{
+	"installdir" "Kiosk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kiosk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Kiosk.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Kiosk/Kiosk.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3126332"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3042190865814094842"
+				"size" "335292393"
+				"download" "168790784"
+			}
+		}
+	}
+	"3126331"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6687860317922342238"
+				"size" "326320700"
+				"download" "170811392"
+			}
+		}
+	}
+	"3126333"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "727996080422271969"
+				"size" "327433732"
+				"download" "158832800"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17212654"
+			"timeupdated" "1738452353"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27402228"
+"_sha" "4b75aa4e9292ad516c5e592e40100c2cfa26a810"
+"_size" "4894"
