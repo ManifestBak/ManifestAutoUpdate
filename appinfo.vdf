@@ -21,7 +21,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "940302b916cef0b3b3a7ced17bb6b9dc6087e44e/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -35,12 +35,61 @@
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "UpperCenter"
-			"width_pct" "10"
-			"height_pct" "39.6347858782553"
+			"pinned_position" "BottomLeft"
+			"width_pct" "13.909143659454429"
+			"height_pct" "60.081153196654206"
 		}
 	}
-	"store_asset_mtime" "1720026304"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "13.909143659454429"
+				"height_pct" "60.081153196654206"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739358491"
 	"associations"
 	{
 		"0"
@@ -140,8 +189,8 @@
 		"2" "1663"
 		"3" "1662"
 		"4" "3942"
-		"5" "4305"
-		"6" "19"
+		"5" "19"
+		"6" "4305"
 		"7" "4252"
 		"8" "4191"
 		"9" "3839"
@@ -151,13 +200,13 @@
 		"13" "3993"
 		"14" "1774"
 		"15" "6276"
-		"16" "3964"
-		"17" "1716"
+		"16" "1716"
+		"17" "3964"
 		"18" "4182"
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -204,9 +253,9 @@
 		{
 			"public"
 			{
-				"gid" "5993301134458870119"
-				"size" "1362108414"
-				"download" "1115956384"
+				"gid" "1990112574235874712"
+				"size" "1648464497"
+				"download" "1395340848"
 			}
 			"0.5.23844"
 			{
@@ -214,98 +263,23 @@
 				"size" "1171146002"
 				"download" "923172032"
 			}
-			"betabranch"
+			"0.6.24541"
 			{
 				"gid" "5993301134458870119"
 				"size" "1362108414"
 				"download" "1115956384"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"behaviourinteractive"
+			"betabranch"
 			{
-				"gid" "8F5706FF8D536E8358F9FDA476A45B66"
-				"size" "FD62DE8F5FDAED3DFE0DBF75388BF621"
-				"download" "215BDF80F8D64BD92E954168187E32F7"
+				"gid" "1990112574235874712"
+				"size" "1648464497"
+				"download" "1395340848"
 			}
-			"ground"
+			"cooptest"
 			{
-				"gid" "B964E30D60EAB5CB620ADB6681A649E5"
-				"size" "EC7CAC49299490675FAE42E7C2A9E877"
-				"download" "C5AF30A31A07156AF66CBE667127C950"
-			}
-			"indiex"
-			{
-				"gid" "242B3B4CA85C25362152BB6E0EC4322A"
-				"size" "4A3D8D8155BAF2117AB8B2B30DE5C2A9"
-				"download" "50179C39DE49A664B18F60394458CED8"
-			}
-			"ludeo"
-			{
-				"gid" "88FF491E86D6FAF41A8E817FDDD83432"
-				"size" "1C8AD4B4A6F665A182D379DE316AC834"
-				"download" "26C511248B83C80F56093469DA41B6D6"
-			}
-			"microsoft"
-			{
-				"gid" "3AC76EFFF65F2E60775180B8FA3DAF8A"
-				"size" "7C7652DE281270D1FDA29167F727D574"
-				"download" "2C305F3E25C5A224A880C9732F590704"
-			}
-			"reload"
-			{
-				"gid" "77C21F63948F53D3B9398ABE72B52B67"
-				"size" "8BC7E0FE095183B4C5A0046A64CF07E6"
-				"download" "921E33BC11BEE3CF3E310E99C7EB981E"
-			}
-			"saveandsound"
-			{
-				"gid" "8927F396999F225894C2F4D5F24B5198"
-				"size" "CEE54983880904DD3246696F322ECB6B"
-				"download" "3DDF101452D6BA4ECA0CAE2CA86B00A9"
-			}
-			"team17"
-			{
-				"gid" "84AB80E6DA1A7F3577087E3E5AE63401"
-				"size" "0384448CCC08A13C31E1081F8742044B"
-				"download" "93BCBA3E34EE6CF52C0D4CDB81BC78AF"
-			}
-			"tinyteams"
-			{
-				"gid" "0FB4CF7997E47C88C611E7C60178A9EB"
-				"size" "670CEDDB66BFF0AF92BE454D5E9E4796"
-				"download" "8BB2F287D50D447F52FD1AA2903F1E3E"
-			}
-			"trailercapture"
-			{
-				"gid" "B51039E73C6CD485F2AC1F576547B273"
-				"size" "81CFEEC2B273D6372DA772E5151645D3"
-				"download" "9870E6D8BE656313DE8AA2501357FCBA"
-			}
-			"internaltest"
-			{
-				"gid" "48AFF0F61D34DB9F248CAAD841EE49C7"
-				"size" "DE850C50743D5E927D8922B95359B84D"
-				"download" "D8379B6B42FCBD85D9174BDC403F307B"
-			}
-			"localization"
-			{
-				"gid" "944AEE2BCC52AAA02234B39CF89AB03C"
-				"size" "E0FE1622A23976FF7BF2CAAF4CF5CA45"
-				"download" "07B7A568DC3AA92EF9F21E8DF6DA5F6F"
-			}
-			"playtest"
-			{
-				"gid" "DF151EC4DD50A393B8A95FD18F5E0DEB"
-				"size" "20285B873CF2C66B4EC9BF0D996865BD"
-				"download" "CA9BFC509AEFE5EAC6FB7964D6E9486B"
-			}
-			"press"
-			{
-				"gid" "7B11828C9EB9DFFEE63A0DBD987E6431"
-				"size" "68C84B2DDA90CD5E9C6FE48254E0F774"
-				"download" "32F432727A2F86803A3280870F9D2618"
+				"gid" "1990112574235874712"
+				"size" "1648464497"
+				"download" "1395340848"
 			}
 		}
 	}
@@ -314,68 +288,8 @@
 	{
 		"public"
 		{
-			"buildid" "14968453"
-			"timeupdated" "1720781743"
-		}
-		"behaviourinteractive"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1690279380"
-		}
-		"ground"
-		{
-			"buildid" "10795911"
-			"pwdrequired" "1"
-			"timeupdated" "1679067273"
-		}
-		"indiex"
-		{
-			"buildid" "12144260"
-			"pwdrequired" "1"
-			"timeupdated" "1694192425"
-		}
-		"ludeo"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1682438892"
-		}
-		"microsoft"
-		{
-			"buildid" "10900152"
-			"pwdrequired" "1"
-			"timeupdated" "1680251148"
-		}
-		"reload"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1686126779"
-		}
-		"saveandsound"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1686760502"
-		}
-		"team17"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1680701206"
-		}
-		"tinyteams"
-		{
-			"buildid" "10937115"
-			"pwdrequired" "1"
-			"timeupdated" "1686126770"
-		}
-		"trailercapture"
-		{
-			"buildid" "13836111"
-			"pwdrequired" "1"
-			"timeupdated" "1711278700"
+			"buildid" "17337727"
+			"timeupdated" "1739456219"
 		}
 		"0.5.23844"
 		{
@@ -383,37 +297,26 @@
 			"description" "Launch Version"
 			"timeupdated" "1719502371"
 		}
+		"0.6.24541"
+		{
+			"buildid" "14968453"
+			"description" "Major Update 1"
+			"timeupdated" "1739456076"
+		}
 		"betabranch"
 		{
-			"buildid" "14968453"
+			"buildid" "17337727"
 			"description" "Beta Branch"
-			"timeupdated" "1720539387"
+			"timeupdated" "1739391890"
 		}
-		"internaltest"
+		"cooptest"
 		{
-			"buildid" "14968453"
-			"pwdrequired" "1"
-			"timeupdated" "1720467584"
-		}
-		"localization"
-		{
-			"buildid" "14930509"
-			"pwdrequired" "1"
-			"timeupdated" "1720091374"
-		}
-		"playtest"
-		{
-			"buildid" "14968453"
-			"pwdrequired" "1"
-			"timeupdated" "1720781697"
-		}
-		"press"
-		{
-			"buildid" "14968453"
-			"pwdrequired" "1"
-			"timeupdated" "1720781706"
+			"buildid" "17337727"
+			"description" "Public Co-op Playtesting"
+			"timeupdated" "1739391898"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -450,6 +353,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24351064"
-"_sha" "814e295d9ec9f9bf62a18ed4ebdb1c787d0f7702"
-"_size" "8745"
+"_change_number" "27460825"
+"_sha" "3d62c6bae17548e2e50b93c2cbbbd0c739e8a511"
+"_size" "6051"
