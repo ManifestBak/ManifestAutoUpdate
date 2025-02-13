@@ -312,60 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "811326701316256067"
-				"size" "157363143"
-				"download" "110387952"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "946D28B2665FE3E883F27FF1C8A30516"
-				"size" "E34BEA3D77E0930B6E259100F6BB93F5"
-				"download" "F0C7F4C9F347D8640CA07F278C967311"
-			}
-			"devbuild"
-			{
-				"gid" "D85F1FFF5078629B4E7BE005ECFCE911"
-				"size" "1104FDB3D8287D6FD750E451350A6CAA"
-				"download" "C655A518734119AA325C601DEA55F895"
-			}
-			"gamescom"
-			{
-				"gid" "636B5F0572963B3655B5D0009FC60089"
-				"size" "F15CC3121C58C36F9DA733758669BC50"
-				"download" "57574A0B5CA205702A11EF1010EAD22F"
-			}
-			"lqa_debug"
-			{
-				"gid" "07D845B32D4C2AC4FDE0CC33F94E4DEB"
-				"size" "85A21AFD748CFC85279400ED393D1045"
-				"download" "3A306944F902FBA998699D9F537140F3"
-			}
-			"qa_debug"
-			{
-				"gid" "94E1CAAC37D944BC6842D37CF615E260"
-				"size" "7B19D76D35D17897E684EE8DD9731C6C"
-				"download" "FB0B30700438ADF78BFCBD19CF1DFCA3"
-			}
-			"qa_release"
-			{
-				"gid" "818EFA7BA8BC20DED00054EE402E017F"
-				"size" "891434EE9283D7965FAC7C6278DE39C4"
-				"download" "00EFEA0BFC13C57EB853DCC4A8AE4D62"
-			}
-			"techtest"
-			{
-				"gid" "D6F34FEB83ABB06C131B88EA1FE44B5B"
-				"size" "561B8EC5221EBCE825766666B5636A3F"
-				"download" "E13BA61CD3483DB84AD35F06C92A1B97"
-			}
-			"beta"
-			{
-				"gid" "B6795C3813CB9E429B5D7D347BD246F5"
-				"size" "A55CBD78A55E0E1DA1417AB50FC75DF3"
-				"download" "C8CE45D75DDD3EFE439626F47D00B0B5"
+				"gid" "1038994182927706298"
+				"size" "157360574"
+				"download" "110384800"
 			}
 		}
 	}
@@ -380,36 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "5903085756932207462"
-				"size" "103468210"
-				"download" "59825408"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbuild"
-			{
-				"gid" "488173025B347D2582F6B6132F0B2CAC"
-				"size" "E5702B92EACD9B6F9C8E720561FC2303"
-				"download" "6424DAC48FC0A83B2D905615CF60D2FB"
-			}
-			"gamescom"
-			{
-				"gid" "CD9FE1A78F1EA78461C7205F0BA9EC6F"
-				"size" "2BCD48C01134F1529443D26D8B4E03FD"
-				"download" "D465544D1A284919931EBE3FBBC19656"
-			}
-			"qa_release"
-			{
-				"gid" "2C795C34567168B6B9209D73057F1E76"
-				"size" "F9DBFDA2048E9FAB793F78A115460BE7"
-				"download" "C7808542D6BA529C2F4892460B3A421D"
-			}
-			"beta"
-			{
-				"gid" "156DB865520668BAD0AF64C39C3EF6C4"
-				"size" "F7D90D8559351EBF86DACD92EE73D8A9"
-				"download" "D53228416E563D98CC6EF6A30E9ED89D"
+				"gid" "6744744778546102544"
+				"size" "165069737"
+				"download" "111385328"
 			}
 		}
 	}
@@ -417,61 +339,18 @@
 	{
 		"public"
 		{
-			"buildid" "15649512"
-			"timeupdated" "1726566324"
-		}
-		"alpha"
-		{
-			"buildid" "10470309"
-			"pwdrequired" "1"
-			"timeupdated" "1675425383"
-		}
-		"devbuild"
-		{
-			"buildid" "10714386"
-			"pwdrequired" "1"
-			"timeupdated" "1678229097"
-		}
-		"gamescom"
-		{
-			"buildid" "9203429"
-			"pwdrequired" "1"
-			"timeupdated" "1658959221"
-		}
-		"lqa_debug"
-		{
-			"buildid" "9404383"
-			"pwdrequired" "1"
-			"timeupdated" "1661884505"
-		}
-		"qa_debug"
-		{
-			"buildid" "9450062"
-			"pwdrequired" "1"
-			"timeupdated" "1662322986"
-		}
-		"qa_release"
-		{
-			"buildid" "10714514"
-			"pwdrequired" "1"
-			"timeupdated" "1678230347"
-		}
-		"techtest"
-		{
-			"buildid" "9828702"
-			"pwdrequired" "1"
-			"timeupdated" "1667063434"
-		}
-		"beta"
-		{
-			"buildid" "15649512"
-			"pwdrequired" "1"
-			"timeupdated" "1725962386"
+			"buildid" "17313411"
+			"timeupdated" "1739456830"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "1048576"
 	"maxnumfiles" "10"
 }
+"_missing_token" "False"
+"_change_number" "27461005"
+"_sha" "01afcc48c6399f29be7961e533305129aff6e7d8"
+"_size" "6686"
