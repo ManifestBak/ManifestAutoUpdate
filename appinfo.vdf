@@ -247,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "2812177142633489265"
-				"size" "257848958"
-				"download" "125898704"
+				"gid" "2167128643228140607"
+				"size" "258879396"
+				"download" "126267408"
 			}
 			"oldermacos"
 			{
@@ -264,21 +264,6 @@
 				"download" "125898704"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "E64A1B9188007DD35A02A620CA03A687"
-				"size" "84C2AB582F320AF2DCD84222A8DE1B03"
-				"download" "9781D23B53BEC294B6818A8C7928F974"
-			}
-			"development"
-			{
-				"gid" "22BA03788FBCF8D6244BA8EFE427437E"
-				"size" "28FCD336677740DFAAB784CF0C0A3715"
-				"download" "029091C76E74CF077A2CF3BAA1F825EE"
-			}
-		}
 	}
 	"1070712"
 	{
@@ -290,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "8448614712340973631"
-				"size" "282272849"
-				"download" "132994784"
+				"gid" "6154644291998739773"
+				"size" "283303890"
+				"download" "133362800"
 			}
 			"oldermacos"
 			{
@@ -307,21 +292,6 @@
 				"download" "132994784"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "FE5A438334890489442EDDFE68600989"
-				"size" "1C82E05C5D1974B89873B26F927C8673"
-				"download" "94CEB2BD4927EEF630D4771F141CD2FA"
-			}
-			"development"
-			{
-				"gid" "1B7D3B6AB8FF5F83C06D159B59B05A20"
-				"size" "7A78579FA67852B831B5968883D9CBBF"
-				"download" "19836C413F89A254D0905EFB71450915"
-			}
-		}
 	}
 	"1070713"
 	{
@@ -333,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "3551879538677426488"
-				"size" "301573642"
-				"download" "127361040"
+				"gid" "1843601890649344618"
+				"size" "302604208"
+				"download" "127729520"
 			}
 			"oldermacos"
 			{
@@ -350,21 +320,6 @@
 				"download" "127361040"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "6C40F27CBE49804DC70A18C57888B51A"
-				"size" "BD475BA465154BA27F09B366B0A479D3"
-				"download" "F232EB4293E6DE83A48065DEC9E5F68A"
-			}
-			"development"
-			{
-				"gid" "76440D35C994EBA32B3A79B7E46E7761"
-				"size" "DF1455EA00A140A59397ABEEAB35C4FB"
-				"download" "158FB49DD5A164D96FBD413FF3759D16"
-			}
-		}
 	}
 	"1129440"
 	{
@@ -374,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "15925165"
-			"timeupdated" "1728056053"
+			"buildid" "17227774"
+			"timeupdated" "1739467710"
 		}
 		"oldermacos"
 		{
@@ -383,24 +338,13 @@
 			"description" "Outdated version supporting MacOS 10.11"
 			"timeupdated" "1629271207"
 		}
-		"beta"
-		{
-			"buildid" "15145689"
-			"pwdrequired" "1"
-			"timeupdated" "1721881854"
-		}
-		"development"
-		{
-			"buildid" "15145689"
-			"pwdrequired" "1"
-			"timeupdated" "1721881868"
-		}
 		"testing"
 		{
 			"buildid" "15925165"
 			"timeupdated" "1728016868"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -408,6 +352,6 @@
 	"maxnumfiles" "2"
 }
 "_missing_token" "False"
-"_change_number" "25536455"
-"_sha" "23b4c7da2a43223c2d6e017250f58a467b542f3e"
-"_size" "7351"
+"_change_number" "27464227"
+"_sha" "f88b2480ae1840c4b5876554befa0b4efde51d58"
+"_size" "6024"
