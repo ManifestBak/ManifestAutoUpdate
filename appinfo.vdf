@@ -12,6 +12,10 @@
 	"osarch" ""
 	"osextended" ""
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -231,9 +235,9 @@
 		{
 			"public"
 			{
-				"gid" "4312350626663847798"
-				"size" "131725745"
-				"download" "60179488"
+				"gid" "3397092738572089599"
+				"size" "131726257"
+				"download" "60178656"
 			}
 		}
 	}
@@ -247,9 +251,9 @@
 		{
 			"public"
 			{
-				"gid" "8591769453013887853"
-				"size" "133671008"
-				"download" "60470112"
+				"gid" "4180351426528607038"
+				"size" "133671520"
+				"download" "60470144"
 			}
 		}
 	}
@@ -257,13 +261,13 @@
 	{
 		"public"
 		{
-			"buildid" "17291112"
-			"timeupdated" "1739014821"
+			"buildid" "17351276"
+			"timeupdated" "1739448187"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27377917"
-"_sha" "bcdb6924a05b0378d16da5bd944fbda32156c9dd"
-"_size" "4275"
+"_change_number" "27458501"
+"_sha" "1c8b021b19ef99cef445c02747f59bf5df74051d"
+"_size" "4315"
