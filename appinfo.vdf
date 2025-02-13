@@ -294,7 +294,7 @@
 		"0"
 		{
 			"executable" "afop.exe"
-			"arguments" "-uplay_steam_mode -uplay_launcher -livefix"
+			"arguments" "-uplay_steam_mode -uplay_launcher"
 			"description_loc"
 			{
 				"english" "PROD"
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "4089388212111110171"
-				"size" "106708585261"
-				"download" "96553714320"
+				"gid" "6340378583924013211"
+				"size" "106681399101"
+				"download" "96536912480"
 			}
 		}
 	}
@@ -458,13 +458,13 @@
 	{
 		"public"
 		{
-			"buildid" "16511136"
-			"timeupdated" "1732784931"
+			"buildid" "17277991"
+			"timeupdated" "1739434119"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27176963"
-"_sha" "cd67d95a846852de3c34908f68d0fc39284cd596"
-"_size" "7730"
+"_change_number" "27454810"
+"_sha" "3d50cd9a5a3450a74d0214f21442a89d025aa7a9"
+"_size" "7721"
