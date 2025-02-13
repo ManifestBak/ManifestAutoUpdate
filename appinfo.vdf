@@ -120,12 +120,28 @@
 			}
 		}
 	}
+	"942431"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8913972776300260532"
+				"size" "131445614"
+				"download" "121338128"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17219383"
-			"timeupdated" "1738548552"
+			"buildid" "17219647"
+			"timeupdated" "1738551565"
 		}
 	}
 	"privatebranches" "1"
@@ -336,6 +352,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27282696"
-"_sha" "8ecea104747f1b1337cee74d20e18eafef8e7d0a"
-"_size" "6070"
+"_change_number" "27283238"
+"_sha" "0dee82ddfd9420e7280cc39d120e55dd06132217"
+"_size" "6277"
