@@ -24,7 +24,7 @@
 			"id" "1062520_eula_0"
 			"name" "Dinkum EULA"
 			"url" "https://store.steampowered.com//eula/1062520_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"steam_deck_compatibility"
@@ -155,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739180434"
+	"store_asset_mtime" "1739343282"
 	"associations"
 	{
 		"0"
@@ -324,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "6483361911292843673"
-				"size" "3087729379"
-				"download" "808559184"
+				"gid" "1161893712710806151"
+				"size" "3087709035"
+				"download" "808542944"
 			}
 		}
 	}
@@ -334,8 +334,8 @@
 	{
 		"public"
 		{
-			"buildid" "17330350"
-			"timeupdated" "1739334123"
+			"buildid" "17344179"
+			"timeupdated" "1739445888"
 		}
 	}
 	"privatebranches" "1"
@@ -371,6 +371,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27432486"
-"_sha" "78d66f2c38c2eaff110042a8410b48bfe8d75b63"
+"_change_number" "27457892"
+"_sha" "50ca2d5b4acd1cf86ee3a42d32518b65ba1e28bb"
 "_size" "6775"
