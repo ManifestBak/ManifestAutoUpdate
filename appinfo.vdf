@@ -1,0 +1,432 @@
+"appid" "2400160"
+"common"
+{
+	"name" "Glyphica: Typing Survival"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "12cbca40738a1a3a57ab91ba6b41b46d502adde4"
+	"clienticon" "d7fee7430eaee581553fa3a44c3913fa4df420e5"
+	"clienttga" "b80bfc19dce7671babd19f965c36cebe68acd46b"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738713600"
+		"tested_build_id" "17213746"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "1486c9e335ae22c0284f92008d75e749330a6bec/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "78.66852404151967"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "78.66852404151967"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728497316"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "aliasBLACK"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "aliasBLACK"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Squeaky Wheel"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1728482426"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2400160"
+	"store_tags"
+	{
+		"0" "1674"
+		"1" "42804"
+		"2" "5547"
+		"3" "4885"
+		"4" "4637"
+		"5" "19"
+		"6" "3959"
+		"7" "24003"
+		"8" "6730"
+		"9" "1773"
+		"10" "3871"
+		"11" "4791"
+		"12" "1654"
+		"13" "5125"
+		"14" "4094"
+		"15" "6129"
+		"16" "5154"
+		"17" "4182"
+		"18" "1716"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "aliasBLACK"
+	"publisher" "aliasBLACK"
+	"homepage" "https://www.squeakywheel.ph/glyphica-presskit"
+}
+"config"
+{
+	"installdir" "Glyphica"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "neosphere.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "neosphere"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3343994067"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,demo_test,staging"
+			"use_action_block" "true"
+		}
+	}
+}
+"depots"
+{
+	"2400161"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1708854877094724350"
+				"size" "125722783"
+				"download" "117287216"
+			}
+			"demo_test"
+			{
+				"gid" "7082400121264790897"
+				"size" "82620663"
+				"download" "74118720"
+			}
+			"mistype_bug"
+			{
+				"gid" "4364194849268558885"
+				"size" "125687117"
+				"download" "117251264"
+			}
+			"schinese"
+			{
+				"gid" "5645039955948544734"
+				"size" "125775291"
+				"download" "117416544"
+			}
+			"temporary"
+			{
+				"gid" "1020834875446150077"
+				"size" "107393409"
+				"download" "98824672"
+			}
+		}
+	}
+	"2400162"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4227695710731813952"
+				"size" "137901863"
+				"download" "118615968"
+			}
+			"demo_test"
+			{
+				"gid" "2786582678930205952"
+				"size" "88717757"
+				"download" "69660000"
+			}
+			"mistype_bug"
+			{
+				"gid" "8778202458966149244"
+				"size" "137866197"
+				"download" "118579888"
+			}
+			"schinese"
+			{
+				"gid" "8566071413867662685"
+				"size" "138056259"
+				"download" "118769264"
+			}
+			"temporary"
+			{
+				"gid" "3187886273596564511"
+				"size" "119662745"
+				"download" "100174208"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17213746"
+			"timeupdated" "1738467937"
+		}
+		"demo_test"
+		{
+			"buildid" "15611210"
+			"description" "Testing branch for demo build"
+			"timeupdated" "1725593913"
+		}
+		"mistype_bug"
+		{
+			"buildid" "16948706"
+			"description" "Branch with additional logging to track mistype bug."
+			"timeupdated" "1736409371"
+		}
+		"schinese"
+		{
+			"buildid" "16761140"
+			"description" "simplified chinese test branch"
+			"timeupdated" "1734365678"
+		}
+		"temporary"
+		{
+			"buildid" "16012985"
+			"description" "temporary branch for old saves"
+			"timeupdated" "1728668539"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "25"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Sphere Saves/aliasblack.glyphica"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacDocuments"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27446546"
+"_sha" "965bbb8b0340bbdf8855d45b01d0cba0cb2a6f5a"
+"_size" "7479"
