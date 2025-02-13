@@ -139,7 +139,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736107631"
+	"store_asset_mtime" "1739415904"
 	"associations"
 	{
 		"0"
@@ -267,9 +267,9 @@
 		{
 			"public"
 			{
-				"gid" "6077808441800368669"
-				"size" "1613331408"
-				"download" "650946176"
+				"gid" "8311635905862738142"
+				"size" "1615935912"
+				"download" "651181776"
 			}
 			"rolling_line_1x"
 			{
@@ -291,18 +291,9 @@
 			}
 			"testing"
 			{
-				"gid" "6077808441800368669"
-				"size" "1613331408"
-				"download" "650946176"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer_testing"
-			{
-				"gid" "445FDCC8EE929622511EE0DBC9D69E54"
-				"size" "630C9BD39BED171AB89C146456EEEF0D"
-				"download" "90FB0B7B634A5560EB6AB34E4F415AC0"
+				"gid" "8311635905862738142"
+				"size" "1615935912"
+				"download" "651181776"
 			}
 		}
 	}
@@ -311,8 +302,8 @@
 	{
 		"public"
 		{
-			"buildid" "16923804"
-			"timeupdated" "1736222198"
+			"buildid" "17345775"
+			"timeupdated" "1739416363"
 		}
 		"rolling_line_1x"
 		{
@@ -332,19 +323,14 @@
 			"description" "An older version (v4.25) before 5.0 onwards"
 			"timeupdated" "1675919663"
 		}
-		"developer_testing"
-		{
-			"buildid" "16923804"
-			"pwdrequired" "1"
-			"timeupdated" "1736220430"
-		}
 		"testing"
 		{
-			"buildid" "16923804"
+			"buildid" "17345775"
 			"description" "Update testing branch"
-			"timeupdated" "1736220437"
+			"timeupdated" "1739415753"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -354,6 +340,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26886430"
-"_sha" "be96689614b71c310aaaafcec920e0a1ea930abb"
-"_size" "6863"
+"_change_number" "27451714"
+"_sha" "8d401f3ec71dd0287bb5fb64261c789f8deb60cd"
+"_size" "6557"
