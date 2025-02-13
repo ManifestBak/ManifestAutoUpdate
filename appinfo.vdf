@@ -345,14 +345,14 @@
 		"19" "1685"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "67"
 }
 "extended"
 {
 	"developer" "Dimps Corporation"
 	"publisher" "Bandai Namco Entertainment"
 	"homepage" "https://fd.sao-game.jp/"
-	"listofdlc" "2387391,2877820,2877830,2877840,2939660,2985460,3037280,3047110"
+	"listofdlc" "2387391,2877820,2877830,2877840,2939660,2985460,3037270,3037280,3047110,3047120,3300980"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "3416363099240964798"
-				"size" "47743770230"
-				"download" "46503257056"
+				"gid" "3893010788303338804"
+				"size" "47812787466"
+				"download" "46571870880"
 			}
 		}
 	}
@@ -452,8 +452,8 @@
 	{
 		"public"
 		{
-			"buildid" "16929694"
-			"timeupdated" "1737514802"
+			"buildid" "17181454"
+			"timeupdated" "1739415604"
 		}
 	}
 	"privatebranches" "1"
@@ -507,6 +507,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27104806"
-"_sha" "fa8358e7332e00ea5ea52aeb27d2fc803c71d515"
-"_size" "11557"
+"_change_number" "27451574"
+"_sha" "5970df4f4c9a18ceb5bf92b98e71630680b3b604"
+"_size" "11581"
