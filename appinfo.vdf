@@ -5,13 +5,13 @@
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
-	"osarch" "64"
+	"osarch" ""
 	"osextended" "macos64"
 	"clienticon" "641289e9aec2b7875efdc45d93a80eac2265649f"
 	"clienttga" "736991f226dc5d65fa0bfe1eb52dc474aaed0b85"
 	"icon" "7ae5d07f6809909673424e9c60a74190ce0b7722"
 	"linuxclienticon" "837a0f271e81d17e64f0682383db76a584fb2486"
-	"clienticns" "1235916754567ead63b005ba98c069784c92b22b"
+	"clienticns" "c15482ea3738e23387f8c81a648062ef53294d16"
 	"logo" "75d4c5ed3cbf42f8e4cf85d683912e92937c08a0"
 	"logo_small" "75d4c5ed3cbf42f8e4cf85d683912e92937c08a0_thumb"
 	"languages"
@@ -27,8 +27,6 @@
 		"2" "4"
 		"3" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"restricted_countries" "CN,DE"
 	"steam_deck_compatibility"
 	{
@@ -85,6 +83,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -92,7 +91,56 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1691355509"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1718449771"
 	"associations"
 	{
 		"0"
@@ -124,6 +172,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -197,22 +246,22 @@
 		"4" "4191"
 		"5" "21"
 		"6" "4486"
-		"7" "4175"
-		"8" "10235"
-		"9" "24904"
-		"10" "44868"
+		"7" "24904"
+		"8" "4175"
+		"9" "44868"
+		"10" "10235"
 		"11" "13190"
 		"12" "5372"
 		"13" "4947"
 		"14" "5984"
-		"15" "4136"
-		"16" "5611"
+		"15" "5611"
+		"16" "4136"
 		"17" "6426"
 		"18" "1742"
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -253,6 +302,15 @@
 				"oslist" "linux"
 			}
 		}
+		"3"
+		{
+			"executable" "FetishLocator-32.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "4"
 }
@@ -265,24 +323,21 @@
 		{
 			"public"
 			{
-				"gid" "1234353993919506976"
-				"size" "2141211256"
-				"download" "1987642192"
+				"gid" "5597032413314442968"
+				"size" "2113632929"
+				"download" "1986928176"
+			}
+			"renpy-8"
+			{
+				"gid" "5597032413314442968"
+				"size" "2113632929"
+				"download" "1986928176"
 			}
 			"beta"
 			{
-				"gid" "1234353993919506976"
-				"size" "2141211256"
-				"download" "1987642192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secret"
-			{
-				"gid" "2B6DA4FB565FB7617468802705032E6D"
-				"size" "0971B2B6F4964B3186886F259026924D"
-				"download" "17818345CA6451D08A7391AF34DC3352"
+				"gid" "5597032413314442968"
+				"size" "2113632929"
+				"download" "1986928176"
 			}
 		}
 	}
@@ -297,6 +352,12 @@
 				"size" "281150"
 				"download" "143328"
 			}
+			"renpy-8"
+			{
+				"gid" "2664111227598936467"
+				"size" "281150"
+				"download" "143328"
+			}
 			"beta"
 			{
 				"gid" "2664111227598936467"
@@ -304,36 +365,28 @@
 				"download" "143328"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"secret"
-			{
-				"gid" "C6B778B3AD3B4A972C27EFFA81B0708E"
-				"size" "AA634E364434CAE3ED6AE66247BEC07B"
-				"download" "E871ADEA9030D677F345417CE00C1594"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11879297"
-			"timeupdated" "1691353728"
+			"buildid" "14007695"
+			"timeupdated" "1739484808"
+		}
+		"renpy-8"
+		{
+			"buildid" "14007695"
+			"description" "Branch with updated version of the engine"
+			"timeupdated" "1712741135"
 		}
 		"beta"
 		{
-			"buildid" "11879297"
+			"buildid" "14007695"
 			"description" "Beta"
-			"timeupdated" "1691352604"
-		}
-		"secret"
-		{
-			"buildid" "11879297"
-			"pwdrequired" "1"
-			"timeupdated" "1691352611"
+			"timeupdated" "1739484880"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -380,6 +433,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21699406"
-"_sha" "d30b69daefa711f712c781cab7ebac3c65606dcc"
-"_size" "6717"
+"_change_number" "27468389"
+"_sha" "36c6346483c63793c8d40cc19eee4f15c2c397be"
+"_size" "7400"
