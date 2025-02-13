@@ -54,13 +54,13 @@
 		{
 			"image"
 			{
-				"english" "f10fc3c4bd972fbd871c69d748365e77bf581f2b/library_600x900.jpg"
+				"english" "e3596ffafefefa504350925504d26dccd30eb2ee/library_600x900.jpg"
 				"sc_schinese" "library_600x900_sc_schinese.jpg"
 				"schinese" "e509f1cb9386b507ad91335439db7923f7bb736e/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "f10fc3c4bd972fbd871c69d748365e77bf581f2b/library_600x900_2x.jpg"
+				"english" "e3596ffafefefa504350925504d26dccd30eb2ee/library_600x900_2x.jpg"
 				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
 				"schinese" "e509f1cb9386b507ad91335439db7923f7bb736e/library_600x900_schinese_2x.jpg"
 			}
@@ -108,18 +108,18 @@
 		{
 			"image"
 			{
-				"english" "ffdbfcff98bcd1b1de0ec09874c8c49a166b89c3/library_header.jpg"
+				"english" "3722f2510ea4fccdc792f2dc810248c1e76d148a/library_header.jpg"
 				"sc_schinese" "library_header_sc_schinese.jpg"
 				"schinese" "3f90d2f3d9a7e614dc1372a30c9732d2de8e10b7/library_header_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "ffdbfcff98bcd1b1de0ec09874c8c49a166b89c3/library_header_2x.jpg"
+				"english" "3722f2510ea4fccdc792f2dc810248c1e76d148a/library_header_2x.jpg"
 				"schinese" "3f90d2f3d9a7e614dc1372a30c9732d2de8e10b7/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1734095623"
+	"store_asset_mtime" "1739462366"
 	"associations"
 	{
 		"0"
@@ -228,7 +228,8 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1734025833"
+	"steam_release_date" "1734025800"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2963880"
 	"store_tags"
@@ -340,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "5921825450788804277"
-				"size" "2230177097"
-				"download" "1399821504"
+				"gid" "4257181001953085871"
+				"size" "2246195889"
+				"download" "1415010448"
 			}
 			"mod-dev"
 			{
@@ -352,18 +353,19 @@
 			}
 			"preview"
 			{
-				"gid" "1985523991066168472"
-				"size" "2005180633"
-				"download" "1335682816"
+				"gid" "4957161425258214789"
+				"size" "2239969846"
+				"download" "1408938848"
 			}
 		}
 	}
+	"workshopdepot" "2963880"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17254019"
-			"timeupdated" "1738771549"
+			"buildid" "17353427"
+			"timeupdated" "1739458808"
 		}
 		"mod-dev"
 		{
@@ -373,9 +375,9 @@
 		}
 		"preview"
 		{
-			"buildid" "16819227"
+			"buildid" "17323512"
 			"description" "A beta branch to access the latest features before they\'re pushed to the official default one."
-			"timeupdated" "1736244610"
+			"timeupdated" "1739293567"
 		}
 	}
 	"privatebranches" "1"
@@ -386,6 +388,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27329221"
-"_sha" "6a50fc5452e5da6a3ccb07b8da976a7a877aed35"
-"_size" "7373"
+"_change_number" "27462641"
+"_sha" "a6e83f0342d21d41c799bb7362002b1846bfa184"
+"_size" "7428"
