@@ -262,8 +262,8 @@
 		"9" "3834"
 		"10" "4136"
 		"11" "5350"
-		"12" "493"
-		"13" "3968"
+		"12" "3968"
+		"13" "493"
 		"14" "4747"
 		"15" "9204"
 		"16" "96359"
@@ -341,84 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "1960283759958495084"
-				"size" "17994794781"
-				"download" "5999975328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"kickstarter_dev_build"
-			{
-				"gid" "B43C75432C3AF369B2DE60283660E13E"
-				"size" "99FA5A4875F99CB2421876F5010BF673"
-				"download" "C0AD2FCD5268FE339D0A6E05FD4A3FDD"
-			}
-			"media_build"
-			{
-				"gid" "77FDFEB811BFE0FE7747D85B4A566867"
-				"size" "724498B0941431A20A12C2565C28B564"
-				"download" "517ADDAC85A470F08B4BF450744C15A1"
-			}
-			"nacon_3goo_test"
-			{
-				"gid" "F9989E001A2A73DB5BE740A70FC87F19"
-				"size" "EA9FB4AF2767293115FC957854A50E64"
-				"download" "3569020CC3BC26F1BBB02C82C8A0544B"
-			}
-			"nacon_event"
-			{
-				"gid" "15597DDA0458494EF45AA71A19B689C1"
-				"size" "68C0466F403EEF6B8174A46E2AD131D4"
-				"download" "5D1DCDB414999A0A87418778B0ADF931"
-			}
-			"nacon_latest"
-			{
-				"gid" "FCCA4070F1C48993F50F1D70F49E623B"
-				"size" "460AFC7E5FA3ABAB49864255647A4C32"
-				"download" "A9E647607FBCCE7532E884A490E176B4"
-			}
-			"nacon_marketing"
-			{
-				"gid" "D0EE6200DD9352D0B5E9AD348C374C6F"
-				"size" "9D85D943B9F822B4F3F9B2EFA3C34B1E"
-				"download" "22CC207AD2AA03DD399F10466CC22E46"
-			}
-			"nacon_media"
-			{
-				"gid" "7600BD982D6F7518291A8A7CC1AD2840"
-				"size" "6570824AA851B1461AB805EB05A16B4D"
-				"download" "EFDFD97AB246E39BE82D413BDA38B80F"
-			}
-			"nacon_ms"
-			{
-				"gid" "9171EB5D9F5F9F03DC4DA12C2DBC9AB1"
-				"size" "82F5E738ACF4CAF733D389CA1ED488E5"
-				"download" "2A2709E83128A3CBDF6FCC0F7544DC27"
-			}
-			"nacon_preview"
-			{
-				"gid" "0AA52E71A76ED6DBAC8ABC142A156169"
-				"size" "FFA1B35A293199026E9A7648D8B0B2B6"
-				"download" "8A56FA0A8A52548DE06029766D4DB46E"
-			}
-			"nacon_ratings"
-			{
-				"gid" "FE8A17B8E5C17E2D73A8183861FC135B"
-				"size" "B258DEB32B086E38F05DEE75ECDC2C04"
-				"download" "88B654D9E39DB120BFEB8D3BE453F973"
-			}
-			"nacon_release"
-			{
-				"gid" "5B649436A6CDF7678352B5D430E9450B"
-				"size" "A1821A1D52B301D3B7CDB8D229B4A88F"
-				"download" "C27968E87DEE4F40A0E3B5B125CA1524"
-			}
-			"dev_latest"
-			{
-				"gid" "7DD6236F5C7BE9D734524CC106D6368D"
-				"size" "BC35B027A1DE2C7428C5A80C0FD042E3"
-				"download" "3D050667F0288F5790625B5647AE902B"
+				"gid" "4390842887465411081"
+				"size" "17994391941"
+				"download" "5999933232"
 			}
 		}
 	}
@@ -426,82 +351,11 @@
 	{
 		"public"
 		{
-			"buildid" "16778781"
-			"timeupdated" "1735203601"
-		}
-		"kickstarter_dev_build"
-		{
-			"buildid" "6072495"
-			"pwdrequired" "1"
-			"timeupdated" "1610486562"
-		}
-		"media_build"
-		{
-			"buildid" "8251757"
-			"pwdrequired" "1"
-			"timeupdated" "1645537060"
-		}
-		"nacon_3goo_test"
-		{
-			"buildid" "10067460"
-			"pwdrequired" "1"
-			"timeupdated" "1671614708"
-		}
-		"nacon_event"
-		{
-			"buildid" "9500155"
-			"pwdrequired" "1"
-			"timeupdated" "1663163624"
-		}
-		"nacon_latest"
-		{
-			"buildid" "11148753"
-			"pwdrequired" "1"
-			"timeupdated" "1683731256"
-		}
-		"nacon_marketing"
-		{
-			"buildid" "10977057"
-			"pwdrequired" "1"
-			"timeupdated" "1682510639"
-		}
-		"nacon_media"
-		{
-			"buildid" "7447932"
-			"pwdrequired" "1"
-			"timeupdated" "1633441089"
-		}
-		"nacon_ms"
-		{
-			"buildid" "10977057"
-			"pwdrequired" "1"
-			"timeupdated" "1682494629"
-		}
-		"nacon_preview"
-		{
-			"buildid" "9533858"
-			"pwdrequired" "1"
-			"timeupdated" "1663863888"
-		}
-		"nacon_ratings"
-		{
-			"buildid" "8693000"
-			"pwdrequired" "1"
-			"timeupdated" "1652430027"
-		}
-		"nacon_release"
-		{
-			"buildid" "9533858"
-			"pwdrequired" "1"
-			"timeupdated" "1663750691"
-		}
-		"dev_latest"
-		{
-			"buildid" "16778781"
-			"pwdrequired" "1"
-			"timeupdated" "1734471736"
+			"buildid" "17256322"
+			"timeupdated" "1739436579"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -524,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26787047"
-"_sha" "c4bef2885dcb85bbfec6890aaeffca3ad358e7b9"
-"_size" "10090"
+"_change_number" "27455369"
+"_sha" "cb4434ebb4343cc3c32273acee9dac04b54e927e"
+"_size" "6626"
