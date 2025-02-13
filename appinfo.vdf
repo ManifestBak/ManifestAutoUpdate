@@ -259,8 +259,8 @@
 		"0" "9"
 		"1" "1741"
 		"2" "3859"
-		"3" "4328"
-		"4" "1670"
+		"3" "1670"
+		"4" "4328"
 		"5" "3987"
 		"6" "4364"
 		"7" "12472"
@@ -273,8 +273,8 @@
 		"14" "1695"
 		"15" "1708"
 		"16" "1756"
-		"17" "1662"
-		"18" "1643"
+		"17" "1643"
+		"18" "1662"
 		"19" "4747"
 	}
 	"review_score" "5"
@@ -397,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "2936869216781286952"
-				"size" "36783977842"
-				"download" "14830395040"
+				"gid" "4047577098521019287"
+				"size" "37017647208"
+				"download" "14885965824"
 			}
 			"rollback"
 			{
@@ -409,42 +409,9 @@
 			}
 			"update_preview"
 			{
-				"gid" "2936869216781286952"
-				"size" "36783977842"
-				"download" "14830395040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_build"
-			{
-				"gid" "C5E4CA93A566C99A8D6694CA1E7C3BF2"
-				"size" "3EDE979A0F94E4BDB3A32A6D652DB9ED"
-				"download" "EB4000A8088DE87E2DAFE5423A0504AC"
-			}
-			"pr_preview"
-			{
-				"gid" "F218568A017AF22458875AD3876D5078"
-				"size" "0A7FE864BECF562657208DFD0B71BF40"
-				"download" "6009B720B2D41D3A1175C63CBC86DCC4"
-			}
-			"test_emilien"
-			{
-				"gid" "E441EBE32724D642E3A7C1DF69C86969"
-				"size" "0E05C33F6192AF8CEBDD5FD1AC2EA83B"
-				"download" "2369C749E812C472BF30AD81E2CF441E"
-			}
-			"test_laurent"
-			{
-				"gid" "6F136E7E7677AFF47CECD15D70D642EF"
-				"size" "05290A6A974820D2AB95DFBDCC7F61B6"
-				"download" "451A843380D72CB4D3FC2FF02C577254"
-			}
-			"next_release"
-			{
-				"gid" "2405C00FD074631EE7871BAAE28FBC3A"
-				"size" "46B112517FA4AC514297C7EF1D1093ED"
-				"download" "355CD95C438D0CDC5B72DDFC2390CB5A"
+				"gid" "4047577098521019287"
+				"size" "37017647208"
+				"download" "14885965824"
 			}
 		}
 	}
@@ -459,9 +426,9 @@
 		{
 			"public"
 			{
-				"gid" "1422004937408954799"
-				"size" "36826784907"
-				"download" "14847318032"
+				"gid" "4744833801444402146"
+				"size" "37060455221"
+				"download" "14896842624"
 			}
 			"rollback"
 			{
@@ -471,42 +438,9 @@
 			}
 			"update_preview"
 			{
-				"gid" "1422004937408954799"
-				"size" "36826784907"
-				"download" "14847318032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev_build"
-			{
-				"gid" "217EDAAA92256D9E21D6916DA47C9C6E"
-				"size" "DAD9B6C62B12985737740E047BEA7CBA"
-				"download" "7432C5CCDCDDBAFD465A1AF0043AA171"
-			}
-			"pr_preview"
-			{
-				"gid" "523E38AA94307FD228700737497CB6E4"
-				"size" "8EDEE670C2E579DDA343520A66A3AE57"
-				"download" "F3145615469D9F964A40DC8367C7EA33"
-			}
-			"test_emilien"
-			{
-				"gid" "39D71E932647C2C8760A272E52518F79"
-				"size" "423C46F1E3C5CD05D1F7218DDD1E648B"
-				"download" "3A3B5B4490264CBA2DBDB8A2DE50AFC6"
-			}
-			"test_laurent"
-			{
-				"gid" "A7BDE91973D57EA8346F3DAAE3F08B89"
-				"size" "6ADCA4450A2F290AD07ACFCB1B55D162"
-				"download" "A7BD4742985D05EB374E859C8542F890"
-			}
-			"next_release"
-			{
-				"gid" "2AAFBD118E59CC5EFD4A4D1CEDBB6371"
-				"size" "3E72DE9BB1E7E117D98AAC1013466B7A"
-				"download" "9F1B639F1E183E09B4CA6290C6F0D0CB"
+				"gid" "4744833801444402146"
+				"size" "37060455221"
+				"download" "14896842624"
 			}
 		}
 	}
@@ -534,59 +468,14 @@
 				"download" "188456944"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev_build"
-			{
-				"gid" "5712F819B88547E9631AC8BCFE5DBCF4"
-				"size" "02DC5A44987BFBDAC99F1F1214DF6F14"
-				"download" "831521272B99F0469FB1292DA5D2C57A"
-			}
-			"pr_preview"
-			{
-				"gid" "7F9623056735E65E052F811B4079E8AF"
-				"size" "63C92CF561A410B0F4619AD3184793C9"
-				"download" "C73CEBE45EFA0F90372569FCD42DF487"
-			}
-			"test_emilien"
-			{
-				"gid" "40314272AFEFEE0DDF3CAC327F21493B"
-				"size" "42D5D76D03EAFC9E72DE7B880FC44719"
-				"download" "A6B14019856A02844B269371392A3DFC"
-			}
-			"test_laurent"
-			{
-				"gid" "6E8529C6555F66EAE8CD927F1BE68CC7"
-				"size" "D7D7CB8CD68C75F784282D189860AAE5"
-				"download" "8C9384186652582AA80D3B642FEC0DEC"
-			}
-			"next_release"
-			{
-				"gid" "CEC1EF90EAFB930DC2190B365A640E17"
-				"size" "D05717B5D53F2924EF1518DBD27A2352"
-				"download" "9217602622CFA00BD21885F04C41B8AD"
-			}
-		}
 	}
 	"workshopdepot" "1124300"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16460781"
-			"timeupdated" "1732806109"
-		}
-		"dev_build"
-		{
-			"buildid" "11187799"
-			"pwdrequired" "1"
-			"timeupdated" "1683625410"
-		}
-		"pr_preview"
-		{
-			"buildid" "9862589"
-			"pwdrequired" "1"
-			"timeupdated" "1667486875"
+			"buildid" "17352694"
+			"timeupdated" "1739455009"
 		}
 		"rollback"
 		{
@@ -594,31 +483,14 @@
 			"description" "The previous version of the game, before the last update."
 			"timeupdated" "1706190762"
 		}
-		"test_emilien"
-		{
-			"buildid" "11218493"
-			"pwdrequired" "1"
-			"timeupdated" "1683897752"
-		}
-		"test_laurent"
-		{
-			"buildid" "9104571"
-			"pwdrequired" "1"
-			"timeupdated" "1657615352"
-		}
-		"next_release"
-		{
-			"buildid" "16460781"
-			"pwdrequired" "1"
-			"timeupdated" "1732032298"
-		}
 		"update_preview"
 		{
-			"buildid" "16460781"
+			"buildid" "17352694"
 			"description" "Preview branch for the next udpate. Please be aware that it may be unstable and not compatible with vanilla multiplayer."
-			"timeupdated" "1732116881"
+			"timeupdated" "1739454974"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -654,6 +526,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26407899"
-"_sha" "8336df58e293a1925229672906b512947e13c54f"
-"_size" "12618"
+"_change_number" "27460453"
+"_sha" "6cb3ae72f84587bab30ca522f14292fdd2b41d2b"
+"_size" "9348"
