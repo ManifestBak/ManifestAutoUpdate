@@ -1,0 +1,309 @@
+"appid" "916900"
+"common"
+{
+	"name" "Paperbark"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "4567ef232918167ebd68603fa36855d4e7f594b1"
+	"logo_small" "4567ef232918167ebd68603fa36855d4e7f594b1_thumb"
+	"clienticon" "e92259b5ee303b9cc205149e0ed860badff97db4"
+	"clienttga" "d4e46a379c16fa4771285576b4c01a3472f756c0"
+	"icon" "8dfc87332ecd06fb55d92526517f4efdcc6fc136"
+	"clienticns" "dc0ea8d6c4bdf013d35b106f65ddec22e45df595"
+	"metacritic_name" "Paperbark"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1640575336"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paper House"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paper House"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1529564400"
+	"steam_release_date" "1544656860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "916900"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "597"
+		"2" "21"
+		"3" "30358"
+		"4" "4234"
+		"5" "5900"
+		"6" "1654"
+		"7" "4252"
+		"8" "4305"
+		"9" "4182"
+		"10" "4726"
+		"11" "5350"
+		"12" "4166"
+		"13" "1698"
+		"14" "1742"
+		"15" "1756"
+		"16" "1710"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Paper House"
+	"publisher" "Paper House"
+	"homepage" "http://paperbarkgame.com/#/"
+}
+"config"
+{
+	"installdir" "Paperbark"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Paperbark.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Paperbark.app\\Contents\\MacOS\\Paperbark"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"916901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "19196570987667309"
+				"size" "1142391353"
+				"download" "433873856"
+			}
+		}
+	}
+	"916902"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2160874429199469057"
+				"size" "1159849063"
+				"download" "439247248"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3415168"
+			"timeupdated" "1545282034"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Paper House/Paperbark/GameSave"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Paper House/Paperbark/GameSave"
+					"replace" "com.PaperHousePtyLtd.Paperbark.mac/GameSave"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27005282"
+"_sha" "e444f30ff884ba15955a80c92de040ce0a1c364c"
+"_size" "4914"
