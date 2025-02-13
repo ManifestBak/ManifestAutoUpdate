@@ -7,6 +7,8 @@
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
 	"icon" "29721de6c98e6e722dafd5349482183d9bdcdeb8"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -20,7 +22,28 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 	}
-	"store_asset_mtime" "1683556455"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739472144"
 	"associations"
 	{
 		"0"
@@ -47,8 +70,11 @@
 	"steam_release_date" "1683560861"
 	"gameid" "2393240"
 	"exfgls" "6"
+	"store_tags"
+	{
+	}
 	"review_score" "7"
-	"review_percentage" "95"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -69,9 +95,9 @@
 		{
 			"public"
 			{
-				"gid" "1529961193814360645"
-				"size" "408936633"
-				"download" "368319568"
+				"gid" "4745887203744680399"
+				"size" "457070748"
+				"download" "407702848"
 			}
 		}
 	}
@@ -85,9 +111,9 @@
 		{
 			"public"
 			{
-				"gid" "1012109893712829041"
-				"size" "1946234250"
-				"download" "1968129648"
+				"gid" "6058417815877630853"
+				"size" "2175091907"
+				"download" "2197013520"
 			}
 		}
 	}
@@ -95,10 +121,11 @@
 	{
 		"public"
 		{
-			"buildid" "11158656"
-			"timeupdated" "1683234708"
+			"buildid" "17354058"
+			"timeupdated" "1739472723"
 		}
 	}
+	"privatebranches" "1"
 }
 "albummetadata"
 {
@@ -236,6 +263,13 @@
 	"cdn_assets"
 	{
 		"album_cover" "a7ffbe1548df8877c7834fc4a7ee6adab0d0ded7"
+		"album_additional_images"
+		{
+			"0"
+			{
+				"image" "83d6d9b76896b0d95e78281e9451fbe9eb5cd773"
+			}
+		}
 	}
 	"tracks"
 	{
@@ -431,9 +465,33 @@
 			"m" "2"
 			"s" "3"
 		}
+		"24"
+		{
+			"discnumber" "2"
+			"tracknumber" "1"
+			"originalname" "Hunger of the Beast Clan"
+			"m" "8"
+			"s" "39"
+		}
+		"25"
+		{
+			"discnumber" "2"
+			"tracknumber" "2"
+			"originalname" "Beneath the Kingdom"
+			"m" "6"
+			"s" "5"
+		}
+		"26"
+		{
+			"discnumber" "2"
+			"tracknumber" "3"
+			"originalname" "A Brief Respite"
+			"m" "2"
+			"s" "18"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24675684"
-"_sha" "19b717fb72d99725682f2b8f2be577387c155343"
-"_size" "7295"
+"_change_number" "27465659"
+"_sha" "3ce8549ad630308bc7b4a298331bf9155843f7e9"
+"_size" "8193"
