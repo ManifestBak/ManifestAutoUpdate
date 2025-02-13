@@ -288,14 +288,14 @@
 		"19" "51306"
 	}
 	"review_score" "5"
-	"review_percentage" "64"
+	"review_percentage" "65"
 }
 "extended"
 {
 	"developer" "KOEI TECMO GAMES CO., LTD."
 	"publisher" "KOEI TECMO GAMES CO., LTD."
 	"homepage" "https://fairytailgame.com/2/"
-	"listofdlc" "3193120,3193130,3193140,3193160,3193200,3193210,3193220,3193230,3193240,3193250,3260320,3260330"
+	"listofdlc" "3193120,3193130,3193140,3193160,3193170,3193200,3193210,3193220,3193230,3193240,3193250,3260320,3260330"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -331,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "7752888413355397805"
-				"size" "15455346615"
-				"download" "12054095904"
+				"gid" "8907874701378593599"
+				"size" "15493210105"
+				"download" "12102486560"
 			}
 		}
 	}
@@ -342,8 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "16914055"
-			"timeupdated" "1738198825"
+			"buildid" "17038449"
+			"timeupdated" "1739408025"
 		}
 	}
 	"privatebranches" "1"
@@ -368,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27227470"
-"_sha" "4d7ab9936243a2b97d5259e665010768a4e17493"
-"_size" "9556"
+"_change_number" "27450054"
+"_sha" "7d69be8b26b7fb54e438a12e1d4fe41a88b19f55"
+"_size" "9564"
