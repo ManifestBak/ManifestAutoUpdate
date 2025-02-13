@@ -233,7 +233,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737034758"
+	"store_asset_mtime" "1739378984"
 	"associations"
 	{
 		"0"
@@ -381,7 +381,7 @@
 	"developer" "Monster Couch"
 	"publisher" "Monster Couch"
 	"homepage" "https://www.monstercouch.com/wingspan/"
-	"listofdlc" "1741470,1816700,1962870,2924770,3320750"
+	"listofdlc" "1741470,1816700,1962870,2924770,3320750,3362880"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -443,9 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "6547474781367634122"
-				"size" "1866920989"
-				"download" "1421300992"
+				"gid" "7319726090103369854"
+				"size" "1874322633"
+				"download" "1427196528"
 			}
 		}
 	}
@@ -461,9 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "6689958205848796264"
-				"size" "1968719802"
-				"download" "1445752704"
+				"gid" "3092354500241847914"
+				"size" "1976218767"
+				"download" "1451737872"
 			}
 		}
 	}
@@ -472,8 +472,8 @@
 	{
 		"public"
 		{
-			"buildid" "17093354"
-			"timeupdated" "1737630876"
+			"buildid" "17321501"
+			"timeupdated" "1739431039"
 		}
 	}
 	"privatebranches" "1"
@@ -484,6 +484,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "27129124"
-"_sha" "401950610600ac4d99cf1a2da04c3895f840368a"
-"_size" "12254"
+"_change_number" "27454130"
+"_sha" "75daf6b052be5c4a7e3f9dafab134f877212def8"
+"_size" "12262"
