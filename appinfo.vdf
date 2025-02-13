@@ -154,7 +154,7 @@
 		"19" "1742"
 	}
 	"review_score" "7"
-	"review_percentage" "86"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -186,9 +186,9 @@
 		{
 			"public"
 			{
-				"gid" "2708117062562869654"
-				"size" "19790219227"
-				"download" "2589462096"
+				"gid" "5504997611001141711"
+				"size" "19790205303"
+				"download" "2589444448"
 			}
 		}
 	}
@@ -196,8 +196,8 @@
 	{
 		"public"
 		{
-			"buildid" "17351041"
-			"timeupdated" "1739447104"
+			"buildid" "17355842"
+			"timeupdated" "1739470051"
 		}
 	}
 	"privatebranches" "1"
@@ -208,8 +208,22 @@
 	"maxnumfiles" "500"
 	"ignoreexternalfiles" "1"
 	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PrisMaze/SynChorus01"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27458680"
-"_sha" "25e4aa704ff0e8e556bdec99d75be44d8980f4c4"
-"_size" "3291"
+"_change_number" "27464976"
+"_sha" "b0bd3e12132d143bf2ba99a0fd6b7dc2399d3e93"
+"_size" "3486"
