@@ -100,7 +100,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1690162614"
+	"store_asset_mtime" "1732670180"
 	"associations"
 	{
 		"0"
@@ -132,6 +132,9 @@
 		"category_15" "1"
 		"category_25" "1"
 		"category_27" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_17" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -286,6 +289,66 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"albanian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"croatian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hebrew"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"serbian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"uzbek"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1650045632"
 	"community_visible_stats" "1"
@@ -298,12 +361,12 @@
 		"2" "599"
 		"3" "9"
 		"4" "492"
-		"5" "12472"
+		"5" "4695"
 		"6" "1676"
-		"7" "4695"
+		"7" "12472"
 		"8" "6310"
-		"9" "16689"
-		"10" "1678"
+		"9" "1678"
+		"10" "16689"
 		"11" "8945"
 		"12" "1775"
 		"13" "3813"
@@ -315,7 +378,7 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -389,9 +452,9 @@
 		{
 			"public"
 			{
-				"gid" "6013567970121259435"
-				"size" "134515694"
-				"download" "105440224"
+				"gid" "6569158206916568046"
+				"size" "132978366"
+				"download" "105651488"
 			}
 			"prev-1"
 			{
@@ -449,9 +512,9 @@
 			}
 			"beta"
 			{
-				"gid" "6013567970121259435"
-				"size" "134515694"
-				"download" "105440224"
+				"gid" "6569158206916568046"
+				"size" "132978366"
+				"download" "105651488"
 			}
 			"prev-10"
 			{
@@ -465,11 +528,17 @@
 				"size" "133854745"
 				"download" "105143568"
 			}
-			"test"
+			"prev-12"
 			{
 				"gid" "6013567970121259435"
 				"size" "134515694"
 				"download" "105440224"
+			}
+			"test"
+			{
+				"gid" "6569158206916568046"
+				"size" "132978366"
+				"download" "105651488"
 			}
 		}
 	}
@@ -484,9 +553,9 @@
 		{
 			"public"
 			{
-				"gid" "248963496768572636"
-				"size" "29810598"
-				"download" "17494096"
+				"gid" "2446622732316847185"
+				"size" "30030026"
+				"download" "17700096"
 			}
 			"prev-1"
 			{
@@ -544,9 +613,9 @@
 			}
 			"beta"
 			{
-				"gid" "248963496768572636"
-				"size" "29810598"
-				"download" "17494096"
+				"gid" "2446622732316847185"
+				"size" "30030026"
+				"download" "17700096"
 			}
 			"prev-10"
 			{
@@ -560,11 +629,17 @@
 				"size" "29731969"
 				"download" "17421440"
 			}
-			"test"
+			"prev-12"
 			{
 				"gid" "248963496768572636"
 				"size" "29810598"
 				"download" "17494096"
+			}
+			"test"
+			{
+				"gid" "2446622732316847185"
+				"size" "30030026"
+				"download" "17700096"
 			}
 		}
 	}
@@ -579,9 +654,9 @@
 		{
 			"public"
 			{
-				"gid" "4043155180746879602"
-				"size" "25221889"
-				"download" "22579216"
+				"gid" "5479252393898584080"
+				"size" "25441317"
+				"download" "22786064"
 			}
 			"prev-1"
 			{
@@ -639,9 +714,9 @@
 			}
 			"beta"
 			{
-				"gid" "4043155180746879602"
-				"size" "25221889"
-				"download" "22579216"
+				"gid" "5479252393898584080"
+				"size" "25441317"
+				"download" "22786064"
 			}
 			"prev-10"
 			{
@@ -655,11 +730,17 @@
 				"size" "25143260"
 				"download" "22507856"
 			}
-			"test"
+			"prev-12"
 			{
 				"gid" "4043155180746879602"
 				"size" "25221889"
 				"download" "22579216"
+			}
+			"test"
+			{
+				"gid" "5479252393898584080"
+				"size" "25441317"
+				"download" "22786064"
 			}
 		}
 	}
@@ -745,6 +826,12 @@
 				"download" "34282848"
 			}
 			"prev-11"
+			{
+				"gid" "5385163301179468847"
+				"size" "134482325"
+				"download" "34282848"
+			}
+			"prev-12"
 			{
 				"gid" "5385163301179468847"
 				"size" "134482325"
@@ -845,6 +932,12 @@
 				"size" "144939625"
 				"download" "36072192"
 			}
+			"prev-12"
+			{
+				"gid" "7448443554013883906"
+				"size" "144939625"
+				"download" "36072192"
+			}
 			"test"
 			{
 				"gid" "7448443554013883906"
@@ -863,9 +956,9 @@
 		{
 			"public"
 			{
-				"gid" "7258177425943529604"
-				"size" "322363744"
-				"download" "166269888"
+				"gid" "278008777784245624"
+				"size" "320990277"
+				"download" "166685472"
 			}
 			"prev-1"
 			{
@@ -899,9 +992,9 @@
 			}
 			"beta"
 			{
-				"gid" "7258177425943529604"
-				"size" "322363744"
-				"download" "166269888"
+				"gid" "278008777784245624"
+				"size" "320990277"
+				"download" "166685472"
 			}
 			"prev-10"
 			{
@@ -915,11 +1008,17 @@
 				"size" "321620040"
 				"download" "165905312"
 			}
-			"test"
+			"prev-12"
 			{
 				"gid" "7258177425943529604"
 				"size" "322363744"
 				"download" "166269888"
+			}
+			"test"
+			{
+				"gid" "278008777784245624"
+				"size" "320990277"
+				"download" "166685472"
 			}
 		}
 	}
@@ -927,8 +1026,8 @@
 	{
 		"public"
 		{
-			"buildid" "16425826"
-			"timeupdated" "1731711305"
+			"buildid" "17343936"
+			"timeupdated" "1739423210"
 		}
 		"prev-1"
 		{
@@ -986,9 +1085,9 @@
 		}
 		"beta"
 		{
-			"buildid" "16425826"
+			"buildid" "17343936"
 			"description" "Beta"
-			"timeupdated" "1731707675"
+			"timeupdated" "1739423148"
 		}
 		"prev-10"
 		{
@@ -1002,13 +1101,20 @@
 			"description" "v3.0"
 			"timeupdated" "1726074748"
 		}
-		"test"
+		"prev-12"
 		{
 			"buildid" "16425826"
+			"description" "v3.1"
+			"timeupdated" "1739422867"
+		}
+		"test"
+		{
+			"buildid" "17343936"
 			"description" "Test branch"
-			"timeupdated" "1731706785"
+			"timeupdated" "1739423134"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -1020,7 +1126,7 @@
 		{
 			"root" "WinSavedGames"
 			"path" "Dummynation/{64BitSteamID}/store"
-			"pattern" "*.data"
+			"pattern" "*"
 			"recursive" "1"
 		}
 	}
@@ -1032,7 +1138,7 @@
 			"os" "Linux"
 			"oscompare" "="
 			"useinstead" "LinuxHome"
-			"addpath" "Saved Games"
+			"addpath" "Saved Games/"
 		}
 		"1"
 		{
@@ -1040,11 +1146,11 @@
 			"os" "MacOS"
 			"oscompare" "="
 			"useinstead" "MacHome"
-			"addpath" "Saved Games"
+			"addpath" "Saved Games/"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26220675"
-"_sha" "fe24dab1f2de16cb6e80f468e600586b4c65bd05"
-"_size" "18473"
+"_change_number" "27452827"
+"_sha" "006a054d69624204db4cf87670a0b090e2887359"
+"_size" "20306"
