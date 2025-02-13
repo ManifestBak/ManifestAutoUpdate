@@ -1,0 +1,292 @@
+"appid" "1245250"
+"common"
+{
+	"name" "Thrive: Heavy Lies The Crown"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "743373c9ea4aede9db86b821defc735f01510956"
+	"logo_small" "743373c9ea4aede9db86b821defc735f01510956_thumb"
+	"clienticon" "f6333f66b3daa6ebcdf387ccd96557efa1415d52"
+	"clienttga" "98092c367ea55e2e17e289ae3831ba2324d69113"
+	"icon" "8ef235e378f907c555a4b677d520414775b58ef2"
+	"name_localized"
+	{
+		"russian" "Процветание. Тяжелое бремя короны"
+		"japanese" "Thrive 王冠の重み"
+		"schinese" "盛世繁荣：皇冠之重"
+		"tchinese" "創盛紀元：開疆王者"
+	}
+	"linuxclienticon" "4f5c7f3c59877100de000a309d4a46627b24e090"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "e456779a7f24608405feadc67fe01ed5cb838456/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.501489108874445"
+			"height_pct" "89.42269615510054"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "09901f454b322e23685103ab27cec41fd3d9cf4a/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "09901f454b322e23685103ab27cec41fd3d9cf4a/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "c804b1a00f71bf8841880b64dadbb5c29f84057f/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "c804b1a00f71bf8841880b64dadbb5c29f84057f/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "c804b1a00f71bf8841880b64dadbb5c29f84057f/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "57f74c3b80d6e88444a1e55a3764d18e511699ae/logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.501489108874445"
+				"height_pct" "89.42269615510054"
+			}
+			"image2x"
+			{
+				"english" "57f74c3b80d6e88444a1e55a3764d18e511699ae/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0d85f556c09557998056e6c99c4bfdab82cca335/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0d85f556c09557998056e6c99c4bfdab82cca335/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731292188"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Zugalu Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlaySide"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlaySide"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730929836"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1245250"
+	"store_tags"
+	{
+		"0" "1676"
+		"1" "12472"
+		"2" "220585"
+		"3" "4364"
+		"4" "1684"
+		"5" "597"
+		"6" "1708"
+		"7" "3813"
+		"8" "21725"
+		"9" "9204"
+		"10" "4684"
+		"11" "4328"
+		"12" "3810"
+		"13" "1775"
+		"14" "1741"
+		"15" "1670"
+		"16" "7332"
+		"17" "4695"
+		"18" "4172"
+		"19" "122"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Zugalu Entertainment"
+	"publisher" "PlaySide"
+	"homepage" "https://thrivehltc.com/"
+}
+"config"
+{
+	"installdir" "Thrive Heavy Lies The Crown"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Thrive HLTC.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1245251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6337726417445189250"
+				"size" "7319079202"
+				"download" "4305078800"
+			}
+			"local"
+			{
+				"gid" "5806562016910436320"
+				"size" "7278764201"
+				"download" "2787047888"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17178741"
+			"timeupdated" "1738558353"
+		}
+		"local"
+		{
+			"buildid" "12825745"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1701246126"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "3000000000"
+	"maxnumfiles" "500"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Zügalü Entertainment/Thrive HLTC/SaveData/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27428980"
+"_sha" "23d6c80df01ee0e58bdaaff7d1991197b8baee60"
+"_size" "5259"
