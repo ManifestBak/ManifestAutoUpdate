@@ -284,10 +284,6 @@
 	}
 	"1225591"
 	{
-		"config"
-		{
-			"language" ""
-		}
 		"manifests"
 		{
 			"public"
@@ -295,21 +291,6 @@
 				"gid" "1032173786371750957"
 				"size" "1615796752"
 				"download" "808363424"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "F13FF3E43ABEDD47B91C106EBEB4280E"
-				"size" "5BAFED7124D952E04878FDEBC50B8C22"
-				"download" "DB59D725364089DE0062FDA4BDDEDA19"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "F6367801F0D06BC930D441B61A3CC539"
-				"size" "8CD0B88E782A48D066C4BFAC03F7EBDD"
-				"download" "A60853931F79D13921F4FC7A5769140E"
 			}
 		}
 	}
@@ -328,21 +309,6 @@
 				"download" "25712"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "1F71D8C8AA036C5F53845711E23D2103"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "861564AFB8A847BE3662F76F069A1539"
-				"size" "951C1E9BAFA2E99C46364FA1F0FBF936"
-				"download" "9E33DA4542FC119DD295924256674D9A"
-			}
-		}
 	}
 	"1225593"
 	{
@@ -357,21 +323,6 @@
 				"gid" "2379723398720660764"
 				"size" "118058"
 				"download" "28192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "1A3876605B6ECDBD960FB8A0963C5FD4"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "98D425214227AC186A8E3B599908CCB5"
-				"size" "FB08310F4C591CC98542B7CB0B8B61BE"
-				"download" "57F3462BF74088078ED74A64467F5A0B"
 			}
 		}
 	}
@@ -390,21 +341,6 @@
 				"download" "192"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "8C21CDF6CDD1CA48F05A092FD3B41200"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "3AE445247C88DDD58CBA22F89A0FA629"
-				"size" "081743BD5E8C52E10D98545E93E710BD"
-				"download" "18ABA97E6FFA01F367E499C1BACFD4D0"
-			}
-		}
 	}
 	"1225595"
 	{
@@ -419,21 +355,6 @@
 				"gid" "4566169196959748806"
 				"size" "215"
 				"download" "192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "FF56A7AA160468B9D1AF5B5FF1AABAC1"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "AA6322FB15BD0A4829976B5E4FAA7980"
-				"size" "081743BD5E8C52E10D98545E93E710BD"
-				"download" "18ABA97E6FFA01F367E499C1BACFD4D0"
 			}
 		}
 	}
@@ -452,21 +373,6 @@
 				"download" "192"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"eacc"
-			{
-				"gid" "C284B939EDB9A71E93351606150710C8"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "29ABCC8F45F868898530E0CE25705460"
-				"size" "081743BD5E8C52E10D98545E93E710BD"
-				"download" "18ABA97E6FFA01F367E499C1BACFD4D0"
-			}
-		}
 	}
 	"1225597"
 	{
@@ -483,21 +389,19 @@
 				"download" "31456"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"3340991"
+	{
+		"manifests"
 		{
-			"eacc"
+			"public"
 			{
-				"gid" "98C0C0DF8DE1FF8156DC932D0E18938B"
-				"size" "83840ACE8D405A90F1CAB1FFCE4658A5"
-				"download" "37092709E7B85F523D35C1AADDF06810"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "87AC8D1D72B730A927BAD5A335E942EA"
-				"size" "6093DAB777088EE9DE4788F3DFE29C87"
-				"download" "237DE53F310FDB4CAA66676EA32CDBE3"
+				"gid" "7491961404986575764"
+				"size" "235848799"
+				"download" "237956208"
 			}
 		}
+		"depotfromapp" "3340990"
 	}
 	"branches"
 	{
@@ -506,21 +410,10 @@
 			"buildid" "10351156"
 			"timeupdated" "1675166541"
 		}
-		"eacc"
-		{
-			"buildid" "7562175"
-			"pwdrequired" "1"
-			"timeupdated" "1634672099"
-		}
-		"eacc_ead_stage"
-		{
-			"buildid" "10351156"
-			"pwdrequired" "1"
-			"timeupdated" "1674066885"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25449115"
-"_sha" "0d3138de29030eed09b3c220d1d58cab10b4a3c4"
-"_size" "9810"
+"_change_number" "27466521"
+"_sha" "6548f9a1aec8496a074563867f5f5e765affe9ca"
+"_size" "7082"
