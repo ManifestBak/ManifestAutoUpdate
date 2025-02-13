@@ -272,54 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "8510241733986783309"
-				"size" "12219630279"
-				"download" "11180305424"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"partners_showcase"
-			{
-				"gid" "F11D74EA86BDC77D0C09204167F684D3"
-				"size" "C511A5C18EDFA9043AC9AD37655007A7"
-				"download" "47CA8416D3C4DFF3D18CDC2F9D28559A"
-			}
-			"legacy_dx9"
-			{
-				"gid" "8489C729ED383E8C928DFA2CC55D6DFB"
-				"size" "B445BAE198FFD3C8B938FDDD7E2F447C"
-				"download" "B9D1C6B390610FD03EA56E10C581B379"
-			}
-			"legacy_e3"
-			{
-				"gid" "D4CBC0C13BBA2C58B7EA7870104120D4"
-				"size" "D9462E7A425A68047E702A991214A164"
-				"download" "27E65B95350BBA80185666F137F47392"
-			}
-			"legacy_pax"
-			{
-				"gid" "0887B71F6E82FA8EA907E55302AC0E66"
-				"size" "930513ABCF24163D2B1E4585D552E312"
-				"download" "A22AFBC8B0CEA7959248B6ADABBC2046"
-			}
-			"lgl_qa"
-			{
-				"gid" "500F8FB571E0CC3464E2A0FBF7324A56"
-				"size" "5127BBFA4E9792CFB8DC92936F6C7687"
-				"download" "5D28E0CD9B9F9C275593EC9335565F79"
-			}
-			"razzle_dazzle"
-			{
-				"gid" "0DF8B5BB56958593ED95A6A91CE25482"
-				"size" "ED2D10EDC845071F663B32A806978E6E"
-				"download" "BC7E5D9FE44C7810E5ADD90EA5A795FB"
-			}
-			"staging_release"
-			{
-				"gid" "AEE6B5F300A5DF8FF72AF88A8D154676"
-				"size" "684EA737A4CEEF5D8D9F3C1B386B576E"
-				"download" "FABD102277FC8BDF50B7B71E68ECA689"
+				"gid" "6179789149369938908"
+				"size" "12336631584"
+				"download" "11274328832"
 			}
 		}
 	}
@@ -340,102 +295,16 @@
 				"download" "199114752"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"partners_showcase"
-			{
-				"gid" "B241B684A92FE8022F7BC593820D1A1E"
-				"size" "9F57FA63D575983C867B211DF057FC1F"
-				"download" "472D8D8AA1AA5280B70C45575D755B0A"
-			}
-			"legacy_dx9"
-			{
-				"gid" "16E4051AB3509A953CCB82EE327F497C"
-				"size" "9E339BC00148F17914F4F56893F5FF78"
-				"download" "D3C2FFAC39AE900391EDFD31454D8C65"
-			}
-			"legacy_e3"
-			{
-				"gid" "D37E839B3515E998CA46134DBB3DF580"
-				"size" "A6C33F420ADFEB82D6C953CD0543BF7D"
-				"download" "6CDC238C56DAE640DA0AF30C959EFD4B"
-			}
-			"legacy_pax"
-			{
-				"gid" "163319AC46F580F219150B84B6E578E2"
-				"size" "76E9A0469A6C8504B849C37BFFC4B29E"
-				"download" "85DEB96C7427498E6670ABD75F4ADAD5"
-			}
-			"lgl_qa"
-			{
-				"gid" "F6AE9BF915C2491E4CA119A65C30BF79"
-				"size" "17F34F0C0BA279DB49FFBDB5357C91A1"
-				"download" "54BE9774C701FC9FA6AA16F39A7AA402"
-			}
-			"razzle_dazzle"
-			{
-				"gid" "063A322003E5FE5C491D7C9EF9E32DA1"
-				"size" "CAB103E15BD844EA81BDBE3446A62A77"
-				"download" "A9EE80B9C70C9DD5686280FDD129299A"
-			}
-			"staging_release"
-			{
-				"gid" "823B8022BF67DDB07534CE420D72CECC"
-				"size" "CF805E5DCE52674374E141FB3062FE39"
-				"download" "7C7B32B1E4189C61A1FA6092E915D8C7"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16394305"
-			"timeupdated" "1731512699"
-		}
-		"partners_showcase"
-		{
-			"buildid" "15266947"
-			"pwdrequired" "1"
-			"timeupdated" "1722881027"
-		}
-		"legacy_dx9"
-		{
-			"buildid" "9092102"
-			"pwdrequired" "1"
-			"timeupdated" "1687986150"
-		}
-		"legacy_e3"
-		{
-			"buildid" "13170230"
-			"pwdrequired" "1"
-			"timeupdated" "1705263125"
-		}
-		"legacy_pax"
-		{
-			"buildid" "13170216"
-			"pwdrequired" "1"
-			"timeupdated" "1705262983"
-		}
-		"lgl_qa"
-		{
-			"buildid" "16911637"
-			"pwdrequired" "1"
-			"timeupdated" "1736096916"
-		}
-		"razzle_dazzle"
-		{
-			"buildid" "16911696"
-			"pwdrequired" "1"
-			"timeupdated" "1736097790"
-		}
-		"staging_release"
-		{
-			"buildid" "16394305"
-			"pwdrequired" "1"
-			"timeupdated" "1731512188"
+			"buildid" "17344756"
+			"timeupdated" "1739455211"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -443,6 +312,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "26869113"
-"_sha" "eba1d206dfe1cf24108fba10c51a0d0f5d13d601"
-"_size" "8758"
+"_change_number" "27460641"
+"_sha" "d0b80032e34f7e35a330c87a4f7b16d053518b83"
+"_size" "5473"
