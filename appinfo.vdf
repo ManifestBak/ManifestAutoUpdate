@@ -29,7 +29,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "a230f339757d8b5bdd5377696e9cbad31b816b97/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -40,6 +40,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -47,7 +48,56 @@
 			"height_pct" "57.41384619586637"
 		}
 	}
-	"store_asset_mtime" "1666983394"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "43.447374563366225"
+				"height_pct" "57.41384619586637"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ec55c06d5608da8607f92c0157584b23aab5f92a/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ec55c06d5608da8607f92c0157584b23aab5f92a/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739198711"
 	"associations"
 	{
 		"0"
@@ -94,6 +144,7 @@
 		}
 	}
 	"steam_release_date" "1537257956"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/738650/eventcomments/3184614758375152179\?snr=1_2108_9__2107"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "738650"
@@ -121,7 +172,7 @@
 		"19" "5411"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -369,3 +420,7 @@
 	}
 	"sync_while_suspended" "1"
 }
+"_missing_token" "False"
+"_change_number" "27402282"
+"_sha" "07445522f3a7d7e4508804c71e2efa972189b25a"
+"_size" "7071"
