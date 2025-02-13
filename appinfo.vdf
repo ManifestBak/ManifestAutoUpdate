@@ -11,6 +11,60 @@
 	"osextended" ""
 	"releasestate" "released"
 	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739318400"
+		"tested_build_id" "17299256"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"market_presence" "1"
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -789,9 +843,9 @@
 		{
 			"public"
 			{
-				"gid" "5655679462176978196"
-				"size" "274455981"
-				"download" "33432992"
+				"gid" "1582681604547489172"
+				"size" "273145043"
+				"download" "33597120"
 			}
 		}
 	}
@@ -800,8 +854,8 @@
 	{
 		"public"
 		{
-			"buildid" "17299256"
-			"timeupdated" "1739125997"
+			"buildid" "17344340"
+			"timeupdated" "1739405533"
 		}
 	}
 }
@@ -811,6 +865,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27389679"
-"_sha" "517d967b3515e9199206be5c2f600492280a43b1"
-"_size" "12897"
+"_change_number" "27449509"
+"_sha" "fcd81d550aba941382d5cfc1a5b71bf1f958d210"
+"_size" "14247"
