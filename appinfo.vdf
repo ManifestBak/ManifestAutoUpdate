@@ -24,7 +24,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "a3174daae99655c04f96f6be5afe5edff860ee4f/capsule_231x87.jpg"
+		"english" "48665c6200f97cc70e0944620a9038df6df1be4d/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -40,8 +40,8 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "37.897603087222954"
-			"height_pct" "103.47106634369821"
+			"width_pct" "41.19004982705514"
+			"height_pct" "101.38888888888889"
 		}
 	}
 	"library_assets_full"
@@ -50,29 +50,29 @@
 		{
 			"image"
 			{
-				"english" "61588278b4a2258e341ad31be9f970edfc1916a4/library_600x900.jpg"
+				"english" "6f11ad97fec152d7fb80fafab935f36befefc806/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "61588278b4a2258e341ad31be9f970edfc1916a4/library_600x900_2x.jpg"
+				"english" "6f11ad97fec152d7fb80fafab935f36befefc806/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "456edd8733917e14f65d943a99c40231b8a6f5a1/library_hero.jpg"
+				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "456edd8733917e14f65d943a99c40231b8a6f5a1/library_hero_2x.jpg"
+				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "456edd8733917e14f65d943a99c40231b8a6f5a1/library_hero_blur.jpg"
+				"english" "7be53c04cc0312dbea36033315631d79fa41346d/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -80,31 +80,31 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "37.897603087222954"
-				"height_pct" "103.47106634369821"
+				"width_pct" "41.19004982705514"
+				"height_pct" "101.38888888888889"
 			}
 			"image"
 			{
-				"english" "f6c5875a5181d4072cc1b27111ffc9d29f76e8e3/logo.png"
+				"english" "6f7c8cbedaf29106a4bad4a49798c4324e6860d1/logo.png"
 			}
 			"image2x"
 			{
-				"english" "f6c5875a5181d4072cc1b27111ffc9d29f76e8e3/logo_2x.png"
+				"english" "6f7c8cbedaf29106a4bad4a49798c4324e6860d1/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "74dda9cebe73190718f7875d5325757101f97a35/library_header.jpg"
+				"english" "975cb0a0f2f0a7b180efd4a8e13dcd31b2ac9ff9/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "74dda9cebe73190718f7875d5325757101f97a35/library_header_2x.jpg"
+				"english" "975cb0a0f2f0a7b180efd4a8e13dcd31b2ac9ff9/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1738101804"
+	"store_asset_mtime" "1739295215"
 	"associations"
 	{
 		"0"
@@ -181,6 +181,10 @@
 		{
 			"supported" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1669294794"
 	"community_hub_visible" "1"
@@ -209,7 +213,7 @@
 		"19" "5350"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -268,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "2984351382657729239"
-				"size" "9098584906"
-				"download" "8598248752"
+				"gid" "1088726495407671620"
+				"size" "9098525530"
+				"download" "8598138768"
 			}
 		}
 	}
@@ -278,13 +282,13 @@
 	{
 		"public"
 		{
-			"buildid" "17235672"
-			"timeupdated" "1738749581"
+			"buildid" "17347796"
+			"timeupdated" "1739440978"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27323080"
-"_sha" "e245e874eb43eb930ae280c5b6802c02b0a80250"
-"_size" "4837"
+"_change_number" "27456605"
+"_sha" "957b93e7175e97d05a9167d51684d15ea72d254a"
+"_size" "4884"
