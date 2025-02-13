@@ -78,6 +78,7 @@
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
@@ -130,8 +131,16 @@
 				"height_pct" "61.80555555555554"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "36dabe0c0716ae535545d7aacf881626c63f8edd/library_header.jpg"
+				"schinese" "36dabe0c0716ae535545d7aacf881626c63f8edd/library_header_schinese.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1668349216"
+	"store_asset_mtime" "1734976793"
 	"associations"
 	{
 		"0"
@@ -309,3 +318,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26765221"
+"_sha" "fb206323754716c2274f83496fe7980cf98e3f12"
+"_size" "5636"
