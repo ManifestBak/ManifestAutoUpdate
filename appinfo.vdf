@@ -85,6 +85,7 @@
 		}
 	}
 	"metacritic_name" "For the King II"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -197,6 +198,10 @@
 		"category_44" "1"
 		"category_39" "1"
 		"category_24" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -309,7 +314,7 @@
 	"steamcontrollertemplateindex" "4"
 	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "65533"
+	"steamconfigurator3rdpartynative" "65532"
 }
 "depots"
 {
@@ -324,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "5386074796239092399"
-				"size" "6280273168"
-				"download" "5251138048"
+				"gid" "7831537097448147266"
+				"size" "6851686822"
+				"download" "5698777312"
 			}
 		}
 	}
@@ -346,8 +351,8 @@
 	{
 		"public"
 		{
-			"buildid" "17240740"
-			"timeupdated" "1738689002"
+			"buildid" "17355551"
+			"timeupdated" "1739468604"
 		}
 	}
 	"privatebranches" "1"
@@ -373,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27311079"
-"_sha" "e73757e49ae47a3ca83b8a31b44401570650d4d3"
-"_size" "6777"
+"_change_number" "27464476"
+"_sha" "5981b19b33c32b81c6fc33b49f762f52701c9587"
+"_size" "6894"
