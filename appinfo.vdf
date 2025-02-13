@@ -22,25 +22,25 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1737158400"
-		"tested_build_id" "16985108"
+		"category" "3"
+		"test_timestamp" "1737763200"
+		"tested_build_id" "17040971"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -55,7 +55,7 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-4RC"
@@ -284,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "8018496554233831298"
-				"size" "714985795"
-				"download" "161613856"
+				"gid" "5332819485571522592"
+				"size" "715303235"
+				"download" "161679840"
 			}
 		}
 	}
@@ -300,9 +300,9 @@
 		{
 			"public"
 			{
-				"gid" "1404563704142124637"
-				"size" "739620893"
-				"download" "169233712"
+				"gid" "2066174519632730390"
+				"size" "739938277"
+				"download" "169295488"
 			}
 		}
 	}
@@ -311,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "16995799"
-			"timeupdated" "1736997955"
+			"buildid" "17333594"
+			"timeupdated" "1739420187"
 		}
 	}
 	"privatebranches" "1"
@@ -348,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27070412"
-"_sha" "4188a4df5feacb5a574e68d1958ed8bd6d8bae92"
-"_size" "6216"
+"_change_number" "27452337"
+"_sha" "263f908502c23c4f23635bdf7829851633b1fd80"
+"_size" "6213"
