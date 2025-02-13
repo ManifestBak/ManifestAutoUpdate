@@ -1,0 +1,242 @@
+"appid" "2310150"
+"common"
+{
+	"name" "Tome of Fates"
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"icon" "03e14f1ca909379b5de4cefe72d6e00c9bc0c726"
+	"clienttga" "2bc126d04707f7a48eed920ccffd9c93de16ee90"
+	"clienticns" "cc3dc76a73aa1dc32de5f758f21a9e7ca24cf3ea"
+	"linuxclienticon" "fadb46e03e7ca1ae91228c5fe7d131bcfd1ca699"
+	"clienticon" "6d8fa33e3605d6644a0df52c4f6c81bb3a5657e1"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "51.808634772462085"
+			"height_pct" "99.62006080789487"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "51.808634772462085"
+				"height_pct" "99.62006080789487"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731916733"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Grey Mount Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Grey Mount Studio"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_27" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699661578"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2310150"
+	"store_tags"
+	{
+		"0" "31275"
+		"1" "4486"
+		"2" "11014"
+		"3" "6426"
+		"4" "9592"
+		"5" "1742"
+		"6" "1684"
+		"7" "21"
+		"8" "1654"
+		"9" "1685"
+		"10" "3859"
+		"11" "3843"
+		"12" "4182"
+		"13" "122"
+		"14" "492"
+		"15" "493"
+		"16" "597"
+	}
+}
+"extended"
+{
+	"developer" "Grey Mount Studio"
+	"publisher" "Grey Mount Studio"
+}
+"config"
+{
+	"installdir" "Tome of Fates"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Client.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Client"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2310150"
+	"baselanguages" "english"
+	"2310151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2279763204812660007"
+				"size" "3278103792"
+				"download" "668557744"
+			}
+		}
+	}
+	"2310152"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3282922689254774236"
+				"size" "1698058525"
+				"download" "420678928"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17317006"
+			"timeupdated" "1739254107"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27414415"
+"_sha" "5fb27f7b45695b2c4f8b9a8b218f37d248272ba3"
+"_size" "3750"
