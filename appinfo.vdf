@@ -1,0 +1,240 @@
+"appid" "3108510"
+"common"
+{
+	"name" "FlyKnight"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "add1e5a6526f7271a89271c6b16d282acb982173"
+	"clienticon" "7ce60aba0e84d76acabf98721dff165b37d75e03"
+	"clienttga" "691d26f8f10cc979c4ef8b5dd15d50e9c32a9554"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "71232cfb1c006490347921424120bc82ee32d0d0/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "931228f96b8704215a8646cfffda7051ff2fe0ab/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "931228f96b8704215a8646cfffda7051ff2fe0ab/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "995870ed864ac1256e2f9a8ecf23a7f307bb289a/logo.png"
+			}
+			"image2x"
+			{
+				"english" "995870ed864ac1256e2f9a8ecf23a7f307bb289a/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5b8fcb0c3ef0c6522cce206274a09a29e0734404/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737145600"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wabbaboy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wabbaboy"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "FlyKnight"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738335565"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3108510"
+	"store_tags"
+	{
+		"0" "1720"
+		"1" "3839"
+		"2" "3843"
+		"3" "29482"
+		"4" "3916"
+		"5" "15564"
+		"6" "4231"
+		"7" "6276"
+		"8" "1684"
+		"9" "3834"
+		"10" "19"
+		"11" "21"
+		"12" "4182"
+		"13" "3993"
+		"14" "122"
+		"15" "4236"
+		"16" "1685"
+		"17" "3859"
+		"18" "4191"
+		"19" "4004"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Wabbaboy"
+	"publisher" "Wabbaboy"
+	"homepage" "https://wabbaboy.dev/"
+}
+"config"
+{
+	"installdir" "FlyKnight Prelude"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FlyKnightPrelude.exe"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3108511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3558862240330954396"
+				"size" "655390850"
+				"download" "505050496"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17309918"
+			"timeupdated" "1739334944"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "\\FlyKnightPrelude\\Saved\\SaveGames\\"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27449618"
+"_sha" "4b162e344221bf5fa9e49de27e7a75af9f4ff413"
+"_size" "3844"
