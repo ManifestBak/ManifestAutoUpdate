@@ -222,9 +222,9 @@
 		{
 			"public"
 			{
-				"gid" "3043917139774451919"
-				"size" "4390038890"
-				"download" "541962000"
+				"gid" "9213336992509673435"
+				"size" "4390043226"
+				"download" "542056000"
 			}
 		}
 	}
@@ -232,8 +232,8 @@
 	{
 		"public"
 		{
-			"buildid" "17336324"
-			"timeupdated" "1739363781"
+			"buildid" "17347753"
+			"timeupdated" "1739430176"
 		}
 	}
 }
@@ -248,17 +248,44 @@
 			"root" "WinAppDataLocalLow"
 			"path" "LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
 			"pattern" "*"
-			"platforms"
-			{
-				"1" "Windows"
-			}
 			"recursive" "1"
 		}
 	}
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
+					"replace" "unity3d/LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
+					"replace" "LandOfIdyllicBeauty/LandOfIdyllicBeauty/"
+				}
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27439098"
-"_sha" "f9809e92da414eaa5eeba7405cda1e00d12c469a"
-"_size" "5084"
+"_change_number" "27453969"
+"_sha" "d2ea665e01fde158ed3659d7fb09433eee518e91"
+"_size" "5615"
