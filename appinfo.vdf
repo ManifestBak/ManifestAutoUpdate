@@ -339,8 +339,8 @@
 		"2" "1695"
 		"3" "4182"
 		"4" "21"
-		"5" "44868"
-		"6" "4106"
+		"5" "4106"
+		"6" "44868"
 		"7" "1697"
 		"8" "4853"
 		"9" "1742"
@@ -351,10 +351,11 @@
 		"14" "1687"
 		"15" "7481"
 		"16" "3834"
-		"17" "26921"
+		"17" "3859"
+		"18" "4158"
 	}
 	"review_score" "5"
-	"review_percentage" "62"
+	"review_percentage" "67"
 }
 "extended"
 {
@@ -485,6 +486,7 @@
 	"steamcontrollertemplateindex" "13"
 	"steamdecktouchscreen" "1"
 	"steaminputmanifestpath" "steaminput_manifest.vdf"
+	"steamconfigurator3rdpartynative" "8"
 }
 "depots"
 {
@@ -509,15 +511,15 @@
 		{
 			"public"
 			{
-				"gid" "8157822813502270639"
-				"size" "110978926237"
-				"download" "92531892848"
+				"gid" "3780665540826089818"
+				"size" "110979871533"
+				"download" "92532877456"
 			}
 			"previous_version"
 			{
-				"gid" "452179161397518690"
-				"size" "110978893528"
-				"download" "92532586400"
+				"gid" "8157822813502270639"
+				"size" "110978926237"
+				"download" "92531892848"
 			}
 		}
 	}
@@ -532,15 +534,15 @@
 		{
 			"public"
 			{
-				"gid" "3307411361177289838"
-				"size" "833675696"
-				"download" "522314496"
+				"gid" "3962363058397394711"
+				"size" "839827159"
+				"download" "522430160"
 			}
 			"previous_version"
 			{
-				"gid" "7866366183622882708"
-				"size" "833496496"
-				"download" "522198608"
+				"gid" "3307411361177289838"
+				"size" "833675696"
+				"download" "522314496"
 			}
 		}
 	}
@@ -556,15 +558,15 @@
 		{
 			"public"
 			{
-				"gid" "2581846839023493677"
-				"size" "6473847225"
-				"download" "1311564256"
+				"gid" "2894804731148974424"
+				"size" "6474506169"
+				"download" "1307801760"
 			}
 			"previous_version"
 			{
-				"gid" "1973548846423779241"
-				"size" "6473099346"
-				"download" "1309390608"
+				"gid" "2581846839023493677"
+				"size" "6473847225"
+				"download" "1311564256"
 			}
 		}
 	}
@@ -882,14 +884,14 @@
 	{
 		"public"
 		{
-			"buildid" "17253742"
-			"timeupdated" "1738840609"
+			"buildid" "17341672"
+			"timeupdated" "1739446178"
 		}
 		"previous_version"
 		{
-			"buildid" "17216207"
+			"buildid" "17253742"
 			"description" "Rollback to previous version"
-			"timeupdated" "1738839405"
+			"timeupdated" "1739446134"
 		}
 	}
 	"privatebranches" "1"
@@ -909,6 +911,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27344423"
-"_sha" "7a0afff25860ac10cffdcea377540ec2806a284a"
-"_size" "16401"
+"_change_number" "27457966"
+"_sha" "4d091cfeeb6c6b35e59f120c18382768ea06781a"
+"_size" "16458"
