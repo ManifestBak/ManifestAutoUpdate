@@ -160,7 +160,7 @@
 		"2" "872"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -194,15 +194,21 @@
 		{
 			"public"
 			{
-				"gid" "6710294975061520413"
-				"size" "247211458"
-				"download" "73055200"
+				"gid" "8255919324504403423"
+				"size" "247212482"
+				"download" "73054592"
 			}
 			"prev_stable"
 			{
 				"gid" "8571901835223138978"
 				"size" "151598825"
 				"download" "50846624"
+			}
+			"public_beta"
+			{
+				"gid" "8255919324504403423"
+				"size" "247212482"
+				"download" "73054592"
 			}
 			"vbridger_1.0_build"
 			{
@@ -222,14 +228,20 @@
 	{
 		"public"
 		{
-			"buildid" "17012717"
-			"timeupdated" "1736943775"
+			"buildid" "17314322"
+			"timeupdated" "1739474805"
 		}
 		"prev_stable"
 		{
 			"buildid" "9102869"
 			"description" "previous stable build"
 			"timeupdated" "1703629928"
+		}
+		"public_beta"
+		{
+			"buildid" "17314322"
+			"description" "public beta build"
+			"timeupdated" "1739233313"
 		}
 		"vbridger_1.0_build"
 		{
@@ -261,6 +273,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27069580"
-"_sha" "931c902cb6bb67ce49a736fc8bbafa4c78a362cb"
-"_size" "4161"
+"_change_number" "27466157"
+"_sha" "a8da378091b787e3f177f5618c5184de2f6dcc2c"
+"_size" "4402"
