@@ -1,29 +1,35 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-13 18:20:10
+## 更新时间：2025-02-13 20:37:42
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1203620 | 雾锁王国 (Enshrouded)| Game |
-| 1351240 | 出租生涯：模拟城市驾驶| Game |
-| 1491000 | War Robots: Frontiers| Game |
-| 1102930 | KoboldKare| Game |
-| 1512940 | Malody V| Game |
-| 2060160 | The Farmer Was Replaced| Game |
-| 2132380 | Book of Korvald| Game |
-| 1962890 | IN HEAT: Lustful Nights| Game |
-| 2135150 | Elin| Game |
-| 2278520 | Enshrouded Dedicated Server| Tool |
-| 2378910 | Settlements Rising| Game |
-| 2837580 | Rally Arcade Classics| Game |
-| 2820820 | 巨人杀手：暗黑之潮| Game |
-| 3025290 | UNDERWARD: 运送实验怪物的人| Game |
-| 3108510 | FlyKnight| Game |
-| 3128570 | 法医探案团之碎嘴小诗| Game |
-| 3150440 | Laundry Store Simulator| Game |
-| 3001070 | 逐鹿问鼎：君王成长计划/Strive for power:King Growth Program| Game |
-| 2349820 | 英勇之地| Game |
-| 550650 | Black Squad| Game |
-| 2093920 | 灾变前夜| Game |
+| 1005950 | 大老爷 GrandLordAuto| Game |
+| 1062520 | Dinkum(金垦小镇)| Game |
+| 1240630 | Hex of Steel| Game |
+| 1450900 | Desynced| Game |
+| 1554220 | Paleon| Game |
+| 2055500 | Repetendium| Game |
+| 1984720 | 逐鹿| Game |
+| 1957780 | Ghosts Of Tabor| Game |
+| 2078910 | 汉尘：腐草为萤| Game |
+| 2190220 | 东方弹幕神乐 失落幻想| Game |
+| 223850 | 3DMark| Application |
+| 2186360 | IDUN - 阵线推进官| Game |
+| 2264340 | TIEBREAK: Official game of the ATP and WTA| Game |
+| 2353130 | 刻印战记2：七圣英雄| Game |
+| 2404170 | 九号博物馆| Game |
+| 2484130 | Fruitbus| Game |
+| 2518630 | 不容进犯| Game |
+| 2437170 | 《神之浩劫2》| Game |
+| 2730530 | 协律01：新生活| Game |
+| 2651280 | Marvel's Spider-Man 2| Game |
+| 2688950 | 过山车之星2| Game |
+| 275850 | No Man's Sky 无人深空| Game |
+| 3074020 | 异世界生存指南(美食猎人)| Game |
+| 2999030 | Exploding Kittens® 2| Game |
+| 3085890 | 世外桃源| Game |
+| 3395140 | 小小侠客模拟器| Game |
+| 464170 | VRMark| Application |
+| 524390 | PCMark 10| Application |
 | 582660 | Black Desert| Game |
-| 593600 | 方块方舟（PixARK）| Game |
-| 861650 | Session: Skate Sim| Game |
+| 707010 | Will To Live Online| Game |
