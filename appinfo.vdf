@@ -36,35 +36,30 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1733788800"
-		"tested_build_id" "16123774"
+		"category" "3"
+		"test_timestamp" "1737504000"
+		"tested_build_id" "17063837"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -72,18 +67,19 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-3RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
 	}
-	"controller_support" "partial"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "d7e45a8973134a611b435e1e2ed1b25493fd8df9/capsule_231x87.jpg"
@@ -192,9 +188,13 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_23" "1"
-		"category_18" "1"
 		"category_2" "1"
 		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -265,9 +265,9 @@
 		"10" "4182"
 		"11" "4115"
 		"12" "21"
-		"13" "19"
-		"14" "122"
-		"15" "492"
+		"13" "492"
+		"14" "19"
+		"15" "122"
 		"16" "4231"
 		"17" "3964"
 		"18" "4166"
@@ -421,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27091664"
-"_sha" "c5ddaff4aa648c1ae6c4d6004924adfc94f5c4f9"
-"_size" "7932"
+"_change_number" "27118612"
+"_sha" "e898eeaf72d9a7ab0f7e1ffcc1c9e663c9ea25af"
+"_size" "7912"
