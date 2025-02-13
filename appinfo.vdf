@@ -17,6 +17,8 @@
 		"0" "2"
 		"1" "5"
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -106,6 +108,11 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -117,6 +124,11 @@
 			"subtitles" "true"
 		}
 		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -150,7 +162,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -212,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "1019038814002313662"
-				"size" "4843731861"
-				"download" "2060824320"
+				"gid" "1153844250123040772"
+				"size" "4187116998"
+				"download" "1885394672"
 			}
 		}
 	}
@@ -223,8 +235,12 @@
 	{
 		"public"
 		{
-			"buildid" "10855738"
-			"timeupdated" "1680813533"
+			"buildid" "17357220"
+			"timeupdated" "1739478520"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27467540"
+"_sha" "b1b6289366e57ccbc0346659d5c96fe6a1ed0506"
+"_size" "3832"
