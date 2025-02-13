@@ -183,12 +183,13 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "94"
 }
 "extended"
 {
 	"developer" "开翼网络"
 	"publisher" "开翼网络"
+	"homepage" "https://qm.qq.com/q/Rym758F1uy"
 }
 "config"
 {
@@ -240,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "3595709735399403004"
-				"size" "643463729"
-				"download" "544944704"
+				"gid" "1426424415158796577"
+				"size" "652713717"
+				"download" "553517088"
 			}
 		}
 	}
@@ -266,8 +267,8 @@
 	{
 		"public"
 		{
-			"buildid" "17248620"
-			"timeupdated" "1738743093"
+			"buildid" "17346623"
+			"timeupdated" "1739427252"
 		}
 	}
 	"privatebranches" "1"
@@ -311,6 +312,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27321626"
-"_sha" "9726f6800f9aa94bf27b8a310a62b8c0017321c1"
-"_size" "5432"
+"_change_number" "27453483"
+"_sha" "a0069062a5a60b6328939173918039b6f58f681a"
+"_size" "5479"
