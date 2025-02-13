@@ -14,7 +14,7 @@
 	"freetodownload" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "8757c7a40d0a2a5e0945315d1b1a088b2c25a88f/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -24,7 +24,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -38,18 +40,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "b3508ad0486a42038fd394a2e89b5a96a5aed720/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "b3508ad0486a42038fd394a2e89b5a96a5aed720/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "bcc398c1842c5b36b0a296ba251fa616837a914b/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "bcc398c1842c5b36b0a296ba251fa616837a914b/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bcc398c1842c5b36b0a296ba251fa616837a914b/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -69,13 +82,38 @@
 				"height_pct" "33.66261473947938"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c12245004e63a914f7f2f8b818d32a6ee5661733/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c12245004e63a914f7f2f8b818d32a6ee5661733/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1705584682"
+	"store_asset_mtime" "1738154610"
 	"associations"
 	{
 	}
+	"primary_genre" "0"
+	"genres"
+	{
+		"0" "37"
+	}
+	"category"
+	{
+		"category_62" "1"
+	}
 	"steam_release_date" "1706106600"
 	"gameid" "2278520"
+	"exfgls" "3"
+}
+"extended"
+{
+	"isfreeapp" "1"
 }
 "config"
 {
@@ -160,9 +198,9 @@
 		{
 			"public"
 			{
-				"gid" "9212383964449307900"
-				"size" "5624699236"
-				"download" "1621250576"
+				"gid" "8195459358239779733"
+				"size" "5617424572"
+				"download" "1618899728"
 			}
 		}
 	}
@@ -170,13 +208,13 @@
 	{
 		"public"
 		{
-			"buildid" "17174043"
-			"timeupdated" "1738172360"
+			"buildid" "17335321"
+			"timeupdated" "1739440842"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27221955"
-"_sha" "4a598a476230a1f967b7da9846bcc9a86b8e1a06"
-"_size" "2695"
+"_change_number" "27456564"
+"_sha" "6caddde13e4884603a28931dc8cb19474285bd04"
+"_size" "3547"
