@@ -21,13 +21,15 @@
 	{
 		"english" "1"
 		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "4ab3437d30df5b7001d0b551a2443daadc48ce64/capsule_231x87.jpg"
-		"schinese" "591a157158fd81f19fbc815f3e8dd2e71f8bbfbf/capsule_231x87_schinese.jpg"
+		"english" "e5e677ec876cad18b14ae870d4eecd074419f7cd/capsule_231x87.jpg"
+		"schinese" "9833d8bc2a5605028f4afe3c78f04fd4bda9c4eb/capsule_231x87_schinese.jpg"
 		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
 	}
 	"header_image"
@@ -97,7 +99,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1735637811"
+	"store_asset_mtime" "1735895759"
 	"associations"
 	{
 		"0"
@@ -147,6 +149,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1735614023"
 	"community_visible_stats" "1"
@@ -154,29 +161,29 @@
 	"gameid" "2885480"
 	"store_tags"
 	{
-		"0" "7368"
-		"1" "42804"
+		"0" "4840"
+		"1" "3841"
 		"2" "4637"
-		"3" "3841"
-		"4" "4994"
-		"5" "3959"
-		"6" "1775"
-		"7" "1774"
-		"8" "1716"
-		"9" "4191"
-		"10" "4136"
-		"11" "597"
-		"12" "19"
-		"13" "3968"
-		"14" "3993"
-		"15" "4840"
-		"16" "7178"
-		"17" "1685"
-		"18" "3859"
-		"19" "4182"
+		"3" "4994"
+		"4" "3959"
+		"5" "1775"
+		"6" "1774"
+		"7" "4191"
+		"8" "4136"
+		"9" "597"
+		"10" "7368"
+		"11" "19"
+		"12" "3968"
+		"13" "3993"
+		"14" "7178"
+		"15" "1685"
+		"16" "3859"
+		"17" "4182"
+		"18" "492"
+		"19" "4684"
 	}
 	"review_score" "8"
-	"review_percentage" "100"
+	"review_percentage" "99"
 }
 "extended"
 {
@@ -210,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "7920471749566957508"
-				"size" "3778271784"
-				"download" "756879280"
+				"gid" "7959844922360917958"
+				"size" "3769724494"
+				"download" "756316256"
 			}
 		}
 	}
@@ -221,8 +228,8 @@
 	{
 		"public"
 		{
-			"buildid" "16879385"
-			"timeupdated" "1735618956"
+			"buildid" "17364434"
+			"timeupdated" "1739527770"
 		}
 	}
 }
@@ -245,6 +252,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26825422"
-"_sha" "9127caf78af042fafa7f53c801df77bc71138d91"
-"_size" "4256"
+"_change_number" "27476985"
+"_sha" "c9c04d6486a70de452f6489cd2bf5710afdf724c"
+"_size" "4363"
