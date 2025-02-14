@@ -158,6 +158,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -171,32 +174,21 @@
 		{
 			"subtitles" "true"
 		}
-		"tchinese"
-		{
-			"subtitles" "true"
-		}
-		"dutch"
-		{
-			"subtitles" "true"
-		}
-		"latam"
-		{
-			"subtitles" "true"
-		}
 	}
 	"steam_release_date" "1725989775"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3042250"
 	"store_tags"
 	{
 		"0" "3799"
 		"1" "122"
-		"2" "3871"
-		"3" "4604"
-		"4" "6971"
-		"5" "12095"
-		"6" "1742"
-		"7" "6650"
+		"2" "12095"
+		"3" "3871"
+		"4" "6650"
+		"5" "4604"
+		"6" "6971"
+		"7" "1742"
 		"8" "5984"
 		"9" "4305"
 		"10" "597"
@@ -207,10 +199,11 @@
 		"15" "5716"
 		"16" "4182"
 		"17" "1667"
-		"18" "24904"
+		"18" "4947"
+		"19" "24904"
 	}
 	"review_score" "7"
-	"review_percentage" "86"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -232,6 +225,9 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -241,18 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "8886573954152345745"
-				"size" "931535209"
-				"download" "779133120"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "83475A4EDD4BE5F66089455A8FE33CE7"
-				"size" "4DC13AA3D2BE86013BF603A46CCD9DCD"
-				"download" "9671393521DCB39A21A99B9BAAAD2791"
+				"gid" "8661753579530217435"
+				"size" "1900906117"
+				"download" "1669763936"
 			}
 		}
 	}
@@ -260,16 +247,11 @@
 	{
 		"public"
 		{
-			"buildid" "16048010"
-			"timeupdated" "1729013261"
-		}
-		"development"
-		{
-			"buildid" "15695815"
-			"pwdrequired" "1"
-			"timeupdated" "1726259294"
+			"buildid" "17372551"
+			"timeupdated" "1739569529"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -277,8 +259,17 @@
 	"maxnumfiles" "50"
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "game/saves/"
+			"pattern" "*"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "25834311"
-"_sha" "58f25113847805327632393a65ceb453edc6b94d"
-"_size" "4852"
+"_change_number" "27487598"
+"_sha" "18334901ed9c5acbc750e8767648d28c528036d3"
+"_size" "4760"
