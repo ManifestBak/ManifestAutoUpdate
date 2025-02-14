@@ -99,7 +99,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Tai Studio"
+			"name" "Dinosaur Studio"
 		}
 		"1"
 		{
@@ -149,11 +149,11 @@
 		"11" "19"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
-	"developer" "Tai Studio"
+	"developer" "Dinosaur Studio"
 	"publisher" "GIANT BEAST STUDIO"
 }
 "config"
@@ -181,9 +181,9 @@
 		{
 			"public"
 			{
-				"gid" "668022453581671187"
-				"size" "21305695560"
-				"download" "17730845888"
+				"gid" "792303795034425336"
+				"size" "22066612268"
+				"download" "18421301520"
 			}
 		}
 	}
@@ -191,13 +191,13 @@
 	{
 		"public"
 		{
-			"buildid" "17129776"
-			"timeupdated" "1737870396"
+			"buildid" "17359937"
+			"timeupdated" "1739495242"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27224939"
-"_sha" "a8306ddb1fbd5e5da76ef32617e929e2b1a4e223"
-"_size" "3495"
+"_change_number" "27470434"
+"_sha" "77291c759df738de788caacf81005bb63d320155"
+"_size" "3505"
