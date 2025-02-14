@@ -117,7 +117,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724917295"
+	"store_asset_mtime" "1739410352"
 	"associations"
 	{
 		"0"
@@ -133,7 +133,7 @@
 		"2"
 		{
 			"type" "franchise"
-			"name" "072 Project"
+			"name" "072 Project X"
 		}
 	}
 	"primary_genre" "1"
@@ -200,7 +200,7 @@
 		"19" "492"
 	}
 	"review_score" "7"
-	"review_percentage" "94"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -271,9 +271,9 @@
 		{
 			"public"
 			{
-				"gid" "6179703652578743456"
-				"size" "374689694"
-				"download" "256590224"
+				"gid" "226066727135177773"
+				"size" "373970303"
+				"download" "255917152"
 			}
 		}
 	}
@@ -299,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "15688538"
-			"timeupdated" "1726218563"
+			"buildid" "17364067"
+			"timeupdated" "1739524130"
 		}
 	}
 }
@@ -323,6 +323,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25953114"
-"_sha" "2acfb812b4bd2d01d419e6e83289c9793e344d2f"
-"_size" "5734"
+"_change_number" "27475876"
+"_sha" "689a4292f03706dd422f9343ae1a88d50342667f"
+"_size" "5735"
