@@ -4,10 +4,10 @@
 	"name" "卡牌迷境"
 	"type" "Game"
 	"releasestate" "released"
-	"clienttga" "80489ad114e4724599ae45b0a4785c35998a7d08"
-	"clienticns" "de973ce1183966bc0786023bf6cbd49904dc1365"
+	"clienttga" "a2404cd1f019ac8084004f51f3605e028d85c2ab"
+	"clienticns" "219a926ff9488165d3a2628bbbc836754907ec31"
 	"linuxclienticon" "c118a6aaf7758e0a5a39a069101c4e19f7377052"
-	"clienticon" "72bc0b53edfccf92d2735633c7bb612ba364863d"
+	"clienticon" "cb0abbb9de07e7625c7c005604c9869e144feb3f"
 	"icon" "a25d15ce9aa0a300f2af95c3ccece82fe0825521"
 	"oslist" "windows,macos"
 	"osarch" "64"
@@ -23,6 +23,10 @@
 		"tchinese" "1"
 		"japanese" "1"
 		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"english" "CARD QUEST"
 	}
 	"controllertagwizard" "1"
 	"small_capsule"
@@ -274,9 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "8166981837349432046"
-				"size" "2126409183"
-				"download" "761073024"
+				"gid" "3032372391982068466"
+				"size" "2126234043"
+				"download" "760775968"
 			}
 		}
 	}
@@ -291,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "4536240923467851242"
-				"size" "807829440"
-				"download" "619299632"
+				"gid" "8694787881277757249"
+				"size" "807593713"
+				"download" "619107088"
 			}
 		}
 	}
@@ -301,8 +305,8 @@
 	{
 		"public"
 		{
-			"buildid" "17049349"
-			"timeupdated" "1737191759"
+			"buildid" "17330534"
+			"timeupdated" "1739501996"
 		}
 	}
 }
@@ -332,6 +336,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27054622"
-"_sha" "d908fbfa38b2abe5bcf83f68d9e24d662969acf0"
-"_size" "5480"
+"_change_number" "27471838"
+"_sha" "fa88d89e119ebbcc44585cb3b406f9855bad09e9"
+"_size" "5534"
