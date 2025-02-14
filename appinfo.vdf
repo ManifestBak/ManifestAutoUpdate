@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737918934"
+	"store_asset_mtime" "1738343423"
 	"associations"
 	{
 		"0"
@@ -184,6 +184,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -261,8 +262,8 @@
 		"3" "1662"
 		"4" "3964"
 		"5" "1677"
-		"6" "5125"
-		"7" "1100689"
+		"6" "1100689"
+		"7" "5125"
 		"8" "3871"
 		"9" "4182"
 		"10" "1720"
@@ -337,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "2816542855663692362"
-				"size" "545931160"
-				"download" "287373632"
+				"gid" "237375311903929588"
+				"size" "546553840"
+				"download" "287707664"
 			}
 			"0.5.7.8"
 			{
@@ -397,9 +398,9 @@
 			}
 			"modbranch"
 			{
-				"gid" "8160156875726139306"
-				"size" "444982052"
-				"download" "271603008"
+				"gid" "6692134954039196213"
+				"size" "445329916"
+				"download" "271835056"
 			}
 		}
 	}
@@ -491,9 +492,9 @@
 		{
 			"public"
 			{
-				"gid" "369668789308762781"
-				"size" "441707008"
-				"download" "269936960"
+				"gid" "7706562624918726524"
+				"size" "442054872"
+				"download" "270053616"
 			}
 			"0.5.7.8.18"
 			{
@@ -555,8 +556,8 @@
 	{
 		"public"
 		{
-			"buildid" "17196232"
-			"timeupdated" "1738313960"
+			"buildid" "17371314"
+			"timeupdated" "1739561563"
 		}
 		"0.5.7.8"
 		{
@@ -614,9 +615,9 @@
 		}
 		"modbranch"
 		{
-			"buildid" "17196277"
+			"buildid" "17371347"
 			"description" "modbranch"
-			"timeupdated" "1738314317"
+			"timeupdated" "1739561795"
 		}
 	}
 	"privatebranches" "1"
@@ -625,10 +626,43 @@
 {
 	"quota" "100000000"
 	"maxnumfiles" "500"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StoneShard/characters_v1"
+			"pattern" "*.map"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StoneShard/characters_v1"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StoneShard/characters_v1"
+			"pattern" "*.png"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27249969"
-"_sha" "3300b938498a925e5495d1031acc0a10cb689683"
-"_size" "11318"
+"_change_number" "27486003"
+"_sha" "cccd2646a50e7fb7ae2f02e0fba55de660454035"
+"_size" "11870"
