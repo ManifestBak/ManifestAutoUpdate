@@ -1,26 +1,29 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-14 18:19:40
+## 更新时间：2025-02-14 20:36:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1269690 | Attack on Toys| Game |
-| 1479140 | AK-xolotl: Together| Game |
-| 1305260 | SteamDolls - Order Of Chaos| Game |
-| 1603180 | Mining Mechs| Game |
-| 1831250 | WasteLand Express 废土快递| Game |
-| 2078910 | 汉尘：腐草为萤| Game |
-| 2307170 | 永恒守望| Game |
-| 2183900 | Warhammer 40,000: 星际战士2| Game |
-| 2437034 | X-Plane 12 Add-on: Aerosoft - Society Islands XP - Tahiti & Windward Islands| DLC |
-| 2404170 | 九号博物馆| Game |
+| 1166990 | Kukoro: Stream chat games| Game |
+| 1094390 | Waltz of the Wizard| Game |
+| 1005950 | 大老爷 GrandLordAuto| Game |
+| 1239320 | 动物收容所| Game |
+| 1455910 | 领地：种田与征战| Game |
+| 1504860 | Hell Let Loose (Public Testing)| Game |
+| 1646850 | SpaceBourne 2| Game |
+| 1995520 | Pax Dei| Game |
+| 2103130 | 中国式相亲| Game |
 | 2343930 | Eyes Of War| Game |
+| 2259163 | X-Plane 12 Add-on: Aerosoft - Society Islands XP - Bora Bora & Leeward Islands| DLC |
+| 2418520 | Farm Together 2| Game |
+| 2545360 | Lonely Mountains: Snow Riders| Game |
+| 2529770 | Chromosome Evil 2| Game |
+| 2608270 | 静脉注射2| Game |
 | 2427700 | 背包乱斗：福西法的宝藏 Backpack Battles| Game |
-| 2644610 | 蠕行的恐惧：克苏鲁选集| Game |
-| 2637070 | 爬行实验室| Game |
-| 2686690 | 西瓜形状| Game |
-| 2885480 | 瓶盖战舰| Game |
-| 2897180 | 反叛！吉苏鲁村的起义！| Game |
-| 3225970 | 封神榜重置版| Game |
-| 2943280 | Dustland Delivery| Game |
-| 2909400 | FINAL FANTASY VII REBIRTH| Game |
-| 835570 | 战意| Game |
+| 2719160 | Contractors Showdown| Game |
+| 274900 | Murder Miners| Game |
+| 3196570 | 轮回之境| Game |
+| 3279980 | Dicey Tales| Game |
+| 3074020 | 异世界生存指南(美食猎人)| Game |
+| 535930 | 双点医院| Game |
+| 550320 | art of rally| Game |
+| 700580 | Rust - Staging Branch| Beta |
