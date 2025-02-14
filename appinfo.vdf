@@ -258,15 +258,15 @@
 		{
 			"public"
 			{
-				"gid" "2224713685446073010"
+				"gid" "657988903780653967"
 				"size" "394699710"
-				"download" "318314400"
+				"download" "318313936"
 			}
 			"modding-beta"
 			{
-				"gid" "2224713685446073010"
+				"gid" "657988903780653967"
 				"size" "394699710"
-				"download" "318314400"
+				"download" "318313936"
 			}
 		}
 	}
@@ -276,14 +276,14 @@
 	{
 		"public"
 		{
-			"buildid" "17358214"
-			"timeupdated" "1739484975"
+			"buildid" "17359815"
+			"timeupdated" "1739494618"
 		}
 		"modding-beta"
 		{
-			"buildid" "17358214"
+			"buildid" "17359815"
 			"description" "For modding"
-			"timeupdated" "1739484603"
+			"timeupdated" "1739494587"
 		}
 	}
 	"privatebranches" "1"
@@ -304,6 +304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27468393"
-"_sha" "73ec038561f48e9406bae59b80068e49ed292f01"
-"_size" "5297"
+"_change_number" "27470293"
+"_sha" "8c86ed7020f7e07664c6c717a461cec4b494899a"
+"_size" "5295"
