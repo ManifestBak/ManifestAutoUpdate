@@ -280,7 +280,7 @@
 		"19" "32322"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -333,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "3499655248845061295"
-				"size" "484523874"
-				"download" "258888144"
+				"gid" "5489992351704687495"
+				"size" "484535830"
+				"download" "258890656"
 			}
 			"macos-universal-test"
 			{
@@ -345,15 +345,15 @@
 			}
 			"windows7compatibility"
 			{
-				"gid" "8145480511811007511"
-				"size" "429898926"
-				"download" "245044512"
+				"gid" "353457799529434199"
+				"size" "429910882"
+				"download" "245049744"
 			}
 			"windows11test"
 			{
-				"gid" "6063652349458214414"
-				"size" "492413067"
-				"download" "261115312"
+				"gid" "96839063767890901"
+				"size" "492433911"
+				"download" "261117216"
 			}
 			"macos-arm64"
 			{
@@ -374,15 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "4776295173197357145"
-				"size" "464239346"
-				"download" "252646400"
+				"gid" "5985291894793185829"
+				"size" "464251302"
+				"download" "252648912"
 			}
 			"macos-universal-test"
 			{
-				"gid" "8070505555571113936"
-				"size" "655789274"
-				"download" "307539424"
+				"gid" "5373231963425811178"
+				"size" "655801224"
+				"download" "307538032"
 			}
 			"windows7compatibility"
 			{
@@ -398,9 +398,9 @@
 			}
 			"macos-arm64"
 			{
-				"gid" "3696899244189418107"
-				"size" "459920050"
-				"download" "244671232"
+				"gid" "4774590062111016311"
+				"size" "459932006"
+				"download" "244673744"
 			}
 		}
 	}
@@ -408,32 +408,32 @@
 	{
 		"public"
 		{
-			"buildid" "17354134"
-			"timeupdated" "1739463775"
+			"buildid" "17359567"
+			"timeupdated" "1739492569"
 		}
 		"macos-universal-test"
 		{
-			"buildid" "17354125"
+			"buildid" "17359760"
 			"description" "MacOS-universal-TEST"
-			"timeupdated" "1739461759"
+			"timeupdated" "1739493854"
 		}
 		"windows7compatibility"
 		{
-			"buildid" "17354527"
+			"buildid" "17359572"
 			"description" "WIN7旧版本"
-			"timeupdated" "1739463741"
+			"timeupdated" "1739492591"
 		}
 		"windows11test"
 		{
-			"buildid" "17346934"
+			"buildid" "17359763"
 			"description" "WIN11测试版"
-			"timeupdated" "1739424330"
+			"timeupdated" "1739493865"
 		}
 		"macos-arm64"
 		{
-			"buildid" "17354523"
+			"buildid" "17359578"
 			"description" "MacOS-arm64"
-			"timeupdated" "1739463727"
+			"timeupdated" "1739492608"
 		}
 	}
 	"privatebranches" "1"
@@ -467,6 +467,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27463058"
-"_sha" "823a28d6d1d5cc9d4017f2919a55e221e11924ec"
-"_size" "9856"
+"_change_number" "27470138"
+"_sha" "af513a673b886dab97f8132c5b2ffd8cc1bb8acf"
+"_size" "9853"
