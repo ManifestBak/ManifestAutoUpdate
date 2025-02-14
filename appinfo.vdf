@@ -306,21 +306,21 @@
 		"1" "599"
 		"2" "7332"
 		"3" "220585"
-		"4" "1676"
-		"5" "4328"
+		"4" "4328"
+		"5" "4364"
 		"6" "12472"
-		"7" "1695"
-		"8" "8945"
-		"9" "1643"
-		"10" "4364"
-		"11" "3987"
+		"7" "1643"
+		"8" "3987"
+		"9" "8945"
+		"10" "1676"
+		"11" "1695"
 		"12" "3810"
-		"13" "7107"
-		"14" "4182"
-		"15" "1662"
-		"16" "4711"
-		"17" "1669"
-		"18" "4695"
+		"13" "4182"
+		"14" "1662"
+		"15" "7107"
+		"16" "1669"
+		"17" "4695"
+		"18" "4711"
 		"19" "493"
 	}
 	"review_score" "8"
@@ -370,66 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "7438407932576663597"
-				"size" "977937143"
-				"download" "763464976"
+				"gid" "4370256380471060720"
+				"size" "996503868"
+				"download" "776503568"
 			}
 			"unstable"
 			{
-				"gid" "1012065592862943305"
-				"size" "977755386"
-				"download" "763384480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"achievements_test"
-			{
-				"gid" "3F31CA2E7391B2E79FD9B0101E7E5C82"
-				"size" "12280F7FC0F692183E5A042B31314DB8"
-				"download" "83146FA9AC8C3EDC72EAA149F6FE10B2"
-			}
-			"for_steam_review"
-			{
-				"gid" "5D2688DF4FBBA49515E36EB86D981916"
-				"size" "48603C2E45657D13342F196D8EEFA266"
-				"download" "CA201A3BB7A577CE994B3AA2B12F7B7F"
-			}
-			"nightly_builds"
-			{
-				"gid" "03BAA7FAC6094F60B76C83E0156FDDBC"
-				"size" "63CCE1D54B866077F4AC39C278663C42"
-				"download" "C0C842D1DCEF567F44CDCAF9A2689E6E"
-			}
-			"nightly_builds_previous"
-			{
-				"gid" "6B33CDBF91012AC91E372396A40AAC44"
-				"size" "4F4A9EA45262694536EE941BBCB4313B"
-				"download" "8BAF3DC6DFF80EB281006C7CB8D02EA8"
-			}
-			"preview"
-			{
-				"gid" "81679BC76E73185831E5E1A18810BEC3"
-				"size" "CA483751653FA1E1CDBBF466AEF48F45"
-				"download" "34B5CC400F9E80A97BD2A2A952739322"
-			}
-			"review"
-			{
-				"gid" "CCD0B48F83496EBD1EBB71FFC83FDB79"
-				"size" "FE74D76720CAA24155390C28D0864D34"
-				"download" "57EA394FEC264FD45BEF29207188AA0F"
-			}
-			"test"
-			{
-				"gid" "7227F1FBC699915A6155E9AB9F47B912"
-				"size" "AB51295AE03806F7B0B1E978486B070D"
-				"download" "1B20CB1D0549B174B42898041E4A407C"
-			}
-			"test_before_release"
-			{
-				"gid" "E52BE9AB9B5AAEA8F74A55A6FBCE2A6F"
-				"size" "50B0400505B1F259B2FD6EF0C3BAB49E"
-				"download" "93DFDD87F9873CBD32979D0E36822A43"
+				"gid" "4445718949926197860"
+				"size" "995365417"
+				"download" "775894544"
 			}
 		}
 	}
@@ -437,64 +386,17 @@
 	{
 		"public"
 		{
-			"buildid" "16814634"
-			"timeupdated" "1734711333"
-		}
-		"achievements_test"
-		{
-			"buildid" "15567075"
-			"pwdrequired" "1"
-			"timeupdated" "1725280926"
-		}
-		"for_steam_review"
-		{
-			"buildid" "14966526"
-			"pwdrequired" "1"
-			"timeupdated" "1720453548"
-		}
-		"nightly_builds"
-		{
-			"buildid" "16814238"
-			"pwdrequired" "1"
-			"timeupdated" "1734699226"
-		}
-		"nightly_builds_previous"
-		{
-			"buildid" "16787984"
-			"pwdrequired" "1"
-			"timeupdated" "1734601214"
-		}
-		"preview"
-		{
-			"buildid" "15028186"
-			"pwdrequired" "1"
-			"timeupdated" "1720956302"
-		}
-		"review"
-		{
-			"buildid" "15028186"
-			"pwdrequired" "1"
-			"timeupdated" "1720956309"
-		}
-		"test"
-		{
-			"buildid" "16658189"
-			"pwdrequired" "1"
-			"timeupdated" "1733497313"
-		}
-		"test_before_release"
-		{
-			"buildid" "16526021"
-			"pwdrequired" "1"
-			"timeupdated" "1732549044"
+			"buildid" "17368056"
+			"timeupdated" "1739545024"
 		}
 		"unstable"
 		{
-			"buildid" "16658384"
+			"buildid" "17225064"
 			"description" "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!"
-			"timeupdated" "1733498437"
+			"timeupdated" "1738593337"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -515,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26736173"
-"_sha" "8d9d38c90826af69bb56641f966c649b2d177caa"
-"_size" "10208"
+"_change_number" "27481565"
+"_sha" "5d5c90b8225b0e92da49472e39afaa3b3746e65e"
+"_size" "7883"
