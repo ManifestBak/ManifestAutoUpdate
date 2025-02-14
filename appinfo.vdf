@@ -239,8 +239,8 @@
 		"18" "4182"
 		"19" "493"
 	}
-	"review_score" "5"
-	"review_percentage" "69"
+	"review_score" "6"
+	"review_percentage" "70"
 }
 "extended"
 {
@@ -266,6 +266,16 @@
 				"english" "Directx 11"
 			}
 			"description" "Directx 11"
+		}
+		"2"
+		{
+			"executable" "SCPExperiences.exe"
+			"arguments" "-vr"
+			"description_loc"
+			{
+				"english" "Launch VR"
+			}
+			"description" "Launch VR"
 		}
 	}
 }
@@ -331,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "3433490555487518061"
-				"size" "5563519283"
-				"download" "5254431984"
+				"gid" "3071299691274156267"
+				"size" "5926872991"
+				"download" "5612540400"
 			}
 		}
 	}
@@ -342,8 +352,8 @@
 	{
 		"public"
 		{
-			"buildid" "16876281"
-			"timeupdated" "1735576347"
+			"buildid" "17369053"
+			"timeupdated" "1739549244"
 		}
 	}
 	"privatebranches" "1"
@@ -354,6 +364,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26821026"
-"_sha" "df343c3ba6602be4dda11e8cd3052bb5c2729a2d"
-"_size" "5783"
+"_change_number" "27482779"
+"_sha" "763b358fd856a17696d2d7af620d277f080c16d9"
+"_size" "5955"
