@@ -381,15 +381,15 @@
 		{
 			"public"
 			{
-				"gid" "6568203626620063799"
-				"size" "1237610294"
-				"download" "951794080"
+				"gid" "4718424778742341648"
+				"size" "1201954757"
+				"download" "924380384"
 			}
 			"beta"
 			{
-				"gid" "6568203626620063799"
-				"size" "1237610294"
-				"download" "951794080"
+				"gid" "4718424778742341648"
+				"size" "1201954757"
+				"download" "924380384"
 			}
 			"mod_feat"
 			{
@@ -482,14 +482,14 @@
 	{
 		"public"
 		{
-			"buildid" "17291175"
-			"timeupdated" "1739427914"
+			"buildid" "17361330"
+			"timeupdated" "1739505077"
 		}
 		"beta"
 		{
-			"buildid" "17291175"
+			"buildid" "17361330"
 			"description" "Latest Development Build"
-			"timeupdated" "1739015153"
+			"timeupdated" "1739505059"
 		}
 		"mod_feat"
 		{
@@ -506,19 +506,19 @@
 		"0.10_fallback"
 		{
 			"buildid" "16925218"
-			"description" "Fallback - 0.10.4 - Use This Branch if 0.11 do dot function"
+			"description" "Legacy - 0.10.4 - Use This Branch if 0.11 do dot function"
 			"timeupdated" "1737529196"
 		}
 		"0.10.1"
 		{
 			"buildid" "16485451"
-			"description" "Legacy-0.10.1"
+			"description" "Legacy - 0.10.1 - Multiplayer Without Lobby"
 			"timeupdated" "1735122333"
 		}
 		"0.9.6_fallback"
 		{
 			"buildid" "16627085"
-			"description" "Legacy-0.9.6"
+			"description" "Legacy - 0.9.6 - No Multiplayer"
 			"timeupdated" "1734660048"
 		}
 	}
@@ -565,6 +565,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27453639"
-"_sha" "2e3b76a87e94579dd0cec5146fd6c9b6d48a82fb"
-"_size" "10792"
+"_change_number" "27472362"
+"_sha" "ec9a16ffa0bc57ddcbcafdce6e63a67e65098c14"
+"_size" "10839"
