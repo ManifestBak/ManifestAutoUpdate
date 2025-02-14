@@ -198,7 +198,7 @@
 		"19" "3810"
 	}
 	"review_score" "5"
-	"review_percentage" "69"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -299,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "5489569565225987974"
-				"size" "7071978765"
-				"download" "5384837088"
+				"gid" "1368079933432733294"
+				"size" "7498886120"
+				"download" "6425717088"
 			}
 			"legacy"
 			{
@@ -311,18 +311,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "5489569565225987974"
-				"size" "7071978765"
-				"download" "5384837088"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "4CAB1FC0ACCD61D44F91529A62A6EA52"
-				"size" "A92051A2AC004B8EE0C399CF0EFDA6EF"
-				"download" "96B0A88AED1351F13412EEC54221AFCD"
+				"gid" "1368079933432733294"
+				"size" "7498886120"
+				"download" "6425717088"
 			}
 		}
 	}
@@ -337,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "5300519412457358680"
-				"size" "5667363189"
-				"download" "3933850112"
+				"gid" "7811677706720008502"
+				"size" "7490222918"
+				"download" "5283728848"
 			}
 			"legacy"
 			{
@@ -349,18 +340,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "5300519412457358680"
-				"size" "5667363189"
-				"download" "3933850112"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "4AEF6052E87C9EAE039B14F76AEDE85E"
-				"size" "EA25A1DF37CF8BBEAAB6AF19BA715815"
-				"download" "146BE9215C62F12FBFE65E70ABBBBE54"
+				"gid" "7811677706720008502"
+				"size" "7490222918"
+				"download" "5283728848"
 			}
 		}
 	}
@@ -368,8 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "16556348"
-			"timeupdated" "1732731824"
+			"buildid" "17371063"
+			"timeupdated" "1739560618"
 		}
 		"legacy"
 		{
@@ -378,17 +360,12 @@
 		}
 		"buildtest"
 		{
-			"buildid" "16556348"
+			"buildid" "17371063"
 			"description" "public developer build branch"
-			"timeupdated" "1732731643"
-		}
-		"developer"
-		{
-			"buildid" "16556348"
-			"pwdrequired" "1"
-			"timeupdated" "1732731778"
+			"timeupdated" "1739560574"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -413,6 +390,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26391685"
-"_sha" "f5b1048444ad3b3ccd2e5f32cf04c4617870ae75"
-"_size" "7163"
+"_change_number" "27486443"
+"_sha" "90c20298764eb3f21e370c89d106e6ed75b08fff"
+"_size" "6664"
