@@ -29,24 +29,25 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"vietnamese" "capsule_231x87_vietnamese.jpg"
+		"english" "2b12a0abeb422b85681770d01b5df6c9a6e48efd/capsule_231x87.jpg"
+		"tchinese" "cc4bee92e04477cd7e0742cbee9dd45e1d24ae9d/capsule_231x87_tchinese.jpg"
+		"vietnamese" "6a25a6b825553cc2a2eafa6570709c4a89ab756b/capsule_231x87_vietnamese.jpg"
+		"schinese" "5fbea0a95590405576ba302112078656d8db2108/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"vietnamese" "header_vietnamese.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "zh-cn,vi,zh-tw,en"
-		"library_hero" "en,vi,zh-cn,zh-tw"
-		"library_logo" "en,zh-cn,vi,zh-tw"
-		"library_header" "zh-cn,en,vi,zh-tw"
+		"library_capsule" "en,zh-tw,vi,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-tw,vi,zh-cn"
+		"library_header" "en,zh-tw,vi,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -60,20 +61,35 @@
 		{
 			"image"
 			{
-				"schinese" "library_600x900_schinese.jpg"
-				"vietnamese" "library_600x900_vietnamese.jpg"
-				"tchinese" "library_600x900_tchinese.jpg"
-				"english" "library_600x900.jpg"
+				"english" "ce97f14c7dd5245e3b5aa0dce8b1e43a4683a25e/library_600x900.jpg"
+				"tchinese" "91fcacd6f259b8c5daa337d6d649cf8c6824088c/library_600x900_tchinese.jpg"
+				"vietnamese" "130e6d325264c5f4ff4bc383fdbb7c8e5ba0aa0f/library_600x900_vietnamese.jpg"
+				"schinese" "a8c1f1e0ad336babdcd3d6c2648f57ef0c7c2c0a/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "ce97f14c7dd5245e3b5aa0dce8b1e43a4683a25e/library_600x900_2x.jpg"
+				"tchinese" "91fcacd6f259b8c5daa337d6d649cf8c6824088c/library_600x900_tchinese_2x.jpg"
+				"vietnamese" "130e6d325264c5f4ff4bc383fdbb7c8e5ba0aa0f/library_600x900_vietnamese_2x.jpg"
+				"schinese" "a8c1f1e0ad336babdcd3d6c2648f57ef0c7c2c0a/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
+			"image2x"
+			{
+				"english" "6e985ff9040c7c536a7f5e191768c841ffb1cef6/library_hero_2x.jpg"
+			}
 			"image"
 			{
-				"english" "library_hero.jpg"
-				"vietnamese" "library_hero_vietnamese.jpg"
-				"schinese" "library_hero_schinese.jpg"
-				"tchinese" "library_hero_tchinese.jpg"
+				"english" "6e985ff9040c7c536a7f5e191768c841ffb1cef6/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "6e985ff9040c7c536a7f5e191768c841ffb1cef6/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -86,24 +102,38 @@
 			}
 			"image"
 			{
-				"english" "logo.png"
-				"schinese" "logo_schinese.png"
-				"vietnamese" "logo_vietnamese.png"
-				"tchinese" "logo_tchinese.png"
+				"english" "b86f0455d6a356cc6551a3aa786d417214eadc8a/logo.png"
+				"tchinese" "ad2bdda06f912d5af31a5a351e657469c9916304/logo_tchinese.png"
+				"vietnamese" "7f227d3a81fc64a8717f633654260917c3d5e3be/logo_vietnamese.png"
+				"schinese" "865152bbb0530ee7a6a056893bc52cfff5d496fa/logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "b86f0455d6a356cc6551a3aa786d417214eadc8a/logo_2x.png"
+				"tchinese" "ad2bdda06f912d5af31a5a351e657469c9916304/logo_tchinese_2x.png"
+				"vietnamese" "7f227d3a81fc64a8717f633654260917c3d5e3be/logo_vietnamese_2x.png"
+				"schinese" "865152bbb0530ee7a6a056893bc52cfff5d496fa/logo_schinese_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"schinese" "library_header_schinese.jpg"
-				"english" "library_header.jpg"
-				"vietnamese" "library_header_vietnamese.jpg"
-				"tchinese" "library_header_tchinese.jpg"
+				"english" "104dc0280bfaabd907e580b74098b6224f2ac569/library_header.jpg"
+				"tchinese" "fe429e659b1b9c3f3dd62928c95d96ab93569094/library_header_tchinese.jpg"
+				"vietnamese" "4a01c41dbe5470b6c00810433e34fec613a26e83/library_header_vietnamese.jpg"
+				"schinese" "b6cdd1216b0bc4cc31e57e1e4b87d2a4e9c892c9/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "104dc0280bfaabd907e580b74098b6224f2ac569/library_header_2x.jpg"
+				"tchinese" "fe429e659b1b9c3f3dd62928c95d96ab93569094/library_header_tchinese_2x.jpg"
+				"vietnamese" "4a01c41dbe5470b6c00810433e34fec613a26e83/library_header_vietnamese_2x.jpg"
+				"schinese" "b6cdd1216b0bc4cc31e57e1e4b87d2a4e9c892c9/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1715308529"
+	"store_asset_mtime" "1730427850"
 	"associations"
 	{
 		"0"
@@ -185,7 +215,7 @@
 		"19" "4342"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -225,15 +255,6 @@
 				"download" "69688656"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "C8321FBED0656E1DE43256BCC56E72E8"
-				"size" "5855FB9544935F8972E2809A4BF6917E"
-				"download" "CA6C11BDC57E543F6F5300B41798959A"
-			}
-		}
 	}
 	"2004774"
 	{
@@ -251,15 +272,6 @@
 				"download" "71842048"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "F0BE8E8C6FE648700848F00065BE4CB1"
-				"size" "733DF953D0341C22EDCDF0CAFEC0C460"
-				"download" "08E4BA2374EAF8E1DF0FA9286966A317"
-			}
-		}
 	}
 	"2004775"
 	{
@@ -270,15 +282,6 @@
 				"gid" "5033427596910594134"
 				"size" "253953560"
 				"download" "227673264"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "AEB994306714F7B1DC54E726BA24DA45"
-				"size" "487ACCCF5707417D5D851E662446F8BD"
-				"download" "B653ED442725E05B5843FADEB1DB28D5"
 			}
 		}
 	}
@@ -293,15 +296,6 @@
 				"download" "88933056"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "572990889AA8D1BC924EF786C38AA908"
-				"size" "7E77C2B87F941A11607724101044CFC4"
-				"download" "7FB37EAF91E3F4F256EFF585E877118C"
-			}
-		}
 	}
 	"branches"
 	{
@@ -310,13 +304,8 @@
 			"buildid" "14439216"
 			"timeupdated" "1716281035"
 		}
-		"alpha"
-		{
-			"buildid" "14438994"
-			"pwdrequired" "1"
-			"timeupdated" "1716279942"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -333,3 +322,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27269529"
+"_sha" "c5746287fa80df1922ddbef3a67d8440018f68c9"
+"_size" "6978"
