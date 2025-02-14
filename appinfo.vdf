@@ -301,8 +301,8 @@
 		"9" "3810"
 		"10" "4747"
 		"11" "1775"
-		"12" "6730"
-		"13" "4182"
+		"12" "4182"
+		"13" "6730"
 		"14" "128"
 		"15" "6276"
 		"16" "122"
@@ -329,7 +329,7 @@
 	"developer" "Studio Wildcard"
 	"publisher" "Studio Wildcard"
 	"homepage" "http://www.playark.com"
-	"listofdlc" "2827030,2849450,2881150,2972680,3059650,3282470,3349320"
+	"listofdlc" "2827030,2849450,2881150,2972680,3059650,3282470,3349320,3483400"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -466,9 +466,9 @@
 		{
 			"public"
 			{
-				"gid" "4404282275917609287"
-				"size" "219921550089"
-				"download" "196903618720"
+				"gid" "8881446196856349695"
+				"size" "224168363679"
+				"download" "200820235248"
 			}
 			"public_test_realm"
 			{
@@ -494,12 +494,13 @@
 			"oslist" "windows"
 		}
 	}
+	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17263456"
-			"timeupdated" "1738883252"
+			"buildid" "17356121"
+			"timeupdated" "1739512358"
 		}
 		"public_test_realm"
 		{
@@ -516,6 +517,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "27354430"
-"_sha" "2d5f0995bf8ddadb58eb1c238cf82292c65fff51"
-"_size" "9635"
+"_change_number" "27473471"
+"_sha" "876f5f2e6ee0b4f43fa4519db25354c97f434ff7"
+"_size" "9667"
