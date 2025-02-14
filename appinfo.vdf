@@ -77,6 +77,10 @@
 	{
 	}
 }
+"extended"
+{
+	"gamedir" ""
+}
 "config"
 {
 	"installdir" "Hell Let Loose (Public Testing)"
@@ -172,30 +176,9 @@
 		{
 			"public"
 			{
-				"gid" "7507074122780166131"
-				"size" "50068166912"
-				"download" "22978490576"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"twitchcon"
-			{
-				"gid" "E1A7E12CEFB76A1852120837E463C41A"
-				"size" "6DFB68EB73CF3D9325B2DF7636E98538"
-				"download" "C1A427FF985D8A258DCF0450C7317DC0"
-			}
-			"wc_testing"
-			{
-				"gid" "0B697496551475F78696D670F02F80A0"
-				"size" "B65054F8DE445E286DFC1794F9CC4B31"
-				"download" "78E3A8AA7126080CB46A840770F934E8"
-			}
-			"qa_testing"
-			{
-				"gid" "696D9A7E0196F1E0E4A9E5A0216061C3"
-				"size" "1E414B4BC305BA0A0B34A8E7CF3B0F9E"
-				"download" "107C9E48401FCAE3515C5BD0BD02E026"
+				"gid" "272911989781315635"
+				"size" "54942152677"
+				"download" "25180646976"
 			}
 		}
 	}
@@ -204,30 +187,9 @@
 	{
 		"public"
 		{
-			"buildid" "16079499"
-			"timeupdated" "1729255854"
-		}
-		"twitchcon"
-		{
-			"buildid" "13880680"
-			"pwdrequired" "1"
-			"timeupdated" "1711619353"
-		}
-		"wc_testing"
-		{
-			"buildid" "13880632"
-			"pwdrequired" "1"
-			"timeupdated" "1712052430"
-		}
-		"qa_testing"
-		{
-			"buildid" "16079499"
-			"pwdrequired" "1"
-			"timeupdated" "1729160955"
+			"buildid" "17365028"
+			"timeupdated" "1739532562"
 		}
 	}
+	"privatebranches" "1"
 }
-"_missing_token" "False"
-"_change_number" "25785872"
-"_sha" "e5a72035d9c33ae683308dbe597749d0d3b37c95"
-"_size" "4265"
