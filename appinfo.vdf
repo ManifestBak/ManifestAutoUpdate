@@ -17,6 +17,7 @@
 		"2" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "8cebaa0c27fc7c1da7854b36d5c30eb84ef57006/capsule_231x87.jpg"
@@ -125,6 +126,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -245,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "679823887360633643"
-				"size" "1687722090"
-				"download" "1154972976"
+				"gid" "4076053868817726175"
+				"size" "2125112552"
+				"download" "1436367728"
 			}
 		}
 	}
@@ -255,8 +257,8 @@
 	{
 		"public"
 		{
-			"buildid" "17105038"
-			"timeupdated" "1737735645"
+			"buildid" "17371076"
+			"timeupdated" "1739568079"
 		}
 	}
 	"privatebranches" "1"
@@ -280,6 +282,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27152589"
-"_sha" "a0fd8a4a471d4bc05c13b362af942c3b096a290b"
-"_size" "4647"
+"_change_number" "27487282"
+"_sha" "f94431ef5f251dfdf6cdce63201f6fad5edf9edf"
+"_size" "4704"
