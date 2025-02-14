@@ -217,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "6183826710821271367"
-				"size" "2333707611"
-				"download" "276989680"
+				"gid" "7340252389795043375"
+				"size" "2333851755"
+				"download" "276973776"
 			}
 		}
 	}
@@ -227,8 +227,8 @@
 	{
 		"public"
 		{
-			"buildid" "17350578"
-			"timeupdated" "1739445262"
+			"buildid" "17364606"
+			"timeupdated" "1739526728"
 		}
 	}
 }
@@ -248,8 +248,8 @@
 			{
 				"0"
 				{
-					"find" "YaoYiStudio/MuseumNo.9/data"
-					"replace" "unity.YaoYiStudio.MuseumNo.9.data"
+					"find" "YaoYiMuseumGame/MuseumNo.9/data"
+					"replace" "unity.YaoYiMuseumGame.MuseumNo.9.data"
 				}
 			}
 		}
@@ -259,13 +259,13 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "YaoYiStudio/MuseumNo.9/data"
+			"path" "YaoYiMuseumGame/MuseumNo.9/data"
 			"pattern" "*"
 			"recursive" "1"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27457724"
-"_sha" "400f046d1a25586703e765fbd9b4e1f726bdda92"
-"_size" "4449"
+"_change_number" "27476545"
+"_sha" "2428e5a1e3c2451ad3fe05a0812eb80e61363ea9"
+"_size" "4461"
