@@ -131,6 +131,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1721964691"
 	"community_visible_stats" "1"
@@ -191,9 +196,9 @@
 		{
 			"public"
 			{
-				"gid" "2533204942961065624"
-				"size" "988811380"
-				"download" "582110576"
+				"gid" "1495442012574650100"
+				"size" "989206119"
+				"download" "582866000"
 			}
 		}
 	}
@@ -201,8 +206,8 @@
 	{
 		"public"
 		{
-			"buildid" "17338128"
-			"timeupdated" "1739372789"
+			"buildid" "17369147"
+			"timeupdated" "1739549218"
 		}
 	}
 	"privatebranches" "1"
@@ -222,6 +227,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27441426"
-"_sha" "708d2f7261fe37653558ecc8af40d53c9b3f95d0"
-"_size" "3368"
+"_change_number" "27482767"
+"_sha" "253cb6ff9629ef3357c1eada3f3879762d9dae6c"
+"_size" "3439"
