@@ -332,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "4863431029890130732"
-				"size" "3692880867"
-				"download" "3189558864"
+				"gid" "8364227826411053468"
+				"size" "5507301546"
+				"download" "4139509040"
 			}
 		}
 	}
@@ -348,9 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "3828897808729609764"
-				"size" "3714361611"
-				"download" "3195985952"
+				"gid" "6803831866581161601"
+				"size" "5530920810"
+				"download" "4146570944"
 			}
 		}
 	}
@@ -364,9 +364,9 @@
 		{
 			"public"
 			{
-				"gid" "3393857488289397698"
-				"size" "3660960187"
-				"download" "3160747664"
+				"gid" "8520277960106391651"
+				"size" "5426081900"
+				"download" "4061632256"
 			}
 		}
 	}
@@ -375,8 +375,8 @@
 	{
 		"public"
 		{
-			"buildid" "17283716"
-			"timeupdated" "1739271736"
+			"buildid" "17366077"
+			"timeupdated" "1739541036"
 		}
 	}
 	"privatebranches" "1"
@@ -394,8 +394,26 @@
 			"pattern" "*.JSON"
 		}
 	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "TOI2_Data/Resources/SaveFiles"
+					"replace" "TOI2.app/Contents/Resources/SaveFiles"
+				}
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27418377"
-"_sha" "bf2422f462e12860f7bbf2ca796ffb50616da711"
-"_size" "6822"
+"_change_number" "27480434"
+"_sha" "fd71af8ef6e0d6d64b6af8e20755384905b699c9"
+"_size" "7121"
