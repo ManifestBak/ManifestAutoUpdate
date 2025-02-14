@@ -169,29 +169,29 @@
 	"gameid" "2637070"
 	"store_tags"
 	{
-		"0" "42804"
+		"0" "12095"
 		"1" "1663"
-		"2" "12095"
-		"3" "3959"
-		"4" "1774"
+		"2" "42804"
+		"3" "1774"
+		"4" "3959"
 		"5" "6730"
 		"6" "4191"
 		"7" "3839"
 		"8" "1716"
 		"9" "19"
 		"10" "6650"
-		"11" "3968"
+		"11" "5611"
 		"12" "5752"
-		"13" "5611"
-		"14" "5794"
+		"13" "3968"
+		"14" "24904"
 		"15" "3993"
 		"16" "4182"
-		"17" "4175"
-		"18" "24904"
+		"17" "5794"
+		"18" "4175"
 		"19" "9130"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -241,38 +241,29 @@
 		{
 			"public"
 			{
-				"gid" "5429148642862453259"
-				"size" "2231317099"
-				"download" "1910795520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"crawlinglabtest"
-			{
-				"gid" "855081915170EA92DD6EF0738B44F038"
-				"size" "CF6828C67B5142D90D8E2C6762B95553"
-				"download" "9124E5E6F8D8C4A25BF8CAA74AB5D316"
+				"gid" "7404941551940383774"
+				"size" "2174452539"
+				"download" "1843961792"
 			}
 		}
 	}
+	"workshopdepot" "2637070"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15757031"
-			"timeupdated" "1726752551"
-		}
-		"crawlinglabtest"
-		{
-			"buildid" "15757031"
-			"pwdrequired" "1"
-			"timeupdated" "1726752145"
+			"buildid" "17363797"
+			"timeupdated" "1739523058"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "100000000"
-	"maxnumfiles" "100"
+	"maxnumfiles" "1000"
 }
+"_missing_token" "False"
+"_change_number" "27475631"
+"_sha" "ad5e84bf37dd6e3a5ade1f518d1264711f1c094c"
+"_size" "4606"
