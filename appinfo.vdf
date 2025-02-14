@@ -1,13 +1,14 @@
 "appid" "2730530"
 "common"
 {
-	"name" "Syn-Chorus 01：The New Life"
+	"name" "Syn-Chorus 01: The New Life"
 	"type" "Game"
 	"icon" "51bad3c7a3d1d9978be5c16650c0edf7a5a669e7"
 	"name_localized"
 	{
 		"schinese" "协律01：新生活"
 		"tchinese" "協律01：新生活"
+		"english" "Syn-Chorus 01: The New Life"
 	}
 	"oslist" "windows"
 	"osarch" ""
@@ -123,7 +124,6 @@
 		"schinese"
 		{
 			"supported" "true"
-			"full_audio" "true"
 			"subtitles" "true"
 		}
 	}
@@ -154,7 +154,7 @@
 		"19" "1742"
 	}
 	"review_score" "7"
-	"review_percentage" "84"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -186,9 +186,9 @@
 		{
 			"public"
 			{
-				"gid" "5123473730077021236"
-				"size" "19790225843"
-				"download" "2589433344"
+				"gid" "7739240400916331984"
+				"size" "19790107927"
+				"download" "2589403600"
 			}
 		}
 	}
@@ -196,8 +196,8 @@
 	{
 		"public"
 		{
-			"buildid" "17362690"
-			"timeupdated" "1739515669"
+			"buildid" "17367215"
+			"timeupdated" "1739539916"
 		}
 	}
 	"privatebranches" "1"
@@ -224,6 +224,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27474510"
-"_sha" "cc7e395c2c440e9640b8053842d185df84e1be3f"
-"_size" "3495"
+"_change_number" "27480109"
+"_sha" "8569974048fdd1fd7228ce36a5cc15f9b1ac5f00"
+"_size" "3513"
