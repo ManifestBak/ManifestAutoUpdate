@@ -156,12 +156,16 @@
 	{
 		"0" "4"
 		"1" "23"
+		"2" "28"
 	}
 	"category"
 	{
 		"category_2" "1"
 		"category_22" "1"
 		"category_30" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
 	}
 	"supported_languages"
 	{
@@ -803,9 +807,10 @@
 		"9" "492"
 		"10" "1651"
 		"11" "4182"
-		"12" "3871"
-		"13" "4559"
-		"14" "379975"
+		"12" "599"
+		"13" "3871"
+		"14" "4559"
+		"15" "379975"
 	}
 	"review_score" "8"
 	"review_percentage" "82"
@@ -843,9 +848,9 @@
 		{
 			"public"
 			{
-				"gid" "5867503605211728920"
-				"size" "281733499"
-				"download" "33965424"
+				"gid" "161874157372503552"
+				"size" "281734011"
+				"download" "33965312"
 			}
 		}
 	}
@@ -854,8 +859,8 @@
 	{
 		"public"
 		{
-			"buildid" "17359030"
-			"timeupdated" "1739489199"
+			"buildid" "17378168"
+			"timeupdated" "1739630415"
 		}
 	}
 }
@@ -865,6 +870,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27469189"
-"_sha" "42863fa5b2e4a79ff5c11e2af0b0e5d4521215a3"
-"_size" "14247"
+"_change_number" "27495528"
+"_sha" "787f475697735e0c07013945b64ac0f9f951fbdc"
+"_size" "14338"
