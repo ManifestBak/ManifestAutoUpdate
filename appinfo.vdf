@@ -94,7 +94,7 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" " Xefier Games"
+			"name" "Xefier Games"
 		}
 	}
 	"primary_genre" "1"
@@ -281,7 +281,7 @@
 "extended"
 {
 	"developer" "Hillcrest Games Inc."
-	"publisher" " Xefier Games"
+	"publisher" "Xefier Games"
 	"homepage" "https://liminallabs.ca/theclassrooms/"
 }
 "config"
@@ -314,9 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "1772539185442463499"
-				"size" "12167052245"
-				"download" "4407990896"
+				"gid" "3484188793489443309"
+				"size" "12140787266"
+				"download" "4308050832"
 			}
 		}
 	}
@@ -324,8 +324,8 @@
 	{
 		"public"
 		{
-			"buildid" "16844773"
-			"timeupdated" "1735069328"
+			"buildid" "17373201"
+			"timeupdated" "1739576562"
 		}
 	}
 	"privatebranches" "1"
@@ -336,6 +336,6 @@
 	"maxnumfiles" "10"
 }
 "_missing_token" "False"
-"_change_number" "26775801"
-"_sha" "2b91cae4de39308a7fbdd87849d3879765ee31ab"
-"_size" "4734"
+"_change_number" "27488855"
+"_sha" "b4ecb7f30701032d24640995d14ee95dd2baa1b6"
+"_size" "4732"
