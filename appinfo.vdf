@@ -60,6 +60,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "04e34a74d1939044b8ab95afb5144bc4fd841300/capsule_231x87.jpg"
@@ -130,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734527746"
+	"store_asset_mtime" "1738579168"
 	"associations"
 	{
 		"0"
@@ -157,6 +158,9 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -243,8 +247,8 @@
 		"13" "3839"
 		"14" "599"
 		"15" "4305"
-		"16" "4252"
-		"17" "4182"
+		"16" "4182"
+		"17" "4252"
 		"18" "492"
 		"19" "4166"
 	}
@@ -359,6 +363,9 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "13"
+	"steaminputmanifestpath" "assets/steam-controller/steam_input_manifest.vdf"
+	"steamconfigurator3rdpartynative" "65535"
 }
 "depots"
 {
@@ -383,51 +390,27 @@
 		{
 			"public"
 			{
+				"gid" "7079390824449153980"
+				"size" "2448520086"
+				"download" "1340281808"
+			}
+			"beta-1_12_0"
+			{
+				"gid" "7003309066043444021"
+				"size" "2448465860"
+				"download" "1340225872"
+			}
+			"old-1_11_2"
+			{
 				"gid" "6680652945508120270"
 				"size" "2444777561"
 				"download" "1339768672"
-			}
-			"1_10_1-ssbo_constants"
-			{
-				"gid" "6918319939236224324"
-				"size" "1945864775"
-				"download" "1081256816"
-			}
-			"1_10_1-test"
-			{
-				"gid" "721083909181072364"
-				"size" "1945776599"
-				"download" "1081273792"
-			}
-			"1_10_3-ssbo_constants"
-			{
-				"gid" "2299946126708000197"
-				"size" "2286260931"
-				"download" "1250398240"
-			}
-			"old-1_10_3"
-			{
-				"gid" "5875516892040878480"
-				"size" "2286179999"
-				"download" "1250381248"
-			}
-			"old-1_11_1a"
-			{
-				"gid" "7731547411944290151"
-				"size" "2444553200"
-				"download" "1339677184"
-			}
-			"old-1_11_1c"
-			{
-				"gid" "236750704256431460"
-				"size" "2444638131"
-				"download" "1339765424"
 			}
 			"testing"
 			{
-				"gid" "6680652945508120270"
-				"size" "2444777561"
-				"download" "1339768672"
+				"gid" "7079390824449153980"
+				"size" "2448520086"
+				"download" "1340281808"
 			}
 		}
 	}
@@ -442,51 +425,27 @@
 		{
 			"public"
 			{
+				"gid" "4334730462854064876"
+				"size" "2536105605"
+				"download" "1344933360"
+			}
+			"beta-1_12_0"
+			{
+				"gid" "5844987923765484836"
+				"size" "2537598782"
+				"download" "1344929440"
+			}
+			"old-1_11_2"
+			{
 				"gid" "2994460045324701164"
 				"size" "2532855832"
 				"download" "1344487184"
-			}
-			"1_10_1-ssbo_constants"
-			{
-				"gid" "8584017288791747503"
-				"size" "2034998540"
-				"download" "1083135872"
-			}
-			"1_10_1-test"
-			{
-				"gid" "8584017288791747503"
-				"size" "2034998540"
-				"download" "1083135872"
-			}
-			"1_10_3-ssbo_constants"
-			{
-				"gid" "6431917683931296230"
-				"size" "2375479688"
-				"download" "1256282576"
-			}
-			"old-1_10_3"
-			{
-				"gid" "362385085338089535"
-				"size" "2375398756"
-				"download" "1256269776"
-			}
-			"old-1_11_1a"
-			{
-				"gid" "2905196342140724289"
-				"size" "2532810047"
-				"download" "1344457744"
-			}
-			"old-1_11_1c"
-			{
-				"gid" "5289255516693756422"
-				"size" "2532935410"
-				"download" "1344500064"
 			}
 			"testing"
 			{
-				"gid" "2994460045324701164"
-				"size" "2532855832"
-				"download" "1344487184"
+				"gid" "4334730462854064876"
+				"size" "2536105605"
+				"download" "1344933360"
 			}
 		}
 	}
@@ -494,50 +453,26 @@
 	{
 		"public"
 		{
+			"buildid" "17377887"
+			"timeupdated" "1739630506"
+		}
+		"beta-1_12_0"
+		{
+			"buildid" "17366426"
+			"description" "Controller support PREVIEW"
+			"timeupdated" "1739535792"
+		}
+		"old-1_11_2"
+		{
 			"buildid" "17012194"
-			"timeupdated" "1736947624"
-		}
-		"1_10_1-ssbo_constants"
-		{
-			"buildid" "16129957"
-			"description" "Yet another NVIDIA test"
-			"timeupdated" "1729560620"
-		}
-		"1_10_1-test"
-		{
-			"buildid" "16071584"
-			"description" "Potential NVIDIA workaround"
-			"timeupdated" "1729111612"
-		}
-		"1_10_3-ssbo_constants"
-		{
-			"buildid" "16207162"
-			"description" "1.10.3 with maybe less NV crashing"
-			"timeupdated" "1730126137"
-		}
-		"old-1_10_3"
-		{
-			"buildid" "16207013"
 			"description" "Previous build"
-			"timeupdated" "1734367126"
-		}
-		"old-1_11_1a"
-		{
-			"buildid" "16803208"
-			"description" "Previous build"
-			"timeupdated" "1734975211"
-		}
-		"old-1_11_1c"
-		{
-			"buildid" "16837339"
-			"description" "Previous build"
-			"timeupdated" "1736942352"
+			"timeupdated" "1739630462"
 		}
 		"testing"
 		{
-			"buildid" "17012194"
+			"buildid" "17377887"
 			"description" "Pre-release testing (unstable)"
-			"timeupdated" "1736940522"
+			"timeupdated" "1739626618"
 		}
 	}
 	"privatebranches" "1"
@@ -576,6 +511,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27008492"
-"_sha" "63bcfaf63168f39b1fedb5d25e4837afff7de761"
-"_size" "10316"
+"_change_number" "27494962"
+"_sha" "791b52ab6b3883687d58d250cf2d719dfbbc7571"
+"_size" "9048"
