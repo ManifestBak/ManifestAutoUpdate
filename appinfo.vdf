@@ -1,7 +1,7 @@
 "appid" "2641630"
 "common"
 {
-	"name" "悪夢の家 -6 Day Nightmare-"
+	"name" "悪魔の家 -6 Day Nightmare-"
 	"type" "Game"
 	"oslist" "windows"
 	"osarch" "64"
@@ -229,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "3892129597655358530"
-				"size" "5101461499"
-				"download" "4908598704"
+				"gid" "5420015509736012967"
+				"size" "5101449259"
+				"download" "4908735536"
 			}
 		}
 	}
@@ -239,8 +239,8 @@
 	{
 		"public"
 		{
-			"buildid" "17127257"
-			"timeupdated" "1737771328"
+			"buildid" "17374940"
+			"timeupdated" "1739589807"
 		}
 	}
 }
@@ -263,6 +263,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27159414"
-"_sha" "ed2ea65f544ce35d0680e082ab83b5117686f1df"
+"_change_number" "27490657"
+"_sha" "82bfac765000b9983e34c11b065af7e462cf3c90"
 "_size" "3887"
