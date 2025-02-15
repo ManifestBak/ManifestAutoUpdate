@@ -72,7 +72,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "693602140bb69882f955b39efc64e11e53287a22/capsule_231x87.jpg"
+		"english" "7d1e53f28ecb784362cc673097a58a49853fae8b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -97,11 +97,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "6cd616ba6fa12a70583c1b911e93a96a808b7b57/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "6cd616ba6fa12a70583c1b911e93a96a808b7b57/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -136,15 +136,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "91c36653cbe53c1dd47908a865762d162f5fea11/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_header_2x.jpg"
+				"english" "91c36653cbe53c1dd47908a865762d162f5fea11/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1732167438"
+	"store_asset_mtime" "1739543715"
 	"associations"
 	{
 		"0"
@@ -267,9 +267,18 @@
 		}
 	}
 	"uselaunchcommandline" "1"
-	"steamcontrollertemplateindex" "4"
+	"steamcontrollertemplateindex" "1"
 	"steamdecktouchscreen" "1"
 	"steamcontrollertouchtemplateindex" "8"
+	"steamcontrollerconfigdetails"
+	{
+		"3427417627"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,beta"
+			"use_action_block" "false"
+		}
+	}
 }
 "depots"
 {
@@ -283,15 +292,15 @@
 		{
 			"public"
 			{
-				"gid" "6357475565942624744"
-				"size" "517828152"
-				"download" "461752976"
+				"gid" "5365115737880033782"
+				"size" "517829800"
+				"download" "461753952"
 			}
 			"beta"
 			{
-				"gid" "6357475565942624744"
-				"size" "517828152"
-				"download" "461752976"
+				"gid" "5365115737880033782"
+				"size" "517829800"
+				"download" "461753952"
 			}
 		}
 	}
@@ -305,15 +314,15 @@
 		{
 			"public"
 			{
-				"gid" "6138814861018439432"
-				"size" "524422944"
-				"download" "463474944"
+				"gid" "365678997261133137"
+				"size" "524424592"
+				"download" "463475920"
 			}
 			"beta"
 			{
-				"gid" "6138814861018439432"
-				"size" "524422944"
-				"download" "463474944"
+				"gid" "365678997261133137"
+				"size" "524424592"
+				"download" "463475920"
 			}
 		}
 	}
@@ -327,15 +336,15 @@
 		{
 			"public"
 			{
-				"gid" "3914503009090947770"
-				"size" "589376362"
-				"download" "476983728"
+				"gid" "7485409897686454063"
+				"size" "589378010"
+				"download" "476984432"
 			}
 			"beta"
 			{
-				"gid" "3914503009090947770"
-				"size" "589376362"
-				"download" "476983728"
+				"gid" "7485409897686454063"
+				"size" "589378010"
+				"download" "476984432"
 			}
 		}
 	}
@@ -345,14 +354,14 @@
 	{
 		"public"
 		{
-			"buildid" "17340471"
-			"timeupdated" "1739384322"
+			"buildid" "17373092"
+			"timeupdated" "1739574329"
 		}
 		"beta"
 		{
-			"buildid" "17340471"
+			"buildid" "17373092"
 			"description" "Live distribution staging branch"
-			"timeupdated" "1739383571"
+			"timeupdated" "1739573476"
 		}
 	}
 }
@@ -397,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27444628"
-"_sha" "9c8771ef52a7644c72ef631f3f0e7c201e82defa"
-"_size" "6938"
+"_change_number" "27488439"
+"_sha" "197697f785fd8706b7b8676f1a3f775eb0cf859d"
+"_size" "7282"
