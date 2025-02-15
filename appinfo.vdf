@@ -135,7 +135,7 @@
 		"2" "1621"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -159,15 +159,15 @@
 		{
 			"public"
 			{
-				"gid" "8884151070554872225"
-				"size" "433155792"
-				"download" "91154880"
+				"gid" "5262667098439384851"
+				"size" "433152544"
+				"download" "91161648"
 			}
 			"beta"
 			{
-				"gid" "8884151070554872225"
-				"size" "433155792"
-				"download" "91154880"
+				"gid" "5262667098439384851"
+				"size" "433152544"
+				"download" "91161648"
 			}
 			"older"
 			{
@@ -189,15 +189,15 @@
 		{
 			"public"
 			{
-				"gid" "5005407075124771945"
-				"size" "433155792"
-				"download" "91157824"
+				"gid" "2299767589831818346"
+				"size" "433152544"
+				"download" "91161472"
 			}
 			"beta"
 			{
-				"gid" "5005407075124771945"
-				"size" "433155792"
-				"download" "91157824"
+				"gid" "2299767589831818346"
+				"size" "433152544"
+				"download" "91161472"
 			}
 			"older"
 			{
@@ -218,15 +218,15 @@
 		{
 			"public"
 			{
-				"gid" "3507011616537580963"
-				"size" "433324128"
-				"download" "91463856"
+				"gid" "1799874698878073389"
+				"size" "433320896"
+				"download" "91460320"
 			}
 			"beta"
 			{
-				"gid" "3507011616537580963"
-				"size" "433324128"
-				"download" "91463856"
+				"gid" "1799874698878073389"
+				"size" "433320896"
+				"download" "91460320"
 			}
 			"older"
 			{
@@ -247,15 +247,15 @@
 		{
 			"public"
 			{
-				"gid" "7420512876503158602"
-				"size" "433351600"
-				"download" "91299776"
+				"gid" "4017778364661731535"
+				"size" "433348368"
+				"download" "91305824"
 			}
 			"beta"
 			{
-				"gid" "7420512876503158602"
-				"size" "433351600"
-				"download" "91299776"
+				"gid" "4017778364661731535"
+				"size" "433348368"
+				"download" "91305824"
 			}
 			"older"
 			{
@@ -270,14 +270,14 @@
 	{
 		"public"
 		{
-			"buildid" "17259247"
-			"timeupdated" "1738810855"
+			"buildid" "17372945"
+			"timeupdated" "1739575338"
 		}
 		"beta"
 		{
-			"buildid" "17259247"
+			"buildid" "17372945"
 			"description" "Public beta"
-			"timeupdated" "1738802315"
+			"timeupdated" "1739573027"
 		}
 		"older"
 		{
@@ -289,6 +289,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27337811"
-"_sha" "f35ae9780904bcfdd479bf570f11776422b33ab7"
+"_change_number" "27488603"
+"_sha" "cabfe8d6c97300cc85620cfc36b3992575aba7d6"
 "_size" "4743"
