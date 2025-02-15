@@ -41,10 +41,10 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "d3885845de523702acb96b3e5f01ed3ab64977f3/capsule_231x87.jpg"
+		"english" "ef6bdcd267e8ad7a7e669406839080813ce94f38/capsule_231x87.jpg"
 		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
-		"schinese" "442c8c84aa76a47742db165c06459d625ad38234/capsule_231x87_schinese.jpg"
-		"tchinese" "a2837f4b7d727d32d6a4fb44ca0b950034ca010c/capsule_231x87_tchinese.jpg"
+		"schinese" "b9410ef681b85d5cc4bb42754cceb0cb9c269378/capsule_231x87_schinese.jpg"
+		"tchinese" "da611dee57a1224a7fd3ae01d9f6763c29dde093/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -115,11 +115,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.png"
+				"english" "3ad006ecb43a0cb5deff0a0501e6d32072ccd55f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3ad006ecb43a0cb5deff0a0501e6d32072ccd55f/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1737894723"
+	"store_asset_mtime" "1739526615"
 	"associations"
 	{
 		"0"
@@ -259,8 +263,8 @@
 		"18" "492"
 		"19" "5984"
 	}
-	"review_score" "8"
-	"review_percentage" "81"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -302,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "7757079416948729990"
-				"size" "4867500018"
-				"download" "1027120976"
+				"gid" "1347247986879337736"
+				"size" "4867499506"
+				"download" "1027121408"
 			}
 		}
 	}
@@ -323,8 +327,8 @@
 	{
 		"public"
 		{
-			"buildid" "17362229"
-			"timeupdated" "1739515315"
+			"buildid" "17375588"
+			"timeupdated" "1739597121"
 		}
 	}
 	"privatebranches" "1"
@@ -344,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27474145"
-"_sha" "7d44943180ca1f05e1d2fd999ce6e664d6682c3a"
-"_size" "5964"
+"_change_number" "27491387"
+"_sha" "153be94566cfd518f0e3757e7c3518023903411e"
+"_size" "6112"
