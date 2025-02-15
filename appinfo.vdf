@@ -188,8 +188,8 @@
 		"13" "4026"
 		"14" "1716"
 		"15" "4166"
-		"16" "4305"
-		"17" "6650"
+		"16" "6650"
+		"17" "4305"
 		"18" "3798"
 	}
 	"review_score" "9"
@@ -225,15 +225,15 @@
 		{
 			"public"
 			{
-				"gid" "4362980211861253803"
-				"size" "212741365"
-				"download" "167083264"
+				"gid" "588697284941641750"
+				"size" "212920499"
+				"download" "167174880"
 			}
 			"chinese"
 			{
-				"gid" "7650328865178974774"
-				"size" "212714093"
-				"download" "167077344"
+				"gid" "669282131459649033"
+				"size" "249884346"
+				"download" "182491520"
 			}
 		}
 	}
@@ -241,14 +241,14 @@
 	{
 		"public"
 		{
-			"buildid" "17219847"
-			"timeupdated" "1738554277"
+			"buildid" "17372834"
+			"timeupdated" "1739571745"
 		}
 		"chinese"
 		{
-			"buildid" "17169532"
+			"buildid" "17301499"
 			"description" "Chinese Beta"
-			"timeupdated" "1738201514"
+			"timeupdated" "1739152731"
 		}
 	}
 	"privatebranches" "1"
@@ -272,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27283109"
-"_sha" "6f05267352e549b601c184a9c1d74408d1533c8f"
-"_size" "4951"
+"_change_number" "27488028"
+"_sha" "05062b1d7df2c0a3596ae34af7de76148b183978"
+"_size" "4949"
