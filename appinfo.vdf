@@ -442,6 +442,7 @@
 "depots"
 {
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,dutch,turkish,brazilian"
+	"hasdepotsindlc" "1"
 	"228989"
 	{
 		"config"
@@ -466,9 +467,9 @@
 		{
 			"public"
 			{
-				"gid" "8881446196856349695"
-				"size" "224168363679"
-				"download" "200820235248"
+				"gid" "3369409936043603167"
+				"size" "224168406687"
+				"download" "200820084784"
 			}
 			"public_test_realm"
 			{
@@ -486,21 +487,12 @@
 	{
 		"dlcappid" "2849450"
 	}
-	"3483400"
-	{
-		"dlcappid" "3483400"
-		"config"
-		{
-			"oslist" "windows"
-		}
-	}
-	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17356121"
-			"timeupdated" "1739512358"
+			"buildid" "17374348"
+			"timeupdated" "1739587009"
 		}
 		"public_test_realm"
 		{
@@ -517,6 +509,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "27473471"
-"_sha" "876f5f2e6ee0b4f43fa4519db25354c97f434ff7"
-"_size" "9667"
+"_change_number" "27490326"
+"_sha" "4fd283a0068738509fc0fdcf5a55dd4782a742eb"
+"_size" "9576"
