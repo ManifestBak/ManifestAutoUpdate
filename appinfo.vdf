@@ -252,6 +252,22 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "StormWorkshopTool/StormWorkshopTool.exe"
+			"workingdir" "StormWorkshopTool"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Storm Workshop Tool"
+				"russian" "Инструмент мастерской Storm"
+			}
+			"description" "Storm Workshop Tool"
+		}
 	}
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
@@ -267,6 +283,7 @@
 }
 "depots"
 {
+	"workshopdepot" "2230980"
 	"228988"
 	{
 		"config"
@@ -300,31 +317,52 @@
 		{
 			"public"
 			{
-				"gid" "2341984820348738792"
-				"size" "47322644643"
-				"download" "16049034896"
+				"gid" "1052506848281034651"
+				"size" "48707537411"
+				"download" "16280110112"
 			}
-			"1.3.5"
+			"1.3.7"
 			{
-				"gid" "589039536969695327"
-				"size" "48737610809"
-				"download" "16321352144"
+				"gid" "3320769064040939577"
+				"size" "49503001036"
+				"download" "16341752752"
 			}
 		}
 	}
-	"workshopdepot" "2230980"
+	"2230982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4427977879727866831"
+				"size" "4069429"
+				"download" "697504"
+			}
+			"1.3.7"
+			{
+				"gid" "4427977879727866831"
+				"size" "4069429"
+				"download" "697504"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17081334"
-			"timeupdated" "1737484406"
+			"buildid" "17378795"
+			"timeupdated" "1739638332"
 		}
-		"1.3.5"
+		"1.3.7"
 		{
-			"buildid" "17081039"
+			"buildid" "17378747"
 			"description" "Open Beta"
-			"timeupdated" "1737483268"
+			"timeupdated" "1739638478"
 		}
 	}
 	"privatebranches" "1"
@@ -345,6 +383,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27098704"
-"_sha" "1b8154dc68838025559d997ce8c22d789570d6d6"
-"_size" "6033"
+"_change_number" "27496330"
+"_sha" "a91dccfb0738f00a0d5ef009340dbfbce6dcd210"
+"_size" "6705"
