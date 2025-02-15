@@ -127,6 +127,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -139,6 +140,7 @@
 		}
 	}
 	"steam_release_date" "1727748049"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2353130/announcements/detail/497187708384313356\?snr=1_2108_9__2107"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2353130"
@@ -190,9 +192,9 @@
 		{
 			"public"
 			{
-				"gid" "677111366010463198"
-				"size" "1162316750"
-				"download" "1097298944"
+				"gid" "6209634663744548801"
+				"size" "1163016109"
+				"download" "1097821184"
 			}
 		}
 	}
@@ -200,8 +202,8 @@
 	{
 		"public"
 		{
-			"buildid" "17359729"
-			"timeupdated" "1739493701"
+			"buildid" "17376149"
+			"timeupdated" "1739604648"
 		}
 	}
 }
@@ -220,6 +222,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27470098"
-"_sha" "bad86955da199e9f8fbfdb155210e94c8825ca39"
-"_size" "3784"
+"_change_number" "27492043"
+"_sha" "df30dbe137b8d891ead414c9f3c407b69617d240"
+"_size" "3934"
