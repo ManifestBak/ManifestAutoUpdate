@@ -199,6 +199,11 @@
 			"type" "publisher"
 			"name" "Jampacked Games"
 		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -269,8 +274,8 @@
 		"18" "7481"
 		"19" "1716"
 	}
-	"review_score" "9"
-	"review_percentage" "95"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -304,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "8947317814587632478"
-				"size" "640912751"
-				"download" "236468880"
+				"gid" "7269927419307872284"
+				"size" "640722299"
+				"download" "236461360"
 			}
 		}
 	}
@@ -328,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "8450408005772735156"
-				"size" "640912751"
-				"download" "236482736"
+				"gid" "6628839591559295235"
+				"size" "640722299"
+				"download" "236475184"
 			}
 		}
 	}
@@ -338,8 +343,8 @@
 	{
 		"public"
 		{
-			"buildid" "17033024"
-			"timeupdated" "1737070179"
+			"buildid" "17375544"
+			"timeupdated" "1739596218"
 		}
 	}
 }
@@ -391,6 +396,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27033404"
-"_sha" "5cae39595a0fda30f581b2224a64766cea73f16d"
-"_size" "9064"
+"_change_number" "27491316"
+"_sha" "03f40d02354e9281cecea02d3965b9101816054d"
+"_size" "9134"
