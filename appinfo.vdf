@@ -304,6 +304,12 @@
 		{
 			"public"
 			{
+				"gid" "521949766051636140"
+				"size" "516338629"
+				"download" "273936544"
+			}
+			"open_beta"
+			{
 				"gid" "8124228739350916272"
 				"size" "516740765"
 				"download" "273956704"
@@ -315,8 +321,14 @@
 	{
 		"public"
 		{
+			"buildid" "17242363"
+			"timeupdated" "1739642300"
+		}
+		"open_beta"
+		{
 			"buildid" "17376077"
-			"timeupdated" "1739603388"
+			"description" "Open Beta"
+			"timeupdated" "1739642258"
 		}
 	}
 	"privatebranches" "1"
@@ -327,6 +339,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "27491935"
-"_sha" "ee05380668b749a991f71f02b266e167f5c5ab90"
-"_size" "5868"
+"_change_number" "27496283"
+"_sha" "fd5cd2664ff95a47c219b57410aa9f1975454c8e"
+"_size" "6097"
