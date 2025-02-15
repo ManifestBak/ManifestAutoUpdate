@@ -155,7 +155,7 @@
 	{
 		"0"
 		{
-			"executable" "\\bin\\winx86\\TheVillageT.exe"
+			"executable" "br_vill\\bin\\winx86\\TheVillageT.exe"
 			"type" "default"
 			"config"
 			{
@@ -206,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "4222892745262317970"
-				"size" "8275069564"
-				"download" "5568162880"
+				"gid" "5474744823630736459"
+				"size" "8103286501"
+				"download" "5536016304"
 			}
 		}
 	}
@@ -216,8 +216,8 @@
 	{
 		"public"
 		{
-			"buildid" "3129511"
-			"timeupdated" "1739628673"
+			"buildid" "2234610"
+			"timeupdated" "1739629924"
 		}
 	}
 	"privatebranches" "1"
@@ -243,6 +243,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27494676"
-"_sha" "8c8c83082c609b27b21fff1c605cd0352405cde0"
-"_size" "3919"
+"_change_number" "27494797"
+"_sha" "5eee1feafe67dba7981b18bb790aa0ae9561a3cc"
+"_size" "3926"
