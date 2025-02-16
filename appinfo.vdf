@@ -43,7 +43,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "bda5c339db260751484e0fa9f2b0496df0ac16b2/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -53,6 +53,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
@@ -67,22 +68,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "70f27e6d97d9c196c9f9582195b6ce610a448f56/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "70f27e6d97d9c196c9f9582195b6ce610a448f56/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "5f2b2b3ed044c7ea36f6c1f56ed8a59dfbd87f9a/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "5f2b2b3ed044c7ea36f6c1f56ed8a59dfbd87f9a/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "5f2b2b3ed044c7ea36f6c1f56ed8a59dfbd87f9a/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -95,15 +103,15 @@
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "155256da2ccc57d557f03047f2dabc072433ab9b/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "155256da2ccc57d557f03047f2dabc072433ab9b/logo_2x.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1632319458"
+	"store_asset_mtime" "1738643374"
 	"associations"
 	{
 		"0"
@@ -305,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3341364911206514224"
-				"size" "13861172"
-				"download" "4926720"
+				"gid" "1277150411335177023"
+				"size" "13862196"
+				"download" "4928832"
 			}
 			"legacy"
 			{
@@ -321,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "17380193"
-			"timeupdated" "1739655390"
+			"buildid" "17385115"
+			"timeupdated" "1739729179"
 		}
 		"legacy"
 		{
@@ -334,6 +342,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27497830"
-"_sha" "74f118cd234fa017a95cf0031408e695ed28091e"
-"_size" "5436"
+"_change_number" "27504943"
+"_sha" "eb99d22d304771f2f21ca974998a4d206979c4d2"
+"_size" "5890"
