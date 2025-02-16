@@ -173,15 +173,9 @@
 		{
 			"public"
 			{
-				"gid" "4837643411601791721"
-				"size" "688555458"
-				"download" "691959568"
-			}
-			"fix-achievement"
-			{
-				"gid" "4837643411601791721"
-				"size" "688555458"
-				"download" "691959568"
+				"gid" "8229075321759684850"
+				"size" "692260734"
+				"download" "695690688"
 			}
 			"v0.9.9"
 			{
@@ -196,14 +190,8 @@
 	{
 		"public"
 		{
-			"buildid" "17379061"
-			"timeupdated" "1739641873"
-		}
-		"fix-achievement"
-		{
-			"buildid" "17379061"
-			"description" "【测试分支】修复steam成就不触发的问题"
-			"timeupdated" "1739641581"
+			"buildid" "17381827"
+			"timeupdated" "1739679286"
 		}
 		"v0.9.9"
 		{
@@ -243,6 +231,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27496233"
-"_sha" "06b72dba9d34db54c047ef6a7b5d112280c287c5"
-"_size" "4012"
+"_change_number" "27500184"
+"_sha" "c39a483a85ddf7ad9d6717f62bb8e2efa79dc5ba"
+"_size" "3726"
