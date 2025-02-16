@@ -175,17 +175,7 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"turkish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"schinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -205,8 +195,8 @@
 		"6" "1084988"
 		"7" "1695"
 		"8" "5900"
-		"9" "4172"
-		"10" "4202"
+		"9" "4202"
+		"10" "4172"
 		"11" "4305"
 		"12" "1708"
 		"13" "1684"
@@ -262,15 +252,15 @@
 		{
 			"public"
 			{
-				"gid" "1506447118468840279"
-				"size" "105971578"
-				"download" "63051088"
+				"gid" "8760208461701533134"
+				"size" "106605472"
+				"download" "63205472"
 			}
 			"betaexperimentsru"
 			{
-				"gid" "5471272079270110470"
-				"size" "105946277"
-				"download" "63034256"
+				"gid" "4027081832535341955"
+				"size" "106083744"
+				"download" "63080096"
 			}
 		}
 	}
@@ -278,14 +268,14 @@
 	{
 		"public"
 		{
-			"buildid" "17278862"
-			"timeupdated" "1738926189"
+			"buildid" "17384525"
+			"timeupdated" "1739722380"
 		}
 		"betaexperimentsru"
 		{
-			"buildid" "17255496"
+			"buildid" "17332796"
 			"description" "(dangerous and not localized)"
-			"timeupdated" "1738778926"
+			"timeupdated" "1739347395"
 		}
 	}
 }
@@ -308,6 +298,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27362025"
-"_sha" "2199b38da5509f61e9cbafc9ac21de275bf9477f"
-"_size" "5419"
+"_change_number" "27504009"
+"_sha" "5f72d64300f3e1ad48f854314336289b50630888"
+"_size" "5277"
