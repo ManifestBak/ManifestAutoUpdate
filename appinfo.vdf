@@ -23,6 +23,55 @@
 		"latam" " Simulador de Mapas Fantásticos"
 	}
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1737072000"
+		"tested_build_id" "17028219"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -35,6 +84,10 @@
 	{
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"russian" "header_russian.jpg"
+		"german" "header_german.jpg"
+		"koreana" "header_koreana.jpg"
 	}
 	"library_assets"
 	{
@@ -98,7 +151,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1722761657"
+	"store_asset_mtime" "1738748316"
 	"associations"
 	{
 		"0"
@@ -112,7 +165,7 @@
 			"name" "The Stranger"
 		}
 	}
-	"primary_genre" "23"
+	"primary_genre" "28"
 	"genres"
 	{
 		"0" "23"
@@ -225,19 +278,19 @@
 		"3" "615955"
 		"4" "4364"
 		"5" "26921"
-		"6" "4172"
-		"7" "4684"
-		"8" "4168"
-		"9" "9"
+		"6" "8122"
+		"7" "4172"
+		"8" "4684"
+		"9" "4168"
 		"10" "1702"
-		"11" "1678"
-		"12" "4754"
-		"13" "3871"
-		"14" "599"
-		"15" "3987"
-		"16" "5125"
-		"17" "4182"
-		"18" "492"
+		"11" "9"
+		"12" "1678"
+		"13" "4754"
+		"14" "3871"
+		"15" "599"
+		"16" "3987"
+		"17" "5125"
+		"18" "4182"
 		"19" "493"
 	}
 	"review_score" "8"
@@ -277,15 +330,15 @@
 		{
 			"public"
 			{
-				"gid" "5263195189784604303"
-				"size" "566415113"
-				"download" "209353312"
+				"gid" "4681988614427968252"
+				"size" "579052858"
+				"download" "212397008"
 			}
 			"public-beta"
 			{
-				"gid" "5263195189784604303"
-				"size" "566415113"
-				"download" "209353312"
+				"gid" "4681988614427968252"
+				"size" "579052858"
+				"download" "212397008"
 			}
 		}
 	}
@@ -295,14 +348,14 @@
 	{
 		"public"
 		{
-			"buildid" "17028219"
-			"timeupdated" "1737040950"
+			"buildid" "17383732"
+			"timeupdated" "1739710041"
 		}
 		"public-beta"
 		{
-			"buildid" "17028219"
+			"buildid" "17383732"
 			"description" "public 测试"
-			"timeupdated" "1737040921"
+			"timeupdated" "1739709730"
 		}
 	}
 	"privatebranches" "1"
@@ -313,6 +366,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27027282"
-"_sha" "150644943cefa599d2699589c174728920186717"
-"_size" "5546"
+"_change_number" "27502633"
+"_sha" "6919c92cf8ab135dd5f435cc51180758538eb9c1"
+"_size" "6925"
