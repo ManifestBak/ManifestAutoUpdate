@@ -235,6 +235,10 @@
 {
 	"2676931"
 	{
+		"config"
+		{
+			"language" "english"
+		}
 		"manifests"
 		{
 			"public"
@@ -255,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "7013482184412193492"
-				"size" "2927444579"
-				"download" "2688579584"
+				"gid" "2761589712232107287"
+				"size" "3267780503"
+				"download" "3026867328"
 			}
 		}
 	}
@@ -265,8 +269,8 @@
 	{
 		"public"
 		{
-			"buildid" "17381630"
-			"timeupdated" "1739675840"
+			"buildid" "17382134"
+			"timeupdated" "1739684301"
 		}
 	}
 }
@@ -285,6 +289,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27499893"
-"_sha" "6bc5ae22d258978eecaa2a8a3e8d67dddcff5225"
-"_size" "5220"
+"_change_number" "27500559"
+"_sha" "c25a6bd470897382eb6b330c46a163e8c56fed4f"
+"_size" "5268"
