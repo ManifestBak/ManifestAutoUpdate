@@ -1,0 +1,241 @@
+"appid" "3437170"
+"common"
+{
+	"name" "壶中日月"
+	"type" "Game"
+	"clienttga" "ca326180c02e165ef36bf4231328014f6a0c07e9"
+	"linuxclienticon" "1c7ff588ae072733ef1ba7b4922d12602e429d1f"
+	"clienticns" "1c7ff588ae072733ef1ba7b4922d12602e429d1f"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "77408fdfcf119e98a63d232e9188c992873547a9"
+	"icon" "a2d24643ffe8094bfda36d249ec9da5d96a7a1ce"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "336fdcf6794c15b65525d29eddab509e35340009/capsule_231x87_schinese.jpg"
+		"english" "139ab543221cba22644cc261557d4f4481245d08/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "zh-cn,en"
+		"library_hero_blur" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "98.71002197691568"
+			"height_pct" "85.35905242469912"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "a964e771ccecfa628cfab744249a3c49e00337de/library_600x900_schinese.jpg"
+				"english" "64d718147af38ce84bd4a022fcc83926bff55380/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "a964e771ccecfa628cfab744249a3c49e00337de/library_600x900_schinese_2x.jpg"
+				"english" "64d718147af38ce84bd4a022fcc83926bff55380/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"schinese" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero_schinese_2x.jpg"
+				"english" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"schinese" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero_schinese.jpg"
+				"english" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero_blur.jpg"
+				"schinese" "4243853859de10db002943b8097dbf6153ffdaa4/library_hero_blur_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "a7e87cceab4cf6f2faa152ca08a60039f5307908/logo_schinese.png"
+				"english" "3b3b2bbfca84e721e10ea5732ad4b5b929b239b1/logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "a7e87cceab4cf6f2faa152ca08a60039f5307908/logo_schinese_2x.png"
+				"english" "3b3b2bbfca84e721e10ea5732ad4b5b929b239b1/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "98.71002197691568"
+				"height_pct" "85.35905242469912"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "86fd3b00f581d9ccc0eb4836f66f188691c07f8e/library_header_schinese.jpg"
+				"english" "f8bb8bec52805e19712ddcc14cdd6a93ea529dfe/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737220857"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "壶天云镜"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "壶天云镜"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1738603981"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3437170"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "615955"
+		"2" "597"
+		"3" "4236"
+		"4" "599"
+		"5" "4182"
+		"6" "492"
+		"7" "21"
+		"8" "16094"
+		"9" "493"
+		"10" "3871"
+	}
+	"review_score" "7"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "壶天云镜"
+	"publisher" "壶天云镜"
+}
+"config"
+{
+	"installdir" "TimelessTeapot"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TimelessTeapot\\TimelessTeapot.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"3437171"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4984350822014578039"
+				"size" "348686410"
+				"download" "71182048"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17376229"
+			"timeupdated" "1739606151"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000"
+	"maxnumfiles" "20"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "skyblack games/Timeless Teapot/userData/saves"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27492177"
+"_sha" "5e3fec35eda8fa4cf1faaf123b45482ab98a34db"
+"_size" "4853"
