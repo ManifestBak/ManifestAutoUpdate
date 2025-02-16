@@ -22,6 +22,35 @@
 	"clienticon" "b6b17417e93028cbe742b5a6b6b3dedf4be9902e"
 	"clienttga" "ff840fa110f12658333cbbd6d79c6070bb427a61"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1738972800"
+		"tested_build_id" "17142835"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -255,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "7069134429272640624"
-				"size" "646878549"
-				"download" "516712512"
+				"gid" "7040202783912335907"
+				"size" "1190440060"
+				"download" "1064363168"
 			}
 		}
 	}
@@ -265,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "17366992"
-			"timeupdated" "1739538956"
+			"buildid" "17384040"
+			"timeupdated" "1739715130"
 		}
 	}
 	"privatebranches" "1"
@@ -277,6 +306,6 @@
 	"maxnumfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27479827"
-"_sha" "a7104c7f8335c97e43324075530bd4843811f36c"
-"_size" "4662"
+"_change_number" "27503182"
+"_sha" "ea30db9fddbf4af7ab704e9bd113459ed4d2b00c"
+"_size" "5399"
