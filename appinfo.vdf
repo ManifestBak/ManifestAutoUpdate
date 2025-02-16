@@ -245,6 +245,18 @@
 		{
 			"supported" "true"
 		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1692378069"
 	"workshop_visible" "1"
@@ -329,21 +341,15 @@
 		{
 			"public"
 			{
+				"gid" "8924410155873151332"
+				"size" "464326914"
+				"download" "107342768"
+			}
+			"alpha12p29"
+			{
 				"gid" "4503729179038328415"
 				"size" "413815858"
 				"download" "103444048"
-			}
-			"alpha12p10"
-			{
-				"gid" "7505221063975685316"
-				"size" "456675219"
-				"download" "101636864"
-			}
-			"alpha12p13"
-			{
-				"gid" "6831566840919218866"
-				"size" "458053636"
-				"download" "102092688"
 			}
 		}
 	}
@@ -357,21 +363,15 @@
 		{
 			"public"
 			{
+				"gid" "7370004112558009431"
+				"size" "434666436"
+				"download" "112343088"
+			}
+			"alpha12p29"
+			{
 				"gid" "2861677112409273991"
 				"size" "384479680"
 				"download" "108517808"
-			}
-			"alpha12p10"
-			{
-				"gid" "647102976059581895"
-				"size" "424488205"
-				"download" "106939584"
-			}
-			"alpha12p13"
-			{
-				"gid" "1848174418118462009"
-				"size" "425485442"
-				"download" "107329248"
 			}
 		}
 	}
@@ -385,21 +385,15 @@
 		{
 			"public"
 			{
+				"gid" "2582718149958150028"
+				"size" "462034746"
+				"download" "106126512"
+			}
+			"alpha12p29"
+			{
 				"gid" "6652308994654501063"
 				"size" "411840323"
 				"download" "102277632"
-			}
-			"alpha12p10"
-			{
-				"gid" "6523622158854086121"
-				"size" "453392520"
-				"download" "100805888"
-			}
-			"alpha12p13"
-			{
-				"gid" "3630514277940696532"
-				"size" "454071879"
-				"download" "101142496"
 			}
 		}
 	}
@@ -408,20 +402,14 @@
 	{
 		"public"
 		{
+			"buildid" "17385568"
+			"timeupdated" "1739735972"
+		}
+		"alpha12p29"
+		{
 			"buildid" "17272563"
-			"timeupdated" "1738879283"
-		}
-		"alpha12p10"
-		{
-			"buildid" "16592405"
-			"description" "Alpha 12.10"
-			"timeupdated" "1733653505"
-		}
-		"alpha12p13"
-		{
-			"buildid" "16678686"
-			"description" "Alpha 12.13"
-			"timeupdated" "1733830863"
+			"description" "Alpha 12.29"
+			"timeupdated" "1739736024"
 		}
 	}
 	"privatebranches" "1"
@@ -465,6 +453,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27353645"
-"_sha" "9588cd3f72c2a5e6de0ada6a926c3e4db126b00a"
-"_size" "7812"
+"_change_number" "27505817"
+"_sha" "e782897735da0a99a02144e1b4a11dadaaa88e63"
+"_size" "7484"
