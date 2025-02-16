@@ -259,18 +259,19 @@
 		{
 			"public"
 			{
-				"gid" "2761589712232107287"
-				"size" "3267780503"
-				"download" "3026867328"
+				"gid" "6387641023192537522"
+				"size" "3267780305"
+				"download" "3026867312"
 			}
 		}
 	}
+	"baselanguages" "english,schinese"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17382134"
-			"timeupdated" "1739684301"
+			"buildid" "17382214"
+			"timeupdated" "1739686058"
 		}
 	}
 }
@@ -289,6 +290,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27500559"
-"_sha" "c25a6bd470897382eb6b330c46a163e8c56fed4f"
-"_size" "5268"
+"_change_number" "27500623"
+"_sha" "0aaef564aa6d0a99963e4388a5e8488055dd95c4"
+"_size" "5306"
