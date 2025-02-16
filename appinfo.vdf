@@ -198,7 +198,7 @@
 		"19" "3810"
 	}
 	"review_score" "5"
-	"review_percentage" "68"
+	"review_percentage" "69"
 }
 "extended"
 {
@@ -299,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "1368079933432733294"
-				"size" "7498886120"
-				"download" "6425717088"
+				"gid" "1495989206452320843"
+				"size" "6519585107"
+				"download" "5638209568"
 			}
 			"legacy"
 			{
@@ -311,9 +311,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "1368079933432733294"
-				"size" "7498886120"
-				"download" "6425717088"
+				"gid" "1495989206452320843"
+				"size" "6519585107"
+				"download" "5638209568"
 			}
 		}
 	}
@@ -328,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "7811677706720008502"
-				"size" "7490222918"
-				"download" "5283728848"
+				"gid" "8407832142794565546"
+				"size" "6768229109"
+				"download" "4627591664"
 			}
 			"legacy"
 			{
@@ -340,9 +340,9 @@
 			}
 			"buildtest"
 			{
-				"gid" "7811677706720008502"
-				"size" "7490222918"
-				"download" "5283728848"
+				"gid" "8407832142794565546"
+				"size" "6768229109"
+				"download" "4627591664"
 			}
 		}
 	}
@@ -350,8 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "17371063"
-			"timeupdated" "1739560618"
+			"buildid" "17380740"
+			"timeupdated" "1739661912"
 		}
 		"legacy"
 		{
@@ -360,9 +360,9 @@
 		}
 		"buildtest"
 		{
-			"buildid" "17371063"
+			"buildid" "17380740"
 			"description" "public developer build branch"
-			"timeupdated" "1739560574"
+			"timeupdated" "1739661879"
 		}
 	}
 	"privatebranches" "1"
@@ -390,6 +390,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27486443"
-"_sha" "90c20298764eb3f21e370c89d106e6ed75b08fff"
+"_change_number" "27498643"
+"_sha" "02b75f6876389c904d133bcb044cc7fab35483a9"
 "_size" "6664"
