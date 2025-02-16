@@ -50,6 +50,7 @@
 		"0" "5"
 	}
 	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "ec613fd58d146e679f1368fcbe9ce280a065f404/capsule_231x87.jpg"
@@ -157,6 +158,11 @@
 		"category_36" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -314,7 +320,7 @@
 		"19" "493"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -351,9 +357,9 @@
 		{
 			"public"
 			{
-				"gid" "2848947458868127501"
-				"size" "1359371208"
-				"download" "629457232"
+				"gid" "5896601695130147281"
+				"size" "1359429688"
+				"download" "629497856"
 			}
 		}
 	}
@@ -361,8 +367,8 @@
 	{
 		"public"
 		{
-			"buildid" "17359525"
-			"timeupdated" "1739492785"
+			"buildid" "17380905"
+			"timeupdated" "1739663978"
 		}
 	}
 }
@@ -381,6 +387,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27469919"
-"_sha" "b51af953881b37bfd36904ec618a400e5ac7d516"
-"_size" "5902"
+"_change_number" "27498874"
+"_sha" "b305036fe8ee4a1685742f33e84d99300c987b20"
+"_size" "6043"
