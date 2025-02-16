@@ -5,10 +5,10 @@
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "3e3666b9b87835258663703fb1e2abc049eee130"
-	"clienttga" "e0e9a01c21a9497e54b811e4dc197c3e5985687e"
+	"clienttga" "492454e3f4b84bc9f24c2f3074885d198349f7cc"
 	"linuxclienticon" "b475e1d84b736cd7e4e1c8ebdbe7de894ab3abf6"
-	"clienticns" "ccc95a8680bc01867fbbcb759f78a13e506d27f0"
-	"clienticon" "41161a8edce9b12996ff62e9e7a71f31ea8883df"
+	"clienticns" "87ffdcbb07f308350c03344b61759096ee4cc32a"
+	"clienticon" "24d9d0bab52839bd3dcd84cc32f4ba461b982450"
 	"name_localized"
 	{
 		"english" "Border Pioneer"
@@ -304,6 +304,7 @@
 		"1"
 		{
 			"executable" "Border Pioneer.app"
+			"type" "default"
 			"config"
 			{
 				"oslist" "macos"
@@ -313,6 +314,16 @@
 				"english" "MacOS"
 			}
 			"description" "MacOS"
+		}
+		"2"
+		{
+			"executable" "Game"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
 		}
 	}
 	"app_mappings"
@@ -333,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "7372196854295854309"
-				"size" "484601054"
-				"download" "258894016"
+				"gid" "2086366540294845266"
+				"size" "486584519"
+				"download" "259572000"
 			}
 			"macos-universal-test"
 			{
@@ -345,15 +356,15 @@
 			}
 			"windows7compatibility"
 			{
-				"gid" "9400861594132302"
-				"size" "429975682"
-				"download" "245051184"
+				"gid" "791851749073746306"
+				"size" "431959571"
+				"download" "245727984"
 			}
 			"windows11test"
 			{
-				"gid" "1724151484078877404"
-				"size" "492498717"
-				"download" "261120688"
+				"gid" "8549489532584033246"
+				"size" "494482606"
+				"download" "261796272"
 			}
 			"macos-arm64"
 			{
@@ -374,15 +385,15 @@
 		{
 			"public"
 			{
-				"gid" "4082176425965545152"
-				"size" "464316102"
-				"download" "252651808"
+				"gid" "4149787630663624369"
+				"size" "466299992"
+				"download" "253330240"
 			}
 			"macos-universal-test"
 			{
-				"gid" "1169602431342231859"
-				"size" "655866030"
-				"download" "307544832"
+				"gid" "6496487945574257392"
+				"size" "657849920"
+				"download" "308223264"
 			}
 			"windows7compatibility"
 			{
@@ -398,9 +409,9 @@
 			}
 			"macos-arm64"
 			{
-				"gid" "6192510936953562886"
-				"size" "459996806"
-				"download" "244676640"
+				"gid" "2770115807836806022"
+				"size" "461980696"
+				"download" "245355072"
 			}
 		}
 	}
@@ -408,32 +419,32 @@
 	{
 		"public"
 		{
-			"buildid" "17361350"
-			"timeupdated" "1739504815"
+			"buildid" "17382094"
+			"timeupdated" "1739683634"
 		}
 		"macos-universal-test"
 		{
-			"buildid" "17361394"
+			"buildid" "17382102"
 			"description" "MacOS-universal-TEST"
-			"timeupdated" "1739505123"
+			"timeupdated" "1739683744"
 		}
 		"windows7compatibility"
 		{
-			"buildid" "17361351"
+			"buildid" "17382106"
 			"description" "WIN7旧版本"
-			"timeupdated" "1739504828"
+			"timeupdated" "1739683770"
 		}
 		"windows11test"
 		{
-			"buildid" "17361392"
+			"buildid" "17382107"
 			"description" "WIN11测试版"
-			"timeupdated" "1739505114"
+			"timeupdated" "1739683781"
 		}
 		"macos-arm64"
 		{
-			"buildid" "17361353"
+			"buildid" "17382105"
 			"description" "MacOS-arm64"
-			"timeupdated" "1739504841"
+			"timeupdated" "1739683756"
 		}
 	}
 	"privatebranches" "1"
@@ -444,29 +455,34 @@
 	"maxnumfiles" "20"
 	"savefiles"
 	{
-		"0"
+		"3"
 		{
 			"root" "gameinstall"
 			"path" "Save"
 			"pattern" "*"
-			"platforms"
-			{
-				"1" "Windows"
-			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "Resources/app/"
 		}
 		"1"
 		{
-			"root" "MacDocuments"
-			"path" "Border Pioneer/Save"
-			"pattern" "*"
-			"platforms"
-			{
-				"1" "MacOS"
-			}
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacDocuments"
+			"addpath" "Border Pioneer/"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27472367"
-"_sha" "6e96a5278eff4fbd2ad79ee42784d20044e42597"
-"_size" "9853"
+"_change_number" "27500476"
+"_sha" "fb1a57ff4f540bd4e999e84b594d0df5bcb031ce"
+"_size" "10138"
