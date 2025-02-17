@@ -353,28 +353,28 @@
 	"store_tags"
 	{
 		"0" "1774"
-		"1" "42804"
-		"2" "1716"
-		"3" "3959"
-		"4" "1663"
-		"5" "493"
-		"6" "353880"
-		"7" "4252"
-		"8" "19"
-		"9" "492"
-		"10" "4182"
-		"11" "4305"
-		"12" "3993"
-		"13" "3839"
-		"14" "4885"
-		"15" "922563"
-		"16" "5752"
-		"17" "7481"
-		"18" "3942"
+		"1" "493"
+		"2" "353880"
+		"3" "4252"
+		"4" "4885"
+		"5" "922563"
+		"6" "5752"
+		"7" "3993"
+		"8" "4305"
+		"9" "19"
+		"10" "42804"
+		"11" "1663"
+		"12" "3839"
+		"13" "7481"
+		"14" "4182"
+		"15" "3959"
+		"16" "1716"
+		"17" "492"
+		"18" "44868"
 		"19" "7208"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -411,156 +411,9 @@
 		{
 			"public"
 			{
-				"gid" "4125179186275504506"
-				"size" "13027915246"
-				"download" "10632847328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"community"
-			{
-				"gid" "F39C0240AE57BE694587E6C6D2C98424"
-				"size" "F79E957838A66E63142F39495688F926"
-				"download" "F92DBA2A814AF5CAEEB927CB650477AA"
-			}
-			"communityplaytest"
-			{
-				"gid" "50967B4A1791C7370B727F508D5901DB"
-				"size" "43FEDBA01AAE6B074947F98127A893A7"
-				"download" "40D18DB591D140148D4CAD5DA07F22F2"
-			}
-			"custombranchantoine"
-			{
-				"gid" "517BE45159DDD3569F3E7EE5AA837CE0"
-				"size" "8B6F4E4378F6CEEC8104EEC48045C197"
-				"download" "604E77B23C4ADDC30F132120B1443361"
-			}
-			"custombranchbastien"
-			{
-				"gid" "F043A392D050993553800D2514DB7757"
-				"size" "84F508DCACFCF2B01E09B3C349552348"
-				"download" "294D07DCE9CB784DB973E0472C2B3C3F"
-			}
-			"custombranchbrandon"
-			{
-				"gid" "FA748BEBA8EB8B2301DDB1740FAFE8CF"
-				"size" "5B1A3DED5DC662EFA7BC01D80AA04B3B"
-				"download" "20AEDA1B5B1DC6F014D9D5048694CA16"
-			}
-			"custombranchdesign"
-			{
-				"gid" "591729C63309F10C419FDE3D8696DD0C"
-				"size" "DE880FD51400EB85B63952E3F6F374F3"
-				"download" "B1E5B0D63935828B1FC6A590FD78DF81"
-			}
-			"custombranchjoao"
-			{
-				"gid" "EBBF400EAA51864533C17732F14B5EF0"
-				"size" "B7640E1963615532B17A79BF201AB638"
-				"download" "650FC11BF8330520232E8C8E41C11C4B"
-			}
-			"custombranchvictor"
-			{
-				"gid" "2C5AB4DECE977BACC0809B92AF1AA39A"
-				"size" "306FEAEB08B4ABEFD3FA61E5F27B1A90"
-				"download" "F4C399773E359F78AAB42C0386DFAE13"
-			}
-			"customtest"
-			{
-				"gid" "EAF131BCB25E5143A0A6094796D98750"
-				"size" "A18FFC88DD02EDFA91A6F9B76A57B5DD"
-				"download" "7A06C0B7FFF0EBEBF88D1242F6EC26F2"
-			}
-			"develop"
-			{
-				"gid" "E5D09E47603500BDE90E36F5E3457A57"
-				"size" "B80486B3ACC2262DAD2ED0774B6AEA64"
-				"download" "71C04E4D76FC8DF0C1DAA0266538A596"
-			}
-			"developmaster"
-			{
-				"gid" "AA607CA669D770A3433B942E8C057246"
-				"size" "B20EE0416085929D8CCE3CC06939E26F"
-				"download" "BB14DEAEC2EB48F7440FB449C3C6E644"
-			}
-			"livecandidatedev"
-			{
-				"gid" "E0F5D876F3D2A2259A8DB07EA28EA34D"
-				"size" "B5D29B3F27056EC42AF60085274FE320"
-				"download" "BA3A5A73AB07846E6596D6BB862E8ED9"
-			}
-			"livecandidatemaster"
-			{
-				"gid" "F815485A52298D2522B3DD596CF4E72C"
-				"size" "FDDC871B13F3D7F4D11BFA62B28DD82D"
-				"download" "32260178893728A58D12F3810218F52A"
-			}
-			"livecandidatemastercheats"
-			{
-				"gid" "AB6446331852A0956519C666FEDD0637"
-				"size" "A7247FD55553DD4E6D4D2BFBD8E7A355"
-				"download" "B7B465AA56DCE2F387843E5962F21160"
-			}
-			"livedemodev"
-			{
-				"gid" "6E4FC1E4BF7E5D00769F8224941ABA97"
-				"size" "8F5B010DA8FEC73CFBE996395B0B818E"
-				"download" "847B8B5E5DA379D2A875DF19114D331A"
-			}
-			"livedemomaster"
-			{
-				"gid" "B3398CAAF30221645CA0D05C282720E8"
-				"size" "75B9D9CBB680EFF168E249C327F3436F"
-				"download" "11541FC4CEE9BC8149E6A4BA790C3C96"
-			}
-			"livedemomastercheats"
-			{
-				"gid" "EE8B738D7A12159DE29EED9C2DEB9C8F"
-				"size" "8BB233F6029DB9DF088A3792553109ED"
-				"download" "B433DAEB6E2A5BC81459B5C78B4E3848"
-			}
-			"livedev"
-			{
-				"gid" "6CE8B783B9D0F8E2BFA21221ECC00C80"
-				"size" "D828EDF3FCE14163E41C9262634E270D"
-				"download" "28D48312955374FF7DDED3452A3481C9"
-			}
-			"mktingcapture"
-			{
-				"gid" "EEB2A027101E768682B10C6A5989E49E"
-				"size" "C3F86B0B77991FB10E57D11581DFA211"
-				"download" "86434C6CD8098FDD26DA295BB6CF5EDB"
-			}
-			"playsession"
-			{
-				"gid" "2CD515213D45D94A117F9159D516778C"
-				"size" "2A3F701244ECC0B31F6AD40659A6AB58"
-				"download" "EB8311F74B8D008B31D34ABF1ABD0472"
-			}
-			"preview"
-			{
-				"gid" "06B9479C4D25614843900E7C3511F537"
-				"size" "2E63EDD66DD44234B11C62439E7A30E0"
-				"download" "718261E66CE4BF8FCD77224CCBF29E04"
-			}
-			"release"
-			{
-				"gid" "02209D78150DBED145A70CFCC1F903BB"
-				"size" "8E023F2E99E8DBD8637025CF09555A1C"
-				"download" "68FAE2A977E91DC262F472B2E68E0337"
-			}
-			"releasemaster"
-			{
-				"gid" "9C0AC9EF815003E34A2F193B08A0F41D"
-				"size" "5FBBFB769DEED107980B72FF3AC8AC9A"
-				"download" "0DF9D5B479F1ABB3BCF2E4F5EF9BB84D"
-			}
-			"staging"
-			{
-				"gid" "4340C3E6E4E20B03AF7E60DEF338C7B9"
-				"size" "0537B19FA7CBA69BB0892A77D7CDFF73"
-				"download" "3439D0AAED144FB8944B34C17DB0580A"
+				"gid" "3620157159176325328"
+				"size" "13026492631"
+				"download" "10632200736"
 			}
 		}
 	}
@@ -568,154 +421,11 @@
 	{
 		"public"
 		{
-			"buildid" "16803694"
-			"timeupdated" "1734641256"
-		}
-		"community"
-		{
-			"buildid" "15747809"
-			"pwdrequired" "1"
-			"timeupdated" "1727201748"
-		}
-		"communityplaytest"
-		{
-			"buildid" "16541729"
-			"pwdrequired" "1"
-			"timeupdated" "1732656945"
-		}
-		"custombranchantoine"
-		{
-			"buildid" "16805604"
-			"pwdrequired" "1"
-			"timeupdated" "1734639469"
-		}
-		"custombranchbastien"
-		{
-			"buildid" "16777668"
-			"pwdrequired" "1"
-			"timeupdated" "1734464323"
-		}
-		"custombranchbrandon"
-		{
-			"buildid" "16761485"
-			"pwdrequired" "1"
-			"timeupdated" "1734367386"
-		}
-		"custombranchdesign"
-		{
-			"buildid" "16619293"
-			"pwdrequired" "1"
-			"timeupdated" "1733253867"
-		}
-		"custombranchjoao"
-		{
-			"buildid" "16802945"
-			"pwdrequired" "1"
-			"timeupdated" "1734629792"
-		}
-		"custombranchvictor"
-		{
-			"buildid" "16572445"
-			"pwdrequired" "1"
-			"timeupdated" "1732837026"
-		}
-		"customtest"
-		{
-			"buildid" "13960062"
-			"pwdrequired" "1"
-			"timeupdated" "1717111632"
-		}
-		"develop"
-		{
-			"buildid" "16812383"
-			"pwdrequired" "1"
-			"timeupdated" "1734688587"
-		}
-		"developmaster"
-		{
-			"buildid" "16811342"
-			"pwdrequired" "1"
-			"timeupdated" "1734682224"
-		}
-		"livecandidatedev"
-		{
-			"buildid" "16811829"
-			"pwdrequired" "1"
-			"timeupdated" "1734685777"
-		}
-		"livecandidatemaster"
-		{
-			"buildid" "16811833"
-			"pwdrequired" "1"
-			"timeupdated" "1734685848"
-		}
-		"livecandidatemastercheats"
-		{
-			"buildid" "16812340"
-			"pwdrequired" "1"
-			"timeupdated" "1734688302"
-		}
-		"livedemodev"
-		{
-			"buildid" "16423404"
-			"pwdrequired" "1"
-			"timeupdated" "1731951666"
-		}
-		"livedemomaster"
-		{
-			"buildid" "16648713"
-			"pwdrequired" "1"
-			"timeupdated" "1733432406"
-		}
-		"livedemomastercheats"
-		{
-			"buildid" "16423063"
-			"pwdrequired" "1"
-			"timeupdated" "1731951682"
-		}
-		"livedev"
-		{
-			"buildid" "15124179"
-			"pwdrequired" "1"
-			"timeupdated" "1721757377"
-		}
-		"mktingcapture"
-		{
-			"buildid" "16151967"
-			"pwdrequired" "1"
-			"timeupdated" "1729692356"
-		}
-		"playsession"
-		{
-			"buildid" "16483449"
-			"pwdrequired" "1"
-			"timeupdated" "1732219226"
-		}
-		"preview"
-		{
-			"buildid" "16557154"
-			"pwdrequired" "1"
-			"timeupdated" "1732757242"
-		}
-		"release"
-		{
-			"buildid" "16253761"
-			"pwdrequired" "1"
-			"timeupdated" "1730389507"
-		}
-		"releasemaster"
-		{
-			"buildid" "16249616"
-			"pwdrequired" "1"
-			"timeupdated" "1730368554"
-		}
-		"staging"
-		{
-			"buildid" "16803694"
-			"pwdrequired" "1"
-			"timeupdated" "1734640188"
+			"buildid" "17355652"
+			"timeupdated" "1739807448"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -723,6 +433,6 @@
 	"maxnumfiles" "50"
 }
 "_missing_token" "False"
-"_change_number" "26730568"
-"_sha" "ace06366d82b17e73fbc8ca94f4d70de39de3b20"
-"_size" "18869"
+"_change_number" "27518553"
+"_sha" "845a7a483d34282de15dda19ae2d331ff8871035"
+"_size" "11879"
