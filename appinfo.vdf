@@ -132,11 +132,14 @@
 		"12" "5923"
 		"13" "492"
 		"14" "4295"
-		"15" "493"
+		"15" "4136"
 		"16" "1669"
+		"17" "4305"
+		"18" "3839"
+		"19" "1714"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -214,15 +217,15 @@
 		{
 			"public"
 			{
-				"gid" "8094969334700782241"
-				"size" "622361459"
-				"download" "356571136"
+				"gid" "7049997801346068092"
+				"size" "634959250"
+				"download" "364818704"
 			}
 			"publicbeta"
 			{
-				"gid" "8094969334700782241"
-				"size" "622361459"
-				"download" "356571136"
+				"gid" "7049997801346068092"
+				"size" "634959250"
+				"download" "364818704"
 			}
 			"previously"
 			{
@@ -237,59 +240,20 @@
 				"download" "233065424"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"devplaytest"
-			{
-				"gid" "761AFA425946D046CD994B4C5A4AAE7A"
-				"size" "AB1BD1DAABC59FC7B962F2F3571641EE"
-				"download" "76E6354449680E7870B2CACCAD9003AE"
-			}
-			"presetrework"
-			{
-				"gid" "C4B58D91529E5E56ACE6EFFA53426E7A"
-				"size" "24DDD0E23594E4E6D390FAEC82F0D88F"
-				"download" "F11B3DEFFA70F609BD1A9170D1961C5F"
-			}
-			"privateplaytest"
-			{
-				"gid" "88F2BD7CA2FBE5ED5B43DE854815DF1A"
-				"size" "128BD60C8C2DB700F2AB34EFC47B24A4"
-				"download" "E748F9945C216BC259CAA17161EEF1BE"
-			}
-		}
 	}
 	"workshopdepot" "2246880"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16334061"
-			"timeupdated" "1731018752"
-		}
-		"devplaytest"
-		{
-			"buildid" "15348873"
-			"pwdrequired" "1"
-			"timeupdated" "1723510169"
-		}
-		"presetrework"
-		{
-			"buildid" "15267858"
-			"pwdrequired" "1"
-			"timeupdated" "1722887008"
-		}
-		"privateplaytest"
-		{
-			"buildid" "16334061"
-			"pwdrequired" "1"
-			"timeupdated" "1731018717"
+			"buildid" "17394431"
+			"timeupdated" "1739804602"
 		}
 		"publicbeta"
 		{
-			"buildid" "16334061"
+			"buildid" "17394431"
 			"description" "Public Beta For Next Version"
-			"timeupdated" "1731018705"
+			"timeupdated" "1739803230"
 		}
 		"previously"
 		{
@@ -304,6 +268,7 @@
 			"timeupdated" "1702291033"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -311,6 +276,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26097684"
-"_sha" "6e40a7f6333c785f99b8e9797eb8b814e75dbbe8"
-"_size" "5247"
+"_change_number" "27517778"
+"_sha" "9eb54fce97aa326ed0612c9d3b8684b3fd001a72"
+"_size" "4422"
