@@ -14,6 +14,55 @@
 	{
 		"japanese" "ドキモンクエスト"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739491200"
+		"tested_build_id" "17234366"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -208,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "4061563180519777021"
-				"size" "70085943"
-				"download" "49342304"
+				"gid" "4076204593470535179"
+				"size" "70086967"
+				"download" "49342400"
 			}
 			"portmaster"
 			{
@@ -224,8 +273,8 @@
 	{
 		"public"
 		{
-			"buildid" "17334381"
-			"timeupdated" "1739355266"
+			"buildid" "17387698"
+			"timeupdated" "1739758104"
 		}
 		"portmaster"
 		{
@@ -254,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27436972"
-"_sha" "e33d3347071e015b7656be5aa7de3492e7f25665"
-"_size" "4224"
+"_change_number" "27508571"
+"_sha" "457f9ad3a813e77cea7a90876e66737be7cf5e4f"
+"_size" "5461"
