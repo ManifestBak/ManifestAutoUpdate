@@ -58,7 +58,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "011c74267385ac0060fa02995db7ecdc82e860d6/capsule_231x87.jpg"
+		"english" "79c19f0cb1ca6bbde9db3976c8b1442a503e6ed9/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -68,13 +68,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "51.85701013462655"
-			"height_pct" "34.91012298959319"
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "65.1415826022526"
 		}
 	}
 	"library_assets_full"
@@ -83,22 +84,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "c29c195a067dd6e06be446d57cc748bd792dae9f/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "c29c195a067dd6e06be446d57cc748bd792dae9f/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "f103f5f6c95a32b28a12a649945e56dee97c189e/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "f103f5f6c95a32b28a12a649945e56dee97c189e/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "f103f5f6c95a32b28a12a649945e56dee97c189e/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -113,9 +121,9 @@
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "51.85701013462655"
-				"height_pct" "34.91012298959319"
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "65.1415826022526"
 			}
 		}
 		"library_header"
@@ -126,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731936447"
+	"store_asset_mtime" "1739202417"
 	"associations"
 	{
 		"0"
@@ -273,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "6432135032681225143"
-				"size" "1053908801"
-				"download" "855858112"
+				"gid" "8990318441235451161"
+				"size" "1053932695"
+				"download" "855895920"
 			}
 		}
 	}
@@ -283,8 +291,8 @@
 	{
 		"public"
 		{
-			"buildid" "16761376"
-			"timeupdated" "1734369732"
+			"buildid" "17366574"
+			"timeupdated" "1739797946"
 		}
 	}
 	"privatebranches" "1"
@@ -308,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26664833"
-"_sha" "04bc11abb2f6ac0a4bb86bcea31675abe2f83246"
-"_size" "5295"
+"_change_number" "27516065"
+"_sha" "885974b2a0cb21837833f72eab71087291cef99a"
+"_size" "5600"
