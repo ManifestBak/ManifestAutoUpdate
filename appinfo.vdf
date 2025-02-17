@@ -182,8 +182,8 @@
 		"2" "3859"
 		"3" "128"
 		"4" "3810"
-		"5" "6730"
-		"6" "3993"
+		"5" "3993"
+		"6" "6730"
 		"7" "1695"
 		"8" "1775"
 		"9" "1684"
@@ -209,7 +209,7 @@
 	"developer" "Beawesome Games"
 	"publisher" "Beawesome Games"
 	"homepage" "https://dayofdragons.com"
-	"listofdlc" "1174110,1183040,1268630,1649530,1649531,1649532"
+	"listofdlc" "1174110,1183040,1268630,1649530,1649531,1649532,2641120"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -274,42 +274,15 @@
 		{
 			"public"
 			{
-				"gid" "442532371993637993"
-				"size" "24871477550"
-				"download" "17056387440"
+				"gid" "2243796454707314088"
+				"size" "24872094129"
+				"download" "17058480480"
 			}
 			"opentest"
 			{
-				"gid" "7782150756388889341"
-				"size" "20757674068"
-				"download" "14025001088"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "802CF54A37FB57460D342448CCB37B09"
-				"size" "6D239B8125AEEDD2C0B1A9D46E2CEAC4"
-				"download" "5062395A78EED2AD86849212F0601E79"
-			}
-			"gamedev"
-			{
-				"gid" "8DC28817F678B24E8972E367750A15E2"
-				"size" "79C2D5D913DEEEDB9A58BA6A738CA850"
-				"download" "14AEC133EB7CF5E76D7B07CBA057C1FC"
-			}
-			"nodecraft"
-			{
-				"gid" "092418125FA2BC95B65722C357A4850A"
-				"size" "7B4D92DAFFDFBDBADF5A22B3E3745AAA"
-				"download" "EF11A90243AD6412336CBDDE47678A5C"
-			}
-			"upload"
-			{
-				"gid" "CF5BD530AFC9680B9D5385C467D35270"
-				"size" "3CF94D327B93CE04E38A0C5D006DE3DB"
-				"download" "26CF696A10F814941999F3C014F24AA2"
+				"gid" "8276505256311793740"
+				"size" "25670468088"
+				"download" "17693855808"
 			}
 		}
 	}
@@ -317,42 +290,19 @@
 	{
 		"public"
 		{
-			"buildid" "16895817"
-			"timeupdated" "1735867023"
-		}
-		"developer"
-		{
-			"buildid" "16895817"
-			"pwdrequired" "1"
-			"timeupdated" "1735866993"
-		}
-		"gamedev"
-		{
 			"buildid" "16767117"
-			"pwdrequired" "1"
-			"timeupdated" "1734398907"
+			"timeupdated" "1739810159"
 		}
 		"opentest"
 		{
-			"buildid" "16370428"
+			"buildid" "17327834"
 			"description" "Public Open Testing"
-			"timeupdated" "1731359620"
-		}
-		"nodecraft"
-		{
-			"buildid" "16424270"
-			"pwdrequired" "1"
-			"timeupdated" "1732249002"
-		}
-		"upload"
-		{
-			"buildid" "13779562"
-			"pwdrequired" "1"
-			"timeupdated" "1710804044"
+			"timeupdated" "1739314044"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26846136"
-"_sha" "196216f1cf08772df7f7060e4779bcf07019ec9b"
-"_size" "6737"
+"_change_number" "27519341"
+"_sha" "b4bb294dbb01fd1c9fce4733108408e5d206d901"
+"_size" "5623"
