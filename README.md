@@ -1,25 +1,22 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-18 00:24:10
+## 更新时间：2025-02-18 02:25:51
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1129580 | 中世纪王朝| Game |
-| 1407180 | Lawgivers II| Game |
-| 1421290 | 塑战核心| Game |
-| 1359980 | POSTAL Brain Damaged| Game |
-| 1933820 | SGS Korean War| Game |
-| 2246880 | STANDBOX| Game |
-| 2343930 | Eyes Of War| Game |
+| 1074280 | Oirbo| Game |
+| 1292690 | Corruption of Champions II| Game |
+| 1380070 | Slaves of Rome| Game |
+| 1119730 | Ranch Simulator| Game |
+| 1088090 | Day of Dragons| Game |
+| 1766810 | SnOut 2| Game |
+| 1763250 | 圣杯誓约| Game |
+| 1972440 | Shotgun King: The Final Checkmate| Game |
+| 1909020 | 三国記II| Game |
 | 2336760 | Immortal Hunters| Game |
-| 228180 | Action! - Gameplay Recording and Streaming| Application |
-| 2491620 | Dimenders| Game |
-| 2468100 | Pyrene| Game |
-| 2598800 | 灵能哨卫：无限| Game |
+| 2555430 | 天涯跑商记：好商人志在四方| Game |
+| 2668430 | The Legend of Heroes: Trails through Daybreak II| Game |
 | 2821800 | 钻核公司 (Drill Core)| Game |
-| 2628420 | Croakoloco| Game |
-| 3042250 | Her Last Piece| Game |
-| 3098470 | 北极汽车旅馆模拟器| Game |
-| 3090910 | 她杀-The Suspected Murder| Game |
-| 3345960 | 贝如塔医院 Ass Hospital| Game |
-| 465490 | Stellar Tactics| Game |
-| 938860 | Get In The Car, Loser!| Game |
+| 2928520 | Recycling Center Simulator| Game |
+| 2850380 | Device Doctor Simulator 2024| Game |
+| 384300 | CPUCores :: Maximize Your FPS| Application |
+| 605740 | Flashing Lights - 警情，消防，急救| Game |
