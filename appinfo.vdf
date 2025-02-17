@@ -10,6 +10,55 @@
 	"clienticon" "ff4eb40a2fb37f40e6d8b4a85fb034fc5d6734dc"
 	"clienttga" "2e79258cfd54d41ccdbac39b9c1949c5834f47c8"
 	"icon" "e7996086d677a9176d8c367d1e777884bd61508b"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738800000"
+		"tested_build_id" "17076712"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -139,8 +188,8 @@
 		"4" "1716"
 		"5" "1720"
 		"6" "21"
-		"7" "5125"
-		"8" "3959"
+		"7" "3959"
+		"8" "5125"
 		"9" "1646"
 		"10" "3964"
 		"11" "3871"
@@ -154,7 +203,7 @@
 		"19" "4004"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -194,21 +243,21 @@
 		{
 			"public"
 			{
-				"gid" "8323551602015544889"
-				"size" "252373793"
-				"download" "215696384"
+				"gid" "7438782727300076658"
+				"size" "252512004"
+				"download" "215735104"
 			}
 			"net_testing"
 			{
-				"gid" "4250829456388129160"
-				"size" "253355826"
-				"download" "216438720"
+				"gid" "7438782727300076658"
+				"size" "252512004"
+				"download" "215735104"
 			}
 			"public_testing"
 			{
-				"gid" "8323551602015544889"
-				"size" "252373793"
-				"download" "215696384"
+				"gid" "7438782727300076658"
+				"size" "252512004"
+				"download" "215735104"
 			}
 		}
 	}
@@ -223,21 +272,21 @@
 		{
 			"public"
 			{
-				"gid" "953698112508170219"
-				"size" "39759592"
-				"download" "13254928"
+				"gid" "4766310193703838645"
+				"size" "39766248"
+				"download" "13258976"
 			}
 			"net_testing"
 			{
-				"gid" "9039929195190641074"
-				"size" "39752424"
-				"download" "13257120"
+				"gid" "4766310193703838645"
+				"size" "39766248"
+				"download" "13258976"
 			}
 			"public_testing"
 			{
-				"gid" "953698112508170219"
-				"size" "39759592"
-				"download" "13254928"
+				"gid" "4766310193703838645"
+				"size" "39766248"
+				"download" "13258976"
 			}
 		}
 	}
@@ -246,20 +295,20 @@
 	{
 		"public"
 		{
-			"buildid" "17245058"
-			"timeupdated" "1738718169"
+			"buildid" "17385675"
+			"timeupdated" "1739748456"
 		}
 		"net_testing"
 		{
-			"buildid" "17133915"
+			"buildid" "17385675"
 			"description" "Public testing of network errors"
-			"timeupdated" "1737857976"
+			"timeupdated" "1739748533"
 		}
 		"public_testing"
 		{
-			"buildid" "17245058"
+			"buildid" "17385675"
 			"description" "Testing for future patch"
-			"timeupdated" "1738717956"
+			"timeupdated" "1739748548"
 		}
 	}
 	"privatebranches" "1"
@@ -270,6 +319,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27317494"
-"_sha" "6df66eb96c52d9f573479d10f4d58f4f2fb59c41"
-"_size" "4404"
+"_change_number" "27507357"
+"_sha" "9e9a974280b6ad98787c441fe4b6b73413ea1dca"
+"_size" "5617"
