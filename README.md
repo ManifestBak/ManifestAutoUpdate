@@ -1,19 +1,19 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-17 16:26:29
+## 更新时间：2025-02-17 18:21:42
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1147940 | 3dSen| Game |
-| 1500740 | Snail Simulator| Game |
-| 1746030 | 山河旅探 - Murders on the Yangtze River| Game |
-| 2088670 | Puzzline| Game |
-| 2404170 | 九号博物馆| Game |
-| 2004640 | Svarog's Dream| Game |
-| 2715370 | 旧日女修| Game |
-| 2848740 | 超控行者| Game |
-| 2955220 | 卡牌迷境| Game |
-| 2244130 | Ratopia| Game |
-| 3225970 | 封神榜重置版| Game |
-| 3035500 | 架空地图模拟器| Game |
-| 3376250 | 九球轮盘赌| Game |
-| 954280 | 3dSenVR| Game |
+| 1674830 | Victory At Sea Atlantic| Game |
+| 2075050 | Boom Slingers| Game |
+| 2078910 | 汉尘：腐草为萤| Game |
+| 2009240 | 生死狙击2 Test Server| Beta |
+| 2171630 | 地心归途| Game |
+| 2205850 | 矮人军团自走棋| Game |
+| 2289650 | 迷你空管 Mini Airways| Game |
+| 2427700 | 背包乱斗：福西法的宝藏 Backpack Battles| Game |
+| 2730530 | 协律01：新生活| Game |
+| 2692440 | LoveCraft| Game |
+| 2719160 | Contractors Showdown| Game |
+| 3029990 | 学妹、学姐、少妇还有教导主任爱上我!| Game |
+| 3244220 | 掘地求财| Game |
+| 505740 | Eximius: Seize the Frontline| Game |
