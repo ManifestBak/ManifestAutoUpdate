@@ -125,7 +125,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734613524"
+	"store_asset_mtime" "1739885082"
 	"associations"
 	{
 		"0"
@@ -167,6 +167,7 @@
 		"category_22" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_1" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -247,26 +248,26 @@
 		"0" "6276"
 		"1" "1720"
 		"2" "4236"
-		"3" "122"
-		"4" "3959"
+		"3" "3959"
+		"4" "122"
 		"5" "4747"
 		"6" "3964"
 		"7" "4711"
-		"8" "4325"
-		"9" "1716"
+		"8" "1716"
+		"9" "4325"
 		"10" "1741"
 		"11" "4172"
 		"12" "9"
 		"13" "17305"
 		"14" "4094"
-		"15" "32322"
-		"16" "1684"
+		"15" "1684"
+		"16" "32322"
 		"17" "3871"
 		"18" "4182"
 		"19" "597"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -310,8 +311,8 @@
 			"description" "Megaloot (OpenGL)"
 		}
 	}
-	"steamcontrollertemplateindex" "4"
 	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
 }
 "depots"
 {
@@ -321,15 +322,15 @@
 		{
 			"public"
 			{
-				"gid" "1316081310740320524"
-				"size" "509327240"
-				"download" "409055488"
+				"gid" "5391688898098823684"
+				"size" "509825176"
+				"download" "409358352"
 			}
 			"public_testing_branch"
 			{
-				"gid" "4518411757852975695"
-				"size" "509327640"
-				"download" "409056112"
+				"gid" "5391688898098823684"
+				"size" "509825176"
+				"download" "409358352"
 			}
 		}
 	}
@@ -338,14 +339,14 @@
 	{
 		"public"
 		{
-			"buildid" "16812491"
-			"timeupdated" "1734689358"
+			"buildid" "17407498"
+			"timeupdated" "1739892175"
 		}
 		"public_testing_branch"
 		{
-			"buildid" "16802457"
+			"buildid" "17407498"
 			"description" "Experimental"
-			"timeupdated" "1734621261"
+			"timeupdated" "1739883963"
 		}
 	}
 	"privatebranches" "1"
@@ -365,6 +366,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26739038"
-"_sha" "f46e9382528e140f2dc29cc8bb274f126aa5f15b"
-"_size" "6423"
+"_change_number" "27536997"
+"_sha" "783af4fbaece3b673fb36ca139dd8e48b8d7743f"
+"_size" "6444"
