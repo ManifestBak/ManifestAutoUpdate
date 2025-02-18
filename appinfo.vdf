@@ -39,24 +39,21 @@
 		{
 			"public"
 			{
-				"gid" "2278144969926205611"
-				"size" "949719957"
-				"download" "442437152"
+				"gid" "4815058756064145967"
+				"size" "993115629"
+				"download" "472212512"
 			}
 			"prerelease"
 			{
+				"gid" "4815058756064145967"
+				"size" "993115629"
+				"download" "472212512"
+			}
+			"previous_build"
+			{
 				"gid" "2278144969926205611"
 				"size" "949719957"
 				"download" "442437152"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"frog"
-			{
-				"gid" "3B5C82CCB4254C5A07E6BDE96DAE618C"
-				"size" "00A707020E2425AE447AA94C136DC64A"
-				"download" "EFFFB4B902FF11838BC5998A0B89961C"
 			}
 		}
 	}
@@ -70,24 +67,21 @@
 		{
 			"public"
 			{
-				"gid" "2924862230544282892"
-				"size" "92717248"
-				"download" "33381872"
+				"gid" "8718703707273445445"
+				"size" "240124325"
+				"download" "82422144"
 			}
 			"prerelease"
 			{
+				"gid" "8718703707273445445"
+				"size" "240124325"
+				"download" "82422144"
+			}
+			"previous_build"
+			{
 				"gid" "2924862230544282892"
 				"size" "92717248"
 				"download" "33381872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"frog"
-			{
-				"gid" "C0E13D8F62DD608A18946DC9725601E6"
-				"size" "0C0AC84C7724EE45882F60762A52D7E9"
-				"download" "99490577C1D28C277E108B9800F8FA21"
 			}
 		}
 	}
@@ -101,24 +95,21 @@
 		{
 			"public"
 			{
-				"gid" "5572515540873246049"
-				"size" "66997815"
-				"download" "17328672"
+				"gid" "1196661467168196578"
+				"size" "104901454"
+				"download" "27985440"
 			}
 			"prerelease"
 			{
+				"gid" "1196661467168196578"
+				"size" "104901454"
+				"download" "27985440"
+			}
+			"previous_build"
+			{
 				"gid" "5572515540873246049"
 				"size" "66997815"
 				"download" "17328672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"frog"
-			{
-				"gid" "E483E5461AD05627FE352B88CAE86ED4"
-				"size" "74FC3A20FF68A93290AB3494E646B6DF"
-				"download" "B1C97A7DEB30D4C2DD8DDA21E1F130C2"
 			}
 		}
 	}
@@ -127,23 +118,23 @@
 	{
 		"public"
 		{
-			"buildid" "6935416"
-			"timeupdated" "1625258036"
+			"buildid" "17399402"
+			"timeupdated" "1739908799"
 		}
 		"prerelease"
 		{
-			"buildid" "6935416"
-			"timeupdated" "1625258030"
+			"buildid" "17399402"
+			"timeupdated" "1739908807"
 		}
-		"frog"
+		"previous_build"
 		{
-			"buildid" "16943929"
-			"pwdrequired" "1"
-			"timeupdated" "1736370247"
+			"buildid" "6935416"
+			"description" "Previous Build"
+			"timeupdated" "1739908792"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26913841"
-"_sha" "bb4b9b53eb9a5d13e71f91cb896f1cf555da520a"
-"_size" "2628"
+"_change_number" "27541498"
+"_sha" "6f8a9ee12a4ada4005001c88de406391c45d13c0"
+"_size" "2403"
