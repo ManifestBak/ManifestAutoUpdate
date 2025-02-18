@@ -218,7 +218,7 @@
 		"16" "1756"
 		"17" "4182"
 		"18" "4667"
-		"19" "3843"
+		"19" "5348"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -243,6 +243,7 @@
 	"no_revenue_accumulation" "1"
 	"developer_url" "http://www.valvesoftware.com"
 	"publisher" "Valve"
+	"aliases" "hl2 deathmatch, half life 2 deathmatch, hl2dm"
 }
 "config"
 {
@@ -260,36 +261,46 @@
 	{
 		"0"
 		{
-			"executable" "hl2.exe"
-			"arguments" "-steam -game hl2mp"
-			"vacmodulefilename" "resource\\sourceinit.dat"
+			"executable" "hl2mp.exe"
+			"arguments" "-steam"
 			"config"
 			{
 				"oslist" "windows"
-			}
-		}
-		"1"
-		{
-			"executable" "hl2_osx"
-			"arguments" "-steam -game hl2mp"
-			"vacmodulefilename" "resource\\sourceinit_macos.dat"
-			"config"
-			{
-				"oslist" "macos"
+				"osarch" "32"
 			}
 		}
 		"2"
 		{
-			"executable" "hl2.sh"
-			"arguments" "-game hl2mp -steam"
+			"executable" "hl2mp.sh"
+			"arguments" "-steam"
 			"config"
 			{
 				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "hl2mp_win64.exe"
+			"arguments" "-steam"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
 			}
 		}
 	}
-	"steamvrsupport" "1"
 	"uselaunchcommandline" "1"
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "frog"
+		}
+	}
+	"steamvrsupport" "1"
 	"steamcontrollertemplateindex" "1"
 	"steamcontrollerconfigdetails"
 	{
@@ -330,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "4713197502847306022"
-				"size" "3052958921"
-				"download" "1793880512"
+				"gid" "5664424125978872119"
+				"size" "3088639094"
+				"download" "1818968752"
 			}
 			"beta"
 			{
@@ -342,7 +353,7 @@
 			}
 			"previous_build"
 			{
-				"gid" "6505941761483987192"
+				"gid" "4713197502847306022"
 				"size" "3052958921"
 				"download" "1793880512"
 			}
@@ -396,9 +407,9 @@
 		{
 			"public"
 			{
-				"gid" "588887960764738176"
-				"size" "265702913"
-				"download" "99303568"
+				"gid" "880831895232573886"
+				"size" "324854717"
+				"download" "119247792"
 			}
 			"beta"
 			{
@@ -408,9 +419,9 @@
 			}
 			"previous_build"
 			{
-				"gid" "1049594648635401552"
-				"size" "265689089"
-				"download" "99354384"
+				"gid" "588887960764738176"
+				"size" "265702913"
+				"download" "99303568"
 			}
 			"steam_legacy"
 			{
@@ -431,9 +442,9 @@
 		{
 			"public"
 			{
-				"gid" "7975694277620604106"
-				"size" "66765227"
-				"download" "15910848"
+				"gid" "3642367971076346223"
+				"size" "66762571"
+				"download" "15909504"
 			}
 			"beta"
 			{
@@ -466,9 +477,9 @@
 		{
 			"public"
 			{
-				"gid" "2609542532779200256"
-				"size" "153315226"
-				"download" "50096256"
+				"gid" "7598547473298555910"
+				"size" "212532314"
+				"download" "62494784"
 			}
 			"beta"
 			{
@@ -478,9 +489,9 @@
 			}
 			"previous_build"
 			{
-				"gid" "3760418082858632025"
-				"size" "153310142"
-				"download" "50109040"
+				"gid" "2609542532779200256"
+				"size" "153315226"
+				"download" "50096256"
 			}
 			"steam_legacy"
 			{
@@ -500,9 +511,9 @@
 		{
 			"public"
 			{
-				"gid" "7768366331652052321"
-				"size" "48700"
-				"download" "13200"
+				"gid" "7603860182937987947"
+				"size" "50083"
+				"download" "13328"
 			}
 			"beta"
 			{
@@ -530,8 +541,8 @@
 	{
 		"public"
 		{
-			"buildid" "16544454"
-			"timeupdated" "1732661369"
+			"buildid" "17399394"
+			"timeupdated" "1739908059"
 		}
 		"beta"
 		{
@@ -541,9 +552,9 @@
 		}
 		"previous_build"
 		{
-			"buildid" "16478333"
+			"buildid" "16544454"
 			"description" "the last released update"
-			"timeupdated" "1732661345"
+			"timeupdated" "1739908601"
 		}
 		"steam_legacy"
 		{
@@ -554,6 +565,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26375566"
-"_sha" "2886076a51687d420c5c0950a308dbe80011e4fc"
-"_size" "11924"
+"_change_number" "27541449"
+"_sha" "0bc10954bfde9131ca1df720f46408b6ea651452"
+"_size" "12039"
