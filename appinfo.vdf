@@ -19,6 +19,8 @@
 	"name_localized"
 	{
 		"schinese" "星际掠夺者: 幸存者"
+		"tchinese" "星際掠奪者: 幸存者"
+		"japanese" "星間の略奪者：最後の生存者"
 	}
 	"icon" "c3f9bcf7984f53f2f0a79d3611e34eaea71bf441"
 	"clienttga" "f86b6c1bdd8403a8b7a32d16be2578d5d8d325ac"
@@ -37,24 +39,24 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1725494400"
-		"tested_build_id" "15256691"
+		"test_timestamp" "1733529600"
+		"tested_build_id" "16604472"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"2"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
 			}
 			"3"
 			{
@@ -62,6 +64,11 @@
 				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -77,7 +84,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -87,8 +94,8 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"schinese" "8c3b208a66865faa4a53600c7b4afe4dab9afa7a/capsule_231x87_schinese.jpg"
-		"english" "734b67c5adc1590930eb039b22dfebb97139e757/capsule_231x87.jpg"
+		"schinese" "0aa2248a394255a0eadafd3b09216ac950283ae4/capsule_231x87_schinese.jpg"
+		"english" "cfcf243c0de2b674d9e33824d7d9334f7016fda2/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -162,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731960798"
+	"store_asset_mtime" "1735495430"
 	"associations"
 	{
 		"0"
@@ -269,28 +276,28 @@
 	"store_tags"
 	{
 		"0" "4885"
-		"1" "5547"
-		"2" "3959"
-		"3" "4255"
+		"1" "3959"
+		"2" "5547"
+		"3" "4018"
 		"4" "1716"
-		"5" "4018"
-		"6" "4182"
-		"7" "1662"
-		"8" "42804"
+		"5" "4182"
+		"6" "1662"
+		"7" "42804"
+		"8" "1659"
 		"9" "1645"
 		"10" "4637"
-		"11" "1659"
-		"12" "620519"
-		"13" "1774"
-		"14" "176981"
+		"11" "620519"
+		"12" "1774"
+		"13" "122"
+		"14" "3978"
 		"15" "4791"
-		"16" "5796"
-		"17" "19"
-		"18" "3810"
-		"19" "1673"
+		"16" "597"
+		"17" "21"
+		"18" "9"
+		"19" "1773"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -359,24 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "8674971982506555494"
-				"size" "2052799918"
-				"download" "1769940896"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "076178C2A5D30D563FADD426355C5ACC"
-				"size" "3B700B623B2F178B9D75B0BA65A5AAE1"
-				"download" "4DB30BBC9E90AD912510BF063435B4C0"
-			}
-			"internal"
-			{
-				"gid" "6F7FD53B3852520B5137D103CE1F6A37"
-				"size" "D0ACBB7EC36A314DA70F34B4A6825C3D"
-				"download" "7B4DDC63BFF9045B36E40F15FD0A86D2"
+				"gid" "3037755310286685201"
+				"size" "2112363739"
+				"download" "1829807424"
 			}
 		}
 	}
@@ -390,24 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "6750268474449581118"
-				"size" "2472450857"
-				"download" "1501799888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "B76565405E53BAD488DE85D6F6E83AFC"
-				"size" "205584E7DE57E2976D6306BF59C2529A"
-				"download" "1C50DEC93B51F257EA8AEA2A5732C959"
-			}
-			"internal"
-			{
-				"gid" "E2D19CBB563177CE2BA719C3F5E3016A"
-				"size" "C6243ED5DD125CCBBD6C1AE357EB92FC"
-				"download" "822E5B1B987D33AB1048DC46DA2D3849"
+				"gid" "1928375089554493177"
+				"size" "4176517523"
+				"download" "3221058336"
 			}
 		}
 	}
@@ -415,22 +392,11 @@
 	{
 		"public"
 		{
-			"buildid" "16604472"
-			"timeupdated" "1733163728"
-		}
-		"beta"
-		{
-			"buildid" "16604472"
-			"pwdrequired" "1"
-			"timeupdated" "1733163740"
-		}
-		"internal"
-		{
-			"buildid" "16604472"
-			"pwdrequired" "1"
-			"timeupdated" "1733163757"
+			"buildid" "17406133"
+			"timeupdated" "1739880520"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -481,6 +447,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26457303"
-"_sha" "16f3fcfa88512ea73838db8c2a09a4aaf5482078"
-"_size" "8762"
+"_change_number" "27533799"
+"_sha" "05b6518c558721f6281f7d7cad7833122d1b336b"
+"_size" "8032"
