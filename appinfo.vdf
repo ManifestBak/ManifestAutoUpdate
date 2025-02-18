@@ -304,6 +304,24 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "The Holy Gosh Darn.app\\Contents\\MacOS\\The Holy Gosh Darn"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "The Holy Gosh Darn.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "4"
 	"steamcontrollertouchtemplateindex" "8"
@@ -315,15 +333,14 @@
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2197490029697623481"
-				"size" "1654572322"
-				"download" "1313666656"
+				"gid" "247934132448006554"
+				"size" "1657718371"
+				"download" "1314847040"
 			}
 			"demo"
 			{
@@ -333,9 +350,53 @@
 			}
 			"ustabilt"
 			{
-				"gid" "2197490029697623481"
-				"size" "1654572322"
-				"download" "1313666656"
+				"gid" "247934132448006554"
+				"size" "1657718371"
+				"download" "1314847040"
+			}
+		}
+	}
+	"1466232"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8211851067647224907"
+				"size" "1633310384"
+				"download" "1311428640"
+			}
+			"ustabilt"
+			{
+				"gid" "8211851067647224907"
+				"size" "1633310384"
+				"download" "1311428640"
+			}
+		}
+	}
+	"1466233"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1095561294307869079"
+				"size" "1514080341"
+				"download" "1159834352"
+			}
+			"ustabilt"
+			{
+				"gid" "1095561294307869079"
+				"size" "1514080341"
+				"download" "1159834352"
 			}
 		}
 	}
@@ -343,8 +404,8 @@
 	{
 		"public"
 		{
-			"buildid" "17352513"
-			"timeupdated" "1739454585"
+			"buildid" "17409030"
+			"timeupdated" "1739894229"
 		}
 		"demo"
 		{
@@ -354,9 +415,9 @@
 		}
 		"ustabilt"
 		{
-			"buildid" "17352513"
+			"buildid" "17409030"
 			"description" "ustbilt"
-			"timeupdated" "1739453779"
+			"timeupdated" "1739891139"
 		}
 	}
 	"privatebranches" "1"
@@ -410,6 +471,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27460339"
-"_sha" "17f19ee01f881e67160c2a713a06ccac8be9b966"
-"_size" "8042"
+"_change_number" "27537556"
+"_sha" "9579ff7344efbab4ce9dbb918b084d9d0d512224"
+"_size" "8963"
