@@ -114,7 +114,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728666605"
+	"store_asset_mtime" "1736766587"
 	"associations"
 	{
 		"0"
@@ -379,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "2532574583918695754"
-				"size" "39642903247"
-				"download" "14919543568"
+				"gid" "3044600225900898155"
+				"size" "39642904783"
+				"download" "14919545616"
 			}
 			"1.188"
 			{
@@ -490,45 +490,6 @@
 				"gid" "3237489233841374641"
 				"size" "39130607241"
 				"download" "14805332576"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"first_release"
-			{
-				"gid" "9E67AFB2D2341606BD9F89DAC7F4AA1E"
-				"size" "B89482B598899E42B425D32A179B6C98"
-				"download" "22D69524925BF3E112B8A417841EBB5F"
-			}
-			"publictest"
-			{
-				"gid" "69A95469BE4674361869DFA92E0893A8"
-				"size" "7F6C72527EBFC89D63CA307D44EE0BB9"
-				"download" "08AB91223B427FE32F080ECD5724A781"
-			}
-			"playtest"
-			{
-				"gid" "57FD7607F7259D56107B3BB5600B9AA7"
-				"size" "C978214E0170A8BAEC1775C833E8B175"
-				"download" "B35BA3F0365CC2603D100ED19A92B23F"
-			}
-			"stableready"
-			{
-				"gid" "519CDAF23E3458556839128BE16F6B86"
-				"size" "38EF015B1D962E55251EDB0E799B0E27"
-				"download" "2BDD0DC0F6EC0DA2529FE30F81CBB6AA"
-			}
-			"steamctg"
-			{
-				"gid" "2705DE03C27E0C73770703765AF2936A"
-				"size" "4F742A4344EADB9C0EA10ABCC769D264"
-				"download" "5342B00415B6FD8AE953A8935A1B0D9E"
-			}
-			"test"
-			{
-				"gid" "65EA0E57F958900B37209288B6FA29E4"
-				"size" "84894C730FBF4302760E3C7119BA728A"
-				"download" "F14039816FA55FC43CC18E22EF2F85F7"
 			}
 		}
 	}
@@ -646,39 +607,6 @@
 				"download" "2434145200"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "062B7182F11F263A1EC5B6BAEE381837"
-				"size" "DB2F9861BBE706EEFCE8F338978E845A"
-				"download" "5782399433812538F96444B62F8C79C6"
-			}
-			"playtest"
-			{
-				"gid" "4423669242F61FA91D132834579672A0"
-				"size" "76C59986238C461FA78B41A2583B9797"
-				"download" "6708EEF922E548688C338D4B859ECF85"
-			}
-			"stableready"
-			{
-				"gid" "A6CFC94989D91CA180D4111EF24A3ECF"
-				"size" "A2F99A2A63699966C27F87B081E43BC7"
-				"download" "2B6A93321FD8AB2A64829B8170B9E4C7"
-			}
-			"steamctg"
-			{
-				"gid" "A8E0BCFA7ADECD0359F2B9D1D61CF5FB"
-				"size" "6D6E0C4DF7936B364B47D7A6BC96F329"
-				"download" "80B88D33AF0C6F3A56D1B20BEC75195D"
-			}
-			"test"
-			{
-				"gid" "DD378DC3E60E13B6E756E6E1D35B94FA"
-				"size" "D4F840292B5C4AF7E085FF29C9513297"
-				"download" "E5C3CDFC8CD82E2D1B6353A3D45D1ADA"
-			}
-		}
 	}
 	"573900"
 	{
@@ -794,39 +722,6 @@
 				"download" "306523072"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "1027C6D11F523F8867266BDD9DEE868A"
-				"size" "9D5F6B62AC7ED7DC1561C0A57B0E95B1"
-				"download" "679CC147982478DE6EBC35E677BB39F6"
-			}
-			"playtest"
-			{
-				"gid" "7D7E637B73DECF617E906DF3071382C8"
-				"size" "8F598EBFE58BC9E6641A076B602548D8"
-				"download" "30717DB950A8D930228945A89C7D11DF"
-			}
-			"stableready"
-			{
-				"gid" "8EED206C518417FE1FF2E1BAE2940122"
-				"size" "4FC88203B100730F087363C277331901"
-				"download" "CA9BDB8F27223FBFA189F012E9DFC8E5"
-			}
-			"steamctg"
-			{
-				"gid" "305C04CA863924FF3598AFAA764B9FE3"
-				"size" "28A5105742AD33646CDDCC391C5C4492"
-				"download" "08E9854B502872C72F63F9E710556FB4"
-			}
-			"test"
-			{
-				"gid" "E689A33CC4FE0B1AB1D5EC0C733C985E"
-				"size" "75B2801FC992639EB616736F5A19A08B"
-				"download" "A6C47B1B1D306B02C5A270F8276619F8"
-			}
-		}
 	}
 	"1241550"
 	{
@@ -906,39 +801,6 @@
 				"download" "8560608"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "E890DA9DEB5773F710E30452FF94A9EF"
-				"size" "0496001D1998812A763673D3796D34EA"
-				"download" "7D813663D8C2C836CF2076714B5FD30B"
-			}
-			"playtest"
-			{
-				"gid" "6D953986FD2DB6349D3A61B3487D11BF"
-				"size" "4AED31DD18BFD719C0F5467D667F687C"
-				"download" "8B10BD5351344699092E7521D9F85F38"
-			}
-			"stableready"
-			{
-				"gid" "5627325316621DAD3A6103FFF794B025"
-				"size" "576A5D9FA5E74028BE35A9A0C7384570"
-				"download" "7C1AB5C18B5750E978975E1D1AE77F6B"
-			}
-			"steamctg"
-			{
-				"gid" "5A82A5EEDC8741652E3B297257FF935C"
-				"size" "E561A41A85CC69899E6D1890820B061D"
-				"download" "EEB2DCA0DBE4474A4B2D4E3E23568B17"
-			}
-			"test"
-			{
-				"gid" "EA9FFD20C4BD854E0AE8C00FFA1E1E33"
-				"size" "47A0C7DCEFCB0869B5588A32A741F801"
-				"download" "21651966ACAAEB520F154CC2AA7A6994"
-			}
-		}
 	}
 	"2914120"
 	{
@@ -958,41 +820,14 @@
 				"download" "388479472"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"playtest"
-			{
-				"gid" "8F42F37605415B83F26773F2D5C90F92"
-				"size" "D8961BD7DB37B7458679C2E052677BDA"
-				"download" "9429B1E1912355E0BBE1810930C7888E"
-			}
-			"stableready"
-			{
-				"gid" "52CC59CEE6E658CAF363A5029723E8C6"
-				"size" "5ABE0681A8730925472888BC5C848E2F"
-				"download" "D8152106FE573B52478768165A011B18"
-			}
-			"steamctg"
-			{
-				"gid" "2BB0C7DC6604E14BFEA48932C4837634"
-				"size" "A033DFA322FEA6D76587CE7736E6B4CA"
-				"download" "BDAEC1F56A96E464479EDCD35D9C232A"
-			}
-			"test"
-			{
-				"gid" "36C9BE56C1A2873BCF353AE99D002B89"
-				"size" "908BEF8256F4FF04147AAE6905953CDE"
-				"download" "B15B6639461E7601D3A890751FAD9F10"
-			}
-		}
 	}
 	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16178562"
-			"timeupdated" "1729872401"
+			"buildid" "17396638"
+			"timeupdated" "1739891388"
 		}
 		"1.188"
 		{
@@ -1090,17 +925,6 @@
 			"description" "compatibility branch for dx9 and 32 bit"
 			"timeupdated" "1464358253"
 		}
-		"first_release"
-		{
-			"buildid" "132500"
-			"pwdrequired" "1"
-		}
-		"publictest"
-		{
-			"buildid" "10558349"
-			"pwdrequired" "1"
-			"timeupdated" "1676470928"
-		}
 		"1.203.6"
 		{
 			"buildid" "13198058"
@@ -1113,31 +937,8 @@
 			"description" "Signal"
 			"timeupdated" "1728924748"
 		}
-		"playtest"
-		{
-			"buildid" "15852924"
-			"pwdrequired" "1"
-			"timeupdated" "1727700165"
-		}
-		"stableready"
-		{
-			"buildid" "16178562"
-			"pwdrequired" "1"
-			"timeupdated" "1729849913"
-		}
-		"steamctg"
-		{
-			"buildid" "16892431"
-			"pwdrequired" "1"
-			"timeupdated" "1735830633"
-		}
-		"test"
-		{
-			"buildid" "14455756"
-			"pwdrequired" "1"
-			"timeupdated" "1716385513"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -1145,6 +946,6 @@
 	"maxnumfiles" "400"
 }
 "_missing_token" "False"
-"_change_number" "26841004"
-"_sha" "c0e52518df2c669d186a0b1c06c6f5554ccef041"
-"_size" "22065"
+"_change_number" "27536669"
+"_sha" "df96f6a83a8a09698086207c9e29c8c098774f25"
+"_size" "16960"
