@@ -1,13 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-18 09:25:01
+## 更新时间：2025-02-18 10:47:59
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1500740 | Snail Simulator| Game |
-| 2088570 | Tiny Rogues| Game |
-| 1305260 | SteamDolls - Order Of Chaos| Game |
-| 2437170 | 《神之浩劫2》| Game |
-| 3099000 | Guns of Fury| Game |
-| 3376250 | 九球轮盘赌| Game |
-| 2850380 | Device Doctor Simulator 2024| Game |
-| 860020 | Exfil| Game |
+| 1455130 | 刺激大富翁| Game |
+| 1778820 | 铁拳8| Game |
+| 2072980 | 地下城骑士团| Game |
+| 3098470 | 北极汽车旅馆模拟器| Game |
+| 3373960 | holo8| Game |
+| 2694490 | Path of Exile 2| Game |
