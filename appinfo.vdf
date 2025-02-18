@@ -173,7 +173,7 @@
 		"19" "4325"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -199,9 +199,15 @@
 		{
 			"public"
 			{
-				"gid" "1227168712243683194"
-				"size" "579193973"
-				"download" "398229664"
+				"gid" "6968788508878948309"
+				"size" "583953116"
+				"download" "402319104"
+			}
+			"test"
+			{
+				"gid" "6968788508878948309"
+				"size" "583953116"
+				"download" "402319104"
 			}
 		}
 	}
@@ -210,13 +216,43 @@
 	{
 		"public"
 		{
-			"buildid" "17376315"
-			"timeupdated" "1739607296"
+			"buildid" "17401521"
+			"timeupdated" "1739851489"
+		}
+		"test"
+		{
+			"buildid" "17401521"
+			"description" "Game testing"
+			"timeupdated" "1739848133"
 		}
 	}
-	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "8000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MiniMartialWorld/"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "MiniMartialWorld/"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27492311"
-"_sha" "4b6d1e1bdb070ee3cdd55f5e7bffe072b44fff04"
-"_size" "4603"
+"_change_number" "27527551"
+"_sha" "1c6e2e44d24e1a178851f3a44a01adfac4f6bb23"
+"_size" "5215"
