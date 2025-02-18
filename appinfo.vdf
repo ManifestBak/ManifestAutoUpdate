@@ -301,35 +301,41 @@
 		{
 			"public"
 			{
-				"gid" "3450217114215448345"
-				"size" "35211860026"
-				"download" "18165265776"
+				"gid" "6786315996800348566"
+				"size" "35780249131"
+				"download" "18485349840"
 			}
 			"public_test_server"
 			{
-				"gid" "3450217114215448345"
-				"size" "35211860026"
-				"download" "18165265776"
+				"gid" "6786315996800348566"
+				"size" "35780249131"
+				"download" "18485349840"
 			}
 		}
 	}
+	"workshopdepot" "895400"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17266786"
-			"timeupdated" "1738848682"
+			"buildid" "17400884"
+			"timeupdated" "1739865835"
 		}
 		"public_test_server"
 		{
-			"buildid" "17266786"
+			"buildid" "17400884"
 			"description" "PTS"
-			"timeupdated" "1738847896"
+			"timeupdated" "1739843011"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
 "_missing_token" "False"
-"_change_number" "27345811"
-"_sha" "2f816ddfcbf746bfdbb33759464257e8dc5d5220"
-"_size" "5998"
+"_change_number" "27529899"
+"_sha" "c6d20c8fabd3474ef27b8baaa521cfc8d256a2d5"
+"_size" "6089"
