@@ -16,6 +16,7 @@
 			"version" "1"
 		}
 	}
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -137,9 +138,9 @@
 		{
 			"public"
 			{
-				"gid" "910273442991466517"
-				"size" "6850896748"
-				"download" "1478570208"
+				"gid" "2265182595225603536"
+				"size" "6850897260"
+				"download" "1478570464"
 			}
 			"1.188"
 			{
@@ -250,46 +251,13 @@
 				"download" "1377815056"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "74FFF09D11684DD7C7CF42840B24891C"
-				"size" "487E0C434225FDB551CCE866E3010DA0"
-				"download" "1CC0F1746AB78D73BFDDA9D5C18370A2"
-			}
-			"playtest"
-			{
-				"gid" "31BBA72CB33E97492D6D2DFDE1386E42"
-				"size" "B3F2A6A8F2463E0CD05868DB9899E667"
-				"download" "103FE873CEB64391986FA20B181E0953"
-			}
-			"stableready"
-			{
-				"gid" "B4C84D6CC53E08AE6204CDD88D3CFE7E"
-				"size" "3D8B7FD5B337DD640263404724C335AD"
-				"download" "14DE89726D8DE04817C3FFB8B65163CC"
-			}
-			"steamctg"
-			{
-				"gid" "19D41898DABB5CA72AE00F3461ED3658"
-				"size" "71B99775658DFA67BDDE18B0263217D3"
-				"download" "3EF9C352161699D97707B2ABCC3BA710"
-			}
-			"test"
-			{
-				"gid" "47405AC14F6551D6C83BC98D06C2F3C6"
-				"size" "F38CFF0870031C7D606ED9961983A2A9"
-				"download" "5C5E81685172BEA3EB5C8636003F22B5"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16178582"
-			"timeupdated" "1729872470"
+			"buildid" "17396671"
+			"timeupdated" "1739891341"
 		}
 		"1.188"
 		{
@@ -386,12 +354,6 @@
 			"description" "compatibility branch for dx9 and 32 bit"
 			"timeupdated" "1464358279"
 		}
-		"publictest"
-		{
-			"buildid" "10558353"
-			"pwdrequired" "1"
-			"timeupdated" "1676470980"
-		}
 		"1.203.6"
 		{
 			"buildid" "13198064"
@@ -404,33 +366,10 @@
 			"description" "Signal"
 			"timeupdated" "1728924870"
 		}
-		"playtest"
-		{
-			"buildid" "15852939"
-			"pwdrequired" "1"
-			"timeupdated" "1727700203"
-		}
-		"stableready"
-		{
-			"buildid" "16178582"
-			"pwdrequired" "1"
-			"timeupdated" "1729850024"
-		}
-		"steamctg"
-		{
-			"buildid" "16181388"
-			"pwdrequired" "1"
-			"timeupdated" "1729864270"
-		}
-		"test"
-		{
-			"buildid" "14455777"
-			"pwdrequired" "1"
-			"timeupdated" "1716385593"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25899540"
-"_sha" "e090b010e24e9bb085af0fc3e3acb74b45a475d2"
-"_size" "7889"
+"_change_number" "27536661"
+"_sha" "c0280298d6153d2da2e1bc1e1bf3d2eb25347e18"
+"_size" "6508"
