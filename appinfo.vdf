@@ -20,6 +20,55 @@
 		"tchinese" "1"
 	}
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739232000"
+		"tested_build_id" "17256663"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -92,7 +141,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719246607"
+	"store_asset_mtime" "1738970150"
 	"associations"
 	{
 		"0"
@@ -224,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "2864407788650470562"
+				"gid" "3065108033175714478"
 				"size" "871796447"
-				"download" "793006592"
+				"download" "793007616"
 			}
 		}
 	}
@@ -266,13 +315,13 @@
 	{
 		"public"
 		{
-			"buildid" "17256663"
-			"timeupdated" "1738793141"
+			"buildid" "17402954"
+			"timeupdated" "1739901251"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27334180"
-"_sha" "f8edd2c8cbb3db7b74d75c92bc2ae1b178e5071b"
-"_size" "4227"
+"_change_number" "27539446"
+"_sha" "9b63545a4bb0d286e48d464ba790a840d17f7783"
+"_size" "5461"
