@@ -242,9 +242,9 @@
 		{
 			"public"
 			{
-				"gid" "4573919933076114362"
-				"size" "11595670963"
-				"download" "4158095152"
+				"gid" "124062403901085824"
+				"size" "11595977507"
+				"download" "4158162192"
 			}
 		}
 	}
@@ -252,16 +252,16 @@
 	{
 		"public"
 		{
-			"buildid" "17373106"
-			"timeupdated" "1739573756"
+			"buildid" "17412082"
+			"timeupdated" "1739906427"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "1000000"
-	"maxnumfiles" "10"
+	"quota" "100000000"
+	"maxnumfiles" "100"
 	"savefiles"
 	{
 		"0"
@@ -273,6 +273,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27488355"
-"_sha" "8a9fb5fd84d49f6d95861d75aa8a91639eeddea6"
-"_size" "5146"
+"_change_number" "27540887"
+"_sha" "decc31d40bdaa9618d4aee890c7a118abf20ba78"
+"_size" "5148"
