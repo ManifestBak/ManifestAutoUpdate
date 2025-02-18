@@ -175,7 +175,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739204690"
+	"store_asset_mtime" "1739781445"
 	"associations"
 	{
 		"0"
@@ -479,9 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "6233894182735987568"
-				"size" "629466997"
-				"download" "430941920"
+				"gid" "6725320367694277794"
+				"size" "559935731"
+				"download" "410921680"
 			}
 			"community-cup-japan"
 			{
@@ -491,9 +491,9 @@
 			}
 			"experimental"
 			{
-				"gid" "6233894182735987568"
-				"size" "629466997"
-				"download" "430941920"
+				"gid" "4077928105201206196"
+				"size" "629921010"
+				"download" "431261184"
 			}
 			"last-default"
 			{
@@ -514,9 +514,9 @@
 		{
 			"public"
 			{
-				"gid" "8028546099799077170"
-				"size" "565876470"
-				"download" "365369552"
+				"gid" "8958426584426910228"
+				"size" "566763423"
+				"download" "366097872"
 			}
 			"community-cup-japan"
 			{
@@ -526,9 +526,9 @@
 			}
 			"experimental"
 			{
-				"gid" "8028546099799077170"
-				"size" "565876470"
-				"download" "365369552"
+				"gid" "330083205049947526"
+				"size" "567074991"
+				"download" "366139584"
 			}
 			"last-default"
 			{
@@ -567,8 +567,8 @@
 	{
 		"public"
 		{
-			"buildid" "17310439"
-			"timeupdated" "1739210145"
+			"buildid" "17410435"
+			"timeupdated" "1739915847"
 		}
 		"community-cup-japan"
 		{
@@ -578,9 +578,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "17310439"
+			"buildid" "17338751"
 			"description" "Test new features early on!"
-			"timeupdated" "1739210161"
+			"timeupdated" "1739375671"
 		}
 		"last-default"
 		{
@@ -632,6 +632,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27405751"
-"_sha" "c4977c5b4b55677c557c21da475fa8858bd51158"
-"_size" "12325"
+"_change_number" "27542952"
+"_sha" "99de8c98b4ff0c6125957e702b7d25f182c42132"
+"_size" "12324"
