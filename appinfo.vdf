@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737476056"
+	"store_asset_mtime" "1739799146"
 	"associations"
 	{
 		"0"
@@ -172,7 +172,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1729609411"
+	"steam_release_date" "1729609380"
 	"community_hub_visible" "1"
 	"gameid" "292000"
 	"store_tags"
@@ -188,8 +188,8 @@
 		"8" "3839"
 		"9" "1663"
 		"10" "1774"
-		"11" "1100686"
-		"12" "1667"
+		"11" "1667"
+		"12" "1100686"
 		"13" "4175"
 		"14" "4166"
 		"15" "353880"
@@ -199,7 +199,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "46"
+	"review_percentage" "45"
 }
 "extended"
 {
@@ -288,72 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "5088983341521847689"
-				"size" "20165221719"
-				"download" "16918271296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"anti_cheat"
-			{
-				"gid" "0B34F36BF0C8F2A509B9A08FE80D8A7A"
-				"size" "1719007B2C034E805ED83F6509E2C585"
-				"download" "2A764CD37F6F9E299EAF7C68EB6EEEB2"
-			}
-			"cert"
-			{
-				"gid" "E89E987CC750EF2FCAE2DD4011989B96"
-				"size" "ACD2F2CFC02E4CB667A474D7B80C5C4F"
-				"download" "2EE753D6C22E6BABA07F552171CD5E71"
-			}
-			"dev-engineupgrade"
-			{
-				"gid" "896746B532EA12B103D29A4CBF5C1861"
-				"size" "F91BBCA1E927E5DB6BC01941444F8568"
-				"download" "34C80A6ADC19EDCE638799A9D8E157A1"
-			}
-			"dummy"
-			{
-				"gid" "93E05FD5B056A9BB556F1965BCDBD1B1"
-				"size" "A6165616CB46C0E1804F1D96CEDB3904"
-				"download" "1287F59480714D42BCF228251B24E617"
-			}
-			"filming"
-			{
-				"gid" "ADB08371D8A4AD5F73A4C14B22429C44"
-				"size" "1A9152F9C6156C1B6F0E7EE725096C33"
-				"download" "176DB3FD3A372A49F2B247BD96167A91"
-			}
-			"nmrih2-old"
-			{
-				"gid" "469A4A4D8AA3D5E59DD26E021749B8E3"
-				"size" "D45AFE530F71519A84EDDC64F7F1F2C1"
-				"download" "DF0E53BA7EE5178F5B5CE74770A34DB5"
-			}
-			"online_team"
-			{
-				"gid" "95F5C365D7E67D9BC0FDCA1E5657E9B1"
-				"size" "2DFCABFD174BD07173EEBD74B2297FF8"
-				"download" "9AE5D6DDFDBB64EEB9CB56E34E9B29C0"
-			}
-			"playtest"
-			{
-				"gid" "DBA0DD4D44CECE38C08E1D3EEC16737C"
-				"size" "A9E6AF77125446EA713EB5CE607F8C09"
-				"download" "6D75A6F173769B1D42DE11E6FBF6C2B1"
-			}
-			"release-ct"
-			{
-				"gid" "BE64EAA0B01CCDF7032EDD4FBA65D0C4"
-				"size" "661C51A084EEFBA839841AEE17F0B04F"
-				"download" "5A6E298E41099D90EF660864C9940F82"
-			}
-			"staging"
-			{
-				"gid" "8047B7DDA81DAFC3F8D221441C9C058C"
-				"size" "AD9E1DDFB9060C6E74B038BDF31734B6"
-				"download" "80621F3FAA00FF24BFF23C1713EC896B"
+				"gid" "9220837771201776579"
+				"size" "18991979697"
+				"download" "16023467184"
 			}
 		}
 	}
@@ -368,66 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "6468084260379275438"
-				"size" "20622558522"
-				"download" "17021593376"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"anti_cheat"
-			{
-				"gid" "E997E3E6086BA0692AE0E6CCBE36F11B"
-				"size" "5B45AE5843A53900822541E2931A666E"
-				"download" "83F441061AB7EFF307C06D37FC85DC95"
-			}
-			"cert"
-			{
-				"gid" "92FE4DCB4F83734C5E3E23F781AF3801"
-				"size" "3F1E25D7AA0FFAE3913F2D3505B2B1F8"
-				"download" "A50D2F6441CDB7E0A63E53AB13DEC7C6"
-			}
-			"dev-engineupgrade"
-			{
-				"gid" "B03ECE707BECACA92BE1B8807B5AA90D"
-				"size" "D64D5D6A7C55B978312F68509EF5C096"
-				"download" "5AD7DC6C69E0F3C93B07A3FCEB086E0C"
-			}
-			"dummy"
-			{
-				"gid" "42AEF12C5722B0BC97D510131289DC3C"
-				"size" "A6165616CB46C0E1804F1D96CEDB3904"
-				"download" "1287F59480714D42BCF228251B24E617"
-			}
-			"filming"
-			{
-				"gid" "C3D998159872E4FA7D455A1041E944CD"
-				"size" "F3885CE869945F27900E205068DFC82E"
-				"download" "520D75C66EEF2F06F486C1C69FCD58B1"
-			}
-			"online_team"
-			{
-				"gid" "3B1477C9A7109B580E84A5EB402937D4"
-				"size" "13196A2F71C2D71CF720AFBC2A1627F2"
-				"download" "2AD6183AEDBB5BA8FECE59878F63AC64"
-			}
-			"playtest"
-			{
-				"gid" "44FC37917F0D7D5C70F2D576F8D80855"
-				"size" "9678C2AC274266F8F0DE0D9F0EF54BE5"
-				"download" "E49ABA7B7A83A4DD3F7983BB933D3A32"
-			}
-			"release-ct"
-			{
-				"gid" "533D73634DCF361467C4DB5E3BDFD406"
-				"size" "1C47DE0636E1263D73FCA9CCA188E5F8"
-				"download" "7DA8448C8F61C313CBAD352DAC414B40"
-			}
-			"staging"
-			{
-				"gid" "9B46B4C17CCD78D891DE31415C0F6DBC"
-				"size" "B08DCD37AB7B57B0937DD37215F1BD7C"
-				"download" "95143ED2BCD01B410BF5347D07CC14B4"
+				"gid" "2897871045584471635"
+				"size" "20435043966"
+				"download" "16945868512"
 			}
 		}
 	}
@@ -435,70 +315,11 @@
 	{
 		"public"
 		{
-			"buildid" "17032061"
-			"timeupdated" "1737471906"
-		}
-		"anti_cheat"
-		{
-			"buildid" "15080181"
-			"pwdrequired" "1"
-			"timeupdated" "1721332109"
-		}
-		"cert"
-		{
-			"buildid" "16143315"
-			"pwdrequired" "1"
-			"timeupdated" "1729718810"
-		}
-		"dev-engineupgrade"
-		{
-			"buildid" "15120563"
-			"pwdrequired" "1"
-			"timeupdated" "1721712034"
-		}
-		"dummy"
-		{
-			"buildid" "15677968"
-			"pwdrequired" "1"
-			"timeupdated" "1726148351"
-		}
-		"filming"
-		{
-			"buildid" "14356290"
-			"pwdrequired" "1"
-			"timeupdated" "1715650464"
-		}
-		"nmrih2-old"
-		{
-			"buildid" "9728373"
-			"pwdrequired" "1"
-			"timeupdated" "1695905592"
-		}
-		"online_team"
-		{
-			"buildid" "14828334"
-			"pwdrequired" "1"
-			"timeupdated" "1719301582"
-		}
-		"playtest"
-		{
-			"buildid" "15147796"
-			"pwdrequired" "1"
-			"timeupdated" "1721924379"
-		}
-		"release-ct"
-		{
-			"buildid" "14113208"
-			"pwdrequired" "1"
-			"timeupdated" "1713550656"
-		}
-		"staging"
-		{
-			"buildid" "17032061"
-			"pwdrequired" "1"
-			"timeupdated" "1737064186"
+			"buildid" "17343935"
+			"timeupdated" "1739893099"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -519,6 +340,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27096597"
-"_sha" "d7d570087bec208358b517f70e0b74a0f61528ff"
-"_size" "10035"
+"_change_number" "27537703"
+"_sha" "5ca750552a2f987d1002ae682eb22c501f5881de"
+"_size" "5612"
