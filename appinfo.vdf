@@ -37,6 +37,55 @@
 			"height_pct" "65.74893137022099"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "83.32780199414833"
+				"height_pct" "65.74893137022099"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1722511330"
 	"associations"
 	{
@@ -559,9 +608,9 @@
 		{
 			"public"
 			{
-				"gid" "8778585604088370030"
-				"size" "2776717376"
-				"download" "2549186480"
+				"gid" "5749221379176341455"
+				"size" "2782426803"
+				"download" "2554643664"
 			}
 		}
 	}
@@ -569,8 +618,12 @@
 	{
 		"public"
 		{
-			"buildid" "15335118"
-			"timeupdated" "1723399412"
+			"buildid" "17411677"
+			"timeupdated" "1739904137"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27540257"
+"_sha" "1d96a98e8558e081c7bb87c875afa7537fa96e3a"
+"_size" "8116"
