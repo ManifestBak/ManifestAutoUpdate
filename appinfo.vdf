@@ -312,7 +312,7 @@
 		"19" "3859"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -374,9 +374,9 @@
 		{
 			"public"
 			{
-				"gid" "6380468895928647656"
-				"size" "14836637191"
-				"download" "12881414864"
+				"gid" "3333182633423561975"
+				"size" "14642715300"
+				"download" "12700322720"
 			}
 		}
 	}
@@ -391,18 +391,19 @@
 		{
 			"public"
 			{
-				"gid" "8327755743497089603"
-				"size" "15546579283"
-				"download" "13327553808"
+				"gid" "4596594388184326138"
+				"size" "15351423521"
+				"download" "13146386416"
 			}
 		}
 	}
+	"workshopdepot" "1765300"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17334345"
-			"timeupdated" "1739369322"
+			"buildid" "17406460"
+			"timeupdated" "1739882835"
 		}
 	}
 	"privatebranches" "1"
@@ -440,6 +441,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27440467"
-"_sha" "db991d91f768a73be0daf434b71c8695fad4ebd2"
-"_size" "9150"
+"_change_number" "27534322"
+"_sha" "25632a706c325cecf31cec3b8f52ca5c58d4726c"
+"_size" "9179"
