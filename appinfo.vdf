@@ -331,15 +331,15 @@
 		{
 			"public"
 			{
-				"gid" "6814116820133917787"
-				"size" "2820173045"
-				"download" "2507641456"
+				"gid" "8016077528820131918"
+				"size" "2820172461"
+				"download" "2507646720"
 			}
 			"beta"
 			{
-				"gid" "6814116820133917787"
-				"size" "2820173045"
-				"download" "2507641456"
+				"gid" "8016077528820131918"
+				"size" "2820172461"
+				"download" "2507646720"
 			}
 		}
 	}
@@ -389,14 +389,14 @@
 	{
 		"public"
 		{
-			"buildid" "17335889"
-			"timeupdated" "1739453985"
+			"buildid" "17395888"
+			"timeupdated" "1739888694"
 		}
 		"beta"
 		{
-			"buildid" "17335889"
+			"buildid" "17395888"
 			"description" "Beta branch where upcoming game updates can be tested before they are released"
-			"timeupdated" "1739454048"
+			"timeupdated" "1739888653"
 		}
 	}
 	"privatebranches" "1"
@@ -408,6 +408,6 @@
 	"maxnumfiles" "350"
 }
 "_missing_token" "False"
-"_change_number" "27460191"
-"_sha" "89f97ea4b3c5e91605a85b481bb12dc8e3f3557c"
+"_change_number" "27537880"
+"_sha" "982d0bbb255c4e46e90df7ab4356790999df83b7"
 "_size" "7329"
