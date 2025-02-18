@@ -87,9 +87,9 @@
 		{
 			"public"
 			{
-				"gid" "4905328471476759177"
-				"size" "17440369129"
-				"download" "2607402704"
+				"gid" "7953530170860014095"
+				"size" "17440370153"
+				"download" "2607408384"
 			}
 			"1.188"
 			{
@@ -194,46 +194,13 @@
 				"download" "2271689792"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "221811FD2B8CD664C3208946E1CF9322"
-				"size" "6B9778282DCA7C3766E66F05B762E0F2"
-				"download" "9080226E437084D5F0BAEE9440557959"
-			}
-			"playtest"
-			{
-				"gid" "35C5C2D4E849F9C11392AF15505385A0"
-				"size" "16A26E142B803053C3960F90E1C0F960"
-				"download" "BDA0A7A2D70840B683FD0251427D2C7C"
-			}
-			"stableready"
-			{
-				"gid" "4BB9991A31712737BB5703B10011597B"
-				"size" "8D6DF3FAD0D49C60BEB498A7DB098B57"
-				"download" "FF78854CB04D068F61AB5076683D7998"
-			}
-			"steamctg"
-			{
-				"gid" "5C7A4FBE290DD1385A3BB35FFDE40602"
-				"size" "7BA2310B3566DC5341E28FADBFE82F6B"
-				"download" "438116B82DCB01D3D16BCC6204605E47"
-			}
-			"test"
-			{
-				"gid" "F821088AADB81A92F9498E73386CD529"
-				"size" "398E9BDC2C16696282CD5CA0819EB985"
-				"download" "97A44EC662AFE183BC93ABBC2B97E845"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16178629"
-			"timeupdated" "1729872440"
+			"buildid" "17396695"
+			"timeupdated" "1739891427"
 		}
 		"1.188"
 		{
@@ -324,12 +291,6 @@
 			"description" "Automatons"
 			"timeupdated" "1693563047"
 		}
-		"publictest"
-		{
-			"buildid" "10558362"
-			"pwdrequired" "1"
-			"timeupdated" "1676471058"
-		}
 		"1.203.6"
 		{
 			"buildid" "13198073"
@@ -342,33 +303,10 @@
 			"description" "Signal"
 			"timeupdated" "1728924807"
 		}
-		"playtest"
-		{
-			"buildid" "14466726"
-			"pwdrequired" "1"
-			"timeupdated" "1716458552"
-		}
-		"stableready"
-		{
-			"buildid" "16178629"
-			"pwdrequired" "1"
-			"timeupdated" "1729850222"
-		}
-		"steamctg"
-		{
-			"buildid" "16181421"
-			"pwdrequired" "1"
-			"timeupdated" "1729864456"
-		}
-		"test"
-		{
-			"buildid" "14455810"
-			"pwdrequired" "1"
-			"timeupdated" "1716385728"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25899535"
-"_sha" "023d4f9e6030ba115abdd956c991bae323b7afac"
-"_size" "6899"
+"_change_number" "27536682"
+"_sha" "e68f65ff70a3dfb7e824fdaf31bdebedd0c32d7f"
+"_size" "5493"
