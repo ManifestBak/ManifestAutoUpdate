@@ -287,7 +287,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -338,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "6175214658439711628"
-				"size" "5779817693"
-				"download" "2747585536"
+				"gid" "8024458237907853665"
+				"size" "5779844838"
+				"download" "2747564496"
 			}
 			"early_access_1_9"
 			{
@@ -356,9 +356,9 @@
 			}
 			"previous_build"
 			{
-				"gid" "6907703535196808788"
-				"size" "4819891471"
-				"download" "1970343648"
+				"gid" "7220854617908820932"
+				"size" "5779821372"
+				"download" "2747582896"
 			}
 		}
 	}
@@ -389,14 +389,20 @@
 				"size" "21108400"
 				"download" "9951680"
 			}
+			"previous_build"
+			{
+				"gid" "5118978044172454584"
+				"size" "21108400"
+				"download" "9951680"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17343832"
-			"timeupdated" "1739473298"
+			"buildid" "17426891"
+			"timeupdated" "1739997785"
 		}
 		"early_access_1_9"
 		{
@@ -412,9 +418,9 @@
 		}
 		"previous_build"
 		{
-			"buildid" "13381767"
+			"buildid" "17313332"
 			"description" "[Previous Build] If sometings goes wrong with the default build"
-			"timeupdated" "1726762241"
+			"timeupdated" "1739737642"
 		}
 	}
 	"privatebranches" "1"
@@ -425,6 +431,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27466220"
-"_sha" "0d97de888bdc5f9a080a857ae7007be7ce827c2c"
-"_size" "7937"
+"_change_number" "27561739"
+"_sha" "e8fb32858233e123e03753e83e07b54c60e66f06"
+"_size" "8055"
