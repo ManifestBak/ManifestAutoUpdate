@@ -19,6 +19,60 @@
 	{
 		"0" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1737590400"
+		"tested_build_id" "16518648"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NotFullyFunctionalWithoutExternalKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -208,30 +262,15 @@
 		{
 			"public"
 			{
-				"gid" "7368655878094125667"
-				"size" "162930767"
-				"download" "86857552"
+				"gid" "1008746747325770665"
+				"size" "203776687"
+				"download" "127763696"
 			}
 			"edge"
 			{
-				"gid" "7368655878094125667"
-				"size" "162930767"
-				"download" "86857552"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "EB896C722683E8801501219C4975216E"
-				"size" "CB59F500EA6E34194F38BA73DD7900BB"
-				"download" "AC39B6370834B0B832148CC85709FFC7"
-			}
-			"test"
-			{
-				"gid" "67CAACE51B0C922AA9E101FD6269945F"
-				"size" "97BD5C0F403BDFB75E512A04596A0E1A"
-				"download" "0EE966524C274C4216CD80F0265C314C"
+				"gid" "1008746747325770665"
+				"size" "203776687"
+				"download" "127763696"
 			}
 		}
 	}
@@ -246,30 +285,15 @@
 		{
 			"public"
 			{
-				"gid" "799837321139607433"
-				"size" "150896895"
-				"download" "83300672"
+				"gid" "1658292665595852456"
+				"size" "191794847"
+				"download" "124214320"
 			}
 			"edge"
 			{
-				"gid" "799837321139607433"
-				"size" "150896895"
-				"download" "83300672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "7F5C75A45F1F7412EFB901836645A9FD"
-				"size" "45C7C35657AD0B3F1DA4644352F93645"
-				"download" "84461F50E1D046B21860E9216A72736B"
-			}
-			"test"
-			{
-				"gid" "2044EFF252083D6AA61D93583A7A78B2"
-				"size" "0E885DBE8F1B6B5DB1D3F57ACF476E94"
-				"download" "25D024EB8A2AB4509B5880C7131EC677"
+				"gid" "1658292665595852456"
+				"size" "191794847"
+				"download" "124214320"
 			}
 		}
 	}
@@ -283,30 +307,15 @@
 		{
 			"public"
 			{
-				"gid" "1700818857939752007"
-				"size" "146485588"
-				"download" "83849296"
+				"gid" "294622203094313870"
+				"size" "187410164"
+				"download" "124764320"
 			}
 			"edge"
 			{
-				"gid" "1700818857939752007"
-				"size" "146485588"
-				"download" "83849296"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "87151AF3991304A5FC54D1CA13A5EABF"
-				"size" "14CFED72AEA76F7AED4DE5FCBCE5AFB6"
-				"download" "3CAE7398378B7870388F9E6F8199959E"
-			}
-			"test"
-			{
-				"gid" "9AB425ED81D6A572B0FD3CE0403799F2"
-				"size" "D80B05B5A799C6B2C70411A763F00307"
-				"download" "C400513F4825A490D60B604F064D2FE4"
+				"gid" "294622203094313870"
+				"size" "187410164"
+				"download" "124764320"
 			}
 		}
 	}
@@ -320,30 +329,15 @@
 		{
 			"public"
 			{
-				"gid" "8647728798436313833"
-				"size" "202836363"
-				"download" "97392864"
+				"gid" "4160733171096785907"
+				"size" "243694891"
+				"download" "138305168"
 			}
 			"edge"
 			{
-				"gid" "8647728798436313833"
-				"size" "202836363"
-				"download" "97392864"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "12B3212D48F61E450F18AAC0DC308589"
-				"size" "9B6564EA43C0D8D3331B91D274F437BF"
-				"download" "6B3165E1240BCCD8F9D410232B594BF1"
-			}
-			"test"
-			{
-				"gid" "528E69173A13D6DB30E4C020F81AC18C"
-				"size" "48639D51E344D446495F8A0993A88ED2"
-				"download" "13A84937F140463E14FA16CE6B823C38"
+				"gid" "4160733171096785907"
+				"size" "243694891"
+				"download" "138305168"
 			}
 		}
 	}
@@ -365,50 +359,24 @@
 				"download" "188975184"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"development"
-			{
-				"gid" "D3C906D2E127F0BFB4D22F64797E926D"
-				"size" "7F5911D8680C269A9A0D5B970691D176"
-				"download" "5D8BB29FD41E18485F70076779F9E35A"
-			}
-			"test"
-			{
-				"gid" "6B8856F0D65CB7E187D1442A6500443A"
-				"size" "09F93857DADE353452F690F971E4AA0D"
-				"download" "38BC7494F1DFAB221BCC2A18087884BB"
-			}
-		}
 	}
 	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16894155"
-			"timeupdated" "1736465814"
-		}
-		"development"
-		{
-			"buildid" "16894175"
-			"pwdrequired" "1"
-			"timeupdated" "1735850078"
-		}
-		"test"
-		{
-			"buildid" "16894155"
-			"pwdrequired" "1"
-			"timeupdated" "1735849858"
+			"buildid" "17372668"
+			"timeupdated" "1739918514"
 		}
 		"edge"
 		{
-			"buildid" "16894155"
-			"timeupdated" "1735850755"
+			"buildid" "17372668"
+			"timeupdated" "1739571185"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26932162"
-"_sha" "5944dc5a19f785b97c9f8c461f0d335550340fcc"
-"_size" "7197"
+"_change_number" "27543545"
+"_sha" "e72cbda88b8f19b5d298e87aacc700d39999487d"
+"_size" "6487"
