@@ -164,12 +164,12 @@
 		"2" "1774"
 		"3" "3839"
 		"4" "4182"
-		"5" "19"
-		"6" "4604"
+		"5" "4604"
+		"6" "19"
 		"7" "1628"
 		"8" "4191"
-		"9" "9541"
-		"10" "3964"
+		"9" "3964"
+		"10" "9541"
 		"11" "4252"
 		"12" "1684"
 		"13" "4057"
@@ -181,7 +181,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -245,42 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "2985913856000404047"
-				"size" "37886524"
-				"download" "18372816"
+				"gid" "2450236926772853776"
+				"size" "37998653"
+				"download" "18408064"
 			}
 			"legacy_saves"
 			{
 				"gid" "8204576243071099762"
 				"size" "19189996"
 				"download" "8328688"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "6EF4A7A39F0D11316D0C88F1E004615E"
-				"size" "2FDEC19462C142C07CBC59EB1175BE5F"
-				"download" "7438EA63B0D0F23654C8ADE215BE6CFE"
-			}
-			"fulqrum-alpha-2024-06"
-			{
-				"gid" "1ECAD436C3080649D0D19F7A5897A74B"
-				"size" "57C701C0051224A37477B20F55E12205"
-				"download" "D322243E05FFA13C491BEFC159C7E6DF"
-			}
-			"hon1-v3-hotfix-1"
-			{
-				"gid" "8F4293DB12E6A688CD8373876834FB8C"
-				"size" "5D194F8FF66D4F65E8530137C9204251"
-				"download" "EF33E2638DB865B93F6C9E0DB624CCC5"
-			}
-			"internal"
-			{
-				"gid" "E1935925FBAA6D2DCE062FB3435CB98A"
-				"size" "51B66A0C8F32014C1D9429224B79AD8A"
-				"download" "A19F8BECA19B196B21BD982022852811"
 			}
 		}
 	}
@@ -295,42 +268,15 @@
 		{
 			"public"
 			{
-				"gid" "2229220124581541561"
-				"size" "87726204"
-				"download" "32484288"
+				"gid" "8179587387291143679"
+				"size" "75787941"
+				"download" "29015600"
 			}
 			"legacy_saves"
 			{
 				"gid" "6043061906032231907"
 				"size" "22045079"
 				"download" "8804480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "BFFDB56CCA552D910D3B83036A1F15FA"
-				"size" "5EEF402495979C96442EB28749E274D6"
-				"download" "4C39B075A46F8F576B362A2969C33AB1"
-			}
-			"fulqrum-alpha-2024-06"
-			{
-				"gid" "17BBC160149207E1DC75E10ABC31D3C7"
-				"size" "3393BC175317AEB8D312219569F24623"
-				"download" "23CA4ABF2ABAE09AC77FD4033AC7867C"
-			}
-			"hon1-v3-hotfix-1"
-			{
-				"gid" "CD51A91D3B6DBCEABF3A9BA177D46BA6"
-				"size" "4A1F60BC2EEC3384CCADE7466674DC86"
-				"download" "8B88E91D84D30EC3158FA4EC885C7180"
-			}
-			"internal"
-			{
-				"gid" "92D1DE54BD316C241DF4AF922E3F33ED"
-				"size" "2451E6CF0376F3DFAED2E4E6F63E89FA"
-				"download" "A47E324A588CFFAA50EA98A72E9BC9B9"
 			}
 		}
 	}
@@ -345,42 +291,15 @@
 		{
 			"public"
 			{
-				"gid" "4648732406034459382"
-				"size" "120185247"
-				"download" "41719440"
+				"gid" "9167366306503893516"
+				"size" "115709890"
+				"download" "40583600"
 			}
 			"legacy_saves"
 			{
 				"gid" "2860642156305434971"
 				"size" "55775858"
 				"download" "18612848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "061877BFE7FCA1F587E79B0198D3E2EC"
-				"size" "3072FC248B239CB1E21011ACBC5AC54D"
-				"download" "059D3B75943B990A08D81A2E10695664"
-			}
-			"fulqrum-alpha-2024-06"
-			{
-				"gid" "D320B885973D711192AD37547F04EE3D"
-				"size" "3404EFEEE82DF6FF9FBAF8FDE8577127"
-				"download" "D0CA3948201B64152615BDF8F00785D6"
-			}
-			"hon1-v3-hotfix-1"
-			{
-				"gid" "3722852852F6BE9AE73B9DC63327317F"
-				"size" "4F7CFE2E60210AABF61A4738D2DF8D39"
-				"download" "F0E30217874BDEB6B4C0321A6581D83E"
-			}
-			"internal"
-			{
-				"gid" "7EE8F981D51550B881DE470AC9C51EAF"
-				"size" "503B14A2CD7F44304B13357ED99DE584"
-				"download" "26296133494A615C3E463DFCC9DF3897"
 			}
 		}
 	}
@@ -390,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "3219577052949151292"
-				"size" "263833488"
-				"download" "261128176"
+				"gid" "3020843598232769924"
+				"size" "267087077"
+				"download" "264286784"
 			}
 			"legacy_saves"
 			{
@@ -401,64 +320,13 @@
 				"download" "263442064"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"developer"
-			{
-				"gid" "5FE6B5E4B9D5DC1AE8B177B312CFE75E"
-				"size" "A6E113DD0DFBC567955EC7E6F9806AEB"
-				"download" "66D943039C2D9F3F02B7B2A21E3A0F04"
-			}
-			"fulqrum-alpha-2024-06"
-			{
-				"gid" "46BE2BB0060697193D592DA79400A20C"
-				"size" "C3A4B1EAE50C2B4700F9432BDC87A830"
-				"download" "0A3BB83C8CD91A508FEA62E58122726E"
-			}
-			"hon1-v3-hotfix-1"
-			{
-				"gid" "9EAFBD9FE8BEE59AF514154DF8B69B44"
-				"size" "DDB5C62B5E4D7CD938B2A3647DCBD503"
-				"download" "90690833F47C067C0583E9100965E9FF"
-			}
-			"internal"
-			{
-				"gid" "6207A077FB75FB8C1F2F0B9E4D7FD46C"
-				"size" "28B807283AC3AAA8C80F03CEEFE572FF"
-				"download" "871396D3E279F0C0C7AF60A1EDB4837C"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15201631"
-			"timeupdated" "1722416669"
-		}
-		"developer"
-		{
-			"buildid" "15201631"
-			"pwdrequired" "1"
-			"timeupdated" "1722416501"
-		}
-		"fulqrum-alpha-2024-06"
-		{
-			"buildid" "15201631"
-			"pwdrequired" "1"
-			"timeupdated" "1722355082"
-		}
-		"hon1-v3-hotfix-1"
-		{
-			"buildid" "15843265"
-			"pwdrequired" "1"
-			"timeupdated" "1727390782"
-		}
-		"internal"
-		{
-			"buildid" "15201631"
-			"pwdrequired" "1"
-			"timeupdated" "1722416509"
+			"buildid" "17352710"
+			"timeupdated" "1739973865"
 		}
 		"legacy_saves"
 		{
@@ -467,6 +335,7 @@
 			"timeupdated" "1722251203"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -588,3 +457,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27555334"
+"_sha" "cda501ec19cdff6cacabc5aecd25cd905cbff4cc"
+"_size" "7367"
