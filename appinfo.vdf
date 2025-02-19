@@ -284,7 +284,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "97"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -335,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "3704977162490938848"
-				"size" "208187330"
-				"download" "81603376"
+				"gid" "5101947072123558604"
+				"size" "208194002"
+				"download" "81606208"
 			}
 		}
 	}
@@ -351,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "7652574739719063896"
-				"size" "136230088"
-				"download" "65765152"
+				"gid" "502644740439909776"
+				"size" "136239176"
+				"download" "65767616"
 			}
 		}
 	}
@@ -361,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "17408329"
-			"timeupdated" "1739890564"
+			"buildid" "17419009"
+			"timeupdated" "1739957439"
 		}
 	}
 	"privatebranches" "1"
@@ -377,7 +377,7 @@
 		{
 			"root" "WinAppDataRoaming"
 			"path" "TinyPasture/save"
-			"pattern" "*.sav"
+			"pattern" "game.sav"
 			"platforms"
 			{
 				"1" "Windows"
@@ -388,7 +388,7 @@
 		{
 			"root" "MacAppSupport"
 			"path" "TinyPasture/save"
-			"pattern" "*.sav"
+			"pattern" "game.sav"
 			"platforms"
 			{
 				"1" "MacOS"
@@ -397,6 +397,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27537802"
-"_sha" "ffef244f69e9933e5312c2f6640a0957a9a5e056"
-"_size" "9425"
+"_change_number" "27551084"
+"_sha" "26e47e1a2c020ae4c68a16c3d753828730a9070f"
+"_size" "9430"
