@@ -341,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "2642044762551683502"
-				"size" "464462446"
-				"download" "107377824"
+				"gid" "6138304496340376232"
+				"size" "464459990"
+				"download" "107371280"
 			}
 			"alpha12p29"
 			{
@@ -363,9 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "7802717788173565870"
-				"size" "434791841"
-				"download" "112364784"
+				"gid" "2110488320024146994"
+				"size" "434791840"
+				"download" "112367824"
 			}
 			"alpha12p29"
 			{
@@ -385,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "5763606165163164172"
-				"size" "462160167"
-				"download" "106139600"
+				"gid" "5795712338161793761"
+				"size" "462160166"
+				"download" "106139552"
 			}
 			"alpha12p29"
 			{
@@ -402,8 +402,8 @@
 	{
 		"public"
 		{
-			"buildid" "17413216"
-			"timeupdated" "1739913073"
+			"buildid" "17423508"
+			"timeupdated" "1739973598"
 		}
 		"alpha12p29"
 		{
@@ -418,6 +418,8 @@
 {
 	"quota" "5000000000"
 	"maxnumfiles" "2000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
 	"savefiles"
 	{
 		"0"
@@ -432,27 +434,27 @@
 		}
 		"1"
 		{
-			"root" "LinuxHome"
-			"path" "SomniumSoft/Lawgivers II/Worlds"
-			"pattern" "*"
-			"platforms"
-			{
-				"1" "Linux"
-			}
-		}
-		"2"
-		{
-			"root" "MacHome"
-			"path" "SomniumSoft/Lawgivers II/Worlds"
+			"root" "MacAppSupport"
+			"path" "com.DamianBernardi.LawgiversII/Worlds"
 			"pattern" "*"
 			"platforms"
 			{
 				"1" "MacOS"
 			}
 		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d/SomniumSoft/Lawgivers II/Worlds"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27542384"
-"_sha" "c30d6b52a417ba89a3533d1300ff8535ab233bcd"
-"_size" "7484"
+"_change_number" "27555258"
+"_sha" "cd3960074b96b8293b9ece48dcf7a6a5e7ef5e0a"
+"_size" "7563"
