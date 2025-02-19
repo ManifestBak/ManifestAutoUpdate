@@ -14,6 +14,7 @@
 	{
 		"english" "1"
 		"schinese" "1"
+		"polish" "1"
 	}
 	"name_localized"
 	{
@@ -191,16 +192,16 @@
 		"0" "1742"
 		"1" "21"
 		"2" "122"
-		"3" "4166"
-		"4" "5608"
+		"3" "5608"
+		"4" "4166"
 		"5" "3964"
 		"6" "4434"
 		"7" "3942"
 		"8" "5094"
 		"9" "4791"
 		"10" "4136"
-		"11" "4182"
-		"12" "492"
+		"11" "492"
+		"12" "4182"
 		"13" "7702"
 		"14" "1698"
 		"15" "4145"
@@ -232,6 +233,7 @@
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "32"
 			}
 		}
 		"1"
@@ -255,6 +257,21 @@
 				"osarch" "64"
 			}
 		}
+		"3"
+		{
+			"executable" "To the Moon Beachsode\\steamshim_parent64.exe"
+			"workingdir" "To the Moon Beachsode"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch 64bit version"
+			}
+			"description" "Launch 64bit version"
+		}
 	}
 }
 "depots"
@@ -266,9 +283,15 @@
 		{
 			"public"
 			{
-				"gid" "7344424677725234574"
-				"size" "368494554"
-				"download" "306015216"
+				"gid" "97390448508772659"
+				"size" "371464260"
+				"download" "316930176"
+			}
+			"beta"
+			{
+				"gid" "97390448508772659"
+				"size" "371464260"
+				"download" "316930176"
 			}
 		}
 	}
@@ -278,6 +301,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8679803248249572419"
+				"size" "655027723"
+				"download" "578109984"
+			}
+			"beta"
 			{
 				"gid" "8679803248249572419"
 				"size" "655027723"
@@ -300,6 +329,12 @@
 				"size" "567278848"
 				"download" "534835280"
 			}
+			"beta"
+			{
+				"gid" "561077346636007838"
+				"size" "567278848"
+				"download" "534835280"
+			}
 		}
 	}
 	"2159212"
@@ -311,6 +346,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "3792934894090288959"
+				"size" "26579832"
+				"download" "7636752"
+			}
+			"beta"
 			{
 				"gid" "3792934894090288959"
 				"size" "26579832"
@@ -333,6 +374,12 @@
 				"size" "10196068"
 				"download" "3377088"
 			}
+			"beta"
+			{
+				"gid" "8678659770268557037"
+				"size" "10196068"
+				"download" "3377088"
+			}
 		}
 	}
 	"2159214"
@@ -349,18 +396,30 @@
 				"size" "366338537"
 				"download" "304664768"
 			}
+			"beta"
+			{
+				"gid" "1221564496318579571"
+				"size" "366338537"
+				"download" "304664768"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16105083"
-			"timeupdated" "1729317374"
+			"buildid" "17411549"
+			"timeupdated" "1739981296"
+		}
+		"beta"
+		{
+			"buildid" "17411549"
+			"description" "Test branch"
+			"timeupdated" "1739903399"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25797271"
-"_sha" "1fd746958a2300f1b854eb1f4de7fa469da9242e"
-"_size" "6331"
+"_change_number" "27557462"
+"_sha" "07b70d68b6df8c47ee7fdb51d7590b9edfb34fea"
+"_size" "7444"
