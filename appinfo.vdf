@@ -29,6 +29,7 @@
 			}
 		}
 	}
+	"store_screenshot" "ss_fde5d806d395ea7b02acad28dcbc420eee1c8e03.jpg"
 	"store_asset_mtime" "1714801042"
 	"associations"
 	{
@@ -51,6 +52,7 @@
 	"primary_genre" "0"
 	"category"
 	{
+		"category_50" "1"
 	}
 	"steam_release_date" "1715014230"
 	"gameid" "2950840"
@@ -81,9 +83,9 @@
 		{
 			"public"
 			{
-				"gid" "2357465739449232541"
-				"size" "452800912"
-				"download" "435371728"
+				"gid" "4441811072734880735"
+				"size" "480685493"
+				"download" "472521168"
 			}
 		}
 	}
@@ -107,8 +109,8 @@
 	{
 		"public"
 		{
-			"buildid" "16061336"
-			"timeupdated" "1729096351"
+			"buildid" "17426483"
+			"timeupdated" "1739988019"
 		}
 	}
 }
@@ -532,6 +534,7 @@
 			"originalname" "Mountain of the Gods"
 			"m" "4"
 			"s" "55"
+			"isrc" "TCAIX2441989"
 		}
 		"31"
 		{
@@ -540,6 +543,7 @@
 			"originalname" "Wrath of the Heavens"
 			"m" "9"
 			"s" "20"
+			"isrc" "TCAIX2442190"
 		}
 		"32"
 		{
@@ -548,6 +552,7 @@
 			"originalname" "Olympus Aflame"
 			"m" "7"
 			"s" "5"
+			"isrc" "TCAIY2442223"
 		}
 		"33"
 		{
@@ -556,6 +561,7 @@
 			"originalname" "Lap of Luxury (feat. Kristin Naigus)"
 			"m" "2"
 			"s" "21"
+			"isrc" "TCAIX2442240"
 		}
 		"34"
 		{
@@ -564,10 +570,56 @@
 			"originalname" "In the Darkness"
 			"m" "4"
 			"s" "9"
+			"isrc" "TCAIX2442261"
+		}
+		"35"
+		{
+			"discnumber" "1"
+			"tracknumber" "36"
+			"originalname" "Fading Fading"
+			"m" "2"
+			"s" "40"
+			"isrc" "TCAJH2598187"
+		}
+		"36"
+		{
+			"discnumber" "1"
+			"tracknumber" "37"
+			"originalname" "Winged Apprentice"
+			"m" "2"
+			"s" "44"
+			"isrc" "TCAJH2598231"
+		}
+		"37"
+		{
+			"discnumber" "1"
+			"tracknumber" "38"
+			"originalname" "Moonlight Guide Us"
+			"m" "2"
+			"s" "58"
+			"isrc" "TCAJH2598282"
+		}
+		"38"
+		{
+			"discnumber" "1"
+			"tracknumber" "39"
+			"originalname" "Mother of All Storms"
+			"m" "4"
+			"s" "17"
+			"isrc" "TCAJH2598314"
+		}
+		"39"
+		{
+			"discnumber" "1"
+			"tracknumber" "40"
+			"originalname" "Father of All Monsters"
+			"m" "4"
+			"s" "26"
+			"isrc" "TCAJH2598335"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25750977"
-"_sha" "814bee81c42f5f502104003a7d79e9bb79314c89"
-"_size" "19406"
+"_change_number" "27559480"
+"_sha" "5f47a92917e5cdeef19296f99a2a86a6d558812d"
+"_size" "20430"
