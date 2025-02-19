@@ -173,8 +173,8 @@
 		"8" "599"
 		"9" "4305"
 		"10" "3871"
-		"11" "3964"
-		"12" "4182"
+		"11" "4182"
+		"12" "3964"
 		"13" "493"
 	}
 	"review_score" "8"
@@ -223,15 +223,15 @@
 		{
 			"public"
 			{
-				"gid" "775865176085232988"
-				"size" "78101977"
-				"download" "70959776"
+				"gid" "4890139142445207957"
+				"size" "78104494"
+				"download" "70960752"
 			}
 			"beta"
 			{
-				"gid" "775865176085232988"
-				"size" "78101977"
-				"download" "70959776"
+				"gid" "4890139142445207957"
+				"size" "78104494"
+				"download" "70960752"
 			}
 		}
 	}
@@ -245,15 +245,15 @@
 		{
 			"public"
 			{
-				"gid" "9132921522632960779"
-				"size" "82707413"
-				"download" "71804976"
+				"gid" "5481177114206429623"
+				"size" "82707386"
+				"download" "71802912"
 			}
 			"beta"
 			{
-				"gid" "9132921522632960779"
-				"size" "82707413"
-				"download" "71804976"
+				"gid" "5481177114206429623"
+				"size" "82707386"
+				"download" "71802912"
 			}
 		}
 	}
@@ -261,14 +261,14 @@
 	{
 		"public"
 		{
-			"buildid" "17397166"
-			"timeupdated" "1739905374"
+			"buildid" "17426639"
+			"timeupdated" "1739989142"
 		}
 		"beta"
 		{
-			"buildid" "17397166"
+			"buildid" "17426639"
 			"description" "Early Early Access (for testing new Early Access builds)"
-			"timeupdated" "1739823171"
+			"timeupdated" "1739989110"
 		}
 	}
 	"privatebranches" "1"
@@ -313,6 +313,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27540623"
-"_sha" "e93859453f82b6d2194520f79b4ed64de405de1b"
-"_size" "5491"
+"_change_number" "27559731"
+"_sha" "8a697236f353ed9f8790ab802f14bf6d288862fd"
+"_size" "5493"
