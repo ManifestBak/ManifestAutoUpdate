@@ -189,7 +189,7 @@
 		"19" "1669"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -254,6 +254,12 @@
 				"size" "485612583"
 				"download" "484102896"
 			}
+			"legacy_saves"
+			{
+				"gid" "7245354293969079856"
+				"size" "485589512"
+				"download" "484080992"
+			}
 		}
 	}
 	"2706452"
@@ -269,6 +275,12 @@
 				"gid" "2906874961431542004"
 				"size" "37892187"
 				"download" "18298528"
+			}
+			"legacy_saves"
+			{
+				"gid" "1420213811410462438"
+				"size" "37754623"
+				"download" "18244960"
 			}
 		}
 	}
@@ -286,6 +298,12 @@
 				"size" "152225664"
 				"download" "105807616"
 			}
+			"legacy_saves"
+			{
+				"gid" "1513724909266976605"
+				"size" "87596719"
+				"download" "32354096"
+			}
 		}
 	}
 	"2706454"
@@ -302,6 +320,12 @@
 				"size" "115609715"
 				"download" "40478320"
 			}
+			"legacy_saves"
+			{
+				"gid" "2376978940309563471"
+				"size" "120043587"
+				"download" "41596192"
+			}
 		}
 	}
 	"branches"
@@ -310,6 +334,12 @@
 		{
 			"buildid" "17352010"
 			"timeupdated" "1739973912"
+		}
+		"legacy_saves"
+		{
+			"buildid" "15628438"
+			"description" "Branch for the previous build saves compatibility"
+			"timeupdated" "1739978715"
 		}
 	}
 	"privatebranches" "1"
@@ -435,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27555350"
-"_sha" "4afdd42c8e3a387de43201fd668ce372117d18ee"
-"_size" "7086"
+"_change_number" "27556717"
+"_sha" "2a249df706300b5afb2be19fa1b42d38a16f374a"
+"_size" "7714"
