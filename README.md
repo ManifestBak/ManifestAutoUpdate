@@ -1,23 +1,20 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-20 04:20:58
+## 更新时间：2025-02-20 06:17:45
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1120320 | 盖房模拟器| Game |
-| 1245430 | 金色的光芒| Game |
+| 1631470 | Critter Cove| Game |
 | 1145350 | Hades II| Game |
-| 1579880 | The Light Brigade| Game |
-| 2217000 | Rivals of Aether II| Game |
-| 2086430 | NIMRODS: 枪匠幸存者| Game |
-| 1962890 | IN HEAT: Lustful Nights| Game |
-| 2178990 | 汽水侠| Game |
-| 2440380 | Megaloot| Game |
-| 2730530 | 协律01：新生活| Game |
-| 3126330 | Kiosk| Game |
-| 3225970 | 封神榜重置版| Game |
+| 1729140 | Hired 2 Die 雇佣受死| Game |
 | 1940340 | Darkest Dungeon® II| Game |
-| 541300 | Survive the Nights| Game |
-| 736220 | Squad 44| Game |
-| 773790 | Ostriv| Game |
-| 846110 | The friends of Ringo Ishikawa| Game |
-| 570 | Dota 2| game |
+| 1704180 | 破碎联盟| Game |
+| 2094070 | Quest Master| Game |
+| 2327780 | HAELE 3D - Feet Poses Pro - Drawing References| Game |
+| 1407200 | World of Tanks| Game |
+| 2440380 | Megaloot| Game |
+| 2479840 | Pawn Planet| Game |
+| 2178990 | 汽水侠| Game |
+| 2826180 | Chill Pulse 心流小筑| Game |
+| 2709570 | Supermarket Together| Game |
+| 690830 | Foundation| Game |
+| 597180 | 旧世界 Old World| Game |
