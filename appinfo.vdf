@@ -258,8 +258,8 @@
 	{
 		"0" "9"
 		"1" "1741"
-		"2" "3859"
-		"3" "1670"
+		"2" "1670"
+		"3" "3859"
 		"4" "4328"
 		"5" "3987"
 		"6" "4364"
@@ -397,15 +397,15 @@
 		{
 			"public"
 			{
-				"gid" "4047577098521019287"
-				"size" "37017647208"
-				"download" "14885965824"
+				"gid" "5085921668430862400"
+				"size" "37017648014"
+				"download" "14886003264"
 			}
 			"rollback"
 			{
-				"gid" "5861518201543963478"
-				"size" "37000184990"
-				"download" "15030691568"
+				"gid" "2936869216781286952"
+				"size" "36783977842"
+				"download" "14830395040"
 			}
 			"update_preview"
 			{
@@ -426,15 +426,15 @@
 		{
 			"public"
 			{
-				"gid" "4744833801444402146"
-				"size" "37060455221"
-				"download" "14896842624"
+				"gid" "6353129257993443684"
+				"size" "37060456128"
+				"download" "14896821968"
 			}
 			"rollback"
 			{
-				"gid" "2517170091966895405"
-				"size" "37042991749"
-				"download" "15047608080"
+				"gid" "1422004937408954799"
+				"size" "36826784907"
+				"download" "14847318032"
 			}
 			"update_preview"
 			{
@@ -474,14 +474,14 @@
 	{
 		"public"
 		{
-			"buildid" "17352694"
-			"timeupdated" "1739455009"
+			"buildid" "17423584"
+			"timeupdated" "1739973830"
 		}
 		"rollback"
 		{
-			"buildid" "13134311"
+			"buildid" "16460781"
 			"description" "The previous version of the game, before the last update."
-			"timeupdated" "1706190762"
+			"timeupdated" "1739474815"
 		}
 		"update_preview"
 		{
@@ -526,6 +526,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27460453"
-"_sha" "6cb3ae72f84587bab30ca522f14292fdd2b41d2b"
+"_change_number" "27555322"
+"_sha" "0eb0e145d40ecacd309ba4153651c062df5a7ff6"
 "_size" "9348"
