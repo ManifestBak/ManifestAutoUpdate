@@ -3,7 +3,7 @@
 {
 	"name" "PROJECT TACHYON"
 	"type" "Game"
-	"icon" "ec50b714f2509212f3353d704ad64fbacb8a7b87"
+	"icon" "c05db617f6044802b40a1d0ea94ae6921bb4dd31"
 	"clienttga" "65bf9ccd04ca57c14e54aa111a86af8d819134df"
 	"clienticon" "07dca525b6174ae4f4bf4cf3b3c0ffe6d208372e"
 	"oslist" "windows"
@@ -16,6 +16,14 @@
 		"japanese" "プロジェクトタキオン"
 		"schinese" "超光速计划"
 		"tchinese" "迅子計劃"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
@@ -101,7 +109,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738319527"
+	"store_asset_mtime" "1739590901"
 	"associations"
 	{
 		"0"
@@ -187,8 +195,8 @@
 		"18" "5379"
 		"19" "3798"
 	}
-	"review_score" "7"
-	"review_percentage" "90"
+	"review_score" "8"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -215,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "8841484356811805561"
-				"size" "2298754474"
-				"download" "720235024"
+				"gid" "7193520309259303036"
+				"size" "2298323386"
+				"download" "720215264"
 			}
 		}
 	}
@@ -225,8 +233,8 @@
 	{
 		"public"
 		{
-			"buildid" "17364622"
-			"timeupdated" "1739527964"
+			"buildid" "17407387"
+			"timeupdated" "1739940254"
 		}
 	}
 	"privatebranches" "1"
@@ -247,6 +255,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27480880"
-"_sha" "ab8063ec2f02ceec90d67492f638229e97ffe7c8"
-"_size" "4399"
+"_change_number" "27547515"
+"_sha" "e597bfeca701808ba6084c12517273af9c8ffb8b"
+"_size" "4514"
