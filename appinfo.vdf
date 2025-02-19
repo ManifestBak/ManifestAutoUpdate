@@ -8,7 +8,7 @@
 	"osarch" ""
 	"logo" "30f852aed2680b1cd4456b35770d4b3933623fdb"
 	"logo_small" "30f852aed2680b1cd4456b35770d4b3933623fdb_thumb"
-	"icon" "c8ff43f6bc2110cf50c185e2613c3630bfe9f56f"
+	"icon" "38e0811bc02fb438c69ff856b79af8a4073046d9"
 	"clienttga" "53e309319766d8538b948a86973a9ebf48a87897"
 	"clienticon" "839e85b9e98c5198e503967e7410a2d641d548a1"
 	"languages"
@@ -120,9 +120,9 @@
 		{
 			"public"
 			{
-				"gid" "4402907140865931025"
-				"size" "289119091"
-				"download" "187223488"
+				"gid" "4032242422628523570"
+				"size" "289119219"
+				"download" "187223856"
 			}
 		}
 	}
@@ -130,8 +130,8 @@
 	{
 		"public"
 		{
-			"buildid" "17324644"
-			"timeupdated" "1739293776"
+			"buildid" "17419276"
+			"timeupdated" "1739952637"
 		}
 	}
 }
@@ -152,6 +152,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27424885"
-"_sha" "8bde41f0d67197815efcf3b337a215c8db1e239b"
+"_change_number" "27549853"
+"_sha" "9e236b3ea5ab1c04fb89238dfb566540ff92279d"
 "_size" "2458"
