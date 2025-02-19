@@ -180,7 +180,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736449902"
+	"store_asset_mtime" "1738158729"
 	"associations"
 	{
 		"0"
@@ -290,8 +290,8 @@
 		"3" "1670"
 		"4" "1741"
 		"5" "3987"
-		"6" "3859"
-		"7" "1678"
+		"6" "1678"
+		"7" "3859"
 		"8" "1708"
 		"9" "12472"
 		"10" "3810"
@@ -301,8 +301,8 @@
 		"14" "4182"
 		"15" "4711"
 		"16" "4695"
-		"17" "4168"
-		"18" "6310"
+		"17" "6310"
+		"18" "4168"
 		"19" "1717"
 	}
 	"review_score" "8"
@@ -314,7 +314,7 @@
 	"publisher" "Hooded Horse"
 	"homepage" "https://mohawkgames.com/oldworld/"
 	"gamemanualurl" "https://store.steampowered.com/manual/597180/"
-	"listofdlc" "1952840,2261870,2587410,2587420,2587430"
+	"listofdlc" "1952840,2261870,2587410,2587420,2587430,3406150"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -447,15 +447,15 @@
 		{
 			"public"
 			{
-				"gid" "7660325789901918472"
-				"size" "7418806776"
-				"download" "3546170176"
+				"gid" "6936545658286111578"
+				"size" "7500356953"
+				"download" "3575601072"
 			}
 			"test"
 			{
-				"gid" "127303137006613915"
-				"size" "7191575795"
-				"download" "3481316656"
+				"gid" "4624122159611653737"
+				"size" "7512941965"
+				"download" "3570344736"
 			}
 		}
 	}
@@ -470,15 +470,15 @@
 		{
 			"public"
 			{
-				"gid" "2303271012973233657"
-				"size" "7072667997"
-				"download" "3330638464"
+				"gid" "498464841141212940"
+				"size" "7154263679"
+				"download" "3360016240"
 			}
 			"test"
 			{
-				"gid" "5951070271868206346"
-				"size" "6942582529"
-				"download" "3277049648"
+				"gid" "5372864593256406226"
+				"size" "7264314438"
+				"download" "3365839824"
 			}
 		}
 	}
@@ -493,15 +493,15 @@
 		{
 			"public"
 			{
-				"gid" "1091175264036052487"
-				"size" "6897968260"
-				"download" "3197257968"
+				"gid" "1975024166584848582"
+				"size" "7143950268"
+				"download" "3346893760"
 			}
 			"test"
 			{
-				"gid" "218962043357748720"
-				"size" "6697875444"
-				"download" "3132697616"
+				"gid" "3021703249816009915"
+				"size" "7185801291"
+				"download" "3342750256"
 			}
 		}
 	}
@@ -509,14 +509,14 @@
 	{
 		"public"
 		{
-			"buildid" "17018357"
-			"timeupdated" "1736978693"
+			"buildid" "17427867"
+			"timeupdated" "1740000816"
 		}
 		"test"
 		{
-			"buildid" "16941178"
+			"buildid" "17428332"
 			"description" "Testing Branch for the next version"
-			"timeupdated" "1736372228"
+			"timeupdated" "1740000830"
 		}
 	}
 	"privatebranches" "1"
@@ -577,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27015283"
-"_sha" "70da5bda37f205faa2c208e716d8b6932f124ef4"
-"_size" "12535"
+"_change_number" "27562454"
+"_sha" "0cde263e714eeaf62a10ccf94b50c8803454a03d"
+"_size" "12544"
