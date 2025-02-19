@@ -169,7 +169,7 @@
 		"19" "1677"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -204,9 +204,9 @@
 		{
 			"public"
 			{
-				"gid" "5920546946729567974"
-				"size" "2415259048"
-				"download" "1968465248"
+				"gid" "6842369457304341590"
+				"size" "2415568186"
+				"download" "1969122096"
 			}
 			"local"
 			{
@@ -214,14 +214,20 @@
 				"size" "639708466"
 				"download" "186771040"
 			}
+			"test"
+			{
+				"gid" "6842369457304341590"
+				"size" "2415568186"
+				"download" "1969122096"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17309717"
-			"timeupdated" "1739206164"
+			"buildid" "17420956"
+			"timeupdated" "1739961387"
 		}
 		"local"
 		{
@@ -229,6 +235,12 @@
 			"description" "Local Content Server"
 			"lcsrequired" "1"
 			"timeupdated" "1668737126"
+		}
+		"test"
+		{
+			"buildid" "17420956"
+			"description" "测试版"
+			"timeupdated" "1739961115"
 		}
 	}
 	"privatebranches" "1"
@@ -252,6 +264,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27405007"
-"_sha" "958cf24052507fa9b1347703485413d974a49851"
-"_size" "4371"
+"_change_number" "27552096"
+"_sha" "1ab110bd6116b2a365395ddd16554acd0bd3b3c2"
+"_size" "4593"
