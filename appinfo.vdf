@@ -2,7 +2,7 @@
 "common"
 {
 	"name" "HAELE 3D - Feet Poses Lite - Drawing References"
-	"type" "Game"
+	"type" "Application"
 	"icon" "84e8b556965386c2afea9a1f309c82f699e0201a"
 	"clienttga" "85f12dafece7341f48252badf4557ba2bd96a1c9"
 	"clienticon" "c06336e038b1aa03202d35f61a0a412f950a5e72"
@@ -107,6 +107,9 @@
 	{
 		"0" "25"
 		"1" "28"
+		"2" "51"
+		"3" "53"
+		"4" "57"
 	}
 	"category"
 	{
@@ -119,7 +122,6 @@
 		"category_49" "1"
 		"category_18" "1"
 		"category_53" "1"
-		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -286,9 +288,10 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1686686532"
+	"steam_release_date" "1686686520"
 	"community_hub_visible" "1"
 	"gameid" "2378840"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "599"
@@ -390,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "775856889959377092"
-				"size" "2036472644"
-				"download" "1711727360"
+				"gid" "7746323438554664896"
+				"size" "2039971993"
+				"download" "1714533696"
 			}
 		}
 	}
@@ -400,12 +403,12 @@
 	{
 		"public"
 		{
-			"buildid" "17292541"
-			"timeupdated" "1739033972"
+			"buildid" "17428461"
+			"timeupdated" "1740000090"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27380238"
-"_sha" "a745f39a1e6065690dc6329c783c49130308e5e2"
-"_size" "6857"
+"_change_number" "27563382"
+"_sha" "c6a0a12bdcc7efd62ae738439a65fdcb58b44706"
+"_size" "6898"
