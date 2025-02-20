@@ -118,6 +118,8 @@
 	{
 		"category_2" "1"
 		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -174,7 +176,7 @@
 		"17" "4667"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -212,18 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "4033952747876241357"
-				"size" "1082325301"
-				"download" "179048640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ninjaissentest"
-			{
-				"gid" "EBC4CE23A424E1054D8132B93EE889D2"
-				"size" "5A4A1CC2B991BBF568EE81F5EF8F9774"
-				"download" "D3B416F1CA61307FCA2FC8DB82711E99"
+				"gid" "8781219448248237140"
+				"size" "999366997"
+				"download" "179360288"
 			}
 		}
 	}
@@ -231,39 +224,19 @@
 	{
 		"public"
 		{
-			"buildid" "15562271"
-			"timeupdated" "1725240489"
-		}
-		"ninjaissentest"
-		{
-			"buildid" "15804154"
-			"pwdrequired" "1"
-			"timeupdated" "1727155679"
+			"buildid" "17417617"
+			"timeupdated" "1740014275"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "10000000"
 	"maxnumfiles" "500"
-	"ignoreexternalfiles" "1"
-	"hidecloudui" "1"
-	"savefiles"
-	{
-		"0"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "%USERPROFILE%/AppData\\LocalLow\\AsteroidJ\\NinjaIssen\\"
-			"pattern" "*.dat"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
-	}
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25606027"
-"_sha" "3079f4458d964eba5f24149ca383e607cdb61049"
-"_size" "4335"
+"_change_number" "27565298"
+"_sha" "d99d0780c354942b260a1a4d64f1a4288708d514"
+"_size" "3814"
