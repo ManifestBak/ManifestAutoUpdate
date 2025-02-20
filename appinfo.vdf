@@ -285,6 +285,36 @@
 			}
 			"description" "DirectX 12"
 		}
+		"2"
+		{
+			"executable" "FurryAimTrainer.exe"
+			"arguments" "-vulkan"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Vulkan (Best for Proton/Linux)"
+				"german" "Vulkan (am besten für Proton/Linux)"
+				"french" "Vulkan (idéal pour Proton/Linux)"
+				"italian" "Vulkan (migliore per Proton/Linux)"
+				"koreana" "Vulkan(Proton/Linux에 가장 적합)"
+				"spanish" "Vulkan (mejor para Proton/Linux)"
+				"schinese" "Vulkan（最适合 Proton/Linux）"
+				"tchinese" "Vulkan（最適合 Proton/Linux）"
+				"russian" "Vulkan (лучше всего для Proton/Linux)"
+				"japanese" "Vulkan (Proton/Linux に最適)"
+				"portuguese" "Vulkan (melhor para Proton/Linux)"
+				"polish" "Vulkan (najlepszy dla Protonu/Linux)"
+				"brazilian" "Vulkan (melhor para Proton/Linux)"
+				"ukrainian" "Vulkan (найкраще для Proton/Linux)"
+				"latam" "Vulkan (mejor para Proton/Linux)"
+			}
+			"description" "Vulkan (Best for Proton/Linux)"
+		}
 	}
 }
 "depots"
@@ -322,9 +352,9 @@
 		{
 			"public"
 			{
-				"gid" "8122309343832733105"
-				"size" "917469275"
-				"download" "720018432"
+				"gid" "4994464301440426390"
+				"size" "918081939"
+				"download" "720606800"
 			}
 			"censoredstreamermode"
 			{
@@ -338,8 +368,8 @@
 	{
 		"public"
 		{
-			"buildid" "17379725"
-			"timeupdated" "1739656179"
+			"buildid" "17431438"
+			"timeupdated" "1740010877"
 		}
 		"censoredstreamermode"
 		{
@@ -368,6 +398,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27497929"
-"_sha" "ff4c08a6f2335a5ad33a284ff442c2efd605271d"
-"_size" "6493"
+"_change_number" "27564581"
+"_sha" "9e729b3ab92af90f47572e154067fab9fc082b37"
+"_size" "7575"
