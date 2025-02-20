@@ -142,7 +142,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739471240"
+	"store_asset_mtime" "1739959550"
 	"associations"
 	{
 		"0"
@@ -159,6 +159,11 @@
 		{
 			"type" "franchise"
 			"name" "Top Indie Developers"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Clever Trickster"
 		}
 	}
 	"primary_genre" "28"
@@ -248,10 +253,10 @@
 		"5" "4328"
 		"6" "4018"
 		"7" "10235"
-		"8" "3810"
-		"9" "1654"
-		"10" "5923"
-		"11" "4562"
+		"8" "1654"
+		"9" "3810"
+		"10" "4562"
+		"11" "5923"
 		"12" "7332"
 		"13" "4695"
 		"14" "19995"
@@ -262,7 +267,7 @@
 		"19" "4711"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -297,9 +302,9 @@
 		{
 			"public"
 			{
-				"gid" "6393374825615479679"
-				"size" "3025763180"
-				"download" "1984872992"
+				"gid" "6585594573746752314"
+				"size" "3025159250"
+				"download" "1983482064"
 			}
 		}
 	}
@@ -311,8 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "17356941"
-			"timeupdated" "1739476348"
+			"buildid" "17435630"
+			"timeupdated" "1740062864"
 		}
 	}
 	"privatebranches" "1"
@@ -337,6 +342,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27466577"
-"_sha" "27fb761df61b72e10ba7b00ab5ec0278d28582a9"
-"_size" "7608"
+"_change_number" "27576454"
+"_sha" "4e5d854ee86657a4178ea6ddd5f533f655dcb45e"
+"_size" "7680"
