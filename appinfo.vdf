@@ -66,7 +66,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "60d81cc51d83855a5461595ef52d4a94cdb02e4c/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -77,6 +77,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -125,8 +126,19 @@
 				"height_pct" "59.87841899473341"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "1ca02606d3ab090ecacc9adcd73673d4cc83ab67/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "1ca02606d3ab090ecacc9adcd73673d4cc83ab67/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1651624887"
+	"store_asset_mtime" "1739901984"
 	"associations"
 	{
 		"0"
@@ -147,7 +159,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "28"
-		"4" "70"
 	}
 	"category"
 	{
@@ -165,7 +176,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1653519281"
+	"steam_release_date" "1740064966"
 	"community_hub_visible" "1"
 	"gameid" "1985930"
 	"store_tags"
@@ -192,7 +203,7 @@
 		"19" "4486"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -220,9 +231,9 @@
 		{
 			"public"
 			{
-				"gid" "195952571109004928"
-				"size" "1030924648"
-				"download" "492187424"
+				"gid" "3798050722697652987"
+				"size" "853164218"
+				"download" "432262448"
 			}
 		}
 	}
@@ -230,12 +241,12 @@
 	{
 		"public"
 		{
-			"buildid" "9751419"
-			"timeupdated" "1666159131"
+			"buildid" "17427771"
+			"timeupdated" "1740065519"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24981165"
-"_sha" "216cad63b3951a2bcdd3d4374c993c1270091cc0"
-"_size" "4285"
+"_change_number" "27577088"
+"_sha" "cdcab963478fce9c8095331d7f2e5d1dcf626f63"
+"_size" "4579"
