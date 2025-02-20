@@ -1,0 +1,249 @@
+"appid" "1282930"
+"common"
+{
+	"name" "Volta-X"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "75c7bb3705571a541e7f7199b0b5ab834bccb2fa"
+	"clienticon" "3ed750db915b474e37298b4acc93af3ac3c32f2b"
+	"icon" "9f7de62ef85fd435f3e339bdda5a9be409d51954"
+	"logo" "ca98aa775325fee105bf4095e31baa638fd72dbd"
+	"logo_small" "ca98aa775325fee105bf4095e31baa638fd72dbd_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1282930_eula_0"
+			"name" "Volta-X EULA"
+			"url" "https://store.steampowered.com//eula/1282930_eula_0"
+		}
+	}
+	"app_retired_publisher_request" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "47.32246798603026"
+			"height_pct" "53.413333333333334"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.32246798603026"
+				"height_pct" "53.413333333333334"
+			}
+		}
+	}
+	"store_asset_mtime" "1624046279"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GungHo Online Entertainment America, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GungHo Online Entertainment America, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1597248081"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1282930"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "19"
+		"3" "599"
+		"4" "1676"
+		"5" "3942"
+		"6" "4252"
+		"7" "17305"
+		"8" "7332"
+		"9" "4821"
+		"10" "6730"
+		"11" "1775"
+		"12" "4195"
+		"13" "4305"
+		"14" "5752"
+		"15" "3859"
+		"16" "4182"
+		"17" "12472"
+		"18" "3993"
+		"19" "3813"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "GungHo Online Entertainment America, Inc."
+	"publisher" "GungHo Online Entertainment America, Inc."
+	"homepage" "https://www.volta-x.com/"
+}
+"config"
+{
+	"installdir" "Volta-X"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "teamwork.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1282931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2374782169705430008"
+				"size" "1600655953"
+				"download" "689144768"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,japanese"
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6909728"
+			"timeupdated" "1624387453"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "300419dec58f9cfc898ecefba52415ddfbb88600"
+"_size" "4133"
