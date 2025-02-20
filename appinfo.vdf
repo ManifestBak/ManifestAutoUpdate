@@ -15,6 +15,55 @@
 		"french" "Gérant de Motel Simulateur"
 		"schinese" "汽车旅馆经理模拟器"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1736553600"
+		"tested_build_id" "16366826"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -86,7 +135,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1723297191"
+	"store_asset_mtime" "1740067122"
 	"associations"
 	{
 		"0"
@@ -165,17 +214,18 @@
 		"6" "84"
 		"7" "3810"
 		"8" "4166"
-		"9" "4175"
-		"10" "1643"
+		"9" "1643"
+		"10" "4175"
 		"11" "4182"
 		"12" "6691"
 		"13" "3839"
 		"14" "597"
 		"15" "5350"
 		"16" "4191"
+		"17" "3859"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -219,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "7214004779495830347"
-				"size" "2503090814"
-				"download" "2357502320"
+				"gid" "8572295079652421616"
+				"size" "2833471404"
+				"download" "2684049152"
 			}
 		}
 	}
@@ -229,12 +279,12 @@
 	{
 		"public"
 		{
-			"buildid" "16366826"
-			"timeupdated" "1731337565"
+			"buildid" "17439267"
+			"timeupdated" "1740067964"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26141863"
-"_sha" "0567f86e3018c92017aff9b22818c605ccc2ddc7"
-"_size" "3525"
+"_change_number" "27577861"
+"_sha" "c501089b7d16710adf207641d555f92ba954e85d"
+"_size" "4784"
