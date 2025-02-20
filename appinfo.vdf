@@ -247,21 +247,21 @@
 		"6" "3964"
 		"7" "1775"
 		"8" "3859"
-		"9" "1751"
-		"10" "5984"
+		"9" "1743"
+		"10" "1751"
 		"11" "7368"
-		"12" "4182"
-		"13" "1743"
+		"12" "5984"
+		"13" "4182"
 		"14" "1756"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "85"
 }
 "extended"
 {
 	"developer" "FRENCH-BREAD"
 	"publisher" "Arc System Works"
-	"listofdlc" "2353330,2441370,2677080"
+	"listofdlc" "2353330,2441370,2677080,2677090"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -309,36 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "7455267899019706898"
-				"size" "17452209634"
-				"download" "3743266192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"development_s"
-			{
-				"gid" "4650DDA8AA292B423C36FD92FA04598A"
-				"size" "909385B9667F116B7B1FFBA564575D58"
-				"download" "CD0A6001E54544B917387AC1309BBF74"
-			}
-			"development"
-			{
-				"gid" "BFCB4A26815103B80509810CA1938FE8"
-				"size" "14C83CA8EBB65F86B710A8D210300B58"
-				"download" "3D1D701EE66F725B91DE4CC5AFBCAA8C"
-			}
-			"development2"
-			{
-				"gid" "4D08E9EF52466410F990E653092D96E0"
-				"size" "105D74F0AED37ABB3C972C79EB18698C"
-				"download" "AAD6D8A3CD536AFD94BEBBAFF9B57336"
-			}
-			"test_dev"
-			{
-				"gid" "3FEE7096A649BBABCBEE72162FD404C5"
-				"size" "D97C27FD3E72A0EC296C544103720A5D"
-				"download" "28A87E9CC02E0F4C600E682A5ABD74E8"
+				"gid" "5329241532373587376"
+				"size" "18013436405"
+				"download" "3866987664"
 			}
 		}
 	}
@@ -346,34 +319,11 @@
 	{
 		"public"
 		{
-			"buildid" "15754641"
-			"timeupdated" "1727660879"
-		}
-		"development_s"
-		{
-			"buildid" "13819190"
-			"pwdrequired" "1"
-			"timeupdated" "1711101322"
-		}
-		"development"
-		{
-			"buildid" "15754641"
-			"pwdrequired" "1"
-			"timeupdated" "1727679576"
-		}
-		"development2"
-		{
-			"buildid" "15871388"
-			"pwdrequired" "1"
-			"timeupdated" "1727676699"
-		}
-		"test_dev"
-		{
-			"buildid" "14476030"
-			"pwdrequired" "1"
-			"timeupdated" "1722511254"
+			"buildid" "17303504"
+			"timeupdated" "1740015273"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -394,3 +344,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27565482"
+"_sha" "8d24ff1a249bb0905017fe4c64217f53f76e969d"
+"_size" "6299"
