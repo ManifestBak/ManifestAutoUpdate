@@ -320,6 +320,15 @@
 }
 "depots"
 {
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"1763251"
 	{
 		"config"
@@ -330,9 +339,9 @@
 		{
 			"public"
 			{
-				"gid" "5047762399523448486"
-				"size" "4835915473"
-				"download" "2274958544"
+				"gid" "8979067344522923569"
+				"size" "4837434354"
+				"download" "2275465232"
 			}
 		}
 	}
@@ -341,8 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "17385843"
-			"timeupdated" "1739810000"
+			"buildid" "17430810"
+			"timeupdated" "1740069221"
 		}
 	}
 	"privatebranches" "1"
@@ -366,6 +375,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27519305"
-"_sha" "3a8e574a761a53dd30fb2274cf80246520ad3e9a"
-"_size" "7373"
+"_change_number" "27578281"
+"_sha" "b6b0503727fc237fb10d5a874a437bbc794b8ea9"
+"_size" "7490"
