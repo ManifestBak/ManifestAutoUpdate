@@ -1,12 +1,14 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-20 16:27:51
+## 更新时间：2025-02-20 16:31:24
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1987480 | 勇者与亡灵之都| Game |
-| 1963570 | Cuisineer 猫娘小厨| Game |
-| 2308630 | 晨曦族人| Game |
-| 2271930 | 落日余晖| Game |
-| 3181300 | 尖叫声| Game |
-| 2358720 | 黑神话：悟空| Game |
-| 582660 | Black Desert| Game |
+| 1583300 | Cute Girls: Find Secrets| Game |
+| 1588070 | DuckMan| Game |
+| 1604250 | Tortuga - A Pirate's Tale| Game |
+| 1632500 | DOOMER'S ADVENTURE| Game |
+| 2748380 | Sovereign Syndicate Digital Artbook| DLC |
+| 1688750 | DAN☆SING| Application |
+| 1702740 | 看谁先死| Game |
+| 1716120 | Monster Rancher 1 & 2 DX| Game |
+| 1759350 | Space Trash Scavenger| Game |
