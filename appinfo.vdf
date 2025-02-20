@@ -93,6 +93,48 @@
 			"height_pct" "50.69444444444444"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.761024431954056"
+				"height_pct" "50.69444444444444"
+			}
+		}
+	}
 	"store_asset_mtime" "1685963593"
 	"associations"
 	{
@@ -202,14 +244,14 @@
 		"5" "1646"
 		"6" "3959"
 		"7" "1774"
-		"8" "4231"
-		"9" "1716"
+		"8" "1716"
+		"9" "4231"
 		"10" "4191"
-		"11" "1697"
-		"12" "1662"
-		"13" "4791"
-		"14" "6426"
-		"15" "19"
+		"11" "4791"
+		"12" "1697"
+		"13" "1662"
+		"14" "19"
+		"15" "6426"
 		"16" "597"
 		"17" "5125"
 		"18" "4195"
@@ -271,18 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3709019845918031691"
-				"size" "459402856"
-				"download" "229349760"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "0B792B51C0D57B2F99127784223A8113"
-				"size" "C1C52D43162CCABA3A529B0436EF01F2"
-				"download" "CE67B1E73373D35BB90F293DE6F4BB9D"
+				"gid" "8700383633832514776"
+				"size" "459292732"
+				"download" "229274272"
 			}
 		}
 	}
@@ -296,18 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "7263671582497882355"
-				"size" "475033357"
-				"download" "235752288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"private"
-			{
-				"gid" "DAABF59403402130A8531D344192CA48"
-				"size" "516B62D7B2821513922122DBB03ACDF0"
-				"download" "11EB7F13C57B4E2610E2AED512720A0D"
+				"gid" "7309112432371909056"
+				"size" "475031957"
+				"download" "235752848"
 			}
 		}
 	}
@@ -316,16 +340,11 @@
 	{
 		"public"
 		{
-			"buildid" "14965737"
-			"timeupdated" "1720449602"
-		}
-		"private"
-		{
-			"buildid" "14965737"
-			"pwdrequired" "1"
-			"timeupdated" "1720449137"
+			"buildid" "17440850"
+			"timeupdated" "1740063539"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -375,81 +394,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"spanish"
-		{
-			"tokens"
-			{
-				"#menu" "En los Menús"
-				"#standard" "Combatiendo a la Horda - Oleada %value_0% - Nivel %value_1%"
-				"#standardextended" "%value_0% - Oleada %value_1% - Nivel %value_2%"
-			}
-		}
-		"english"
-		{
-			"tokens"
-			{
-				"#menu" "At the Menus"
-				"#standard" "Fighting the Horde - Wave %value_0% - Level %value_1%"
-				"#standardextended" "%value_0% - Wave %value_1% - Level %value_2%"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#menu" "Im Menü"
-				"#standard" "Kampf gegen die Horde - Welle %value_0% - Level %value_1%"
-				"#standardextended" "%value_0% - Welle %value_1% - Level %value_2%"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#menu" "Menu"
-				"#standard" "Combat contre la horde - Vague %value_0% - Niveau %value_1%"
-				"#standardextended" "%value_0% - Vague %value_1% - Niveau %value_2%"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#menu" "メニュー画面"
-				"#standard" "破滅の軍勢と交戦中 - ウェーブ %value_0% - レベル %value_1%"
-				"#standardextended" "%value_0% - ウェーブ %value_1% - レベル %value_2%"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#menu" "在主菜单"
-				"#standard" "迎击敌军 - 第%value_0%波 - 等级%value_1%"
-				"#standardextended" "%value_0% - 第%value_1%波 - 等级%value_2%"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#menu" "Nos menus"
-				"#standard" "Enfrentando a horda — Leva %value_0% — Nível %value_1%"
-				"#standardextended" "%value_0% — Leva %value_1% — Nível %value_2%"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#menu" "Bij de Menu\'s"
-				"#standard" "De Horde aan het Vechten - Golf %value_0% - Level %value_1%"
-				"#standardextended" "%value_0% - Golf %value_1% - Level %value_2%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "27576440"
+"_sha" "8a89d3edef6ac6507d7411074ab5318bfb69dc47"
+"_size" "6599"
