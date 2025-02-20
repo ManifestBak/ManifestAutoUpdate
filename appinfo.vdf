@@ -24,6 +24,55 @@
 		"3" "5"
 	}
 	"restricted_countries" "CN,DE"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729814400"
+		"tested_build_id" "15927293"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -108,7 +157,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727772783"
+	"store_asset_mtime" "1739412083"
 	"associations"
 	{
 		"0"
@@ -177,8 +226,8 @@
 		"0" "12095"
 		"1" "4434"
 		"2" "9130"
-		"3" "24904"
-		"4" "5611"
+		"3" "5611"
+		"4" "24904"
 		"5" "1742"
 		"6" "21"
 		"7" "3834"
@@ -195,8 +244,8 @@
 		"18" "5708"
 		"19" "3964"
 	}
-	"review_score" "7"
-	"review_percentage" "86"
+	"review_score" "8"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -285,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "7557991672241038091"
-				"size" "729307067"
-				"download" "607349104"
+				"gid" "3167314207695817797"
+				"size" "721363149"
+				"download" "599989440"
 			}
 		}
 	}
@@ -295,8 +344,8 @@
 	{
 		"public"
 		{
-			"buildid" "15927293"
-			"timeupdated" "1728031174"
+			"buildid" "17363858"
+			"timeupdated" "1739523091"
 		}
 	}
 }
@@ -318,3 +367,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27475636"
+"_sha" "a1b3476a1a766fa66644cda66000f8aefa99fb37"
+"_size" "6666"
