@@ -199,9 +199,9 @@
 		{
 			"public"
 			{
-				"gid" "4461516815862163628"
-				"size" "583953234"
-				"download" "402319152"
+				"gid" "7571508626310243793"
+				"size" "583968017"
+				"download" "402357168"
 			}
 			"test"
 			{
@@ -216,8 +216,8 @@
 	{
 		"public"
 		{
-			"buildid" "17406935"
-			"timeupdated" "1739881216"
+			"buildid" "17436890"
+			"timeupdated" "1740044580"
 		}
 		"test"
 		{
@@ -231,8 +231,6 @@
 {
 	"quota" "1000000000"
 	"maxnumfiles" "8000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 	"sync_while_suspended" "1"
 	"savefiles"
 	{
@@ -253,6 +251,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27533871"
-"_sha" "9f65a88a19036fac95831fa700cbcc658049ce37"
-"_size" "5215"
+"_change_number" "27571183"
+"_sha" "74cb7bd3e4312b41d23304abf61c32e6c5d8821b"
+"_size" "5165"
