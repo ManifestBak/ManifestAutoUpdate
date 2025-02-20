@@ -203,9 +203,15 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1587649484"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "470310"
 	"store_tags"
@@ -266,8 +272,9 @@
 }
 "depots"
 {
-	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"baselanguages" "english,koreana,schinese,tchinese,russian,japanese"
 	"hasdepotsindlc" "0"
+	"workshopdepot" "470310"
 	"228983"
 	{
 		"config"
@@ -306,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "1259906805137382769"
-				"size" "9259424435"
-				"download" "8981849984"
+				"gid" "918969431089975922"
+				"size" "9260035327"
+				"download" "8981946400"
 			}
 		}
 	}
@@ -436,13 +443,30 @@
 			}
 		}
 	}
-	"workshopdepot" "470310"
+	"470317"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1221415272628232678"
+				"size" "488"
+				"download" "480"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17277151"
-			"timeupdated" "1738911514"
+			"buildid" "17437649"
+			"timeupdated" "1740048440"
 		}
 	}
 	"privatebranches" "1"
@@ -473,6 +497,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27359608"
-"_sha" "72c9cf33be69d972524b3012da4170d4dcde7c06"
-"_size" "8112"
+"_change_number" "27572224"
+"_sha" "ee2f0dada4ea5e187c964f4a9e1779e266f766fe"
+"_size" "8452"
