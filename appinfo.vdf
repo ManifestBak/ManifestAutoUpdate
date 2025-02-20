@@ -58,7 +58,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "78b98a49b0216521e88f83a3489ae0b84ac4e78d/capsule_231x87.jpg"
+		"english" "393e601c05ec3e6c05354307e0b5daf37bcf95d7/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -84,11 +84,11 @@
 		{
 			"image"
 			{
-				"english" "dcc2e5759aff3623367a84a6d38c83d775f9ce59/library_600x900.jpg"
+				"english" "28ada1a20bd529b1874b3b0b6cefadb62fa15865/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "dcc2e5759aff3623367a84a6d38c83d775f9ce59/library_600x900_2x.jpg"
+				"english" "28ada1a20bd529b1874b3b0b6cefadb62fa15865/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -130,15 +130,15 @@
 		{
 			"image"
 			{
-				"english" "196215c00cfd097891afd10f83fdf06a439fbbb5/library_header.jpg"
+				"english" "fd00a6500f42ae14359ed184b03adaf295b9d363/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "196215c00cfd097891afd10f83fdf06a439fbbb5/library_header_2x.jpg"
+				"english" "fd00a6500f42ae14359ed184b03adaf295b9d363/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1736177895"
+	"store_asset_mtime" "1739784903"
 	"associations"
 	{
 		"0"
@@ -282,7 +282,7 @@
 		"5"
 		{
 			"executable" "GZWClientEAC.exe"
-			"arguments" "-MatchmakingGroup=playtest -NakamaEndpoint=MFGReleaseNightly"
+			"arguments" "-MatchmakingGroup=playtest -NakamaEndpoint=MFGMainNightly"
 			"type" "default"
 			"config"
 			{
@@ -478,6 +478,15 @@
 				"betakey" "recording"
 			}
 		}
+		"34"
+		{
+			"executable" "GZWClientEAC.exe"
+			"arguments" "-NakamaEndpoint=MFGReleaseLatest -matchmakinggroup=sgdn"
+			"config"
+			{
+				"betakey" "majky"
+			}
+		}
 	}
 	"uselaunchcommandline" "1"
 }
@@ -512,15 +521,15 @@
 		{
 			"public"
 			{
-				"gid" "316264274888941143"
-				"size" "22815286945"
-				"download" "18393246784"
+				"gid" "3642184174242646995"
+				"size" "22813358396"
+				"download" "18393218752"
 			}
 			"public-experimental"
 			{
-				"gid" "316264274888941143"
-				"size" "22815286945"
-				"download" "18393246784"
+				"gid" "3642184174242646995"
+				"size" "22813358396"
+				"download" "18393218752"
 			}
 		}
 	}
@@ -528,19 +537,19 @@
 	{
 		"public"
 		{
-			"buildid" "17158659"
-			"timeupdated" "1738570776"
+			"buildid" "17402401"
+			"timeupdated" "1740042415"
 		}
 		"public-experimental"
 		{
-			"buildid" "17158659"
+			"buildid" "17402401"
 			"description" "Public testing"
-			"timeupdated" "1738138606"
+			"timeupdated" "1739869423"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27285630"
-"_sha" "aca90bac079ef81271e4ab6e8c0f658ba4fc869b"
-"_size" "10696"
+"_change_number" "27571230"
+"_sha" "000dd2e7beb35693334269f09587ca6a2bf1623c"
+"_size" "10874"
