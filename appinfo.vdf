@@ -38,6 +38,10 @@
 			"version" "7"
 		}
 	}
+	"name_localized"
+	{
+		"schinese" "天国：拯救2"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -93,6 +97,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "Kingdom Come: Deliverance II"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -173,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738678285"
+	"store_asset_mtime" "1739812077"
 	"associations"
 	{
 		"0"
@@ -210,6 +215,7 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -298,6 +304,8 @@
 	}
 	"steam_release_date" "1738683254"
 	"steam_deck_blog_url" "https://steamcommunity.com/app/1771300/eventcomments/601894977920845645/"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/kingdom-come-deliverance-ii\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1771300"
@@ -312,8 +320,8 @@
 		"6" "1742"
 		"7" "21"
 		"8" "19"
-		"9" "3993"
-		"10" "44868"
+		"9" "44868"
+		"10" "3993"
 		"11" "4853"
 		"12" "3987"
 		"13" "4608"
@@ -324,6 +332,8 @@
 		"18" "4106"
 		"19" "4191"
 	}
+	"review_score" "8"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -462,9 +472,9 @@
 		{
 			"public"
 			{
-				"gid" "6561945883653029789"
-				"size" "91647964"
-				"download" "25088992"
+				"gid" "4181480484336130865"
+				"size" "91656934"
+				"download" "25100752"
 			}
 		}
 	}
@@ -478,9 +488,9 @@
 		{
 			"public"
 			{
-				"gid" "2316074880399616790"
-				"size" "80461703038"
-				"download" "77164324896"
+				"gid" "5183351843959723849"
+				"size" "80295199959"
+				"download" "77085915968"
 			}
 		}
 	}
@@ -495,9 +505,9 @@
 		{
 			"public"
 			{
-				"gid" "322623209051391966"
-				"size" "554563777"
-				"download" "382949184"
+				"gid" "8783267104215215793"
+				"size" "554603201"
+				"download" "382891520"
 			}
 		}
 	}
@@ -607,8 +617,8 @@
 	{
 		"public"
 		{
-			"buildid" "17149332"
-			"timeupdated" "1738525012"
+			"buildid" "17407885"
+			"timeupdated" "1740067448"
 		}
 	}
 	"privatebranches" "1"
@@ -633,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27309453"
-"_sha" "f87e8365a3ee46cc68f82725151f32c590db7760"
-"_size" "10966"
+"_change_number" "27577707"
+"_sha" "d0e193367269d5816db9f282794b4c78c550dd16"
+"_size" "11288"
