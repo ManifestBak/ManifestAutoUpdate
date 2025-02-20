@@ -136,6 +136,11 @@
 			"type" "publisher"
 			"name" "Team D-13"
 		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Bigmode"
+		}
 	}
 	"primary_genre" "1"
 	"genres"
@@ -184,8 +189,8 @@
 		"13" "4791"
 		"14" "5125"
 		"15" "4711"
-		"16" "4004"
-		"17" "4758"
+		"16" "4758"
+		"17" "4004"
 		"18" "5547"
 		"19" "1759"
 	}
@@ -202,7 +207,7 @@
 }
 "config"
 {
-	"installdir" "Monolith"
+	"installdir" "Star of Providence"
 	"launch"
 	{
 		"0"
@@ -216,10 +221,10 @@
 		"1"
 		{
 			"executable" "run.sh"
-			"type" "none"
 			"config"
 			{
 				"oslist" "linux"
+				"betakey" "default"
 			}
 		}
 		"2"
@@ -256,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "849176818137810173"
-				"size" "75594114"
-				"download" "45706800"
+				"gid" "4813190094125686645"
+				"size" "227041192"
+				"download" "110153280"
 			}
 			"legacy"
 			{
@@ -266,32 +271,11 @@
 				"size" "104002540"
 				"download" "72624832"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"legacyrotp"
 			{
-				"gid" "469DF75AEFCBBABC12225E1265496635"
-				"size" "E04D358A0526D4DF98DCF2B4F4C5A822"
-				"download" "11BEEA582D24D7FB45DF30303DF7BDB8"
-			}
-			"beta2"
-			{
-				"gid" "B1AEDBA0A1B08D722C098F2709C69196"
-				"size" "5070C721DF40747A11856A09263E7545"
-				"download" "BD3A46C47D5C98FA4C740535FAA5FE93"
-			}
-			"rebrand_test"
-			{
-				"gid" "16CC40C56F55A771B496068E05827C51"
-				"size" "127753108D00ACC24B71DEAF99FF0C2D"
-				"download" "5E2275E14FA6534EDB5C72599ECD33EC"
-			}
-			"qa_testing"
-			{
-				"gid" "B02DDD5A2FF888F63990654CC7F212FE"
-				"size" "90216BBF87AB4E520B3A094C635EAF67"
-				"download" "084BBE42F5A88F4CBD3CC08812D1517E"
+				"gid" "849176818137810173"
+				"size" "75594114"
+				"download" "45706800"
 			}
 		}
 	}
@@ -315,32 +299,11 @@
 				"size" "31677866"
 				"download" "23133824"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
+			"legacyrotp"
 			{
-				"gid" "0ADADB7ED4A6AD4174215BCB8F4AB3F0"
-				"size" "B86B2FC6307DF2BDE77B0B511309C458"
-				"download" "34E81A687363376B86A0DA6D3257B8B4"
-			}
-			"beta2"
-			{
-				"gid" "1DF1F885BFD1EE7379A82DE5BC863FA2"
-				"size" "AC342BF110581C4F31853DE41C4BB84C"
-				"download" "B970DD6BB3DEEB09D2D942FAAAA24116"
-			}
-			"rebrand_test"
-			{
-				"gid" "2F62C6739FEC06C9F20B74A213273BEF"
-				"size" "EAAC5B9968510352D94515CD09AD9A21"
-				"download" "3DF3097323B10B44B81607008427274A"
-			}
-			"qa_testing"
-			{
-				"gid" "DBE99FD6A5E999282DD5C376474E1463"
-				"size" "D78562C9C1E58BDFB6215FF927E8AFBA"
-				"download" "E17E92D29F16A6733BD6F4676FAC285C"
+				"gid" "8714862893871944277"
+				"size" "56420443"
+				"download" "41903584"
 			}
 		}
 	}
@@ -348,20 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "12043418"
-			"timeupdated" "1693147538"
-		}
-		"beta"
-		{
-			"buildid" "12756022"
-			"pwdrequired" "1"
-			"timeupdated" "1700535480"
-		}
-		"beta2"
-		{
-			"buildid" "12756022"
-			"pwdrequired" "1"
-			"timeupdated" "1700535490"
+			"buildid" "17442943"
+			"timeupdated" "1740072115"
 		}
 		"legacy"
 		{
@@ -369,22 +320,21 @@
 			"description" "Formerly After The End"
 			"timeupdated" "1692647878"
 		}
-		"rebrand_test"
+		"legacyrotp"
 		{
-			"buildid" "11995242"
-			"pwdrequired" "1"
-			"timeupdated" "1692645956"
-		}
-		"qa_testing"
-		{
-			"buildid" "15831522"
-			"pwdrequired" "1"
-			"timeupdated" "1727323161"
+			"buildid" "12043418"
+			"description" "If you want to play ROTP again."
+			"timeupdated" "1740063463"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
 	"quota" "1000000"
 	"maxnumfiles" "50"
 }
+"_missing_token" "False"
+"_change_number" "27579830"
+"_sha" "a41f5d2f0e87475200f81f69fd281e716154e73d"
+"_size" "5897"
