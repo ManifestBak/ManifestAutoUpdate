@@ -1,21 +1,16 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-20 18:16:48
+## 更新时间：2025-02-20 18:45:52
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2409260 | Mannequin| Game |
-| 2417150 | Smiling Girls| Game |
-| 2450540 | Mango's Wonderland| Game |
-| 2454570 | Race of Life - Act 1| Game |
-| 2479320 | 青蛙农场：幸存者| Game |
-| 2479810 | Gray Zone Warfare| Game |
-| 252530 | OMSI 2| Game |
-| 2584340 | Gabenwood 2: 99 Hidden Euros| Game |
-| 24010 | Train Simulator Classic 2024| Game |
-| 2631610 | 口袋迷你高尔夫| Game |
-| 2634950 | 首都高赛车| Game |
-| 270010 | Time Rifters| Game |
+| 1172620 | Sea of Thieves| Game |
+| 1882240 | Forgotten Realms: The Archives - Collection One| Game |
+| 1407200 | World of Tanks| Game |
+| 1380910 | Stardeus| Game |
+| 2674440 | DLC：后汉稽异录•廖豪传| DLC |
 | 3060960 | 皇帝与社稷 - 支持者包| DLC |
-| 2716940 | 战斗修女蕾雅| Game |
-| 2720620 | One More Night| Game |
-| 2730530 | 协律01：新生活| Game |
+| 3167550 | 动物栏：桌面牧场| Game |
+| 3395140 | 小小侠客模拟器| Game |
+| 505740 | Eximius: Seize the Frontline| Game |
+| 470310 | 纷争终结者: 被遗弃的孩子们| Game |
+| 669330 | 钢铁指挥官| Game |
