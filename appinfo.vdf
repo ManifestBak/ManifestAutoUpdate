@@ -255,14 +255,14 @@
 		"2" "3843"
 		"3" "3859"
 		"4" "1685"
-		"5" "1702"
-		"6" "7332"
+		"5" "7332"
+		"6" "1702"
 		"7" "4182"
 		"8" "21"
 		"9" "122"
 		"10" "3978"
-		"11" "4106"
-		"12" "1681"
+		"11" "1681"
+		"12" "4106"
 		"13" "492"
 		"14" "1659"
 		"15" "10235"
@@ -272,7 +272,7 @@
 		"19" "5395"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -293,21 +293,6 @@
 				"oslist" "windows"
 			}
 		}
-		"1"
-		{
-			"executable" "IFSS.exe"
-			"arguments" "-Beta"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-			}
-			"description_loc"
-			{
-				"english" "4-Player Beta Build (Unstable)"
-			}
-			"description" "4-Player Beta Build (Unstable)"
-		}
 		"2"
 		{
 			"executable" "IFSS.exe"
@@ -323,21 +308,6 @@
 				"english" "4-Player Beta Build (Unstable)"
 			}
 			"description" "4-Player Beta Build (Unstable)"
-		}
-		"3"
-		{
-			"executable" "IFSS_Beta.exe"
-			"config"
-			{
-				"oslist" "windows"
-				"osarch" "64"
-				"betakey" "ifsunsets-dev-testing\t"
-			}
-			"description_loc"
-			{
-				"english" "Test"
-			}
-			"description" "Test"
 		}
 	}
 }
@@ -371,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "7158353223955280925"
-				"size" "22037013133"
-				"download" "21220895808"
+				"gid" "2281126701625351516"
+				"size" "19767339005"
+				"download" "19024668880"
 			}
 		}
 	}
@@ -382,8 +352,8 @@
 	{
 		"public"
 		{
-			"buildid" "17188148"
-			"timeupdated" "1738297950"
+			"buildid" "17433218"
+			"timeupdated" "1740033916"
 		}
 	}
 	"privatebranches" "1"
@@ -408,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27247790"
-"_sha" "8fb540d07fd527ec2c55afeec55cb1a394ffea30"
-"_size" "8592"
+"_change_number" "27568594"
+"_sha" "40d717a897183aad4fb91b1004246e98df4d0a93"
+"_size" "8071"
