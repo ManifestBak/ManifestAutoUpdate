@@ -165,6 +165,7 @@
 		"category_2" "1"
 		"category_1" "1"
 		"category_9" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -177,18 +178,19 @@
 		}
 	}
 	"steam_release_date" "1740064966"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1985930"
 	"store_tags"
 	{
 		"0" "1721"
 		"1" "3978"
-		"2" "493"
-		"3" "4345"
-		"4" "1662"
-		"5" "4064"
-		"6" "19"
-		"7" "21"
+		"2" "4345"
+		"3" "1662"
+		"4" "4064"
+		"5" "19"
+		"6" "21"
+		"7" "493"
 		"8" "599"
 		"9" "4342"
 		"10" "769306"
@@ -218,7 +220,7 @@
 	{
 		"0"
 		{
-			"executable" "TheBackrooms1998.exe"
+			"executable" "The Backrooms 1998.exe"
 			"type" "default"
 		}
 	}
@@ -231,9 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "3798050722697652987"
-				"size" "853164218"
-				"download" "432262448"
+				"gid" "9211819569239486653"
+				"size" "853177866"
+				"download" "432264960"
 			}
 		}
 	}
@@ -241,12 +243,12 @@
 	{
 		"public"
 		{
-			"buildid" "17427771"
-			"timeupdated" "1740065519"
+			"buildid" "17444894"
+			"timeupdated" "1740082425"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27577088"
-"_sha" "cdcab963478fce9c8095331d7f2e5d1dcf626f63"
-"_size" "4579"
+"_change_number" "27582057"
+"_sha" "f46be00f5c5a7521ba3f72e6d69af3a911c121f6"
+"_size" "4636"
