@@ -172,6 +172,8 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -260,15 +262,6 @@
 				"download" "983303280"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"preview"
-			{
-				"gid" "EB4C785E8DBD1978A9F65D167D91058E"
-				"size" "F35C625879B0C64925067D593A941CD4"
-				"download" "276D5F1580088727824EFD1178216C69"
-			}
-		}
 	}
 	"3001080"
 	{
@@ -279,14 +272,11 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"preview"
+			"public"
 			{
-				"gid" "4D3924B51F83195F953D069332638630"
-				"size" "6A1B8151A4A0632446FBD894EF902489"
-				"download" "FBE70A21C1EC2B5E9F8B47C3997D6135"
+				"gid" "3010143146248223574"
+				"size" "157000642"
+				"download" "145935328"
 			}
 		}
 	}
@@ -295,14 +285,13 @@
 	{
 		"public"
 		{
-			"buildid" "10545228"
-			"timeupdated" "1676366541"
-		}
-		"preview"
-		{
 			"buildid" "14700898"
-			"pwdrequired" "1"
-			"timeupdated" "1718255077"
+			"timeupdated" "1732808788"
 		}
 	}
+	"privatebranches" "1"
 }
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "141ffe281194515425060e1aa06ee0e1d9e9da07"
+"_size" "5066"
