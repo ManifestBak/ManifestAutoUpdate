@@ -220,7 +220,7 @@
 		}
 		"1"
 		{
-			"executable" "run.sh"
+			"executable" "Monolith"
 			"config"
 			{
 				"oslist" "linux"
@@ -260,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "2435010471116105586"
-				"size" "226779528"
-				"download" "109820576"
+				"gid" "244925557092633640"
+				"size" "226780552"
+				"download" "109819072"
 			}
 			"legacy"
 			{
@@ -288,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "3702889249524024707"
-				"size" "181085104"
-				"download" "109369072"
+				"gid" "5274387089036003040"
+				"size" "179024518"
+				"download" "109086880"
 			}
 			"legacy"
 			{
@@ -310,8 +310,8 @@
 	{
 		"public"
 		{
-			"buildid" "17459502"
-			"timeupdated" "1740163122"
+			"buildid" "17461191"
+			"timeupdated" "1740173757"
 		}
 		"legacy"
 		{
@@ -334,6 +334,6 @@
 	"maxnumfiles" "50"
 }
 "_missing_token" "False"
-"_change_number" "27602261"
-"_sha" "3b20ca75229f4c708617adb8b5b4251fca6c1aa8"
-"_size" "5873"
+"_change_number" "27603467"
+"_sha" "b79785d29f8715f0e8f7f6dbba81bcc8a7fa4891"
+"_size" "5874"
