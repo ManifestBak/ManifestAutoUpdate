@@ -95,6 +95,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -172,7 +173,7 @@
 		"19" "5411"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -226,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "7047473015988920551"
-				"size" "294019054"
-				"download" "186536224"
+				"gid" "5010409970239361477"
+				"size" "294060409"
+				"download" "186559360"
 			}
 		}
 	}
@@ -242,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "7536794935207903543"
-				"size" "299887541"
-				"download" "188874800"
+				"gid" "7378606539516177702"
+				"size" "299915403"
+				"download" "188894432"
 			}
 		}
 	}
@@ -252,18 +253,44 @@
 	{
 		"public"
 		{
-			"buildid" "17368142"
-			"timeupdated" "1739544321"
+			"buildid" "17456391"
+			"timeupdated" "1740148203"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "10000000"
+	"maxnumfiles" "5"
+	"sync_while_suspended" "1"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Business Goose Studios\\Sizeable"
+			"pattern" "sizeable-save-file.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Business Goose Studios/Sizeable"
+			"pattern" "sizeable-save-file.txt"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "27481362"
-"_sha" "81bce57983e87a598d359195d4aa10805967c2b2"
-"_size" "4046"
+"_change_number" "27598226"
+"_sha" "1153236ba8d9bb2753267474e83a3219fb71308f"
+"_size" "4539"
