@@ -10,6 +10,7 @@
 	"logo" "70e8f2616790285f4152a0f01179e41c23e07735"
 	"logo_small" "70e8f2616790285f4152a0f01179e41c23e07735_thumb"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Forsaken Isle"
 	"small_capsule"
 	{
@@ -126,7 +127,7 @@
 		"13" "1681"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -207,24 +208,15 @@
 		{
 			"public"
 			{
-				"gid" "901591814568852370"
-				"size" "107344473"
-				"download" "50540496"
+				"gid" "643824226171073075"
+				"size" "137774581"
+				"download" "68471072"
 			}
 			"unstable"
 			{
-				"gid" "901591814568852370"
-				"size" "107344473"
-				"download" "50540496"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbranch"
-			{
-				"gid" "5623288333C6BE07868FBEE9A20DBE6B"
-				"size" "7874C27A1D8209EC49D0E5B115C4199F"
-				"download" "AAEBE554DBA8810F7BF81BF1548DC067"
+				"gid" "643824226171073075"
+				"size" "137774581"
+				"download" "68471072"
 			}
 		}
 	}
@@ -232,23 +224,18 @@
 	{
 		"public"
 		{
-			"buildid" "16084172"
-			"timeupdated" "1729183050"
-		}
-		"devbranch"
-		{
-			"buildid" "13069468"
-			"pwdrequired" "1"
-			"timeupdated" "1704027497"
+			"buildid" "17442423"
+			"timeupdated" "1740133486"
 		}
 		"unstable"
 		{
-			"buildid" "16084172"
-			"timeupdated" "1729182971"
+			"buildid" "17442423"
+			"timeupdated" "1740069695"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25770806"
-"_sha" "d94a1b1d2ffebfe25bcc594ce13251160593dd5f"
-"_size" "3853"
+"_change_number" "27592373"
+"_sha" "f64169f6a3da0e22fb4e48172e71f0816e77f3f8"
+"_size" "3594"
