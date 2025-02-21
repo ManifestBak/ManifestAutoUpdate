@@ -374,9 +374,15 @@
 		{
 			"public"
 			{
-				"gid" "3333182633423561975"
-				"size" "14642715300"
-				"download" "12700322720"
+				"gid" "3899887103061201969"
+				"size" "14724309833"
+				"download" "12777252816"
+			}
+			"public-beta"
+			{
+				"gid" "3899887103061201969"
+				"size" "14724309833"
+				"download" "12777252816"
 			}
 		}
 	}
@@ -391,9 +397,15 @@
 		{
 			"public"
 			{
-				"gid" "4596594388184326138"
-				"size" "15351423521"
-				"download" "13146386416"
+				"gid" "6637087227677793419"
+				"size" "15432841320"
+				"download" "13223111312"
+			}
+			"public-beta"
+			{
+				"gid" "6637087227677793419"
+				"size" "15432841320"
+				"download" "13223111312"
 			}
 		}
 	}
@@ -402,8 +414,14 @@
 	{
 		"public"
 		{
-			"buildid" "17406460"
-			"timeupdated" "1739882835"
+			"buildid" "17442832"
+			"timeupdated" "1740128856"
+		}
+		"public-beta"
+		{
+			"buildid" "17442832"
+			"description" "Public beta with the latest version of the game"
+			"timeupdated" "1740127583"
 		}
 	}
 	"privatebranches" "1"
@@ -441,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27534322"
-"_sha" "25632a706c325cecf31cec3b8f52ca5c58d4726c"
-"_size" "9179"
+"_change_number" "27591100"
+"_sha" "3b27e37f07a51793722a6463a6c5311f8fd735e8"
+"_size" "9577"
