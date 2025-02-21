@@ -312,9 +312,15 @@
 		{
 			"public"
 			{
-				"gid" "7146224253423287662"
-				"size" "21460997840"
-				"download" "21060106128"
+				"gid" "4406723738945262231"
+				"size" "21739013673"
+				"download" "21339193536"
+			}
+			"grimlord_beta"
+			{
+				"gid" "2037026729020961243"
+				"size" "21461956691"
+				"download" "21060491584"
 			}
 		}
 	}
@@ -322,13 +328,19 @@
 	{
 		"public"
 		{
-			"buildid" "17081819"
-			"timeupdated" "1737487406"
+			"buildid" "17456903"
+			"timeupdated" "1740154108"
+		}
+		"grimlord_beta"
+		{
+			"buildid" "17104845"
+			"description" "v1.0.4 hotfix01"
+			"timeupdated" "1737634528"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27099365"
-"_sha" "bb3e56a7116f2cd5560bd29ed8870766d929e4f6"
-"_size" "5880"
+"_change_number" "27598447"
+"_sha" "53f7b111495509da28e9fca206b7b54413f5ed76"
+"_size" "6128"
