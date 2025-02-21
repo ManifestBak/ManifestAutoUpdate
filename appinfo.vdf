@@ -11,7 +11,7 @@
 	"clienttga" "a7fa988a92746b06ba4bd969db7079bc3272de38"
 	"clienticon" "cd82bf86b60f5a3e9611f771adc7d7bb2493b77f"
 	"controllertagwizard" "1"
-	"controller_support" "partial"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "52b6e9ddfdd7219b3f4a7e01c0819b31ae91fc8c/capsule_231x87.jpg"
@@ -75,11 +75,11 @@
 			}
 			"image"
 			{
-				"english" "45b3aa2e178affaf61e8723e8b1b987bcd0a7eb9/logo.png"
+				"english" "d1a2ed8d2855ec403d67b33b020bcb3070d17b78/logo.png"
 			}
 			"image2x"
 			{
-				"english" "45b3aa2e178affaf61e8723e8b1b987bcd0a7eb9/logo_2x.png"
+				"english" "d1a2ed8d2855ec403d67b33b020bcb3070d17b78/logo_2x.png"
 			}
 		}
 		"library_header"
@@ -94,7 +94,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739197895"
+	"store_asset_mtime" "1739831443"
 	"associations"
 	{
 		"0"
@@ -128,7 +128,7 @@
 		"category_58" "1"
 		"category_60" "1"
 		"category_22" "1"
-		"category_18" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -198,7 +198,7 @@
 		"19" "3834"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "88"
 }
 "extended"
 {
@@ -213,7 +213,7 @@
 	{
 		"0"
 		{
-			"executable" "SomberEchoes.exe"
+			"executable" "SomberEchoes\\Binaries\\Win64\\SomberEchoes-Win64-Shipping.exe"
 			"type" "default"
 			"config"
 			{
@@ -255,9 +255,9 @@
 		{
 			"public"
 			{
-				"gid" "7899112893875659678"
-				"size" "18551279733"
-				"download" "7762048896"
+				"gid" "5525247401525391255"
+				"size" "18551329909"
+				"download" "7762041264"
 			}
 		}
 	}
@@ -272,13 +272,45 @@
 	{
 		"public"
 		{
-			"buildid" "17306539"
-			"timeupdated" "1739198138"
+			"buildid" "17457065"
+			"timeupdated" "1740153218"
 		}
 	}
 	"privatebranches" "1"
 }
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SomberEchoes/Saved/SaveGames"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SomberEchoes/Saved/SaveGames"
+					"replace" "home/deck/.local/share/Steam/steamapps/compatdata/1299290/pfx/drive_c/users/steamuser/AppData/Local/SomberEchoes/Saved/SaveGames/"
+				}
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "27402530"
-"_sha" "335fd1254a9bdc405dd2a49f79e1e4a3d94a53a4"
-"_size" "4797"
+"_change_number" "27598119"
+"_sha" "41fd17719d3a8904d7893982cc00e96951c285f8"
+"_size" "5422"
