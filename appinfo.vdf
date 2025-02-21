@@ -100,7 +100,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732564568"
+	"store_asset_mtime" "1740107368"
 	"associations"
 	{
 		"0"
@@ -247,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "6710004005974933865"
-				"size" "1740005725"
-				"download" "1337302128"
+				"gid" "7671220349828182163"
+				"size" "1740006047"
+				"download" "1337312448"
 			}
 		}
 	}
@@ -257,8 +257,8 @@
 	{
 		"public"
 		{
-			"buildid" "17446209"
-			"timeupdated" "1740106203"
+			"buildid" "17449193"
+			"timeupdated" "1740110180"
 		}
 	}
 	"privatebranches" "1"
@@ -267,21 +267,8 @@
 {
 	"quota" "5000"
 	"maxnumfiles" "5000"
-	"savefiles"
-	{
-		"0"
-		{
-			"root" "WinAppDataLocal"
-			"path" "Ratshaker/Saved/SaveGames"
-			"pattern" "*.sav"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
-	}
 }
 "_missing_token" "False"
-"_change_number" "27586927"
-"_sha" "216eb341be44e2146daafd532156f56d2786d53c"
-"_size" "4704"
+"_change_number" "27587635"
+"_sha" "c8c0f76b1b4163a225ad98d413b8c846f8677296"
+"_size" "4524"
