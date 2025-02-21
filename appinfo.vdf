@@ -173,36 +173,21 @@
 	"installdir" "SC Jogos"
 	"launch"
 	{
-		"0"
+		"2"
 		{
-			"executable" "Andarilho AV/Andarilho.exe"
+			"executable" "Launcher/SC Jogos Launcher.exe"
 			"arguments" "appid=450860"
-			"type" "option1"
-			"description_loc"
-			{
-				"english" "Andarilho - Alternative Version"
-			}
-			"description" "Andarilho - Alternative Version"
+			"type" "default"
 		}
-		"1"
+		"3"
 		{
 			"executable" "Andarilho/Andarilho.exe"
-			"type" "option3"
+			"type" "option1"
 			"description_loc"
 			{
 				"english" "Andarilho [No Launcher]"
 			}
 			"description" "Andarilho [No Launcher]"
-		}
-		"2"
-		{
-			"executable" "Launcher/SC Jogos Launcher.exe"
-			"type" "option2"
-			"description_loc"
-			{
-				"english" "Andarilho - Old Version"
-			}
-			"description" "Andarilho - Old Version"
 		}
 	}
 }
@@ -219,15 +204,21 @@
 		{
 			"public"
 			{
-				"gid" "2740724012731543374"
-				"size" "1415541932"
-				"download" "341262848"
+				"gid" "5429181268225073961"
+				"size" "629169114"
+				"download" "257219968"
+			}
+			"old_version"
+			{
+				"gid" "7009882627643906247"
+				"size" "786372818"
+				"download" "242177264"
 			}
 			"pre_release"
 			{
-				"gid" "2740724012731543374"
-				"size" "1415541932"
-				"download" "341262848"
+				"gid" "5429181268225073961"
+				"size" "629169114"
+				"download" "257219968"
 			}
 		}
 	}
@@ -236,6 +227,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7844642475582632844"
+				"size" "146853032"
+				"download" "45409584"
+			}
+			"old_version"
 			{
 				"gid" "7844642475582632844"
 				"size" "146853032"
@@ -253,13 +250,19 @@
 	{
 		"public"
 		{
-			"buildid" "17393880"
-			"timeupdated" "1739800446"
+			"buildid" "17454512"
+			"timeupdated" "1740139565"
+		}
+		"old_version"
+		{
+			"buildid" "16068392"
+			"description" "old_version"
+			"timeupdated" "1740139367"
 		}
 		"pre_release"
 		{
-			"buildid" "17393880"
-			"timeupdated" "1739800353"
+			"buildid" "17454512"
+			"timeupdated" "1740139385"
 		}
 	}
 }
@@ -279,6 +282,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27516643"
-"_sha" "f4056dc0867b7ffd718b9f18bffb764d7f44cd1f"
-"_size" "4656"
+"_change_number" "27594210"
+"_sha" "493edfa9f7d9042e1a20015ad9543e9267e26c0a"
+"_size" "4663"
