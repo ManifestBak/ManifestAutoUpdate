@@ -188,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1737104886"
+	"store_asset_mtime" "1739495854"
 	"associations"
 	{
 		"0"
@@ -291,17 +291,17 @@
 		"5" "4231"
 		"6" "9"
 		"7" "3987"
-		"8" "1697"
-		"9" "4191"
-		"10" "9551"
-		"11" "4608"
-		"12" "323922"
+		"8" "9551"
+		"9" "1697"
+		"10" "4191"
+		"11" "323922"
+		"12" "4608"
 		"13" "7481"
 		"14" "19"
 		"15" "6971"
 		"16" "1742"
-		"17" "1708"
-		"18" "4182"
+		"17" "4182"
+		"18" "1708"
 		"19" "1678"
 	}
 	"review_score" "8"
@@ -312,7 +312,7 @@
 	"developer" "KOEI TECMO GAMES CO., LTD."
 	"publisher" "KOEI TECMO GAMES CO., LTD."
 	"homepage" "https://koeitecmoamerica.com/dw_origins/rd/steam_store/"
-	"listofdlc" "3319840,3319850,3319860,3319870,3319880,3319890,3319900,3319910,3319920,3319930"
+	"listofdlc" "3319840,3319850,3319860,3319870,3319880,3319890,3319900,3319910,3319920,3319930,3319940"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -337,43 +337,43 @@
 		"3361900537"
 		{
 			"controller_type" "controller_xboxone"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361908590"
 		{
 			"controller_type" "controller_steamcontroller_gordon"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361909168"
 		{
 			"controller_type" "controller_ps4"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361910573"
 		{
 			"controller_type" "controller_ps5"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361911568"
 		{
 			"controller_type" "controller_xbox360"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361911989"
 		{
 			"controller_type" "controller_switch_pro"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 		"3361919338"
 		{
 			"controller_type" "controller_generic"
-			"enabled_branches" "default,beta,gametest,gametest_mr,master,master_ntd,master_patch2,master_sub,media_preview,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release,release_dev,release_mr,testplay_t,tgs_2024,tgs_2024_release_mr"
+			"enabled_branches" "default,master,master_ntd,master_patch2,master_patch3,monitor_mr,profile,profile_a,profile_i,profile_n,rating,release_dev,release_lqa,release_mr,release_patch3,temporary"
 			"use_action_block" "false"
 		}
 	}
@@ -397,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "3475103404834729763"
-				"size" "53490723060"
-				"download" "49423947536"
+				"gid" "243534432946915042"
+				"size" "53507313294"
+				"download" "49440516512"
 			}
 		}
 	}
@@ -415,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "17220463"
-			"timeupdated" "1738804516"
+			"buildid" "17360728"
+			"timeupdated" "1740099654"
 		}
 	}
 	"privatebranches" "1"
@@ -440,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27336659"
-"_sha" "2396be66b3ca0103174cdf4eba3d406f5ad949ca"
-"_size" "12004"
+"_change_number" "27585584"
+"_sha" "a462790fae665de480076fe63d56760600a8dcff"
+"_size" "11675"
