@@ -12,6 +12,7 @@
 	"clienttga" "89178cf680d569ef9deab493616fcc9773c3b878"
 	"name_localized"
 	{
+		"japanese" "キャプテン・ファイヤーホークと波瀾の恋事情"
 	}
 	"content_descriptors"
 	{
@@ -245,6 +246,7 @@
 			"executable" "Cpt_Firehawk.exe"
 		}
 	}
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -256,9 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "5623232600659835420"
-				"size" "3428742370"
-				"download" "703176272"
+				"gid" "786071379686565783"
+				"size" "3439018912"
+				"download" "707293248"
 			}
 		}
 	}
@@ -279,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "17006329"
-			"timeupdated" "1736901999"
+			"buildid" "17460726"
+			"timeupdated" "1740172182"
 		}
 	}
 }
@@ -310,6 +312,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26998960"
-"_sha" "a818fe3ad0c9e73b8ad5cd944e887a4b7c956ee9"
-"_size" "5289"
+"_change_number" "27603130"
+"_sha" "d94cf8b29bb53ab52e7d16e2382f6e20db0d29a7"
+"_size" "5399"
