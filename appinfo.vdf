@@ -160,7 +160,7 @@
 		"2" "872"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -194,9 +194,9 @@
 		{
 			"public"
 			{
-				"gid" "8255919324504403423"
-				"size" "247212482"
-				"download" "73054592"
+				"gid" "8261023221985699896"
+				"size" "247228184"
+				"download" "73055904"
 			}
 			"prev_stable"
 			{
@@ -206,9 +206,9 @@
 			}
 			"public_beta"
 			{
-				"gid" "8255919324504403423"
-				"size" "247212482"
-				"download" "73054592"
+				"gid" "8261023221985699896"
+				"size" "247228184"
+				"download" "73055904"
 			}
 			"vbridger_1.0_build"
 			{
@@ -222,14 +222,20 @@
 				"size" "247043430"
 				"download" "73037056"
 			}
+			"vbridger1_1_5"
+			{
+				"gid" "6710294975061520413"
+				"size" "247211458"
+				"download" "73055200"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17314322"
-			"timeupdated" "1739474805"
+			"buildid" "17446031"
+			"timeupdated" "1740090590"
 		}
 		"prev_stable"
 		{
@@ -239,9 +245,9 @@
 		}
 		"public_beta"
 		{
-			"buildid" "17314322"
+			"buildid" "17446031"
 			"description" "public beta build"
-			"timeupdated" "1739233313"
+			"timeupdated" "1740089481"
 		}
 		"vbridger_1.0_build"
 		{
@@ -254,6 +260,12 @@
 			"buildid" "13073976"
 			"description" "prev 1.1 build"
 			"timeupdated" "1736937118"
+		}
+		"vbridger1_1_5"
+		{
+			"buildid" "17012717"
+			"description" "1.1.5 build"
+			"timeupdated" "1739902213"
 		}
 	}
 	"privatebranches" "1"
@@ -273,6 +285,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27466157"
-"_sha" "a8da378091b787e3f177f5618c5184de2f6dcc2c"
-"_size" "4402"
+"_change_number" "27583701"
+"_sha" "2a07798fd97d701fd1f3671f224677f248c3ec8d"
+"_size" "4641"
