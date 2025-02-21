@@ -119,7 +119,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725621214"
+	"store_asset_mtime" "1740145513"
 	"associations"
 	{
 		"0"
@@ -144,7 +144,8 @@
 	{
 		"category_2" "1"
 		"category_52" "1"
-		"category_54" "1"
+		"category_29" "1"
+		"category_53" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -156,34 +157,34 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1725641765"
+	"steam_release_date" "1725641760"
 	"community_hub_visible" "1"
 	"gameid" "2647060"
-	"onlyvrsupport" "1"
 	"store_tags"
 	{
 		"0" "12095"
-		"1" "6650"
-		"2" "21978"
-		"3" "24904"
-		"4" "5611"
-		"5" "4191"
-		"6" "4175"
-		"7" "599"
-		"8" "4947"
-		"9" "4182"
-		"10" "44868"
-		"11" "1752"
-		"12" "3839"
-		"13" "597"
-		"14" "9551"
-		"15" "11014"
-		"16" "4711"
-		"17" "492"
+		"1" "4486"
+		"2" "5611"
+		"3" "599"
+		"4" "4711"
+		"5" "3810"
+		"6" "6650"
+		"7" "3839"
+		"8" "9551"
+		"9" "24904"
+		"10" "492"
+		"11" "4175"
+		"12" "21978"
+		"13" "4191"
+		"14" "11014"
+		"15" "4947"
+		"16" "44868"
+		"17" "597"
 		"18" "9130"
+		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -191,6 +192,8 @@
 	"developer" "CTM"
 	"publisher" "CTM"
 	"homepage" "https://lovexlust.net/"
+	"listofdlc" "3484970"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -200,11 +203,32 @@
 		"0"
 		{
 			"executable" "Lovexlust.exe"
-			"type" "vr"
+			"arguments" "-force -d3d12 -pcMode"
+			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
 			}
+			"description_loc"
+			{
+				"english" "LoveXLust PC"
+			}
+			"description" "LoveXLust PC"
+		}
+		"1"
+		{
+			"executable" "Lovexlust.exe"
+			"arguments" "-force -d3d11 -vrMode"
+			"type" "vr"
+			"config"
+			{
+				"ownsdlc" "3484970"
+			}
+			"description_loc"
+			{
+				"english" "LoveXLust VR"
+			}
+			"description" "LoveXLust VR"
 		}
 	}
 }
@@ -220,18 +244,9 @@
 		{
 			"public"
 			{
-				"gid" "2714267002473907618"
-				"size" "9831471302"
-				"download" "3933885520"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "7F34DEAEA1A6BEE5D2EBA691A74BFE3A"
-				"size" "3AC62E62C3B9CE58E48ADDD0E4C35D0D"
-				"download" "E16C2362783944666742C9E9A2304DB7"
+				"gid" "8973915631760857220"
+				"size" "12454228500"
+				"download" "4790867696"
 			}
 		}
 	}
@@ -247,18 +262,13 @@
 	{
 		"public"
 		{
-			"buildid" "16166215"
-			"timeupdated" "1729876393"
-		}
-		"test"
-		{
-			"buildid" "16166215"
-			"pwdrequired" "1"
-			"timeupdated" "1729777416"
+			"buildid" "17456485"
+			"timeupdated" "1740158898"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25907841"
-"_sha" "3932bb242054973490f958520527398035a9f433"
-"_size" "4343"
+"_change_number" "27600696"
+"_sha" "b7a501eae953db1fecfdae068098465294fdb57a"
+"_size" "4537"
