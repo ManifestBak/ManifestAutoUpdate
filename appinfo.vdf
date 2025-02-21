@@ -259,8 +259,8 @@
 		"18" "5984"
 		"19" "599"
 	}
-	"review_score" "7"
-	"review_percentage" "89"
+	"review_score" "8"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -360,15 +360,15 @@
 		{
 			"public"
 			{
-				"gid" "4794654349057670115"
-				"size" "55090361930"
-				"download" "55759300880"
+				"gid" "3543566237871279028"
+				"size" "55176347314"
+				"download" "55846485280"
 			}
 			"public_test"
 			{
-				"gid" "4794654349057670115"
-				"size" "55090361930"
-				"download" "55759300880"
+				"gid" "3543566237871279028"
+				"size" "55176347314"
+				"download" "55846485280"
 			}
 		}
 	}
@@ -376,14 +376,14 @@
 	{
 		"public"
 		{
-			"buildid" "17454323"
-			"timeupdated" "1740139217"
+			"buildid" "17455397"
+			"timeupdated" "1740143788"
 		}
 		"public_test"
 		{
-			"buildid" "17454323"
+			"buildid" "17455397"
 			"description" "player test"
-			"timeupdated" "1740139141"
+			"timeupdated" "1740143725"
 		}
 	}
 	"privatebranches" "1"
@@ -440,6 +440,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27594585"
-"_sha" "ec0eba9c357db7a7322510a764ade58806561a3b"
+"_change_number" "27595417"
+"_sha" "0440c223af88a9f15f209164f9d5ae84ec8b0e13"
 "_size" "9909"
