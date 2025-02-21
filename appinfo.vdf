@@ -260,7 +260,7 @@
 		"19" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -338,15 +338,15 @@
 		{
 			"public"
 			{
-				"gid" "4134259482767915477"
-				"size" "617050"
-				"download" "234016"
+				"gid" "411051587469224225"
+				"size" "1466664"
+				"download" "609056"
 			}
 			"public_test"
 			{
-				"gid" "4134259482767915477"
-				"size" "617050"
-				"download" "234016"
+				"gid" "411051587469224225"
+				"size" "1466664"
+				"download" "609056"
 			}
 		}
 	}
@@ -376,14 +376,14 @@
 	{
 		"public"
 		{
-			"buildid" "17455397"
-			"timeupdated" "1740143788"
+			"buildid" "17456455"
+			"timeupdated" "1740148594"
 		}
 		"public_test"
 		{
-			"buildid" "17455397"
+			"buildid" "17456455"
 			"description" "player test"
-			"timeupdated" "1740143725"
+			"timeupdated" "1740148562"
 		}
 	}
 	"privatebranches" "1"
@@ -397,7 +397,7 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "MountainSeaStudio/sb"
+			"path" "MountainSeaStudio/se"
 			"pattern" "*Data"
 			"platforms"
 			{
@@ -408,7 +408,7 @@
 		"1"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "MountainSeaStudio/sb/ArchiveDatas"
+			"path" "MountainSeaStudio/se/ArchiveDatas"
 			"pattern" "*.*"
 			"platforms"
 			{
@@ -440,6 +440,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27595417"
-"_sha" "0440c223af88a9f15f209164f9d5ae84ec8b0e13"
+"_change_number" "27598772"
+"_sha" "af744abd4561f3fb7dd48f1c8e3dd842d43a54a5"
 "_size" "9909"
