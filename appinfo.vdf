@@ -153,7 +153,7 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1734010985"
+	"steam_release_date" "1734010980"
 	"community_hub_visible" "1"
 	"gameid" "1192900"
 	"onlyvrsupport" "1"
@@ -181,7 +181,7 @@
 		"19" "4168"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -220,24 +220,15 @@
 		{
 			"public"
 			{
-				"gid" "7552061243557255659"
-				"size" "9114726779"
-				"download" "3915963968"
+				"gid" "2465023977694759956"
+				"size" "9773934321"
+				"download" "4164077744"
 			}
 			"beta_branch"
 			{
-				"gid" "7552061243557255659"
-				"size" "9114726779"
-				"download" "3915963968"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_beta_branch"
-			{
-				"gid" "6EC870EF4BE2058F7AF967D2B79926BE"
-				"size" "A7501C3EBBDBAF977DCCEBD200CBB89F"
-				"download" "6129B4449E6BF219AB6DC25AA0D0249A"
+				"gid" "2465023977694759956"
+				"size" "9773934321"
+				"download" "4164077744"
 			}
 		}
 	}
@@ -245,24 +236,19 @@
 	{
 		"public"
 		{
-			"buildid" "16805400"
-			"timeupdated" "1734646833"
+			"buildid" "17399205"
+			"timeupdated" "1740174899"
 		}
 		"beta_branch"
 		{
-			"buildid" "16805400"
+			"buildid" "17399205"
 			"description" "New features tests"
-			"timeupdated" "1734638111"
-		}
-		"closed_beta_branch"
-		{
-			"buildid" "16543075"
-			"pwdrequired" "1"
-			"timeupdated" "1732651478"
+			"timeupdated" "1739830555"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26722945"
-"_sha" "5dcc43ddc21cb968cb0c9bec9b7c7771b48c42ab"
-"_size" "4786"
+"_change_number" "27603593"
+"_sha" "bb0e754944341704bfd0f2b2a8839fa6637cb969"
+"_size" "4478"
