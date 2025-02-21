@@ -1,7 +1,7 @@
 "appid" "2943150"
 "common"
 {
-	"name" "SNØ"
+	"name" "SNØ: Ultimate Freeriding"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos"
@@ -10,6 +10,50 @@
 	"clienticon" "311dbf09e805457bcfa4b0ea745e7b39768e103c"
 	"clienttga" "e727e4b03bd3405cb577e0778bb23c3614e4f389"
 	"icon" "f43f3f747be8c2040597aca7fd90f2a4cf30b152"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1740096000"
+		"tested_build_id" "17412856"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -94,7 +138,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739819424"
+	"store_asset_mtime" "1739984347"
 	"associations"
 	{
 		"0"
@@ -276,19 +320,19 @@
 	"store_tags"
 	{
 		"0" "4182"
-		"1" "701"
-		"2" "4094"
+		"1" "4094"
+		"2" "701"
 		"3" "5125"
-		"4" "1773"
-		"5" "7309"
+		"4" "7309"
+		"5" "1773"
 		"6" "1654"
 		"7" "30358"
 		"8" "1697"
 		"9" "3839"
 		"10" "1695"
 		"11" "599"
-		"12" "3859"
-		"13" "9803"
+		"12" "9803"
+		"13" "3859"
 		"14" "699"
 		"15" "3834"
 		"16" "3968"
@@ -297,7 +341,7 @@
 		"19" "7481"
 	}
 	"review_score" "8"
-	"review_percentage" "100"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -342,9 +386,9 @@
 		{
 			"public"
 			{
-				"gid" "536765969112742435"
-				"size" "444341175"
-				"download" "183548928"
+				"gid" "2264121789594896583"
+				"size" "444336455"
+				"download" "183549648"
 			}
 		}
 	}
@@ -358,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "6838553603851341118"
-				"size" "466690398"
-				"download" "190146720"
+				"gid" "3831516243642837492"
+				"size" "466687606"
+				"download" "190147536"
 			}
 		}
 	}
@@ -368,8 +412,8 @@
 	{
 		"public"
 		{
-			"buildid" "17412856"
-			"timeupdated" "1739913313"
+			"buildid" "17456414"
+			"timeupdated" "1740148324"
 		}
 	}
 	"privatebranches" "1"
@@ -411,6 +455,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27542444"
-"_sha" "7fb9749fecc786b283a33f78ada143c578510994"
-"_size" "6695"
+"_change_number" "27596648"
+"_sha" "94f334568daffe52e10220f61db30f8fbab3b925"
+"_size" "7814"
