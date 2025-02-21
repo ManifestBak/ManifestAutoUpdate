@@ -1,0 +1,267 @@
+"appid" "2376580"
+"common"
+{
+	"name" "TRIBE NINE"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"icon" "3169345211b04493b9e1db90147e2a61e61497fc"
+	"clienttga" "eff379214da775f575b7d6895a6fb3c1a837f774"
+	"clienticon" "ca7adfab6fef82f9dbaee2281b29dd6922299548"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "トライブナイン / TRIBE NINE"
+		"tchinese" "TRIBE NINE：戰極死遊"
+		"schinese" "TRIBE NINE：战极死游"
+		"koreana" "트라이브 나인 / TRIBE NINE"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2376580_eula_0"
+			"name" "TRIBE NINE EULA"
+			"url" "https://store.steampowered.com//eula/2376580_eula_0"
+			"version" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.805491990846676"
+			"height_pct" "88.75448959601056"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "6bd5d7646d2a602c14cbf36861ca1f6dbdaf0794/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "6bd5d7646d2a602c14cbf36861ca1f6dbdaf0794/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "bbe76ef7bc7316718426a6c52aa7ddafca63f017/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "bbe76ef7bc7316718426a6c52aa7ddafca63f017/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bbe76ef7bc7316718426a6c52aa7ddafca63f017/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.805491990846676"
+				"height_pct" "88.75448959601056"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "d1ebc4465926e8b3d7f4f4a125e6bcd4a62300cd/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d1ebc4465926e8b3d7f4f4a125e6bcd4a62300cd/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739986034"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Akatsuki Games Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Akatsuki Games Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1739923311"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2376580"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "122"
+		"2" "113"
+		"3" "4026"
+		"4" "1742"
+		"5" "4115"
+		"6" "4182"
+		"7" "6730"
+		"8" "4434"
+		"9" "4231"
+		"10" "3964"
+		"11" "5923"
+		"12" "4342"
+		"13" "1684"
+		"14" "3871"
+		"15" "4085"
+		"16" "4191"
+		"17" "29482"
+	}
+	"review_score" "4"
+	"review_percentage" "37"
+}
+"extended"
+{
+	"developer" "Akatsuki Games Inc."
+	"publisher" "Akatsuki Games Inc."
+	"homepage" "https://tribenine.tokyo/en"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "TRIBENINE"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "tribenine.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2376581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7626095807280855200"
+				"size" "3041768882"
+				"download" "2493898320"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17438707"
+			"timeupdated" "1740103198"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27588449"
+"_sha" "b9ab013580e4e1ed5ef5ffff00a2f556d676531d"
+"_size" "4637"
