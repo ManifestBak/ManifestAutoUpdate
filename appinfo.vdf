@@ -146,7 +146,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733427093"
+	"store_asset_mtime" "1739976063"
 	"associations"
 	{
 		"0"
@@ -205,6 +205,10 @@
 			"supported" "true"
 		}
 		"latam"
+		{
+			"supported" "true"
+		}
+		"schinese"
 		{
 			"supported" "true"
 		}
@@ -301,15 +305,15 @@
 		{
 			"public"
 			{
-				"gid" "6786315996800348566"
-				"size" "35780249131"
-				"download" "18485349840"
+				"gid" "4004055238920818557"
+				"size" "35780238891"
+				"download" "18485334768"
 			}
 			"public_test_server"
 			{
-				"gid" "6786315996800348566"
-				"size" "35780249131"
-				"download" "18485349840"
+				"gid" "4004055238920818557"
+				"size" "35780238891"
+				"download" "18485334768"
 			}
 		}
 	}
@@ -318,14 +322,14 @@
 	{
 		"public"
 		{
-			"buildid" "17400884"
-			"timeupdated" "1739865835"
+			"buildid" "17445196"
+			"timeupdated" "1740128617"
 		}
 		"public_test_server"
 		{
-			"buildid" "17400884"
+			"buildid" "17445196"
 			"description" "PTS"
-			"timeupdated" "1739843011"
+			"timeupdated" "1740084054"
 		}
 	}
 	"privatebranches" "1"
@@ -336,6 +340,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27529899"
-"_sha" "c6d20c8fabd3474ef27b8baaa521cfc8d256a2d5"
-"_size" "6089"
+"_change_number" "27591029"
+"_sha" "f9eb609d71b4f6c3a13d02268e88d617c9f2b50b"
+"_size" "6137"
