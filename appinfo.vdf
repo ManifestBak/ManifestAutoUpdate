@@ -182,9 +182,15 @@
 		{
 			"public"
 			{
-				"gid" "6632510194957272991"
-				"size" "312953909"
-				"download" "187817264"
+				"gid" "3942725038877637871"
+				"size" "318703281"
+				"download" "187853488"
+			}
+			"updatepreview"
+			{
+				"gid" "3942725038877637871"
+				"size" "318703281"
+				"download" "187853488"
 			}
 			"1.2_lts"
 			{
@@ -198,12 +204,6 @@
 				"size" "698345977"
 				"download" "180611472"
 			}
-			"playtest"
-			{
-				"gid" "6632510194957272991"
-				"size" "312953909"
-				"download" "187817264"
-			}
 		}
 	}
 	"2063422"
@@ -216,9 +216,15 @@
 		{
 			"public"
 			{
-				"gid" "5553636214611426439"
-				"size" "312083042"
-				"download" "186350208"
+				"gid" "4573710410760157990"
+				"size" "317830174"
+				"download" "186387648"
+			}
+			"updatepreview"
+			{
+				"gid" "4573710410760157990"
+				"size" "317830174"
+				"download" "186387648"
 			}
 			"1.2_lts"
 			{
@@ -232,12 +238,6 @@
 				"size" "695245637"
 				"download" "178306240"
 			}
-			"playtest"
-			{
-				"gid" "5553636214611426439"
-				"size" "312083042"
-				"download" "186350208"
-			}
 		}
 	}
 	"2063423"
@@ -250,9 +250,15 @@
 		{
 			"public"
 			{
-				"gid" "1876787763622290205"
-				"size" "336792518"
-				"download" "194754208"
+				"gid" "75761189763448453"
+				"size" "342539650"
+				"download" "194790256"
+			}
+			"updatepreview"
+			{
+				"gid" "75761189763448453"
+				"size" "342539650"
+				"download" "194790256"
 			}
 			"1.2_lts"
 			{
@@ -266,20 +272,20 @@
 				"size" "720280002"
 				"download" "186869408"
 			}
-			"playtest"
-			{
-				"gid" "1876787763622290205"
-				"size" "336792518"
-				"download" "194754208"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16855202"
-			"timeupdated" "1735228940"
+			"buildid" "17368439"
+			"timeupdated" "1740150889"
+		}
+		"updatepreview"
+		{
+			"buildid" "17368439"
+			"description" "This branch will host the updates for bug testing prior to release"
+			"timeupdated" "1739545827"
 		}
 		"1.2_lts"
 		{
@@ -293,12 +299,6 @@
 			"description" "Only play this if 1.2 is giving you an input issue on mac"
 			"timeupdated" "1734793838"
 		}
-		"playtest"
-		{
-			"buildid" "16855202"
-			"description" "This is the active playtest branch for 2.0"
-			"timeupdated" "1735228918"
-		}
 	}
 }
 "ufs"
@@ -310,8 +310,8 @@
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
-			"path" "imophi/CozyTyper"
-			"pattern" "*.cozy"
+			"path" "sillylittlegames/CozyTyper"
+			"pattern" "*.es3"
 		}
 	}
 	"rootoverrides"
@@ -326,8 +326,8 @@
 			{
 				"0"
 				{
-					"find" "imophi/CozyTyper"
-					"replace" "imophi/CozyTyper"
+					"find" "sillylittlegames/CozyTyper"
+					"replace" "sillylittlegames/CozyTyper"
 				}
 			}
 		}
@@ -341,14 +341,14 @@
 			{
 				"0"
 				{
-					"find" "imophi"
-					"replace" "imophi/CozyTyper"
+					"find" "sillylittlegames/CozyTyper"
+					"replace" "sillylittlegames/CozyTyper"
 				}
 			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26789765"
-"_sha" "63d3588be56fa3f25d17ce557e50928df5e173f3"
-"_size" "5708"
+"_change_number" "27597468"
+"_sha" "7a07d3e7b0832dd8be7ad3fef6363eddc3652502"
+"_size" "5807"
