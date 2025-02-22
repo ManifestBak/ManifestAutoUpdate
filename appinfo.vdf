@@ -21,7 +21,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "2acd69406ec66d5c72b9a5dd87d3ebfd34d491fd/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -73,7 +73,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734648093"
+	"store_asset_mtime" "1740171263"
 	"associations"
 	{
 		"0"
@@ -183,7 +183,7 @@
 			"type" "default"
 		}
 	}
-	"steamdecktouchscreen" "1"
+	"steamdecktouchscreen" "4"
 	"steamcontrollertemplateindex" "4"
 	"steamconfigurator3rdpartynative" "65535"
 }
@@ -196,15 +196,15 @@
 		{
 			"public"
 			{
-				"gid" "5911375691168670327"
-				"size" "293784626"
-				"download" "169385616"
+				"gid" "6046946306332313066"
+				"size" "291042791"
+				"download" "166710288"
 			}
 			"beta"
 			{
-				"gid" "5911375691168670327"
-				"size" "293784626"
-				"download" "169385616"
+				"gid" "6046946306332313066"
+				"size" "291042791"
+				"download" "166710288"
 			}
 		}
 	}
@@ -212,13 +212,13 @@
 	{
 		"public"
 		{
-			"buildid" "17118271"
-			"timeupdated" "1737717848"
+			"buildid" "17462473"
+			"timeupdated" "1740224792"
 		}
 		"beta"
 		{
-			"buildid" "17118271"
-			"timeupdated" "1737717945"
+			"buildid" "17462473"
+			"timeupdated" "1740224744"
 		}
 	}
 	"privatebranches" "1"
@@ -238,6 +238,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27148025"
-"_sha" "dd7ded0b8b1b1d6b8223824cc1d3395d95e1c885"
-"_size" "4059"
+"_change_number" "27610028"
+"_sha" "869bc6093ad36f75b798e1418e7fde69481dd257"
+"_size" "4100"
