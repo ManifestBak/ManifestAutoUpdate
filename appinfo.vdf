@@ -242,7 +242,7 @@
 		}
 	}
 	"steam_release_date" "1739980854"
-	"metacritic_score" "78"
+	"metacritic_score" "79"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/stories-from-sol-the-gun-dog\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -271,7 +271,7 @@
 		"19" "5984"
 	}
 	"review_score" "8"
-	"review_percentage" "96"
+	"review_percentage" "95"
 }
 "extended"
 {
@@ -318,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "7167270617602583716"
-				"size" "263360711"
-				"download" "149975488"
+				"gid" "3863730851383562447"
+				"size" "263362697"
+				"download" "149985504"
 			}
 		}
 	}
@@ -336,8 +336,8 @@
 	{
 		"public"
 		{
-			"buildid" "17446561"
-			"timeupdated" "1740114918"
+			"buildid" "17460173"
+			"timeupdated" "1740216570"
 		}
 	}
 	"privatebranches" "1"
@@ -368,6 +368,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27588364"
-"_sha" "254b4c60186d9518baedd8270dd9407c99d44ca6"
+"_change_number" "27609043"
+"_sha" "46ad8265bebaef7ced4182ef35ff4a52be11ceca"
 "_size" "7085"
