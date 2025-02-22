@@ -4,7 +4,7 @@
 	"name" "Shapik: The Moon Quest"
 	"type" "Game"
 	"oslist" "windows,macos"
-	"osarch" ""
+	"osarch" "64"
 	"icon" "1a63cb7dae8f27299f91e8daaf8ad8ae44fd7497"
 	"logo" "a6e841e6fb96a0784ff394a92d6d975b9bbcdd62"
 	"logo_small" "a6e841e6fb96a0784ff394a92d6d975b9bbcdd62_thumb"
@@ -862,24 +862,15 @@
 		{
 			"public"
 			{
-				"gid" "4064414982722911784"
-				"size" "838729824"
-				"download" "821720624"
+				"gid" "3672855801853248400"
+				"size" "1047187403"
+				"download" "1027500608"
 			}
 			"macos"
 			{
 				"gid" "2915895411605160202"
 				"size" "1177434730"
 				"download" "1156031328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "020E0745B95DCFDF03BAEC4FBEE33152"
-				"size" "C94A185EB6A923DACB9DC6B4A17DB3FE"
-				"download" "F287738F97566424B760CBB5C5443660"
 			}
 		}
 	}
@@ -894,9 +885,9 @@
 		{
 			"public"
 			{
-				"gid" "5477471774673123642"
-				"size" "858233396"
-				"download" "829865856"
+				"gid" "4979873119055065825"
+				"size" "857143576"
+				"download" "829806528"
 			}
 			"macos"
 			{
@@ -911,8 +902,8 @@
 	{
 		"public"
 		{
-			"buildid" "15946444"
-			"timeupdated" "1728239306"
+			"buildid" "17466837"
+			"timeupdated" "1740225943"
 		}
 		"macos"
 		{
@@ -920,15 +911,10 @@
 			"description" "Mac Os"
 			"timeupdated" "1583353048"
 		}
-		"test"
-		{
-			"buildid" "4404389"
-			"pwdrequired" "1"
-			"timeupdated" "1574189789"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26317479"
-"_sha" "e563dfa7ef7fbcfa480081db4ab76c70845cfade"
-"_size" "15414"
+"_change_number" "27610174"
+"_sha" "b96ea2d4b03d8f16a22b00630bb721c48ecd8ff2"
+"_size" "15139"
