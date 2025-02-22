@@ -233,24 +233,9 @@
 		{
 			"public"
 			{
-				"gid" "6743299303826419639"
-				"size" "253028366"
-				"download" "247374368"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd-testing"
-			{
-				"gid" "E2DFD5AF5C9F9E300B1898D3E4A5123F"
-				"size" "046F2F9FC922CE9E6D39EB72A9D68722"
-				"download" "6D74A3D23FDF15EF5F76643A951F1B4D"
-			}
-			"testing"
-			{
-				"gid" "0332CE46E52FC11EE8C51263D13C7EDD"
-				"size" "2316BE96AE7A39AAD117EF412C326594"
-				"download" "FD01FE14B9765EF149F2D3AC411DE4C7"
+				"gid" "4610860187062700381"
+				"size" "253031627"
+				"download" "247377824"
 			}
 		}
 	}
@@ -265,24 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "601072532776853756"
-				"size" "252860313"
-				"download" "247252832"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd-testing"
-			{
-				"gid" "6863B9F3C5EDE341502600A5A425F2A4"
-				"size" "918B5AC34EDA8A772EDB8D0D4098CF65"
-				"download" "13B2E76B29E13896C5BC526C7B1FBE8F"
-			}
-			"testing"
-			{
-				"gid" "FC98BA895955FE54A827291890B5E515"
-				"size" "98F646F811AA3FFDE227BAB9CC38D7FC"
-				"download" "ABCDBEBA0DCC109463EB88B87F7957EA"
+				"gid" "1172349761769326575"
+				"size" "252863574"
+				"download" "247256272"
 			}
 		}
 	}
@@ -298,24 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "3788949812509468338"
-				"size" "249918616"
-				"download" "246708480"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd-testing"
-			{
-				"gid" "F45DF713B4AAFB6BA2F359146F052308"
-				"size" "9E387574F923D8E5D02DD414F0BCCB91"
-				"download" "3B41A918E650CCCAF49006011629D18B"
-			}
-			"testing"
-			{
-				"gid" "1411C56BB8D985F5212BB2D5CA548ECD"
-				"size" "396F4187B81C98FFA550036E4BB740C0"
-				"download" "F16B86DC8EF79FB00AF4023FB372FD58"
+				"gid" "1831676527035918670"
+				"size" "252192060"
+				"download" "247284240"
 			}
 		}
 	}
@@ -331,24 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "3966837091621100978"
-				"size" "251575356"
-				"download" "247140544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd-testing"
-			{
-				"gid" "2BF8FBAA2F9ECB6D3093414EAF58BC6D"
-				"size" "E9AA0E58A5AA5D0EBEB04735EC8F1907"
-				"download" "DC300FE91C178ACA4BD727DB73E5BDB4"
-			}
-			"testing"
-			{
-				"gid" "D23C7D915C8256D97212FDD34C8B88D0"
-				"size" "EA61A06A3E9BF3C9820EC332CF4EABE9"
-				"download" "248984ED52196C5AB61EC0E75BCE62C3"
+				"gid" "6524789492556161462"
+				"size" "253506770"
+				"download" "247608400"
 			}
 		}
 	}
@@ -364,24 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "6528359423896453039"
-				"size" "267552037"
-				"download" "251456272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"amd-testing"
-			{
-				"gid" "16552AC73AF06D2F37E69D767A40CAFC"
-				"size" "0565102A39D5116A446AA602C6043345"
-				"download" "E49A5EFC18F88E53C4E24C351860CCE0"
-			}
-			"testing"
-			{
-				"gid" "70957FD735C7635C6B98BE520F9758CB"
-				"size" "B7B133EB6B84AF34531B7D702E522555"
-				"download" "EDC9CF5A4CDA4FF4D936AB9E348342D5"
+				"gid" "4500639000875237999"
+				"size" "267555259"
+				"download" "251459376"
 			}
 		}
 	}
@@ -389,22 +314,11 @@
 	{
 		"public"
 		{
-			"buildid" "13159365"
-			"timeupdated" "1705166270"
-		}
-		"amd-testing"
-		{
-			"buildid" "11246989"
-			"pwdrequired" "1"
-			"timeupdated" "1684264910"
-		}
-		"testing"
-		{
-			"buildid" "13159365"
-			"pwdrequired" "1"
-			"timeupdated" "1705081506"
+			"buildid" "17462981"
+			"timeupdated" "1740185893"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -413,3 +327,7 @@
 	"hidecloudui" "1"
 	"ignoreexternalfiles" "1"
 }
+"_missing_token" "False"
+"_change_number" "27605643"
+"_sha" "b31217a88a5bf4024a826c048aa76982bd3363c7"
+"_size" "5493"
