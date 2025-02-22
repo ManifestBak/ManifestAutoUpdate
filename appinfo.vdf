@@ -252,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "1804820709967177560"
-				"size" "161969158"
-				"download" "84563664"
+				"gid" "1693911647523440640"
+				"size" "161973506"
+				"download" "84566432"
 			}
 		}
 	}
@@ -268,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "3584584060727623183"
-				"size" "184823720"
-				"download" "90577360"
+				"gid" "6695446692525499844"
+				"size" "216284042"
+				"download" "99937376"
 			}
 		}
 	}
@@ -284,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "3630450859659275295"
-				"size" "139441603"
-				"download" "75620944"
+				"gid" "4716644981374773466"
+				"size" "139449511"
+				"download" "75626656"
 			}
 		}
 	}
@@ -294,8 +294,8 @@
 	{
 		"public"
 		{
-			"buildid" "17188105"
-			"timeupdated" "1738259543"
+			"buildid" "17461578"
+			"timeupdated" "1740176480"
 		}
 	}
 }
@@ -326,7 +326,7 @@
 				"0"
 				{
 					"find" "Adamvision Studios\\PooshXL"
-					"replace" "unity.Adamvision Studios.PooshXL"
+					"replace" "com.adamvision.pooshxl"
 				}
 			}
 		}
@@ -348,6 +348,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27239843"
-"_sha" "28924457e3ea7f834869046521fe4557bb3f1d59"
-"_size" "5679"
+"_change_number" "27603913"
+"_sha" "e315f1ba0a077ce9f613bab8389b6de059061e29"
+"_size" "5669"
