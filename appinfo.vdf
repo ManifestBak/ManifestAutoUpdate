@@ -170,7 +170,6 @@
 		"category_1" "1"
 		"category_27" "1"
 		"category_30" "1"
-		"category_23" "1"
 		"category_49" "1"
 		"category_36" "1"
 		"category_47" "1"
@@ -258,7 +257,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1692378069"
+	"steam_release_date" "1692378060"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1407180"
@@ -341,9 +340,9 @@
 		{
 			"public"
 			{
-				"gid" "8240182593575139809"
-				"size" "464400164"
-				"download" "107352320"
+				"gid" "8885807432267844776"
+				"size" "418872240"
+				"download" "107202368"
 			}
 			"alpha12p29"
 			{
@@ -363,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "7617941444214064704"
-				"size" "434699312"
-				"download" "112358288"
+				"gid" "9012139976735549987"
+				"size" "389148988"
+				"download" "112223776"
 			}
 			"alpha12p29"
 			{
@@ -385,9 +384,9 @@
 		{
 			"public"
 			{
-				"gid" "5881982622477388652"
-				"size" "462060022"
-				"download" "106134688"
+				"gid" "9132193932219624829"
+				"size" "416510850"
+				"download" "105997904"
 			}
 			"alpha12p29"
 			{
@@ -402,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "17459319"
-			"timeupdated" "1740162595"
+			"buildid" "17468890"
+			"timeupdated" "1740252559"
 		}
 		"alpha12p29"
 		{
@@ -455,6 +454,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27600852"
-"_sha" "fa513016e70f979cac8d4ea04b4fa866524fed7c"
-"_size" "7563"
+"_change_number" "27613397"
+"_sha" "f183c1bbac5f37ca1d5d89d88873e8fed919b698"
+"_size" "7541"
