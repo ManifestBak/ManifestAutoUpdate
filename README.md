@@ -1,17 +1,18 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-23 00:21:11
+## 更新时间：2025-02-23 02:24:16
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
 | 1295900 | Draconia| Game |
-| 1428420 | Nucleares| Game |
-| 1398070 | The Book of Bondmaids| Game |
-| 1755350 | BBQ Simulator: The Squad| Game |
-| 2221840 | Sex and the Furry Titty 3: Come Inside, Sweety| Game |
-| 2308630 | 晨曦族人| Game |
-| 2440380 | Megaloot| Game |
-| 2628570 | 异星开拓者 - 太空基地建造| Game |
-| 2730530 | 协律01：新生活| Game |
-| 743650 | Quake Champions PTS| Game |
-| 798840 | 装甲纷争:决定版| Game |
-| 954870 | Astrox Imperium| Game |
+| 1422650 | 只因山的鸡脚| Game |
+| 1264970 | The Conquest of Go| Game |
+| 1521580 | Perfect Heist 2| Game |
+| 1631540 | Squeakers II| Game |
+| 2455140 | 魅惑之翼：少女的爆衣攻略| Game |
+| 2460270 | 戏假成真| Game |
+| 2570210 | Eden Crafters| Game |
+| 2594540 | 汽车旅馆经理模拟器| Game |
+| 2870990 | 解限机 Demo| Demo |
+| 505040 | FORTIFY| Game |
+| 605230 | Grey Hack| Game |
+| 80340 | Blackwell Unbound| Game |
