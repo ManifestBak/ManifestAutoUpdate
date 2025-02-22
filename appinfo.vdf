@@ -115,13 +115,13 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739097566"
+	"store_asset_mtime" "1740034161"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Celebrity Kombat"
+			"name" "Celebrity Kombat Labs"
 		}
 		"1"
 		{
@@ -251,7 +251,7 @@
 }
 "extended"
 {
-	"developer" "Celebrity Kombat"
+	"developer" "Celebrity Kombat Labs"
 	"publisher" "Celebrity Kombat"
 	"homepage" "https://celebritykombat.com"
 }
@@ -281,9 +281,9 @@
 		{
 			"public"
 			{
-				"gid" "4134543178827853515"
-				"size" "34062905616"
-				"download" "7148894016"
+				"gid" "9204633513677467600"
+				"size" "34063255513"
+				"download" "7149102624"
 			}
 		}
 	}
@@ -291,12 +291,12 @@
 	{
 		"public"
 		{
-			"buildid" "17403993"
-			"timeupdated" "1739867036"
+			"buildid" "17467358"
+			"timeupdated" "1740232717"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27530185"
-"_sha" "fed81f51b0d5fe3cc398231fd1ee0c9612f91e15"
-"_size" "5081"
+"_change_number" "27610934"
+"_sha" "b4ec24a9945b5d6d65214e9f2cfb3198e893b200"
+"_size" "5091"
