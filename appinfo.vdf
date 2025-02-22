@@ -260,7 +260,7 @@
 		"19" "599"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -294,15 +294,15 @@
 		{
 			"public"
 			{
-				"gid" "7547037978960669803"
+				"gid" "7172514062556536218"
 				"size" "188234424"
 				"download" "50628256"
 			}
 			"public_test"
 			{
-				"gid" "1512276615948973598"
-				"size" "188206504"
-				"download" "50626384"
+				"gid" "7172514062556536218"
+				"size" "188234424"
+				"download" "50628256"
 			}
 		}
 	}
@@ -316,9 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "438387209289323839"
-				"size" "1331920521"
-				"download" "1074355952"
+				"gid" "5747416290222170287"
+				"size" "1331404425"
+				"download" "1073903056"
 			}
 			"public_test"
 			{
@@ -338,14 +338,14 @@
 		{
 			"public"
 			{
-				"gid" "7670708276143248011"
-				"size" "1504609"
-				"download" "626048"
+				"gid" "9148372758676984399"
+				"size" "1504551"
+				"download" "626032"
 			}
 			"public_test"
 			{
-				"gid" "9080474756174473399"
-				"size" "1504549"
+				"gid" "9148372758676984399"
+				"size" "1504551"
 				"download" "626032"
 			}
 		}
@@ -376,14 +376,14 @@
 	{
 		"public"
 		{
-			"buildid" "17465523"
-			"timeupdated" "1740213425"
+			"buildid" "17466294"
+			"timeupdated" "1740220965"
 		}
 		"public_test"
 		{
-			"buildid" "17466096"
+			"buildid" "17466294"
 			"description" "player test"
-			"timeupdated" "1740218086"
+			"timeupdated" "1740220930"
 		}
 	}
 	"privatebranches" "1"
@@ -440,6 +440,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27609382"
-"_sha" "c67311dcb2791bc809cb5dc95904e63be3a6b207"
-"_size" "9910"
+"_change_number" "27610282"
+"_sha" "34e4829c0cd1544c30a1460279cac374c9d6884d"
+"_size" "9911"
