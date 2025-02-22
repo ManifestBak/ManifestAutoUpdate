@@ -181,7 +181,7 @@
 		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -209,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "7373640252412594057"
-				"size" "1852123746"
-				"download" "1487026576"
+				"gid" "5322824371716384993"
+				"size" "1852150079"
+				"download" "1487041744"
 			}
 			"default2"
 			{
@@ -231,13 +231,13 @@
 	{
 		"public"
 		{
-			"buildid" "17456031"
-			"timeupdated" "1740146573"
+			"buildid" "17462661"
+			"timeupdated" "1740183431"
 		}
 		"default2"
 		{
 			"buildid" "17401483"
-			"description" "测试版【勿选】"
+			"description" "特殊处理用版本【优化脚本去除】"
 			"timeupdated" "1739847746"
 		}
 		"default3"
@@ -263,6 +263,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27596127"
-"_sha" "762b3546b51e5ec2a151c67b101229165f7e06cd"
-"_size" "5502"
+"_change_number" "27605735"
+"_sha" "6852aa373458b08501a16583e2da692fb49024b5"
+"_size" "5526"
