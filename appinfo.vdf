@@ -28,7 +28,7 @@
 		"latam" "Flash Doll"
 		"schinese" "闪光公仔"
 		"indonesian" "Boneka bercahaya"
-		"german" "Leuchtpuppen"
+		"german" "Flash Doll"
 	}
 	"releasestate" "released"
 	"languages"
@@ -262,6 +262,7 @@
 			"executable" "FlashDoll.exe"
 		}
 	}
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -276,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "5241516378632011100"
-				"size" "1762879965"
-				"download" "1394259248"
+				"gid" "4568282501148547112"
+				"size" "1762879945"
+				"download" "1394259392"
 			}
 		}
 	}
@@ -286,8 +287,8 @@
 	{
 		"public"
 		{
-			"buildid" "17464709"
-			"timeupdated" "1740203620"
+			"buildid" "17465898"
+			"timeupdated" "1740216419"
 		}
 	}
 }
@@ -306,6 +307,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27607781"
-"_sha" "65b866016627ed72a55ebbd9ceb8c62281ad8086"
-"_size" "5325"
+"_change_number" "27609022"
+"_sha" "41b77ec705470ffebfffa9b8b8f949c10ce5d550"
+"_size" "5353"
