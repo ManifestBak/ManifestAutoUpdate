@@ -321,21 +321,21 @@
 		{
 			"public"
 			{
-				"gid" "7176298881115760297"
-				"size" "532880292"
-				"download" "336351600"
+				"gid" "343251569727607990"
+				"size" "530902300"
+				"download" "334365328"
 			}
 			"update40-beta"
 			{
-				"gid" "717358524976256337"
-				"size" "842369621"
-				"download" "451235152"
+				"gid" "1350481353475952095"
+				"size" "842399575"
+				"download" "451243264"
 			}
 			"update40-beta-fna"
 			{
-				"gid" "717358524976256337"
-				"size" "842369621"
-				"download" "451235152"
+				"gid" "1350481353475952095"
+				"size" "842399575"
+				"download" "451243264"
 			}
 			"update40-beta-legacy"
 			{
@@ -369,9 +369,9 @@
 			}
 			"beta"
 			{
-				"gid" "717358524976256337"
-				"size" "842369621"
-				"download" "451235152"
+				"gid" "1350481353475952095"
+				"size" "842399575"
+				"download" "451243264"
 			}
 			"egghunt"
 			{
@@ -391,21 +391,21 @@
 		{
 			"public"
 			{
-				"gid" "8238795620178419109"
-				"size" "3829384"
-				"download" "2525904"
+				"gid" "7979589072199464679"
+				"size" "623950102"
+				"download" "366784368"
 			}
 			"update40-beta"
 			{
-				"gid" "826965740948923053"
-				"size" "869852190"
-				"download" "458661952"
+				"gid" "3180081817056766101"
+				"size" "869882144"
+				"download" "458712272"
 			}
 			"update40-beta-fna"
 			{
-				"gid" "826965740948923053"
-				"size" "869852190"
-				"download" "458661952"
+				"gid" "3180081817056766101"
+				"size" "869882144"
+				"download" "458712272"
 			}
 			"update40-beta-legacy"
 			{
@@ -439,9 +439,9 @@
 			}
 			"beta"
 			{
-				"gid" "826965740948923053"
-				"size" "869852190"
-				"download" "458661952"
+				"gid" "3180081817056766101"
+				"size" "869882144"
+				"download" "458712272"
 			}
 			"egghunt"
 			{
@@ -461,9 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "1991233236409125197"
-				"size" "3829384"
-				"download" "2525904"
+				"gid" "850737902619403739"
+				"size" "658827963"
+				"download" "376622688"
 			}
 			"update40-beta"
 			{
@@ -526,20 +526,20 @@
 	{
 		"public"
 		{
-			"buildid" "17366332"
-			"timeupdated" "1739535433"
+			"buildid" "15765242"
+			"timeupdated" "1740226545"
 		}
 		"update40-beta"
 		{
-			"buildid" "16825755"
+			"buildid" "17380947"
 			"description" "Update 40 Public Beta Build"
-			"timeupdated" "1734816164"
+			"timeupdated" "1739664520"
 		}
 		"update40-beta-fna"
 		{
-			"buildid" "16825755"
+			"buildid" "17380947"
 			"description" "FNA Update 40 Public Beta Build"
-			"timeupdated" "1734816265"
+			"timeupdated" "1739664613"
 		}
 		"update40-beta-legacy"
 		{
@@ -573,8 +573,8 @@
 		}
 		"beta"
 		{
-			"buildid" "16825755"
-			"timeupdated" "1734816326"
+			"buildid" "17380947"
+			"timeupdated" "1739664647"
 		}
 		"egghunt"
 		{
@@ -705,6 +705,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27478899"
-"_sha" "0c1cdff961fd6143bbbb34603d261dad1684ea1c"
-"_size" "14588"
+"_change_number" "27610233"
+"_sha" "4673c5e0d8ea12dd94e7a7de8a100c357b649f88"
+"_size" "14600"
