@@ -260,19 +260,19 @@
 			}
 			"description_loc"
 			{
-				"english" "DirectX 11 (Most Compatible)"
-				"koreana" "DirectX 11(가장 호환성이 좋음)"
-				"schinese" "DirectX 11（最兼容）"
-				"russian" "DirectX 11 (наиболее совместимый)"
-				"japanese" "DirectX 11(最も互換性が高い)"
-				"ukrainian" "DirectX 11 (найбільш сумісний)"
+				"english" "DirectX 11 "
+				"koreana" "DirectX 11"
+				"schinese" "DirectX 11"
+				"russian" "DirectX 11 "
+				"japanese" "DirectX 11"
+				"ukrainian" "DirectX 11 "
 			}
-			"description" "DirectX 11 (Most Compatible)"
+			"description" "DirectX 11 "
 		}
 		"1"
 		{
 			"executable" "FurryAimTrainer.exe"
-			"arguments" "-d3d12"
+			"arguments" "-d3d11 -FeatureLevelES31"
 			"type" "option2"
 			"config"
 			{
@@ -281,9 +281,24 @@
 			}
 			"description_loc"
 			{
-				"english" "DirectX 12"
+				"english" "Performance / Compatibility Mode"
+				"german" "Leistung / Kompatibilitätsmodus"
+				"french" "Mode Performances/Compatibilité"
+				"italian" "Modalità Prestazioni/Compatibilità"
+				"koreana" "성능 / 호환 모드"
+				"spanish" "Modo de rendimiento/compatibilidad"
+				"schinese" "性能/兼容模式"
+				"tchinese" "性能/相容模式"
+				"russian" "Режим производительности/совместимости"
+				"japanese" "パフォーマンス / 互換モード"
+				"portuguese" "Modo de desempenho/compatibilidade"
+				"polish" "Tryb wydajności/zgodności"
+				"turkish" "Performans / Uyumluluk Modu"
+				"brazilian" "Modo de desempenho/compatibilidade"
+				"ukrainian" "Режим продуктивності / сумісності"
+				"latam" "Modo de rendimiento/compatibilidad"
 			}
-			"description" "DirectX 12"
+			"description" "Performance / Compatibility Mode"
 		}
 		"2"
 		{
@@ -314,6 +329,37 @@
 				"latam" "Vulkan (mejor para Proton/Linux)"
 			}
 			"description" "Vulkan (Best for Proton/Linux)"
+		}
+		"3"
+		{
+			"executable" "FurryAimTrainer.exe"
+			"arguments" "-d3d12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 12"
+				"german" "DirectX 12"
+				"french" "DirectX 12"
+				"italian" "DirectX 12"
+				"koreana" "DirectX 12"
+				"spanish" "DirectX 12"
+				"schinese" "DirectX 12"
+				"tchinese" "DirectX 12"
+				"russian" "DirectX 12"
+				"japanese" "DirectX 12"
+				"portuguese" "DirectX 12"
+				"polish" "DirectX 12"
+				"turkish" "DirectX 12"
+				"brazilian" "DirectX 12"
+				"ukrainian" "DirectX 12"
+				"latam" "DirectX 12"
+			}
+			"description" "DirectX 12"
 		}
 	}
 }
@@ -352,9 +398,9 @@
 		{
 			"public"
 			{
-				"gid" "4010008663822121456"
-				"size" "887656227"
-				"download" "701443024"
+				"gid" "2834702277868446982"
+				"size" "915151999"
+				"download" "727930912"
 			}
 			"censoredstreamermode"
 			{
@@ -368,8 +414,8 @@
 	{
 		"public"
 		{
-			"buildid" "17449478"
-			"timeupdated" "1740113343"
+			"buildid" "17472234"
+			"timeupdated" "1740299493"
 		}
 		"censoredstreamermode"
 		{
@@ -399,6 +445,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27588101"
-"_sha" "053d8f20720b89e133072cb1cc17949d271e3d01"
-"_size" "7600"
+"_change_number" "27617718"
+"_sha" "6e2e43cb530d69d3de92ec3de86368139e939dc6"
+"_size" "9008"
