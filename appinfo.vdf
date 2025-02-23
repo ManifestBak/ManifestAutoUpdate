@@ -239,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "5090714207503347562"
-				"size" "10359770111"
-				"download" "4371090544"
+				"gid" "5569254971079504213"
+				"size" "13337963595"
+				"download" "5644300672"
 			}
 			"revision-8"
 			{
@@ -251,9 +251,15 @@
 			}
 			"beta"
 			{
-				"gid" "3306143151782911541"
-				"size" "11115102538"
-				"download" "4888645904"
+				"gid" "255820110542705971"
+				"size" "14143116080"
+				"download" "6184928832"
+			}
+			"beta-cu128"
+			{
+				"gid" "6145697283726943708"
+				"size" "17250097612"
+				"download" "6800068592"
 			}
 			"revision-1"
 			{
@@ -267,8 +273,8 @@
 	{
 		"public"
 		{
-			"buildid" "17303031"
-			"timeupdated" "1739168792"
+			"buildid" "17472796"
+			"timeupdated" "1740305407"
 		}
 		"revision-8"
 		{
@@ -278,9 +284,15 @@
 		}
 		"beta"
 		{
-			"buildid" "17303045"
+			"buildid" "17376628"
 			"description" "SVFI Beta Test"
-			"timeupdated" "1739168828"
+			"timeupdated" "1739610827"
+		}
+		"beta-cu128"
+		{
+			"buildid" "17347529"
+			"description" "Blackwell Support"
+			"timeupdated" "1739428795"
 		}
 		"revision-1"
 		{
@@ -292,6 +304,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27394995"
-"_sha" "c530e033240d4436066148a436ada02401bc3307"
-"_size" "5045"
+"_change_number" "27618205"
+"_sha" "2893be529745bc7510c85a09599fa59986b9e240"
+"_size" "5287"
