@@ -234,24 +234,15 @@
 		{
 			"public"
 			{
-				"gid" "1280274275177629975"
-				"size" "951457435"
-				"download" "384758320"
+				"gid" "9108030452583803279"
+				"size" "952969139"
+				"download" "385058176"
 			}
 			"patchtesting"
 			{
-				"gid" "1280274275177629975"
-				"size" "951457435"
-				"download" "384758320"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secrettesting"
-			{
-				"gid" "B2FF34E384080B70438B8C6BF212C4AA"
-				"size" "E58598659C139FB8E11BED697AB45402"
-				"download" "AC201340737AADA9EB25A8036ADE581E"
+				"gid" "9108030452583803279"
+				"size" "952969139"
+				"download" "385058176"
 			}
 		}
 	}
@@ -266,24 +257,15 @@
 		{
 			"public"
 			{
-				"gid" "8314364316304418005"
-				"size" "1000321526"
-				"download" "388743328"
+				"gid" "6876962748109671856"
+				"size" "1001831718"
+				"download" "389078528"
 			}
 			"patchtesting"
 			{
-				"gid" "8314364316304418005"
-				"size" "1000321526"
-				"download" "388743328"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secrettesting"
-			{
-				"gid" "310CE646B29FA7C4B9849E346C3F38DC"
-				"size" "49B4E4D0EFAFBE57DF13A23EFB9EE153"
-				"download" "458F478B258609910867A9353B30CC20"
+				"gid" "6876962748109671856"
+				"size" "1001831718"
+				"download" "389078528"
 			}
 		}
 	}
@@ -298,24 +280,15 @@
 		{
 			"public"
 			{
-				"gid" "2152614381425796590"
-				"size" "974673255"
-				"download" "392239360"
+				"gid" "4039833413464864689"
+				"size" "976191775"
+				"download" "392561776"
 			}
 			"patchtesting"
 			{
-				"gid" "2152614381425796590"
-				"size" "974673255"
-				"download" "392239360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"secrettesting"
-			{
-				"gid" "206BEC1727D5EF6BD1547DB5989F00B7"
-				"size" "FCF0AB9344E9B8B075FEDFF51A520353"
-				"download" "83B3B0CCF7728873000A2F728BD67533"
+				"gid" "4039833413464864689"
+				"size" "976191775"
+				"download" "392561776"
 			}
 		}
 	}
@@ -323,22 +296,17 @@
 	{
 		"public"
 		{
-			"buildid" "15990293"
-			"timeupdated" "1728548462"
+			"buildid" "17473224"
+			"timeupdated" "1740313296"
 		}
 		"patchtesting"
 		{
-			"buildid" "15990293"
+			"buildid" "17473224"
 			"description" "Test branch for patches before they go public"
-			"timeupdated" "1728540778"
-		}
-		"secrettesting"
-		{
-			"buildid" "15818826"
-			"pwdrequired" "1"
-			"timeupdated" "1727248972"
+			"timeupdated" "1740312909"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -382,6 +350,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26039003"
-"_sha" "fd391be034e1e3ee209b65635d1e4ed3a967b9cb"
-"_size" "6638"
+"_change_number" "27619015"
+"_sha" "f6ebab78a7c200ee254c7e9303721385a1066727"
+"_size" "5914"
