@@ -5,9 +5,9 @@
 	"type" "Game"
 	"logo" "9ecaf6cc2ddc73577d2bf7dcd1afc637686151f0"
 	"logo_small" "9ecaf6cc2ddc73577d2bf7dcd1afc637686151f0_thumb"
-	"icon" "8828a2e23b96332c38a4c48081a2aa603cbe95d3"
-	"clienticon" "017a63dace5e43c1a377fe2cb68fc982da1d6b21"
-	"clienttga" "e770f7edb1ca7f395b53c4d974a16534a94bf7d0"
+	"icon" "7b86d5d230639f8c89506690b9b099a5b7fdf2e2"
+	"clienticon" "9f247e23ffa0ecdf4c1bea704831768af906b752"
+	"clienttga" "3431d61089c6fa3adccacbf4ba7ff95ed426ff1b"
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
@@ -73,7 +73,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1716890665"
+	"store_asset_mtime" "1740273825"
 	"associations"
 	{
 		"0"
@@ -224,9 +224,9 @@
 		{
 			"public"
 			{
-				"gid" "5559316962750598863"
-				"size" "4187556727"
-				"download" "1885768048"
+				"gid" "89947009979427307"
+				"size" "8664009220"
+				"download" "3828736160"
 			}
 		}
 	}
@@ -235,12 +235,12 @@
 	{
 		"public"
 		{
-			"buildid" "17371225"
-			"timeupdated" "1739561039"
+			"buildid" "17470803"
+			"timeupdated" "1740276060"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27485842"
-"_sha" "81fd6256b3b60047f1a833d64edf8bd7271e0b5c"
-"_size" "3832"
+"_change_number" "27615768"
+"_sha" "52ee465edc8f10574bf8f302f754a3449985f1ab"
+"_size" "3830"
