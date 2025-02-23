@@ -222,13 +222,33 @@
 	"baselanguages" "english,schinese,tchinese"
 	"2965681"
 	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5938801985638844593"
-				"size" "1819506866"
-				"download" "1574671440"
+				"gid" "8152525246982967551"
+				"size" "1819504287"
+				"download" "1574668160"
+			}
+		}
+	}
+	"2965682"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1940917712648711903"
+				"size" "1733068625"
+				"download" "1549077104"
 			}
 		}
 	}
@@ -236,12 +256,12 @@
 	{
 		"public"
 		{
-			"buildid" "17463577"
-			"timeupdated" "1740191071"
+			"buildid" "17470007"
+			"timeupdated" "1740265452"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27606379"
-"_sha" "c230c017e27eb9baf2c9f0108b85448405e994e5"
-"_size" "4252"
+"_change_number" "27614695"
+"_sha" "d5a606dd57a579c518f7d90dbf9635d1a0ebb6bf"
+"_size" "4508"
