@@ -293,6 +293,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1737976966"
 	"community_visible_stats" "1"
@@ -375,9 +381,9 @@
 		{
 			"public"
 			{
-				"gid" "1774941739762762580"
-				"size" "505113923"
-				"download" "303782384"
+				"gid" "201758268572356182"
+				"size" "503645203"
+				"download" "302656176"
 			}
 		}
 	}
@@ -392,9 +398,9 @@
 		{
 			"public"
 			{
-				"gid" "4110507959729952178"
-				"size" "504961982"
-				"download" "298333648"
+				"gid" "5588872334805782431"
+				"size" "503493262"
+				"download" "297207264"
 			}
 		}
 	}
@@ -409,9 +415,9 @@
 		{
 			"public"
 			{
-				"gid" "6561160779198999141"
-				"size" "476227617"
-				"download" "295371552"
+				"gid" "7486875391261533883"
+				"size" "474762521"
+				"download" "294246704"
 			}
 		}
 	}
@@ -419,12 +425,12 @@
 	{
 		"public"
 		{
-			"buildid" "17445307"
-			"timeupdated" "1740084803"
+			"buildid" "17474612"
+			"timeupdated" "1740329455"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27582516"
-"_sha" "4c91631377c3e2d06c37a46dc1e33541cfc5ce9a"
-"_size" "7203"
+"_change_number" "27620902"
+"_sha" "1fe0799f54594ef233642f0fd1e3d980b229333f"
+"_size" "7297"
