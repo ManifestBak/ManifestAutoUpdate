@@ -101,7 +101,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727583119"
+	"store_asset_mtime" "1740235544"
 	"associations"
 	{
 		"0"
@@ -112,7 +112,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" " ETime Studio"
+			"name" "ETime Studio"
 		}
 	}
 	"primary_genre" "23"
@@ -245,7 +245,7 @@
 "extended"
 {
 	"developer" "Infinite Studio Inc."
-	"publisher" " ETime Studio"
+	"publisher" "ETime Studio"
 }
 "config"
 {
@@ -270,9 +270,9 @@
 		{
 			"public"
 			{
-				"gid" "8954564751614038694"
-				"size" "1358979346"
-				"download" "473829856"
+				"gid" "788086862690008106"
+				"size" "1349429455"
+				"download" "470551360"
 			}
 		}
 	}
@@ -282,8 +282,8 @@
 	{
 		"public"
 		{
-			"buildid" "17331826"
-			"timeupdated" "1739342060"
+			"buildid" "17471703"
+			"timeupdated" "1740290451"
 		}
 	}
 }
@@ -318,6 +318,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27433658"
-"_sha" "d3e84fff5d383f115a9257ed7b804c8dd67177fc"
-"_size" "5635"
+"_change_number" "27616918"
+"_sha" "e0904a585c88aecaf8299759b164c539562be1f8"
+"_size" "5632"
