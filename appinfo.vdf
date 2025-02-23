@@ -15,6 +15,55 @@
 	"osextended" ""
 	"releasestate" "released"
 	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1740182400"
+		"tested_build_id" "17424450"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -248,7 +297,7 @@
 		"19" "3810"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -282,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "7367657145061885481"
-				"size" "20073813392"
-				"download" "7090514256"
+				"gid" "4351708383752869664"
+				"size" "20079649240"
+				"download" "7093225152"
 			}
 		}
 	}
@@ -292,12 +341,12 @@
 	{
 		"public"
 		{
-			"buildid" "17450080"
-			"timeupdated" "1740117160"
+			"buildid" "17474059"
+			"timeupdated" "1740326224"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27588662"
-"_sha" "31699705e5e168b412a7d0b664b801733206304f"
-"_size" "5033"
+"_change_number" "27620492"
+"_sha" "3d2e8a02a4080aed9ae80bb771c5316df8f60053"
+"_size" "6273"
