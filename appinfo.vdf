@@ -22,11 +22,11 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"tchinese" "b7ba9d4660d754e2eac45285d0681a51d1d1f4b9/capsule_231x87_tchinese.jpg"
-		"japanese" "6335e039eee0dcc1ca533b0a1d68fad7d1a85d75/capsule_231x87_japanese.jpg"
-		"koreana" "6335e039eee0dcc1ca533b0a1d68fad7d1a85d75/capsule_231x87_koreana.jpg"
-		"schinese" "b7ba9d4660d754e2eac45285d0681a51d1d1f4b9/capsule_231x87_schinese.jpg"
-		"english" "6335e039eee0dcc1ca533b0a1d68fad7d1a85d75/capsule_231x87.jpg"
+		"tchinese" "1863f13ebf377c4c2d2bfcdbc2e22f597797238a/capsule_231x87_tchinese.jpg"
+		"japanese" "b7938ba2e231c452a5386d7bffdaf3d89625a51b/capsule_231x87_japanese.jpg"
+		"koreana" "b7938ba2e231c452a5386d7bffdaf3d89625a51b/capsule_231x87_koreana.jpg"
+		"schinese" "1863f13ebf377c4c2d2bfcdbc2e22f597797238a/capsule_231x87_schinese.jpg"
+		"english" "b7938ba2e231c452a5386d7bffdaf3d89625a51b/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -126,7 +126,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736812492"
+	"store_asset_mtime" "1740402288"
 	"associations"
 	{
 		"0"
@@ -214,7 +214,7 @@
 		"19" "4791"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -289,9 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "3721689436106318872"
-				"size" "5720459248"
-				"download" "5561640992"
+				"gid" "7805364782844756138"
+				"size" "5737733878"
+				"download" "5578914928"
 			}
 		}
 	}
@@ -299,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "16808149"
-			"timeupdated" "1736812247"
+			"buildid" "17471000"
+			"timeupdated" "1740414039"
 		}
 	}
 }
@@ -324,6 +324,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26980637"
-"_sha" "713775f745b07d4939a2b01a66cc69d087385d26"
+"_change_number" "27637965"
+"_sha" "500497075e58f2deec68ce5ae5ba13b7ab6c08ef"
 "_size" "6551"
