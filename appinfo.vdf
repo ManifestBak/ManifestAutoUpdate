@@ -145,6 +145,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_61" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -250,12 +251,100 @@
 		"0"
 		{
 			"executable" "CatgirlAimTrainer.exe"
-			"type" "default"
+			"arguments" "-d3d11"
+			"type" "option1"
 			"config"
 			{
 				"oslist" "windows"
 				"osarch" "64"
 			}
+			"description_loc"
+			{
+				"english" "DirectX 11"
+				"koreana" "DirectX 11"
+				"schinese" "DirectX 11"
+				"russian" "DirectX 11"
+				"japanese" "DirectX 11"
+				"ukrainian" "DirectX 11"
+			}
+			"description" "DirectX 11"
+		}
+		"1"
+		{
+			"executable" "CatgirlAimTrainer.exe"
+			"arguments" "-d3d11 -FeatureLevelES31"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Performance / Compatibility Mode"
+				"german" "Leistung / Kompatibilitätsmodus"
+				"french" "Mode Performances/Compatibilité"
+				"italian" "Modalità Prestazioni/Compatibilità"
+				"koreana" "성능 / 호환 모드"
+				"spanish" "Modo de rendimiento/compatibilidad"
+				"schinese" "性能/兼容模式"
+				"tchinese" "性能/相容模式"
+				"russian" "Режим производительности/совместимости"
+				"japanese" "パフォーマンス / 互換モード"
+				"portuguese" "Modo de desempenho/compatibilidade"
+				"polish" "Tryb wydajności/zgodności"
+				"turkish" "Performans / Uyumluluk Modu"
+				"brazilian" "Modo de desempenho/compatibilidade"
+				"ukrainian" "Режим продуктивності / сумісності"
+				"latam" "Modo de rendimiento/compatibilidad"
+			}
+			"description" "Performance / Compatibility Mode"
+		}
+		"2"
+		{
+			"executable" "CatgirlAimTrainer.exe"
+			"arguments" "-vulkan"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Vulkan (Best for Proton/Linux)"
+				"german" "Vulkan (am besten für Proton/Linux)"
+				"french" "Vulkan (idéal pour Proton/Linux)"
+				"italian" "Vulkan (migliore per Proton/Linux)"
+				"koreana" "Vulkan(Proton/Linux에 가장 적합)"
+				"spanish" "Vulkan (mejor para Proton/Linux)"
+				"schinese" "Vulkan（最适合 Proton/Linux）"
+				"tchinese" "Vulkan（最適合 Proton/Linux）"
+				"russian" "Vulkan (лучше всего для Proton/Linux)"
+				"japanese" "Vulkan (Proton/Linux に最適)"
+				"portuguese" "Vulkan (melhor para Proton/Linux)"
+				"polish" "Vulkan (najlepszy dla Protonu/Linux)"
+				"brazilian" "Vulkan (melhor para Proton/Linux)"
+				"ukrainian" "Vulkan (найкраще для Proton/Linux)"
+				"latam" "Vulkan (mejor para Proton/Linux)"
+			}
+			"description" "Vulkan (Best for Proton/Linux)"
+		}
+		"3"
+		{
+			"executable" "CatgirlAimTrainer.exe"
+			"arguments" "-d3d12"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DirectX 12"
+			}
+			"description" "DirectX 12"
 		}
 	}
 }
@@ -294,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "6053291573004894921"
-				"size" "527426009"
-				"download" "407142128"
+				"gid" "3795465963621497257"
+				"size" "536607653"
+				"download" "415063616"
 			}
 			"censoredstreamermode"
 			{
@@ -310,8 +399,8 @@
 	{
 		"public"
 		{
-			"buildid" "17461504"
-			"timeupdated" "1740175663"
+			"buildid" "17479806"
+			"timeupdated" "1740380865"
 		}
 		"censoredstreamermode"
 		{
@@ -341,6 +430,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27603763"
-"_sha" "5bb1060e25896580b475df52cf6317f381b98e75"
-"_size" "5871"
+"_change_number" "27628477"
+"_sha" "f2c2b5c8454182b3d11a47fa9f6b115170c93462"
+"_size" "8668"
