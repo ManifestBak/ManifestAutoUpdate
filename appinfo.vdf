@@ -1,0 +1,86 @@
+"appid" "238690"
+"common"
+{
+	"name" "Rising Storm Beta Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"freetodownload" "1"
+	"gameid" "238690"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" ""
+	"gamedir" "ValveTestApp238690"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Rising Storm Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/game.exe"
+			"arguments" "-console"
+			"description" "Launch with Console"
+			"workingdir" "bin"
+		}
+	}
+}
+"depots"
+{
+	"238691"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1935636036930935304"
+				"size" "10261288492"
+				"download" "0"
+			}
+			"beta"
+			{
+				"gid" "2939625009422351744"
+				"size" "15431762947"
+				"download" "0"
+			}
+			"internalbeta"
+			{
+				"gid" "7205591244558743304"
+				"size" "5405810252"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "220840"
+		}
+		"beta"
+		{
+			"buildid" "172968"
+		}
+		"internalbeta"
+		{
+			"buildid" "72017"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "a5a4fabe89a487a4631a749124ad459b349d0174"
+"_size" "1317"
