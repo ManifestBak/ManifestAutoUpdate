@@ -180,19 +180,20 @@
 		"2" "122"
 		"3" "24904"
 		"4" "21"
-		"5" "492"
-		"6" "597"
-		"7" "44868"
+		"5" "44868"
+		"6" "492"
+		"7" "597"
 		"8" "9130"
 		"9" "5611"
 		"10" "3799"
 		"11" "4604"
 		"12" "4667"
 		"13" "6426"
-		"14" "493"
-		"15" "1684"
+		"14" "1684"
+		"15" "493"
 		"16" "4182"
 		"17" "7208"
+		"18" "4747"
 	}
 	"review_score" "8"
 	"review_percentage" "82"
@@ -249,30 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "8671830780335739255"
-				"size" "1642390550"
-				"download" "1491996512"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "69C366FCEA1F9406CE061A9B06C64BBB"
-				"size" "AC58667C4761914E5BE815CB2C6D9A66"
-				"download" "BB907814FBB05A8C2357DA89A3489DA0"
-			}
-			"linux-test"
-			{
-				"gid" "66D994041AD1A5A8F83D4AC5D700B3EC"
-				"size" "A25B48DDC361F8A22626753F5A9D9E7B"
-				"download" "2DAD4DB3CC1946380528810447DA6265"
-			}
-			"os-x"
-			{
-				"gid" "DEC024BE631C47D43FE5523CDDF7E54C"
-				"size" "0EC4B593F5148B77539D9BAB6B671123"
-				"download" "18B482B381D70C69E28A567CA1599A7D"
+				"gid" "3917386056293332415"
+				"size" "1742738312"
+				"download" "1581369200"
 			}
 		}
 	}
@@ -285,48 +265,16 @@
 		"manifests"
 		{
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "640B84F99B32A1B26630BF5E475608BF"
-				"size" "611B39EC642B0D63831273622573B11C"
-				"download" "9CBECFBF222CC8D90533E5189C1A87F2"
-			}
-			"os-x"
-			{
-				"gid" "215EE9EB1F84F29D10958E9894937938"
-				"size" "D8BD2448C0A4F8A5D42EA32375AA1AC7"
-				"download" "FE2BC74DC1A883CC04E9C3B3B6F10647"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16205421"
-			"timeupdated" "1730116584"
-		}
-		"beta"
-		{
-			"buildid" "16205439"
-			"pwdrequired" "1"
-			"timeupdated" "1730116627"
-		}
-		"linux-test"
-		{
-			"buildid" "16205421"
-			"pwdrequired" "1"
-			"timeupdated" "1730116610"
-		}
-		"os-x"
-		{
-			"buildid" "16205435"
-			"pwdrequired" "1"
-			"timeupdated" "1730116602"
+			"buildid" "17483475"
+			"timeupdated" "1740401691"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -367,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25930219"
-"_sha" "41db9c0198838530c9b92ebf9b5a076ed0d323d0"
-"_size" "6465"
+"_change_number" "27633615"
+"_sha" "de43cc42d5c523318f3e2fbf53cbc348625ba41b"
+"_size" "5273"
