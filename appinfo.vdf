@@ -265,7 +265,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730686714"
+	"store_asset_mtime" "1733729773"
 	"associations"
 	{
 		"0"
@@ -393,7 +393,7 @@
 		"19" "19995"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -418,6 +418,7 @@
 	"steam_china_only"
 	{
 		"steam_china_enable_duration_control" "1"
+		"steam_china_duration_control_show_interstitial" "0"
 	}
 }
 "depots"
@@ -427,23 +428,32 @@
 		"config"
 		{
 			"oslist" "windows"
+			"realm" "steamglobal"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "1590015100003317056"
-				"size" "637397923"
-				"download" "243401264"
+				"gid" "1727665613992686896"
+				"size" "637441931"
+				"download" "243400880"
 			}
 		}
-		"encryptedmanifests"
+	}
+	"1598582"
+	{
+		"config"
 		{
-			"steam_china_only"
+			"realm" "steamchina"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
 			{
-				"gid" "CC2CD8572BE653063FCB40BE9B672788"
-				"size" "A5F182C97B78B0981FE53BAD243C0E1E"
-				"download" "5C6DC1FD7C254BA8A8E823EB52879185"
+				"gid" "611614875132823658"
+				"size" "614794692"
+				"download" "239468912"
 			}
 		}
 	}
@@ -463,31 +473,16 @@
 				"download" "1413200"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "108C9B2F4EC94BA6A2232323ECD972AC"
-				"size" "1D975737E4363784F54866F16E8EB72E"
-				"download" "DFA13A9BDBC8D3503406E076BD345945"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16466510"
-			"timeupdated" "1732156642"
-		}
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "16466510"
-			"pwdrequired" "1"
-			"timeupdated" "1732069325"
+			"buildid" "17480185"
+			"timeupdated" "1740383839"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -495,6 +490,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26412803"
-"_sha" "46f68e516bed4ee98d00764991b27bf18629eba2"
-"_size" "12092"
+"_change_number" "27628946"
+"_sha" "89d5f5ee0c91eb14fdba1215980f892161507ce8"
+"_size" "11854"
