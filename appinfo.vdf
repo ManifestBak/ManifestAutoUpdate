@@ -10,6 +10,55 @@
 	"clienttga" "44e869c7d1b096beb7437c20924f70f2eca36c42"
 	"clienticon" "aadf5c0bc53813dac2c8d86aae21a260ab6b7fcf"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1739232000"
+		"tested_build_id" "17273588"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -251,8 +300,8 @@
 		"5" "4758"
 		"6" "3871"
 		"7" "4094"
-		"8" "1669"
-		"9" "13782"
+		"8" "13782"
+		"9" "1669"
 		"10" "1759"
 		"11" "5154"
 		"12" "4182"
@@ -337,7 +386,7 @@
 			"type" "editor"
 			"config"
 			{
-				"betakey" "beta"
+				"betakey" "beta2"
 			}
 			"description_loc"
 			{
@@ -385,36 +434,15 @@
 		{
 			"public"
 			{
-				"gid" "1290322563603801114"
-				"size" "115884641"
-				"download" "62688128"
+				"gid" "5490999455112483372"
+				"size" "115985771"
+				"download" "62703712"
 			}
 			"modding"
 			{
-				"gid" "8213473780572542905"
-				"size" "464087424"
-				"download" "233671040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"public-beta"
-			{
-				"gid" "EBC2732BAA93D921F802CE1DC9CB6170"
-				"size" "B369B9164B606A9442F757A3684A5760"
-				"download" "19B7E5C623BA6192200B5F9AB52C24A9"
-			}
-			"beta"
-			{
-				"gid" "539345AEA485E0F1EFF56EE4D1025E92"
-				"size" "13B350F46F647ACDB159597FE844E747"
-				"download" "553E558B456E1DEED1B7CC5677A49707"
-			}
-			"modding-beta"
-			{
-				"gid" "198A5B219C68F7BA9C7CAFA29018F2FD"
-				"size" "24C941157865AAF4CDE48D400557E191"
-				"download" "D12E6CF883CE2F30A2B11B7A65F49247"
+				"gid" "416002082151957718"
+				"size" "465257565"
+				"download" "234644336"
 			}
 		}
 	}
@@ -428,36 +456,15 @@
 		{
 			"public"
 			{
-				"gid" "573292396546854053"
-				"size" "138438850"
-				"download" "67523120"
+				"gid" "3373609277588304319"
+				"size" "138539980"
+				"download" "67537424"
 			}
 			"modding"
 			{
-				"gid" "8548667604466818210"
-				"size" "505705193"
-				"download" "222284144"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"public-beta"
-			{
-				"gid" "9BED383B4E192EC2750DF2879165A45F"
-				"size" "BB37D013B5E1D4EDE9D0635A9014CF42"
-				"download" "84E7B42E04F2713AC5A7F5D758B79C8B"
-			}
-			"beta"
-			{
-				"gid" "531CAC49C320E7A01CD12B54F4EB0594"
-				"size" "12BF0D6ED4A94C4974C23680AF0D0906"
-				"download" "EE54CE874A86EBCC6513115E9779C9B8"
-			}
-			"modding-beta"
-			{
-				"gid" "7AAC96F2375F833382CD07450FA97466"
-				"size" "4E06630DB44E3DFCF9E86C8074ED0C1F"
-				"download" "3CFC0D9923183B6B1156EC43AB60F6AD"
+				"gid" "5273277151316825049"
+				"size" "506875334"
+				"download" "223256160"
 			}
 		}
 	}
@@ -466,34 +473,17 @@
 	{
 		"public"
 		{
-			"buildid" "15815136"
-			"timeupdated" "1727224123"
-		}
-		"public-beta"
-		{
-			"buildid" "13637595"
-			"pwdrequired" "1"
-			"timeupdated" "1709586222"
-		}
-		"beta"
-		{
-			"buildid" "15815136"
-			"pwdrequired" "1"
-			"timeupdated" "1727220832"
+			"buildid" "17477159"
+			"timeupdated" "1740357643"
 		}
 		"modding"
 		{
-			"buildid" "15815329"
+			"buildid" "17477208"
 			"description" "modding"
-			"timeupdated" "1727224099"
-		}
-		"modding-beta"
-		{
-			"buildid" "15815329"
-			"pwdrequired" "1"
-			"timeupdated" "1727222425"
+			"timeupdated" "1740357620"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -527,3 +517,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "27625021"
+"_sha" "37b1ba2064d70bb765ded5a62bf93bc75b1b24be"
+"_size" "8569"
