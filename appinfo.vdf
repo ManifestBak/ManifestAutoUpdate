@@ -12,6 +12,10 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -55,6 +59,7 @@
 		}
 	}
 	"metacritic_name" "ULTRAKILL"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -74,6 +79,44 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "69.19486581096851"
 			"height_pct" "43.009121184230395"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "69.19486581096851"
+				"height_pct" "43.009121184230395"
+			}
 		}
 	}
 	"store_asset_mtime" "1703161023"
@@ -109,6 +152,10 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -127,25 +174,25 @@
 	"store_tags"
 	{
 		"0" "1023537"
-		"1" "3955"
-		"2" "1734"
-		"3" "1663"
+		"1" "1734"
+		"2" "1663"
+		"3" "3955"
 		"4" "5228"
-		"5" "4777"
-		"6" "5547"
+		"5" "5547"
+		"6" "4777"
 		"7" "4004"
 		"8" "4182"
 		"9" "1774"
-		"10" "3839"
-		"11" "4026"
-		"12" "4305"
-		"13" "5154"
-		"14" "19"
-		"15" "4115"
-		"16" "1756"
-		"17" "5752"
+		"10" "4026"
+		"11" "3839"
+		"12" "1756"
+		"13" "19"
+		"14" "5154"
+		"15" "4305"
+		"16" "5752"
+		"17" "4115"
 		"18" "3916"
-		"19" "4191"
+		"19" "493"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -179,42 +226,9 @@
 		{
 			"public"
 			{
-				"gid" "6666720363269022893"
-				"size" "1954865388"
-				"download" "1656244240"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"pitrvania"
-			{
-				"gid" "C6FA57F38EB11CEFB57980ED64786DBD"
-				"size" "2BDF62E533FE62ACF3A7E42719706C76"
-				"download" "89DB6DE15C61276450B1CD0E66A01DA9"
-			}
-			"pitrvania2"
-			{
-				"gid" "293F82CB638BA4FFD478C9BA458DD7DC"
-				"size" "68C624E60EB35E58EBB63E1D6A75F8B8"
-				"download" "45D2A458D45B75A2D025EEE95D396CC4"
-			}
-			"beta"
-			{
-				"gid" "CE8DC637FDDF3FD22599F90676005671"
-				"size" "7619F7B731595ECE57CC6762C5E46FC3"
-				"download" "9EADB2223519C3B4CFC50B92D2455892"
-			}
-			"development"
-			{
-				"gid" "75ED2CAD1E9A0737970D50417ECCEBDC"
-				"size" "9E9FB86170F280C74C2B89E6A2DA143D"
-				"download" "E9BAF075F5941B6BECF681D623303571"
-			}
-			"tomatotown"
-			{
-				"gid" "E7F322146D1F797DE42FA02BDBA3E2F1"
-				"size" "88E0659BADA1D5BD7162657D5D6CC355"
-				"download" "38CB66333D63B34B07438C5B361BE43D"
+				"gid" "2719801646923616335"
+				"size" "2756785077"
+				"download" "2073616304"
 			}
 		}
 	}
@@ -223,40 +237,11 @@
 	{
 		"public"
 		{
-			"buildid" "14344626"
-			"timeupdated" "1715566008"
-		}
-		"pitrvania"
-		{
-			"buildid" "13253428"
-			"pwdrequired" "1"
-			"timeupdated" "1706048505"
-		}
-		"pitrvania2"
-		{
-			"buildid" "13253428"
-			"pwdrequired" "1"
-			"timeupdated" "1706048345"
-		}
-		"beta"
-		{
-			"buildid" "14344626"
-			"pwdrequired" "1"
-			"timeupdated" "1715565761"
-		}
-		"development"
-		{
-			"buildid" "14344626"
-			"pwdrequired" "1"
-			"timeupdated" "1715565755"
-		}
-		"tomatotown"
-		{
-			"buildid" "14214916"
-			"pwdrequired" "1"
-			"timeupdated" "1714434764"
+			"buildid" "17487743"
+			"timeupdated" "1740420067"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -279,24 +264,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#atmainmenu" "Main Menu"
-				"#atcybergrind" "%difficulty% | Cyber Grind: Wave %wave%"
-				"#atstandardlevel" "%difficulty% | %level%"
-				"#atcustomlevel" "Playing Custom Level"
-				"#unknownlevel" "\?\?\?"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "23750675"
-"_sha" "5f9d710a70c69ddbddd09b9e07191a9144c17433"
-"_size" "5713"
+"_change_number" "27640541"
+"_sha" "f022d17ecc42c427e3d1f55132eb7649c37fb6da"
+"_size" "4709"
