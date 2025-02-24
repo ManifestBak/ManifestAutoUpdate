@@ -184,6 +184,7 @@
 		"category_24" "1"
 		"category_44" "1"
 		"category_1" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -279,6 +280,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1699628423"
 	"community_visible_stats" "1"
@@ -308,7 +314,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -353,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "5557089976917811842"
-				"size" "2429589724"
-				"download" "453397344"
+				"gid" "6048602572685033951"
+				"size" "2429576660"
+				"download" "453389152"
 			}
 		}
 	}
@@ -369,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "3377493404285478891"
-				"size" "2439579592"
-				"download" "456499936"
+				"gid" "6421660173099070100"
+				"size" "2439566528"
+				"download" "456514704"
 			}
 		}
 	}
@@ -379,8 +385,8 @@
 	{
 		"public"
 		{
-			"buildid" "17146785"
-			"timeupdated" "1737993046"
+			"buildid" "17489356"
+			"timeupdated" "1740427063"
 		}
 	}
 	"privatebranches" "1"
@@ -434,6 +440,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27185880"
-"_sha" "b96d4e32f4ef79f21f939674746ea82035b053d3"
-"_size" "7251"
+"_change_number" "27642609"
+"_sha" "f0d1684676b2ed00be2deaf05b12c39a766de200"
+"_size" "7344"
