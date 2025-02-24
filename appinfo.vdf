@@ -1,0 +1,513 @@
+"appid" "1325860"
+"common"
+{
+	"name" "VTube Studio"
+	"type" "Application"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+	}
+	"clienttga" "02aecc9d1f039a7ff38c61049b92e25d4168855b"
+	"clienticon" "bbe96690cdb520dce62d26ac43e913c8c1682a04"
+	"clienticns" "b481dbb9b582f5a11166a9731b99cf4704b64514"
+	"logo" "b934a45123bd6319e2c33fe99e063a79a0cebe61"
+	"logo_small" "b934a45123bd6319e2c33fe99e063a79a0cebe61_thumb"
+	"icon" "afd5c41656a67009dd4ffd7919acdcfb9844bd2a"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1325860_eula_0"
+			"name" "VTube Studio EULA"
+			"url" "https://store.steampowered.com//eula/1325860_eula_0"
+			"version" "7"
+		}
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1658534400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "18.75460574797347"
+			"height_pct" "46.875"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "18.75460574797347"
+				"height_pct" "46.875"
+			}
+		}
+	}
+	"store_asset_mtime" "1617063523"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DenchiSoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DenchiSoft"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "23"
+		"1" "51"
+		"2" "58"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1615585740"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1325860"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "5611"
+		"2" "4085"
+		"3" "872"
+		"4" "24904"
+		"5" "113"
+		"6" "8013"
+		"7" "4726"
+		"8" "784"
+		"9" "4747"
+		"10" "3871"
+		"11" "87"
+		"12" "4136"
+		"13" "4182"
+		"14" "3859"
+		"15" "4191"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"enablegameoverlayforapp" "1"
+	"developer" "DenchiSoft"
+	"publisher" "DenchiSoft"
+	"homepage" "https://denchisoft.com/"
+	"isfreeapp" "1"
+	"listofdlc" "1520620,2178540,2384550"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "VTube Studio"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VTube Studio.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "VTubeStudio.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1325860"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1325861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4923175466408401953"
+				"size" "1321801087"
+				"download" "525363840"
+			}
+			"vts_old_1_26_11"
+			{
+				"gid" "749615731644002487"
+				"size" "930709252"
+				"download" "396487088"
+			}
+			"vts_old_1_27_5"
+			{
+				"gid" "1239108696093071150"
+				"size" "953054048"
+				"download" "401319008"
+			}
+			"vts_old_1_27_8"
+			{
+				"gid" "2977586407868959674"
+				"size" "953056534"
+				"download" "401318800"
+			}
+			"vts_old_1_28_0"
+			{
+				"gid" "8049053696534234759"
+				"size" "977861658"
+				"download" "403336832"
+			}
+			"vts_old_1_28_15"
+			{
+				"gid" "8244962056127093"
+				"size" "991118018"
+				"download" "411764496"
+			}
+			"vts_old_1_29_0"
+			{
+				"gid" "5128856594545746591"
+				"size" "1300572359"
+				"download" "518844176"
+			}
+			"vts_old_1_30_0"
+			{
+				"gid" "3101782185490589171"
+				"size" "1301847220"
+				"download" "518980928"
+			}
+			"vts_old_1_30_17"
+			{
+				"gid" "743339938671635574"
+				"size" "1302207137"
+				"download" "519057504"
+			}
+			"vts_public_beta"
+			{
+				"gid" "4619425000813098986"
+				"size" "1321846945"
+				"download" "525366432"
+			}
+		}
+	}
+	"1325862"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6193391613764843817"
+				"size" "1703144334"
+				"download" "520434256"
+			}
+			"vts_old_1_26_11"
+			{
+				"gid" "1383124428789114741"
+				"size" "1295006167"
+				"download" "393165632"
+			}
+			"vts_old_1_27_5"
+			{
+				"gid" "3792980935513701040"
+				"size" "1318478017"
+				"download" "398222208"
+			}
+			"vts_old_1_27_8"
+			{
+				"gid" "6590430647220611541"
+				"size" "1318475585"
+				"download" "398220544"
+			}
+			"vts_old_1_28_0"
+			{
+				"gid" "4159362024700540978"
+				"size" "1345399492"
+				"download" "400620800"
+			}
+			"vts_old_1_28_15"
+			{
+				"gid" "6409488163939462300"
+				"size" "1358694181"
+				"download" "408879136"
+			}
+			"vts_old_1_29_0"
+			{
+				"gid" "778256854249670108"
+				"size" "1650771791"
+				"download" "506038192"
+			}
+			"vts_old_1_30_0"
+			{
+				"gid" "4536089124333457141"
+				"size" "1652026924"
+				"download" "506170416"
+			}
+			"vts_old_1_30_17"
+			{
+				"gid" "8921336324025542752"
+				"size" "1652387269"
+				"download" "506248336"
+			}
+			"vts_public_beta"
+			{
+				"gid" "6193391613764843817"
+				"size" "1703144334"
+				"download" "520434256"
+			}
+		}
+	}
+	"2178540"
+	{
+		"dlcappid" "2178540"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1084702869645272865"
+				"size" "1817796887"
+				"download" "821711952"
+			}
+			"vts_old_1_26_11"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_27_5"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_27_8"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_28_0"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_28_15"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_29_0"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_30_0"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_old_1_30_17"
+			{
+				"gid" "4280566108427135658"
+				"size" "1562700398"
+				"download" "801232816"
+			}
+			"vts_public_beta"
+			{
+				"gid" "4136820112830287005"
+				"size" "3380497285"
+				"download" "1608678720"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17364515"
+			"timeupdated" "1739556938"
+		}
+		"vts_old_1_26_11"
+		{
+			"buildid" "11463468"
+			"description" "VTube Studio 1.26.11"
+			"timeupdated" "1695421409"
+		}
+		"vts_old_1_27_5"
+		{
+			"buildid" "12226434"
+			"description" "VTube Studio 1.27.5"
+			"timeupdated" "1695657394"
+		}
+		"vts_old_1_27_8"
+		{
+			"buildid" "12276182"
+			"description" "VTube Studio 1.27.8"
+			"timeupdated" "1703193478"
+		}
+		"vts_old_1_28_0"
+		{
+			"buildid" "13017525"
+			"description" "VTube Studio 1.28.0"
+			"timeupdated" "1703366068"
+		}
+		"vts_old_1_28_15"
+		{
+			"buildid" "13477357"
+			"description" " VTube Studio 1.28.15"
+			"timeupdated" "1721148108"
+		}
+		"vts_old_1_29_0"
+		{
+			"buildid" "15051953"
+			"description" " VTube Studio 1.29.0"
+			"timeupdated" "1732592619"
+		}
+		"vts_old_1_30_0"
+		{
+			"buildid" "16531057"
+			"description" "VTube Studio 1.30.0"
+			"timeupdated" "1734995981"
+		}
+		"vts_old_1_30_17"
+		{
+			"buildid" "16836494"
+			"description" "VTube Studio 1.30.17"
+			"timeupdated" "1739466970"
+		}
+		"vts_public_beta"
+		{
+			"buildid" "17409996"
+			"description" "VTube Studio Public Beta"
+			"timeupdated" "1739895770"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
