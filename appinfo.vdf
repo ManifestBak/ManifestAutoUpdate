@@ -103,6 +103,11 @@
 			"type" "publisher"
 			"name" "Deafperv"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Deafperv"
+		}
 	}
 	"primary_genre" "23"
 	"genres"
@@ -202,7 +207,7 @@
 		"18" "4242"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -267,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "2103297849441024775"
-				"size" "1462393298"
-				"download" "1307353632"
+				"gid" "6660819490022202131"
+				"size" "1733572984"
+				"download" "1576613984"
 			}
 		}
 	}
@@ -277,12 +282,12 @@
 	{
 		"public"
 		{
-			"buildid" "16986644"
-			"timeupdated" "1736770088"
+			"buildid" "17477055"
+			"timeupdated" "1740353891"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26971935"
-"_sha" "044e652086e51d5c1cec546a611c993039c0ef2b"
-"_size" "4435"
+"_change_number" "27624561"
+"_sha" "db3ba072e20f869fae09ee4a527df5f3d60d11a7"
+"_size" "4499"
