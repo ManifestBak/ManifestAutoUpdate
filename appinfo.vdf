@@ -155,6 +155,11 @@
 			"type" "publisher"
 			"name" "PlayWay S.A."
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
 	}
 	"primary_genre" "28"
 	"genres"
@@ -262,8 +267,8 @@
 		"0" "3839"
 		"1" "599"
 		"2" "12472"
-		"3" "16689"
-		"4" "10235"
+		"3" "10235"
+		"4" "16689"
 		"5" "9204"
 		"6" "3810"
 		"7" "255534"
@@ -390,9 +395,9 @@
 		{
 			"public"
 			{
-				"gid" "4156510518789289605"
-				"size" "4468896632"
-				"download" "1808829616"
+				"gid" "2644856066217630590"
+				"size" "4468400012"
+				"download" "1808660752"
 			}
 		}
 	}
@@ -400,8 +405,8 @@
 	{
 		"public"
 		{
-			"buildid" "17439087"
-			"timeupdated" "1740065768"
+			"buildid" "17483108"
+			"timeupdated" "1740409411"
 		}
 	}
 	"privatebranches" "1"
@@ -425,6 +430,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27577191"
-"_sha" "da8a2ea181d39faccac5717787edec746d290b02"
-"_size" "7266"
+"_change_number" "27636251"
+"_sha" "70f2ae761aadd5e5d0f3d84a3a5aad6b8f2dfe2e"
+"_size" "7334"
