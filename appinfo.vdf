@@ -277,9 +277,9 @@
 		{
 			"public"
 			{
-				"gid" "3611253973017957431"
-				"size" "12484396087"
-				"download" "11603560112"
+				"gid" "2089828412329594067"
+				"size" "12482991922"
+				"download" "11602166496"
 			}
 			"v0.10"
 			{
@@ -307,9 +307,9 @@
 			}
 			"beta"
 			{
-				"gid" "3611253973017957431"
-				"size" "12484396087"
-				"download" "11603560112"
+				"gid" "2089828412329594067"
+				"size" "12482991922"
+				"download" "11602166496"
 			}
 			"debug"
 			{
@@ -323,6 +323,12 @@
 				"size" "12563920997"
 				"download" "11691836560"
 			}
+			"v0.14"
+			{
+				"gid" "1370041557244229436"
+				"size" "12733441692"
+				"download" "11855105712"
+			}
 		}
 	}
 	"workshopdepot" "1638300"
@@ -330,8 +336,8 @@
 	{
 		"public"
 		{
-			"buildid" "17278481"
-			"timeupdated" "1739179278"
+			"buildid" "17389832"
+			"timeupdated" "1740395413"
 		}
 		"v0.10"
 		{
@@ -359,9 +365,9 @@
 		}
 		"beta"
 		{
-			"buildid" "17278481"
+			"buildid" "17389832"
 			"description" "\tTesting builds before publishing to the main branch"
-			"timeupdated" "1738925954"
+			"timeupdated" "1739779153"
 		}
 		"debug"
 		{
@@ -375,6 +381,12 @@
 			"description" "old stable version"
 			"timeupdated" "1721542369"
 		}
+		"v0.14"
+		{
+			"buildid" "15459665"
+			"description" "old stable version"
+			"timeupdated" "1739188274"
+		}
 	}
 	"privatebranches" "1"
 }
@@ -384,6 +396,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27397212"
-"_sha" "f5eaf58bd691c887e4b8597d0c55c7d09f304d22"
-"_size" "6730"
+"_change_number" "27631911"
+"_sha" "8087acefdf90a194da1af645ef5ed4e0a76689a2"
+"_size" "6965"
