@@ -1,0 +1,486 @@
+"appid" "3151320"
+"common"
+{
+	"name" "Dune: Awakening - Character Creator & Benchmark Mode"
+	"type" "Demo"
+	"parent" "1172710"
+	"releasestate" "released"
+	"clienticon" "9e2c3734926e4c284e838f0aef8c33c08777dff8"
+	"clienttga" "bbec1506ce34d03b4bcb3a3b197bc8a7f8dc7eca"
+	"icon" "2cac8af3383badfbda0f0d7408f276b4b377536c"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3151320_eula_0"
+			"name" "Dune: Awakening - Character Creator & Benchmark Mode EULA"
+			"url" "https://store.steampowered.com//eula/3151320_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"tchinese" "《Dune: Awakening》- 角色創造及基準測試"
+		"schinese" "《Dune: Awakening》——角色创建与基准测试模式"
+		"ukrainian" "Dune: Awakening — редактор персонажа й тест продуктивності"
+		"turkish" "Dune: Awakening - Karakter Oluşturma ve Karşılaştırma Modu"
+		"spanish" "Dune: Awakening - Creación de personajes & Modo benchmark"
+		"russian" "Dune: Awakening — создание персонажа и тест производительности"
+		"brazilian" "Dune: Awakening - Criação de Personagem & Modo Benchmark"
+		"polish" "Dune: Awakening – Kreowanie postaci i tryb testowy"
+		"koreana" "Dune: Awakening - 캐릭터 생성 및 벤치마크 모드"
+		"japanese" "『Dune: Awakening』 - キャラクター作成＆ベンチマークモード"
+		"italian" "Dune: Awakening - Creazione personaggi & Modalità benchmark"
+		"german" "Dune: Awakening - Charaktererstellung & Benchmark-Modus"
+		"french" "Dune: Awakening - Créateur de personnage & Mode benchmark"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "f89c9841b6d1b86130c37fadec29aca518cf00ff/capsule_231x87.jpg"
+		"french" "8b36bffc715c80ee08cbc9a6195c2df5e1d5f4db/capsule_231x87_french.jpg"
+		"german" "6957869f1166fa8050a26873d862bc97e24086c9/capsule_231x87_german.jpg"
+		"italian" "1b2d1408e5aef090e626410ecd9c1fe51cb177a5/capsule_231x87_italian.jpg"
+		"japanese" "a0059cf6b774773b168fdcbf6ae75ff80b6810d3/capsule_231x87_japanese.jpg"
+		"koreana" "5b8d3cf3e2ed03f98eb98f116d79d4acbe2ca9ae/capsule_231x87_koreana.jpg"
+		"polish" "3bb83a63045e52b3f47732a1b2c81c6302f847fb/capsule_231x87_polish.jpg"
+		"brazilian" "9f8830216a3a57638f4c8d3ff0f6ed70035c5d49/capsule_231x87_brazilian.jpg"
+		"russian" "4248f31ab3a4b2250b22ebcbc06bdf54868ae835/capsule_231x87_russian.jpg"
+		"spanish" "0dec54ce3cbaa5be4c334bfc65b24685a839ab80/capsule_231x87_spanish.jpg"
+		"turkish" "ecdffad543f32ce97841b36ff4e7a172ad3edbda/capsule_231x87_turkish.jpg"
+		"ukrainian" "80c9ac8be6a08c17a7bde091c8b091260fafadb9/capsule_231x87_ukrainian.jpg"
+		"schinese" "d26be8be5f70de3e6db69f5b59774b47c790c7ad/capsule_231x87_schinese.jpg"
+		"tchinese" "6027a624f7192b4865572650199ec792b5ef5256/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"polish" "header_polish.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"russian" "header_russian.jpg"
+		"spanish" "header_spanish.jpg"
+		"turkish" "header_turkish.jpg"
+		"ukrainian" "header_ukrainian.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,fr,de,it,ja,ko,pl,pt-br,ru,es,tr,uk,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,fr,de,it,ja,ko,pl,pt-br,ru,es,tr,uk,zh-cn,zh-tw"
+		"library_header" "en,fr,de,it,ja,ko,pl,pt-br,ru,es,tr,uk,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.9218606048454"
+			"height_pct" "64.58227796598533"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "29ab55c877e88fa2aa5dd9522e5c320eae44f0a1/library_600x900.jpg"
+				"french" "3d13162bfd98749ef8d195bd483b3617a83c8f81/library_600x900_french.jpg"
+				"german" "2a1c1795f6cf8d0480863c4f620334513a55ba1f/library_600x900_german.jpg"
+				"italian" "7676b5096f58473267b5b1e584f10898d5940ee0/library_600x900_italian.jpg"
+				"japanese" "7d380e09df1a9010928f5161eacee43028a04c1b/library_600x900_japanese.jpg"
+				"koreana" "4e09775b19719f5c69798386c28c7b08d70ca021/library_600x900_koreana.jpg"
+				"polish" "6a82accd39f0aec857b8435380c943a5d9fb9ea5/library_600x900_polish.jpg"
+				"brazilian" "1ee0e66db74014c28a8475411b26b7a1339ba94d/library_600x900_brazilian.jpg"
+				"russian" "7734c061648fa3be1fd032efaab6c51e8ece0862/library_600x900_russian.jpg"
+				"spanish" "1bb794c927d2eaec8c748f52a445a1aa12d665cc/library_600x900_spanish.jpg"
+				"turkish" "ea52cd4d7812015968d406c7a616e2364c53185e/library_600x900_turkish.jpg"
+				"ukrainian" "23604fb3517f6f830a286ace52714e67ccda05db/library_600x900_ukrainian.jpg"
+				"schinese" "8f93fdca414446a964cf15148c9560e5ab0c6bbf/library_600x900_schinese.jpg"
+				"tchinese" "6b3fdd753f57bc9138ad850a08f5df9bd552035f/library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "29ab55c877e88fa2aa5dd9522e5c320eae44f0a1/library_600x900_2x.jpg"
+				"french" "3d13162bfd98749ef8d195bd483b3617a83c8f81/library_600x900_french_2x.jpg"
+				"german" "2a1c1795f6cf8d0480863c4f620334513a55ba1f/library_600x900_german_2x.jpg"
+				"italian" "7676b5096f58473267b5b1e584f10898d5940ee0/library_600x900_italian_2x.jpg"
+				"japanese" "7d380e09df1a9010928f5161eacee43028a04c1b/library_600x900_japanese_2x.jpg"
+				"koreana" "4e09775b19719f5c69798386c28c7b08d70ca021/library_600x900_koreana_2x.jpg"
+				"polish" "6a82accd39f0aec857b8435380c943a5d9fb9ea5/library_600x900_polish_2x.jpg"
+				"brazilian" "1ee0e66db74014c28a8475411b26b7a1339ba94d/library_600x900_brazilian_2x.jpg"
+				"russian" "7734c061648fa3be1fd032efaab6c51e8ece0862/library_600x900_russian_2x.jpg"
+				"spanish" "1bb794c927d2eaec8c748f52a445a1aa12d665cc/library_600x900_spanish_2x.jpg"
+				"turkish" "ea52cd4d7812015968d406c7a616e2364c53185e/library_600x900_turkish_2x.jpg"
+				"ukrainian" "23604fb3517f6f830a286ace52714e67ccda05db/library_600x900_ukrainian_2x.jpg"
+				"schinese" "8f93fdca414446a964cf15148c9560e5ab0c6bbf/library_600x900_schinese_2x.jpg"
+				"tchinese" "6b3fdd753f57bc9138ad850a08f5df9bd552035f/library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "d3161fddfd6b43b26f74f02acddb5df148cdc2f0/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "d3161fddfd6b43b26f74f02acddb5df148cdc2f0/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "d3161fddfd6b43b26f74f02acddb5df148cdc2f0/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "30daa2b004a8b6d59ef750ad9655e1edab446d69/logo.png"
+				"french" "a8c213d05a1a40aa2803fd2b1c37d1557935a377/logo_french.png"
+				"german" "085d56356e65a8fdef87d3471912f754c93d5c33/logo_german.png"
+				"italian" "c4fe97b397045ae88a54cfa4e112eac03417fb1d/logo_italian.png"
+				"japanese" "4950cb74ba3183cc89fb812f93c65bc355cd0c6e/logo_japanese.png"
+				"koreana" "cac6ccc94be50cd26223dda0a0bf7873b90ad14e/logo_koreana.png"
+				"polish" "659cce246163e83edc5794790ddeed143f0226aa/logo_polish.png"
+				"brazilian" "0e366dc21cf11b7a558f6d8372cfc7c31ebbc044/logo_brazilian.png"
+				"russian" "5d28760ee06843bdf4528f991aa90b203903e98f/logo_russian.png"
+				"spanish" "c7577869ef6db8a922f26d1321e51db68535451f/logo_spanish.png"
+				"turkish" "2b612d8944ee6e9c5787e8527dc0fc6ea6be28fe/logo_turkish.png"
+				"ukrainian" "43268c8b21273cffa17a742a8ae17a55b1628783/logo_ukrainian.png"
+				"schinese" "c127cd8c68aa647ea62b7ce307f415b8a78c3231/logo_schinese.png"
+				"tchinese" "e52fe3dcb2d62d76a14625e4ee06571c058596a9/logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "30daa2b004a8b6d59ef750ad9655e1edab446d69/logo_2x.png"
+				"french" "a8c213d05a1a40aa2803fd2b1c37d1557935a377/logo_french_2x.png"
+				"german" "085d56356e65a8fdef87d3471912f754c93d5c33/logo_german_2x.png"
+				"italian" "c4fe97b397045ae88a54cfa4e112eac03417fb1d/logo_italian_2x.png"
+				"japanese" "4950cb74ba3183cc89fb812f93c65bc355cd0c6e/logo_japanese_2x.png"
+				"koreana" "cac6ccc94be50cd26223dda0a0bf7873b90ad14e/logo_koreana_2x.png"
+				"polish" "659cce246163e83edc5794790ddeed143f0226aa/logo_polish_2x.png"
+				"brazilian" "0e366dc21cf11b7a558f6d8372cfc7c31ebbc044/logo_brazilian_2x.png"
+				"russian" "5d28760ee06843bdf4528f991aa90b203903e98f/logo_russian_2x.png"
+				"spanish" "c7577869ef6db8a922f26d1321e51db68535451f/logo_spanish_2x.png"
+				"turkish" "2b612d8944ee6e9c5787e8527dc0fc6ea6be28fe/logo_turkish_2x.png"
+				"ukrainian" "43268c8b21273cffa17a742a8ae17a55b1628783/logo_ukrainian_2x.png"
+				"schinese" "c127cd8c68aa647ea62b7ce307f415b8a78c3231/logo_schinese_2x.png"
+				"tchinese" "e52fe3dcb2d62d76a14625e4ee06571c058596a9/logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.9218606048454"
+				"height_pct" "64.58227796598533"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "2237a96f9dab5591943e6fed2d1840e2dafdac33/library_header.jpg"
+				"french" "bef89ddaab397c2d180e3065fa8f44772c6da945/library_header_french.jpg"
+				"german" "2ad610f99bb2a71ea30fe816a3b2a2da27a4acf1/library_header_german.jpg"
+				"italian" "8cfdcefba997c435e8ce2b50db63c3f4e89847ea/library_header_italian.jpg"
+				"japanese" "b6cbbad7e9d8787d07ee20b888cef5e49cd99a32/library_header_japanese.jpg"
+				"koreana" "ef8a8e9d21462221120255f410cbcad9ad6b34d5/library_header_koreana.jpg"
+				"polish" "35c43d48f39e4c340816cb7f0187bded6e37db47/library_header_polish.jpg"
+				"brazilian" "dcb3893b0110fc00bc1a96e7e4b58d784aca12e3/library_header_brazilian.jpg"
+				"russian" "e98aa83da72369b57f5f2b88d9f006f7ad2ceb68/library_header_russian.jpg"
+				"spanish" "1017b681186236436702b123c549849c8eddee36/library_header_spanish.jpg"
+				"turkish" "296c3dd7e2d89b0e2a2a7089f6c0dcdfe04a3078/library_header_turkish.jpg"
+				"ukrainian" "fdf383d63cdfd98ba25777709fa5096877aa07f8/library_header_ukrainian.jpg"
+				"schinese" "7ebb99276127698dbd5f2fc649d5d2bb92291ebb/library_header_schinese.jpg"
+				"tchinese" "faa88c4523a54c3e9dca671ddce58cc0421b6785/library_header_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "2237a96f9dab5591943e6fed2d1840e2dafdac33/library_header_2x.jpg"
+				"french" "bef89ddaab397c2d180e3065fa8f44772c6da945/library_header_french_2x.jpg"
+				"german" "2ad610f99bb2a71ea30fe816a3b2a2da27a4acf1/library_header_german_2x.jpg"
+				"italian" "8cfdcefba997c435e8ce2b50db63c3f4e89847ea/library_header_italian_2x.jpg"
+				"japanese" "b6cbbad7e9d8787d07ee20b888cef5e49cd99a32/library_header_japanese_2x.jpg"
+				"koreana" "ef8a8e9d21462221120255f410cbcad9ad6b34d5/library_header_koreana_2x.jpg"
+				"polish" "35c43d48f39e4c340816cb7f0187bded6e37db47/library_header_polish_2x.jpg"
+				"brazilian" "dcb3893b0110fc00bc1a96e7e4b58d784aca12e3/library_header_brazilian_2x.jpg"
+				"russian" "e98aa83da72369b57f5f2b88d9f006f7ad2ceb68/library_header_russian_2x.jpg"
+				"spanish" "1017b681186236436702b123c549849c8eddee36/library_header_spanish_2x.jpg"
+				"turkish" "296c3dd7e2d89b0e2a2a7089f6c0dcdfe04a3078/library_header_turkish_2x.jpg"
+				"ukrainian" "fdf383d63cdfd98ba25777709fa5096877aa07f8/library_header_ukrainian_2x.jpg"
+				"schinese" "7ebb99276127698dbd5f2fc649d5d2bb92291ebb/library_header_schinese_2x.jpg"
+				"tchinese" "faa88c4523a54c3e9dca671ddce58cc0421b6785/library_header_tchinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740060093"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"gameid" "3151320"
+	"exfgls" "9"
+}
+"extended"
+{
+	"developer" "Funcom"
+	"publisher" "Funcom"
+	"homepage" "https://duneawakening.com/"
+}
+"config"
+{
+	"installdir" "Dune Awakening Demo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DuneSandbox.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "benchmark-demo"
+			}
+			"description_loc"
+			{
+				"english" "Development Configuration"
+			}
+			"description" "Development Configuration"
+		}
+		"1"
+		{
+			"executable" "DuneSandbox-Win64-Test.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "benchmark-demo"
+			}
+			"description_loc"
+			{
+				"english" "Test Configuration"
+			}
+			"description" "Test Configuration"
+		}
+		"2"
+		{
+			"executable" "DuneSandbox-Win64-Shipping.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "benchmark-demo"
+			}
+			"description_loc"
+			{
+				"english" "Shipping Configuration"
+			}
+			"description" "Shipping Configuration"
+		}
+		"3"
+		{
+			"executable" "DuneSandbox.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Development Configuration"
+			}
+			"description" "Development Configuration"
+		}
+		"4"
+		{
+			"executable" "DuneSandbox-Win64-Test.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Test Configuration"
+			}
+			"description" "Test Configuration"
+		}
+		"5"
+		{
+			"executable" "DuneSandbox-Win64-Shipping.exe"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Shipping Configuration"
+			}
+			"description" "Shipping Configuration"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3151321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "14225401240321775"
+				"size" "18393458248"
+				"download" "17744239104"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17439432"
+			"timeupdated" "1740057621"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27619238"
+"_sha" "119aaa777b6d2cf5b8386434f9046664e56f4c87"
+"_size" "15954"
