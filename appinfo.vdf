@@ -319,9 +319,15 @@
 		{
 			"public"
 			{
-				"gid" "892714136075019002"
-				"size" "124260984"
-				"download" "71689600"
+				"gid" "3520457139136504319"
+				"size" "124257964"
+				"download" "71661440"
+			}
+			"version31"
+			{
+				"gid" "3520457139136504319"
+				"size" "124257964"
+				"download" "71661440"
 			}
 		}
 	}
@@ -336,9 +342,15 @@
 		{
 			"public"
 			{
-				"gid" "5619539181514181944"
-				"size" "116653065"
-				"download" "69570240"
+				"gid" "4020419296068964281"
+				"size" "116651995"
+				"download" "69541808"
+			}
+			"version31"
+			{
+				"gid" "4020419296068964281"
+				"size" "116651995"
+				"download" "69541808"
 			}
 		}
 	}
@@ -353,9 +365,15 @@
 		{
 			"public"
 			{
-				"gid" "3492468880727147481"
-				"size" "121460907"
-				"download" "69046384"
+				"gid" "4820522129041771566"
+				"size" "121459862"
+				"download" "69040560"
+			}
+			"version31"
+			{
+				"gid" "4820522129041771566"
+				"size" "121459862"
+				"download" "69040560"
 			}
 		}
 	}
@@ -375,14 +393,26 @@
 				"size" "129824906"
 				"download" "86422192"
 			}
+			"version31"
+			{
+				"gid" "2612296441532328588"
+				"size" "129824906"
+				"download" "86422192"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17434770"
-			"timeupdated" "1740034956"
+			"buildid" "17490314"
+			"timeupdated" "1740447781"
+		}
+		"version31"
+		{
+			"buildid" "17490314"
+			"description" "version31"
+			"timeupdated" "1740432100"
 		}
 	}
 }
@@ -392,7 +422,7 @@
 	"maxnumfiles" "50"
 	"rootoverrides"
 	{
-		"1"
+		"6"
 		{
 			"root" "WinAppDataLocalLow"
 			"os" "Linux"
@@ -402,27 +432,12 @@
 			{
 				"0"
 				{
-					"find" "Nickervision Studios/Super Bit Blaster XL"
-					"replace" ".config/unity3d/Nickervision Studios/Super Bit Blaster XL"
-				}
-			}
-		}
-		"3"
-		{
-			"root" "WinAppDataLocalLow"
-			"os" "Linux"
-			"oscompare" "="
-			"useinstead" "LinuxHome"
-			"pathtransforms"
-			{
-				"0"
-				{
-					"find" "Nickervision Studios/Super Bit Blaster XL"
+					"find" "Adamvision Studios/Super Bit Blaster XL"
 					"replace" ".config/unity3d/Adamvision Studios/Super Bit Blaster XL"
 				}
 			}
 		}
-		"4"
+		"7"
 		{
 			"root" "WinAppDataLocalLow"
 			"os" "MacOS"
@@ -432,22 +447,7 @@
 			{
 				"0"
 				{
-					"find" "Nickervision Studios/Super Bit Blaster XL"
-					"replace" "com.Nickervision-Studios.Super-Bit-Blaster-XL"
-				}
-			}
-		}
-		"5"
-		{
-			"root" "WinAppDataLocalLow"
-			"os" "MacOS"
-			"oscompare" "="
-			"useinstead" "MacAppSupport"
-			"pathtransforms"
-			{
-				"0"
-				{
-					"find" "Nickervision Studios/Super Bit Blaster XL"
+					"find" "Adamvision Studios/Super Bit Blaster XL"
 					"replace" "Adamvision Studios/Super Bit Blaster XL"
 				}
 			}
@@ -455,13 +455,6 @@
 	}
 	"savefiles"
 	{
-		"0"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "Nickervision Studios/Super Bit Blaster XL"
-			"pattern" "*.sbbxl"
-			"recursive" "1"
-		}
 		"1"
 		{
 			"root" "WinAppDataLocalLow"
@@ -472,6 +465,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27568807"
-"_sha" "0b827d91ca183528cfb8d870361c28466b7e1fcc"
-"_size" "8366"
+"_change_number" "27647227"
+"_sha" "85098d47a9266205239b73fdad980c6aef4a62a1"
+"_size" "8173"
