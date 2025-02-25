@@ -276,15 +276,15 @@
 	"gameid" "2591280"
 	"store_tags"
 	{
-		"0" "599"
-		"1" "9"
+		"0" "9"
+		"1" "599"
 		"2" "699"
 		"3" "1100687"
 		"4" "9204"
 		"5" "16689"
-		"6" "4175"
-		"7" "4191"
-		"8" "12472"
+		"6" "12472"
+		"7" "4175"
+		"8" "4191"
 		"9" "1644"
 		"10" "701"
 		"11" "4695"
@@ -298,14 +298,14 @@
 		"19" "6625"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "75"
 }
 "extended"
 {
 	"developer" "Frontier Developments"
 	"publisher" "Frontier Developments"
 	"homepage" "https://www.f1manager.com"
-	"listofdlc" "2934780,2934790"
+	"listofdlc" "2934780,2934790,3205030,3205040"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -336,120 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "7248803439530206750"
-				"size" "18769291025"
-				"download" "16655536032"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"build_mainline_development"
-			{
-				"gid" "0E7EBB5CD47C8CAAE8D215AEED824E94"
-				"size" "EBA3486F8DBC7552C7A681C2D7165AF4"
-				"download" "8BB23BB27A7662E727E6F1A75FB0EB19"
-			}
-			"build_mainline_shipping"
-			{
-				"gid" "9E9857624EB1DC066A28FA278D8CE14E"
-				"size" "997B8C5A9FF39ACF9ACA16D89AC74343"
-				"download" "2627FED22658364630DBF2389A3A1CC6"
-			}
-			"build_mainline_test"
-			{
-				"gid" "A4D06C630B456CD86EEEDF4EB262CB9B"
-				"size" "26B1FFD15C9AE9419BA4AFC29F8F5E06"
-				"download" "D62D0742FC3770F43B8C221F31AAD95B"
-			}
-			"current_build_branch_development"
-			{
-				"gid" "D9FB7155860BE3786B0E62E4C3FB8636"
-				"size" "A06C0643A1BF3E0AE34C69A477785307"
-				"download" "B98056D8FDDB201461BC268563CC1668"
-			}
-			"current_build_branch_shipping"
-			{
-				"gid" "D09C217E0A829683E69E1ECE306A12D1"
-				"size" "2E63974AE3A1522F707A23E2966D3853"
-				"download" "E6F59A06EA9B213C6E29D43612C22780"
-			}
-			"current_build_branch_test"
-			{
-				"gid" "B6343FB0721BF7405783A08B06340439"
-				"size" "98E9DFC739ED0F6B66053342139A0220"
-				"download" "1D9A300F98FCC123F7D30FF6022AEC68"
-			}
-			"qa_staging"
-			{
-				"gid" "5DCD847F5C8C98E50827BD18EB0505B2"
-				"size" "DC10B761B15AA153416D7BF0FFCB174A"
-				"download" "35E515E0544F76F1C278597796255518"
-			}
-			"outsource_lqa"
-			{
-				"gid" "4B1C050D7463AE1B3EF1B51720AC2329"
-				"size" "2272A11AA5EA9E7606491F9F2C7D0DFE"
-				"download" "DDCD45A6B984509BF4DAFB72E0C19013"
-			}
-			"external_1"
-			{
-				"gid" "F291B88D8C9E1539C362AA78F3BBD1D8"
-				"size" "BA98D6DFF640D8BDC50548CE3C44BBBD"
-				"download" "1497B20282F1525E90EC6C0167200358"
-			}
-			"external_02"
-			{
-				"gid" "0F5C00D5682A81E3FF2FB9828DDCC3D0"
-				"size" "52FFC9204F19A6F1711DF728DC8ACD99"
-				"download" "C9330C2F0121AC8CEE0D4D22DAE03107"
-			}
-			"external_03"
-			{
-				"gid" "739F67B2230165D85B7E9A802DA03352"
-				"size" "2E8ACD93A4158A2A6270C9D8CB91D8EB"
-				"download" "D0E427DF5501856EDA79DC83F1CC73FF"
-			}
-			"external_04"
-			{
-				"gid" "BB46B02AC8652AB96960A835D51A9D6C"
-				"size" "D8BDFEE06DFBF61237D695C7A966B038"
-				"download" "72A802E65F2C41490E1E77E4B0B6F1C5"
-			}
-			"external_05"
-			{
-				"gid" "076ECF6AA81C7440DA117E749420382A"
-				"size" "5BD4F915EDFBD3AF25C9026C7EDCD702"
-				"download" "FF5B9F667E3AF2D1421BBB37F1FF0F36"
-			}
-			"external_06"
-			{
-				"gid" "07634609F3BDB8D6586563358F31AC24"
-				"size" "8EE7929F214BF9563A55C37E4E3EE6C9"
-				"download" "A81B241C9BDD7DD7587D3196F61B3ADB"
-			}
-			"external_07"
-			{
-				"gid" "56174EE80A1EBF1A77EA5F09BE1E80C2"
-				"size" "51551DB6B9F4FD411DBF3EFB48424136"
-				"download" "EF18332ABB2AB15E8131E82537D4E556"
-			}
-			"internal_01"
-			{
-				"gid" "C4DC3AC8DFC86229E607AE38C80B1F6F"
-				"size" "36F8EBC8173ED2347430D6E9AD0664AC"
-				"download" "941AD46D064F403B9866621DD0435A72"
-			}
-			"internal_02"
-			{
-				"gid" "E9458D4498C52699313D6C9E78713949"
-				"size" "D4C219E6BF346CFE939D2AEF14100066"
-				"download" "04FEA941F1ADCF66D4D96D512D9CF46F"
-			}
-			"internal_04"
-			{
-				"gid" "55111EEC932A5AA33D1563EC78CCE3D8"
-				"size" "297DAF02E9955469662CDBBAD5518EDB"
-				"download" "5D1C2C4181379F98CBCF48A1C1E70ABC"
+				"gid" "5180313629266358202"
+				"size" "18776311184"
+				"download" "16665395904"
 			}
 		}
 	}
@@ -458,118 +347,11 @@
 	{
 		"public"
 		{
-			"buildid" "16528074"
-			"timeupdated" "1733324431"
-		}
-		"build_mainline_development"
-		{
-			"buildid" "16621022"
-			"pwdrequired" "1"
-			"timeupdated" "1733300140"
-		}
-		"build_mainline_shipping"
-		{
-			"buildid" "16621217"
-			"pwdrequired" "1"
-			"timeupdated" "1733300097"
-		}
-		"build_mainline_test"
-		{
-			"buildid" "16620714"
-			"pwdrequired" "1"
-			"timeupdated" "1733300163"
-		}
-		"current_build_branch_development"
-		{
-			"buildid" "16527508"
-			"pwdrequired" "1"
-			"timeupdated" "1732610494"
-		}
-		"current_build_branch_shipping"
-		{
-			"buildid" "16528074"
-			"pwdrequired" "1"
-			"timeupdated" "1732610415"
-		}
-		"current_build_branch_test"
-		{
-			"buildid" "16527560"
-			"pwdrequired" "1"
-			"timeupdated" "1732610433"
-		}
-		"qa_staging"
-		{
-			"buildid" "15637453"
-			"pwdrequired" "1"
-			"timeupdated" "1725879886"
-		}
-		"outsource_lqa"
-		{
-			"buildid" "15234809"
-			"pwdrequired" "1"
-			"timeupdated" "1722584525"
-		}
-		"external_1"
-		{
-			"buildid" "16168727"
-			"pwdrequired" "1"
-			"timeupdated" "1729849029"
-		}
-		"external_02"
-		{
-			"buildid" "15054043"
-			"pwdrequired" "1"
-			"timeupdated" "1721660372"
-		}
-		"external_03"
-		{
-			"buildid" "14149800"
-			"pwdrequired" "1"
-			"timeupdated" "1713957172"
-		}
-		"external_04"
-		{
-			"buildid" "14302945"
-			"pwdrequired" "1"
-			"timeupdated" "1715179686"
-		}
-		"external_05"
-		{
-			"buildid" "14943821"
-			"pwdrequired" "1"
-			"timeupdated" "1720198589"
-		}
-		"external_06"
-		{
-			"buildid" "14700400"
-			"pwdrequired" "1"
-			"timeupdated" "1718267657"
-		}
-		"external_07"
-		{
-			"buildid" "14664409"
-			"pwdrequired" "1"
-			"timeupdated" "1718357197"
-		}
-		"internal_01"
-		{
-			"buildid" "15905011"
-			"pwdrequired" "1"
-			"timeupdated" "1728384251"
-		}
-		"internal_02"
-		{
-			"buildid" "15460665"
-			"pwdrequired" "1"
-			"timeupdated" "1726067523"
-		}
-		"internal_04"
-		{
-			"buildid" "15547331"
-			"pwdrequired" "1"
-			"timeupdated" "1728639266"
+			"buildid" "17356935"
+			"timeupdated" "1740481179"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -660,6 +442,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26490415"
-"_sha" "83d0df53fbab4f33f2b4cb79e199ee8a012cd239"
-"_size" "13344"
+"_change_number" "27655200"
+"_sha" "ec4d2ab45cec5d7c00838648ac5836625754ad60"
+"_size" "8045"
