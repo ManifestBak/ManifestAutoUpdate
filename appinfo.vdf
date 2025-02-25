@@ -270,6 +270,7 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"koreana"
 		{
@@ -486,15 +487,15 @@
 		{
 			"public"
 			{
-				"gid" "7089362250247967432"
-				"size" "5197559272"
-				"download" "876417392"
+				"gid" "2761146052369869974"
+				"size" "5298673996"
+				"download" "905191216"
 			}
 			"unstable"
 			{
-				"gid" "7089362250247967432"
-				"size" "5197559272"
-				"download" "876417392"
+				"gid" "2761146052369869974"
+				"size" "5298673996"
+				"download" "905191216"
 			}
 		}
 	}
@@ -508,15 +509,15 @@
 		{
 			"public"
 			{
-				"gid" "1885330354322829486"
-				"size" "5220150097"
-				"download" "882582608"
+				"gid" "9195499111396182339"
+				"size" "5312255614"
+				"download" "910172416"
 			}
 			"unstable"
 			{
-				"gid" "1885330354322829486"
-				"size" "5220150097"
-				"download" "882582608"
+				"gid" "9195499111396182339"
+				"size" "5312255614"
+				"download" "910172416"
 			}
 		}
 	}
@@ -530,15 +531,15 @@
 		{
 			"public"
 			{
-				"gid" "6338196285454401413"
-				"size" "5235226706"
-				"download" "875312144"
+				"gid" "7012730796190089273"
+				"size" "5337545271"
+				"download" "903697952"
 			}
 			"unstable"
 			{
-				"gid" "6338196285454401413"
-				"size" "5235226706"
-				"download" "875312144"
+				"gid" "7012730796190089273"
+				"size" "5337545271"
+				"download" "903697952"
 			}
 		}
 	}
@@ -584,14 +585,14 @@
 	{
 		"public"
 		{
-			"buildid" "17352941"
-			"timeupdated" "1739459874"
+			"buildid" "17502123"
+			"timeupdated" "1740500962"
 		}
 		"unstable"
 		{
-			"buildid" "17352941"
+			"buildid" "17502123"
 			"description" "Unstable build"
-			"timeupdated" "1739455964"
+			"timeupdated" "1740499204"
 		}
 	}
 }
@@ -601,6 +602,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "27461902"
-"_sha" "f636883c367163384fd45bb0da9b3d3683df4952"
-"_size" "10566"
+"_change_number" "27659591"
+"_sha" "a96c8425d40cc837f193ef3c2c272ae4757387da"
+"_size" "10591"
