@@ -371,7 +371,7 @@
 		"0"
 		{
 			"executable" "TheDivision2.exe"
-			"arguments" "-uplay_steam_mode"
+			"arguments" "-uplay_steam_mode -disable_eac"
 			"type" "default"
 			"config"
 			{
@@ -484,6 +484,23 @@
 				"english" "eac-release"
 			}
 			"description" "eac-release"
+		}
+		"10"
+		{
+			"executable" "TheDivision2.exe"
+			"arguments" "-uplay_steam_mode"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "eac-retail-thedivision2"
+			}
+			"description_loc"
+			{
+				"english" "eac-retail"
+			}
+			"description" "eac-retail"
 		}
 	}
 	"steamcontrollertemplateindex" "2"
@@ -708,6 +725,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27651480"
-"_sha" "729cbeb1eb7d8090751fa3e932f78d32900f3f60"
-"_size" "13898"
+"_change_number" "27652234"
+"_sha" "1cbf08a8b8484c75d1b688fa3e60274705b58ac0"
+"_size" "14232"
