@@ -263,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "7609701599864110790"
-				"size" "827249084"
-				"download" "652768240"
+				"gid" "1268925376179685647"
+				"size" "828566603"
+				"download" "653925920"
 			}
 			"beta"
 			{
@@ -273,20 +273,32 @@
 				"size" "775660977"
 				"download" "601638496"
 			}
+			"debugging"
+			{
+				"gid" "4313940429514935766"
+				"size" "1954430440"
+				"download" "621009056"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17437417"
-			"timeupdated" "1740049190"
+			"buildid" "17497004"
+			"timeupdated" "1740484161"
 		}
 		"beta"
 		{
 			"buildid" "16672264"
 			"description" "beta_testing_before_public"
 			"timeupdated" "1733660651"
+		}
+		"debugging"
+		{
+			"buildid" "17496991"
+			"description" "For Debug Game"
+			"timeupdated" "1740475009"
 		}
 	}
 	"privatebranches" "1"
@@ -310,6 +322,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27618273"
-"_sha" "d913ff8a5a3173807d71aa95f8e1995cfc64d008"
-"_size" "5233"
+"_change_number" "27654840"
+"_sha" "d94b2158a9efd88a64c48e72f6724cc5c6ad7cc7"
+"_size" "5469"
