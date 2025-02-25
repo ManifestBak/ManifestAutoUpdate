@@ -1,24 +1,25 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 06:47:27
+## 更新时间：2025-02-26 06:51:11
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 890680 | Mars Troopers| Game |
-| 888970 | MiniCar Race| Game |
-| 891020 | Handball 21| Game |
-| 887710 | Ritter| Game |
-| 886730 | EPHEMERAL -FANTASY ON DARK-| Game |
-| 886290 | Starfield Wars| Game |
-| 883080 | Ludo Online| Game |
-| 882560 | Door| Game |
-| 881680 | Mouse Enhancer Pro| Application |
-| 881000 | Beholder 2 Beta| Game |
-| 879000 | Comanche| Game |
-| 879250 | Dot to Dot Puzzles| Game |
-| 878170 | Nazi| Game |
-| 878420 | Woodpunk| Game |
-| 872990 | Stream Games| Game |
-| 869540 | Hero Hunters - Jurassic Shooting Sniper| Game |
-| 873580 | Dark Fairies| Game |
-| 874650 | XXX Puzzle| Game |
-| 870080 | Running Through Russia 2| Game |
+| 868800 | Force of Nature Soundtrack| Music |
+| 859700 | USA 2020| Game |
+| 861800 | MMXLC Wallpaper| DLC |
+| 862440 | Angel Wings| Game |
+| 851580 | Planet Unknown Runner| Game |
+| 850050 | Achievement Idler: Red| Game |
+| 850740 | The Princess Adventure| Game |
+| 849940 | Freefall Tournament| Game |
+| 847550 | 炸裂！排卵拳！对抗灭绝的反叛！| Game |
+| 854961 | Neverwinter Nights: Enhanced Edition Darkness Over Daggerford Official Soundtrack| Music |
+| 865880 | 天岚行 - Through the Mist and Sky| Game |
+| 862800 | Storm Chasers| Game |
+| 852750 | Paper Shakespeare: Stick Merchant of Venice| Game |
+| 848310 | Bitcoin Trading Master| Game |
+| 844330 | The Goatman| Game |
+| 845210 | Sim Racing Telemetry| Application |
+| 842270 | Formula X| Game |
+| 856980 | 7-in-1 Brain Sharpness Bundle| Game |
+| 844980 | I Am Your President| Game |
+| 851810 | Ultimate Sudoku Collection| Game |
