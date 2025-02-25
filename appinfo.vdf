@@ -196,7 +196,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738559098"
+	"store_asset_mtime" "1739421572"
 	"associations"
 	{
 		"0"
@@ -291,8 +291,8 @@
 	{
 		"0" "19"
 		"1" "42804"
-		"2" "1646"
-		"3" "323922"
+		"2" "323922"
+		"3" "1646"
 		"4" "4231"
 		"5" "122"
 		"6" "3959"
@@ -300,20 +300,20 @@
 		"8" "3987"
 		"9" "6915"
 		"10" "4604"
-		"11" "4191"
-		"12" "4791"
+		"11" "4791"
+		"12" "4191"
 		"13" "1697"
 		"14" "4182"
 	}
-	"review_score" "7"
-	"review_percentage" "80"
+	"review_score" "8"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "KOEI TECMO GAMES CO., LTD."
 	"publisher" "KOEI TECMO GAMES CO., LTD."
 	"homepage" "https://www.koeitecmoamerica.com/warriors_abyss/us/"
-	"listofdlc" "3358070,3358080,3358090,3358100,3358110,3358120"
+	"listofdlc" "3358070,3358080,3358090,3358100,3358110,3358120,3358130"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -363,9 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "7783963296684282169"
-				"size" "3315100635"
-				"download" "3198788000"
+				"gid" "2752471114731948505"
+				"size" "3324855643"
+				"download" "3208207232"
 			}
 		}
 	}
@@ -373,8 +373,8 @@
 	{
 		"public"
 		{
-			"buildid" "17089282"
-			"timeupdated" "1737538623"
+			"buildid" "17181219"
+			"timeupdated" "1740452301"
 		}
 	}
 	"privatebranches" "1"
@@ -428,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27452338"
-"_sha" "443c58e224436b96f7d70a837da8c6c716a6561e"
-"_size" "9707"
+"_change_number" "27648098"
+"_sha" "b5cf90d3d0567a3a84dd753f2529fc6053fbafd5"
+"_size" "9715"
