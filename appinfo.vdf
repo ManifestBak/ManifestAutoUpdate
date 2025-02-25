@@ -1,0 +1,262 @@
+"appid" "3098070"
+"common"
+{
+	"name" "Cinema Simulator 2025"
+	"type" "Game"
+	"icon" "e593f67ea935601fd94a1fab2fd3d00e8da7578e"
+	"clienticon" "2413074fa147ed64ba9e60ef4b19351d8bb62ad6"
+	"clienttga" "95937941211c3ef2f3963d5ff330b7fd1dfb18b5"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "55.36756126021001"
+			"height_pct" "64.43837568273571"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "55.36756126021001"
+				"height_pct" "64.43837568273571"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739752865"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HOGO Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "HOGO Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1739797430"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3098070"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "12472"
+		"2" "16689"
+		"3" "10235"
+		"4" "9204"
+		"5" "4695"
+		"6" "597"
+		"7" "8945"
+		"8" "4845"
+		"9" "492"
+		"10" "6426"
+		"11" "4182"
+		"12" "1663"
+		"13" "4191"
+		"14" "3839"
+		"15" "4175"
+		"16" "5350"
+		"17" "13190"
+		"18" "1702"
+		"19" "4136"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "HOGO Games"
+	"publisher" "HOGO Games"
+}
+"config"
+{
+	"installdir" "Cinema Simulator 2025"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cinema Simulator 2025.exe"
+		}
+	}
+}
+"depots"
+{
+	"3098071"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3535989206711545243"
+				"size" "6659045051"
+				"download" "2225266880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17458097"
+			"timeupdated" "1740156849"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27657480"
+"_sha" "72b121e8ea90310f9172f2f1df3eacfd1915a316"
+"_size" "3984"
