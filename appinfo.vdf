@@ -38,6 +38,9 @@
 	"steam_release_date" "1685034355"
 	"gameid" "2375750"
 	"exfgls" "6"
+	"store_tags"
+	{
+	}
 }
 "extended"
 {
@@ -58,9 +61,9 @@
 		{
 			"public"
 			{
-				"gid" "984139285001762231"
-				"size" "323874008"
-				"download" "297140352"
+				"gid" "7843860653291830009"
+				"size" "392517125"
+				"download" "365792112"
 			}
 		}
 	}
@@ -74,9 +77,9 @@
 		{
 			"public"
 			{
-				"gid" "8716847038935447259"
-				"size" "1795840878"
-				"download" "1511235440"
+				"gid" "720839051283111782"
+				"size" "2098136734"
+				"download" "1753734192"
 			}
 		}
 	}
@@ -84,8 +87,8 @@
 	{
 		"public"
 		{
-			"buildid" "15952047"
-			"timeupdated" "1728996253"
+			"buildid" "17277867"
+			"timeupdated" "1740490620"
 		}
 	}
 	"privatebranches" "1"
@@ -1029,9 +1032,161 @@
 			"m" "1"
 			"s" "54"
 		}
+		"100"
+		{
+			"discnumber" "5"
+			"tracknumber" "1"
+			"originalname" "Milan Morning Commute"
+			"m" "2"
+			"s" "58"
+		}
+		"101"
+		{
+			"discnumber" "5"
+			"tracknumber" "2"
+			"originalname" "Sicilian Sunset Ride"
+			"m" "2"
+			"s" "49"
+		}
+		"102"
+		{
+			"discnumber" "5"
+			"tracknumber" "3"
+			"originalname" "Neapolitan Romance"
+			"m" "3"
+			"s" "7"
+		}
+		"103"
+		{
+			"discnumber" "5"
+			"tracknumber" "4"
+			"originalname" "The Two Sicilies"
+			"m" "1"
+			"s" "27"
+		}
+		"104"
+		{
+			"discnumber" "5"
+			"tracknumber" "5"
+			"originalname" "Overture"
+			"m" "0"
+			"s" "32"
+		}
+		"105"
+		{
+			"discnumber" "5"
+			"tracknumber" "6"
+			"originalname" "On their List"
+			"m" "0"
+			"s" "15"
+		}
+		"106"
+		{
+			"discnumber" "5"
+			"tracknumber" "7"
+			"originalname" "Mezzogiorno"
+			"m" "1"
+			"s" "24"
+		}
+		"107"
+		{
+			"discnumber" "5"
+			"tracknumber" "8"
+			"originalname" "Beyond the Lighthouse"
+			"m" "1"
+			"s" "21"
+		}
+		"108"
+		{
+			"discnumber" "5"
+			"tracknumber" "9"
+			"originalname" "Nostalgia della Patria"
+			"m" "1"
+			"s" "15"
+		}
+		"109"
+		{
+			"discnumber" "5"
+			"tracknumber" "10"
+			"originalname" "Freedom"
+			"m" "0"
+			"s" "22"
+		}
+		"110"
+		{
+			"discnumber" "5"
+			"tracknumber" "11"
+			"originalname" "Alto Adige"
+			"m" "1"
+			"s" "7"
+		}
+		"111"
+		{
+			"discnumber" "5"
+			"tracknumber" "12"
+			"originalname" "Intermezzo"
+			"m" "1"
+			"s" "4"
+		}
+		"112"
+		{
+			"discnumber" "5"
+			"tracknumber" "13"
+			"originalname" "Sneaking Mission"
+			"m" "0"
+			"s" "19"
+		}
+		"113"
+		{
+			"discnumber" "5"
+			"tracknumber" "14"
+			"originalname" "O Mio Babbino"
+			"m" "2"
+			"s" "29"
+		}
+		"114"
+		{
+			"discnumber" "5"
+			"tracknumber" "15"
+			"originalname" "Father\'s Grace"
+			"m" "0"
+			"s" "56"
+		}
+		"115"
+		{
+			"discnumber" "5"
+			"tracknumber" "16"
+			"originalname" "The Eternal City"
+			"m" "0"
+			"s" "32"
+		}
+		"116"
+		{
+			"discnumber" "5"
+			"tracknumber" "17"
+			"originalname" "Theme of Bella Italia"
+			"m" "3"
+			"s" "1"
+		}
+		"117"
+		{
+			"discnumber" "5"
+			"tracknumber" "18"
+			"originalname" "Florence Farewell"
+			"m" "2"
+			"s" "10"
+		}
+		"118"
+		{
+			"discnumber" "5"
+			"tracknumber" "19"
+			"originalname" "The Amalfi Coastline Cafe"
+			"m" "1"
+			"s" "18"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26602770"
-"_sha" "fcf14a63655bd89bf7cc4be77eb5066a72d5ba1d"
-"_size" "17204"
+"_change_number" "27656530"
+"_sha" "27bf9b4d0c98404ef382820d435c4b18a1873fe1"
+"_size" "19698"
