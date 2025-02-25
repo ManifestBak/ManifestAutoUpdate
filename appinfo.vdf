@@ -281,7 +281,7 @@
 	"developer" "Marco Amadei"
 	"publisher" "Corvostudio di Amadei Marco"
 	"homepage" "https://www.easyred2.com/"
-	"listofdlc" "1888350,2317930,2617770"
+	"listofdlc" "1888350,2317930,2617770,3499380"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -425,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "1711009088562328584"
-				"size" "16192187892"
-				"download" "7145804992"
+				"gid" "2920143560571927192"
+				"size" "16979825990"
+				"download" "7474116080"
 			}
 			"console_crossplay"
 			{
@@ -436,6 +436,12 @@
 				"download" "6967604944"
 			}
 			"publicbeta"
+			{
+				"gid" "2920143560571927192"
+				"size" "16979825990"
+				"download" "7474116080"
+			}
+			"xbox_crossplay"
 			{
 				"gid" "1711009088562328584"
 				"size" "16192187892"
@@ -454,9 +460,9 @@
 		{
 			"public"
 			{
-				"gid" "6394313490116327435"
-				"size" "16227492138"
-				"download" "7168354736"
+				"gid" "4854596607186623863"
+				"size" "17016045212"
+				"download" "7494143648"
 			}
 			"console_crossplay"
 			{
@@ -465,6 +471,12 @@
 				"download" "6990441952"
 			}
 			"publicbeta"
+			{
+				"gid" "4854596607186623863"
+				"size" "17016045212"
+				"download" "7494143648"
+			}
+			"xbox_crossplay"
 			{
 				"gid" "6394313490116327435"
 				"size" "16227492138"
@@ -483,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "551306570137536481"
-				"size" "16151947796"
-				"download" "7142966336"
+				"gid" "485819893716139708"
+				"size" "16938045924"
+				"download" "7470262544"
 			}
 			"console_crossplay"
 			{
@@ -494,6 +506,12 @@
 				"download" "6966064848"
 			}
 			"publicbeta"
+			{
+				"gid" "485819893716139708"
+				"size" "16938045924"
+				"download" "7470262544"
+			}
+			"xbox_crossplay"
 			{
 				"gid" "551306570137536481"
 				"size" "16151947796"
@@ -507,20 +525,26 @@
 	{
 		"public"
 		{
-			"buildid" "17223191"
-			"timeupdated" "1738663124"
+			"buildid" "17499698"
+			"timeupdated" "1740487796"
 		}
 		"console_crossplay"
 		{
 			"buildid" "17003390"
-			"description" "Universal Console Crossplay Compatibility"
+			"description" "Nintendo Switch Crossplay Compatibility"
 			"timeupdated" "1736879124"
 		}
 		"publicbeta"
 		{
-			"buildid" "17223191"
+			"buildid" "17499698"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1738583024"
+			"timeupdated" "1740487622"
+		}
+		"xbox_crossplay"
+		{
+			"buildid" "17223191"
+			"description" "Xbox Crossplay Compatibility"
+			"timeupdated" "1740476815"
 		}
 	}
 	"privatebranches" "1"
@@ -595,6 +619,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27304429"
-"_sha" "5cca59c4e9361ddf1419683d8aa179e22ef75fae"
-"_size" "11145"
+"_change_number" "27655843"
+"_sha" "1c4894b5081cc41bb94804b5cb3a00bbaf65eade"
+"_size" "11660"
