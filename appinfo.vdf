@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730889145"
+	"store_asset_mtime" "1739463075"
 	"associations"
 	{
 		"0"
@@ -240,21 +240,21 @@
 	"store_tags"
 	{
 		"0" "1662"
-		"1" "3843"
-		"2" "1695"
-		"3" "3859"
-		"4" "1659"
+		"1" "1695"
+		"2" "3843"
+		"3" "1659"
+		"4" "3859"
 		"5" "3835"
 		"6" "1774"
 		"7" "1775"
-		"8" "19"
-		"9" "128"
+		"8" "128"
+		"9" "19"
 		"10" "1663"
 		"11" "1667"
-		"12" "3810"
-		"13" "1685"
-		"14" "3978"
-		"15" "21"
+		"12" "1685"
+		"13" "3810"
+		"14" "21"
+		"15" "3978"
 		"16" "599"
 		"17" "3839"
 		"18" "4166"
@@ -405,66 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "1735881272268747274"
-				"size" "24602967700"
-				"download" "19665492064"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"stableprep"
-			{
-				"gid" "070211FB4BC26FF40EC6D784ACE5C127"
-				"size" "4B29700F809CF365A3EB556C152E4DCC"
-				"download" "81B6CC218F72E5712EB21988EDC17BB0"
-			}
-			"survivor_gamez"
-			{
-				"gid" "FE74D411033E46486AD4DEC664E89242"
-				"size" "0B064ACED419647FD2210297BCEF1203"
-				"download" "E11F2320CD053B8FAF8B4521C923B669"
-			}
-			"survivor_gamez_int"
-			{
-				"gid" "439EA0E51766161297A534B84CFBFBCE"
-				"size" "5EB6213FEB92AFC302CABC53D5503782"
-				"download" "61C9256265B82E9533B3E1FC60992C9E"
-			}
-			"survivor_gamez_test"
-			{
-				"gid" "C297DF57598C4FD82779C7CFD38B1248"
-				"size" "E3E65A3E0F74F75F0FDFB0689EF4D93B"
-				"download" "85A999A3E62A7AAB0F6BB512C5BB9AFE"
-			}
-			"video"
-			{
-				"gid" "90F947F3F565E9A4B1835CA183631B97"
-				"size" "FEA8E38D28C28AFC1E2525A5EDD56DD1"
-				"download" "441E0D79EE190AF4A871BEB81EC8419F"
-			}
-			"deluxe_testing"
-			{
-				"gid" "0B787A3B1BDFEDAB083EF3D3F8D9A7C2"
-				"size" "99BB59EA24602F4635D6179688D07119"
-				"download" "A543F7A47D56283DC2B586D699D5E4BF"
-			}
-			"internaldebug"
-			{
-				"gid" "DA92E7BAD9A5EBED746B23572AEE3639"
-				"size" "6EF4BCD8360B67F330CD174A190AA6CF"
-				"download" "C6F25CA3BF025FFD3C4EC3745CE43815"
-			}
-			"internalplaytest"
-			{
-				"gid" "198E0480A9EE7CF754EB2141702CEC20"
-				"size" "F7EF33D465D61DA8B37B9E5708038BF9"
-				"download" "FBB9A17E4FB71E20EF2A3CDA25CA8A30"
-			}
-			"qa_tmp"
-			{
-				"gid" "56CA249506F6178EDC102EF69AC82970"
-				"size" "1FE08A0818983E1A87740AB222A4A6E4"
-				"download" "391BDF411EA2E2DDE2525F5CDC9A112F"
+				"gid" "8055595878807925718"
+				"size" "24850435827"
+				"download" "19872083616"
 			}
 		}
 	}
@@ -478,45 +421,6 @@
 				"gid" "3323236725842480808"
 				"size" "0"
 				"download" "0"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"stableprep"
-			{
-				"gid" "2DE67A3DFD43F649F12EC0A37C55A9C9"
-				"size" "66722EF2DA1316AAA57392D18D0738A3"
-				"download" "66722EF2DA1316AAA57392D18D0738A3"
-			}
-			"video"
-			{
-				"gid" "891E4751E5CF192C7750BCF42C67A683"
-				"size" "0280EB476C50A556ED90D30A88452D02"
-				"download" "0280EB476C50A556ED90D30A88452D02"
-			}
-			"deluxe_testing"
-			{
-				"gid" "75889CAB49E8BA4200A00C9B12220D97"
-				"size" "F6A0BD2E5BF41C0C81108764779E3906"
-				"download" "F6A0BD2E5BF41C0C81108764779E3906"
-			}
-			"internaldebug"
-			{
-				"gid" "A599CD880BB719D9CE1F4DF618BED568"
-				"size" "2759590CAE222D985FA7FED171782C86"
-				"download" "2759590CAE222D985FA7FED171782C86"
-			}
-			"internalplaytest"
-			{
-				"gid" "7228D1ABEB413317453C9B20CD61ADCF"
-				"size" "C9B0048C539EBE1CF3C762BD7944EAB2"
-				"download" "C9B0048C539EBE1CF3C762BD7944EAB2"
-			}
-			"qa_tmp"
-			{
-				"gid" "E5F3C0FC4BCB39C279FF53027385BB8D"
-				"size" "71ADB5D0F46A5E6C3E8457CE28A24EE9"
-				"download" "71ADB5D0F46A5E6C3E8457CE28A24EE9"
 			}
 		}
 	}
@@ -536,78 +440,16 @@
 				"download" "74525584"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"deluxe_testing"
-			{
-				"gid" "B2188C5FE17199C96019D8D324328110"
-				"size" "A163AA27366334A17BDC0A5FF02CA5CF"
-				"download" "A0122EA548DB9C20CA224CF5D146DFE6"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16458736"
-			"timeupdated" "1732021278"
-		}
-		"stableprep"
-		{
-			"buildid" "5726925"
-			"pwdrequired" "1"
-			"timeupdated" "1603449760"
-		}
-		"survivor_gamez"
-		{
-			"buildid" "4015740"
-			"pwdrequired" "1"
-			"timeupdated" "1563277793"
-		}
-		"survivor_gamez_int"
-		{
-			"buildid" "4193098"
-			"pwdrequired" "1"
-			"timeupdated" "1568364209"
-		}
-		"survivor_gamez_test"
-		{
-			"buildid" "4249595"
-			"pwdrequired" "1"
-			"timeupdated" "1570010169"
-		}
-		"video"
-		{
-			"buildid" "8245728"
-			"pwdrequired" "1"
-			"timeupdated" "1701855587"
-		}
-		"deluxe_testing"
-		{
-			"buildid" "14507725"
-			"pwdrequired" "1"
-			"timeupdated" "1716815926"
-		}
-		"internaldebug"
-		{
-			"buildid" "16166439"
-			"pwdrequired" "1"
-			"timeupdated" "1729778748"
-		}
-		"internalplaytest"
-		{
-			"buildid" "16394609"
-			"pwdrequired" "1"
-			"timeupdated" "1731513787"
-		}
-		"qa_tmp"
-		{
-			"buildid" "14156060"
-			"pwdrequired" "1"
-			"timeupdated" "1713943601"
+			"buildid" "17500561"
+			"timeupdated" "1740492017"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -615,6 +457,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26261567"
-"_sha" "fc69e4bfd21bae663f48422e8e38abef45495d71"
-"_size" "11517"
+"_change_number" "27656872"
+"_sha" "721760e4c5300aebe5ae30b19e7165860baf1bbb"
+"_size" "7608"
