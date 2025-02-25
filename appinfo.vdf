@@ -203,7 +203,7 @@
 		"10" "599"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -211,7 +211,7 @@
 	"developer" "Studio 397"
 	"publisher" "Studio 397"
 	"homepage" "http://lemansultimate.com"
-	"listofdlc" "2973280,2973290,2997280,3151390,3260810,3307210"
+	"listofdlc" "2973280,2973290,2997280,3151390,3260810,3260820,3307210,3468240"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -263,9 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "2703152733700857783"
-				"size" "28829879648"
-				"download" "27340535840"
+				"gid" "5182276524894508852"
+				"size" "30348865818"
+				"download" "28788098336"
 			}
 		}
 	}
@@ -274,13 +274,13 @@
 	{
 		"public"
 		{
-			"buildid" "17237697"
-			"timeupdated" "1738857712"
+			"buildid" "17456001"
+			"timeupdated" "1740477462"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27348115"
-"_sha" "1cf15feb89b7f58949bbeeefeb9ceaec77ad6ce3"
-"_size" "5012"
+"_change_number" "27653086"
+"_sha" "4de370e225e3bac25d6bc9a03558967a8fdbd13a"
+"_size" "5028"
