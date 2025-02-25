@@ -1,0 +1,204 @@
+"appid" "2779890"
+"common"
+{
+	"name" "明治東亰恋伽 Full Moon"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d100924da874b1f9b69baa5fe936a35fbbec723d"
+	"clienttga" "135c2a788be2b1b030b5d448652d768eedb86085"
+	"clienticon" "a162260c339f8f1a04580b855edcc25991e35822"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.731193043494706"
+			"height_pct" "93.40277777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.731193043494706"
+				"height_pct" "93.40277777777777"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1715757903"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "dramatic create"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "dramatic create"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1727917606"
+	"community_hub_visible" "1"
+	"gameid" "2779890"
+	"store_tags"
+	{
+		"0" "31579"
+		"1" "3799"
+		"2" "3987"
+		"3" "21"
+		"4" "7208"
+		"5" "4486"
+		"6" "9551"
+		"7" "4085"
+		"8" "3871"
+		"9" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "dramatic create"
+	"publisher" "dramatic create"
+}
+"config"
+{
+	"installdir" "meikoi_fullmoon"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "meikoi.exe"
+		}
+	}
+}
+"depots"
+{
+	"2779891"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6764280887450461643"
+				"size" "3590431331"
+				"download" "3344234096"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15584938"
+			"timeupdated" "1725418079"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "25165824"
+	"maxnumfiles" "180"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedata"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27500396"
+"_sha" "f07bba1dcaac6c22d9ed17d7f5995637fb01e769"
+"_size" "3161"
