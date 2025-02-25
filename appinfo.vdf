@@ -360,7 +360,7 @@
 	"developer" "Ubisoft"
 	"publisher" "Ubisoft"
 	"homepage" "https://www.ubisoft.com/en-gb/game/the-division"
-	"listofdlc" "2222560,2222570,2222571,2222580,2222730,2225120,2225121,2424600,2424601,2560550,2560560,2927620,2927630,2928970,2928980,3182470,3182480,3182490,3182500,3268800,3268810"
+	"listofdlc" "2222560,2222570,2222571,2222580,2222730,2225120,2225121,2424600,2424601,2560550,2560560,2927620,2927630,2928970,2928980,3182470,3182480,3182490,3182500,3268800,3268810,3398640,3398650,3398660,3398680"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -470,7 +470,7 @@
 		}
 		"9"
 		{
-			"executable" "Rogue_x64_Release.exe"
+			"executable" "EACLaunch.exe"
 			"arguments" "-online -startgame -nophysdatecheck -noAssetScanner -sdfonly -retail_frontend -enabledebugui -nolatency -allowcutsceneskip -enable_mps_debug -log_platform_events -noserver -ssl -no_game_proxy -relative_paths -enable_client_tracking -login_ubiservices -uplay_launcher -proxylist buc-pfarm03 -proxylist_port 51000 -allowclmismatch -anticheat_settings=Settings_Release_PROD.json -uplay_steam_mode"
 			"type" "default"
 			"config"
@@ -533,9 +533,9 @@
 		{
 			"public"
 			{
-				"gid" "5226573232485999240"
-				"size" "91173051091"
-				"download" "81506486736"
+				"gid" "2618523149416662965"
+				"size" "91519606447"
+				"download" "81715578128"
 			}
 			"local"
 			{
@@ -555,9 +555,9 @@
 		{
 			"public"
 			{
-				"gid" "1347699414773278875"
-				"size" "2580840341"
-				"download" "2434310576"
+				"gid" "2919353718778304473"
+				"size" "2592597856"
+				"download" "2445380256"
 			}
 		}
 	}
@@ -571,9 +571,9 @@
 		{
 			"public"
 			{
-				"gid" "3159019319714585512"
-				"size" "2678830274"
-				"download" "2557934816"
+				"gid" "7980467973127412628"
+				"size" "2690676615"
+				"download" "2569140992"
 			}
 		}
 	}
@@ -587,9 +587,9 @@
 		{
 			"public"
 			{
-				"gid" "2311544886577139781"
-				"size" "2519756001"
-				"download" "2407171600"
+				"gid" "7722639249058587064"
+				"size" "2531792158"
+				"download" "2418513392"
 			}
 		}
 	}
@@ -603,9 +603,9 @@
 		{
 			"public"
 			{
-				"gid" "6771196585896580713"
-				"size" "2659034670"
-				"download" "2547007008"
+				"gid" "5038756344087065998"
+				"size" "2669541957"
+				"download" "2556845280"
 			}
 		}
 	}
@@ -619,9 +619,9 @@
 		{
 			"public"
 			{
-				"gid" "6867510734821665490"
-				"size" "2606179594"
-				"download" "2493518240"
+				"gid" "2614986025073133211"
+				"size" "2617671970"
+				"download" "2504328880"
 			}
 		}
 	}
@@ -635,9 +635,9 @@
 		{
 			"public"
 			{
-				"gid" "611695230844634889"
-				"size" "2535101110"
-				"download" "2423038272"
+				"gid" "2622061247657663339"
+				"size" "2546960528"
+				"download" "2434210240"
 			}
 		}
 	}
@@ -651,9 +651,9 @@
 		{
 			"public"
 			{
-				"gid" "2459940874000352479"
-				"size" "2586996392"
-				"download" "2474052464"
+				"gid" "2509038010420445962"
+				"size" "2598944163"
+				"download" "2485311312"
 			}
 		}
 	}
@@ -667,9 +667,9 @@
 		{
 			"public"
 			{
-				"gid" "3240922959641591007"
-				"size" "2512044820"
-				"download" "2395775152"
+				"gid" "1919699202335550213"
+				"size" "2523676773"
+				"download" "2406731344"
 			}
 		}
 	}
@@ -683,9 +683,9 @@
 		{
 			"public"
 			{
-				"gid" "1069838154153775334"
-				"size" "2729243280"
-				"download" "2610363344"
+				"gid" "666347986964132738"
+				"size" "2739497472"
+				"download" "2620017488"
 			}
 		}
 	}
@@ -694,8 +694,8 @@
 	{
 		"public"
 		{
-			"buildid" "17088298"
-			"timeupdated" "1738659849"
+			"buildid" "17262789"
+			"timeupdated" "1740471044"
 		}
 		"local"
 		{
@@ -708,6 +708,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27303696"
-"_sha" "eb615e1e0da8eee3e51528a7dc29fd45d7fd6f63"
-"_size" "13874"
+"_change_number" "27651480"
+"_sha" "729cbeb1eb7d8090751fa3e932f78d32900f3f60"
+"_size" "13898"
