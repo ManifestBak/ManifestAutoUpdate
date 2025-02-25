@@ -1,7 +1,7 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-25 21:39:55
+## 更新时间：2025-02-25 21:45:02
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3477560 | Kaya's Prophecy Demo| Demo |
-| 3361640 | Avowed Soundtrack| Music |
+| 3352550 | 人中之龙８外传 Pirates in Hawaii 体验版| Demo |
+| 3100360 | 完蛋！我被美女包围了！前传 试用版| Demo |
