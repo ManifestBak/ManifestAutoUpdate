@@ -186,7 +186,7 @@
 		}
 	}
 	"steam_release_date" "1733245230"
-	"metacritic_score" "88"
+	"metacritic_score" "87"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/antonblast\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -195,15 +195,15 @@
 	{
 		"0" "5379"
 		"1" "4026"
-		"2" "19"
-		"3" "1734"
+		"2" "1734"
+		"3" "19"
 		"4" "492"
 		"5" "3871"
 		"6" "5363"
 		"7" "3834"
 		"8" "4182"
-		"9" "1751"
-		"10" "4195"
+		"9" "4195"
+		"10" "1751"
 		"11" "5537"
 		"12" "4004"
 		"13" "1664"
@@ -215,7 +215,7 @@
 		"19" "4975"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -243,18 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "7943853579350417072"
-				"size" "516812356"
-				"download" "360774640"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "6516C534C6460C46D486722136D56D3A"
-				"size" "13A6455C276B1DAA9C0C35EA2EA8027A"
-				"download" "96A241C3960190545094410D33C72133"
+				"gid" "6293474910867682003"
+				"size" "595681751"
+				"download" "411026736"
 			}
 		}
 	}
@@ -262,16 +253,11 @@
 	{
 		"public"
 		{
-			"buildid" "16848589"
-			"timeupdated" "1735124184"
-		}
-		"internal"
-		{
-			"buildid" "16848589"
-			"pwdrequired" "1"
-			"timeupdated" "1735124141"
+			"buildid" "17505005"
+			"timeupdated" "1740514336"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -311,6 +297,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26780450"
-"_sha" "a3e661e0c4a3a80312917b90b0b7400ba5f2bfcc"
-"_size" "5504"
+"_change_number" "27662971"
+"_sha" "3b4a1f93d40cca1d9008460945002503b88e8dd8"
+"_size" "5216"
