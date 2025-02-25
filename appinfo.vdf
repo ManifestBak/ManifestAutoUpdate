@@ -1,0 +1,252 @@
+"appid" "3352550"
+"common"
+{
+	"name" "Like a Dragon: Pirate Yakuza in Hawaii Demo"
+	"type" "Demo"
+	"parent" "3061810"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "e1e198dc2b02fed4f44bc4106ce5c15865458b3c"
+	"clienttga" "4f73e29b077c277b4fc47a5a620ab0fc80d26741"
+	"icon" "36457865acaa83643207ffad25422f62538b8cbf"
+	"name_localized"
+	{
+		"japanese" "龍が如く８外伝 Pirates in Hawaii 体験版"
+		"schinese" "人中之龙８外传 Pirates in Hawaii 体验版"
+		"tchinese" "人中之龍８外傳 Pirates in Hawaii 體驗版"
+		"koreana" "용과 같이8 외전 Pirates in Hawaii  체험판"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"japanese" "5679daf6acae441b16ead1f0a64d61ef611e72af/capsule_231x87_japanese.jpg"
+		"tchinese" "3f3911ace979bfb274cbd45e87ceca892fca9047/capsule_231x87_tchinese.jpg"
+		"english" "5875261a10d1dcfbc9c73d8b187946dab907a488/capsule_231x87.jpg"
+		"schinese" "30a6f5e572880759121e0e22c7c5e1fb7cec2b55/capsule_231x87_schinese.jpg"
+		"koreana" "bf5d1c844d59faeb702fa7d54d7c001b2123ba4d/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"store_screenshot" "ss_a334a13337028ee1ac328daffd4c03e51bb00d8b.jpg"
+	"store_asset_mtime" "1739431693"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ryu Ga Gotoku Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_60" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1739458800"
+	"gameid" "3352550"
+	"exfgls" "6"
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Ryu Ga Gotoku Studio"
+	"publisher" "SEGA"
+	"homepage" "https://www.sega.com/like-a-dragon-yakuza/like-a-dragon-pirate-yakuza-in-hawaii"
+}
+"config"
+{
+	"installdir" "LikeADragonPiratesDemo"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3003457625"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+		"3003463264"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+		"3003464891"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+		"3003476348"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+		"3003971536"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+		"3003976947"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,work_d,work_r"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "runtime/media/startup.exe"
+			"workingdir" "runtime/media/"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "work_d"
+			}
+		}
+		"1"
+		{
+			"executable" "runtime/media/startup.exe"
+			"workingdir" "runtime/media/"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "work_r"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3352551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3754259235310499183"
+				"size" "19469533701"
+				"download" "15859335456"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17140591"
+			"timeupdated" "1739386196"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27596452"
+"_sha" "09f7feb3c69a46d06775d6c1ebc1e53dd12ae9e9"
+"_size" "5121"
