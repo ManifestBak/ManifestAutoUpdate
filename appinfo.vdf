@@ -1,0 +1,195 @@
+"appid" "805150"
+"common"
+{
+	"name" "TSA Frisky VR"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"roomscale"
+		{
+			"width" "2.5"
+			"depth" "2.5"
+			"360_required" "0"
+		}
+	}
+	"logo" "6593bc427803109817e36253daab261a2e4c6507"
+	"logo_small" "6593bc427803109817e36253daab261a2e4c6507_thumb"
+	"icon" "3649542b3fcd49140a359ae6bb11124686d95f1b"
+	"clienticon" "4fa47af8ec55611773fc5effa6053e0698b34b6d"
+	"clienttga" "9f576dfaee66953311bd770f7b15dce672ba737c"
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"restricted_countries" "DE"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1681862400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "TSA Frisky"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_0def7b0445992ec9c51094db68085d56d238aa33.jpg"
+	"store_asset_mtime" "1526362713"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Out There Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Out There Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_13" "1"
+		"category_52" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1526603460"
+	"community_hub_visible" "1"
+	"gameid" "805150"
+	"exfgls" "3"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "492"
+		"2" "21978"
+		"3" "4252"
+	}
+	"review_score" "5"
+	"review_percentage" "57"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Out There Entertainment"
+	"publisher" "Out There Entertainment"
+	"homepage" "http://www.TSAFrisky.com"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "TSA Frisky"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TSAFrisky.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"805151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "909842134213835288"
+				"size" "4177290652"
+				"download" "813152096"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2871557"
+			"timeupdated" "1529339214"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26369050"
+"_sha" "3e93ab06883e7634384bd5a258740f661dbc3c0a"
+"_size" "3397"
