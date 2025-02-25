@@ -34,6 +34,40 @@
 			"height_pct" "59.11854061052313"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "51.40023337222871"
+				"height_pct" "59.11854061052313"
+			}
+		}
+	}
 	"store_asset_mtime" "1667078833"
 	"associations"
 	{
@@ -59,6 +93,7 @@
 	{
 		"category_2" "1"
 		"category_29" "1"
+		"category_23" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -159,9 +194,9 @@
 		{
 			"public"
 			{
-				"gid" "6882672438136003856"
-				"size" "2369938061"
-				"download" "725613936"
+				"gid" "8236891726998082873"
+				"size" "2371066152"
+				"download" "725966752"
 			}
 		}
 	}
@@ -213,17 +248,30 @@
 	{
 		"public"
 		{
-			"buildid" "14352775"
-			"timeupdated" "1717060843"
+			"buildid" "17419599"
+			"timeupdated" "1740472658"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "0"
-	"maxnumfiles" "0"
+	"quota" "5000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Gold Rush! Anniversary/Saves/"
+			"pattern" "*.gra"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "23754405"
-"_sha" "c69a7878ed9554ed583bc40b8e58c216b7793638"
-"_size" "3664"
+"_change_number" "27651867"
+"_sha" "95ab26a1e5f37c4bce39aeff5e6ed3ea9889ac5d"
+"_size" "4382"
