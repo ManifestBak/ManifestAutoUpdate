@@ -3,17 +3,26 @@
 {
 	"name" "Rasvyat Nuclear Power Station"
 	"type" "Game"
-	"icon" "257e8a1b2a7b927dc484379caaf33ca6c9d96cf7"
+	"icon" "6f427d929fca3a12b8bcea20101c5f294472f2e4"
 	"clienttga" "94adfec7b7188caf2542609dff8421da08c94160"
 	"clienticon" "99e729cab561f1db3439f3297af71a5d2fcdceb4"
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2873620_eula_0"
+			"name" "Rasvyat Nuclear Power Station EULA"
+			"url" "https://store.steampowered.com//eula/2873620_eula_0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "8868f1e3e2d03ef955346d79430c8656e0b04875/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -23,12 +32,13 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "CenterCenter"
-			"width_pct" "40.130449196893046"
+			"width_pct" "100"
 			"height_pct" "100"
 		}
 	}
@@ -38,22 +48,29 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "3608de77b1ac92a52b3c513cdb7f44406d146783/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "3608de77b1ac92a52b3c513cdb7f44406d146783/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
-			"image"
-			{
-				"english" "library_hero.jpg"
-			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "1fd31788d8c20f2995f40da64a1013d9478e8120/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "1fd31788d8c20f2995f40da64a1013d9478e8120/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "1fd31788d8c20f2995f40da64a1013d9478e8120/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -61,27 +78,31 @@
 			"logo_position"
 			{
 				"pinned_position" "CenterCenter"
-				"width_pct" "40.130449196893046"
+				"width_pct" "100"
 				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "0d213a72b78e596dadadf97bc67a1a61145321ab/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "0d213a72b78e596dadadf97bc67a1a61145321ab/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "90605e6dffafc1b0a9b825ce3f7906967f7f46da/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "90605e6dffafc1b0a9b825ce3f7906967f7f46da/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1721032750"
+	"store_asset_mtime" "1740455915"
 	"associations"
 	{
 		"0"
@@ -105,11 +126,9 @@
 	}
 	"category"
 	{
-		"category_2" "1"
 		"category_1" "1"
 		"category_9" "1"
 		"category_38" "1"
-		"category_48" "1"
 		"category_22" "1"
 		"category_62" "1"
 	}
@@ -137,8 +156,8 @@
 		"8" "3859"
 		"9" "3843"
 	}
-	"review_score" "6"
-	"review_percentage" "78"
+	"review_score" "8"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -195,9 +214,9 @@
 		{
 			"public"
 			{
-				"gid" "879694864040468934"
-				"size" "545208122"
-				"download" "443410352"
+				"gid" "714351587761009155"
+				"size" "575012948"
+				"download" "462999312"
 			}
 		}
 	}
@@ -223,13 +242,13 @@
 	{
 		"public"
 		{
-			"buildid" "15064920"
-			"timeupdated" "1721234816"
+			"buildid" "17493144"
+			"timeupdated" "1740455995"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27472180"
-"_sha" "5de7b5c40bc91c3526af00fb71f67d6c61ee255b"
-"_size" "3531"
+"_change_number" "27648717"
+"_sha" "c1d05a2d72a2f2905f70ac1352c50d33a6619603"
+"_size" "4236"
