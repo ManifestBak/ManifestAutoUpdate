@@ -131,7 +131,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1709129305"
+	"store_asset_mtime" "1740070599"
 	"associations"
 	{
 		"0"
@@ -216,6 +216,14 @@
 		{
 			"supported" "true"
 		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1709737216"
 	"community_visible_stats" "1"
@@ -246,7 +254,7 @@
 		"19" "493"
 	}
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "71"
 }
 "extended"
 {
@@ -348,9 +356,9 @@
 		{
 			"public"
 			{
-				"gid" "6831538435973704796"
-				"size" "5922654673"
-				"download" "5608703440"
+				"gid" "6164047421693086635"
+				"size" "5550436098"
+				"download" "5239465328"
 			}
 		}
 	}
@@ -359,8 +367,8 @@
 	{
 		"public"
 		{
-			"buildid" "17408915"
-			"timeupdated" "1739890580"
+			"buildid" "17501713"
+			"timeupdated" "1740497250"
 		}
 	}
 	"privatebranches" "1"
@@ -371,6 +379,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27536445"
-"_sha" "2c418cbf350bd4249988fb986cfb98557acf69d4"
-"_size" "6064"
+"_change_number" "27658379"
+"_sha" "aef46354dfcff972e02a13b1f2977736a2548e20"
+"_size" "6158"
