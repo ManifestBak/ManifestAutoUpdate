@@ -14,7 +14,9 @@
 	{
 		"english" "1"
 		"russian" "1"
+		"brazilian" "1"
 	}
+	"market_presence" "1"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -161,7 +163,7 @@
 		"19" "1100689"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -198,9 +200,9 @@
 		{
 			"public"
 			{
-				"gid" "109843680980567391"
-				"size" "202391254"
-				"download" "136531008"
+				"gid" "3290348459598204161"
+				"size" "204502762"
+				"download" "138101296"
 			}
 		}
 	}
@@ -208,8 +210,8 @@
 	{
 		"public"
 		{
-			"buildid" "17270906"
-			"timeupdated" "1738901949"
+			"buildid" "17497270"
+			"timeupdated" "1740475996"
 		}
 	}
 }
@@ -234,6 +236,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27358018"
-"_sha" "4aa718e0070e55bd2ef8bed6a890cf998297fae7"
-"_size" "3568"
+"_change_number" "27652723"
+"_sha" "43781207162b9c4ee2d0c1b2b4dd83b117cd885a"
+"_size" "3614"
