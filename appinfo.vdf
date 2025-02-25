@@ -232,9 +232,9 @@
 		{
 			"public"
 			{
-				"gid" "5992351114878743324"
-				"size" "7504134815"
-				"download" "3298200512"
+				"gid" "4129760302395988981"
+				"size" "7651486847"
+				"download" "3368175584"
 			}
 			"oldgraphics"
 			{
@@ -244,42 +244,21 @@
 			}
 			"arcade"
 			{
-				"gid" "5655395537220382635"
-				"size" "7274603554"
-				"download" "3202879744"
+				"gid" "4129760302395988981"
+				"size" "7651486847"
+				"download" "3368175584"
 			}
 			"beta"
 			{
-				"gid" "459834291777358083"
-				"size" "7518443743"
-				"download" "3304015728"
+				"gid" "4129760302395988981"
+				"size" "7651486847"
+				"download" "3368175584"
 			}
 			"previousversion"
 			{
-				"gid" "2905988688417097850"
-				"size" "7254314514"
-				"download" "3198370272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "6B7ACF055D26CDA0BB507881CCC753B3"
-				"size" "481E0B33D0B984C6144339C8879A328A"
-				"download" "7FC1ACFA1BED9F0E4DE5AA3C956CDC09"
-			}
-			"arcadebeta"
-			{
-				"gid" "0D43391E87B4216D9A0DB4A8363A0A19"
-				"size" "72BCC8B363F5EC405E24661C0ED6190C"
-				"download" "8037FA7CA44204B9028E7CE909B6D134"
-			}
-			"press"
-			{
-				"gid" "8153E3829248040810FC53AE83C9F1A4"
-				"size" "FCC3F8C7FB311189A7B5E10F10ABF9DC"
-				"download" "1F9CE9489194DAE33A326D742AEB2A4A"
+				"gid" "5992351114878743324"
+				"size" "7504134815"
+				"download" "3298200512"
 			}
 		}
 	}
@@ -287,8 +266,8 @@
 	{
 		"public"
 		{
-			"buildid" "16684875"
-			"timeupdated" "1733774350"
+			"buildid" "17488365"
+			"timeupdated" "1740484745"
 		}
 		"oldgraphics"
 		{
@@ -296,45 +275,28 @@
 			"description" "Older Version of the Game"
 			"timeupdated" "1707506945"
 		}
-		"alpha"
-		{
-			"buildid" "16708941"
-			"pwdrequired" "1"
-			"timeupdated" "1733928863"
-		}
 		"arcade"
 		{
-			"buildid" "15435330"
+			"buildid" "17488365"
 			"description" "Version for VR Arcades"
-			"timeupdated" "1724162443"
-		}
-		"arcadebeta"
-		{
-			"buildid" "16708941"
-			"pwdrequired" "1"
-			"timeupdated" "1733928871"
+			"timeupdated" "1740484761"
 		}
 		"beta"
 		{
-			"buildid" "16708941"
+			"buildid" "17488365"
 			"description" "Beta Testing"
-			"timeupdated" "1733928878"
-		}
-		"press"
-		{
-			"buildid" "15435330"
-			"pwdrequired" "1"
-			"timeupdated" "1724162468"
+			"timeupdated" "1740422098"
 		}
 		"previousversion"
 		{
-			"buildid" "15187069"
+			"buildid" "16684875"
 			"description" "An older version of the game"
-			"timeupdated" "1723801090"
+			"timeupdated" "1740484879"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26594951"
-"_sha" "39cd8e35d846b7c477045efa383b7ee5144f2fd0"
-"_size" "6258"
+"_change_number" "27655019"
+"_sha" "3b00e5d776e6ba80b9677c96208187583b5637ce"
+"_size" "5421"
