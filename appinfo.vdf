@@ -1,0 +1,231 @@
+"appid" "2778160"
+"common"
+{
+	"name" "猩红梦魇 The Nightmare of Scarlet Tempest"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "94a97a6a0cc6dac6101eeaf5b13720b435218e6f"
+	"clienticon" "7ebbb6e615fd951493c1f9289c4a8f3e5a0930e2"
+	"clienttga" "61b6eb7c0c93bb133678cd01e0f652c5b69f8472"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "68.943202449277"
+			"height_pct" "46.23316248449825"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "68.943202449277"
+				"height_pct" "46.23316248449825"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1717492990"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "拉莱椰可可"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "拉莱椰可可"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "我的咖啡不能没有糖"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1733580000"
+	"community_hub_visible" "1"
+	"gameid" "2778160"
+	"store_tags"
+	{
+		"0" "4474"
+		"1" "1720"
+		"2" "11014"
+		"3" "1664"
+		"4" "9551"
+		"5" "4434"
+		"6" "3799"
+		"7" "7208"
+		"8" "122"
+		"9" "3871"
+		"10" "1721"
+		"11" "4947"
+		"12" "1667"
+		"13" "1742"
+		"14" "6971"
+		"15" "5984"
+		"16" "5716"
+		"17" "5608"
+		"18" "21"
+		"19" "4182"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"developer" "拉莱椰可可"
+	"publisher" "拉莱椰可可"
+}
+"config"
+{
+	"installdir" "The Nightmare of Scarlet Tempest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The nightmare of scarlet tempest\\Nightmare.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2778161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5626076143908538042"
+				"size" "1031973418"
+				"download" "785310288"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17167887"
+			"timeupdated" "1738135654"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "20"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27213619"
+"_sha" "212c473b76c8ad68e0771422b84552454c75cfdd"
+"_size" "3828"
