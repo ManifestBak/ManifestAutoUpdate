@@ -1,0 +1,248 @@
+"appid" "3100360"
+"common"
+{
+	"name" "完蛋！我被美女包围了！前传 试用版"
+	"type" "Demo"
+	"parent" "3099660"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienticon" "0783e046e113db77231ac2b3597bf6e333e26e57"
+	"clienttga" "2bd25d29756cb428d69a371a8ab10353e0f37c73"
+	"clienticns" "f15def420f497c4ed454b0812aed98a4d806ff3a"
+	"linuxclienticon" "57c09130042e39f3f72617f60206f5e575b229ee"
+	"icon" "8a36d3702ec0bbd6fe6665f278bc1ef66778a02d"
+	"name_localized"
+	{
+		"english" "Love is All Around: Echoes of Yesterday Demo"
+		"koreana" "젠장! 미녀들한테 포위당했어! 프리퀄 평가판"
+		"schinese" "完蛋！我被美女包围了！前传 试用版"
+		"tchinese" "完蛋！我被美女包圍了！前传 试用版"
+		"japanese" "しまった！美人に囲まれた！プリクエル 試用版"
+		"vietnamese" "Thôi Xong! Tui Bị Người Đẹp Bao Vây Rồi! Phim Tiền Truyện Phiên bản dùng thử"
+	}
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "64cfa272f474731dd919af9af62a3f2273c4859a/capsule_231x87.jpg"
+		"schinese" "64cfa272f474731dd919af9af62a3f2273c4859a/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "bed6c23dd7297fd9db5b4025deb0854a2d8a3829/library_600x900.jpg"
+				"schinese" "bed6c23dd7297fd9db5b4025deb0854a2d8a3829/library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "bed6c23dd7297fd9db5b4025deb0854a2d8a3829/library_600x900_2x.jpg"
+				"schinese" "bed6c23dd7297fd9db5b4025deb0854a2d8a3829/library_600x900_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_d39da169daf899778c8b5c7d94181d1950aa146a.jpg"
+	"store_asset_mtime" "1729064396"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "intiny"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "intiny"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_23" "1"
+		"category_13" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728900118"
+	"gameid" "3100360"
+	"exfgls" "6"
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "intiny"
+	"publisher" "intiny"
+}
+"config"
+{
+	"installdir" "intiny_hd5_demo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WDHD5.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Love Is All Around"
+			}
+			"description" "Love Is All Around"
+		}
+		"1"
+		{
+			"executable" "WDHD5.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Love Is All Around"
+			}
+			"description" "Love Is All Around"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3100361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8017370274599086152"
+				"size" "5120767684"
+				"download" "4669783088"
+			}
+		}
+	}
+	"3100362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6404806892825440144"
+				"size" "5261520642"
+				"download" "4700701152"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16034890"
+			"timeupdated" "1728901993"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "256"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "intiny-hd5-steamdemo/LoveIsAllAround/SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "intiny-hd5-steamdemo/LoveIsAllAround/SavesDir"
+					"replace" "com.intiny-hd5-steamdemo.LoveIsAllAround/SavesDir"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "intiny-hd5-steamdemo/LoveIsAllAround/SavesDir"
+					"replace" ".config/unity3d/intiny-hd5-steamdemo/LoveIsAllAround/SavesDir "
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26377661"
+"_sha" "8dfda6ee7026dd3a70fb03f712916b8733d92c96"
+"_size" "4836"
