@@ -13,8 +13,18 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
 		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
 	}
 	"name_localized"
 	{
@@ -182,6 +192,16 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1726851611"
 	"community_visible_stats" "1"
@@ -283,15 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "97390448508772659"
-				"size" "371464260"
-				"download" "316930176"
-			}
-			"beta"
-			{
-				"gid" "97390448508772659"
-				"size" "371464260"
-				"download" "316930176"
+				"gid" "5619979373207099763"
+				"size" "371865798"
+				"download" "317239776"
 			}
 		}
 	}
@@ -301,12 +315,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "8679803248249572419"
-				"size" "655027723"
-				"download" "578109984"
-			}
-			"beta"
 			{
 				"gid" "8679803248249572419"
 				"size" "655027723"
@@ -329,12 +337,6 @@
 				"size" "567278848"
 				"download" "534835280"
 			}
-			"beta"
-			{
-				"gid" "561077346636007838"
-				"size" "567278848"
-				"download" "534835280"
-			}
 		}
 	}
 	"2159212"
@@ -346,12 +348,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "3792934894090288959"
-				"size" "26579832"
-				"download" "7636752"
-			}
-			"beta"
 			{
 				"gid" "3792934894090288959"
 				"size" "26579832"
@@ -374,12 +370,6 @@
 				"size" "10196068"
 				"download" "3377088"
 			}
-			"beta"
-			{
-				"gid" "8678659770268557037"
-				"size" "10196068"
-				"download" "3377088"
-			}
 		}
 	}
 	"2159214"
@@ -396,30 +386,19 @@
 				"size" "366338537"
 				"download" "304664768"
 			}
-			"beta"
-			{
-				"gid" "1221564496318579571"
-				"size" "366338537"
-				"download" "304664768"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17411549"
-			"timeupdated" "1739981296"
-		}
-		"beta"
-		{
-			"buildid" "17411549"
-			"description" "Test branch"
-			"timeupdated" "1739903399"
+			"buildid" "17501505"
+			"timeupdated" "1740496338"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27557462"
-"_sha" "07b70d68b6df8c47ee7fdb51d7590b9edfb34fea"
-"_size" "7444"
+"_change_number" "27658107"
+"_sha" "bc11069883b1bea5bb2b5566681ae91d88b76ef3"
+"_size" "7028"
