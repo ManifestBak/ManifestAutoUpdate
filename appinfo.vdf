@@ -1,0 +1,427 @@
+"appid" "905360"
+"common"
+{
+	"name" "Smash Ball"
+	"type" "Game"
+	"releasestate" "prerelease"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "cb399177e3c7b56adcca03ab4cd60cd7d1bce5fd"
+	"logo_small" "cb399177e3c7b56adcca03ab4cd60cd7d1bce5fd_thumb"
+	"icon" "c3bc9e1e493b942dde266940b080de9171e2a700"
+	"clienttga" "f4b9499bd8af188b36a990ce81cde8b0b3450515"
+	"clienticon" "9aa6c9d13660c965307d691ff7adc3038aa93a32"
+	"osextended" ""
+	"metacritic_name" "Smash Ball"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50.29658189616157"
+			"height_pct" "75.08033938486065"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "50.29658189616157"
+				"height_pct" "75.08033938486065"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1702061974"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MECH LEAGUES"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TO BE ANNOUNCED"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "MECH LEAGUES"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_28" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "905360"
+	"exfgls" "8"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "19"
+		"2" "701"
+		"3" "3859"
+		"4" "3878"
+		"5" "3993"
+		"6" "1734"
+		"7" "4747"
+		"8" "4821"
+		"9" "5055"
+		"10" "5914"
+		"11" "1254546"
+		"12" "1775"
+		"13" "1743"
+		"14" "1685"
+		"15" "5363"
+		"16" "5711"
+		"17" "4191"
+		"18" "6506"
+		"19" "4295"
+	}
+}
+"extended"
+{
+	"developer" "MECH LEAGUES"
+	"publisher" "TO BE ANNOUNCED"
+	"homepage" "http://www.smashballgame.com"
+}
+"config"
+{
+	"installdir" "Smash Ball"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Smash Ball.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Smash Ball.app\\Contents\\MacOS\\Smash Ball"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"905361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1241734786881119071"
+				"size" "5288358361"
+				"download" "1306014240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "F6112D4BB03FBB9CA1BB7B08A14C3A44"
+				"size" "AF424A3F92070B47882BDC2FBCBB8F63"
+				"download" "59E164C45DDB698E5C325E370501F8B4"
+			}
+			"demo"
+			{
+				"gid" "03C1CAEFAC5373A777E14B72B564C20C"
+				"size" "41AC66BE96B8442C738D430EC52F1F14"
+				"download" "95A08CCBB2F985FF3B4683326161BD47"
+			}
+			"dev-gamedesign"
+			{
+				"gid" "C34B8C393C307BB638308C39299C7403"
+				"size" "D90E10051920886D476B7D9082B35147"
+				"download" "C7ABFE269A0B28606075F0C3D5AF037B"
+			}
+			"dev-gamedesign(a)"
+			{
+				"gid" "AEC2169F5D14F0CC323D0919FE78B78E"
+				"size" "3A8FF32F8F7A150764C079ED7EC54077"
+				"download" "C34ED28D7141DC4EE370A9216949A1DF"
+			}
+			"dev-gamedesign(b)"
+			{
+				"gid" "A494B2A38FDE3AECC206C0DEC9799E90"
+				"size" "ADFA79D44754E9A7D1E8832FC532E584"
+				"download" "F99E1C3ABA012DEF74BCB7027CA0D7A5"
+			}
+			"dev-gamedesign(c)"
+			{
+				"gid" "6B845D0A018AEF5F081EE86670A25F49"
+				"size" "BA867628AD47A6FF1C1E6D622C9DCA76"
+				"download" "B270EBC0A6113B30A2AB1C80F29642F7"
+			}
+			"dev_testing"
+			{
+				"gid" "9A58860F72EE7DB39D059E6680656D5A"
+				"size" "03B9DB4DBF756A6816001458F766D982"
+				"download" "5B04C51CF9827B7FFB0C8FA656126065"
+			}
+			"mech_previewer"
+			{
+				"gid" "0BBB79255F8F6E78F3528AACC2C7F79B"
+				"size" "0EDEF2E341431DA1942CECF0AD7BF794"
+				"download" "A776D96C129347AC0A1E57E53239AA1D"
+			}
+			"pre-release"
+			{
+				"gid" "6AD17468F542B0A5E87BB6A0FC63D1AC"
+				"size" "D1AEAB196BCF71416548D630868D1EC8"
+				"download" "58E334716523598A18BFEEA52AB7A6E7"
+			}
+			"preview"
+			{
+				"gid" "03C3F42E1C9EA6995D09EA0133E59DFB"
+				"size" "A1BE806C25940D001999E20625132777"
+				"download" "8EF049A447784FB2BBD81925418A98C1"
+			}
+		}
+	}
+	"905362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1337160996986840718"
+				"size" "2604927023"
+				"download" "570013840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "49DAB7A14696C09058FC6F6ADFC45798"
+				"size" "B0B9FC5F1CDBB653E24A5E2F1AB8BDF9"
+				"download" "59EDBEF7B8D1FE875396CB602F18AE12"
+			}
+			"demo"
+			{
+				"gid" "57939E2BD2EE57143F7DF41EC48FBFFD"
+				"size" "44A1D2B5162D73CC279B0F546DEC0A4D"
+				"download" "05769FA5B1E87C476E800F591CCF20D3"
+			}
+			"dev-gamedesign"
+			{
+				"gid" "91AA7C5756A990C83332BD2C5776F098"
+				"size" "5BA3C984795FCD8A9CF83F001A8B91EA"
+				"download" "248BB1E6BD8A3D5303AF64EA5005F365"
+			}
+			"dev-gamedesign(a)"
+			{
+				"gid" "FDDB7980D85206D326598393F138E5B0"
+				"size" "8902CE5A2A48869FF3076046BB4E0BBF"
+				"download" "5E2F170B3DD449792FBCF5C5FA146AF2"
+			}
+			"dev-gamedesign(b)"
+			{
+				"gid" "4FD24F9B9FCD883A8DD538E71A1B908D"
+				"size" "0CE1D50E67688FD19C613AACDB0BCAD8"
+				"download" "07386FA3DF46CA31AB24654CCBC76C9E"
+			}
+			"dev-gamedesign(c)"
+			{
+				"gid" "C43F30E6B3AEE20B1DD8587563F1BBDF"
+				"size" "58D16E134FFB9FFEFB8D295AF2C348F9"
+				"download" "2620E586CF85E81008B7F75F28A03CD7"
+			}
+			"dev_testing"
+			{
+				"gid" "570CD17210A1015AEDE0BC225D443DDD"
+				"size" "2CA38430D736AE3A3A8E9DA036B33441"
+				"download" "B50BF03A8F93999CC69A04448B4A52D2"
+			}
+			"mech_previewer"
+			{
+				"gid" "8D8F33298F1ECFC9EA75C5BB539A72F4"
+				"size" "E6558189DFCF2395F26DEB7C81BB3516"
+				"download" "59A82BEBB97CAE67204ABBDE192EE7D3"
+			}
+			"pre-release"
+			{
+				"gid" "27D495366B8BA71CA185F374E566FFDF"
+				"size" "2EFC7F6F3247365E968D0016DA7E022D"
+				"download" "FD86258D41ADBC6DA8D6725FD184E87E"
+			}
+			"preview"
+			{
+				"gid" "94D388E6D6FEAA8BD89436A955328F22"
+				"size" "149B3E20E24CE8CE37BE6AF7DC898480"
+				"download" "FD49A9D97EC0091D38D79E6B5F55D99A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6338211"
+			"timeupdated" "1615214871"
+		}
+		"beta"
+		{
+			"buildid" "4767363"
+			"pwdrequired" "1"
+			"timeupdated" "1584028679"
+		}
+		"demo"
+		{
+			"buildid" "5585020"
+			"pwdrequired" "1"
+			"timeupdated" "1600875241"
+		}
+		"dev-gamedesign"
+		{
+			"buildid" "7089296"
+			"pwdrequired" "1"
+			"timeupdated" "1627317567"
+		}
+		"dev-gamedesign(a)"
+		{
+			"buildid" "6580764"
+			"pwdrequired" "1"
+			"timeupdated" "1620320969"
+		}
+		"dev-gamedesign(b)"
+		{
+			"buildid" "8397916"
+			"pwdrequired" "1"
+			"timeupdated" "1647615821"
+		}
+		"dev-gamedesign(c)"
+		{
+			"buildid" "10033895"
+			"pwdrequired" "1"
+			"timeupdated" "1669677840"
+		}
+		"dev_testing"
+		{
+			"buildid" "5034724"
+			"pwdrequired" "1"
+			"timeupdated" "1590684630"
+		}
+		"mech_previewer"
+		{
+			"buildid" "7773254"
+			"pwdrequired" "1"
+			"timeupdated" "1637791143"
+		}
+		"pre-release"
+		{
+			"buildid" "7096200"
+			"pwdrequired" "1"
+			"timeupdated" "1627410564"
+		}
+		"preview"
+		{
+			"buildid" "6854470"
+			"pwdrequired" "1"
+			"timeupdated" "1623427780"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "3"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "VRGEN/Mech League Smash/"
+			"pattern" "*.gd"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "com.VRGEN.MechLeagueSmash"
+			"pattern" "*.gd"
+		}
+	}
+}
