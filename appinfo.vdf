@@ -1,0 +1,1110 @@
+"appid" "787790"
+"common"
+{
+	"name" "Epic Roller Coasters"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"logo" "3d8b85c76f85517efdabd8d5ff666314642e46d4"
+	"logo_small" "3d8b85c76f85517efdabd8d5ff666314642e46d4_thumb"
+	"icon" "b63d16fbb8847a57cf8b114cefd0f0fc303d1ae2"
+	"clienttga" "e15500a5b27ccdedb990a7260e733f7006d64e72"
+	"clienticns" "487ac3888e11709176dea87ad13a17908a6a4c4e"
+	"linuxclienticon" "487ac3888e11709176dea87ad13a17908a6a4c4e"
+	"clienticon" "5ea04848f32736bc44f13d2280ca15e54908a6fc"
+	"releasestate" "released"
+	"openvrsupport" "1"
+	"metacritic_name" "Epic Roller Coasters"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "5e38446491ea29902962da496a5c959c4fa81aee/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "16.46527810670787"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "6e4a4ce503833e8c8d17579348285bb495dc98ed/library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "6e4a4ce503833e8c8d17579348285bb495dc98ed/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "e31a56d2f276642c4ed22796229ff58f0212a07c/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "e31a56d2f276642c4ed22796229ff58f0212a07c/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "e31a56d2f276642c4ed22796229ff58f0212a07c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "16.46527810670787"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image2x"
+			{
+				"english" "12357229563bfe5a8ba05fdbc5ce709a3d19e9f5/library_header_2x.jpg"
+			}
+			"image"
+			{
+				"english" "12357229563bfe5a8ba05fdbc5ce709a3d19e9f5/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1739480269"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "B4T Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "B4T Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "9"
+		"3" "28"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_52" "1"
+		"category_23" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1520420400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "787790"
+	"exfgls" "3"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "599"
+		"2" "597"
+		"3" "21978"
+		"4" "699"
+		"5" "492"
+		"6" "3859"
+		"7" "3839"
+		"8" "19"
+		"9" "4182"
+		"10" "1774"
+		"11" "1663"
+		"12" "7481"
+		"13" "21"
+		"14" "1773"
+		"15" "4106"
+		"16" "10235"
+		"17" "1100687"
+		"18" "5652"
+		"19" "4102"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "B4T Games"
+	"publisher" "B4T Games"
+	"homepage" "https://b4t.games/"
+	"isfreeapp" "1"
+	"listofdlc" "791870,791871,791872,861640,861641,861642,950590,1104560,1216790,1216792,1216793,1216794,1349490,1349491,1349492,2270780,2307620,2355190,2391670,2427830,2427831,2515750,2555590,2683290,2807550,2933770,2998010,3095400,3375420,3498940"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Epic Roller Coasters"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Epic Roller Coasters.exe"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian"
+	"787791"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4861623119347288008"
+				"size" "14154349759"
+				"download" "7712760368"
+			}
+			"legacy"
+			{
+				"gid" "3416756649144402313"
+				"size" "5942663029"
+				"download" "4460249984"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "4986674883158244042"
+				"size" "7574576992"
+				"download" "4183460288"
+			}
+			"developer"
+			{
+				"gid" "4861623119347288008"
+				"size" "14154349759"
+				"download" "7712760368"
+			}
+		}
+	}
+	"791871"
+	{
+		"dlcappid" "791871"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "640654906522008336"
+				"size" "2124331017"
+				"download" "1938496368"
+			}
+			"legacy"
+			{
+				"gid" "7364106589844261069"
+				"size" "2793307051"
+				"download" "2476324528"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "9147070392186235250"
+				"size" "2316217965"
+				"download" "2113290320"
+			}
+			"developer"
+			{
+				"gid" "640654906522008336"
+				"size" "2124331017"
+				"download" "1938496368"
+			}
+		}
+	}
+	"791870"
+	{
+		"dlcappid" "791870"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4014865609048540482"
+				"size" "1610242779"
+				"download" "1457658640"
+			}
+			"legacy"
+			{
+				"gid" "1495427533441471728"
+				"size" "2999048161"
+				"download" "2682594112"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "1849343000841860385"
+				"size" "1730142198"
+				"download" "1559807712"
+			}
+			"developer"
+			{
+				"gid" "4014865609048540482"
+				"size" "1610242779"
+				"download" "1457658640"
+			}
+		}
+	}
+	"791872"
+	{
+		"dlcappid" "791872"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8515877217514259020"
+				"size" "3758515616"
+				"download" "3350609712"
+			}
+			"legacy"
+			{
+				"gid" "5813983230516428225"
+				"size" "1964274002"
+				"download" "1734061216"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "8370933823409573849"
+				"size" "4160301338"
+				"download" "3725577056"
+			}
+			"developer"
+			{
+				"gid" "8515877217514259020"
+				"size" "3758515616"
+				"download" "3350609712"
+			}
+		}
+	}
+	"861642"
+	{
+		"dlcappid" "861642"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7096464999741411995"
+				"size" "2320374630"
+				"download" "2109912576"
+			}
+			"legacy"
+			{
+				"gid" "1713295060889498142"
+				"size" "3040165227"
+				"download" "2685251808"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "6903691290825352605"
+				"size" "1872837884"
+				"download" "1691514304"
+			}
+			"developer"
+			{
+				"gid" "7096464999741411995"
+				"size" "2320374630"
+				"download" "2109912576"
+			}
+		}
+	}
+	"861640"
+	{
+		"dlcappid" "861640"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5911260998112848235"
+				"size" "2218537093"
+				"download" "1996055344"
+			}
+			"legacy"
+			{
+				"gid" "7969977088549491388"
+				"size" "2934245735"
+				"download" "2615935376"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "5927138314204921221"
+				"size" "2610505248"
+				"download" "2372183120"
+			}
+			"developer"
+			{
+				"gid" "5911260998112848235"
+				"size" "2218537093"
+				"download" "1996055344"
+			}
+		}
+	}
+	"861641"
+	{
+		"dlcappid" "861641"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3125619670237592757"
+				"size" "2354780747"
+				"download" "2077218096"
+			}
+			"legacy"
+			{
+				"gid" "5945760045022522685"
+				"size" "283031066"
+				"download" "234727424"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "1481811029004812009"
+				"size" "2014410250"
+				"download" "1761415296"
+			}
+			"developer"
+			{
+				"gid" "3125619670237592757"
+				"size" "2354780747"
+				"download" "2077218096"
+			}
+		}
+	}
+	"950590"
+	{
+		"dlcappid" "950590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3981567852060612041"
+				"size" "3782577583"
+				"download" "3301136192"
+			}
+			"legacy"
+			{
+				"gid" "4465705425691363854"
+				"size" "479048678"
+				"download" "413537184"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "2604897571511677350"
+				"size" "4113902109"
+				"download" "3610695872"
+			}
+			"developer"
+			{
+				"gid" "3981567852060612041"
+				"size" "3782577583"
+				"download" "3301136192"
+			}
+		}
+	}
+	"1104560"
+	{
+		"dlcappid" "1104560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8701855946107830316"
+				"size" "1664535623"
+				"download" "1484768064"
+			}
+			"legacy"
+			{
+				"gid" "9131871084960269344"
+				"size" "771039660"
+				"download" "635479792"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "6999328216542031041"
+				"size" "2493520782"
+				"download" "2243861472"
+			}
+			"developer"
+			{
+				"gid" "8701855946107830316"
+				"size" "1664535623"
+				"download" "1484768064"
+			}
+		}
+	}
+	"1216792"
+	{
+		"dlcappid" "1216792"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4724335983587239873"
+				"size" "1000537065"
+				"download" "921589792"
+			}
+			"legacy"
+			{
+				"gid" "5362875043308506723"
+				"size" "2060072944"
+				"download" "1836045520"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "3544712542725349331"
+				"size" "1201608970"
+				"download" "1113149280"
+			}
+			"developer"
+			{
+				"gid" "4724335983587239873"
+				"size" "1000537065"
+				"download" "921589792"
+			}
+		}
+	}
+	"1216793"
+	{
+		"dlcappid" "1216793"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1976985683067981654"
+				"size" "1541481202"
+				"download" "1387092096"
+			}
+			"legacy"
+			{
+				"gid" "6246131870134001243"
+				"size" "1368449946"
+				"download" "1231981488"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "7942029720287154823"
+				"size" "1572593546"
+				"download" "1415656336"
+			}
+			"developer"
+			{
+				"gid" "1976985683067981654"
+				"size" "1541481202"
+				"download" "1387092096"
+			}
+		}
+	}
+	"1216794"
+	{
+		"dlcappid" "1216794"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1022210504766999352"
+				"size" "1452483755"
+				"download" "1328476976"
+			}
+			"legacy"
+			{
+				"gid" "968122194369131114"
+				"size" "2198221062"
+				"download" "1987077936"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "5685012983059673620"
+				"size" "1650600595"
+				"download" "1510158640"
+			}
+			"developer"
+			{
+				"gid" "1022210504766999352"
+				"size" "1452483755"
+				"download" "1328476976"
+			}
+		}
+	}
+	"1216790"
+	{
+		"dlcappid" "1216790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5109637855037101001"
+				"size" "621782609"
+				"download" "570140336"
+			}
+			"legacy"
+			{
+				"gid" "8614996451701832181"
+				"size" "892985710"
+				"download" "803989472"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "4622540230786527295"
+				"size" "606976727"
+				"download" "557986864"
+			}
+			"developer"
+			{
+				"gid" "5109637855037101001"
+				"size" "621782609"
+				"download" "570140336"
+			}
+		}
+	}
+	"1349492"
+	{
+		"dlcappid" "1349492"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2211097161356155373"
+				"size" "715203687"
+				"download" "659486464"
+			}
+			"legacy"
+			{
+				"gid" "4822104527511693418"
+				"size" "1280864937"
+				"download" "1163749632"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "3064138417077823413"
+				"size" "690810908"
+				"download" "637648816"
+			}
+			"developer"
+			{
+				"gid" "2211097161356155373"
+				"size" "715203687"
+				"download" "659486464"
+			}
+		}
+	}
+	"1349490"
+	{
+		"dlcappid" "1349490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3610459799783511882"
+				"size" "938681174"
+				"download" "855636736"
+			}
+			"legacy"
+			{
+				"gid" "8658250173746986235"
+				"size" "1736164199"
+				"download" "1563909136"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "1329021405367380792"
+				"size" "971162870"
+				"download" "886236624"
+			}
+			"developer"
+			{
+				"gid" "3610459799783511882"
+				"size" "938681174"
+				"download" "855636736"
+			}
+		}
+	}
+	"1349491"
+	{
+		"dlcappid" "1349491"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "830205725772456034"
+				"size" "425987203"
+				"download" "363900848"
+			}
+			"legacy"
+			{
+				"gid" "868958052008280364"
+				"size" "657224502"
+				"download" "557401328"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "5033124823104919428"
+				"size" "343622702"
+				"download" "293494928"
+			}
+			"developer"
+			{
+				"gid" "830205725772456034"
+				"size" "425987203"
+				"download" "363900848"
+			}
+		}
+	}
+	"2270780"
+	{
+		"dlcappid" "2270780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6160109200045418461"
+				"size" "21"
+				"download" "80"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "6160109200045418461"
+				"size" "21"
+				"download" "80"
+			}
+			"developer"
+			{
+				"gid" "6160109200045418461"
+				"size" "21"
+				"download" "80"
+			}
+		}
+	}
+	"2307620"
+	{
+		"dlcappid" "2307620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5574949901285434466"
+				"size" "698736878"
+				"download" "638959616"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "1437444472882548029"
+				"size" "842989749"
+				"download" "771701360"
+			}
+			"developer"
+			{
+				"gid" "5574949901285434466"
+				"size" "698736878"
+				"download" "638959616"
+			}
+		}
+	}
+	"2355190"
+	{
+		"dlcappid" "2355190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "289015173935236850"
+				"size" "1118966138"
+				"download" "956620048"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "2151930240524128475"
+				"size" "399130095"
+				"download" "348652432"
+			}
+			"developer"
+			{
+				"gid" "289015173935236850"
+				"size" "1118966138"
+				"download" "956620048"
+			}
+		}
+	}
+	"2391670"
+	{
+		"dlcappid" "2391670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5121018448727727298"
+				"size" "1450996625"
+				"download" "1289148112"
+			}
+			"yawvr_legacy"
+			{
+				"gid" "7531894428212408715"
+				"size" "1497600441"
+				"download" "1324790624"
+			}
+			"developer"
+			{
+				"gid" "5121018448727727298"
+				"size" "1450996625"
+				"download" "1289148112"
+			}
+		}
+	}
+	"2427830"
+	{
+		"dlcappid" "2427830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3656849703806448867"
+				"size" "910498736"
+				"download" "807618480"
+			}
+			"developer"
+			{
+				"gid" "3656849703806448867"
+				"size" "910498736"
+				"download" "807618480"
+			}
+		}
+	}
+	"2427831"
+	{
+		"dlcappid" "2427831"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7245619460480122169"
+				"size" "1138931937"
+				"download" "1049423424"
+			}
+			"developer"
+			{
+				"gid" "7245619460480122169"
+				"size" "1138931937"
+				"download" "1049423424"
+			}
+		}
+	}
+	"2515750"
+	{
+		"dlcappid" "2515750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5798994029478120304"
+				"size" "1768774159"
+				"download" "1599008992"
+			}
+			"developer"
+			{
+				"gid" "5798994029478120304"
+				"size" "1768774159"
+				"download" "1599008992"
+			}
+		}
+	}
+	"2555590"
+	{
+		"dlcappid" "2555590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "726462663691985381"
+				"size" "805934660"
+				"download" "733373008"
+			}
+			"developer"
+			{
+				"gid" "726462663691985381"
+				"size" "805934660"
+				"download" "733373008"
+			}
+		}
+	}
+	"2683290"
+	{
+		"dlcappid" "2683290"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5027550406195091657"
+				"size" "5736843256"
+				"download" "4755410304"
+			}
+			"developer"
+			{
+				"gid" "5027550406195091657"
+				"size" "5736843256"
+				"download" "4755410304"
+			}
+		}
+	}
+	"2807550"
+	{
+		"dlcappid" "2807550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6320635905012137124"
+				"size" "937499998"
+				"download" "795664480"
+			}
+			"developer"
+			{
+				"gid" "6320635905012137124"
+				"size" "937499998"
+				"download" "795664480"
+			}
+		}
+	}
+	"2933770"
+	{
+		"dlcappid" "2933770"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6272707415347388796"
+				"size" "1711795898"
+				"download" "1461851680"
+			}
+			"developer"
+			{
+				"gid" "6272707415347388796"
+				"size" "1711795898"
+				"download" "1461851680"
+			}
+		}
+	}
+	"2998010"
+	{
+		"dlcappid" "2998010"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7262009773575057903"
+				"size" "2259380866"
+				"download" "2000375168"
+			}
+			"developer"
+			{
+				"gid" "7262009773575057903"
+				"size" "2259380866"
+				"download" "2000375168"
+			}
+		}
+	}
+	"3095400"
+	{
+		"dlcappid" "3095400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8071585538167894622"
+				"size" "21"
+				"download" "80"
+			}
+			"developer"
+			{
+				"gid" "8071585538167894622"
+				"size" "21"
+				"download" "80"
+			}
+		}
+	}
+	"3375420"
+	{
+		"dlcappid" "3375420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8361128804717554864"
+				"size" "8875713830"
+				"download" "7675800416"
+			}
+			"developer"
+			{
+				"gid" "8361128804717554864"
+				"size" "8875713830"
+				"download" "7675800416"
+			}
+		}
+	}
+	"3498940"
+	{
+		"dlcappid" "3498940"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7825596031472916074"
+				"size" "21"
+				"download" "80"
+			}
+			"developer"
+			{
+				"gid" "7825596031472916074"
+				"size" "21"
+				"download" "80"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17356193"
+			"timeupdated" "1739477970"
+		}
+		"legacy"
+		{
+			"buildid" "6008865"
+			"description" "Legacy version for older hardware"
+			"timeupdated" "1662407723"
+		}
+		"yawvr_legacy"
+		{
+			"buildid" "11336885"
+			"description" "Legacy version for older version of YawVR"
+			"timeupdated" "1685282520"
+		}
+		"developer"
+		{
+			"buildid" "17356193"
+			"description" "Public developer branch"
+			"timeupdated" "1739471840"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "B4T Games/Epic Roller Coasters/CloudStorage/{64BitSteamID}"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27482368"
+"_sha" "19442cc8f110b643c7e9f7d0a8cc2a6382c853c3"
+"_size" "19198"
