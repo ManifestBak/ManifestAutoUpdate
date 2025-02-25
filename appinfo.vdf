@@ -1,0 +1,234 @@
+"appid" "795580"
+"common"
+{
+	"name" "THE DAY Online"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "db1d0142588efce3ba2d33ff7f8b44c8c8bd7ae3"
+	"logo" "f256ebf65888b09d1f1cd5ef230daed9bf9325d0"
+	"logo_small" "f256ebf65888b09d1f1cd5ef230daed9bf9325d0_thumb"
+	"clienticon" "93d663bab7c32474316701137824099f888c8552"
+	"icon" "26fb9e47abb853f14f45271afa4e789ab7763e5e"
+	"oslist" "windows"
+	"osarch" "64"
+	"test" "42"
+	"restricted_countries" "DE"
+	"metacritic_name" "THE DAY Online"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_a7357de4ea01f92648c47943b14bd115db26deee.jpg"
+	"store_asset_mtime" "1524312644"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Reloaded Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Reloaded Studios"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1522813080"
+	"community_hub_visible" "1"
+	"gameid" "795580"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "1718"
+		"2" "3859"
+		"3" "19"
+		"4" "9"
+		"5" "5711"
+		"6" "128"
+		"7" "1775"
+		"8" "3843"
+		"9" "1774"
+		"10" "493"
+		"11" "122"
+		"12" "3878"
+		"13" "1685"
+		"14" "5055"
+		"15" "1663"
+		"16" "1697"
+		"17" "1754"
+		"18" "1777"
+		"19" "6730"
+	}
+	"review_score" "5"
+	"review_percentage" "58"
+}
+"extended"
+{
+	"developer" "Reloaded Studios"
+	"publisher" "Reloaded Studios"
+	"homepage" "https://world.thedayonline.net/"
+	"listofdlc" "795600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "THE DAY Online"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"795581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2543006830550564250"
+				"size" "2657281318"
+				"download" "2432386592"
+			}
+		}
+	}
+	"baselanguages" "english,koreana"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2784604"
+			"timeupdated" "1526619284"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "af09c79f481bc345211e4059b1ae913a32d4148e"
+"_size" "3483"
