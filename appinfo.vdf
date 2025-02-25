@@ -1,0 +1,259 @@
+"appid" "2980050"
+"common"
+{
+	"name" "机械恋心"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "d1cc8218d08d6f1c8900e798120d507ce6247f0e"
+	"clienticon" "add08eed083b0d0046d64b88ad60983b019a904c"
+	"clienttga" "92c5ecc5df2b7e52f202c7e616271aedb242ba62"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "f172ee10a08d18dbd97c4127b70ee981e5783e25/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723902631"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lunatic Works"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lunatic Works"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "37"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717084176"
+	"community_hub_visible" "1"
+	"gameid" "2980050"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "24003"
+		"2" "9551"
+		"3" "4947"
+		"4" "3942"
+		"5" "7926"
+		"6" "5752"
+		"7" "492"
+		"8" "4085"
+		"9" "6971"
+		"10" "1742"
+		"11" "3854"
+		"12" "6426"
+		"13" "4726"
+		"14" "4295"
+		"15" "4136"
+		"16" "3839"
+		"17" "15172"
+		"18" "122"
+		"19" "5984"
+	}
+	"review_score" "8"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"developer" "Lunatic Works"
+	"publisher" "Lunatic Works"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Jixie Lianxin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Jixie Lianxin.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Jixie Lianxin.app\\Contents\\MacOS\\Jixie Lianxin"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Jixie Lianxin"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"2980051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3815028051992629870"
+				"size" "356198736"
+				"download" "300752944"
+			}
+		}
+	}
+	"2980052"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7203538639543987802"
+				"size" "381093096"
+				"download" "309243936"
+			}
+		}
+	}
+	"2980053"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4499302116625969870"
+				"size" "358246168"
+				"download" "300919216"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17263300"
+			"timeupdated" "1738830043"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27392210"
+"_sha" "940ebb0be02dc286a89c62fd2e60e0e1b0a0523c"
+"_size" "3923"
