@@ -195,7 +195,6 @@
 		"1" "23"
 		"2" "28"
 		"3" "2"
-		"4" "70"
 	}
 	"category"
 	{
@@ -294,7 +293,7 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1710153927"
+	"steam_release_date" "1740246938"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2628570"
@@ -313,16 +312,16 @@
 		"10" "4291"
 		"11" "16598"
 		"12" "255534"
-		"13" "12472"
-		"14" "3810"
+		"13" "3810"
+		"14" "12472"
 		"15" "4711"
 		"16" "597"
 		"17" "4695"
 		"18" "3968"
-		"19" "493"
+		"19" "5125"
 	}
-	"review_score" "8"
-	"review_percentage" "81"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -377,15 +376,15 @@
 		{
 			"public"
 			{
-				"gid" "2054164914162305536"
-				"size" "1146511948"
-				"download" "426072112"
+				"gid" "5789341579985645452"
+				"size" "1146518096"
+				"download" "426073248"
 			}
 			"staging"
 			{
-				"gid" "2054164914162305536"
-				"size" "1146511948"
-				"download" "426072112"
+				"gid" "5789341579985645452"
+				"size" "1146518096"
+				"download" "426073248"
 			}
 		}
 	}
@@ -399,15 +398,15 @@
 		{
 			"public"
 			{
-				"gid" "4557134638821771245"
+				"gid" "1736151728310603144"
 				"size" "1171962859"
-				"download" "433951936"
+				"download" "433951280"
 			}
 			"staging"
 			{
-				"gid" "4557134638821771245"
+				"gid" "1736151728310603144"
 				"size" "1171962859"
-				"download" "433951936"
+				"download" "433951280"
 			}
 		}
 	}
@@ -421,15 +420,15 @@
 		{
 			"public"
 			{
-				"gid" "3303765352432167846"
-				"size" "1154031083"
-				"download" "429116352"
+				"gid" "3590063118355978936"
+				"size" "1154037231"
+				"download" "429116672"
 			}
 			"staging"
 			{
-				"gid" "3303765352432167846"
-				"size" "1154031083"
-				"download" "429116352"
+				"gid" "3590063118355978936"
+				"size" "1154037231"
+				"download" "429116672"
 			}
 		}
 	}
@@ -438,14 +437,14 @@
 	{
 		"public"
 		{
-			"buildid" "17466718"
-			"timeupdated" "1740236440"
+			"buildid" "17494005"
+			"timeupdated" "1740455458"
 		}
 		"staging"
 		{
-			"buildid" "17466718"
+			"buildid" "17494005"
 			"description" "Beta stating branch for Stellar Settlers usually full of bugs"
-			"timeupdated" "1740224355"
+			"timeupdated" "1740455486"
 		}
 	}
 }
@@ -483,6 +482,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27611358"
-"_sha" "3c13490dcce1fc36c740d39cc8d03ab0c8604883"
-"_size" "11716"
+"_change_number" "27648626"
+"_sha" "8dcd8135312655c5536bd6eb3df8ffbe9791f612"
+"_size" "11704"
