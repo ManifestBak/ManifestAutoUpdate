@@ -1,0 +1,265 @@
+"appid" "2787610"
+"common"
+{
+	"name" "Skyward Extraction"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "95c96150a68144c10f47f4632c8ce4a2061bcba6"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "dba88650c59d7bf73a1398820f24bc75d436c7bd"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "8ffa70b735202b5785e833569272294f107ba483/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.051509336564195"
+			"height_pct" "53.720201824850896"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.051509336564195"
+				"height_pct" "53.720201824850896"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727282239"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Naughty Clogs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Naughty Clogs"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1727210141"
+	"community_hub_visible" "1"
+	"gameid" "2787610"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "1667"
+		"2" "1720"
+		"3" "3843"
+		"4" "3839"
+		"5" "6730"
+		"6" "4231"
+		"7" "1716"
+		"8" "5125"
+		"9" "19"
+		"10" "1684"
+		"11" "4236"
+		"12" "1662"
+		"13" "21"
+		"14" "1685"
+		"15" "3859"
+		"16" "4182"
+		"17" "493"
+		"18" "1199779"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Naughty Clogs"
+	"publisher" "Naughty Clogs"
+}
+"config"
+{
+	"installdir" "Skyward Extraction"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SkywardCompany.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SkywardCompany.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2787611"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3029041139940180326"
+				"size" "765416612"
+				"download" "586154256"
+			}
+		}
+	}
+	"2787612"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4569648608390127945"
+				"size" "872887906"
+				"download" "487292656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16476701"
+			"timeupdated" "1732130320"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "26806257"
+"_sha" "7002965ba9c8115923ab5dd9f9b018e01c0c2af4"
+"_size" "3960"
