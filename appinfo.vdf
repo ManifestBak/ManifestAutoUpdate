@@ -64,7 +64,7 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "af06ceb984281d88ace61451c6bae51c5ef52323/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -88,11 +88,7 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-			}
-			"image2x"
-			{
-				"english" "library_600x900_2x.jpg"
+				"english" "0ca816f9f016d483c045d42f976c73ff56aa1bd7/library_600x900.jpg"
 			}
 		}
 		"library_hero"
@@ -124,7 +120,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718649956"
+	"store_asset_mtime" "1735817635"
 	"associations"
 	{
 		"0"
@@ -216,14 +212,14 @@
 		"0" "21978"
 		"1" "4608"
 		"2" "1669"
-		"3" "19"
-		"4" "4345"
-		"5" "4057"
+		"3" "4345"
+		"4" "4057"
+		"5" "19"
 		"6" "3810"
 		"7" "4667"
 		"8" "3968"
-		"9" "599"
-		"10" "4172"
+		"9" "4172"
+		"10" "599"
 		"11" "1743"
 		"12" "3839"
 		"13" "1684"
@@ -282,9 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "2917376200220379541"
-				"size" "15540448369"
-				"download" "13407975248"
+				"gid" "361377523484471309"
+				"size" "15683573535"
+				"download" "13540532608"
 			}
 			"steamvrbug_test"
 			{
@@ -347,70 +343,13 @@
 				"download" "4423940832"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"record"
-			{
-				"gid" "8FF3AD68A6FD292EEB271348DE100970"
-				"size" "FED772FD435022EB0939A5B5B89B6921"
-				"download" "DEDF7A53EA91B2C112D7F6C14C2032FE"
-			}
-			"develop"
-			{
-				"gid" "D1F038CF82E16A2231851CC682F92EB9"
-				"size" "575CE75006DCF70EAAFE9F98037086B4"
-				"download" "134D0986BF8FC9C95202589775CBC39B"
-			}
-			"develop_il2cpp"
-			{
-				"gid" "93A9B48FF75D1871FFF8DB4FC76DED69"
-				"size" "FF2F699A0ABE76822BA570448EEF8142"
-				"download" "62D10B69EB47B21EFB8ADCE78F5AFAD8"
-			}
-			"nightly"
-			{
-				"gid" "E4663F8A5EA42444D3F7CB6D37A34489"
-				"size" "562B2C7F1E21DA1CB43318C7FA2F3D25"
-				"download" "90557BC60AA4746EAEC7189FBE56BAA8"
-			}
-			"nightly_il2cpp"
-			{
-				"gid" "1EC9FA33892EA944E642EB2B33A389C4"
-				"size" "969E68C6FB4528A4F6285A49AE4E1A79"
-				"download" "8BBBC716CA685D3C53E6340A2F4C195A"
-			}
-			"quality"
-			{
-				"gid" "10D60ECDDA93C56469C094C54EDE1B39"
-				"size" "A7E6BFCACFF401894B0CA3718747F0FC"
-				"download" "0D5FC042B7CEE24D90A2586CE7E3BB88"
-			}
-			"releasecandidate"
-			{
-				"gid" "0FC111E0DA9ED20F218114DECA549E0E"
-				"size" "4AD257091F89728A398B4C73D6884B4D"
-				"download" "05486B0B990FDF7422ED392F0F0D1BC4"
-			}
-			"releasecandidate_il2cpp"
-			{
-				"gid" "9EFBCEA2FB09C30C525B982F8EB67CD4"
-				"size" "947626F5F55C44C3C4EB5BA8C56A05AD"
-				"download" "37927BDE8A8D6707595D3B9F4A19F844"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16447219"
-			"timeupdated" "1732198541"
-		}
-		"record"
-		{
-			"buildid" "15316848"
-			"pwdrequired" "1"
-			"timeupdated" "1723200138"
+			"buildid" "17357568"
+			"timeupdated" "1740568168"
 		}
 		"steamvrbug_test"
 		{
@@ -418,53 +357,11 @@
 			"description" "Test branch for people with issue with SteamVR not launching game"
 			"timeupdated" "1727973333"
 		}
-		"develop"
-		{
-			"buildid" "16271534"
-			"pwdrequired" "1"
-			"timeupdated" "1730513897"
-		}
-		"develop_il2cpp"
-		{
-			"buildid" "15408974"
-			"pwdrequired" "1"
-			"timeupdated" "1723955151"
-		}
 		"il2cpp"
 		{
 			"buildid" "12713528"
 			"description" "Il2CPP build (Nomad scripting)"
 			"timeupdated" "1700149643"
-		}
-		"nightly"
-		{
-			"buildid" "16467810"
-			"pwdrequired" "1"
-			"timeupdated" "1732078832"
-		}
-		"nightly_il2cpp"
-		{
-			"buildid" "15570795"
-			"pwdrequired" "1"
-			"timeupdated" "1725308907"
-		}
-		"quality"
-		{
-			"buildid" "15586005"
-			"pwdrequired" "1"
-			"timeupdated" "1725427636"
-		}
-		"releasecandidate"
-		{
-			"buildid" "16447219"
-			"pwdrequired" "1"
-			"timeupdated" "1731950694"
-		}
-		"releasecandidate_il2cpp"
-		{
-			"buildid" "15095358"
-			"pwdrequired" "1"
-			"timeupdated" "1721434130"
 		}
 		"previousversion_u10"
 		{
@@ -515,6 +412,7 @@
 			"timeupdated" "1635097557"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -538,6 +436,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26299395"
-"_sha" "3ba5161c63cc55d0f055b43b5006cfed5960690c"
-"_size" "10069"
+"_change_number" "27674458"
+"_sha" "1403d939418c2e45384084acdaecb9ec29792b0d"
+"_size" "7782"
