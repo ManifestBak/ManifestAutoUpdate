@@ -1,0 +1,294 @@
+"appid" "1473660"
+"common"
+{
+	"name" "Mrs. Santa\'s Gift Hunt"
+	"type" "Game"
+	"clienticon" "c2cb34574acbf56b9cae54c18b9ef22e314f9d76"
+	"clienttga" "746d84aa779412e626fc0022cc003e737d42b715"
+	"icon" "ee062f24be10290abb94a80d07ab55ed7da40b5c"
+	"logo" "ae83180c70688fec92f14f95b50920ce553d7f33"
+	"logo_small" "ae83180c70688fec92f14f95b50920ce553d7f33_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1727740800"
+		"tested_build_id" "7959946"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1605177211"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tuomo Laine"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tuomo\'s games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1606761212"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1473660"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "5652"
+		"2" "4434"
+		"3" "4106"
+		"4" "7208"
+		"5" "3871"
+		"6" "4136"
+		"7" "4325"
+		"8" "6971"
+		"9" "19"
+		"10" "4085"
+		"11" "4305"
+		"12" "3964"
+		"13" "1684"
+		"14" "4057"
+		"15" "5350"
+		"16" "4166"
+		"17" "4182"
+		"18" "5577"
+		"19" "113"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Tuomo Laine"
+	"publisher" "Tuomo\'s games"
+	"isfreeapp" "1"
+	"listofdlc" "1473720,1474380,1477800"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Mrs. Santa\'s Gift Hunt"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "nw.exe"
+			"arguments" "--in-process-gpu"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"1473661"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7893319910621864207"
+				"size" "425485833"
+				"download" "246032032"
+			}
+		}
+	}
+	"1473662"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8436322372989320397"
+				"size" "184350808"
+				"download" "53275440"
+			}
+		}
+	}
+	"1473720"
+	{
+		"dlcappid" "1473720"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6476989094963783793"
+				"size" "1273070"
+				"download" "870880"
+			}
+		}
+	}
+	"1477800"
+	{
+		"dlcappid" "1477800"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7898480735015694229"
+				"size" "1549124"
+				"download" "943920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7959946"
+			"timeupdated" "1641039039"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "6000"
+	"maxnumfiles" "20"
+}
+"_missing_token" "False"
+"_change_number" "27208005"
+"_sha" "711561c40a606cc19ff666f66bfa100795651902"
+"_size" "4914"
