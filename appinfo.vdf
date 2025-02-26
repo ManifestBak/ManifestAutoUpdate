@@ -1,0 +1,359 @@
+"appid" "917950"
+"common"
+{
+	"name" "Vellum"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "ce27e4b59d7fc61fee6f9f84f26b688373ce1d61"
+	"clienticon" "1e0568ba0d91e03f5c99d40182be77b5bea3a0d1"
+	"icon" "8d686cb3dc66c5796c3a232a8885569fab037729"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739923200"
+		"tested_build_id" "17345335"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "42cf900f62c195e5bf7d0b098c1002439706ea4a/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.79005556411957"
+			"height_pct" "78.7805571323452"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.79005556411957"
+				"height_pct" "78.7805571323452"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738286558"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alvios Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Alvios, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1711633418"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "917950"
+	"store_tags"
+	{
+		"0" "3814"
+		"1" "42804"
+		"2" "3843"
+		"3" "1684"
+		"4" "4191"
+		"5" "4057"
+		"6" "1716"
+		"7" "19"
+		"8" "3859"
+		"9" "3959"
+		"10" "6730"
+		"11" "1685"
+		"12" "5547"
+		"13" "1774"
+		"14" "1697"
+		"15" "1773"
+		"16" "3993"
+		"17" "4182"
+		"18" "493"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Alvios Games"
+	"publisher" "Alvios, Inc."
+	"homepage" "https://vellumgame.com/"
+}
+"config"
+{
+	"installdir" "Vellum"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Vellum.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Vellum.exe"
+			"arguments" "-force-d3d12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 12"
+			}
+			"description" "with DirectX 12"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "9"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"917951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7705563848143770335"
+				"size" "3072822903"
+				"download" "1413123632"
+			}
+			"crashtester"
+			{
+				"gid" "7215888268680806236"
+				"size" "1358540694"
+				"download" "724523520"
+			}
+			"testing"
+			{
+				"gid" "1863177652791858516"
+				"size" "3268000815"
+				"download" "1495225488"
+			}
+		}
+	}
+	"917952"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17345335"
+			"timeupdated" "1739415371"
+		}
+		"crashtester"
+		{
+			"buildid" "14017917"
+			"description" "Used for specific debugging"
+			"timeupdated" "1712808607"
+		}
+		"testing"
+		{
+			"buildid" "17510839"
+			"description" "Current testing branch"
+			"timeupdated" "1740553584"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Alvios/Vellum"
+			"pattern" "*.vel"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Alvios/Vellum"
+					"replace" "unity3d/Alvios/Vellum"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Alvios/Vellum"
+					"replace" "Alvios/Vellum"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27670329"
+"_sha" "a653c903d6405dec14ab6646bcd0dc3ca37f257f"
+"_size" "6170"
