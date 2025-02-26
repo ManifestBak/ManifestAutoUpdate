@@ -1,0 +1,164 @@
+"appid" "110500"
+"common"
+{
+	"name" "Data Jammers: FastForward"
+	"logo" "bab232053df8760b10fea8e48101f57281a6836c"
+	"logo_small" "bab232053df8760b10fea8e48101f57281a6836c_thumb"
+	"icon" "64873aec7b88d522b4bc55759340ea96f06946aa"
+	"clienttga" "948887f7c7c4084f0240e0f45eec7e90d3b89723"
+	"clienticon" "5754f8a71a237c763695bbf2ca5c5ff908ef47a9"
+	"clienticns" "baa36640216269e87fe555b72176b8d8c3b68ccb"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"type" "game"
+	"restricted_countries" "DE"
+	"metacritic_name" "Data Jammers: FastForward"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_55b99d9d59be31fcadebd26553adf3acf88955f4.jpg"
+	"store_asset_mtime" "1319134005"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Digital Eel"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Digital Eel"
+		}
+	}
+	"primary_genre" "0"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"steam_release_date" "1319475600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "110500"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "1773"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "Digital Eel"
+	"gamedir" "Data Jammers FastForward"
+	"homepage" ""
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "110501"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "Digital Eel"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Data Jammers FastForward"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "fastforward.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DataJammers.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"110501"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5998272873617455209"
+				"size" "89651314"
+				"download" "44310048"
+			}
+		}
+	}
+	"110502"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3718098201933218732"
+				"size" "94524108"
+				"download" "42687696"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4282549"
+			"timeupdated" "1570935272"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "2f975366b42d991afa3932dd1b0ffa968e83b714"
+"_size" "2754"
