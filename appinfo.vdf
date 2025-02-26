@@ -1,0 +1,303 @@
+"appid" "1443630"
+"common"
+{
+	"name" "Turbo Sloths"
+	"type" "Game"
+	"clienttga" "ffc4c974e7647c7fe353491a09f7b92a6292cc49"
+	"clienticon" "541883dc23ba7bc860e4aa6a7f96939fc89736f7"
+	"icon" "533058df3f6938b357ffb446b9fa2209c3358ce2"
+	"logo" "4d1fe28577cbab504c9267b56d23c5cab745ac48"
+	"logo_small" "4d1fe28577cbab504c9267b56d23c5cab745ac48_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1705490488"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RainStyle games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RainStyle games"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "9"
+		"4" "28"
+		"5" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1670511741"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1443630"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "699"
+		"2" "4191"
+		"3" "4166"
+		"4" "29363"
+		"5" "3839"
+		"6" "599"
+		"7" "1697"
+		"8" "7368"
+		"9" "19"
+		"10" "4115"
+		"11" "4175"
+		"12" "4295"
+		"13" "4102"
+		"14" "1644"
+		"15" "1773"
+		"16" "10816"
+		"17" "3993"
+		"18" "1100687"
+		"19" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "RainStyle games"
+	"publisher" "RainStyle games"
+	"homepage" "http://turbosloths.games"
+	"listofdlc" "2226040,2226050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Turbo Sloths"
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TurboSloths.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Turbo Sloths"
+			}
+			"description" "Turbo Sloths"
+		}
+		"1"
+		{
+			"executable" "TurboSloths.exe"
+			"arguments" "-d3d11"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Turbo Sloths (DX 11) Steam Deck"
+			}
+			"description" "Turbo Sloths (DX 11) Steam Deck"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,russian"
+	"1443631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6939673918530007005"
+				"size" "6725649256"
+				"download" "6428091744"
+			}
+		}
+	}
+	"2226040"
+	{
+		"dlcappid" "2226040"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3540898601423644248"
+				"size" "51394521"
+				"download" "47844272"
+			}
+		}
+	}
+	"2226050"
+	{
+		"dlcappid" "2226050"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "743892904120508574"
+				"size" "157408350"
+				"download" "146846784"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14201246"
+			"timeupdated" "1714318292"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "250000"
+	"maxnumfiles" "200"
+}
+"_missing_token" "False"
+"_change_number" "27648298"
+"_sha" "abc8cc3e1c524e338f4adee33e69a425da885cd9"
+"_size" "4949"
