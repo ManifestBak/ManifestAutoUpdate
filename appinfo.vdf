@@ -1,0 +1,237 @@
+"appid" "388980"
+"common"
+{
+	"name" "Race Track Builder"
+	"type" "Application"
+	"oslist" "windows"
+	"logo" "50e769d0832070094e06b4dc62523b15eee0e944"
+	"logo_small" "50e769d0832070094e06b4dc62523b15eee0e944_thumb"
+	"icon" "09416653d11023c21bf1b9032475844b17a54e3b"
+	"clienttga" "6f2bb9c6335bf15724d46af929d16819e836b5a9"
+	"clienticon" "58a7ef920541163b444560cfce5806233d4b85ff"
+	"releasestate" "released"
+	"metacritic_name" "Race Track Builder"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_8236db5be83789d32cb766739eaa3ff5a405168e.jpg"
+	"store_asset_mtime" "1438666530"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Brendon Pywell"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Brendon Pywell"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "51"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1440125853"
+	"community_hub_visible" "1"
+	"gameid" "388980"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "872"
+	}
+	"review_score" "5"
+	"review_percentage" "64"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Brendon Pywell"
+	"publisher" "Brendon Pywell"
+	"homepage" "http://www.racetrackbuilder.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Race Track Builder"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RaceTrackBuilder.exe"
+			"description" "Race Track Builder"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "XPacker.exe"
+			"description" "XPacker"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "WorkshopUploader.exe"
+			"description" "Workshop Uploader"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "388980"
+	"388981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1732367102545730090"
+				"size" "221554023"
+				"download" "213232640"
+			}
+			"assaultz"
+			{
+				"gid" "1732367102545730090"
+				"size" "221554023"
+				"download" "213232640"
+			}
+		}
+	}
+	"388982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2637824077720854143"
+				"size" "21990616"
+				"download" "6154112"
+			}
+			"assaultz"
+			{
+				"gid" "2637824077720854143"
+				"size" "21990616"
+				"download" "6154112"
+			}
+		}
+	}
+	"388983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3646879326195763301"
+				"size" "26285784"
+				"download" "7110704"
+			}
+			"assaultz"
+			{
+				"gid" "3646879326195763301"
+				"size" "26285784"
+				"download" "7110704"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12747018"
+			"timeupdated" "1704671963"
+		}
+		"assaultz"
+		{
+			"buildid" "12747018"
+			"description" "Assaultz"
+			"timeupdated" "1700454423"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "50"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "dd75f95ca3ffd7b713875e459304b1e23b37fdd9"
+"_size" "3690"
