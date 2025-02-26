@@ -1,0 +1,347 @@
+"appid" "1062960"
+"common"
+{
+	"name" "UNDER the SAND"
+	"type" "Game"
+	"logo" "e5b386dc0735663f8e2c34b3a859c12e2647e296"
+	"logo_small" "e5b386dc0735663f8e2c34b3a859c12e2647e296_thumb"
+	"icon" "8e94b41cd95008b2348c95ec604362079c9ecc76"
+	"clienticon" "6c9eec84992f741d9572792dd576342a772c48ce"
+	"clienttga" "8a4cc6aad5845ec7b0a2584b58795008a0f61af1"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"metacritic_name" "UNDER the SAND"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.09568261376897"
+			"height_pct" "60.2588458798385"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.09568261376897"
+				"height_pct" "60.2588458798385"
+			}
+		}
+	}
+	"store_asset_mtime" "1739540801"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IndieMax"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndieMax"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "9"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1601037660"
+	"community_hub_visible" "1"
+	"gameid" "1062960"
+	"store_tags"
+	{
+		"0" "1644"
+		"1" "1100687"
+		"2" "599"
+		"3" "1695"
+		"4" "21"
+		"5" "699"
+		"6" "5125"
+		"7" "1662"
+		"8" "1654"
+		"9" "3834"
+		"10" "4236"
+		"11" "3810"
+		"12" "3835"
+		"13" "4166"
+		"14" "3968"
+		"15" "9204"
+		"16" "3839"
+		"17" "4182"
+		"18" "492"
+		"19" "1100689"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "IndieMax"
+	"publisher" "IndieMax"
+}
+"config"
+{
+	"installdir" "UNDER the SAND"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UnderTheSandREDUX.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "UnderTheSandREDUX.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,russian"
+	"hasdepotsindlc" "0"
+	"1062962"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8988360872748523451"
+				"size" "1687123735"
+				"download" "1539976960"
+			}
+		}
+	}
+	"1062961"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6380462631441726394"
+				"size" "1687123735"
+				"download" "1539977488"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17424832"
+			"timeupdated" "1740540137"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "UnderTheSandREDUX/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27668035"
+"_sha" "0d3596b9e34189af0a194d431312989038016b62"
+"_size" "5172"
