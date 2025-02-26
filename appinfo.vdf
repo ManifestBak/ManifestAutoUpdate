@@ -1,0 +1,270 @@
+"appid" "2780470"
+"common"
+{
+	"name" "Bunker Invaders"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "6ffd106c8a2b829ee1e8728e0fd42214939c94c7"
+	"clienttga" "03739e27e3409aaf91bca5ccf4ba36839b442180"
+	"clienticon" "e90f715cff4fbf93840f536c1668363d355dd92f"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.212368728121348"
+			"height_pct" "77.96247922108763"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.212368728121348"
+				"height_pct" "77.96247922108763"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731277306"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kelecik"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kelecik"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730854691"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2780470"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1667"
+		"2" "3839"
+		"3" "3978"
+		"4" "1685"
+		"5" "6730"
+		"6" "3834"
+		"7" "19"
+		"8" "4106"
+		"9" "1720"
+		"10" "16689"
+		"11" "1673"
+		"12" "4166"
+		"13" "4136"
+		"14" "1721"
+		"15" "9"
+		"16" "599"
+		"17" "492"
+		"18" "597"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Kelecik"
+	"publisher" "Kelecik"
+	"homepage" "https://www.kelecik.com"
+}
+"config"
+{
+	"installdir" "Bunker Invaders"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bunker Invaders.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2780471"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1437676738918542284"
+				"size" "1669094692"
+				"download" "685457456"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17063060"
+			"timeupdated" "1737367654"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "5"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kelecik/Bunker Invaders"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27660445"
+"_sha" "a9e82bbe8203d3d41b6c93c6ba0fbac34eff3086"
+"_size" "3986"
