@@ -1,0 +1,193 @@
+"appid" "2024950"
+"common"
+{
+	"name" "Rally 9000"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "b4200f1094079f3d942e07b7b5e2e01654015e01"
+	"clienticon" "9ec2b4f210de7425e9f65a263905a17ec0497516"
+	"icon" "c637543e168ffcb7744171d9931e7af53689e46f"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.00116686114353"
+			"height_pct" "64.43768929999497"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.00116686114353"
+				"height_pct" "64.43768929999497"
+			}
+		}
+	}
+	"store_asset_mtime" "1680164623"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tegridy Made Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tegridy Made Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Rally 9000"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "9"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_25" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1680163282"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2024950"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "21"
+		"2" "597"
+		"3" "1773"
+		"4" "7622"
+		"5" "701"
+		"6" "9204"
+		"7" "4747"
+		"8" "4191"
+		"9" "4145"
+		"10" "4305"
+		"11" "3839"
+		"12" "1697"
+		"13" "4791"
+		"14" "7743"
+		"15" "6691"
+		"16" "1644"
+		"17" "7481"
+		"18" "7250"
+		"19" "4102"
+	}
+}
+"extended"
+{
+	"developer" "Tegridy Made Games"
+	"publisher" "Tegridy Made Games"
+	"homepage" "https://www.youtube.com/@TegridyMadeGames"
+}
+"config"
+{
+	"installdir" "Rally 9000"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rally_9000.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2024951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "471562865426265294"
+				"size" "7888459512"
+				"download" "2448419264"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13411019"
+			"timeupdated" "1707451057"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26238595"
+"_sha" "8e90189290ee44285a24c06f756e0025de528e7d"
+"_size" "2984"
