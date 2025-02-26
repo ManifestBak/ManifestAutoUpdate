@@ -1,32 +1,29 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 21:13:54
+## 更新时间：2025-02-26 21:20:10
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1087600 | FINAL ARCHER VR| Game |
-| 1083700 | 3D Text Adventure| Game |
-| 1083870 | CountryBalls Heroes| Game |
-| 1081900 | 游物语 Travel story| Game |
-| 1082710 | Bug Fables: The Everlasting Sapling| Game |
-| 1077160 | Game Of Puzzles: Animals| Game |
-| 1081470 | Born of Fire| Game |
-| 1077540 | 酒店二 The Hotel 2| Game |
-| 1077450 | 沃利| Game |
-| 1082970 | Archaelund| Game |
-| 1081670 | Fitforce| Game |
-| 1079720 | PUZZLE: ULTIMATE| Game |
-| 1070190 | 魔法之剑：起源| Game |
-| 1069670 | Eilf| Game |
-| 1081650 | Celaria| Game |
-| 1067080 | BH Trials| Game |
-| 1068640 | Village Feud| Game |
-| 1070910 | Are You Ready for Valve Index?| Tool |
-| 1068520 | Muppy The Bunny : The Danger of Wishes| Game |
-| 1070220 | Detective Kobayashi| Game |
-| 1074770 | The Rescue of Mermaids| Game |
-| 1072860 | Real Scary| Game |
-| 1069390 | Morningdew Farms: A Gay Farming Game| Game |
-| 1068150 | Dual Family| Game |
-| 1071340 | No Time to Relax - Original Soundtrack| Music |
-| 1067860 | NewCity| Game |
-| 1067220 | RoboCo| Game |
+| 1065070 | Été| Game |
+| 1063230 | 6120| Game |
+| 1059860 | Striker A Type Game Pack| Game |
+| 1063560 | 12 HOURS| Game |
+| 1061820 | XMusicVisualizer| Application |
+| 1057430 | Geometry May. I swear it's a nice free game| Game |
+| 1065350 | The Grandmaster| Game |
+| 1058280 | Speed Limit| Game |
+| 1060240 | Rumia in the darkness| Game |
+| 1055150 | Eva Reynes| Game |
+| 1054030 | Adventures of forsenE: The Hobo Knight| Game |
+| 1063930 | The Purge Man| Game |
+| 1061260 | Click Space Miner 2| Game |
+| 1055760 | 美少年梦工厂3：重生| Game |
+| 1057500 | Sim 4K VR MediaPlayer| Application |
+| 1051570 | Hockey Player VR| Game |
+| 1046770 | Juice FX| Application |
+| 1049420 | Hotel Tutwin| Game |
+| 1048740 | Half Past Fate| Game |
+| 1055010 | Energy Engine PC Live Wallpaper| Application |
+| 1056250 | Lingua Fleur: Lily Original Soundtrack| Music |
+| 1045810 | Spiral Clicker - Soundtrack| DLC |
+| 1045110 | Space Ops VR| Game |
+| 1044920 | Grand Battle| Game |
