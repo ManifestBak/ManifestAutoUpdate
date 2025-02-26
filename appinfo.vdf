@@ -1,0 +1,152 @@
+"appid" "1097000"
+"common"
+{
+	"name" "Orpheus\'s Dream"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"logo" "02de3ebbab85523fdc93a351ed3b386403e53cd9"
+	"logo_small" "02de3ebbab85523fdc93a351ed3b386403e53cd9_thumb"
+	"icon" "c7d2fe4daff5a64dee24b3298f8db4c66f1186c0"
+	"clienttga" "08cf93b5afb3dbbb14c16326fe9067484dd0ea58"
+	"clienticon" "0ef88b164552a0df0af2921d92b6615db1f5720f"
+	"osextended" ""
+	"restricted_countries" "DE"
+	"metacritic_name" "Orpheus\'s Dream"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"store_screenshot" "ss_9182753f638b0b060be97b56692d61b7a844c581.jpg"
+	"store_asset_mtime" "1566553977"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Orpheus\'s Dream Team"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Orpheus\'s Dream Team"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "37"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1568570749"
+	"community_hub_visible" "1"
+	"gameid" "1097000"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "21"
+		"2" "492"
+		"3" "597"
+		"4" "1664"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Orpheus\'s Dream Team"
+	"publisher" "Orpheus\'s Dream Team"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Orpheus\'s Dream"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Orpheus\'s Dream.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,tchinese"
+	"1097001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "709555466391705673"
+				"size" "1037141026"
+				"download" "191822944"
+			}
+		}
+	}
+	"1097003"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3497336293179661979"
+				"size" "1078018537"
+				"download" "213894144"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4202526"
+			"timeupdated" "1568706177"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27350646"
+"_sha" "4d8e001410716f2bb063ccf40e537e0562ba9a3a"
+"_size" "2471"
