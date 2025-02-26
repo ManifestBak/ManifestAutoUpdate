@@ -1,0 +1,2042 @@
+"appid" "2705130"
+"common"
+{
+	"name" "Exoborne"
+	"type" "Game"
+	"icon" "8cda22db525556730c215485d6765885737b24f4"
+	"clienticon" "2f383b3ef2644ac3a00def2f495d27db192c56a0"
+	"clienttga" "a06df32bbec81a4b1d09cc172f71a44c9a3aa7cd"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "prerelease"
+	"small_capsule"
+	{
+		"english" "7fe6cc96fe86139d497068ec0b8d602466a533f4/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.0192142173495"
+			"height_pct" "89.23611111111111"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "c7f1fb28880cb76401a29743fd41917b1cab381b/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "c7f1fb28880cb76401a29743fd41917b1cab381b/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "9a470b610aafd50d66447b2b57da5a9468966168/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "9a470b610aafd50d66447b2b57da5a9468966168/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "9a470b610aafd50d66447b2b57da5a9468966168/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.0192142173495"
+				"height_pct" "89.23611111111111"
+			}
+			"image"
+			{
+				"english" "f10a6c494e2ae9d8debd8c845209bc85730a42d6/logo.png"
+			}
+			"image2x"
+			{
+				"english" "f10a6c494e2ae9d8debd8c845209bc85730a42d6/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738926805"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sharkmob AB"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Sharkmob AB"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "2705130"
+	"exfgls" "8"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "1199779"
+		"2" "1695"
+		"3" "1662"
+		"4" "1708"
+		"5" "19"
+		"6" "3814"
+		"7" "3813"
+		"8" "1663"
+		"9" "3835"
+		"10" "1680"
+		"11" "1774"
+		"12" "1697"
+		"13" "4175"
+		"14" "4166"
+		"15" "4295"
+		"16" "3993"
+		"17" "4137"
+		"18" "4747"
+		"19" "5765"
+	}
+}
+"extended"
+{
+	"developer" "Sharkmob AB"
+	"publisher" "Sharkmob AB"
+	"homepage" "https://www.exoborne.com"
+}
+"config"
+{
+	"installdir" "Exoborne"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Squid.exe"
+			"arguments" "ML_Bobcat\?faction=0 -game -serverAddress=193.12.14.186:46800 -log -LOG=SquidClient.log"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ms07"
+			}
+			"description_loc"
+			{
+				"english" "MS07 (POC, Region 1)"
+			}
+			"description" "MS07 (POC, Region 1)"
+		}
+		"4"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=Custom1Client.log -OnlineEnv dev -OnlineTrack local -OnlineNS custom-1 -ActivityTable=USSouth -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-1"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-1"
+			}
+			"description" "sq-custom-1"
+		}
+		"5"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=Maynard1Client.log -OnlineEnv dev -OnlineNS playtest -EnableInGameFeedback -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -gpucrashdebugging -ExecCmds=\"r.ShowMaterialDrawEvents 1, r.EmitMeshDrawEvents 1, r.Nanite.ShowMeshDrawEvents 1\" "
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-playtest"
+			}
+			"description_loc"
+			{
+				"english" "Playtest"
+			}
+			"description" "Playtest"
+		}
+		"6"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c2South1Client.log -OnlineEnv dev -OnlineTrack local -OnlineNS custom-2 -ActivityTable=USSouth -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-2"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-2"
+			}
+			"description" "sq-custom-2"
+		}
+		"7"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-3 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-3"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-3"
+			}
+			"description" "sq-custom-3"
+		}
+		"8"
+		{
+			"executable" "Squid.exe"
+			"arguments" "ML_Bobcat\?faction=0 -game -serverAddress=193.12.14.186:46808 -log LOG=SquidClient2.log"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ms07"
+			}
+			"description_loc"
+			{
+				"english" "MS07 (POC, Region 2)"
+			}
+			"description" "MS07 (POC, Region 2)"
+		}
+		"9"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-4 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-4"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-4"
+			}
+			"description" "sq-custom-4"
+		}
+		"10"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-5 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-5"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-5"
+			}
+			"description" "sq-custom-5"
+		}
+		"11"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c6South1Client.log -OnlineEnv dev -OnlineNS custom-6 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-6"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-6"
+			}
+			"description" "sq-custom-6"
+		}
+		"13"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c7Maynard1Client.log -OnlineEnv dev -OnlineNS custom-7 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-7"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-7"
+			}
+			"description" "sq-custom-7"
+		}
+		"14"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c8South1Client.log -OnlineEnv dev -OnlineNS custom-8 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-8"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-8"
+			}
+			"description" "sq-custom-8"
+		}
+		"15"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=South1Client.log -OnlineEnv dev -OnlineNS custom-9 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-9"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-9"
+			}
+			"description" "sq-custom-9"
+		}
+		"16"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c10South1Client.log -OnlineEnv dev -OnlineNS custom-10 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-10"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-10"
+			}
+			"description" "sq-custom-10"
+		}
+		"17"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c11South1Client.log -OnlineEnv dev -OnlineNS custom-11 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-11"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-11"
+			}
+			"description" "sq-custom-11"
+		}
+		"18"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=c12South1Client.log -OnlineEnv dev  -OnlineNS custom-12 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-12"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-12"
+			}
+			"description" "sq-custom-12"
+		}
+		"19"
+		{
+			"executable" "Squid.exe"
+			"arguments" "-log -LOG=SquidClientRegion1.log -OnlineEnabled -OnlineEnv local -ini:Online:[/Script/Squid.SgOnlineSettings]:OnlineServiceUrlTemplateLocal=http://10.100.60.193:5007/{service}"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-vs-playtest"
+			}
+			"description_loc"
+			{
+				"english" "VS Playtest"
+			}
+			"description" "VS Playtest"
+		}
+		"23"
+		{
+			"executable" "Squid.exe"
+			"arguments" "-log -LOG=South1Client.log -OnlineLogEnabled -OnlineEnabled -OnlineNS ms14b-smb -ActivityTable=USSouth -OnlineTrack ms14-b-smb"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-ms14b-smb"
+			}
+			"description_loc"
+			{
+				"english" "SM14B SMB"
+			}
+			"description" "SM14B SMB"
+		}
+		"24"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-13 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-13"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-13"
+			}
+			"description" "sq-custom-13"
+		}
+		"25"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-14 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-14"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-14"
+			}
+			"description" "sq-custom-14"
+		}
+		"26"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-15 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-15"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-15"
+			}
+			"description" "sq-custom-15"
+		}
+		"27"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-16 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-16"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-16"
+			}
+			"description" "sq-custom-16"
+		}
+		"28"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-17 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-17"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-17"
+			}
+			"description" "sq-custom-17"
+		}
+		"29"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-18 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-18"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-18"
+			}
+			"description" "sq-custom-18"
+		}
+		"30"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-19 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-19"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-19"
+			}
+			"description" "sq-custom-19"
+		}
+		"31"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-20 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"osarch" "64"
+				"betakey" "sq-custom-20"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-20"
+			}
+			"description" "sq-custom-20"
+		}
+		"34"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv uat -OnlineNS primary -anticheat_settings=Settings_dev.json -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "primary"
+			}
+			"description_loc"
+			{
+				"english" "Primary UAT"
+			}
+			"description" "Primary UAT"
+		}
+		"35"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -ini:SgTutorial:[/Script/Squid.SgTutorialSettings]:bEnableSkipIntroLevelButton=false -ExecCmds=\"DisableAllScreenMessages\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 1"
+			}
+			"description" "External Partner Branch 1"
+		}
+		"37"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-21 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-21"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-21"
+			}
+			"description" "sq-custom-21"
+		}
+		"38"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-22 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-22"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-22"
+			}
+			"description" "sq-custom-22"
+		}
+		"39"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev  -OnlineNS custom-23 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-23"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-23"
+			}
+			"description" "sq-custom-23"
+		}
+		"40"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-24 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-24"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-24"
+			}
+			"description" "sq-custom-24"
+		}
+		"41"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-25 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-25"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-25"
+			}
+			"description" "sq-custom-25"
+		}
+		"42"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-26 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-26"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-26"
+			}
+			"description" "sq-custom-26"
+		}
+		"43"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-27 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-27"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-27"
+			}
+			"description" "sq-custom-27"
+		}
+		"44"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-28 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-28"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-28"
+			}
+			"description" "sq-custom-28"
+		}
+		"45"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-29 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-29"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-29"
+			}
+			"description" "sq-custom-29"
+		}
+		"46"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS custom-30 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-30"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-30"
+			}
+			"description" "sq-custom-30"
+		}
+		"47"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=MaynardClient.log -OnlineEnv uat -OnlineNS tencent -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nexus-delivery"
+			}
+			"description_loc"
+			{
+				"english" "nexus-delivery"
+			}
+			"description" "nexus-delivery"
+		}
+		"50"
+		{
+			"executable" "Squid.exe"
+			"arguments" "-log -LOG=msalphaSouth1Client.log -OnlineLogEnabled -OnlineEnabled -OnlineNS msalpha -ActivityTable=USSouth"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-msalpha"
+			}
+			"description_loc"
+			{
+				"english" "MS Alpha"
+			}
+			"description" "MS Alpha"
+		}
+		"51"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-2 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-2"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 2"
+			}
+			"description" "External Partner Branch 2"
+		}
+		"52"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-3 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-3"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 3"
+			}
+			"description" "External Partner Branch 3"
+		}
+		"53"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-4 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-4"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 4"
+			}
+			"description" "External Partner Branch 4"
+		}
+		"54"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-5 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-5"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 5"
+			}
+			"description" "External Partner Branch 5"
+		}
+		"55"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnabled -OnlineNS marketing-1"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-marketing-1"
+			}
+			"description_loc"
+			{
+				"english" "Marketing"
+			}
+			"description" "Marketing"
+		}
+		"56"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=ND2Client.log -OnlineEnv uat -OnlineNS tencent-2 -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nexus-delivery-2"
+			}
+			"description_loc"
+			{
+				"english" "nexus-delivery-2"
+			}
+			"description" "nexus-delivery-2"
+		}
+		"57"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-6 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-6"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 6"
+			}
+			"description" "External Partner Branch 6"
+		}
+		"58"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-7 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True  -ini:SgTutorial:[/Script/Squid.SgTutorialSettings]:bEnableSkipIntroLevelButton=false"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-7"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 7"
+			}
+			"description" "External Partner Branch 7"
+		}
+		"59"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-8 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -ini:SgTutorial:[/Script/Squid.SgTutorialSettings]:bEnableSkipIntroLevelButton=true"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-8"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 8"
+			}
+			"description" "External Partner Branch 8"
+		}
+		"60"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-9 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -ini:SgTutorial:[/Script/Squid.SgTutorialSettings]:bEnableSkipIntroLevelButton=true"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-9"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 9"
+			}
+			"description" "External Partner Branch 9"
+		}
+		"61"
+		{
+			"executable" "Squid.exe"
+			"arguments" "-log -LOG=MS16Client.log -OnlineLogEnabled -OnlineEnabled -OnlineNS ms16"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-ms16"
+			}
+			"description_loc"
+			{
+				"english" "MS16"
+			}
+			"description" "MS16"
+		}
+		"62"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom31.log -OnlineEnv dev -OnlineNS custom-31 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-31"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-31"
+			}
+			"description" "sq-custom-31"
+		}
+		"63"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom32.log -OnlineEnv dev -OnlineNS custom-32 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-32"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-32"
+			}
+			"description" "sq-custom-32"
+		}
+		"64"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom33.log -OnlineEnv dev -OnlineNS custom-33 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-33"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-33"
+			}
+			"description" "sq-custom-33"
+		}
+		"65"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom34.log -OnlineEnv dev -OnlineNS custom-34 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-34"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-34"
+			}
+			"description" "sq-custom-34"
+		}
+		"66"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom35.log -OnlineEnv dev -OnlineNS custom-35 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-35"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-35"
+			}
+			"description" "sq-custom-35"
+		}
+		"67"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom36.log -OnlineEnv dev -OnlineNS custom-36 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-36"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-36"
+			}
+			"description" "sq-custom-36"
+		}
+		"68"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom37.log -OnlineEnv dev -OnlineNS custom-37 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-37"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-37"
+			}
+			"description" "sq-custom-37"
+		}
+		"69"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom38.log -OnlineEnv dev -OnlineNS custom-38 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-38"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-38"
+			}
+			"description" "sq-custom-38"
+		}
+		"70"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom39.log -OnlineEnv dev -OnlineNS custom-39 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-39"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-39"
+			}
+			"description" "sq-custom-39"
+		}
+		"71"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom40.log -OnlineEnv dev -OnlineNS custom-40 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-40"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-40"
+			}
+			"description" "sq-custom-40"
+		}
+		"72"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom41.log -OnlineEnv dev -OnlineNS custom-41 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-41"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-41"
+			}
+			"description" "sq-custom-41"
+		}
+		"73"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom42.log -OnlineEnv dev -OnlineNS custom-42 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-42"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-42"
+			}
+			"description" "sq-custom-42"
+		}
+		"74"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom43.log -OnlineEnv dev -OnlineNS custom-43 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-43"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-43"
+			}
+			"description" "sq-custom-43"
+		}
+		"75"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom44.log -OnlineEnv dev -OnlineNS custom-44 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-44"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-44"
+			}
+			"description" "sq-custom-44"
+		}
+		"76"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom45.log -OnlineEnv dev -OnlineNS custom-45 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-45"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-45"
+			}
+			"description" "sq-custom-45"
+		}
+		"77"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom46.log -OnlineEnv dev -OnlineNS custom-46 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-46"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-46"
+			}
+			"description" "sq-custom-46"
+		}
+		"78"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom47.log -OnlineEnv dev -OnlineNS custom-47 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-47"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-47"
+			}
+			"description" "sq-custom-47"
+		}
+		"79"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom48.log -OnlineEnv dev -OnlineNS custom-48 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-48"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-48"
+			}
+			"description" "sq-custom-48"
+		}
+		"80"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom49.log -OnlineEnv dev -OnlineNS custom-49 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-49"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-49"
+			}
+			"description" "sq-custom-49"
+		}
+		"81"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientCustom50.log -OnlineEnv dev -OnlineNS custom-50 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-custom-50"
+			}
+			"description_loc"
+			{
+				"english" "sq-custom-50"
+			}
+			"description" "sq-custom-50"
+		}
+		"83"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-ExtQA-3-Client.log -OnlineEnv dev -OnlineNS main-extqa-3 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-extqa-3"
+			}
+			"description_loc"
+			{
+				"english" "Main External QA Branch 3"
+			}
+			"description" "Main External QA Branch 3"
+		}
+		"84"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-ExtQA-2-Client.log -OnlineEnv dev -OnlineNS main-extqa-2 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-extqa-2"
+			}
+			"description_loc"
+			{
+				"english" "Main External QA Branch 2"
+			}
+			"description" "Main External QA Branch 2"
+		}
+		"85"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-ExtQA-1-Client.log -OnlineEnv dev -OnlineNS main-extqa-1 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -EnableInGameFeedback -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-extqa-1"
+			}
+			"description_loc"
+			{
+				"english" "Main External QA Branch 1"
+			}
+			"description" "Main External QA Branch 1"
+		}
+		"86"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Eve-Ship-Client.log -OnlineEnv dev -OnlineNS main-eve-ship -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-eve-ship"
+			}
+			"description_loc"
+			{
+				"english" "Main Evening Shipping"
+			}
+			"description" "Main Evening Shipping"
+		}
+		"87"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Eve-Test-Client.log -OnlineEnv dev -OnlineNS main-eve-test -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-eve-test"
+			}
+			"description_loc"
+			{
+				"english" "Main Evening Test"
+			}
+			"description" "Main Evening Test"
+		}
+		"88"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Eve-Dev-Client.log -OnlineEnv dev -OnlineNS main-eve-dev -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-eve-dev"
+			}
+			"description_loc"
+			{
+				"english" "Main Evening Dev"
+			}
+			"description" "Main Evening Dev"
+		}
+		"89"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Noon-Ship-Client.log -OnlineEnv dev -OnlineNS main-noon-ship -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-noon-ship"
+			}
+			"description_loc"
+			{
+				"english" "Main Noon Shipping"
+			}
+			"description" "Main Noon Shipping"
+		}
+		"90"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Noon-Test-Client.log -OnlineEnv dev -OnlineNS main-noon-test -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-noon-test"
+			}
+			"description_loc"
+			{
+				"english" "Main Noon Test"
+			}
+			"description" "Main Noon Test"
+		}
+		"91"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Noon-Dev-Client.log -OnlineEnv dev -OnlineNS main-noon-dev -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-noon-dev"
+			}
+			"description_loc"
+			{
+				"english" "Main Noon Dev"
+			}
+			"description" "Main Noon Dev"
+		}
+		"92"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Morn-Ship-Client.log -OnlineEnv dev -OnlineNS main-morn-ship -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-morn-ship"
+			}
+			"description_loc"
+			{
+				"english" "Main Morning Shipping"
+			}
+			"description" "Main Morning Shipping"
+		}
+		"93"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Morn-Test-Client.log -OnlineEnv dev -OnlineNS main-morn-test -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-morn-test"
+			}
+			"description_loc"
+			{
+				"english" "Main Morning Test"
+			}
+			"description" "Main Morning Test"
+		}
+		"94"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=Exoborne-Main-Morn-Dev-Client.log -OnlineEnv dev -OnlineNS main-morn-dev -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-main-morn-dev"
+			}
+			"description_loc"
+			{
+				"english" "Main Morning Dev"
+			}
+			"description" "Main Morning Dev"
+		}
+		"96"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-10 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-10"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 10"
+			}
+			"description" "External Partner Branch 10"
+		}
+		"97"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-11 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-11"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 11"
+			}
+			"description" "External Partner Branch 11"
+		}
+		"98"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-12 -anticheat_settings=Settings_dev.json -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-12"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 12"
+			}
+			"description" "External Partner Branch 12"
+		}
+		"99"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-13 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -ini:SgTutorial:[/Script/Squid.SgTutorialSettings]:bEnableSkipIntroLevelButton=true"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-13"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 13"
+			}
+			"description" "External Partner Branch 13"
+		}
+		"100"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-14 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-14"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 14"
+			}
+			"description" "External Partner Branch 14"
+		}
+		"101"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-15 "
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "external-partners-15"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 15"
+			}
+			"description" "External Partner Branch 15"
+		}
+		"103"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineNS online"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-online"
+			}
+			"description_loc"
+			{
+				"english" "Dev"
+			}
+			"description" "Dev"
+		}
+		"105"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineNS online -OnlineEnv uat"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-online"
+			}
+			"description_loc"
+			{
+				"english" "UAT"
+			}
+			"description" "UAT"
+		}
+		"108"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "primary"
+			}
+			"description_loc"
+			{
+				"english" "Primary Prod"
+			}
+			"description" "Primary Prod"
+		}
+		"110"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientREEF.log -OnlineEnv dev -OnlineNS reef -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "sq-reef"
+			}
+			"description_loc"
+			{
+				"english" "REEF"
+			}
+			"description" "REEF"
+		}
+		"113"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=MSBetaClient.log -OnlineEnv dev -OnlineNS msbeta -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=false -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-msbeta"
+			}
+			"description_loc"
+			{
+				"english" "MS Beta"
+			}
+			"description" "MS Beta"
+		}
+		"114"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv uat -OnlineNS rc-validation -anticheat_settings=Settings_dev.json -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "rc-validation"
+			}
+			"description_loc"
+			{
+				"english" "rc-validation"
+			}
+			"description" "rc-validation"
+		}
+		"115"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=CT1Client.log -OnlineEnv dev -OnlineNS ct1 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=false -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sq-ct1"
+			}
+			"description_loc"
+			{
+				"english" "CT1"
+			}
+			"description" "CT1"
+		}
+		"116"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv dev -OnlineNS custom-50 -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "sq-custom-50"
+			}
+			"description_loc"
+			{
+				"english" "custom-50 - 2nd launch option"
+			}
+			"description" "custom-50 - 2nd launch option"
+		}
+		"120"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=CT2Client.log -OnlineEnv dev -OnlineNS ct2 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sq-ct2"
+			}
+			"description_loc"
+			{
+				"english" "CT2"
+			}
+			"description" "CT2"
+		}
+		"122"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv uat -OnlineNS primary -anticheat_settings=Settings_dev.json -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "rc-validation"
+			}
+			"description_loc"
+			{
+				"english" "Primary UAT"
+			}
+			"description" "Primary UAT"
+		}
+		"123"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=SquidClientOnline.log -OnlineEnv dev -OnlineNS marketing-2"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sq-marketing-2"
+			}
+			"description_loc"
+			{
+				"english" "Marketing 2"
+			}
+			"description" "Marketing 2"
+		}
+		"124"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-11 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=false -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-partners-11"
+			}
+			"description_loc"
+			{
+				"english" "external-partners-11 - Version 2"
+			}
+			"description" "external-partners-11 - Version 2"
+		}
+		"125"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-8 -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-partners-8"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 8 - Version 2"
+			}
+			"description" "External Partner Branch 8 - Version 2"
+		}
+		"126"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv uat -OnlineNS ext-partners-16 -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-partners-16"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 16"
+			}
+			"description" "External Partner Branch 16"
+		}
+		"127"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-LOG=SquidClientOnline.log -OnlineEnv uat -OnlineNS ext-partners-17 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "external-partners-17"
+			}
+			"description_loc"
+			{
+				"english" "External Partner Branch 17"
+			}
+			"description" "External Partner Branch 17"
+		}
+		"128"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=PT1Client.log -OnlineEnv dev -OnlineNS pt1 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sq-pt1"
+			}
+			"description_loc"
+			{
+				"english" "PT1"
+			}
+			"description" "PT1"
+		}
+		"129"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-log -LOG=CT3Client.log -OnlineEnv dev -OnlineNS ct3 -ini:Online:[/Script/Squid.SgOnlineSettings]:bLevelInfiniteEnabled=true -ini:Engine:[OnlineSubsystem]:NativePlatformService=Steam -ini:Engine:[OnlineSubsystemSteam]:bEnabled=True -DisableAsyncCompute"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sq-ct3"
+			}
+			"description_loc"
+			{
+				"english" "CT3"
+			}
+			"description" "CT3"
+		}
+		"130"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-OnlineEnv dev -OnlineNS custom-25 -anticheat_settings=Settings_dev.json"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "sq-custom-25"
+			}
+			"description_loc"
+			{
+				"english" "custom-25 - V2"
+			}
+			"description" "custom-25 - V2"
+		}
+		"131"
+		{
+			"executable" "Exoborne.exe"
+			"arguments" "-DisableAsyncCompute"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2705131"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "349724200874163977"
+				"size" "46437291383"
+				"download" "45999737440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16122312"
+			"timeupdated" "1729598633"
+		}
+	}
+	"privatebranches" "1"
+}
