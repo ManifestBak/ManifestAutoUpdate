@@ -1,0 +1,155 @@
+"appid" "1044920"
+"common"
+{
+	"name" "Grand Battle"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "c62579ff2345a7c7e4ac8300e8c3a9300f7f7973"
+	"clienttga" "c1296917a29486f5668558f18114075a205c571b"
+	"icon" "2ab3e16c79aeab3fc03c7ab0219bf79062b8b799"
+	"logo" "b5e233aee761b512e081cd1caaf2b77b05fcce82"
+	"logo_small" "b5e233aee761b512e081cd1caaf2b77b05fcce82_thumb"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"restricted_countries" "DE"
+	"metacritic_name" "Grand Battle"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_791e6a0d2a3b39a383294b1db30550dd46d39e71.jpg"
+	"store_asset_mtime" "1553321846"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LIONHEART GAMING"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1553065200"
+	"steam_release_date" "1553099580"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1044920"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "1646"
+		"2" "4155"
+		"3" "1695"
+		"4" "6730"
+		"5" "4747"
+		"6" "122"
+		"7" "1697"
+		"8" "19"
+		"9" "1684"
+		"10" "4057"
+		"11" "1702"
+		"12" "21"
+		"13" "3993"
+		"14" "113"
+		"15" "4182"
+		"16" "10816"
+		"17" "3841"
+		"18" "7368"
+		"19" "1685"
+	}
+	"review_score" "5"
+	"review_percentage" "66"
+}
+"extended"
+{
+	"developer" "LIONHEART GAMING"
+	"homepage" "https://discord.gg/b6pmhkc"
+	"isfreeapp" "1"
+	"listofdlc" "1047900"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "GrandBattle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Grand Battle.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1044921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "352513349575251510"
+				"size" "5097481018"
+				"download" "2062723968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4236694"
+			"timeupdated" "1569607042"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "840a463a89a05f71da6268ac236a7c4366f66fa2"
+"_size" "2601"
