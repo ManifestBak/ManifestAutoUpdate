@@ -1,0 +1,169 @@
+"appid" "15900"
+"common"
+{
+	"clienticon" "9e6c495e17757b4a7bdfbdd1d390141d71fa9a32"
+	"clienttga" "8e0a1d02afb417dd1a3f2019da16c427a4bbcd96"
+	"name" "7 Wonders II"
+	"logo" "a7cc386beb126aa270cf7e70d7d7e092cc69f96e"
+	"logo_small" "ab6f60f48645650ee46778b9b5bbac8dfbaf242a"
+	"icon" "9aa83ca384a829f486c3ba8cdb515bfe7ac6a4f2"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669161600"
+		"tested_build_id" "210749"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "0000004408.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MumboJumbo"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Accelerate Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1213081200"
+	"community_hub_visible" "1"
+	"gameid" "15900"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1664"
+		"2" "1665"
+		"3" "4182"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "MumboJumbo"
+	"gamedir" "7 Wonders 2"
+	"homepage" ""
+	"icon" "steam/games/icon_7_Wonders_2"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "15901"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Accelerate Games"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "7 Wonders 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WondersII_1_13.exe"
+		}
+	}
+}
+"depots"
+{
+	"15901"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3440682155517593632"
+				"size" "21310735"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "210749"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "7d55821a914d0f5bd8044d48c1f8e8252ca0ef7d"
+"_size" "3097"
