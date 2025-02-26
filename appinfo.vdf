@@ -1,0 +1,254 @@
+"appid" "1545990"
+"common"
+{
+	"name" "Deadeye Deepfake Simulacrum"
+	"type" "Game"
+	"logo" "14669c6957591a2ecab6611b9d204ca5d8189f30"
+	"logo_small" "14669c6957591a2ecab6611b9d204ca5d8189f30_thumb"
+	"icon" "58d2a0845b03e5007d12f4a083f9857f641858d1"
+	"clienticns" "1c93d6e54808cd84ba0eed4f2c1857b0b83d527b"
+	"clienticon" "c7904c4ef6a09ac984704e0eaec93980c456c3aa"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"releasestate" "released"
+	"clienttga" "db43d078b4fc42ebc88c1fda153dcbc2e14815b9"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "95.46511627906978"
+			"height_pct" "50.75991450961766"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "95.46511627906978"
+				"height_pct" "50.75991450961766"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1664682842"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "nodayshalleraseyou"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "nodayshalleraseyou"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1665680434"
+	"community_hub_visible" "1"
+	"gameid" "1545990"
+	"store_tags"
+	{
+		"0" "4637"
+		"1" "5502"
+		"2" "122"
+		"3" "1742"
+		"4" "5796"
+		"5" "4115"
+		"6" "19"
+		"7" "599"
+		"8" "4137"
+		"9" "4295"
+		"10" "1687"
+		"11" "6971"
+		"12" "6625"
+		"13" "5030"
+		"14" "4166"
+		"15" "1667"
+		"16" "4004"
+		"17" "4085"
+		"18" "21725"
+		"19" "4400"
+	}
+	"review_score" "9"
+	"review_percentage" "99"
+}
+"extended"
+{
+	"developer" "nodayshalleraseyou"
+	"publisher" "nodayshalleraseyou"
+	"homepage" "https://www.deaddeepsim.com/"
+}
+"config"
+{
+	"installdir" "Deadeye Deepfake Simulacrum"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadeyeDeepfakeSimulacrum.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DeadeyeDeepfakeSimulacrum.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "DeadeyeDeepfakeSimulacrum.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1545991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6628096087891729014"
+				"size" "1363912466"
+				"download" "374431632"
+			}
+		}
+	}
+	"1545992"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3970826498578762866"
+				"size" "1380274542"
+				"download" "373780256"
+			}
+		}
+	}
+	"1545993"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1982799900593973334"
+				"size" "1402969034"
+				"download" "368342608"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17463272"
+			"timeupdated" "1740189045"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27606075"
+"_sha" "04aabb58521eee3143de9ef36ace29b515cf1ed1"
+"_size" "4019"
