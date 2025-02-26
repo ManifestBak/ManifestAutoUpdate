@@ -1,0 +1,292 @@
+"appid" "2083320"
+"common"
+{
+	"name" "Omega Warp"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "7c60d0745f25afdf53603736837fd42cf76bbb03"
+	"clienttga" "5f40cdc48bb421836ca22bfe409278692db0c00c"
+	"icon" "3f12933dc452d142a8bcd92c86ec11aae06e7134"
+	"linuxclienticon" "90eb5c2ff59ceadff61cb43a17c6adbc76f8f6b5"
+	"languages"
+	{
+		"english" "1"
+		"brazilian" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "438058800df4f5163e4fd45cc930958cfb76bf92/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.17726101420472"
+			"height_pct" "72.79743528853004"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.17726101420472"
+				"height_pct" "72.79743528853004"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724791649"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cian Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cian Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1718796024"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2083320"
+	"store_tags"
+	{
+		"0" "4106"
+		"1" "1628"
+		"2" "3834"
+		"3" "4166"
+		"4" "3942"
+		"5" "1742"
+		"6" "5716"
+		"7" "4252"
+		"8" "1673"
+		"9" "5752"
+		"10" "1755"
+		"11" "3798"
+		"12" "21"
+		"13" "4295"
+		"14" "7208"
+		"15" "19"
+		"16" "4182"
+		"17" "3871"
+		"18" "7481"
+		"19" "492"
+	}
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "Cian Games"
+	"publisher" "Cian Games"
+	"homepage" "https://www.ciangames.com/omega-warp/"
+}
+"config"
+{
+	"installdir" "Omega Warp"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OmegaWarp.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "OmegaWarp.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2083321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2960397110384355700"
+				"size" "238689472"
+				"download" "191516720"
+			}
+		}
+	}
+	"2083322"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8230129275331291556"
+				"size" "39329128"
+				"download" "11939840"
+			}
+		}
+	}
+	"2083323"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7996387699717989684"
+				"size" "50119470"
+				"download" "14454800"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14844315"
+			"timeupdated" "1719403014"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Cian Games/Omega Warp/{64BitSteamID}/"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Cian Games/Omega Warp/{64BitSteamID}/"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Cian Games/Omega Warp/{64BitSteamID}/"
+					"replace" ".local/share/cian-games/omega-warp/{64BitSteamID}/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "67427396a7ca1ccfb98a4fa0c407c63efd94fc91"
+"_size" "4585"
