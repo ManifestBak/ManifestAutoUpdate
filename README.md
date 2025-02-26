@@ -1,39 +1,29 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 17:49:36
+## 更新时间：2025-02-26 17:54:23
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1588340 | Riftbound| Game |
-| 1588390 | FaceWorld| Application |
-| 1585530 | GW: Legacy| Game |
-| 1586580 | Narita Boy Soundtrack| Music |
-| 1584680 | Medieval Machines Builder| Game |
-| 1586600 | Eastward Soundtrack| Music |
-| 1582760 | Reknum Fantasy of Dreams| Game |
-| 1583870 | Strip Black Jack - Sex Bunny| Game |
-| 1582290 | LumbearJack| Game |
-| 1578950 | Lady in Mystery| Game |
-| 1578250 | Warplane inc.| Game |
-| 1579280 | The Last Worker| Game |
-| 1579810 | RPG Maker MZ - Fantasy Music Pack Vol 1| DLC |
-| 1578160 | Bots Are Stupid| Game |
-| 1578030 | UNBEATABLE: DEMO TAPES| Music |
-| 1576560 | DownhillVR| Game |
-| 1576000 | Pain Party| Game |
-| 1574330 | 魔法少女は自由に変身できない。| Game |
-| 1574910 | The Bart Bonte collection| Game |
-| 1585110 | Serious Sam 2 Soundtrack| Music |
-| 1571220 | Chessplosion| Game |
-| 1572050 | Crash Race| Game |
-| 1571990 | Galaxy Pass Station| Game |
-| 1571480 | 俯视坦克| Game |
-| 1571460 | Zorro The Chronicles| Game |
-| 1575510 | Seedlings| Game |
-| 1570960 | 格雷的直觉| Game |
-| 1568970 | 流离归途| Game |
-| 1571010 | Physics World| Game |
-| 1571280 | Street Legal 1: REVision| Game |
-| 1569440 | OneShot: Fading Memory| Game |
-| 1569750 | 忍者明：悟| Game |
-| 1568960 | True Spring Love| Game |
-| 1568770 | Before We Leave Soundtrack| Music |
+| 1566450 | Setteeh| Game |
+| 1566730 | Scarlet Hood and the Wicked Wood Soundtrack| Music |
+| 1563730 | Witching Hour| Game |
+| 1563320 | Sleep Tight| Game |
+| 1564100 | Synth Drift| Game |
+| 1559960 | Grey Bones| Game |
+| 1558250 | RPG Maker MZ - Animations Select - Wind| DLC |
+| 1558480 | My Territory Was Witches' Island!?| Game |
+| 1554570 | Half-Life: Alyx - Final Hours "Triage at Dawn" Soundtrack Theme| Music |
+| 1554480 | RPG Maker MZ - Animations Select - Light| DLC |
+| 1558840 | Path of Kami: Journey begins| Game |
+| 1551950 | Coloring Book for Kids - Expansion Pack| DLC |
+| 1552040 | Dominant Mind| Game |
+| 1548750 | Dahlia View| Game |
+| 1547700 | RPG Maker MZ - Fantasy Heroine Character Pack 3| DLC |
+| 1547370 | Dark Pathways| Game |
+| 1546510 | Everhood Soundtrack| Music |
+| 1543330 | 揭谛| Game |
+| 1542690 | RPG Maker MZ - Heroine Character Generator 7 for MZ| DLC |
+| 1541850 | Endless Furry Clicker| Game |
+| 1540060 | Angry Putin| Game |
+| 1539850 | 回门 Way Back Home Soundtrack| Music |
+| 1540570 | Fractal Block World| Game |
+| 1552350 | The Jackbox Party Pack 8| Game |
