@@ -1,0 +1,350 @@
+"appid" "2928330"
+"common"
+{
+	"name" "MASH VP! Re:VISION"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "4a0ab5a0b199fda5ebc0c3971ebb429f0fd3b131"
+	"clienticon" "3a44ce0b5aba2b5e948478c038c5229bc9c9d424"
+	"clienttga" "2e32d626f14f62908fc1451c24b1b35ab5002291"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1738713600"
+		"tested_build_id" "16179150"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "3d39a25eb9f32fe0a2132b510ab41101f3312bd9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "74.37325801697381"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "2f36c42f10d16e174e044b4e95c2a5b9d221e449/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "2f36c42f10d16e174e044b4e95c2a5b9d221e449/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "0879c2eca6f6a81e24d7c736c5d1a954dbbc6f37/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "0879c2eca6f6a81e24d7c736c5d1a954dbbc6f37/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "0879c2eca6f6a81e24d7c736c5d1a954dbbc6f37/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "c940dad74bbaccc927368ea380acf21642093ca6/logo.png"
+			}
+			"image2x"
+			{
+				"english" "c940dad74bbaccc927368ea380acf21642093ca6/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "74.37325801697381"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "b4a7880783456538a2040259edbbe1709ace8943/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "b4a7880783456538a2040259edbbe1709ace8943/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737013938"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AXTORM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AXTORM Co., Ltd."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1728639433"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2928330"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1752"
+		"2" "597"
+		"3" "1621"
+		"4" "4182"
+		"5" "4295"
+		"6" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "AXTORM Co., Ltd."
+	"publisher" "AXTORM Co., Ltd."
+	"listofdlc" "3337020,3362060"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "MASH VP! ReVISION"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MASH VP! ReVISION.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"2928332"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5390440304964239997"
+				"size" "1289539501"
+				"download" "910184992"
+			}
+		}
+	}
+	"2928331"
+	{
+	}
+	"2959210"
+	{
+		"dlcappid" "2959210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3170714670194104753"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"2928333"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9045722105718090958"
+				"size" "2319358700"
+				"download" "1941282640"
+			}
+		}
+	}
+	"2928334"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1098905699884608593"
+				"size" "2127019576"
+				"download" "1837482080"
+			}
+		}
+	}
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17497592"
+			"timeupdated" "1740477474"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "AXTORM/MASH VP! Re_VISION/{64BitSteamID}/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27653090"
+"_sha" "0d27a596172001c46139ca70a0d97eb4a368b91f"
+"_size" "6244"
