@@ -1,33 +1,29 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 09:28:04
+## 更新时间：2025-02-26 09:32:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1059980 | 吾王保卫战 Just King| Game |
-| 1494810 | Mortal Sin| Game |
-| 1830970 | 将熄之焰 The Last Flame| Game |
-| 1115450 | Bastide| Game |
-| 1987480 | 勇者与亡灵之都| Game |
-| 1118810 | Midnight Ghost Hunt Dedicated Server| Tool |
-| 2072980 | 地下城骑士团| Game |
-| 1455130 | 刺激大富翁| Game |
-| 1285180 | Maneuver Warfare| Game |
-| 2437170 | 《神之浩劫2》| Game |
-| 2726450 | Windowkill| Game |
-| 2878420 | 菜市场模拟器| Game |
-| 3139890 | 恐龙岛| Game |
-| 2216830 | The Jackbox Party Pack 10| Game |
-| 3296150 | Monster Train 2 Demo| Demo |
-| 3113230 | 放置仙途| Game |
-| 2959690 | Diplomacy is Not an Option Soundtrack| Music |
-| 3395140 | 小小侠客模拟器| Game |
-| 2720620 | One More Night| Game |
-| 3469850 | 噩梦摇篮：献花于你| Game |
-| 555160 | Pavlov VR| Game |
-| 416190 | Vehicle Simulator| Game |
-| 410900 | Forts| Game |
-| 3023070 | ベイブレードエックス XONE| Game |
-| 1063730 | New World: Aeternum| Game |
-| 2399830 | 方舟: 生存飞升| Game |
-| 915810 | 午夜猎魂| Game |
-| 578080 | PUBG: BATTLEGROUNDS| Game |
+| 261020 | Takedown: Red Sabre Dedicated Server| Tool |
+| 251730 | Legend of Grimrock 2| Game |
+| 250640 | [Old Edition] Croixleur Sigma| Game |
+| 260790 | 1001 Spikes| Game |
+| 257890 | Frozen Hearth| Game |
+| 251630 | The Impossible Game| Game |
+| 257710 | Max Gentlemen| Game |
+| 240340 | Space Ace| Game |
+| 241640 | Haunted Memories| Game |
+| 244310 | Source SDK Base 2013 Dedicated Server| Tool |
+| 240360 | Dragon's Lair 2: Time Warp| Game |
+| 233230 | Kairo| Game |
+| 233350 | Sudeki| Game |
+| 244050 | Rise of Flight United| Game |
+| 237410 | Insurgency Dedicated Server| Tool |
+| 230840 | Daylight| Game |
+| 239220 | The Mighty Quest For Epic Loot| Game |
+| 238110 | Arcane Saga Online| Game |
+| 231060 | Ragnarok Online 2| Game |
+| 238260 | Pinball Arcade| Game |
+| 230410 | Warframe| Game |
+| 250870 | Pro Evolution Soccer 2014| Game |
+| 232330 | Counter-Strike: Source Dedicated Server| Tool |
+| 238070 | Shadow Warrior Classic (1997)| Game |
