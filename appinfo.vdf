@@ -1,0 +1,191 @@
+"appid" "2065330"
+"common"
+{
+	"name" "Catto Pew Pew!"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticns" "ef76a5d1f0c24feb69eea1b9edda1d702da696ad"
+	"linuxclienticon" "985d77ec219077914c81f97bc9eeb44601284f45"
+	"icon" "01cc8d81be9d75c5aecc7db2c1fdaedb9692c63c"
+	"clienticon" "9c03bfeb3f10d6cb9034cdebcd4074a8caf9bc73"
+	"clienttga" "386e9635c6c9069afcadf23394e975baa305d1fd"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.889826599006796"
+			"height_pct" "68.61790548563287"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "59.889826599006796"
+				"height_pct" "68.61790548563287"
+			}
+		}
+	}
+	"store_asset_mtime" "1722099140"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Oakley Blade Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Oakley Blade Games"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "37"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1660676802"
+	"community_hub_visible" "1"
+	"gameid" "2065330"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1774"
+		"2" "1663"
+		"3" "5547"
+		"4" "113"
+		"5" "4191"
+		"6" "3859"
+		"7" "19"
+		"8" "3839"
+		"9" "4305"
+		"10" "4136"
+		"11" "1719"
+		"12" "1775"
+		"13" "3916"
+		"14" "492"
+		"15" "493"
+		"16" "3993"
+		"17" "17894"
+		"18" "3968"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Oakley Blade Games"
+	"publisher" "Oakley Blade Games"
+	"homepage" "https://oakleyblade.com/"
+	"isfreeapp" "1"
+	"listofdlc" "2070910,2136650,2236210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Catto Pew Pew!"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Catto Pew Pew!.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"2065332"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1547082173841761276"
+				"size" "1018510508"
+				"download" "104158800"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17131793"
+			"timeupdated" "1737828708"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27244178"
+"_sha" "4e7d54e8e4e4cb381d90131e1fd17bf04ab41cdf"
+"_size" "3110"
