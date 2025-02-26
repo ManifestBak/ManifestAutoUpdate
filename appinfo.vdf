@@ -1,0 +1,202 @@
+"appid" "1605960"
+"common"
+{
+	"name" "Zombie Survival"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "898f72fb08711a4f7c95704e689748af7853eab0"
+	"clienticon" "5d6696f8ce59551b3bf30189e4ed399e135386de"
+	"icon" "cf9f3d08b4697b4342fb069fe8c9080fa4ccd822"
+	"logo" "df69ef4d02937cf492d56130364c523a15c2b692"
+	"logo_small" "df69ef4d02937cf492d56130364c523a15c2b692_thumb"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "71.6542746909652"
+			"height_pct" "74.93234640080068"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "71.6542746909652"
+				"height_pct" "74.93234640080068"
+			}
+		}
+	}
+	"store_asset_mtime" "1618578682"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SexyM"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SexyM"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "4"
+		"1" "37"
+		"2" "23"
+		"3" "29"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1619698791"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1605960"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3871"
+		"1" "1662"
+		"2" "597"
+		"3" "1702"
+		"4" "176981"
+		"5" "3814"
+		"6" "4791"
+		"7" "3859"
+		"8" "113"
+		"9" "3964"
+		"10" "4182"
+		"11" "1775"
+		"12" "128"
+		"13" "492"
+		"14" "1659"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "SexyM"
+	"publisher" "SexyM"
+	"homepage" "https://sexym.itch.io/zombie-survival-online"
+	"isfreeapp" "1"
+	"listofdlc" "1610300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ZS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZS.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "ZS.exe"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1605961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7965596637988342323"
+				"size" "160913433"
+				"download" "35651264"
+			}
+		}
+	}
+	"1610300"
+	{
+		"dlcappid" "1610300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5900994009312448541"
+				"size" "160913617"
+				"download" "35661200"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6870673"
+			"timeupdated" "1623751993"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25603692"
+"_sha" "b682debca71285392671d0c72c306d0ce2e80ad6"
+"_size" "3169"
