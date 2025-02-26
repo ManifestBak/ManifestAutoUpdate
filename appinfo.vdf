@@ -1,0 +1,251 @@
+"appid" "1134450"
+"common"
+{
+	"name" "ALLBLACK Phase 1"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "5811193198b65512e2b8765f502f1ccb705fb0fc"
+	"clienticon" "eecbe7ea0b195fa1eb6b78150bab7f32cd228e2a"
+	"icon" "ff936fc94a867fefa71d39234cd0058ac5ab7178"
+	"clienticns" "03511473943eda68f9580a1be3219efa9a441543"
+	"linuxclienticon" "ecd6e694dad8068b74e473209f971cf0637aeb81"
+	"logo" "1805cd8db2a4588296f320d911f167b45f788a51"
+	"logo_small" "1805cd8db2a4588296f320d911f167b45f788a51_thumb"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"metacritic_name" "ALLBLACK Phase 1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "98.13302217036173"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "98.13302217036173"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1607047702"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "NSAID"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NSAID"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "37"
+		"4" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1607215380"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1134450"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "4085"
+		"2" "5186"
+		"3" "4064"
+		"4" "3942"
+		"5" "6052"
+		"6" "1742"
+		"7" "31275"
+		"8" "7250"
+		"9" "597"
+		"10" "4667"
+		"11" "113"
+		"12" "3839"
+		"13" "4182"
+		"14" "492"
+		"15" "21"
+		"16" "3871"
+		"17" "19"
+		"18" "4486"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "NSAID"
+	"publisher" "NSAID"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "ALLBLACK Phase 1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ALLBLACKPhase1-1.7-market/ALLBLACKPhase1.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ALLBLACKPhase1-1.7-market/ALLBLACKPhase1.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "ALLBLACKPhase1-1.7-market/ALLBLACKPhase1.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1134451"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3468368458054026656"
+				"size" "216951199"
+				"download" "119183120"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7084495"
+			"timeupdated" "1627222643"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "ALLBLACKPhase1-1.6-market/game/saves"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "RenPy/ALLBLACK Phase 1"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "MacHome"
+			"path" "Library/RenPy/ALLBLACK Phase 1"
+			"pattern" "*"
+		}
+		"3"
+		{
+			"root" "LinuxHome"
+			"path" ".renpy/ALLBLACK Phase 1"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27059198"
+"_sha" "c0f94cdd6846fac886f5cf6529811c314cbcdc54"
+"_size" "4021"
