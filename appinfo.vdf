@@ -1,0 +1,262 @@
+"appid" "3235270"
+"common"
+{
+	"name" "Conradito Cafézito"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "9ec4b208b5cfe5bfce9ed9d02a0372dcd928cc1b"
+	"clienttga" "dc66b8e80ec67babe437676c92ea3c6c1124d8d4"
+	"clienticon" "5942b4cb3a15f92066afeca831b6fc5eb782f30c"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "351a3b34694571b54646fc09f56ea44507924de9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.648774795799284"
+			"height_pct" "77.73687960104488"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "42.648774795799284"
+				"height_pct" "77.73687960104488"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727133526"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Conrado Saud"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Conrado Saud"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1733836471"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3235270"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "9"
+		"2" "599"
+		"3" "1698"
+		"4" "16689"
+		"5" "615955"
+		"6" "9204"
+		"7" "3813"
+		"8" "3871"
+		"9" "4305"
+		"10" "4726"
+		"11" "3964"
+		"12" "3920"
+		"13" "4695"
+		"14" "1708"
+		"15" "7481"
+		"16" "255534"
+		"17" "31275"
+		"18" "8945"
+		"19" "5154"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Conrado Saud"
+	"publisher" "Conrado Saud"
+	"gamemanualurl" "https://store.steampowered.com/manual/3235270/"
+}
+"config"
+{
+	"installdir" "ConraditoCafezito"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ConraditoCafezito.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"3235271"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6108733063160325817"
+				"size" "166933328"
+				"download" "45645024"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16856726"
+			"timeupdated" "1735252125"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "3"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ConradoSaud/ConraditoCafezito"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27629252"
+"_sha" "cb40b5011a812cc41ffdffc44ad46f2cc6886f1c"
+"_size" "3972"
