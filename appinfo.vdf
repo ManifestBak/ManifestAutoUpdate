@@ -320,8 +320,8 @@
 		"15" "7107"
 		"16" "1669"
 		"17" "4695"
-		"18" "4711"
-		"19" "493"
+		"18" "4172"
+		"19" "4711"
 	}
 	"review_score" "8"
 	"review_percentage" "81"
@@ -370,15 +370,15 @@
 		{
 			"public"
 			{
-				"gid" "3251661586398416518"
-				"size" "996489477"
-				"download" "776457264"
+				"gid" "2626972914112162892"
+				"size" "996490081"
+				"download" "776454960"
 			}
 			"unstable"
 			{
-				"gid" "4445718949926197860"
-				"size" "995365417"
-				"download" "775894544"
+				"gid" "3251661586398416518"
+				"size" "996489477"
+				"download" "776457264"
 			}
 		}
 	}
@@ -386,14 +386,14 @@
 	{
 		"public"
 		{
-			"buildid" "17424281"
-			"timeupdated" "1739981041"
+			"buildid" "17513500"
+			"timeupdated" "1740568121"
 		}
 		"unstable"
 		{
-			"buildid" "17225064"
+			"buildid" "17424281"
 			"description" "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!"
-			"timeupdated" "1738593337"
+			"timeupdated" "1740135360"
 		}
 	}
 	"privatebranches" "1"
@@ -417,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27557375"
-"_sha" "8e9704c28437c686f9568f19b26152f582d147d7"
-"_size" "7883"
+"_change_number" "27673912"
+"_sha" "7839aac486a45baf8df8f80cbad2edd8f419ec4c"
+"_size" "7884"
