@@ -1,0 +1,523 @@
+"appid" "1618380"
+"common"
+{
+	"name" "Spellmasons"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a6abdb2d36f3c026dc0a821111f50dc39fe1b4e3"
+	"clienticon" "f320d5f0d37f19879f2181fcdb4ab6d2b32df6fe"
+	"clienttga" "7049a3083c5d1c5382fa8013abc569f6d5b77789"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macosapplesilicon"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1682121600"
+		"tested_build_id" "10515180"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "fa807eaa1633020e6ab8c68d1219afc64b2181b8/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.1656942823804"
+			"height_pct" "61.77811495525904"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "44.1656942823804"
+				"height_pct" "61.77811495525904"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733694555"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jordan O\'Leary"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Octavia Blue"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_27" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1675165738"
+	"community_hub_visible" "1"
+	"gameid" "1618380"
+	"store_tags"
+	{
+		"0" "14139"
+		"1" "1716"
+		"2" "9"
+		"3" "6730"
+		"4" "1759"
+		"5" "3871"
+		"6" "4325"
+		"7" "5125"
+		"8" "3959"
+		"9" "32322"
+		"10" "3964"
+		"11" "1684"
+		"12" "1708"
+		"13" "1685"
+		"14" "3841"
+		"15" "3843"
+		"16" "3859"
+		"17" "4182"
+		"18" "7368"
+		"19" "4057"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Jordan O\'Leary"
+	"publisher" "Octavia Blue"
+	"homepage" "https://discord.gg/q6sUCreHeJ"
+}
+"config"
+{
+	"installdir" "Spellmasons"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "spellmasons.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Spellmasons.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1618381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "995727960628766801"
+				"size" "430996074"
+				"download" "164947264"
+			}
+			"beta"
+			{
+				"gid" "8065674544173356646"
+				"size" "431123301"
+				"download" "164983328"
+			}
+			"v1.54.1"
+			{
+				"gid" "4972692661053625911"
+				"size" "429855766"
+				"download" "164781552"
+			}
+			"v1.43.4"
+			{
+				"gid" "483558451798345420"
+				"size" "423071475"
+				"download" "159125808"
+			}
+			"v1.44.6"
+			{
+				"gid" "2520223218544327266"
+				"size" "423474732"
+				"download" "159390912"
+			}
+			"v1.45.2"
+			{
+				"gid" "1557699082660782590"
+				"size" "423943485"
+				"download" "159509264"
+			}
+			"v1.48.2"
+			{
+				"gid" "3262156982785375928"
+				"size" "430227466"
+				"download" "165629744"
+			}
+			"v1.50.1"
+			{
+				"gid" "8671596658179458161"
+				"size" "425218510"
+				"download" "160704912"
+			}
+			"v1.51.1"
+			{
+				"gid" "725991641149927747"
+				"size" "429545174"
+				"download" "164672016"
+			}
+			"v1.52.2"
+			{
+				"gid" "5122088127075997770"
+				"size" "429852778"
+				"download" "164780176"
+			}
+		}
+	}
+	"1618382"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9004449513464503745"
+				"size" "461825476"
+				"download" "151067280"
+			}
+			"beta"
+			{
+				"gid" "1814562832204865581"
+				"size" "461952703"
+				"download" "151113760"
+			}
+			"v1.54.1"
+			{
+				"gid" "6934232681974747125"
+				"size" "460806112"
+				"download" "150881632"
+			}
+			"v1.43.4"
+			{
+				"gid" "2732883582398764218"
+				"size" "454074409"
+				"download" "145197776"
+			}
+			"v1.44.6"
+			{
+				"gid" "5684946118048074886"
+				"size" "454455506"
+				"download" "145452496"
+			}
+			"v1.45.2"
+			{
+				"gid" "4824903264094791686"
+				"size" "454923731"
+				"download" "145571424"
+			}
+			"v1.48.2"
+			{
+				"gid" "68044006098174532"
+				"size" "461197784"
+				"download" "151697968"
+			}
+			"v1.50.1"
+			{
+				"gid" "8673239693762617895"
+				"size" "456182872"
+				"download" "146785504"
+			}
+			"v1.51.1"
+			{
+				"gid" "3350315062018975393"
+				"size" "460508472"
+				"download" "150752512"
+			}
+			"v1.52.2"
+			{
+				"gid" "2731657795772567490"
+				"size" "460803124"
+				"download" "150880720"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17475614"
+			"timeupdated" "1740339861"
+		}
+		"beta"
+		{
+			"buildid" "17476353"
+			"description" "latest features - may be buggy"
+			"timeupdated" "1740346676"
+		}
+		"v1.54.1"
+		{
+			"buildid" "16952815"
+			"description" "Old Version 1.54.1"
+			"timeupdated" "1740318834"
+		}
+		"v1.43.4"
+		{
+			"buildid" "15667941"
+			"description" "Old Version 1.43.4"
+			"timeupdated" "1727308626"
+		}
+		"v1.44.6"
+		{
+			"buildid" "15843848"
+			"description" "Old Version 1.44.6"
+			"timeupdated" "1728997389"
+		}
+		"v1.45.2"
+		{
+			"buildid" "16051746"
+			"description" "Old Version 1.45.2"
+			"timeupdated" "1729939668"
+		}
+		"v1.48.2"
+		{
+			"buildid" "16225691"
+			"description" "Old Version 1.48.2"
+			"timeupdated" "1731333398"
+		}
+		"v1.50.1"
+		{
+			"buildid" "16409800"
+			"description" "Old Version 1.50.1"
+			"timeupdated" "1732205819"
+		}
+		"v1.51.1"
+		{
+			"buildid" "16488476"
+			"description" "Old Version 1.51.1"
+			"timeupdated" "1733831770"
+		}
+		"v1.52.2"
+		{
+			"buildid" "16693133"
+			"description" "Old Version 1.52.2"
+			"timeupdated" "1734616720"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27623507"
+"_sha" "33e448340067943b49fec3fcc61c6e39418904d6"
+"_size" "9116"
