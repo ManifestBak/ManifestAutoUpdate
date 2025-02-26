@@ -1,0 +1,138 @@
+"appid" "1487091"
+"common"
+{
+	"name" "iVRy for SteamVR (Android/Daydream App Installer)"
+	"type" "DLC"
+	"parent" "992490"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_a442437c00cd149b29c2839e2b36f8ca6878162a.jpg"
+	"store_asset_mtime" "1654761362"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mediator Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mediator Software"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+		"category_35" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654841620"
+	"gameid" "1487091"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "87"
+	}
+}
+"extended"
+{
+	"dlcforappid" "992490"
+	"mustownapptopurchase" "992490"
+	"developer" "Mediator Software"
+	"publisher" "Mediator Software"
+	"homepage" "https://twitter.com/iVRy_VR"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1487091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8586166984463090622"
+				"size" "16305912"
+				"download" "6399056"
+			}
+			"previous-version"
+			{
+				"gid" "2001082955088930393"
+				"size" "6987068"
+				"download" "6148528"
+			}
+			"previous-app-version"
+			{
+				"gid" "7420051184315034820"
+				"size" "8593268"
+				"download" "7752544"
+			}
+			"previous-release"
+			{
+				"gid" "7420051184315034820"
+				"size" "8593268"
+				"download" "7752544"
+			}
+		}
+		"dlcappid" "1487091"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16735644"
+			"timeupdated" "1734095443"
+		}
+		"previous-version"
+		{
+			"buildid" "9138178"
+			"description" "Previous version of Mobile app"
+			"timeupdated" "1678384658"
+		}
+		"previous-app-version"
+		{
+			"buildid" "12158743"
+			"description" "Previous version of mobile app"
+			"timeupdated" "1728205201"
+		}
+		"previous-release"
+		{
+			"buildid" "12158743"
+			"description" "Previous Release"
+			"timeupdated" "1724496265"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26629908"
+"_sha" "b896525d42e8b65b6f1411aae9dd85459ae3b4f3"
+"_size" "2350"
