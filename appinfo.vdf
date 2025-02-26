@@ -1,0 +1,132 @@
+"appid" "3044490"
+"common"
+{
+	"name" "Without Windows and Doors: A Paranormal Investigators Story"
+	"type" "DLC"
+	"parent" "2835750"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "976b9bf3d26f75a9c61ec9ba99dd1b1407805552"
+	"clienticon" "193768650adfd43f9c07d2f63e6411f3fe35f4cd"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_header" "en"
+	}
+	"library_assets_full"
+	{
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_screenshot" "ss_4fda85cf12f635792902a4ebe76af8e2d265c0f0.jpg"
+	"store_asset_mtime" "1721258731"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arsonist Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Arsonist Studio"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1721255372"
+	"community_hub_visible" "1"
+	"gameid" "3044490"
+	"exfgls" "9"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "492"
+		"2" "599"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"dlcforappid" "2835750"
+	"mustownapptopurchase" "2835750"
+	"optionaldlc" "1"
+	"developer" "Arsonist Studio"
+	"publisher" "Arsonist Studio"
+	"homepage" "https://beacons.ai/arsoniststudio"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"3044490"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"optionaldlc" "3044490"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "196663049665640634"
+				"size" "3375011299"
+				"download" "1454342864"
+			}
+		}
+		"dlcappid" "3044490"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15068072"
+			"timeupdated" "1721254923"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"_missing_token" "False"
+"_change_number" "27138212"
+"_sha" "1bc49e766a9669a6b211c01799e3a8c5bd206dc6"
+"_size" "2135"
