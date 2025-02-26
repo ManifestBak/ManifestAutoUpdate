@@ -1,0 +1,196 @@
+"appid" "212370"
+"common"
+{
+	"name" "Arctic Combat"
+	"type" "Game"
+	"oslist" "windows"
+	"logo" "bc92ea031d948cec8461f6fc0057d9f8148495dc"
+	"logo_small" "bc92ea031d948cec8461f6fc0057d9f8148495dc_thumb"
+	"clienttga" "cd8b125a15662568dff9cce09148269efafb2199"
+	"icon" "b3b5dea44dbb289ca8f8fcdb26fc07b8f5d4acaa"
+	"clienticon" "b5f1eae8cfae498aa3f109ac33df210035931580"
+	"clienticns" "b5f1eae8cfae498aa3f109ac33df210035931580"
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"portuguese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1685750400"
+		"tested_build_id" "60500"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Arctic Combat"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"polish" "header_polish.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"spanish" "header_spanish.jpg"
+		"turkish" "header_turkish.jpg"
+	}
+	"store_screenshot" "ss_686e9aeccb5f8c6dbef477eefb89d6df9600cf26.jpg"
+	"store_asset_mtime" "1360833901"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Battery Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Webzen"
+		}
+	}
+	"primary_genre" "0"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"steam_release_date" "1354816800"
+	"community_hub_visible" "1"
+	"gameid" "212370"
+	"exfgls" "3"
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"allowpurchasefromrestrictedcountries" "1"
+	"developer" "Battery Studio"
+	"gamedir" "ValveTestApp212370"
+	"homepage" "http://ac.webzen.com"
+	"icon" ""
+	"isfreeapp" "1"
+	"noservers" "0"
+	"purchaserestrictedcountries" "KR AT BE HR CZ DK EE FI FR DE GR HU IS IE IT LV LT LU MK MC NL NO PL PT RO RU SK SI ES SE CH UA GB TR CA MX US AR BR CL CO EC PY PE UY VE"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Webzen"
+	"listofdlc" "226800,226801"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ArcticCombat"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GameLauncher_GP/MappingAccount.exe"
+			"description" "ArcticCombat Launcher"
+			"workingdir" "GameLauncher_GP"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"installscriptsignature" "3dcee62879287240d75e533a2544c37fa358b5f9b2818d9b373bdbb767c2fd7fa807e69c551703e78eb8cb437d4593bfaaf7a97c0d071f83b55a8cc1c980af666c381ba8f2f97a1608f7bb6023f2f36a14c080bc0478264a0642c983d5135a46f6774036480d76b746ee957bcd32e01f4ac121fd8c3255b529355b30df398676"
+	"installscriptoverride" "1"
+}
+"install"
+{
+	"registry"
+	{
+		"hkey_current_user\\software\\webzen\\arcticcombat"
+		{
+			"string"
+			{
+				"exe" "%INSTALLDIR%\\System\\ArcticCombat.exe"
+				"path" "%INSTALLDIR%"
+				"start menu folder" "ArcticCombat"
+			}
+			"dword"
+			{
+				"lastpatchstate" "0"
+				"wzlupdatestate" "0"
+			}
+		}
+	}
+	"run process"
+	{
+		"install vcredist2005"
+		{
+			"process 1" "%INSTALLDIR%\\vcredist_x86.exe"
+			"command 1" "/q:a"
+		}
+	}
+}
+"depots"
+{
+	"212374"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "938844642846793751"
+				"size" "2860594107"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "60500"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27543783"
+"_sha" "e72cff11f9cbff2fb5310ff80581bfffccc48573"
+"_size" "4175"
