@@ -1,0 +1,246 @@
+"appid" "16030"
+"common"
+{
+	"name" "7 Wonders: The Treasures of Seven"
+	"logo" "ae22a97454773ddc44c60f26a9a8a528662d8a3d"
+	"logo_small" "ae22a97454773ddc44c60f26a9a8a528662d8a3d_thumb"
+	"icon" "780e313fa05ecf7e9d612cbf2189ce236a72215c"
+	"clienttga" "d4d51f3f53a81326f932f19044f9f7b7c80bd56f"
+	"clienticon" "f5fb55c3819ddb5140483204e3e51d9b354e3418"
+	"metacritic_url" "pc/7wonderstreasuresofseven"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "286184"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "7 Wonders: Treasures of Seven"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "0000006223.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MumboJumbo"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Accelerate Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1226649600"
+	"steam_release_date" "1226689200"
+	"community_hub_visible" "1"
+	"gameid" "16030"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1665"
+		"2" "1664"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "MumboJumbo"
+	"gamedir" "7 Wonders - The Treasures of Seven"
+	"homepage" "http://www.mumbojumbo.com/game/game/118"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "16031"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Accelerate Games"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "7 Wonders - The Treasures of Seven"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "7 Wonders - Treasures of Seven.exe"
+		}
+	}
+}
+"depots"
+{
+	"16031"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "256132308418807755"
+				"size" "146926858"
+				"download" "0"
+			}
+		}
+	}
+	"16033"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3992436888105289538"
+				"size" "85663741"
+				"download" "0"
+			}
+		}
+	}
+	"16034"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6742516259186242922"
+				"size" "85598640"
+				"download" "0"
+			}
+		}
+	}
+	"16035"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9158992244026350810"
+				"size" "85631300"
+				"download" "0"
+			}
+		}
+	}
+	"16036"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9097098866588741750"
+				"size" "85663656"
+				"download" "0"
+			}
+		}
+	}
+	"16037"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6446061171257472178"
+				"size" "85632322"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "286184"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "23f0ece40fc0e2c01d7a2de5723f22bd104027e3"
+"_size" "4238"
