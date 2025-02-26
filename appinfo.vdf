@@ -1,0 +1,352 @@
+"appid" "3036380"
+"common"
+{
+	"name" "Turtle Champs"
+	"type" "Game"
+	"icon" "fde79a7bb6a9e746d16732b3b2c1db200c65afaa"
+	"clienticon" "8370f2b8f0ffd57f8931768e3403560a8bce098c"
+	"clienttga" "688621d5f1c83bf4d0233a23de621122dcdd5b14"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1722988800"
+		"tested_build_id" "14928218"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"italian" "header_italian.jpg"
+		"spanish" "header_spanish.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,fr,de,it,es,ko"
+		"library_hero" "en,fr,de,it,es,ko"
+		"library_logo" "en,fr,de,it,es,ko"
+		"library_header" "en,fr,de,it,es,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.988976292428816"
+			"height_pct" "74.49965698303384"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"french" "library_600x900_french.jpg"
+				"german" "library_600x900_german.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"french" "library_hero_french.jpg"
+				"german" "library_hero_german.jpg"
+				"italian" "library_hero_italian.jpg"
+				"spanish" "library_hero_spanish.jpg"
+				"koreana" "library_hero_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"french" "library_hero_french_2x.jpg"
+				"german" "library_hero_german_2x.jpg"
+				"italian" "library_hero_italian_2x.jpg"
+				"spanish" "library_hero_spanish_2x.jpg"
+				"koreana" "library_hero_koreana_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"french" "logo_french_2x.png"
+				"german" "logo_german_2x.png"
+				"italian" "logo_italian_2x.png"
+				"spanish" "logo_spanish_2x.png"
+				"koreana" "logo_koreana_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"french" "logo_french.png"
+				"german" "logo_german.png"
+				"italian" "logo_italian.png"
+				"spanish" "logo_spanish.png"
+				"koreana" "logo_koreana.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "34.988976292428816"
+				"height_pct" "74.49965698303384"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"french" "library_header_french.jpg"
+				"german" "library_header_german.jpg"
+				"italian" "library_header_italian.jpg"
+				"spanish" "library_header_spanish.jpg"
+				"koreana" "library_header_koreana.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1719301942"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ThatCarrotFella"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ThatCarrotFella"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "18"
+		"4" "37"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1720094190"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3036380"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "113"
+		"2" "597"
+		"3" "492"
+		"4" "701"
+		"5" "4191"
+		"6" "1254546"
+		"7" "1663"
+		"8" "1773"
+		"9" "3839"
+		"10" "3843"
+		"11" "3859"
+		"12" "4136"
+		"13" "4252"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "ThatCarrotFella"
+	"publisher" "ThatCarrotFella"
+	"isfreeapp" "1"
+	"listofdlc" "3040660"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Turtle Champs"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TurtleChamps.exe"
+			"arguments" "-dx12"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "using Direct X 12 (recommended)"
+			}
+			"description" "using Direct X 12 (recommended)"
+		}
+		"1"
+		{
+			"executable" "TurtleChamps.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "using Direct X 11 (use if 12 is unstable)"
+			}
+			"description" "using Direct X 11 (use if 12 is unstable)"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3036381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5289019047420483458"
+				"size" "541223244"
+				"download" "394917536"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17347181"
+			"timeupdated" "1739426468"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27453344"
+"_sha" "3674c1f95b69fe0caf131988415988e1f680a84f"
+"_size" "7171"
