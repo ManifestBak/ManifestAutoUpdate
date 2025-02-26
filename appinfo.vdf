@@ -186,14 +186,14 @@
 		"13" "7481"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "82"
 }
 "extended"
 {
 	"developer" "株式会社グルーブボックスジャパン"
 	"publisher" "FURYU Corporation"
 	"homepage" "https://www.cs.furyu.jp/beyblade2024/"
-	"listofdlc" "3287540,3287550,3287560"
+	"listofdlc" "3287540,3287550,3287560,3455100"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -223,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "6891860408994327795"
-				"size" "3824949037"
-				"download" "2354426112"
+				"gid" "2124612092055520979"
+				"size" "3929152913"
+				"download" "2428673072"
 			}
 		}
 	}
@@ -234,8 +234,8 @@
 	{
 		"public"
 		{
-			"buildid" "16958611"
-			"timeupdated" "1736812943"
+			"buildid" "17476633"
+			"timeupdated" "1740529667"
 		}
 	}
 	"privatebranches" "1"
@@ -259,6 +259,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26980714"
-"_sha" "ed938af6fb73e2db6a7d2d124a22c7b070a8abbf"
-"_size" "5280"
+"_change_number" "27666005"
+"_sha" "853c1a0978af2a74a0413b18ded019f482e69b99"
+"_size" "5288"
