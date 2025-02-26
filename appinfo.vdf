@@ -1,0 +1,121 @@
+"appid" "15800"
+"common"
+{
+	"clienticon" "6379617fd5f80a62612b0109b1391ab5b670abfd"
+	"clienttga" "d649c2a63eb1eb7fa994de4bea62606485498b54"
+	"name" "Planet Busters"
+	"logo" "4f018fc26637e8268b39742c49a5fdf614aee35f"
+	"logo_small" "3d1dac400a524d8c086a2458a364b72e47619d55"
+	"icon" "9ee9186ae20f16d629869154bf97dd872429bc61"
+	"type" "game"
+	"restricted_countries" "DE"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "0000004612.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slam"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "23"
+		"1" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1214809200"
+	"steam_release_date" "1214809200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "15800"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "597"
+	}
+}
+"extended"
+{
+	"developer" "Slam"
+	"gamedir" "Planet Busters"
+	"homepage" "http://www.slam-games.com/planetbusters/"
+	"icon" "steam/games/icon_Planet Busters"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "15801"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"developer_url" "http://www.slam-games.com/"
+	"publisher" "Slam"
+	"gamemanualurl" "https://store.steampowered.com/manual/15800/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Planet Busters"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "planet.exe"
+		}
+	}
+}
+"depots"
+{
+	"15801"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2579845417927983900"
+				"size" "23972712"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11280"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "3eb8b9bbd886ae04f847914592b7d4a6b06ce2bd"
+"_size" "2073"
