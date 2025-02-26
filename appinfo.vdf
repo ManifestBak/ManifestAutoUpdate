@@ -1,0 +1,199 @@
+"appid" "200050"
+"common"
+{
+	"name" "Naval War: Arctic Circle"
+	"type" "Game"
+	"logo" "c56496c5a199e7dc3401f7a1df15fd6313838f44"
+	"logo_small" "c56496c5a199e7dc3401f7a1df15fd6313838f44_thumb"
+	"languages"
+	{
+		"english" "1"
+	}
+	"icon" "3282553cbc22115459b0cf8b39c64b2b15d9ecd9"
+	"clienttga" "b8acd5eda586101a5a467211522a5628d3a25be5"
+	"clienticon" "3fab841163f7e0bd695cea86ccb2d557d0079c48"
+	"oslist" "windows"
+	"osarch" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "200050_eula_0"
+			"name" "Naval War: Arctic Circle EULA"
+			"url" "https://store.steampowered.com//eula/200050_eula_0"
+			"version" "1"
+		}
+	}
+	"metacritic_name" "Naval War: Arctic Circle"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b5a2831c8179d4d638e1c6328f3dc24d6aab86b7.jpg"
+	"store_asset_mtime" "1339088566"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Turbo Tape Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_36" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"metacritic_score" "64"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/naval-war-arctic-circle\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "200050"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "6910"
+		"2" "1676"
+	}
+	"review_score" "5"
+	"review_percentage" "41"
+}
+"extended"
+{
+	"developer" "Turbo Tape Games"
+	"gamedir" "Naval War Arctic Circle - Beta"
+	"gamemanualurl" "http://cdn.steampowered.com/Manuals/200050/NWAC_Onlinemanual.pdf"
+	"homepage" "http://www.turbotapegames.com/portfolio-item/naval-wararctic-circle/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"languages" "english,german,french,spanish,russian,norwegian"
+	"legacykeyregistrationmethod" "registry"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp200050\\SteamKey"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "200051"
+	"serverbrowsername" ""
+	"showcdkeyonlaunch" "1"
+	"state" "eStateAvailable"
+	"supportscdkeycopytoclipboard" "1"
+	"publisher" "Paradox Interactive"
+	"listofdlc" "220640"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NWAC.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Naval War Arctic Circle"
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,spanish,russian,norwegian"
+	"200051"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1987865325662080992"
+				"size" "1348256500"
+				"download" "387970080"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1837677"
+			"timeupdated" "1495454821"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "5cee2d84a434498b3c1d89719e2dcdebdaba88df"
+"_size" "3683"
