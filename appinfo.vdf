@@ -1,0 +1,297 @@
+"appid" "3010950"
+"common"
+{
+	"name" "PANICORE Soundtrack"
+	"type" "Music"
+	"parent" "2695940"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "93ee1710ba0dc640e250a08612c88a5a9ec65103"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_fc7245cbf4bc7bd3af3f3a20baf884abeeb1d48f.jpg"
+	"store_asset_mtime" "1716577283"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ZTEK Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ZTEK Studio"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1717458837"
+	"gameid" "3010950"
+	"exfgls" "6"
+	"review_score" "7"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"musicalbumforappid" "2695940"
+	"developer" "ZTEK Studio"
+	"publisher" "ZTEK Studio"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "PANICOREMusic"
+}
+"depots"
+{
+	"3010951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "348289925607137872"
+				"size" "15960417"
+				"download" "15672784"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15618902"
+			"timeupdated" "1725642063"
+		}
+	}
+}
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" "Various Artists"
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"indonesian" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "0e5317997be5212797b9ce7508d7d2c7835d4f0e"
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Activate"
+			"m" "1"
+			"s" "55"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Go"
+			"m" "1"
+			"s" "48"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Respect"
+			"m" "1"
+			"s" "18"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "SoEasy"
+			"m" "1"
+			"s" "24"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Dance"
+			"m" "1"
+			"s" "54"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Kick"
+			"m" "2"
+			"s" "37"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "MenuMusic1"
+			"m" "1"
+			"s" "0"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "MenuMusic2"
+			"m" "1"
+			"s" "0"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "MenuMusic3"
+			"m" "1"
+			"s" "4"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "ecf0406ae53d05ae5697fde548687cbee765d52d"
+"_size" "4766"
