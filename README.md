@@ -1,34 +1,30 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 08:50:28
+## 更新时间：2025-02-26 08:55:26
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 428010 | Pony Island - Soundtrack| Music |
-| 428490 | Germination| Game |
-| 427470 | Democracy 3 Africa| Game |
-| 424640 | Karaski: What Goes Up...| Game |
-| 424200 | Little Mouse's Encyclopedia| Game |
-| 421910 | PANOPTES| Game |
-| 428340 | Marmoset Hexels 3| Application |
-| 423880 | Carpe Diem| Game |
-| 428460 | Kings of Israel| Game |
-| 421260 | Militia| Game |
-| 419990 | Ganbare! Super Strikers| Game |
-| 422860 | Holodance| Game |
-| 415920 | Voidspire Tactics| Game |
-| 416870 | Kitty Powers' Love Life| Game |
-| 413740 | Mines of Mars| Game |
-| 409610 | One Final Chaos| Game |
-| 416190 | Vehicle Simulator| Game |
-| 409360 | Faron's Fate| Game |
-| 416790 | The Metronomicon: Slay The Dance Floor| Game |
-| 411980 | TY the Tasmanian Tiger 3| Game |
-| 422220 | Dragon's Dogma: Dark Arisen Masterworks Collection| Music |
-| 410820 | Starward Rogue| Game |
-| 403950 | Conquest of Elysium 4| Game |
-| 410770 | Roads of Rome| Game |
-| 405970 | Flat Kingdom Paper's Cut Edition| Game |
-| 407000 | Survival Is Not Enough| Game |
-| 414080 | Life is Hard| Game |
-| 411960 | TY the Tasmanian Tiger| Game |
-| 409320 | Syndrome| Game |
+| 402630 | The Coma| Game |
+| 402300 | Dungeon Manager ZV| Game |
+| 403220 | Secrets of Grindea Soundtrack| Music |
+| 400760 | ZenBlade| Game |
+| 398680 | Ace of Words| Game |
+| 400200 | The Mystery of a Lost Planet| Game |
+| 401280 | Nubs' Adventure| Game |
+| 398911 | Armello Original Soundtrack - Wyld's Call| Music |
+| 397100 | MachineCraft| Game |
+| 394290 | Tennis in the Face| Game |
+| 393600 | Robot Exploration Squad| Game |
+| 395460 | The Cat Lady Album (Music From The Video Game)| Music |
+| 386160 | Vampire of the Sands| Game |
+| 387060 | Earth Overclocked| Game |
+| 385710 | INK| Game |
+| 386290 | Kumoon : Ballistic Physics Puzzle| Game |
+| 389350 | FSX REX 4 Texture Direct Configuration Tool| Tool |
+| 386880 | Rake| Game |
+| 385670 | Loot Hero DX - Soundtrack| Music |
+| 385130 | DvDrum, Ultimate Drum Simulator!| Game |
+| 388980 | Race Track Builder| Application |
+| 397330 | Twinsen's Little Big Adventure Classic| Game |
+| 386360 | SMITE| Game |
+| 387921 | Mushihimesama Original Soundtrack| Music |
+| 389280 | Flight Sim World| Game |
