@@ -1,0 +1,345 @@
+"appid" "2147640"
+"common"
+{
+	"name" "Chacara"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "60425df8280b82d860aa97b3c0dfcf5592a7bf60"
+	"clienttga" "d79405f5101fa1e14d1b61fd7e8a0050b21e97bc"
+	"clienticns" "74745458a3df98d4996a4f229c63b999fd191e07"
+	"linuxclienticon" "d6ea4ba5a10201522e213a21f59ae4b1a7986447"
+	"clienticon" "139ee5d0214465dcbb31d946b425b41214912e4f"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1696377600"
+		"tested_build_id" "10463963"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.9801633605601"
+			"height_pct" "50.75991450961765"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "30.9801633605601"
+				"height_pct" "50.75991450961765"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1666188231"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "David Pateti"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "David Pateti"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666188817"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2147640"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "597"
+		"2" "4004"
+		"3" "1667"
+		"4" "4191"
+		"5" "3964"
+		"6" "3839"
+		"7" "6052"
+		"8" "4376"
+		"9" "5984"
+		"10" "3952"
+		"11" "5716"
+		"12" "3978"
+		"13" "4064"
+		"14" "1721"
+		"15" "6971"
+		"16" "6276"
+		"17" "1695"
+		"18" "6869"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "David Pateti"
+	"publisher" "David Pateti"
+}
+"config"
+{
+	"installdir" "Chacara"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Chacara.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "Chacara.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Chacara.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2147644"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3504494135913087391"
+				"size" "440790832"
+				"download" "127828944"
+			}
+		}
+	}
+	"2147645"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3365233709637206260"
+				"size" "426252224"
+				"download" "123436720"
+			}
+		}
+	}
+	"2147646"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8296140472225529130"
+				"size" "461666714"
+				"download" "142381968"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10463963"
+			"timeupdated" "1675362284"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26125171"
+"_sha" "50e8bf663e6c6185efc944384107affedf1c18fa"
+"_size" "5675"
