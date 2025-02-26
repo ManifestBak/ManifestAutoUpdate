@@ -1,28 +1,33 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 19:49:05
+## 更新时间：2025-02-26 19:55:50
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2055650 | Rolling Rush| Game |
-| 2053880 | RPG Maker MZ - Character Variety Pack| DLC |
-| 2051420 | Beltex| Game |
-| 2052760 | House Builder VR| Game |
-| 2050480 | TOTEMS 2| Game |
-| 2050050 | Rift Loopers| Game |
-| 2026370 | 从健身房的天花板上救出一个肌肉男| Game |
-| 2027190 | 东方光耀夜 ~ Lost Branch of Legend Soundtrack| Music |
-| 2024950 | Rally 9000| Game |
-| 2023800 | The Blight| Game |
-| 2018850 | Fire Truck Simulator| Game |
-| 2023810 | Island Idle RPG| Game |
-| 2018560 | Weeping Falls Massacre| Game |
-| 2019950 | Wheels of Duty| Game |
-| 2016080 | A Hero's Rest: An RPG Town Simulator| Game |
-| 2022230 | 先觉斗牌 2| Game |
-| 2015650 | Disembowel| Game |
-| 2014690 | Shame Legacy| Game |
-| 2014740 | 末代君主一般向| Game |
-| 2014650 | PHOBOS Project| Game |
-| 2017600 | Ghost Doll| Game |
-| 2016580 | Deneb: Across the Stars| Game |
-| 2019160 | Capcom Arcade 2nd Stadium: Mini-Album Track 1 - SONSON - Main Theme| Music |
+| 2013712 | Kaz's Adventure \| Extra Level Pack| DLC |
+| 2011130 | DonutCrabs| Game |
+| 2013680 | Kaz's Adventure| Game |
+| 2006090 | Ghost Trap| Game |
+| 2008420 | Flashback 2| Game |
+| 2000280 | 是时候吃点寿司了，否则我们会死的！| Game |
+| 2000190 | SSS222: HyperSpace| Game |
+| 2004670 | Frebbventure| Game |
+| 2002570 | SeaOrama: World of Shipping| Game |
+| 2005570 | Liquid Havoc| Game |
+| 2003310 | Wallpaper Alive| Application |
+| 2009900 | RPG Maker MZ - Heroine Character Generator 8 for MZ| DLC |
+| 2003832 | RPG Maker MZ - Particle System Plugin - TRP Particle MZ| DLC |
+| 2003831 | RPG Maker MZ - Shop Materials Tileset - Interior / Exterior| DLC |
+| 2004950 | DRAINUS Soundtrack| Music |
+| 1998200 | God Edge| Game |
+| 2006820 | HUMANKIND™ - Music for the Ages, Vol. VI| Music |
+| 2000980 | Maku| Game |
+| 1997070 | HEN, CHICKS AND CATS| Game |
+| 1999840 | Them and Us Soundtrack| Music |
+| 1996930 | Pacifish| Game |
+| 1991970 | 雀姬的异想世界【音乐与美术集】| Music |
+| 1990580 | 异界生存| Game |
+| 1997140 | 猎魔战纪-附加功能| DLC |
+| 1989990 | Touhou Crisis| Game |
+| 1988940 | からぱりうぉーず| Game |
+| 1989150 | Thread| Game |
+| 1991980 | Mystic Academy: Escape Room| Game |
