@@ -1,0 +1,457 @@
+"appid" "3063440"
+"common"
+{
+	"name" "Lost Castle 2: Original Soundtrack"
+	"type" "Music"
+	"parent" "2445690"
+	"releasestate" "released"
+	"oslist" "windows"
+	"name_localized"
+	{
+		"schinese" "失落城堡2: 原声音乐集"
+		"tchinese" "失落城堡2: 原聲音樂集"
+	}
+	"osarch" ""
+	"osextended" ""
+	"icon" "27cf190e74bf42ea0e282ce9d3adcb59b915408c"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_c616cbd3c89df509bf96ce4b042e5cd230a463aa.jpg"
+	"store_asset_mtime" "1721880392"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hunter Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hunter Studio"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1721879803"
+	"gameid" "3063440"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "2445690"
+	"developer" "Hunter Studio"
+	"publisher" "Hunter Studio"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Lost Castle 2 Original Soundtrack"
+}
+"depots"
+{
+	"3063441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1140834278260247994"
+				"size" "77838615"
+				"download" "77510912"
+			}
+		}
+	}
+	"3063442"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2219183781434692911"
+				"size" "571279752"
+				"download" "505058384"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15131968"
+			"timeupdated" "1721788457"
+		}
+	}
+}
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"german" ""
+			"italian" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"french" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" "一罐盐音乐工作室"
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"english" "Salt Audio Studio"
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"spanish" ""
+			"vietnamese" ""
+			"arabic" ""
+			"koreana" ""
+		}
+		"composer"
+		{
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"german" ""
+			"italian" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"french" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" "一罐盐音乐工作室"
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"english" "Salt Audio Studio"
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"spanish" ""
+			"vietnamese" ""
+			"arabic" ""
+			"koreana" ""
+		}
+		"label"
+		{
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"german" ""
+			"italian" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"french" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" "一罐盐音乐工作室"
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"english" "Salt Audio Studio"
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"spanish" ""
+			"vietnamese" ""
+			"arabic" ""
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"danish" ""
+			"ukrainian" ""
+			"russian" ""
+			"bulgarian" ""
+			"hungarian" ""
+			"indonesian" ""
+			"turkish" ""
+			"greek" ""
+			"german" ""
+			"italian" ""
+			"norwegian" ""
+			"czech" ""
+			"japanese" ""
+			"french" ""
+			"polish" ""
+			"thai" ""
+			"swedish" ""
+			"schinese" ""
+			"tchinese" ""
+			"romanian" ""
+			"finnish" ""
+			"english" ""
+			"dutch" ""
+			"brazilian" ""
+			"portuguese" ""
+			"latam" ""
+			"spanish" ""
+			"vietnamese" ""
+			"arabic" ""
+			"koreana" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "001_Lost Castle 2 Main Theme"
+			"m" "1"
+			"s" "30"
+			"internationalname" "Lost Castle 2 Main Theme"
+			"languagecode" "es"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "002_Tavern Gathering"
+			"m" "1"
+			"s" "45"
+			"internationalname" "Tavern Gathering"
+			"languagecode" "es"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "003_Border Camp"
+			"m" "1"
+			"s" "28"
+			"internationalname" "Border Camp"
+			"languagecode" "es"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "004_Forest of the Border"
+			"m" "1"
+			"s" "22"
+			"internationalname" "Forest of the Border"
+			"languagecode" "es"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "005_Forest Crisis"
+			"m" "1"
+			"s" "36"
+			"internationalname" "Forest Crisis"
+			"languagecode" "es"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "006_Deadly Struggle in the Black Forest"
+			"m" "1"
+			"s" "29"
+			"internationalname" "Deadly Struggle in the Black Forest"
+			"languagecode" "es"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "007_Abandoned Village"
+			"m" "1"
+			"s" "29"
+			"internationalname" "Abandoned Village"
+			"languagecode" "es"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "008_Terrifying Village"
+			"m" "1"
+			"s" "44"
+			"internationalname" "Terrifying Village"
+			"languagecode" "es"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "009_Peril"
+			"m" "1"
+			"s" "32"
+			"internationalname" "Peril"
+			"languagecode" "es"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "010_Mysterious Ruins"
+			"m" "1"
+			"s" "40"
+			"internationalname" "Mysterious Ruins"
+			"languagecode" "es"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "011_Dangerous Mountain Path"
+			"m" "1"
+			"s" "40"
+			"internationalname" "Dangerous Mountain Path"
+			"languagecode" "es"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "012_Dragon\'s Lair"
+			"m" "1"
+			"s" "36"
+			"internationalname" "Dragon\'s Lair"
+			"languagecode" "es"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "013_Broken Bridge"
+			"m" "1"
+			"s" "36"
+			"internationalname" "Broken Bridge"
+			"languagecode" "es"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "014_Battle on the Bridge"
+			"m" "1"
+			"s" "32"
+			"internationalname" "Battle on the Bridge"
+			"languagecode" "es"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "015_Gatekeeper"
+			"m" "1"
+			"s" "32"
+			"internationalname" "Gatekeeper"
+			"languagecode" "es"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "016_Mysterious Castle"
+			"m" "1"
+			"s" "28"
+			"internationalname" "Mysterious Castle"
+			"languagecode" "es"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "017_Demons"
+			"m" "1"
+			"s" "28"
+			"internationalname" "Demons"
+			"languagecode" "es"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "018_Deep within the Lost Castle"
+			"m" "1"
+			"s" "52"
+			"internationalname" "Deep within the Lost Castle"
+			"languagecode" "es"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "019_Mysterious Ethereals"
+			"m" "1"
+			"s" "25"
+			"internationalname" "Mysterious Ethereals"
+			"languagecode" "es"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "020_Adventure Over"
+			"m" "1"
+			"s" "42"
+			"internationalname" "Adventure Over"
+			"languagecode" "es"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "021_Return from Adventure"
+			"m" "1"
+			"s" "36"
+			"internationalname" "Return from Adventure"
+			"languagecode" "es"
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "21d6d2de26c5195a895cce4e8aebd108a324dbf1"
+	}
+}
+"_missing_token" "False"
+"_change_number" "26201212"
+"_sha" "a4deab6c4281e001ca42b48197de029b4c491c0c"
+"_size" "8466"
