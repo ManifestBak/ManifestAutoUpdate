@@ -386,33 +386,33 @@
 		{
 			"public"
 			{
-				"gid" "7029830268184685894"
-				"size" "5110366207"
-				"download" "4036500496"
+				"gid" "6478062251837037832"
+				"size" "5110376505"
+				"download" "4036505040"
 			}
 			"last"
 			{
-				"gid" "5363700485786624056"
-				"size" "5109828120"
-				"download" "4035545824"
+				"gid" "2551546110422624151"
+				"size" "5110071114"
+				"download" "4035605280"
 			}
 			"lastbutone"
 			{
-				"gid" "3992490766106610130"
-				"size" "4844839841"
-				"download" "3879587920"
+				"gid" "7949576201760991239"
+				"size" "5109052672"
+				"download" "4035251040"
 			}
 			"privatetest"
 			{
-				"gid" "7029830268184685894"
-				"size" "5110366207"
-				"download" "4036500496"
+				"gid" "6478062251837037832"
+				"size" "5110376505"
+				"download" "4036505040"
 			}
 			"publictest"
 			{
-				"gid" "7029830268184685894"
-				"size" "5110366207"
-				"download" "4036500496"
+				"gid" "6478062251837037832"
+				"size" "5110376505"
+				"download" "4036505040"
 			}
 		}
 	}
@@ -435,8 +435,8 @@
 			}
 			"lastbutone"
 			{
-				"gid" "6608987497872436786"
-				"size" "264732096"
+				"gid" "7840034770765237100"
+				"size" "264732049"
 				"download" "247823360"
 			}
 			"privatetest"
@@ -466,15 +466,15 @@
 			}
 			"last"
 			{
-				"gid" "3120958214884784583"
-				"size" "2241536538"
-				"download" "2093168864"
+				"gid" "6466753327394476241"
+				"size" "2241503550"
+				"download" "2093165264"
 			}
 			"lastbutone"
 			{
-				"gid" "5047898847625620111"
-				"size" "2241477459"
-				"download" "2093167008"
+				"gid" "8616275232017856506"
+				"size" "2241489372"
+				"download" "2093167744"
 			}
 			"privatetest"
 			{
@@ -503,15 +503,15 @@
 			}
 			"last"
 			{
-				"gid" "6562793334341874462"
-				"size" "2614612372"
-				"download" "2526850880"
+				"gid" "6843923254919375364"
+				"size" "2614579384"
+				"download" "2526847280"
 			}
 			"lastbutone"
 			{
-				"gid" "342329923855410052"
-				"size" "2614601873"
-				"download" "2526850064"
+				"gid" "4236250033023069121"
+				"size" "2614607623"
+				"download" "2526850656"
 			}
 			"privatetest"
 			{
@@ -540,9 +540,15 @@
 			}
 			"last"
 			{
-				"gid" "6694843978881273761"
-				"size" "1216459875"
-				"download" "1157877552"
+				"gid" "5735258272485796451"
+				"size" "1216426887"
+				"download" "1157873952"
+			}
+			"lastbutone"
+			{
+				"gid" "1027681663232145626"
+				"size" "1216485212"
+				"download" "1157884480"
 			}
 			"privatetest"
 			{
@@ -587,32 +593,32 @@
 	{
 		"public"
 		{
-			"buildid" "17488564"
-			"timeupdated" "1740492990"
+			"buildid" "17514927"
+			"timeupdated" "1740574076"
 		}
 		"last"
 		{
-			"buildid" "16186044"
+			"buildid" "16778901"
 			"description" "Last public version which was in default branch"
-			"timeupdated" "1731913543"
+			"timeupdated" "1740507831"
 		}
 		"lastbutone"
 		{
-			"buildid" "13199968"
+			"buildid" "13895613"
 			"description" "last but one public version which was in default branch"
-			"timeupdated" "1730295745"
+			"timeupdated" "1740507813"
 		}
 		"privatetest"
 		{
-			"buildid" "17488564"
+			"buildid" "17514927"
 			"description" "Testing of particular issue with particular player"
-			"timeupdated" "1740492925"
+			"timeupdated" "1740574045"
 		}
 		"publictest"
 		{
-			"buildid" "17488564"
+			"buildid" "17514927"
 			"description" "Public test of issues and new features"
-			"timeupdated" "1740492940"
+			"timeupdated" "1740574037"
 		}
 	}
 	"privatebranches" "1"
@@ -636,6 +642,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27657152"
-"_sha" "5267ab600e84e525ec87db9a290474940d94e5de"
-"_size" "11311"
+"_change_number" "27675469"
+"_sha" "7daac51895e06de017c33b0883849b9664650bfb"
+"_size" "11431"
