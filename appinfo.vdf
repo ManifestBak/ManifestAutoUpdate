@@ -1,0 +1,382 @@
+"appid" "2093410"
+"common"
+{
+	"name" "Supreme Ruler 2030"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "360dfb6f43a5756b3cbb5d580962b952081a4154"
+	"clienticon" "280fa8c76ded05ab2dd25016d1a43b7a79afb0b1"
+	"clienttga" "4529f05c0f2601d4ea967d55e96722feb8636209"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692057600"
+		"tested_build_id" "11862075"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "89.26487747957992"
+			"height_pct" "64.28401804796962"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "89.26487747957992"
+				"height_pct" "64.28401804796962"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1690293340"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BattleGoat Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BattleGoat Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Supreme Ruler"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1690308042"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2093410"
+	"store_tags"
+	{
+		"0" "1678"
+		"1" "1708"
+		"2" "599"
+		"3" "1676"
+		"4" "4364"
+		"5" "4684"
+		"6" "4853"
+		"7" "1669"
+		"8" "4168"
+		"9" "9"
+		"10" "12472"
+		"11" "3859"
+		"12" "4182"
+		"13" "3810"
+		"14" "6310"
+		"15" "5673"
+		"16" "4695"
+		"17" "4754"
+		"18" "3813"
+		"19" "4191"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"developer" "BattleGoat Studios"
+	"publisher" "BattleGoat Studios"
+	"homepage" "http://www.battlegoat.com"
+	"listofdlc" "2648350,2702500,2878240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Supreme Ruler 2030"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SupremeRuler2030.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,portuguese,brazilian"
+	"workshopdepot" "2093410"
+	"hasdepotsindlc" "1"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2093411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4135650068502049170"
+				"size" "1922476282"
+				"download" "801429312"
+			}
+			"fasttrack"
+			{
+				"gid" "4135650068502049170"
+				"size" "1922476282"
+				"download" "801429312"
+			}
+		}
+	}
+	"2702500"
+	{
+		"dlcappid" "2702500"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3509455874406295322"
+				"size" "218851043"
+				"download" "104670832"
+			}
+			"fasttrack"
+			{
+				"gid" "3509455874406295322"
+				"size" "218851043"
+				"download" "104670832"
+			}
+		}
+	}
+	"2648350"
+	{
+		"dlcappid" "2648350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4506535851177927528"
+				"size" "42212295"
+				"download" "17249728"
+			}
+			"fasttrack"
+			{
+				"gid" "4506535851177927528"
+				"size" "42212295"
+				"download" "17249728"
+			}
+		}
+	}
+	"2878250"
+	{
+		"dlcappid" "2878250"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "344867822313140308"
+				"size" "66835623"
+				"download" "19003504"
+			}
+			"fasttrack"
+			{
+				"gid" "344867822313140308"
+				"size" "66835623"
+				"download" "19003504"
+			}
+		}
+	}
+	"2878240"
+	{
+		"dlcappid" "2878240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8837611049164037232"
+				"size" "176638749"
+				"download" "84511824"
+			}
+			"fasttrack"
+			{
+				"gid" "8837611049164037232"
+				"size" "176638749"
+				"download" "84511824"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17357727"
+			"timeupdated" "1740086205"
+		}
+		"fasttrack"
+		{
+			"buildid" "17357727"
+			"description" "Latest Updates Testing Branch"
+			"timeupdated" "1739482560"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games\\Supreme Ruler 2030\\SteamCloud"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27582796"
+"_sha" "2a8c6c900b945888a494ce539465c47558b6c40d"
+"_size" "6547"
