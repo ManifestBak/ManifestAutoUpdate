@@ -1,0 +1,503 @@
+"appid" "574180"
+"common"
+{
+	"name" "Rem Survival"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"clienttga" "401bb554c1f8313c54c4890c12a3f497d9dbcc66"
+	"clienticon" "70ca4466e9d428764ab4ebf6c8a3bdf31e3b508d"
+	"icon" "3404394a012d824749eb614ba12c65d0d5764e6e"
+	"clienticns" "3107c1374f17e5e40f6e5ea97ed5dccabaa2b19e"
+	"logo" "414f17974d4cb607aa75991a09d97a8396029c80"
+	"logo_small" "414f17974d4cb607aa75991a09d97a8396029c80_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "574180_eula_0"
+			"name" "Rem Survival EULA"
+			"url" "https://store.steampowered.com//eula/574180_eula_0"
+			"version" "2"
+		}
+	}
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726704000"
+		"tested_build_id" "15481583"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"market_presence" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.4002309372506"
+			"height_pct" "46.96138704325354"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.4002309372506"
+				"height_pct" "46.96138704325354"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1709434354"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Immortal Hand Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Immortal Hand Studios"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "3"
+		"5" "28"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_30" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1614963540"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "574180"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "1702"
+		"3" "1695"
+		"4" "7332"
+		"5" "1643"
+		"6" "493"
+		"7" "599"
+		"8" "492"
+		"9" "3839"
+		"10" "21"
+		"11" "19"
+		"12" "128"
+		"13" "122"
+		"14" "4667"
+		"15" "3859"
+		"16" "113"
+		"17" "1663"
+		"18" "1685"
+		"19" "9"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"gamedir" "Rem Survival"
+	"serverbrowsername" "Rem Survival"
+	"developer" "Immortal Hand Studios"
+	"publisher" "Immortal Hand Studios"
+	"homepage" "https://remsurvival.com"
+	"listofdlc" "1272930"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rem Survival"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "RemSurvival\\Binaries\\Win64\\RemSurvival-Win64-Shipping.exe"
+			"arguments" "-dx12"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Rem Survival DX12 (Default)"
+			}
+			"description" "Rem Survival DX12 (Default)"
+		}
+		"3"
+		{
+			"executable" "RemSurvival\\Binaries\\Win64\\RemSurvival-Win64-Shipping.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Rem Survival DX11"
+			}
+			"description" "Rem Survival DX11"
+		}
+		"4"
+		{
+			"executable" "RemSurvival\\Binaries\\Linux\\RemSurvival-Linux-Shipping"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Rem Survival SteamOS"
+			}
+			"description" "Rem Survival SteamOS"
+		}
+		"5"
+		{
+			"executable" "RemSurvival\\Binaries\\Linux\\RemSurvival-Linux-Shipping"
+			"arguments" "steamtinkerlaunch %command%"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Rem Survival SteamOS - Tinker"
+			}
+			"description" "Rem Survival SteamOS - Tinker"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"app_mappings"
+	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "steam-deck"
+		}
+		"1"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"branch" "steam-deck-test-branch"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"workshopdepot" "574180"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"574181"
+	{
+	}
+	"574183"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6929851087892336388"
+				"size" "60329316584"
+				"download" "54914526560"
+			}
+			"public-test-branch"
+			{
+				"gid" "5683438786382689026"
+				"size" "47757693446"
+				"download" "42958996128"
+			}
+		}
+	}
+	"574184"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8803200546038705158"
+				"size" "36808131962"
+				"download" "36694072128"
+			}
+			"public-test-branch"
+			{
+				"gid" "8803200546038705158"
+				"size" "36808131962"
+				"download" "36694072128"
+			}
+		}
+	}
+	"574185"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"steamdeck" "1"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16972952"
+			"timeupdated" "1736578487"
+		}
+		"public-test-branch"
+		{
+			"buildid" "17496339"
+			"description" "Public testing on upcoming features and updates"
+			"timeupdated" "1740470970"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Rem Survival/Saves"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Rem Survival/Saves"
+			"pattern" "*.data"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27651457"
+"_sha" "b1fcee0e33ac541336df158639e349db156aecf1"
+"_size" "8964"
