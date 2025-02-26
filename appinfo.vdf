@@ -1,0 +1,299 @@
+"appid" "3119780"
+"common"
+{
+	"name" "Drive Thru Miami"
+	"type" "Game"
+	"icon" "9844aa01d3481ee6c0d856246fd5e83bbfe34bee"
+	"clienticon" "e903ef2a0230bf609a051bbb4a03a4744246e92c"
+	"clienttga" "d937327fb308794b3c3966a908fe055f9e98c154"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "b9165b9d4f0925cdfd0a70c664a21af568aff035/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.4898663153579"
+			"height_pct" "78.81944444444444"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "58a546eb8ae3b7cd78f70573c0271fc72aa91e28/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "58a546eb8ae3b7cd78f70573c0271fc72aa91e28/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "ab7aa666a340238c3df738b168b2f8e5e3e5affa/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "ab7aa666a340238c3df738b168b2f8e5e3e5affa/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ab7aa666a340238c3df738b168b2f8e5e3e5affa/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.4898663153579"
+				"height_pct" "78.81944444444444"
+			}
+			"image"
+			{
+				"english" "ca516a42a5abac7ae6213109965abaa6f9be01d8/logo.png"
+			}
+			"image2x"
+			{
+				"english" "ca516a42a5abac7ae6213109965abaa6f9be01d8/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "5e61d8cd2b980afc51f7f8bccd7676b869a6fa10/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "5e61d8cd2b980afc51f7f8bccd7676b869a6fa10/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730139773"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alkame Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Alkame Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "AlkameGames"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1730139368"
+	"community_hub_visible" "1"
+	"gameid" "3119780"
+	"store_tags"
+	{
+		"0" "3920"
+		"1" "12472"
+		"2" "9204"
+		"3" "1702"
+		"4" "4202"
+		"5" "10235"
+		"6" "4191"
+		"7" "3839"
+		"8" "7481"
+		"9" "599"
+		"10" "4305"
+		"11" "4175"
+		"12" "13190"
+		"13" "4182"
+		"14" "493"
+		"15" "3859"
+		"16" "1667"
+		"17" "4667"
+		"18" "1659"
+		"19" "42089"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Alkame Games"
+	"publisher" "Alkame Games"
+}
+"config"
+{
+	"installdir" "DriveThruMiami"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Drive_Thru.exe"
+		}
+	}
+}
+"depots"
+{
+	"3119781"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5085202355684118802"
+				"size" "2941862911"
+				"download" "894645968"
+			}
+		}
+	}
+	"3119782"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5577070300194754780"
+				"size" "2941862911"
+				"download" "894700656"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16582945"
+			"timeupdated" "1732908061"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27587879"
+"_sha" "7308a639e16692db698f2de26160bb779cf5c820"
+"_size" "4664"
