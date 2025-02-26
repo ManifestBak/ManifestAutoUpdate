@@ -1,0 +1,185 @@
+"appid" "238110"
+"common"
+{
+	"name" "Arcane Saga Online"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "c94df2e5e044d0dd527c468a7eead97095d9adde"
+	"clienttga" "b2e7e110b147cd0121686e0b336f9de7c8075d46"
+	"icon" "15ee5840d022bc01588294b4f0edfcb025f8065b"
+	"logo" "a3e18de1116bd44bcea6be050ba69b0cd0bc728b"
+	"logo_small" "a3e18de1116bd44bcea6be050ba69b0cd0bc728b_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1677024000"
+		"tested_build_id" "78332"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Arcane Saga Online"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_4572ad8415889d7d34cf3ccba56e18a8814a4c07.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CJ Internet Game Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CJ Games Global"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+		"1" "1"
+		"2" "25"
+		"3" "3"
+		"4" "29"
+	}
+	"category"
+	{
+		"category_20" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"steam_release_date" "1370543400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "238110"
+	"exfgls" "3"
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "CJ Internet Game Studio"
+	"gamedir" "ValveTestApp238110"
+	"homepage" "http://www.ArcaneSaga.com"
+	"icon" ""
+	"isfreeapp" "1"
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "CJ Games Global"
+	"listofdlc" "238120,238121,238122"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ArcaneSaga"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "MarbleStation\\GlbMSLauncher.exe"
+			"arguments" "as"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"installscriptsignature" "23d1d93cb86eafe6709c06485dc3f00fd669aca5502107b47a016cfda01c066ae8261fa64fbd68964288eee3e5b654ca13aec22514e48d32a2394de585e5e570fec02b2208b90b444c01dfa43ff4ddf63eda37939b438fdf4d92c1a4f26f55eeb5c4d07baa2fc88a97f855b06a88b7cb31313ebade34e19fa396d9cadfa2cec7"
+	"installscriptoverride" "1"
+}
+"install"
+{
+	"registry"
+	{
+		"hkey_local_machine\\software\\netmarblesteam\\arcane saga online"
+		{
+			"string"
+			{
+				"installedfilename" "%INSTALLDIR%\\ArcaneSagaLauncher.exe"
+				"runfilename" "%INSTALLDIR%\\ArcaneSagaLauncher.exe"
+			}
+		}
+	}
+	"run process"
+	{
+		"directx"
+		{
+			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\238110"
+			"process 1" "%INSTALLDIR%\\MarbleStation\\directx\\dxwebsetup.exe"
+			"command 1" "/q"
+			"nocleanup" "1"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"238111"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5849241545682748854"
+				"size" "2644602810"
+				"download" "0"
+			}
+		}
+	}
+	"markdlcdepots" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "78332"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "e0386ef303bf2e1fd1a3374e9b8c95d28f7d11fd"
+"_size" "3900"
