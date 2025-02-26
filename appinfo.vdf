@@ -1,0 +1,166 @@
+"appid" "629410"
+"common"
+{
+	"name" "VectorWave"
+	"type" "Game"
+	"releasestate" "released"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "1"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"eulas"
+	{
+	}
+	"clienticon" "fe6d97296d24befcfbe362d74433ed6cef1f25fc"
+	"clienttga" "3a167d4ba538af4c9349ac375002de210ae113e6"
+	"icon" "69db0549cdb3297614090c21cc1f76c387752fc3"
+	"openvrsupport" "1"
+	"logo" "dd00a603e7c8eb9cc9ab26295e47b71b57da3bfd"
+	"logo_small" "dd00a603e7c8eb9cc9ab26295e47b71b57da3bfd_thumb"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"restricted_countries" "DE"
+	"metacritic_name" "VectorWave"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_a50ac1a81d05c24c158930721677d1e4099e089f.jpg"
+	"store_asset_mtime" "1510899439"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fizzure Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fizzure Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_52" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1510900440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "629410"
+	"exfgls" "3"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "597"
+		"3" "19"
+		"4" "21978"
+	}
+	"review_score" "7"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "Fizzure Entertainment"
+	"publisher" "Fizzure Entertainment"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "VectorWave"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VectorWave.exe"
+			"type" "vr"
+		}
+	}
+}
+"depots"
+{
+	"629411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6305378076907049043"
+				"size" "947565227"
+				"download" "107200480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2991462"
+			"timeupdated" "1533017677"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "FizzureEntertainment/VectorWave"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27015870"
+"_sha" "32eb9b886948f5a4b7167355e1383eb55a197319"
+"_size" "2701"
