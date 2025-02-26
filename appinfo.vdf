@@ -1,0 +1,284 @@
+"appid" "2467810"
+"common"
+{
+	"name" "Orebound"
+	"type" "Game"
+	"icon" "6e959511da8debb073921241c467cf19db5917e6"
+	"clienttga" "a22404e60653372c56562b182917d1b94478e5d9"
+	"clienticon" "a0db8c24ffab164840b0f26ba3270ccf9833b5e8"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.864041790346874"
+			"height_pct" "71.06770382940701"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "56.864041790346874"
+				"height_pct" "71.06770382940701"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734443383"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Emberforge"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Emberforge"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1729789478"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2467810"
+	"store_tags"
+	{
+		"0" "8945"
+		"1" "599"
+		"2" "255534"
+		"3" "1702"
+		"4" "7332"
+		"5" "5981"
+		"6" "1643"
+		"7" "1732"
+		"8" "1695"
+		"9" "3834"
+		"10" "4182"
+		"11" "21"
+		"12" "220585"
+		"13" "3810"
+		"14" "3839"
+		"15" "4106"
+		"16" "9204"
+		"17" "597"
+		"18" "5125"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Emberforge"
+	"publisher" "Emberforge"
+}
+"config"
+{
+	"installdir" "Orebound"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OreBound.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "OreBound.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Orebound ( DirectX 11 ) "
+			}
+			"description" "Orebound ( DirectX 11 ) "
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2467811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1786024645696159613"
+				"size" "4954700382"
+				"download" "4690547904"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16963262"
+			"timeupdated" "1736785732"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "OreBound/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27660061"
+"_sha" "548118a1f330150148531e35aea032739ffe3a7f"
+"_size" "4308"
