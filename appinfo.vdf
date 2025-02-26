@@ -29,8 +29,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1695340800"
-		"tested_build_id" "12212300"
+		"test_timestamp" "1705104000"
+		"tested_build_id" "13126488"
 		"tests"
 		{
 			"0"
@@ -69,9 +69,10 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-8.0-4"
+			"recommended_runtime" "proton-8.0RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -95,6 +96,55 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1704853737"
@@ -134,6 +184,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -193,8 +244,8 @@
 	"store_tags"
 	{
 		"0" "42804"
-		"1" "122"
-		"2" "6276"
+		"1" "6276"
+		"2" "122"
 		"3" "3959"
 		"4" "5547"
 		"5" "4885"
@@ -245,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "1068553508344757689"
-				"size" "1755952515"
-				"download" "534222224"
+				"gid" "1036410355516912068"
+				"size" "1747489121"
+				"download" "527736016"
 			}
 		}
 	}
@@ -255,10 +306,11 @@
 	{
 		"public"
 		{
-			"buildid" "13156050"
-			"timeupdated" "1705059222"
+			"buildid" "17511550"
+			"timeupdated" "1740566040"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -279,6 +331,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21863731"
-"_sha" "42b0287e2dd89aa3a8f5249e778db7eb0d6ae659"
-"_size" "4697"
+"_change_number" "27673383"
+"_sha" "b34b0d5fd78b92e7a6d0791b276cdc68dd8d9283"
+"_size" "5452"
