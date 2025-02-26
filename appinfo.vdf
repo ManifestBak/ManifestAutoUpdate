@@ -1,0 +1,216 @@
+"appid" "3107230"
+"common"
+{
+	"name" "Pantheon: Rise of the Fallen"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "95562fcff7f4d7c5bfc55ac1e98bebfc88471dcd"
+	"icon" "d351df57e0eab56c9376b16b57331d42d481c968"
+	"clienticon" "ccff6295d5a3e2d32cee0171fd6a4a757c869181"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "3107230_eula_0"
+			"name" "Pantheon: Rise of the Fallen EULA"
+			"url" "https://store.steampowered.com//eula/3107230_eula_0"
+			"version" "3"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "70016dfc3504b35dfc7e8e452441254e6d15d233/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.457888493475686"
+			"height_pct" "37.6619073438159"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "7aaa9e725638aa1b74e5380c7c69c89ae8c095c9/library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "b1a770db949026bf5a5cd1852b3e74be1fc6a94b/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "b1a770db949026bf5a5cd1852b3e74be1fc6a94b/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b1a770db949026bf5a5cd1852b3e74be1fc6a94b/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "19e26948a29c19509a60d558e8747e93436bdde3/logo.png"
+			}
+			"image2x"
+			{
+				"english" "19e26948a29c19509a60d558e8747e93436bdde3/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.457888493475686"
+				"height_pct" "37.6619073438159"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0ac302c90b1ae0c2f4addf5b335c115bc267001f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0ac302c90b1ae0c2f4addf5b335c115bc267001f/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731411133"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Visionary Realms"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Visionary Realms"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "29"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1734105077"
+	"community_hub_visible" "1"
+	"gameid" "3107230"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "122"
+		"2" "1754"
+		"3" "4106"
+		"4" "128"
+		"5" "4191"
+		"6" "1684"
+		"7" "4252"
+		"8" "1695"
+		"9" "493"
+		"10" "4747"
+		"11" "3859"
+		"12" "1742"
+		"13" "492"
+		"14" "3843"
+		"15" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Visionary Realms"
+	"publisher" "Visionary Realms"
+	"homepage" "https://www.pantheonmmo.com/"
+}
+"config"
+{
+	"installdir" "Pantheon Rise of the Fallen"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pantheon.exe"
+		}
+	}
+}
+"depots"
+{
+	"3107231"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4302198236698014684"
+				"size" "7058207616"
+				"download" "6049384944"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17452442"
+			"timeupdated" "1740164934"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27651493"
+"_sha" "1ccfe2c02d7ed694854c3528e67df798bff35514"
+"_size" "3782"
