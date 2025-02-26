@@ -1,0 +1,204 @@
+"appid" "1304350"
+"common"
+{
+	"name" "Urge"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "585b0cc6c9c290701c7a75053efaddc1ed95e94e"
+	"logo_small" "585b0cc6c9c290701c7a75053efaddc1ed95e94e_thumb"
+	"icon" "2c27a80d538631beeaf7deaccdba21782bffbed9"
+	"clienticon" "bdb100cdb1c9f6b8ced98ba8df9ada343951a264"
+	"clienttga" "c4f336d572997b4972d4a3467b9eecfe206d56df"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "10.103525881470375"
+			"height_pct" "18.33491648856173"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "10.103525881470375"
+				"height_pct" "18.33491648856173"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1740192124"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EnDrew"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "EnDrew"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1636977114"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1304350"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "4166"
+		"2" "3978"
+		"3" "7332"
+		"4" "3810"
+		"5" "3834"
+		"6" "1643"
+		"7" "1662"
+		"8" "1667"
+		"9" "1702"
+		"10" "1695"
+		"11" "19"
+		"12" "3835"
+		"13" "493"
+		"14" "4345"
+		"15" "3839"
+		"16" "1774"
+		"17" "492"
+		"18" "353880"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "EnDrew"
+	"publisher" "EnDrew"
+}
+"config"
+{
+	"installdir" "Urge"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Urge.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1304351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5434248907819339567"
+				"size" "2105686832"
+				"download" "726298240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17399353"
+			"timeupdated" "1739832302"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27606567"
+"_sha" "35dff732c94b450b5a9adda559e190689d05af8b"
+"_size" "3130"
