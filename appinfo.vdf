@@ -1,0 +1,283 @@
+"appid" "3402530"
+"common"
+{
+	"name" "Screen Cat"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "c7d8da8f30d74f02b8da64bdf8aee29e36fe6144"
+	"clienttga" "bd7ed2e2f03558f802b511161c53bc773f5e86df"
+	"clienticon" "541bc250f7fdb739fb39fe40db8767e3bbddbd8d"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"aicontenttype" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1737072000"
+		"tested_build_id" "16985529"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "aeb6519bced9351151955323e8ebb7fe8dbc66ae/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "19.99538362342878"
+			"height_pct" "56.120886957017156"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "b7e474a6b02d83d00a19fb91935bfe0f2ac0a0a8/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "b7e474a6b02d83d00a19fb91935bfe0f2ac0a0a8/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "ac20620de322ad8d6f508f170f3686194a0a4c1f/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "ac20620de322ad8d6f508f170f3686194a0a4c1f/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ac20620de322ad8d6f508f170f3686194a0a4c1f/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "f7253080ff008b9f528b9bb168efa1e7556870f2/logo.png"
+			}
+			"image2x"
+			{
+				"english" "53cc271c62d7b72c6c05cf031a1f2d41115133b5/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "19.99538362342878"
+				"height_pct" "56.120886957017156"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e37c4fc251f7d9c6103ef54c79e07caf99012292/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "e37c4fc251f7d9c6103ef54c79e07caf99012292/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736158481"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vorh Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vorh Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1736196266"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "3402530"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "599"
+		"2" "1654"
+		"3" "17894"
+		"4" "4726"
+		"5" "615955"
+		"6" "3871"
+		"7" "3964"
+		"8" "10235"
+		"9" "492"
+		"10" "4182"
+		"11" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Vorh Games"
+	"publisher" "Vorh Games"
+}
+"config"
+{
+	"installdir" "Screen Cat"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Screen Cat/ScreenCat.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"3402531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2332875467017954581"
+				"size" "136223686"
+				"download" "36834320"
+			}
+		}
+	}
+	"workshopdepot" "3402530"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17466866"
+			"timeupdated" "1740226142"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27629372"
+"_sha" "cccf3a8144639474010642e8f71e408e349e9f7e"
+"_size" "5066"
