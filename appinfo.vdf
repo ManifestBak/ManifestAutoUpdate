@@ -1,0 +1,264 @@
+"appid" "2136110"
+"common"
+{
+	"name" "Vox Populi: Brasil 2022"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "Vox Populi: Brazil 2022"
+		"french" "Vox Populi: Brazil 2022"
+	}
+	"icon" "ad719ad8feda357b9821de6564a3298ff42df0b3"
+	"clienticon" "ae36b8981f196a76e3bf7d990054c0312c03a96d"
+	"clienttga" "e08e808a6bfd2c390988d46b6ac6616d47a9e4f1"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+		"spanish" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"brazilian" "d124aefdd241fc615e3421e4d3122c3719ae9c61/capsule_231x87_brazilian.jpg"
+		"english" "378032b9599dd04a6692d6cccd312df24098ff09/capsule_231x87.jpg"
+		"portuguese" "d124aefdd241fc615e3421e4d3122c3719ae9c61/capsule_231x87_portuguese.jpg"
+	}
+	"header_image"
+	{
+		"brazilian" "header_brazilian.jpg"
+		"english" "header.jpg"
+		"portuguese" "header_portuguese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "pt-br,en,pt"
+		"library_hero" "en"
+		"library_logo" "pt-br,en,pt"
+		"library_header" "pt-br,en,pt"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.96453028747628"
+			"height_pct" "73.95132457320774"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"brazilian" "90da593c200f560cad74422b979765ed31160d38/library_600x900_brazilian.jpg"
+				"english" "4423837b4a2fdb93373ef5eb3273885e8c85b2dc/library_600x900.jpg"
+				"portuguese" "90da593c200f560cad74422b979765ed31160d38/library_600x900_portuguese.jpg"
+			}
+			"image2x"
+			{
+				"brazilian" "90da593c200f560cad74422b979765ed31160d38/library_600x900_brazilian_2x.jpg"
+				"english" "4423837b4a2fdb93373ef5eb3273885e8c85b2dc/library_600x900_2x.jpg"
+				"portuguese" "90da593c200f560cad74422b979765ed31160d38/library_600x900_portuguese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "24.96453028747628"
+				"height_pct" "73.95132457320774"
+			}
+			"image"
+			{
+				"brazilian" "logo_brazilian.png"
+				"english" "logo.png"
+				"portuguese" "logo_portuguese.png"
+			}
+			"image2x"
+			{
+				"brazilian" "logo_brazilian_2x.png"
+				"english" "logo_2x.png"
+				"portuguese" "logo_portuguese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"brazilian" "18aafbf30aa209a74d94415b9825ac23b6919704/library_header_brazilian.jpg"
+				"english" "3d2bce82be804af048b990df29b48dfd12db6df0/library_header.jpg"
+				"portuguese" "18aafbf30aa209a74d94415b9825ac23b6919704/library_header_portuguese.jpg"
+			}
+			"image2x"
+			{
+				"brazilian" "18aafbf30aa209a74d94415b9825ac23b6919704/library_header_brazilian_2x.jpg"
+				"english" "3d2bce82be804af048b990df29b48dfd12db6df0/library_header_2x.jpg"
+				"portuguese" "18aafbf30aa209a74d94415b9825ac23b6919704/library_header_portuguese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732776903"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Velsin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Velsin"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Vox Populi"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708084995"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2136110"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4754"
+		"2" "3964"
+		"3" "26921"
+		"4" "791774"
+		"5" "1666"
+		"6" "5125"
+		"7" "32322"
+		"8" "12472"
+		"9" "3987"
+		"10" "1676"
+		"11" "17389"
+		"12" "492"
+		"13" "599"
+		"14" "3871"
+		"15" "6426"
+		"16" "5673"
+		"17" "4182"
+		"18" "4845"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Velsin"
+	"publisher" "Velsin"
+}
+"config"
+{
+	"installdir" "Vox Populi  Brazil 2022"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Vox Populi - Brasil 2022.exe"
+		}
+	}
+}
+"depots"
+{
+	"2136111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2803998075336715882"
+				"size" "1152842042"
+				"download" "166930144"
+			}
+			"v1.01.01.d"
+			{
+				"gid" "8824249583993567773"
+				"size" "1116130642"
+				"download" "124635472"
+			}
+			"v1.02.00"
+			{
+				"gid" "4392035119584470801"
+				"size" "1152801914"
+				"download" "166927280"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16584546"
+			"timeupdated" "1732924343"
+		}
+		"v1.01.01.d"
+		{
+			"buildid" "13700414"
+			"description" "v.01.01.d"
+			"timeupdated" "1731951142"
+		}
+		"v1.02.00"
+		{
+			"buildid" "16449143"
+			"description" "v1.02.00"
+			"timeupdated" "1732924360"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27340027"
+"_sha" "82ae0e843f25e8cd8352c31b6c18182b35189be3"
+"_size" "5261"
