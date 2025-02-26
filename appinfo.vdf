@@ -1,0 +1,259 @@
+"appid" "1530760"
+"common"
+{
+	"name" "Kaigrad"
+	"type" "Game"
+	"logo" "2a56363d5c145de8c4c23c7405e813ffd909ea21"
+	"logo_small" "2a56363d5c145de8c4c23c7405e813ffd909ea21_thumb"
+	"icon" "8bfdc1761f710e0f9f54068f3a08f3e631ac8e36"
+	"clienticns" "a9180cf0444d1012dfb87a6a54b143e89f05e009"
+	"linuxclienticon" "2dd937b3d9f542d28122083aa94837301f652fa4"
+	"clienttga" "5d94f1c6bcc5dc80fb5f2c905ae561af9390fac7"
+	"clienticon" "ec66679a6c9946c24e84724a0cceb85b551db169"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"russian" "Кайград"
+	}
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"restricted_countries" "DE"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en,ru"
+		"library_logo" "ru,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "74.70967741935485"
+			"height_pct" "31.74918863294552"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"russian" "library_hero_russian.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"russian" "logo_russian.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "74.70967741935485"
+				"height_pct" "31.74918863294552"
+			}
+		}
+	}
+	"store_asset_mtime" "1617991395"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Offline Games Group"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Team Tarneos"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Offline Games Group"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "37"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1622023124"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1530760"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "4604"
+		"2" "5611"
+		"3" "1742"
+		"4" "5030"
+		"5" "6426"
+		"6" "4166"
+		"7" "4342"
+		"8" "15277"
+		"9" "5984"
+		"10" "1714"
+		"11" "21"
+		"12" "1721"
+		"13" "5716"
+		"14" "1651"
+		"15" "4711"
+		"16" "11014"
+		"17" "6650"
+		"18" "3834"
+		"19" "5923"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Offline Games Group"
+	"publisher" "Offline Games Group"
+	"isfreeapp" "1"
+	"listofdlc" "1623360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kaigrad"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kaigrad-32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Kaigrad-32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "Kaigrad.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "9"
+}
+"depots"
+{
+	"baselanguages" "russian"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1530761"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4136116748632132570"
+				"size" "309330160"
+				"download" "199218688"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7580847"
+			"timeupdated" "1634899274"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26957110"
+"_sha" "78ebac91ecb2e73823662ce647c7f30e1dd19ea1"
+"_size" "4251"
