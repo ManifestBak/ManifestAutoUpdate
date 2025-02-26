@@ -1,0 +1,303 @@
+"appid" "2413190"
+"common"
+{
+	"name" "Emergency Cleanup Co."
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "68d08455bbbe4ebb38758a4d98a6770c1edf0d5f"
+	"clienticon" "38faeaac3da73a23592b3c64a0162a40c139943d"
+	"clienttga" "b09e4dbd50b14c874d3d09c6013b5612d009efd5"
+	"languages"
+	{
+		"english" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.174578870234015"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.174578870234015"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1735053342"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Smallroom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Smallroom"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1731427287"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2413190"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1654"
+		"2" "599"
+		"3" "84"
+		"4" "3839"
+		"5" "3810"
+		"6" "5350"
+		"7" "4136"
+		"8" "3968"
+		"9" "9204"
+		"10" "1719"
+		"11" "16689"
+		"12" "4191"
+		"13" "4175"
+		"14" "4305"
+		"15" "10397"
+		"16" "4182"
+		"17" "97376"
+		"18" "10235"
+		"19" "1663"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Smallroom"
+	"publisher" "Smallroom"
+}
+"config"
+{
+	"installdir" "Emergency Cleanup Co"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Emergency Cleanup Co.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2413191"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "246957941974202138"
+				"size" "23125285532"
+				"download" "5234994880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17125198"
+			"timeupdated" "1737755312"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27625363"
+"_sha" "e3f61e89a36fd0359ebe05c0f7b376abc0146028"
+"_size" "4481"
