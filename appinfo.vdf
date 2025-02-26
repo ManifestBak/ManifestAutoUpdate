@@ -1,0 +1,283 @@
+"appid" "1204470"
+"common"
+{
+	"name" "Space Elite Force II"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"osextended" ""
+	"logo" "623979d8f0fec7ef61e2c35bd1634d9e5ced62c3"
+	"logo_small" "623979d8f0fec7ef61e2c35bd1634d9e5ced62c3_thumb"
+	"icon" "fbe3161e9b00d936ff2c439384c240ec0c43e8a2"
+	"clienticon" "84908a0826f617c322fc8d233cf30f56c1226279"
+	"clienttga" "cbba581b0d911089b4c41b6bd6e390edf110623d"
+	"metacritic_name" "Space Elite Force II"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+	}
+	"store_asset_mtime" "1715183353"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rising Moon Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rising Moon Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Rising Moon Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1580738259"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1204470"
+	"store_tags"
+	{
+		"0" "3798"
+		"1" "4255"
+		"2" "4885"
+		"3" "4182"
+		"4" "1774"
+		"5" "1773"
+		"6" "3871"
+		"7" "5765"
+		"8" "19"
+		"9" "597"
+		"10" "3964"
+		"11" "4252"
+		"12" "4305"
+		"13" "1755"
+		"14" "3942"
+		"15" "92092"
+		"16" "5154"
+		"17" "4004"
+		"18" "6691"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Rising Moon Games"
+	"publisher" "Rising Moon Games"
+}
+"config"
+{
+	"installdir" "Space Elite Force II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SPACE ELITE FORCE II.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SPACE ELITE FORCE II.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,brazilian"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1204471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4096111269101819101"
+				"size" "436497138"
+				"download" "146056080"
+			}
+		}
+	}
+	"1204472"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4611930322209132070"
+				"size" "442504714"
+				"download" "137684432"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13456143"
+			"timeupdated" "1707943522"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "2"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SPACE ELITE FORCE II_Data\\Saves"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/moraesstudio/SPACE ELITE FORCE II"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26997904"
+"_sha" "16ef99fddecf4d70fbe797e1fda98b240c6d12e7"
+"_size" "4504"
