@@ -36,6 +36,50 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1739923200"
+		"tested_build_id" "17321283"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -344,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "5349757058961234038"
-				"size" "487064889"
-				"download" "259739008"
+				"gid" "9121425257129089930"
+				"size" "487047658"
+				"download" "259737360"
 			}
 			"macos-universal-test"
 			{
@@ -356,15 +400,15 @@
 			}
 			"windows7compatibility"
 			{
-				"gid" "6002706092942727108"
-				"size" "432441122"
-				"download" "245901552"
+				"gid" "3056683076514648796"
+				"size" "432423891"
+				"download" "245899600"
 			}
 			"windows11test"
 			{
-				"gid" "5110447536414092999"
-				"size" "496581134"
-				"download" "263103376"
+				"gid" "2206976643318341356"
+				"size" "496563903"
+				"download" "263101424"
 			}
 			"macos-arm64"
 			{
@@ -385,15 +429,15 @@
 		{
 			"public"
 			{
-				"gid" "7528996241791043795"
-				"size" "468033058"
-				"download" "254549696"
+				"gid" "559285463002198070"
+				"size" "468015827"
+				"download" "254547744"
 			}
 			"macos-universal-test"
 			{
-				"gid" "5036048974368176704"
-				"size" "659582986"
-				"download" "309442720"
+				"gid" "1394911625209800563"
+				"size" "659565755"
+				"download" "309440768"
 			}
 			"windows7compatibility"
 			{
@@ -409,9 +453,9 @@
 			}
 			"macos-arm64"
 			{
-				"gid" "5845316857292768831"
-				"size" "463713762"
-				"download" "246574528"
+				"gid" "7038106466805220784"
+				"size" "463696531"
+				"download" "246572576"
 			}
 		}
 	}
@@ -419,32 +463,32 @@
 	{
 		"public"
 		{
-			"buildid" "17499160"
-			"timeupdated" "1740493923"
+			"buildid" "17514897"
+			"timeupdated" "1740576794"
 		}
 		"macos-universal-test"
 		{
-			"buildid" "17500938"
+			"buildid" "17515542"
 			"description" "MacOS-universal-TEST"
-			"timeupdated" "1740493873"
+			"timeupdated" "1740576736"
 		}
 		"windows7compatibility"
 		{
-			"buildid" "17500932"
+			"buildid" "17515530"
 			"description" "WIN7旧版本"
-			"timeupdated" "1740493841"
+			"timeupdated" "1740576710"
 		}
 		"windows11test"
 		{
-			"buildid" "17500935"
+			"buildid" "17515537"
 			"description" "WIN11测试版"
-			"timeupdated" "1740493859"
+			"timeupdated" "1740576721"
 		}
 		"macos-arm64"
 		{
-			"buildid" "17500942"
+			"buildid" "17515553"
 			"description" "MacOS-arm64"
-			"timeupdated" "1740493894"
+			"timeupdated" "1740576759"
 		}
 	}
 	"privatebranches" "1"
@@ -483,6 +527,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27657389"
-"_sha" "bd3aa7b9e9439656a6c4a8c1b7b4dee5c7e0f72a"
-"_size" "10139"
+"_change_number" "27676143"
+"_sha" "283e5a5fd282c23071fe62688d5cb5e90395a715"
+"_size" "11242"
