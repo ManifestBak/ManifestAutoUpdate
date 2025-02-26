@@ -1,0 +1,140 @@
+"appid" "4940"
+"common"
+{
+	"name" "Natural Selection 2 Dedicated Server"
+	"type" "Tool"
+	"parent" "4920"
+	"oslist" "windows,linux"
+	"freetodownload" "1"
+	"gameid" "4940"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "Natural Selection 2 Dedicated Server"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateTool"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Natural Selection 2 Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x64/Server.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"4922"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3472100231135181017"
+				"size" "3509529212"
+				"download" "954539296"
+			}
+			"beta"
+			{
+				"gid" "3472100231135181017"
+				"size" "3509529212"
+				"download" "954539296"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10231202"
+			"timeupdated" "1672443540"
+		}
+		"beta"
+		{
+			"buildid" "10231202"
+			"description" "Beta Branch"
+			"timeupdated" "1672374489"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "c3b235d2d0e80a465f668da597f94a9b70f55572"
+"_size" "1990"
