@@ -1,0 +1,157 @@
+"appid" "41015"
+"common"
+{
+	"name" "Serious Sam HD: The Second Encounter Dedicated Server"
+	"type" "Tool"
+	"freeondemand" "1"
+	"gameid" "41015"
+}
+"extended"
+{
+	"developer" "Croteam"
+	"gamedir" "Serious Sam HD: The Second Encounter"
+	"homepage" "http://www.croteam.com/"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "41016"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin\\SamHD_TSE_DedicatedServer.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Serious Sam HD The Second Encounter"
+	"checkguid" "SamHD_TSE_DedicatedServer.exe"
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"41018"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"dlcappid" "41018"
+		"depotfromapp" "41010"
+		"sharedinstall" "2"
+	}
+	"41017"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"dlcappid" "41017"
+		"depotfromapp" "41010"
+		"sharedinstall" "2"
+	}
+	"41016"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1446886366694468888"
+				"size" "20065050"
+				"download" "7536992"
+			}
+			"publicbeta"
+			{
+				"gid" "3178483061285669746"
+				"size" "20060962"
+				"download" "7536224"
+			}
+		}
+	}
+	"41011"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "41010"
+		"sharedinstall" "2"
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5821912"
+			"timeupdated" "1605201996"
+		}
+		"publicbeta"
+		{
+			"buildid" "2297899"
+			"timeupdated" "1511111232"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "166d3a49843dea52f50d5a7e6dcafc267aeda6af"
+"_size" "2355"
