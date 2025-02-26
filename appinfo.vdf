@@ -1,0 +1,271 @@
+"appid" "1248360"
+"common"
+{
+	"name" "WalkinVR"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllervr"
+	{
+		"steamvr" "1"
+		"xinput" "1"
+		"kbm" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"clienticon" "9fab2e835bc3def524cde4ab6b9201c50d6fcce6"
+	"clienttga" "c7fb45d8e95d8c783144d735475bec6a2f9c6223"
+	"icon" "37c4dd328acc9bc764c0b45ca5af2a04efff9db6"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1248360_eula_0"
+			"name" "WalkinVR EULA"
+			"url" "https://store.steampowered.com//eula/1248360_eula_0"
+			"version" "1"
+		}
+	}
+	"logo" "ee21f11bad330976c29e0a67f3ca5641a3be16a1"
+	"logo_small" "ee21f11bad330976c29e0a67f3ca5641a3be16a1_thumb"
+	"openvroverlaysupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1658534400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.03150525087516"
+			"height_pct" "65.19756768420527"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "39.03150525087516"
+				"height_pct" "65.19756768420527"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1587375390"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Frankly Dog"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Frankly Dog"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1593420780"
+	"community_hub_visible" "1"
+	"gameid" "1248360"
+	"exfgls" "6"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "21978"
+		"2" "7481"
+	}
+	"review_score" "7"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"vrheadsetstreaming" "0"
+	"developer" "Frankly Dog"
+	"publisher" "Frankly Dog"
+	"homepage" "https://www.walkinvrdriver.com"
+	"isfreeapp" "1"
+	"listofdlc" "1251220,1854240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WalkinVR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WalkinVR.exe"
+			"type" "openvroverlay"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" ""
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1248361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5727988809815416759"
+				"size" "164065394"
+				"download" "50335344"
+			}
+			"beta"
+			{
+				"gid" "5727988809815416759"
+				"size" "164065394"
+				"download" "50335344"
+			}
+			"previous"
+			{
+				"gid" "6148598708776355684"
+				"size" "164052594"
+				"download" "50326080"
+			}
+		}
+	}
+	"1251220"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"dlcappid" "1251220"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17335180"
+			"timeupdated" "1739358288"
+		}
+		"beta"
+		{
+			"buildid" "17335180"
+			"timeupdated" "1739358600"
+		}
+		"previous"
+		{
+			"buildid" "17169283"
+			"timeupdated" "1739358592"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "27437806"
+"_sha" "1c8b8f1c164ce090f656f46cdcad18491dfa2993"
+"_size" "4544"
