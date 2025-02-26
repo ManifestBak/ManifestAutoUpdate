@@ -1,0 +1,183 @@
+"appid" "105430"
+"common"
+{
+	"name" "Age of Empires Online"
+	"clienticon" "543194755d954ac7d00ce30b967de4e3464fdb3c"
+	"clienttga" "d3d6e621c9f5e32e0013dcf2c7f2979fb5b9c387"
+	"icon" "c63864ce286077cfcd426945162b4322abec72ec"
+	"logo" "1cf8c2d34214280e9e21ac96d766e7b804190005"
+	"logo_small" "1cf8c2d34214280e9e21ac96d766e7b804190005_thumb"
+	"exfgls" "1"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1663286400"
+		"tested_build_id" "22429"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Age of Empires Online"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_1d0a1770c305ed443a5fb9b3a27dd4c6c0ec5645.jpg"
+	"store_asset_mtime" "1356981283"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gas Powered Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Microsoft Games Studios"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "37"
+		"1" "29"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_20" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1332891300"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/age-of-empires-online\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "105430"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "113"
+		"2" "122"
+		"3" "128"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Gas Powered Games"
+	"gamedir" "Age Of Empires Online"
+	"homepage" "http://www.ageofempiresonline.com"
+	"icon" ""
+	"installscript" "InstallScript.vdf"
+	"isfreeapp" "1"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "105431"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"publisher" "Microsoft Games Studios"
+	"listofdlc" "201951,201952,201953,201954,201955,201956,201957,201958,201959,201960,201961,201962,201963,201964,201965,201966,201967,201968,201969,201970,201971,201972,201973,214750"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AOEOnline.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Age Of Empires Online"
+}
+"depots"
+{
+	"105431"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2724679562690686776"
+				"size" "6270520200"
+				"download" "0"
+			}
+			"local"
+			{
+				"gid" "3300141003914028359"
+				"size" "7311998818"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "22429"
+		}
+		"local"
+		{
+			"buildid" "14674"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "9d4cf8f7b72fd415a2868184588251be03d3c804"
+"_size" "3630"
