@@ -1,0 +1,45 @@
+"appid" "261020"
+"common"
+{
+	"name" "Takedown: Red Sabre Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "261020"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Takedown Red Sabre Dedicated Server"
+}
+"depots"
+{
+	"261021"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8532803059015140110"
+				"size" "771495752"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "173946"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "9c5252554971bc61ffe6847a3710d9fba05b03ef"
+"_size" "586"
