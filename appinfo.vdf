@@ -1,0 +1,221 @@
+"appid" "1543330"
+"common"
+{
+	"name" "揭谛"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "d397c3412ec516d9698680970125670b7390c898"
+	"logo_small" "d397c3412ec516d9698680970125670b7390c898_thumb"
+	"icon" "e9dd6773a9721692a8931d9139d0cd7c41d36cd2"
+	"clienttga" "3f247509e114f28e1f70ff54fd1eb04857a5e923"
+	"clienticon" "83315a215961a46d2b91112ad8fcbb7e296a814a"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1709251200"
+		"tested_build_id" "6296670"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "83.17893348018768"
+			"height_pct" "68.98783243981921"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "83.17893348018768"
+				"height_pct" "68.98783243981921"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1613647495"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "团购规划局"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "团购规划局"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1614759333"
+	"community_hub_visible" "1"
+	"gameid" "1543330"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "11014"
+		"1" "24003"
+		"2" "44868"
+		"3" "5984"
+		"4" "4115"
+		"5" "1742"
+		"6" "31275"
+		"7" "4182"
+		"8" "21"
+		"9" "14139"
+		"10" "3834"
+		"11" "5652"
+		"12" "1720"
+		"13" "3871"
+		"14" "6815"
+		"15" "1697"
+		"16" "1721"
+		"17" "4004"
+		"18" "1667"
+		"19" "5608"
+	}
+	"review_score" "7"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "团购规划局"
+	"publisher" "团购规划局"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "揭谛"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GATE.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1543331"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7942770304582645789"
+				"size" "485321056"
+				"download" "430159936"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6296670"
+			"timeupdated" "1614302345"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "savedata"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27318739"
+"_sha" "efcdb15343a6bfdc75da3ac924dc083e54181dcb"
+"_size" "3672"
