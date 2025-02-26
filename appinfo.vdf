@@ -1,0 +1,63 @@
+"appid" "223160"
+"common"
+{
+	"name" "Ravaged Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows"
+	"gameid" "223160"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ravageddedicatedserver"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateTool"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Ravaged Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "binaries/dedicatedservertool.exe"
+			"workingdir" "binaries"
+		}
+	}
+}
+"depots"
+{
+	"223161"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1026174995011000531"
+				"size" "827134688"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "158228"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "2f60bd52239593a25d3874087abb58fb1c1c515f"
+"_size" "897"
