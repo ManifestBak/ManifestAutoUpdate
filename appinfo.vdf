@@ -1,0 +1,286 @@
+"appid" "385130"
+"common"
+{
+	"name" "DvDrum, Ultimate Drum Simulator!"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "528a849cd01b8f661850da95302c2c70c8434ac9"
+	"logo_small" "528a849cd01b8f661850da95302c2c70c8434ac9_thumb"
+	"icon" "05fa12ad881abdc035fd7c0d21b46a48743f2f5e"
+	"clienticon" "ba0f26392171ab7009b54e5cb5d9b2a2dd254ff6"
+	"clienttga" "88549afc7b38f2da83e6d6806592eb89d3b42031"
+	"osarch" "64"
+	"osextended" ""
+	"metacritic_name" "DvDrum, Ultimate Drum Simulator!"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "43.92014519056269"
+			"height_pct" "86.11111111111114"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "43.92014519056269"
+				"height_pct" "86.11111111111114"
+			}
+			"image"
+			{
+				"english" "1cd9e4f9530b47c36efc1356afb07093d285d070/logo.png"
+			}
+			"image2x"
+			{
+				"english" "1cd9e4f9530b47c36efc1356afb07093d285d070/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "8f8c91fda933bbbf2cf95b9c6c88e90e43ffff2f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "8f8c91fda933bbbf2cf95b9c6c88e90e43ffff2f/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737201811"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DarkTigerDevelop"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DarkTigerDevelop"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1486632557"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "385130"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "597"
+		"2" "492"
+		"3" "701"
+		"4" "1621"
+		"5" "1752"
+		"6" "4182"
+		"7" "1027"
+		"8" "784"
+		"9" "1038"
+		"10" "1773"
+		"11" "3871"
+		"12" "4175"
+		"13" "5350"
+		"14" "7481"
+		"15" "9"
+		"16" "19"
+		"17" "1036"
+		"18" "1654"
+		"19" "1734"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "DarkTigerDevelop"
+	"publisher" "DarkTigerDevelop"
+	"homepage" "https://DvDrumGame.com"
+	"listofdlc" "676250,676251,676252,676253,676254,676255,676256,676257,676258"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "DvDrum, Ultimate Drum Simulator!"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DvDrum.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "DvDrum - Standard Mode"
+			}
+			"description" "DvDrum - Standard Mode"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "385130"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"385131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2834420438176905"
+				"size" "784368897"
+				"download" "713537296"
+			}
+			"local"
+			{
+				"gid" "3561704249507855208"
+				"size" "777553430"
+				"download" "697197440"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17039954"
+			"timeupdated" "1737197609"
+		}
+		"local"
+		{
+			"buildid" "12315950"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1695983296"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "DvDrum/Drumkits"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27062040"
+"_sha" "eb4ae75bc538f7145ca593ebe4af5592f2029bf2"
+"_size" "4854"
