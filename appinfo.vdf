@@ -1,0 +1,264 @@
+"appid" "1843730"
+"common"
+{
+	"name" "Last Group Out"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "01957e1a8559a8b46e22663b6a8666dd79670573"
+	"logo_small" "01957e1a8559a8b46e22663b6a8666dd79670573_thumb"
+	"icon" "af1a6999265c9d63b897153f9593d6f2aee630e1"
+	"clienttga" "1df59fb155c67e3c53077ff0d4f07c04296fadcf"
+	"clienticon" "bc102cacc1c8029cf997b6dc155295cf51a865f3"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.681818181818173"
+			"height_pct" "36.56716417910448"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "20.681818181818173"
+				"height_pct" "36.56716417910448"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1689813346"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Woodland Development"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Woodland Development"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1645163901"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1843730"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1774"
+		"2" "3964"
+		"3" "353880"
+		"4" "1662"
+		"5" "5765"
+		"6" "6276"
+		"7" "3993"
+		"8" "3859"
+		"9" "3843"
+		"10" "4182"
+		"11" "597"
+		"12" "122"
+		"13" "1199779"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Woodland Development"
+	"publisher" "Woodland Development"
+}
+"config"
+{
+	"installdir" "Last Group Out"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Last Group Out/Last Group Out.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1843731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3642290685091591291"
+				"size" "167270089"
+				"download" "101055584"
+			}
+			"beta"
+			{
+				"gid" "3642290685091591291"
+				"size" "167270089"
+				"download" "101055584"
+			}
+			"classicmode"
+			{
+				"gid" "5806447311636740743"
+				"size" "160674326"
+				"download" "95429920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17511516"
+			"timeupdated" "1740557838"
+		}
+		"beta"
+		{
+			"buildid" "17511516"
+			"description" "Faction Test"
+			"timeupdated" "1740557811"
+		}
+		"classicmode"
+		{
+			"buildid" "15310745"
+			"description" "Classic Mode"
+			"timeupdated" "1723155677"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000000"
+	"maxnumfiles" "5000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Woodland Development/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27671181"
+"_sha" "d2c973102605730159a4b8258ca9a4a539b837f3"
+"_size" "4296"
