@@ -1,0 +1,135 @@
+"appid" "232330"
+"common"
+{
+	"name" "Counter-Strike: Source Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"freetodownload" "1"
+	"gameid" "232330"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" ""
+	"gamedir" "ValveTestApp232330"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Counter-Strike Source Dedicated Server"
+}
+"depots"
+{
+	"232330"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8012076251401872268"
+				"size" "2274170578"
+				"download" "1122056432"
+			}
+			"prerelease"
+			{
+				"gid" "8012076251401872268"
+				"size" "2274170578"
+				"download" "1122056432"
+			}
+			"previous_build"
+			{
+				"gid" "2613653526845220043"
+				"size" "2229493575"
+				"download" "1092759440"
+			}
+		}
+	}
+	"232335"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6284704787655950281"
+				"size" "241611173"
+				"download" "82201456"
+			}
+			"prerelease"
+			{
+				"gid" "6284704787655950281"
+				"size" "241611173"
+				"download" "82201456"
+			}
+			"previous_build"
+			{
+				"gid" "2005180106795533146"
+				"size" "92931776"
+				"download" "33253360"
+			}
+		}
+	}
+	"232336"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4365247718224700910"
+				"size" "105524814"
+				"download" "28618256"
+			}
+			"prerelease"
+			{
+				"gid" "4365247718224700910"
+				"size" "105524814"
+				"download" "28618256"
+			}
+			"previous_build"
+			{
+				"gid" "2107924716899862244"
+				"size" "67634043"
+				"download" "17652512"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17399407"
+			"timeupdated" "1739907810"
+		}
+		"prerelease"
+		{
+			"buildid" "17399407"
+			"description" "Latest available build"
+			"timeupdated" "1739907819"
+		}
+		"previous_build"
+		{
+			"buildid" "6953255"
+			"description" "Previous Build"
+			"timeupdated" "1739908538"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27541421"
+"_sha" "5fad180d57035750f554bfe0fcb2d2db5180430b"
+"_size" "2215"
