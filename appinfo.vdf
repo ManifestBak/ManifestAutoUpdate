@@ -1,0 +1,251 @@
+"appid" "1488560"
+"common"
+{
+	"name" "Football Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "e78002871b16342ead0c740c1eb3572e73ac10a0"
+	"clienttga" "e10e2eb74235b1f00c8b9c8dcaa109c861ecc426"
+	"icon" "b2b263b1b7260e7fe39871f7d82b30330c0e1eeb"
+	"logo" "d6e05922d0750ab519ac6b71a732c6fd85982431"
+	"logo_small" "d6e05922d0750ab519ac6b71a732c6fd85982431_thumb"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"nokeyboardmouse" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "adcf72ae6277e5d4072096520cd6e0dac481c579/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.491016491688328"
+			"height_pct" "82.98533214949711"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "4e3d3913536d28fe4029a5568fc03566937e5233/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "4e3d3913536d28fe4029a5568fc03566937e5233/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "506a851bf6a7464d65377a88a308030df10042eb/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "506a851bf6a7464d65377a88a308030df10042eb/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "506a851bf6a7464d65377a88a308030df10042eb/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.491016491688328"
+				"height_pct" "82.98533214949711"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6d531bba2e13ca00b48d13519bd557c8e3b20206/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734085658"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Refactor Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Refactor Games"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "18"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_49" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1654740369"
+	"community_hub_visible" "1"
+	"gameid" "1488560"
+	"store_tags"
+	{
+		"0" "5348"
+		"1" "701"
+		"2" "599"
+		"3" "3841"
+		"4" "1254552"
+		"5" "1775"
+		"6" "3968"
+		"7" "1685"
+		"8" "1669"
+		"9" "4136"
+		"10" "7368"
+		"11" "7108"
+		"12" "7481"
+		"13" "4182"
+		"14" "1773"
+		"15" "7178"
+		"16" "4191"
+		"17" "4252"
+		"18" "4305"
+		"19" "3810"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Refactor Games"
+	"publisher" "Refactor Games"
+	"homepage" "http://refactorgames.com/"
+}
+"config"
+{
+	"installdir" "Football Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Football Simulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1488561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7500652593695633581"
+				"size" "22310543900"
+				"download" "5840365920"
+			}
+			"beta"
+			{
+				"gid" "7500652593695633581"
+				"size" "22310543900"
+				"download" "5840365920"
+			}
+		}
+	}
+	"1488562"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17376137"
+			"timeupdated" "1739614565"
+		}
+		"beta"
+		{
+			"buildid" "17376137"
+			"description" "For beta testing"
+			"timeupdated" "1739614545"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27665890"
+"_sha" "17007b0f6cf9bdf6adefc3a7d7c8c1626c48c607"
+"_size" "4425"
