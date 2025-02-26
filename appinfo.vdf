@@ -209,21 +209,21 @@
 		{
 			"public"
 			{
-				"gid" "8813549332282322341"
-				"size" "1851290410"
-				"download" "1486057328"
+				"gid" "4619695060264520889"
+				"size" "1851303977"
+				"download" "1486058160"
 			}
 			"default2"
 			{
-				"gid" "4978514237410268812"
-				"size" "1851274409"
-				"download" "1486056304"
+				"gid" "480346151390778903"
+				"size" "1851304051"
+				"download" "1486058192"
 			}
 			"default3"
 			{
-				"gid" "1930888249272468089"
-				"size" "1851189674"
-				"download" "1486052352"
+				"gid" "480346151390778903"
+				"size" "1851304051"
+				"download" "1486058192"
 			}
 		}
 	}
@@ -231,20 +231,20 @@
 	{
 		"public"
 		{
-			"buildid" "17498642"
-			"timeupdated" "1740482400"
+			"buildid" "17507525"
+			"timeupdated" "1740530491"
 		}
 		"default2"
 		{
-			"buildid" "17497102"
+			"buildid" "17507551"
 			"description" "特殊处理用版本【优化脚本去除】"
-			"timeupdated" "1740475406"
+			"timeupdated" "1740530600"
 		}
 		"default3"
 		{
-			"buildid" "17481597"
+			"buildid" "17507551"
 			"description" "测试版【勿选】"
-			"timeupdated" "1740446787"
+			"timeupdated" "1740530608"
 		}
 	}
 }
@@ -263,6 +263,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27655357"
-"_sha" "d174d207026fa8d7a9b016cf4108c2afa7db4ed0"
-"_size" "5526"
+"_change_number" "27666178"
+"_sha" "df7ea1ba0b880c63d5d0d272645d857afaef5ff9"
+"_size" "5524"
