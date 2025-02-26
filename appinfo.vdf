@@ -1,0 +1,178 @@
+"appid" "1083700"
+"common"
+{
+	"name" "3D Text Adventure"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "f08eb3d9d141ae0b0aa260204db5cca10d66fb71"
+	"clienticon" "45f2494ccb37953a9228653b9aaee008afba1aae"
+	"icon" "5e6b55d77e982cd6a965663dd864b38faf1a4279"
+	"logo" "f56b0554e1f4573e7edb6ab21a3432d0e727bff7"
+	"logo_small" "f56b0554e1f4573e7edb6ab21a3432d0e727bff7_thumb"
+	"restricted_countries" "DE"
+	"metacritic_name" "3D Text Adventure"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1572215869"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ariel Love"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Infocom Remakes"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1568154000"
+	"community_hub_visible" "1"
+	"gameid" "1083700"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1664"
+	}
+	"review_score" "5"
+	"review_percentage" "45"
+}
+"extended"
+{
+	"developer" "Ariel Love"
+	"publisher" "Infocom Remakes"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Zork Remake"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZorkRemake.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1083701"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7670695692167951375"
+				"size" "2258492017"
+				"download" "980314880"
+			}
+		}
+	}
+	"1083702"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "4252331"
+			"timeupdated" "1570069213"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "4e82c1d383452d7e820f10722d43e5c28902da09"
+"_size" "2736"
