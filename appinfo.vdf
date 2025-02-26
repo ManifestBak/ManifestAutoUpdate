@@ -1,0 +1,233 @@
+"appid" "2761920"
+"common"
+{
+	"name" "Gunpowder Cocktail"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "ffd37991908200e9e28796f4f00f4352b71993dd"
+	"clienticon" "fb9171c0ea8229b72b8913100f0a6709560873a2"
+	"clienttga" "a1fb2c2a09c4333f00c2cd90bf58e9c317bb79d0"
+	"clienticns" "126cfceef12e61247a5c39d400130d33561d17c3"
+	"linuxclienticon" "48044a3a8fe640133fde47cb0d4675169a40679a"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "3"
+		"3" "4"
+		"4" "5"
+	}
+	"restricted_countries" "CN,DE"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "124.69722156257421"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "100"
+				"height_pct" "124.69722156257421"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1707220874"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ByteHog Prime"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ByteHog Prime"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708700487"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2761920"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "6650"
+		"2" "5611"
+		"3" "3799"
+		"4" "24904"
+		"5" "9130"
+		"6" "492"
+		"7" "4667"
+		"8" "9551"
+		"9" "3810"
+		"10" "1698"
+		"11" "122"
+		"12" "4191"
+		"13" "6426"
+		"14" "29363"
+		"15" "4175"
+		"16" "1684"
+		"17" "5923"
+		"18" "1695"
+		"19" "6971"
+	}
+	"review_score" "5"
+	"review_percentage" "63"
+}
+"extended"
+{
+	"developer" "ByteHog Prime"
+	"publisher" "ByteHog Prime"
+}
+"config"
+{
+	"installdir" "Gunpowder Cocktail"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GunpowderCocktail.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "GunpowderCocktail.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "GunpowderCocktail.sh"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"2761921"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3682209243768162831"
+				"size" "5257781079"
+				"download" "5146174896"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13685902"
+			"timeupdated" "1709936230"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27609911"
+"_sha" "8e765fc936c3999ec5e325b6adf72befbe96f533"
+"_size" "3734"
