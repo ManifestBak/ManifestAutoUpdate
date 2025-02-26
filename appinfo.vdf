@@ -1,0 +1,367 @@
+"appid" "2793380"
+"common"
+{
+	"name" "Starground"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "386d1ad47e460d4a3fd78e9a3786dfd585805dc3"
+	"clienticon" "ec598061076c7a428834e5a06aee761937616136"
+	"clienttga" "309a340bd074ca5c3ebcecdc8a2fd8d58ddedfe6"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734629656"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Big Boy Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2 Left Thumbs"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_9" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"filipino"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1724097661"
+	"community_hub_visible" "1"
+	"gameid" "2793380"
+	"store_tags"
+	{
+		"0" "5981"
+		"1" "599"
+		"2" "3843"
+		"3" "255534"
+		"4" "1720"
+		"5" "7332"
+		"6" "1702"
+		"7" "9"
+		"8" "3859"
+		"9" "8945"
+		"10" "1685"
+		"11" "1643"
+		"12" "4236"
+		"13" "5125"
+		"14" "3871"
+		"15" "1755"
+		"16" "3810"
+		"17" "3964"
+		"18" "4791"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Big Boy Games"
+	"publisher" "2 Left Thumbs"
+	"homepage" "https://www.bigboygames.net/"
+}
+"config"
+{
+	"installdir" "Starground"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "starground.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "starground.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,schinese,russian,japanese,polish,danish,dutch,brazilian,latam"
+	"2793381"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2106994437981216891"
+				"size" "306155928"
+				"download" "233588496"
+			}
+			"compatibility"
+			{
+				"gid" "3496697257740229307"
+				"size" "303725272"
+				"download" "232557552"
+			}
+			"experimental"
+			{
+				"gid" "7383016702108829478"
+				"size" "236043288"
+				"download" "157757872"
+			}
+		}
+	}
+	"2793383"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3811827929339144979"
+				"size" "312700048"
+				"download" "235435840"
+			}
+			"compatibility"
+			{
+				"gid" "7670500494538648642"
+				"size" "310269184"
+				"download" "234404256"
+			}
+			"experimental"
+			{
+				"gid" "4827618138541839997"
+				"size" "242591776"
+				"download" "159603296"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17478809"
+			"timeupdated" "1740371056"
+		}
+		"compatibility"
+		{
+			"buildid" "17307102"
+			"description" "Compatibility renderer for old GPUs"
+			"timeupdated" "1739193118"
+		}
+		"experimental"
+		{
+			"buildid" "16479869"
+			"description" "Contains experimental features and content that isn\'t stable enough for the main branch yet"
+			"timeupdated" "1732151360"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Starground"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/Starground"
+					"replace" ".local/share/godot/app_userdata/Starground"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27626937"
+"_sha" "e78dfe93235a31ae24271ba19c344d785dbdfb6b"
+"_size" "5717"
