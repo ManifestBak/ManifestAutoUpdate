@@ -1,0 +1,311 @@
+"appid" "1709880"
+"common"
+{
+	"name" "Loco Motive"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "217e536ae124bd7cd6b2d72efce017817f0dbda1"
+	"clienttga" "e1786398f2fb6d8dd9961d84eb05200f8e7ca488"
+	"icon" "0d05009f648841a2025ee41e312457947d9b3d7c"
+	"logo" "e301bfe20fa35dae758028a5aedd9e1beae727b8"
+	"logo_small" "e301bfe20fa35dae758028a5aedd9e1beae727b8_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+	}
+	"name_localized"
+	{
+		"koreana" "로코 모티브: 로이스 특급 살인"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1731369600"
+		"tested_build_id" "16318061"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Loco Motive"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "e386a382bdb36d7487e44a45c2e96c6330ae4d4b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.827920536985545"
+			"height_pct" "71.19927306789097"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "41.827920536985545"
+				"height_pct" "71.19927306789097"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "9d098d2f45789349f71e47c95a0c7b25f676f8c9/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "9d098d2f45789349f71e47c95a0c7b25f676f8c9/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738061212"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Robust Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Chucklefish"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1732186648"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/1709880/announcements/detail/6373250901747957954\?snr=2___"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/loco-motive\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1709880"
+	"store_tags"
+	{
+		"0" "5716"
+		"1" "1719"
+		"2" "1698"
+		"3" "3964"
+		"4" "8369"
+		"5" "5613"
+		"6" "1742"
+		"7" "21"
+		"8" "3871"
+		"9" "7702"
+		"10" "4136"
+		"11" "4182"
+		"12" "1664"
+		"13" "3834"
+		"14" "6052"
+		"15" "6378"
+		"16" "7250"
+		"17" "4195"
+		"18" "1616"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Robust Games"
+	"publisher" "Chucklefish"
+	"homepage" "https://locomotivegame.com"
+}
+"config"
+{
+	"installdir" "Loco Motive"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Loco Motive.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"1709881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5692867277095153211"
+				"size" "659356963"
+				"download" "505592080"
+			}
+		}
+	}
+	"1709882"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6406726136702040381"
+				"size" "758622139"
+				"download" "38962736"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16682065"
+			"timeupdated" "1733760033"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "16000000"
+	"maxnumfiles" "24"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves/{64BitSteamID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27634354"
+"_sha" "c8fed91921b5321643f748f3a373c62fa531d301"
+"_size" "5666"
