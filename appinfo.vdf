@@ -1,0 +1,319 @@
+"appid" "1532200"
+"common"
+{
+	"name" "Mars First Logistics"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "7122b831de4cec9c4d08dacd89d8b6608d5cf9fd"
+	"logo_small" "7122b831de4cec9c4d08dacd89d8b6608d5cf9fd_thumb"
+	"icon" "41b1770cf6b0592ad502ac3762ca6ca46b44cbde"
+	"clienticon" "64ff796dad485378f75d50deedac88e7ad43ab96"
+	"clienttga" "0c280030416db5808359595539207208d4d7a7fa"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1688601600"
+		"tested_build_id" "11607948"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "2c2ac89339be4f9d163ae7b0be5f3ee601c22f75/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.83451261870927"
+			"height_pct" "99.30555555555556"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "48.83451261870927"
+				"height_pct" "99.30555555555556"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733783799"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shape Shop"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Shape Shop"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Outersloth"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1687417179"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1532200"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "6702"
+		"2" "1643"
+		"3" "3968"
+		"4" "1644"
+		"5" "1695"
+		"6" "3810"
+		"7" "599"
+		"8" "5752"
+		"9" "1736"
+		"10" "3834"
+		"11" "4182"
+		"12" "4136"
+		"13" "1719"
+		"14" "6129"
+		"15" "3859"
+		"16" "1755"
+		"17" "5794"
+		"18" "16598"
+		"19" "3942"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Shape Shop"
+	"publisher" "Shape Shop"
+	"homepage" "https://shapeshop.games"
+}
+"config"
+{
+	"installdir" "Mars First Logistics"
+	"uselaunchcommandline" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mars First Logistics.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"1532201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1441104648883806425"
+				"size" "371277672"
+				"download" "158688288"
+			}
+			"beta"
+			{
+				"gid" "1441104648883806425"
+				"size" "371277672"
+				"download" "158688288"
+			}
+		}
+	}
+	"workshopdepot" "1532200"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17006037"
+			"timeupdated" "1736898636"
+		}
+		"beta"
+		{
+			"buildid" "17006037"
+			"description" "Latest features and fixes. May be untested and buggy!"
+			"timeupdated" "1736898610"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Shape Shop\\Mars First Logistics"
+			"pattern" "AutoSave.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Shape Shop\\Mars First Logistics"
+			"pattern" "vehicle*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Shape Shop\\Mars First Logistics"
+			"pattern" "SaveSlot*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26998315"
+"_sha" "a5bb2d812e8c4c3cdf875e4fa2de4de0dea432b2"
+"_size" "5711"
