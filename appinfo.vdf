@@ -1,0 +1,164 @@
+"appid" "106010"
+"common"
+{
+	"name" "Pandora Saga: Weapons of Balance"
+	"type" "Game"
+	"logo" "797ae5b9f4d02bcae980e60a22bf74e01d82a3e2"
+	"logo_small" "797ae5b9f4d02bcae980e60a22bf74e01d82a3e2_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1675468800"
+		"tested_build_id" "15738"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Pandora Saga: Weapons of Balance"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b04388ee72eb6e1cb6758925fd1de87de18e2794.jpg"
+	"store_asset_mtime" "1329957248"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ROSSO INDEX K.K."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ATLUS/ATLUS ONLINE"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_20" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"original_release_date" "1297756800"
+	"steam_release_date" "1330627140"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "106010"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "113"
+		"2" "128"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "ROSSO INDEX K.K."
+	"gamedir" "PandoraSaga"
+	"homepage" "http://pandorasagaonline.com"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"isfreeapp" "1"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "106011"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "ATLUS/ATLUS ONLINE"
+	"listofdlc" "106020,106021"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SteamIntegrator.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "PandoraSaga"
+}
+"depots"
+{
+	"106012"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4015881164210464804"
+				"size" "1651799448"
+				"download" "0"
+			}
+		}
+	}
+	"106011"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5755835613815700820"
+				"size" "1033001"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15738"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "258c714f834033ca74dd5d9e7866034024912f3d"
+"_size" "2918"
