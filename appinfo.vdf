@@ -1,0 +1,238 @@
+"appid" "1996930"
+"common"
+{
+	"name" "Pacifish"
+	"type" "Game"
+	"icon" "7e4da1bcf14044e6b48d9c170d5cad35c53ee1a8"
+	"clienticon" "044f9ea7f16608a899153ceb062083ee3e0bf911"
+	"clienttga" "f02eecf723278196aca72613283636be0450e7cd"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1659744000"
+		"tested_build_id" "9108368"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1652581826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Conifer Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Conifer Studios"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654617616"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1996930"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "615955"
+		"2" "8945"
+		"3" "3964"
+		"4" "16689"
+		"5" "113"
+		"6" "15564"
+		"7" "3871"
+		"8" "4182"
+		"9" "6276"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Conifer Studios"
+	"publisher" "Conifer Studios"
+	"isfreeapp" "1"
+	"listofdlc" "2004760"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Pacifish"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "pacifish.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1996931"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8521300720911746598"
+				"size" "125185825"
+				"download" "22628304"
+			}
+		}
+	}
+	"2004760"
+	{
+		"dlcappid" "2004760"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"optionaldlc" "2004760"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9108368"
+			"timeupdated" "1657655747"
+		}
+	}
+	"privatebranches" "1"
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26845279"
+"_sha" "8df67439c2d07d41e68e4052c5a6e0250a45e146"
+"_size" "3979"
