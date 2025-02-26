@@ -1,0 +1,144 @@
+"appid" "15930"
+"common"
+{
+	"clienticon" "0778993005fcca539c486cea9b5019f504d18211"
+	"clienttga" "aa4348e029a289dc5dcdc0b0a04e13474e4ff559"
+	"name" "Luxor 3"
+	"logo" "f7b051ddf3dfef1ce3b749436eb357599d1f3c33"
+	"logo_small" "d6339111a2ce0b030b1feaa11167ec590aea1961"
+	"icon" "9ee4f639f10ff1c97c7f56fc9b63e00e174149ce"
+	"oslist" "macos,windows"
+	"type" "game"
+	"metacritic_name" "Luxor 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "0000003100.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MumboJumbo"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Accelerate Games"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1194940800"
+	"steam_release_date" "1213081200"
+	"community_hub_visible" "1"
+	"gameid" "15930"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "1665"
+		"2" "1664"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "MumboJumbo"
+	"gamedir" "Luxor 3"
+	"homepage" ""
+	"icon" ""
+	"installscriptosx" "Luxor 3.app/installscript_osx.vdf"
+	"installscript_macos" "Luxor 3.app/installscript_osx.vdf"
+	"noservers" "1"
+	"order" "1"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"validoslist" "macos,windows"
+	"developer_url" "http://mumbojumbo.com/"
+	"publisher" "Accelerate Games"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Luxor 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Luxor3.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Luxor 3.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"15933"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+	}
+	"15931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "426334825671292481"
+				"size" "54203371"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "220050"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27538790"
+"_sha" "b37ff57f3469e77b3fdce9ad3c0f9e957f1f08f7"
+"_size" "2287"
