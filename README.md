@@ -1,85 +1,63 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 22:36:23
+## 更新时间：2025-02-26 22:44:51
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2741820 | 社团学姊| Game |
-| 2541170 | G-MODEアーカイブス+ 女神異聞録ペルソナ 異空の塔編| Game |
-| 3184110 | Widget Inc.| Game |
-| 2498680 | Prison Loop| Game |
-| 2181440 | Delivery Man| Game |
-| 2563760 | BMX Bastards| Game |
-| 2800500 | Blacklist Mafia| Game |
-| 3110500 | The Best Duck Clicker| Game |
-| 3143560 | 循环支付| Game |
-| 2196640 | Engine Evolution 2023| Game |
-| 3410310 | Make Good Choices| Game |
-| 1999320 | Sailist| Game |
-| 2918130 | Deepest Trench| Game |
-| 1975520 | Astronomics| Game |
-| 3188340 | MudRunner VR| Game |
-| 2449430 | Incremental Factory| Game |
-| 3211680 | 烟店模拟器| Game |
-| 2650840 | nekowater| Game |
-| 2886550 | Shop Simulator| Game |
-| 2324090 | VRHandsFrame| Application |
-| 2939180 | Hentai Luna| Game |
-| 1618380 | Spellmasons| Game |
-| 3183950 | Симулятор Обнимания Берёзы| Game |
-| 3236460 | NNNNNIGHT| Game |
-| 2735220 | PolyZ| Game |
-| 1589770 | Engine Evolution 2021| Game |
-| 2312520 | 永恒岛梦旅| Game |
-| 3310510 | Top Sellers - Ecommerce Simulator| Game |
-| 2963230 | Joyville 2| Game |
-| 2498570 | Canvas of Kings| Game |
-| 2600670 | Vanity| Game |
-| 24420 | Aquaria| game |
-| 3374720 | Tales Beyond The Tomb - The Farm's Secret| Game |
-| 1239680 | Day of Dragons Original Soundtrack| Music |
-| 3279160 | Only Up: LIZARDS MUST FALL| Game |
-| 2673310 | Gacha Fever| Game |
-| 1195360 | Re:Turn - One Way Trip| Game |
-| 3115390 | SuperImage Pro| Application |
-| 3044100 | Bat to the Heavens| Game |
-| 1408080 | Minigame Madness| Game |
-| 1577080 | Classic Racers Elite| Game |
-| 335370 | Sanctum 2: Original Soundtrack| Music |
-| 1285430 | The Link| Application |
-| 2605600 | Facehand| Game |
-| 3144130 | Pitty Meaty| Game |
-| 997380 | The Sapling| Game |
-| 1552310 | JANITOR BLEEDS| Game |
-| 1974230 | Locks| Game |
-| 2808950 | Gym Camp Simulator| Game |
-| 2690770 | Grandfather Simulator| Game |
-| 1733170 | Killing Time: Resurrected| Game |
-| 1148490 | Second Front| Game |
-| 3283960 | Cabernet Soundtrack| Music |
-| 2983840 | #!/bin/bash| Game |
-| 2434120 | PISTA Motorsport| Game |
-| 2152560 | Flight Attendant Simulator VR| Game |
-| 2999790 | Just Skill Shooter 4| Game |
-| 3157680 | Card of Legend| Game |
-| 3446850 | 斯库夫 对决 夸德罗伯 Skufs VS Quadrobers| Game |
-| 2493950 | 拯救异世界| Game |
-| 3081830 | FLARE NUINUI QUEST| Game |
-| 1713720 | Wall of insanity| Game |
-| 3117160 | 叛军组织的我爱上了贵族大小姐| Game |
-| 2413640 | Countless Army| Game |
-| 2845070 | CYBER INTERNET CLUB SIMULATOR| Game |
-| 1586860 | Bonesaw| Game |
-| 2239130 | 窗台上的蝴蝶| Game |
-| 2393370 | Dustgrave: A Sandbox RPG| Game |
-| 3468270 | Tape Denial| Game |
-| 2154730 | Building Destruction| Game |
-| 898580 | Premium Bowling| Game |
-| 2494780 | #DRIVE Rally| Game |
-| 2509000 | Witch's Rhythm Puzzle Original Soundtrack| Music |
-| 65270 | Demolition Company Gold| game |
-| 2696200 | Futanari College - Episode 1 [18+] 🍓 🤓| Game |
-| 3331000 | Retrowave 2| Game |
-| 2757600 | My Corp Cargo Simulator| Game |
-| 956240 | Simson Tuningwerkstatt 3D| Game |
-| 2330840 | GirlFriend VR Desktop Mode| DLC |
-| 2257400 | GirlFriend VR| Game |
+| 1520160 | Chrono Sword| Game |
+| 2551570 | Parking World: Build & Manage| Game |
+| 2178590 | Coin Pusher Casino| Game |
+| 265240 | Crazy Machines: Golden Gears| Game |
+| 944770 | sheepChat| Application |
+| 454190 | Cubicolor| Game |
+| 2130060 | Tower Walker| Game |
+| 3061790 | Vox Populi: USA 2024| Game |
+| 2530430 | 橡心镇惊魂记| Game |
+| 3012130 | 黄昏魅影| Game |
+| 3387120 | The Dark Gift| Game |
+| 2497570 | AfterWar| Game |
+| 2331610 | AI萌娘| Application |
+| 2682600 | Undergod| Game |
+| 2358490 | Goblin Down| Game |
+| 3119780 | Drive Thru Miami| Game |
+| 3470980 | Town Market Simulator 2025| Game |
+| 2178860 | Building our Futature| Game |
+| 1108740 | Stick Em Up| Game |
+| 2998750 | 自动售货机商业模拟器| Game |
+| 3079970 | Airport X-Ray Simulator| Game |
+| 1861440 | CLeM| Game |
+| 2538330 | Finding Anastasia| Game |
+| 2947590 | Deep Desktop| Application |
+| 2181180 | Crib| Game |
+| 1459500 | Atlas Architect| Game |
+| 1304350 | Urge| Game |
+| 2802710 | Quantum Odyssey| Game |
+| 3220090 | 100 hidden Cats : Kitty House| Game |
+| 3162110 | 空间循环站| Game |
+| 2468060 | Breaking Survivors| Game |
+| 1855890 | My Hotel| Game |
+| 2704460 | Neon Geometry Dash| Game |
+| 1545990 | Deadeye Deepfake Simulacrum| Game |
+| 3393400 | Rust of Steel| Game |
+| 2709120 | Clamb| Game |
+| 3174920 | Rise of a Porn Star| Game |
+| 1956960 | 普尼西机人2 / PUNIHI LOADER 2| Game |
+| 3015270 | 女神降临的昇天塔| Game |
+| 3489690 | 杠精的108种死法 - 高清剧照| DLC |
+| 1555910 | Wet Nightmares| Game |
+| 2761920 | Gunpowder Cocktail| Game |
+| 2359470 | Strayed| Game |
+| 2987660 | CYBERCUM 2069| Game |
+| 2754110 | 一杆进洞3D台球模拟器| Game |
+| 1679010 | BLOCKPOST MOBILE| Game |
+| 2431980 | Goblin Camp| Game |
+| 2846260 | 云学习| Game |
+| 2827500 | Hentai Milf| Game |
+| 2884190 | 武馆模拟器| Game |
+| 2796020 | Refuted Wind| Game |
+| 3235650 | 出張 Business trip| Game |
+| 3294750 | MUBOSAMA| Game |
+| 1005930 | Timeflow| Game |
+| 2086240 | Lust Trip - 18+ Scenes| DLC |
+| 2077400 | Lust Trip| Game |
+| 2274120 | NSFW Solitaire| Game |
+| 2588860 | Virtual AI - KURONYAM| Game |
