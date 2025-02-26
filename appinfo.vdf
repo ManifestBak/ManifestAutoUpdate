@@ -1,0 +1,204 @@
+"appid" "3172770"
+"common"
+{
+	"name" "Terrorbytes"
+	"type" "Game"
+	"clienttga" "b64e42714d8bb65549ce1add14a644e09a5677ad"
+	"clienticon" "57d0afd5d0aee639e6193de6c58be71eccbda025"
+	"icon" "c44320df543ba81f32fb7ee657c47318ee468ee7"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "a3c80aaded31b8e920533cdaf88cc98d85c57a14/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.151338344488074"
+			"height_pct" "57.61538474946333"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "76e91a5d76923817373bf2feb3c38bad33051cd6/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "76e91a5d76923817373bf2feb3c38bad33051cd6/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "bd2570dfb19ce76441ab9f7c2b147ea0d24f8f6e/logo.png"
+			}
+			"image2x"
+			{
+				"english" "bd2570dfb19ce76441ab9f7c2b147ea0d24f8f6e/logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.151338344488074"
+				"height_pct" "57.61538474946333"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740519677"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Treetop"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Over The Moon"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729606603"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3172770"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "4004"
+		"2" "1667"
+		"3" "5923"
+		"4" "3839"
+		"5" "21"
+		"6" "3834"
+		"7" "7743"
+		"8" "4166"
+		"9" "1687"
+		"10" "8945"
+		"11" "4191"
+		"12" "5652"
+		"13" "4145"
+		"14" "4175"
+		"15" "4252"
+		"16" "5716"
+		"17" "1685"
+		"18" "10808"
+		"19" "1710"
+	}
+	"review_score" "7"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Treetop"
+	"publisher" "Over The Moon"
+}
+"config"
+{
+	"installdir" "Terrorbytes"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Terrorbytes.exe"
+		}
+	}
+}
+"depots"
+{
+	"3172771"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8249373917544821169"
+				"size" "2088675758"
+				"download" "746224624"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16777382"
+			"timeupdated" "1734463164"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27664088"
+"_sha" "1a45cdb2e62c0fc8c7e19860d4756272ad1b0e37"
+"_size" "3389"
