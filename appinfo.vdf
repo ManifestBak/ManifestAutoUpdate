@@ -220,7 +220,7 @@
 		"19" "6869"
 	}
 	"review_score" "7"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -245,7 +245,7 @@
 			"config"
 			{
 				"oslist" "windows"
-				"betakey" "default"
+				"osarch" "64"
 			}
 			"description_loc"
 			{
@@ -260,7 +260,7 @@
 			"config"
 			{
 				"oslist" "linux"
-				"betakey" "default"
+				"osarch" "64"
 			}
 			"description_loc"
 			{
@@ -308,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "2494746250266077498"
-				"size" "1602738215"
-				"download" "358692976"
+				"gid" "1992362614885565370"
+				"size" "1602743431"
+				"download" "358693840"
 			}
 		}
 	}
@@ -319,14 +319,15 @@
 		"config"
 		{
 			"oslist" "linux"
+			"osarch" "64"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "5510332761348307034"
-				"size" "1603865312"
-				"download" "357970048"
+				"gid" "2935582523939656435"
+				"size" "1603870608"
+				"download" "357971600"
 			}
 		}
 	}
@@ -341,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "2535957021603338249"
-				"size" "1626884676"
-				"download" "366549168"
+				"gid" "2416127698390501293"
+				"size" "1626890348"
+				"download" "366551648"
 			}
 		}
 	}
@@ -351,8 +352,8 @@
 	{
 		"public"
 		{
-			"buildid" "17486768"
-			"timeupdated" "1740415486"
+			"buildid" "17508873"
+			"timeupdated" "1740539514"
 		}
 	}
 }
@@ -405,6 +406,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "27638500"
-"_sha" "9a92f3fad855e1704500198c0d78b1f73b4ddecf"
-"_size" "7230"
+"_change_number" "27667929"
+"_sha" "7b057ca8d4c6a0c946d1d59b058e2789b317c0d5"
+"_size" "7237"
