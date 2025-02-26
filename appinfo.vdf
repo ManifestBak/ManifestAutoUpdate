@@ -1,0 +1,234 @@
+"appid" "1067360"
+"common"
+{
+	"name" "Earth From Another Sun"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"clienttga" "d1c92d63bf7fef6e2467b89e1834f5c1c29cd09a"
+	"clienticon" "df05707a28d2277d9df7feebadfad56e29eb3102"
+	"icon" "1ac6ef84faec3877e87e37f496668169204832d0"
+	"logo" "9bda1adc6946d18bcb0ae6cb3b874dc4b3f5cd10"
+	"logo_small" "9bda1adc6946d18bcb0ae6cb3b874dc4b3f5cd10_thumb"
+	"releasestate" "prerelease"
+	"clienticns" "2f10ff5e89031dceafc1963f99fde4a31fe83aae"
+	"linuxclienticon" "2f10ff5e89031dceafc1963f99fde4a31fe83aae"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "15.623626363522234"
+			"height_pct" "36.54470123493924"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "15.623626363522234"
+				"height_pct" "36.54470123493924"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737536560"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Multiverse"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Multiverse"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_13" "1"
+		"category_2" "1"
+		"category_18" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "1067360"
+	"exfgls" "8"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "3959"
+		"2" "220585"
+		"3" "1702"
+		"4" "1663"
+		"5" "1685"
+		"6" "4168"
+		"7" "5923"
+		"8" "3834"
+		"9" "26921"
+		"10" "6730"
+		"11" "122"
+		"12" "1643"
+		"13" "12472"
+		"14" "42804"
+		"15" "4202"
+		"16" "255534"
+		"17" "9"
+		"18" "7481"
+		"19" "1755"
+	}
+}
+"extended"
+{
+	"developer" "Multiverse"
+	"publisher" "Multiverse"
+	"homepage" "https://earthfromanothersun.com/"
+}
+"config"
+{
+	"installdir" "Earth From Another Sun"
+	"steamcontrollertemplateindex" "6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Earth From Another Sun.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1067361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2433278695924632820"
+				"size" "41853036819"
+				"download" "34762392176"
+			}
+			"roguelike_version"
+			{
+				"gid" "161354356365884924"
+				"size" "32148901079"
+				"download" "27847409120"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17293337"
+			"timeupdated" "1739109745"
+		}
+		"roguelike_version"
+		{
+			"buildid" "9048189"
+			"description" "RogueLike version"
+			"timeupdated" "1657718105"
+		}
+	}
+	"privatebranches" "1"
+}
