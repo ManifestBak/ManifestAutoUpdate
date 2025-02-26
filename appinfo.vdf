@@ -231,8 +231,8 @@
 	"gameid" "2198150"
 	"store_tags"
 	{
-		"0" "3810"
-		"1" "1643"
+		"0" "1643"
+		"1" "3810"
 		"2" "97376"
 		"3" "1654"
 		"4" "84"
@@ -390,9 +390,9 @@
 		{
 			"public"
 			{
-				"gid" "7079390824449153980"
-				"size" "2448520086"
-				"download" "1340281808"
+				"gid" "6911844144586561210"
+				"size" "2448474897"
+				"download" "1340232224"
 			}
 			"beta-1_12_0"
 			{
@@ -400,17 +400,29 @@
 				"size" "2448465860"
 				"download" "1340225872"
 			}
+			"beta-1_13_0"
+			{
+				"gid" "7525233720396009244"
+				"size" "2475227488"
+				"download" "1330464432"
+			}
 			"old-1_11_2"
 			{
 				"gid" "6680652945508120270"
 				"size" "2444777561"
 				"download" "1339768672"
 			}
-			"testing"
+			"old-1_12_0"
 			{
 				"gid" "7079390824449153980"
 				"size" "2448520086"
 				"download" "1340281808"
+			}
+			"testing"
+			{
+				"gid" "6911844144586561210"
+				"size" "2448474897"
+				"download" "1340232224"
 			}
 		}
 	}
@@ -425,9 +437,9 @@
 		{
 			"public"
 			{
-				"gid" "4334730462854064876"
-				"size" "2536105605"
-				"download" "1344933360"
+				"gid" "4260473591285961254"
+				"size" "2536197400"
+				"download" "1344904880"
 			}
 			"beta-1_12_0"
 			{
@@ -435,17 +447,29 @@
 				"size" "2537598782"
 				"download" "1344929440"
 			}
+			"beta-1_13_0"
+			{
+				"gid" "8105864217138989985"
+				"size" "2562720618"
+				"download" "1335167024"
+			}
 			"old-1_11_2"
 			{
 				"gid" "2994460045324701164"
 				"size" "2532855832"
 				"download" "1344487184"
 			}
-			"testing"
+			"old-1_12_0"
 			{
 				"gid" "4334730462854064876"
 				"size" "2536105605"
 				"download" "1344933360"
+			}
+			"testing"
+			{
+				"gid" "4260473591285961254"
+				"size" "2536197400"
+				"download" "1344904880"
 			}
 		}
 	}
@@ -453,8 +477,8 @@
 	{
 		"public"
 		{
-			"buildid" "17377887"
-			"timeupdated" "1739630506"
+			"buildid" "17499064"
+			"timeupdated" "1740578439"
 		}
 		"beta-1_12_0"
 		{
@@ -462,17 +486,29 @@
 			"description" "Controller support PREVIEW"
 			"timeupdated" "1739535792"
 		}
+		"beta-1_13_0"
+		{
+			"buildid" "17515618"
+			"description" "2x terrain height + QoL"
+			"timeupdated" "1740577141"
+		}
 		"old-1_11_2"
 		{
 			"buildid" "17012194"
 			"description" "Previous build"
 			"timeupdated" "1739630462"
 		}
-		"testing"
+		"old-1_12_0"
 		{
 			"buildid" "17377887"
+			"description" "Previous build"
+			"timeupdated" "1740565472"
+		}
+		"testing"
+		{
+			"buildid" "17499064"
 			"description" "Pre-release testing (unstable)"
-			"timeupdated" "1739626618"
+			"timeupdated" "1740565484"
 		}
 	}
 	"privatebranches" "1"
@@ -511,6 +547,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27494962"
-"_sha" "791b52ab6b3883687d58d250cf2d719dfbbc7571"
-"_size" "9048"
+"_change_number" "27676613"
+"_sha" "60478b2e6dbfa6e3ada9b9a4505785c642c56b97"
+"_size" "9776"
