@@ -1,0 +1,205 @@
+"appid" "624910"
+"common"
+{
+	"name" "3on3 FreeStyle"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+	}
+	"clienttga" "7453478dd8a8753bdf39acc498c7abdcc8cf9976"
+	"clienticon" "efca7d25e4ab9d6a3cb3359ffbce419837758c75"
+	"icon" "03a05a62b0b28994de3f63eb3b99abd6994ffd4b"
+	"logo" "4392949ffea56f2adb8a95f6e725cc59593b5856"
+	"logo_small" "4392949ffea56f2adb8a95f6e725cc59593b5856_thumb"
+	"releasestate" "released"
+	"metacritic_name" "3on3 FreeStyle"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_0fdcaee2887f79ff36b10e19984840b8e4487a60.jpg"
+	"store_asset_mtime" "1505910953"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Joycity"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Joycity"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "37"
+		"3" "29"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1508176980"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "624910"
+	"store_tags"
+	{
+		"0" "1746"
+		"1" "113"
+		"2" "3859"
+		"3" "701"
+		"4" "3843"
+		"5" "1685"
+		"6" "597"
+		"7" "4161"
+		"8" "5711"
+		"9" "19"
+		"10" "1775"
+		"11" "3878"
+		"12" "7481"
+		"13" "1697"
+		"14" "1734"
+		"15" "4136"
+		"16" "5055"
+		"17" "128"
+	}
+	"review_score" "5"
+	"review_percentage" "44"
+}
+"extended"
+{
+	"developer" "Joycity"
+	"publisher" "Joycity"
+	"homepage" "http://3on3.fsgames.com/"
+}
+"config"
+{
+	"installdir" "3on3 FreeStyle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LauncherSteam.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"624911"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7497759789104512898"
+				"size" "2723834004"
+				"download" "2668019856"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2282207"
+			"timeupdated" "1510649322"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "fefd15593c64487fed79ffd07b5f312d42be742a"
+"_size" "3186"
