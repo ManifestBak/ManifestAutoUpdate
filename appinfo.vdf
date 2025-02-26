@@ -1,0 +1,66 @@
+"appid" "223240"
+"common"
+{
+	"name" "Red Orchestra Windows Dedicated Server"
+	"type" "Tool"
+	"gameid" "223240"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp223240"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Red Orchestra Windows Dedicated Server"
+}
+"depots"
+{
+	"1203"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8601396498861475063"
+				"size" "56599655"
+				"download" "0"
+			}
+		}
+	}
+	"1201"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6489912254443979140"
+				"size" "1117646336"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1200"
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21686"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27120069"
+"_sha" "c17dcded66ed995633f763673a82619c534ea952"
+"_size" "931"
