@@ -1,0 +1,196 @@
+"appid" "218170"
+"common"
+{
+	"name" "Age of Conan: Unchained (US Version)"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "8a71af5ae195ad9d551d6e9ef78bd39fb474a14c"
+	"clienttga" "a787e1e02fc326042f67c5c3796c4248c05dc124"
+	"icon" "ecd6c72ec0c974fde8975193b5d8ff3da878708c"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1677110400"
+		"tested_build_id" "36695"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Age of Conan - EU"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_30e2f1de01115e050441e2d93d74b0843fd74168.jpg"
+	"store_asset_mtime" "1363202783"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "37"
+		"3" "29"
+		"4" "3"
+	}
+	"category"
+	{
+		"category_20" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+		"german"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+		"french"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"steam_release_date" "1361557980"
+	"community_hub_visible" "1"
+	"gameid" "218170"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "6650"
+		"1" "128"
+		"2" "113"
+		"3" "122"
+		"4" "21"
+		"5" "19"
+		"6" "1754"
+		"7" "1695"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Funcom"
+	"gamedir" "ValveTestApp218170"
+	"homepage" "http://www.ageofconan.com"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Funcom"
+	"isfreeapp" "1"
+	"listofdlc" "218180,268590"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "ageofconan_us"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ConanPatcher.exe"
+			"description" "Start Age of Conan"
+		}
+	}
+	"installscriptsignature" "75961edc40f4080976574f0e183c591421b70f10c65283a6c94dffcb25cec44b80132b07f329658b7385f2c29f7a8a3cfa489fc515685bcfbf0d6620adbbd1efd6a9c66f59364d39ec325fd2beba952fb95cc07c8179cc670102b2c0e6b14460359468520eccdc8c11a3a188fb961988a5ec3b8f79c39bdb4eed6224f567992b"
+	"installscriptoverride" "1"
+}
+"install"
+{
+	"registry"
+	{
+		"hkey_local_machine\\software\\funcom\\age of conan"
+		{
+			"string"
+			{
+				"lastinstalledclient" "%INSTALLDIR%"
+			}
+		}
+	}
+	"run process"
+	{
+		"directx"
+		{
+			"process 1" "%INSTALLDIR%\\dxwebsetup.exe"
+			"command 1" "/Q"
+		}
+		"systemtweaker"
+		{
+			"process 1" "%INSTALLDIR%\\ConanSystemTweaker.exe"
+		}
+	}
+}
+"depots"
+{
+	"preloadonly" "1"
+	"218171"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5700179808869165838"
+				"size" "26415900928"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "36695"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26375805"
+"_sha" "b67f7db9b9714da236a9f608021d6a39d2bc50f8"
+"_size" "3635"
