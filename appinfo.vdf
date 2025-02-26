@@ -1,0 +1,180 @@
+"appid" "690930"
+"common"
+{
+	"name" "Evening Surprise"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"clienticon" "cba3cbc449c57ae482286aaaa16b54bdb6ba08da"
+	"clienttga" "f6103ecec1ebefd424a0d48bd0fac1dc1149ee63"
+	"icon" "2ce623c647c928fd0e9a15d72645f16ceb23480a"
+	"linuxclienticon" "d54292d00fd0e5d4fc3bb90fa3b38bd309df2213"
+	"clienticns" "d1773d26fd0c6e835ac1aa228dd4ec7f37992ed7"
+	"logo" "8837e73718ae3af707dc2875a080eab8e6a5fa0d"
+	"logo_small" "8837e73718ae3af707dc2875a080eab8e6a5fa0d_thumb"
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"metacritic_name" "Evening Surprise"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"russian" "capsule_231x87_russian.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+	}
+	"store_screenshot" "ss_6d2bb2ac9ef411ff21df1f28b2e5e0d48ce6e8f3.jpg"
+	"store_asset_mtime" "1503337991"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aleksandr Soldatov"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Leonid Kozhushko"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Aleksandr Soldatov"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "37"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1505498570"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "690930"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "492"
+		"2" "3799"
+		"3" "4085"
+		"4" "4182"
+		"5" "4947"
+		"6" "4234"
+		"7" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Aleksandr Soldatov"
+	"publisher" "Aleksandr Soldatov"
+	"isfreeapp" "1"
+	"listofdlc" "703170"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Evening Surprise"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EveningSurprise.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "EveningSurprise.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "EveningSurprise.sh"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"690931"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4467632926331124118"
+				"size" "179023991"
+				"download" "105946560"
+			}
+		}
+	}
+	"703170"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8345584268492389884"
+				"size" "289470911"
+				"download" "227748672"
+			}
+		}
+		"dlcappid" "703170"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2070710"
+			"timeupdated" "1503767648"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "3aa2eb390140a5bebb7867d4dc4cc5828ce5a6c0"
+"_size" "3033"
