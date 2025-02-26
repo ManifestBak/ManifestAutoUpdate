@@ -1,0 +1,179 @@
+"appid" "2006090"
+"common"
+{
+	"name" "Ghost Trap"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "2c327c919d129ad1dda20d90b0aa04be0937036b"
+	"clienticon" "b38a99bf890c92b34d89b39c50397c0a63b9d3aa"
+	"clienttga" "9bc858e0b7859db3d64ed87459940926685a3a17"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.59489872468119"
+			"height_pct" "57.29282105068735"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "55.59489872468119"
+				"height_pct" "57.29282105068735"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1669161150"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WilhelmGStudios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WilhelmGStudios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1658822379"
+	"community_hub_visible" "1"
+	"gameid" "2006090"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "113"
+		"2" "1625"
+		"3" "492"
+		"4" "5379"
+		"5" "3871"
+		"6" "7481"
+		"7" "4182"
+		"8" "4004"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "WilhelmGStudios"
+	"publisher" "WilhelmGStudios"
+	"homepage" "https://www.youtube.com/watch\?v=TvXoX8o_V4U"
+	"gamemanualurl" "https://store.steampowered.com/manual/2006090/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "GhostTrap"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GhostTrap.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2006091"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2773177293156705746"
+				"size" "145785205"
+				"download" "111924528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8862778"
+			"timeupdated" "1654211498"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25611963"
+"_sha" "b100bc7dfa2145996df0bf814b4af5ca2bdb2ae0"
+"_size" "2814"
