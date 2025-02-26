@@ -1,43 +1,37 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 18:40:41
+## 更新时间：2025-02-26 18:45:36
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1459640 | VR Zeppelin Airship Trips: Flying hotel experiences in VR| Game |
-| 1459360 | Brain Break| Game |
-| 1458980 | Misery Mansion| Game |
-| 1457690 | 矮人与地城| Game |
-| 1455390 | UBOAT: The Silent Wolf VR| Game |
-| 1454640 | 纸梦奇谭 A Tale of Paper| Game |
-| 1454490 | Riot Operator| Game |
-| 1455350 | Rabi-Ribi - Soundtrack 8-bit Remix| Music |
-| 1456450 | Quantum Protocol Soundtrack| Music |
-| 1451024 | Movavi Slideshow Maker 8 - Travel Set| DLC |
-| 1451020 | Movavi Slideshow Maker 8 - Education Set| DLC |
-| 1450250 | 远花| Game |
-| 1451880 | 色彩缤纷| Game |
-| 1448240 | House Soundtrack| Music |
-| 1450860 | Typing Fingers| Application |
-| 1449140 | Foglight| Game |
-| 1450510 | Shing! Soundtrack| Music |
-| 1451180 | Yaga Soundtrack| Music |
-| 1454460 | 河洛群侠传 (Ho Tu Lo Shu ： The Books of Dragon) OST| Music |
-| 1447920 | Video World| Game |
-| 1447290 | Tactical Operations Force| Game |
-| 1444020 | Reactor Tech²| Game |
-| 1844220 | Nero - Digital Artbook| DLC |
-| 1446820 | 日日夜夜 原创音乐集| Music |
-| 1446360 | Age of Empires III: Definitive Edition Soundtrack| Music |
-| 1448680 | Vigil: The Longest Night Artbook and Map| DLC |
-| 1440480 | I Am Dead - Original Soundtrack| Music |
-| 1448610 | NIRO| Game |
-| 1444110 | Summerland| Game |
-| 1441680 | Tree Trunk Brook| Game |
-| 1442060 | Batbarian: Testament of the Primordials Soundtrack| Music |
-| 1437340 | My Name is Mayo 2| Game |
-| 1441760 | My Business | Game |
-| 1436810 | The Door in the Basement| Game |
-| 1445670 | 依澪| Game |
-| 1440710 | Ring of Pain Soundtrack| Music |
-| 1438090 | Hobo Cat Adventures| Game |
-| 1436230 | Overcrowd: A Commute 'Em Up Soundtrack| Music |
+| 1431350 | Santa Claus in Trouble (HD)| Game |
+| 1430640 | Into The Haze| Game |
+| 1431230 | Gods of Sand| Game |
+| 1429160 | Prairie survival| Game |
+| 1432030 | Tell Me Why Original Soundtrack| Music |
+| 1427680 | Magia X| Game |
+| 1426280 | Hello Puppets!| Game |
+| 1426000 | The Bonfire 2: Uncharted Shores Soundtrack| Music |
+| 1422940 | Glider Sim| Game |
+| 1422200 | Rev| Game |
+| 2188430 | Equinox| Game |
+| 2188690 | 朱鹭子的奇妙冒险| Game |
+| 2189040 | Mean Beans| Game |
+| 1426700 |  Devil May Cry 5 Vergil's Rebirth Sound Selection| Music |
+| 2189640 | Cannibal Abduction| Game |
+| 2184150 | Dead Matter| Game |
+| 2181100 | Nevermind This| Game |
+| 2182640 | Countdown Timer| Application |
+| 2182660 | Different Strokes Deluxe| DLC |
+| 2180350 | 幻斋阴阳录 Genzai:Serialization| Game |
+| 2179290 | HerrAnwalt: Lawyers Legacy| Game |
+| 2181450 | 幻境恋人-Wonderland Lovers| Game |
+| 2182210 | ガチムチでドスケベな家庭教師のお兄さんと過ごす夏 Soundtrack| Music |
+| 1422630 | Active Neurons - Wonders Of The World| Game |
+| 2179170 | A Tower Full of Cats| Game |
+| 2179770 | Unboxing| Game |
+| 2175650 | Polda 3| Game |
+| 2174170 | VInput| Application |
+| 2177610 | Reality Noclip: The Backrooms| Game |
+| 2406760 | Arthas - The Game Legendary Masterka| DLC |
+| 2178490 | Seducing The Devil| Game |
+| 2174420 | Lucky Goal| Game |
