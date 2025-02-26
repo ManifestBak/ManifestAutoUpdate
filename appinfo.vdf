@@ -1,0 +1,213 @@
+"appid" "2055650"
+"common"
+{
+	"name" "Rolling Rush"
+	"type" "Game"
+	"clienticon" "c1eec8945135de5398d2b3f2dfcefb6c2aacf302"
+	"clienttga" "6b35846799940fc9c6df6794995a36ff31c9c166"
+	"icon" "44e9a746f249290893610e93788a398881b79861"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "96.875"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "96.875"
+			}
+		}
+	}
+	"store_asset_mtime" "1667208414"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AltEvil"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AltEvil"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "4"
+		"1" "9"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671494934"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2055650"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "699"
+		"2" "1625"
+		"3" "4102"
+		"4" "4191"
+		"5" "1697"
+		"6" "1644"
+		"7" "5673"
+		"8" "5350"
+		"9" "3968"
+		"10" "5154"
+		"11" "4182"
+	}
+}
+"extended"
+{
+	"developer" "AltEvil"
+	"publisher" "AltEvil"
+}
+"config"
+{
+	"installdir" "Rolling Rush"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RollingRush.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2055651"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "637652434647917128"
+				"size" "2591598968"
+				"download" "2329128160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13180062"
+			"timeupdated" "1705364056"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "3"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RollingRush/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25575786"
+"_sha" "9c5dac34b8d4404c7373ede5c4f6d0e4903d4579"
+"_size" "3110"
