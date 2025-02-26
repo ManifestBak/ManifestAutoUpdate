@@ -1,0 +1,140 @@
+"appid" "37500"
+"common"
+{
+	"name" "Magnetis"
+	"metacritic_url" "pc/magnetis"
+	"clienticon" "ccd11c32b840747e8541a0c146290cd4c480ea3e"
+	"clienttga" "5e0589fe865512ba8046c13e5bed986a02a33708"
+	"icon" "bbe194a0be1a7cbaf7e82fba320382cdc6bae6ff"
+	"logo" "43cad10e5e365aba662d67fb0c1a21d06df46a58"
+	"logo_small" "43cad10e5e365aba662d67fb0c1a21d06df46a58_thumb"
+	"type" "game"
+	"restricted_countries" "DE"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_1544a44acdb3de8ea96871a384f1d6f4aa35ba03.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Yullaby"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Yullaby"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1257447600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "37500"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "492"
+		"2" "1664"
+	}
+	"review_score" "7"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Yullaby"
+	"gamedir" "Magnetis"
+	"homepage" "http://www.yullaby.com"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "37501"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Yullaby"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Magnetis"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Magnetis.exe"
+		}
+	}
+}
+"depots"
+{
+	"37501"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1024921423414283721"
+				"size" "21039926"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11415"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26253459"
+"_sha" "48a110101918fc1ceedc44056b0fca79a790838c"
+"_size" "2238"
