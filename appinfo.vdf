@@ -1,0 +1,138 @@
+"appid" "50000"
+"common"
+{
+	"name" "Nimbus"
+	"icon" "0c10eca0aadb2c55cade82e5e45b1ca7d3baf764"
+	"logo" "33e07c88a882f0079df6519389d168b7e90e60b1"
+	"logo_small" "33e07c88a882f0079df6519389d168b7e90e60b1_thumb"
+	"clienticon" "c9d80dfe3b996682f3e68ef2f240db46fbc2ff17"
+	"clienttga" "b0da9a50fccc9adc6e6d8461bbf4a55992c4a02a"
+	"type" "game"
+	"metacritic_name" "Nimbus"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b7d1fd87a56611b12b4d9cd03aad140ee35f670b.jpg"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Noumenon Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Noumenon Games"
+		}
+	}
+	"primary_genre" "34"
+	"genres"
+	{
+		"0" "23"
+		"1" "34"
+		"2" "9"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1288026000"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/nimbus\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "50000"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "699"
+		"2" "1664"
+		"3" "3968"
+		"4" "4026"
+		"5" "1625"
+		"6" "5390"
+		"7" "3871"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Noumenon Games"
+	"gamedir" "Nimbus"
+	"homepage" "http://noumenongames.com"
+	"icon" ""
+	"installscript" "Install/InstallScript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "50001"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Noumenon Games"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Nimbus"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Nimbus.exe"
+		}
+	}
+}
+"depots"
+{
+	"50001"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5072761679973175823"
+				"size" "821109446"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11550"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "26910351"
+"_sha" "a330503c82a878dc01d5a957fe644e45c540fad5"
+"_size" "2366"
