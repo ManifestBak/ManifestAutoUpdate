@@ -199,7 +199,7 @@
 		"19" "3843"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -262,48 +262,9 @@
 		{
 			"public"
 			{
-				"gid" "3144452493743686323"
-				"size" "70968429081"
-				"download" "31947079680"
-			}
-			"pico4_test"
-			{
-				"gid" "9102897702267910067"
-				"size" "67107604133"
-				"download" "29429519984"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"map_preview_group"
-			{
-				"gid" "3825E952B2D84304D5082BC8C3CB766E"
-				"size" "89D087BDC8112F159EF2B7477AED02E1"
-				"download" "AEFFED20842DD855663A1275ACF02211"
-			}
-			"nighly_dev"
-			{
-				"gid" "315BDF67695727C118468857DF0CC113"
-				"size" "4C2A3AE2024FE2047CF02A7CA062069E"
-				"download" "33D92A8983CB32B789F8361D26E7B783"
-			}
-			"wizards"
-			{
-				"gid" "4B0C35C758A3AEFEB3EF246EA4ABCA61"
-				"size" "80544D2C48CE7A21C5964030AC94638C"
-				"download" "5D6A524211CD6ECDA7FE64CD6E0B4039"
-			}
-			"nighly"
-			{
-				"gid" "BC7D4D87FA131236E9C7C28F1B08307A"
-				"size" "FB805473095896E053DF2DF5BB438922"
-				"download" "EC80BB97635DBA63EC2666B0F74629CD"
-			}
-			"pavlov-tv"
-			{
-				"gid" "A30FE4372379309B40F1CFD57B8E86DF"
-				"size" "0E62042C9BC91B5A65226F47C52295DC"
-				"download" "17A9DAA94248F4D1E2322DDF5306999F"
+				"gid" "5595024099885182722"
+				"size" "72684686419"
+				"download" "32531015216"
 			}
 		}
 	}
@@ -320,46 +281,11 @@
 	{
 		"public"
 		{
-			"buildid" "16661189"
-			"timeupdated" "1733524756"
-		}
-		"map_preview_group"
-		{
-			"buildid" "13974134"
-			"pwdrequired" "1"
-			"timeupdated" "1712772748"
-		}
-		"nighly_dev"
-		{
-			"buildid" "10156805"
-			"pwdrequired" "1"
-			"timeupdated" "1671131251"
-		}
-		"wizards"
-		{
-			"buildid" "14101161"
-			"pwdrequired" "1"
-			"timeupdated" "1713546768"
-		}
-		"nighly"
-		{
-			"buildid" "16661189"
-			"pwdrequired" "1"
-			"timeupdated" "1733515673"
-		}
-		"pavlov-tv"
-		{
-			"buildid" "16661189"
-			"pwdrequired" "1"
-			"timeupdated" "1733524766"
-		}
-		"pico4_test"
-		{
-			"buildid" "14330555"
-			"description" "Pico 4 fix"
-			"timeupdated" "1715366957"
+			"buildid" "17506385"
+			"timeupdated" "1740526663"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -367,6 +293,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26533746"
-"_sha" "0d5dfdaf72b02b83d0b1fb82b42f90c8176822ca"
-"_size" "6547"
+"_change_number" "27665403"
+"_sha" "e0421179c83994783fe825e70de6861cb24b2bed"
+"_size" "4888"
