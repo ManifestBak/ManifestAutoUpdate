@@ -1,0 +1,77 @@
+"appid" "216840"
+"common"
+{
+	"name" "Dungeon Defenders Development Kit"
+	"type" "Tool"
+	"freeondemand" "1"
+	"gameid" "216840"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp216840"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateTool"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dungeon Defenders"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\DunDefToolLauncher.exe"
+			"description" "Launch Dev Kit Tool"
+			"workingdir" "Binaries"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"216841"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6444362078744362391"
+				"size" "10130503011"
+				"download" "5423771088"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9679753"
+			"timeupdated" "1665195982"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "27209232"
+"_sha" "52c4986a797862b4f9d61fb5b62f38cf2e34e42a"
+"_size" "1116"
