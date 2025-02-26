@@ -1,0 +1,172 @@
+"appid" "102700"
+"common"
+{
+	"name" "A.V.A. Alliance of Valiant Arms™"
+	"clienttga" "c7931825d332a997988c5c7e1d46843c03809c1c"
+	"clienticon" "8548fedec1c1806e8c56a78112dd5d35e492194d"
+	"icon" "e35e4468415edb9208f01fd8c7a23552bb7629b3"
+	"logo" "e1bc8797f8e467969b607a3853cce866af32c8fa"
+	"logo_small" "e1bc8797f8e467969b607a3853cce866af32c8fa_thumb"
+	"oslist" "windows"
+	"type" "game"
+	"metacritic_name" "A.V.A. Alliance of Valiant Arms™"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_e5b07b4d105c5714007063a201a084c945df90a8.jpg"
+	"store_asset_mtime" "1475798868"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Red Duck Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "En Masse Entertainment"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_9" "1"
+		"category_36" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1308069000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "102700"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "1663"
+		"2" "3859"
+		"3" "1774"
+		"4" "19"
+		"5" "1659"
+		"6" "3839"
+		"7" "1685"
+		"8" "128"
+		"9" "4182"
+		"10" "3843"
+		"11" "21"
+		"12" "1662"
+		"13" "1695"
+		"14" "9"
+		"15" "4168"
+		"16" "4136"
+		"17" "4345"
+		"18" "1667"
+		"19" "7481"
+	}
+	"review_score" "5"
+	"review_percentage" "53"
+}
+"extended"
+{
+	"developer" "Red Duck Inc."
+	"gamedir" "AVA"
+	"homepage" "http://ava.enmasse.com/"
+	"inhibitautoversionroll" "1"
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "102701"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "En Masse Entertainment"
+	"listofdlc" "224240,224241,224242,224243,224244,224245,306300,333850,334050,334060,539100,539101,539102,539103,539104"
+}
+"config"
+{
+	"launch"
+	{
+		"1"
+		{
+			"executable" "launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "AVA"
+}
+"depots"
+{
+	"102701"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5051457308603120631"
+				"size" "11927211699"
+				"download" "5581223616"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2625684"
+			"timeupdated" "1521750388"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"hidecloudui" "0"
+}
+"_missing_token" "False"
+"_change_number" "27151772"
+"_sha" "e1b8ad72b2cea08d49ccb47fdc8b3a36e0fc4065"
+"_size" "3004"
