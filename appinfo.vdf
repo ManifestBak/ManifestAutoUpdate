@@ -1,0 +1,226 @@
+"appid" "2711070"
+"common"
+{
+	"name" "Casino Boss Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "2e057271cc84fc3ae4c15c29add022a847b16dd3"
+	"clienttga" "e256d361b7aa1d3157ef4c74d773b0ad671895ff"
+	"clienticon" "5b7cba832694c728d5c152c53fea0e80bcac5251"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "4ee318c419ef7497d96e22390324e75aa332e4e3/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "91.59213905865798"
+			"height_pct" "60.3592324936636"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "91.59213905865798"
+				"height_pct" "60.3592324936636"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1740496636"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nons Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nons Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715281559"
+	"community_hub_visible" "1"
+	"gameid" "2711070"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "19"
+		"2" "597"
+		"3" "16250"
+		"4" "12472"
+		"5" "10235"
+		"6" "1663"
+		"7" "9204"
+		"8" "3814"
+		"9" "4191"
+		"10" "493"
+		"11" "3839"
+		"12" "492"
+		"13" "4305"
+		"14" "1697"
+		"15" "4747"
+		"16" "1742"
+		"17" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "Nons Games"
+	"publisher" "Nons Games"
+}
+"config"
+{
+	"installdir" "Casino Boss Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Casino Boss Simulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,turkish"
+	"2711071"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5393238997016498686"
+				"size" "1548240479"
+				"download" "210580256"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15161702"
+			"timeupdated" "1721989971"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "6400000"
+	"maxnumfiles" "10"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "27658203"
+"_sha" "134e0b1d8fe9066591635a8cf01adb65db82c098"
+"_size" "3483"
