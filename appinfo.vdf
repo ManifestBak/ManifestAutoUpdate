@@ -161,6 +161,7 @@
 		}
 	}
 	"steam_release_date" "1737039644"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/3101230/discussions/0/591762405949764989/"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "3101230"
@@ -215,9 +216,9 @@
 		{
 			"public"
 			{
-				"gid" "4801956945096889256"
-				"size" "3554161507"
-				"download" "1207012528"
+				"gid" "4203883203513102174"
+				"size" "3748544328"
+				"download" "1283564960"
 			}
 		}
 	}
@@ -242,8 +243,8 @@
 	{
 		"public"
 		{
-			"buildid" "17030058"
-			"timeupdated" "1737126231"
+			"buildid" "17514805"
+			"timeupdated" "1740578927"
 		}
 	}
 	"privatebranches" "1"
@@ -281,6 +282,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27044441"
-"_sha" "f291c50ae86eee0922da177ad058d99af3f5d1bd"
-"_size" "4783"
+"_change_number" "27676730"
+"_sha" "c6a88d8c01eed98de1f4e7c928ee2fb96a075caa"
+"_size" "4883"
