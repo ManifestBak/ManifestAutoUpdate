@@ -1,0 +1,243 @@
+"appid" "2014650"
+"common"
+{
+	"name" "PHOBOS Project"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "0678ebf19e63450e722ab0417c1179ec366bb0de"
+	"clienttga" "fa904371befec5c7a7ceefe6e3809a04b9483126"
+	"clienticon" "6422c15fcc132b05da121ab19fe5a1d6551aa5b2"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704499200"
+		"tested_build_id" "9835997"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.255813953488357"
+			"height_pct" "50.37995725480883"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.255813953488357"
+				"height_pct" "50.37995725480883"
+			}
+		}
+	}
+	"store_asset_mtime" "1665395476"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Antoine Aubin"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Antoine Aubin"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666612620"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2014650"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "21"
+		"2" "1667"
+		"3" "1721"
+		"4" "5186"
+		"5" "6815"
+		"6" "3839"
+		"7" "1714"
+		"8" "4182"
+		"9" "13906"
+		"10" "9204"
+		"11" "4166"
+		"12" "5716"
+		"13" "10808"
+		"14" "5094"
+		"15" "7250"
+		"16" "4486"
+		"17" "4191"
+		"18" "4747"
+		"19" "4106"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "Antoine Aubin"
+	"publisher" "Antoine Aubin"
+	"homepage" "http://antoineaubin.fr/phobos-project/"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "PHOBOS Project"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Phobos Project.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2014651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2380737828286372947"
+				"size" "2125289382"
+				"download" "829919552"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "9835997"
+			"timeupdated" "1667211076"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2080000000"
+	"maxnumfiles" "2300"
+}
+"_missing_token" "False"
+"_change_number" "27152713"
+"_sha" "c16a8528fafe701c960ee5d693dbd6cc12683ca5"
+"_size" "4165"
