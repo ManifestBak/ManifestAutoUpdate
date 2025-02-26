@@ -1,49 +1,65 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2025-02-26 20:30:03
+## 更新时间：2025-02-26 20:40:12
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 672480 | Mini Hockey VR| Game |
-| 672970 | Swords and Sandals Medieval| Game |
-| 670630 | Slingshot Puzzle| Game |
-| 667800 | Loco Dojo| Game |
-| 670750 | 0°N 0°W| Game |
-| 668980 | Forsaken Remastered| Game |
-| 666320 | Watergate Xtreme| Game |
-| 667040 | Alicia Quatermain 2: The Stone of Fate| Game |
-| 665310 | Tank Battle: Pacific| Game |
-| 665840 | 去海边：信使| Game |
-| 663410 | Circle Up| Game |
-| 663200 | Rift Coaster HD Remastered VR| Game |
-| 663190 | Dream Coaster VR Remastered| Game |
-| 665140 | Midnight at the Red Light : An Investigation| Game |
-| 662990 | Eddy Violet| Game |
-| 662320 | Metro Conflict: The Origin| Game |
-| 664000 | HammerHelm| Game |
-| 662840 | Abo Khashem| Game |
-| 662390 | Squish and the Corrupted Crystal| Game |
-| 662230 | Trendpoker 3D: Texas Hold'em Poker| Game |
-| 658790 | Samurai Riot Definitive Edition| Game |
-| 657280 | Rytmik Studio| Application |
-| 656330 | Outpost L5| Game |
-| 654800 | Guts and Syringes| Game |
-| 654070 | Escape Room| Game |
-| 655950 | Exocomets| Game |
-| 655020 | Unreal Estate| Game |
-| 649360 | Yesterday| Game |
-| 652330 | Hereafter| Game |
-| 649870 | NitroRage| Game |
-| 649620 | VR Battleship YAMATO| Game |
-| 652050 | The Labyrinth| Game |
-| 649640 | Ashes Cricket| Game |
-| 649600 | Swords and Sandals 2 Redux| Game |
-| 650940 | Rogue Empire| Game |
-| 654890 | Grand Tactician: The Civil War (1861-1865)| Game |
-| 654580 | Senalux| Game |
-| 656530 | Pro Gamer Manager 2| Game |
-| 650110 | Princess Maker 3: Fairy Tales Come True| Game |
-| 645320 | SCARF| Game |
-| 642770 | Vinyl Reality| Application |
-| 1183720 | Holoswitch| Application |
-| 1181610 | 战环空间| Game |
-| 1183800 | Shardpunk| Game |
+| 1005950 | 大老爷 GrandLordAuto| Game |
+| 1299060 | 咒笼: 诅咒领域| Game |
+| 1182110 | Weed Shop 3| Game |
+| 1494810 | Mortal Sin| Game |
+| 1150090 | 学习工厂 (Learning Factory)| Game |
+| 1669980 | 火山的女儿| Game |
+| 1639880 | Longvinter Dedicated Server| Tool |
+| 1857090 | 诺兰德 Norland| Game |
+| 2072980 | 地下城骑士团| Game |
+| 2088570 | Tiny Rogues| Game |
+| 1324780 | Easy Red 2| Game |
+| 1635450 | Longvinter| Game |
+| 1869270 | 多炮塔神教| Game |
+| 2360210 | 符文竞技场| Game |
+| 2398170 | 深地爆破采掘| Game |
+| 2275020 | Backrooms Rec.| Game |
+| 2342950 | God Of Weapons| Game |
+| 1599340 | Lost Ark| Game |
+| 1371980 | 《恶意不息》| Game |
+| 2376580 | TRIBE NINE：战极死游| Game |
+| 211500 | RaceRoom Racing Experience | Game |
+| 2336220 | 杯杯倒满 Feed The Cups| Game |
+| 2430 | The Ship Tutorial| game |
+| 2511050 | 勇拳冲锋  -3对3 乱斗竞技场-| Game |
+| 2076140 | 魔饮心语| Game |
+| 2720620 | One More Night| Game |
+| 2654540 | 無休仙途/EndlessJourney| Game |
+| 3085890 | 世外桃源| Game |
+| 24999 | Mass Effect 2| game |
+| 3053210 | Sticker Delight| Game |
+| 3014680 | 本草归元录| Game |
+| 3057400 | 七日求生：新世界| Game |
+| 3351580 | Body Pay OMG! - Anime & Story DLC| DLC |
+| 3113230 | 放置仙途| Game |
+| 2445690 | 失落城堡2| Game |
+| 2457540 | VGDD2| Game |
+| 2957700 | 太太！我喜欢你！| Game |
+| 3177970 | 原点计划：血肉工匠| Game |
+| 2273430 | 苍翼：混沌效应| Game |
+| 2870110 | Tennis Manager 2024| Game |
+| 3051380 | 洛菲水族馆 · Lofi Aquarium| Game |
+| 2730530 | 协律01：新生活| Game |
+| 354060 | RaceRoom Dedicated Server| Tool |
+| 3469850 | 噩梦摇篮：献花于你| Game |
+| 3074020 | 异世界生存指南(美食猎人)| Game |
+| 3244740 | 魔饮心语：风暴骤起| DLC |
+| 2746910 | 蜀末：血月三国| Game |
+| 2998290 | 异人| Game |
+| 3196570 | 轮回之境| Game |
+| 3244210 | Chonkers| Game |
+| 3060170 | Chained in the Backrooms| Game |
+| 3025290 | UNDERWARD: 运送实验怪物的人| Game |
+| 629730 | Blade & Sorcery| Game |
+| 3282510 | Body Pay《我的天啊！一个胸部丰满的女人正在主动引诱我！》| Game |
+| 687800 | Heads Will Roll: Reforged| Game |
+| 862570 | Ding Dong XL| Game |
+| 570 | Dota 2| game |
+| 3198540 | Dungeon Antiqua| Game |
+| 707010 | Will To Live Online| Game |
+| 236390 | War Thunder| Game |
