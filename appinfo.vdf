@@ -1,0 +1,299 @@
+"appid" "1224600"
+"common"
+{
+	"name" "G String"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "b189bc98578367ee3a059a29f1f6d9b4668ecc16"
+	"logo_small" "b189bc98578367ee3a059a29f1f6d9b4668ecc16_thumb"
+	"icon" "65d2671a92e7649b836752359edb2ace5fb0a149"
+	"clienttga" "4ec5c34e1f00d3ea702975c54c67d07fcfe7d50e"
+	"clienticon" "0c5a23d80725ce55c05a72776a41247659dba4f7"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"metacritic_name" "G String"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "43.815635939323215"
+			"height_pct" "60.69841882371567"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "43.815635939323215"
+				"height_pct" "60.69841882371567"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1633031362"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eyaura"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "LunchHouse Software"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "LunchHouse Software"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_13" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1602831600"
+	"steam_release_date" "1602887649"
+	"community_hub_visible" "1"
+	"gameid" "1224600"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "19"
+		"2" "21"
+		"3" "4115"
+		"4" "4667"
+		"5" "1663"
+		"6" "3942"
+		"7" "4166"
+		"8" "7208"
+		"9" "12095"
+		"10" "4295"
+		"11" "4345"
+		"12" "1667"
+		"13" "3916"
+		"14" "5030"
+		"15" "1774"
+		"16" "3934"
+		"17" "4004"
+		"18" "3834"
+		"19" "3839"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Eyaura"
+	"publisher" "LunchHouse Software"
+	"homepage" "https://gstring.lunchhouse.software"
+}
+"config"
+{
+	"installdir" "G String"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "gstring.exe"
+			"arguments" "-game gstringv2 +fps_max 300 +r_radiosity 3 +mat_dxlevel 95"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1224601"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8921579814389807970"
+				"size" "14122162476"
+				"download" "5929324960"
+			}
+			"previous"
+			{
+				"gid" "140413733362970425"
+				"size" "11506810439"
+				"download" "4775925632"
+			}
+			"legacy_patch_openbeta"
+			{
+				"gid" "8058842536308738585"
+				"size" "12159117895"
+				"download" "5933926848"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7020678"
+			"timeupdated" "1626191885"
+		}
+		"previous"
+		{
+			"buildid" "5714414"
+			"description" "Previous build of the game, for save compatibility."
+			"timeupdated" "1608580837"
+		}
+		"legacy_patch_openbeta"
+		{
+			"buildid" "17129022"
+			"description" "Open Beta for BCUP Patch for 2025"
+			"timeupdated" "1737793521"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "268435456"
+	"maxnumfiles" "2048"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "gstringv2/save"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27247809"
+"_sha" "347bfcbb66d13e161759b993bce6573663618edc"
+"_size" "4792"
