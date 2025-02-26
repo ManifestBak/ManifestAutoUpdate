@@ -1,0 +1,350 @@
+"appid" "1285430"
+"common"
+{
+	"name" "The Link"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "191c7dd12e266eb95bfa3f8addf9a03a3a651379"
+	"clienticon" "884501f2c0346fc32a86c77337c1b4ef034aacf3"
+	"clienttga" "e546c0adf14b7dc374e59421700e6837a24c567c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1285430_eula_0"
+			"name" "The Link EULA"
+			"url" "https://store.steampowered.com//eula/1285430_eula_0"
+			"version" "6"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "b709a8e5731a0d328819b86f6579ab45ff750a27/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "29.39730986627103"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "29.39730986627103"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1738659060"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Masonx"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Masonx"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "9"
+		"4" "57"
+		"5" "60"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1733659620"
+	"community_hub_visible" "1"
+	"gameid" "1285430"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "597"
+		"3" "699"
+		"4" "87"
+		"5" "493"
+		"6" "113"
+		"7" "13906"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "Masonx"
+	"publisher" "Masonx"
+}
+"config"
+{
+	"installdir" "The Link"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Link.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1285431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8486956307822191477"
+				"size" "469475765"
+				"download" "216084704"
+			}
+			"beta"
+			{
+				"gid" "5652047194227937000"
+				"size" "469094659"
+				"download" "215774544"
+			}
+			"legacy"
+			{
+				"gid" "2283717224664645441"
+				"size" "469016757"
+				"download" "215667136"
+			}
+		}
+	}
+	"1285432"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2847725291259842744"
+				"size" "6"
+				"download" "64"
+			}
+			"beta"
+			{
+				"gid" "2847725291259842744"
+				"size" "6"
+				"download" "64"
+			}
+			"legacy"
+			{
+				"gid" "2847725291259842744"
+				"size" "6"
+				"download" "64"
+			}
+		}
+	}
+	"1285433"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4122563655474726063"
+				"size" "5"
+				"download" "64"
+			}
+			"beta"
+			{
+				"gid" "4122563655474726063"
+				"size" "5"
+				"download" "64"
+			}
+			"legacy"
+			{
+				"gid" "4122563655474726063"
+				"size" "5"
+				"download" "64"
+			}
+		}
+	}
+	"1285434"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6097075974761730749"
+				"size" "5672960"
+				"download" "5688320"
+			}
+			"beta"
+			{
+				"gid" "260395091047670808"
+				"size" "5673148"
+				"download" "5688240"
+			}
+			"legacy"
+			{
+				"gid" "8857274009578401144"
+				"size" "5485746"
+				"download" "5499280"
+			}
+		}
+	}
+	"1285435"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5110532036470641321"
+				"size" "5673232"
+				"download" "5687952"
+			}
+			"beta"
+			{
+				"gid" "4641240875436123816"
+				"size" "5673435"
+				"download" "5688400"
+			}
+			"legacy"
+			{
+				"gid" "8502772533463210704"
+				"size" "5566262"
+				"download" "5579824"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17380155"
+			"timeupdated" "1739655447"
+		}
+		"beta"
+		{
+			"buildid" "17506730"
+			"description" "Public Test"
+			"timeupdated" "1740524342"
+		}
+		"legacy"
+		{
+			"buildid" "17144474"
+			"description" "Old version"
+			"timeupdated" "1738490796"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27665074"
+"_sha" "2b76b78cb91cebc48a9465b9c38abae63cc43cd8"
+"_size" "5313"
