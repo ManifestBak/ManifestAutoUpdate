@@ -61,6 +61,7 @@
 	{
 		"english" "header.jpg"
 	}
+	"store_screenshot" "0000000945.jpg"
 	"associations"
 	{
 		"0"
@@ -188,12 +189,6 @@
 				"size" "1447766698"
 				"download" "0"
 			}
-			"steampipe"
-			{
-				"gid" "1141156336463691638"
-				"size" "1447766698"
-				"download" "0"
-			}
 		}
 		"depotfromapp" "2400"
 	}
@@ -285,6 +280,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24203897"
-"_sha" "625d911d8e0fb441d0ad28c9e25741aee2254877"
-"_size" "4859"
+"_change_number" "26685919"
+"_sha" "74ef71db7c70c244d748904ad616e97399c32e3e"
+"_size" "4789"
