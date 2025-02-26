@@ -1,0 +1,90 @@
+"appid" "208050"
+"common"
+{
+	"name" "Sniper Elite V2 Dedicated Server"
+	"type" "Tool"
+	"freeondemand" "1"
+	"freetodownload" "1"
+	"gameid" "208050"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "Sniper Elite V2 Dedicated Server"
+	"homepage" ""
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "208051"
+	"serverbrowsername" ""
+	"state" "eStateTool"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\SniperEliteV2CLI.exe"
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Sniper Elite V2"
+}
+"depots"
+{
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"63381"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "63380"
+		"sharedinstall" "2"
+	}
+	"63393"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "63380"
+		"sharedinstall" "2"
+	}
+	"208051"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "563153054103075786"
+				"size" "14791805"
+				"download" "0"
+			}
+		}
+	}
+	"63394"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "63380"
+		"sharedinstall" "2"
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "59069"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "27134964"
+"_sha" "4d267e7f691091bde0e68db7c7fa20ae4f61e74c"
+"_size" "1293"
