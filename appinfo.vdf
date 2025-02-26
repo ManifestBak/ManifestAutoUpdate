@@ -1,0 +1,165 @@
+"appid" "734550"
+"common"
+{
+	"name" "Wheel Riders Online OBT"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "d419319e248601a0f1c39fb38d9d1ac71ca34b88"
+	"clienttga" "3f3a379e60d46b8199a29568a8972a0f13dcb842"
+	"icon" "bc77ddc68597260b926c7da29141bb71d67fb04f"
+	"logo" "98decc6488b37308f15a09ae7acbf6374f1c4468"
+	"logo_small" "98decc6488b37308f15a09ae7acbf6374f1c4468_thumb"
+	"restricted_countries" "DE"
+	"metacritic_name" "Wheel Riders Online"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_b84702d422f3c722fb5f12c41162a0a0a7fd7bf2.jpg"
+	"store_asset_mtime" "1511007368"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Raum Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Raum Studio"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "1"
+		"1" "37"
+		"2" "29"
+		"3" "9"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1514374020"
+	"community_hub_visible" "1"
+	"gameid" "734550"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "113"
+		"1" "699"
+		"2" "19"
+		"3" "128"
+		"4" "1695"
+	}
+	"review_score" "4"
+	"review_percentage" "27"
+}
+"extended"
+{
+	"developer" "Raum Studio"
+	"publisher" "Raum Studio"
+	"isfreeapp" "1"
+	"listofdlc" "746080,758450"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wheel Riders Online"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WarCarOnline.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"734551"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3804390229865747138"
+				"size" "7462097362"
+				"download" "7346765088"
+			}
+		}
+	}
+	"baselanguages" "english,russian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2564187"
+			"timeupdated" "1519837273"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27008609"
+"_sha" "d86ee1b81eb328f49751c37be55adc0876dbe779"
+"_size" "2655"
