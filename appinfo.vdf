@@ -1,0 +1,390 @@
+"appid" "2416500"
+"common"
+{
+	"name" "Legends of Savvarah: Time of Pariah"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "ab3170ae51117c96e5fcc00fb821fe9eb1320a4d"
+	"clienttga" "df065a00b82202469824684232fd1f079b95d073"
+	"clienticon" "4a942a3583c5eb80ebce7f32c732e9d19beb6b45"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.19316500725132"
+			"height_pct" "87.28995089338153"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.19316500725132"
+				"height_pct" "87.28995089338153"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1720555621"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ST Sinovar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ST Sinovar"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Legends of Savvarah"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722420960"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2416500"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4486"
+		"2" "11014"
+		"3" "1742"
+		"4" "6869"
+		"5" "6426"
+		"6" "6971"
+		"7" "21"
+		"8" "5094"
+		"9" "3799"
+		"10" "6378"
+		"11" "4947"
+		"12" "4252"
+		"13" "1684"
+		"14" "4172"
+		"15" "4166"
+		"16" "492"
+		"17" "6815"
+		"18" "31275"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "ST Sinovar"
+	"publisher" "ST Sinovar"
+	"listofdlc" "2949830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Legends of Savvarah Time of Pariah"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "LoS_Time_of_Pariah.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah "
+				"russian" "Legends of Savvarah: Time of Pariah "
+			}
+			"description" "Legends of Savvarah: Time of Pariah "
+		}
+		"1"
+		{
+			"executable" "LoS_Time_of_Pariah.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah "
+				"russian" "Legends of Savvarah: Time of Pariah "
+			}
+			"description" "Legends of Savvarah: Time of Pariah "
+		}
+		"2"
+		{
+			"executable" "LoS_Time_of_Pariah-1.0-linux.tar.bz2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah "
+				"russian" "Legends of Savvarah: Time of Pariah "
+			}
+			"description" "Legends of Savvarah: Time of Pariah "
+		}
+		"3"
+		{
+			"executable" "LoS_Time_of_Pariah_18.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2949830"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+				"russian" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+			}
+			"description" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+		}
+		"4"
+		{
+			"executable" "LoS_Time_of_Pariah_18.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"ownsdlc" "2949830"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+				"russian" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+			}
+			"description" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+		}
+		"5"
+		{
+			"executable" "LoS_Time_of_Pariah_18-1.0-linux.tar.bz2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"ownsdlc" "2949830"
+			}
+			"description_loc"
+			{
+				"english" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+				"russian" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+			}
+			"description" "Legends of Savvarah: Time of Pariah (18+ DLC)"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"2416501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6245652567710644074"
+				"size" "368212072"
+				"download" "298112576"
+			}
+		}
+	}
+	"2416502"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5541532560808689409"
+				"size" "300599650"
+				"download" "304351056"
+			}
+		}
+	}
+	"2416503"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3478069511299155369"
+				"size" "387686201"
+				"download" "302534512"
+			}
+		}
+	}
+	"2949830"
+	{
+		"dlcappid" "2949830"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "86434403522378656"
+				"size" "413279609"
+				"download" "339621488"
+			}
+		}
+	}
+	"2949838"
+	{
+		"dlcappid" "2949830"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3917254331006447409"
+				"size" "343039390"
+				"download" "347340816"
+			}
+		}
+	}
+	"2949837"
+	{
+		"dlcappid" "2949830"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2526565299764957108"
+				"size" "432753741"
+				"download" "344043424"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15564817"
+			"timeupdated" "1725267069"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27617031"
+"_sha" "9c85f5c778ef89289697ab97aff9ceedeb7da619"
+"_size" "6589"
