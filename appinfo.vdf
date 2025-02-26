@@ -1,0 +1,291 @@
+"appid" "2715410"
+"common"
+{
+	"name" "The HELL"
+	"type" "Game"
+	"releasestate" "prerelease"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "63d49f39a81c6fd4dc0841f70ce17a4783fa6493"
+	"clienticon" "9b7178ebcecba9aa09b7ee362dd9ee88e5c448be"
+	"icon" "9b342b920334eb9546c2f1767b5946f26fd5980f"
+	"clienticns" "1c8bb59ff3d6969b662cd9e35c465b9f8c207ebd"
+	"linuxclienticon" "6b3381a1e2d8d49ccc3ceeef562c1bce152e547b"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "aaa75e279589f6179fb28f81ce26fed33c0728c9/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.161562808341543"
+			"height_pct" "40.623091552604706"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.161562808341543"
+				"height_pct" "40.623091552604706"
+			}
+			"image"
+			{
+				"english" "61d8e90e8e8c016a6ae2f49f1bb061661a1a16d3/logo.png"
+			}
+			"image2x"
+			{
+				"english" "61d8e90e8e8c016a6ae2f49f1bb061661a1a16d3/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "885a59c2190827e0d922776af43973865e61811e/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1736934081"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "METROPOLICE"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "METROPOLICE"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "2715410"
+	"exfgls" "8"
+	"store_tags"
+	{
+		"0" "3813"
+		"1" "4328"
+		"2" "1662"
+		"3" "599"
+		"4" "7332"
+		"5" "1643"
+		"6" "12472"
+		"7" "4191"
+		"8" "1667"
+		"9" "1742"
+		"10" "6426"
+		"11" "9"
+		"12" "493"
+		"13" "492"
+		"14" "9541"
+		"15" "4342"
+		"16" "8945"
+		"17" "4182"
+		"18" "4145"
+		"19" "4305"
+	}
+}
+"extended"
+{
+	"developer" "METROPOLICE"
+	"publisher" "METROPOLICE"
+	"homepage" "https://themetropolice.com/home"
+}
+"config"
+{
+	"installdir" "theHELL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows/TheHellLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2715411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "563042421467657792"
+				"size" "5500817285"
+				"download" "4949194528"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17014100"
+			"timeupdated" "1737352078"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "15"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TheHell/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
