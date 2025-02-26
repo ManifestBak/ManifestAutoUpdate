@@ -1,0 +1,257 @@
+"appid" "99890"
+"common"
+{
+	"name" "Darkspore"
+	"logo" "da85633ba1fe6b30d2a8844a041b8d4243d553b1"
+	"logo_small" "da85633ba1fe6b30d2a8844a041b8d4243d553b1_thumb"
+	"clienticon" "c013d24ef2a3f654065bb1f61cee5142cefd9c6f"
+	"clienttga" "4584a50daa31717b9aba4175b75f907fd02f6472"
+	"icon" "c5c2c0440ff69d63abef405082109c83c945e85f"
+	"eulas"
+	{
+		"0"
+		{
+			"url" "http://store.steampowered.com/eula/eula_99890"
+			"id" "eula_99890"
+			"name" "eula_99890"
+		}
+	}
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645488000"
+		"tested_build_id" "11641"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Darkspore"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_42324cb0fa93a4ce96fd4ac21bd1bd0d1f219aa0.jpg"
+	"store_asset_mtime" "1301350230"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Maxis™"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"metacritic_score" "65"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/darkspore\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "99890"
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Maxis™"
+	"gamedir" "Darkspore"
+	"homepage" "http://www.darkspore.com/"
+	"icon" ""
+	"inhibitautoversionroll" "1"
+	"installscript" "99890_install.vdf"
+	"languages" "english,french,german,russian,polish"
+	"launcheula" "http://store.steampowered.com/eula/eula_99890"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "99891"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Electronic Arts™"
+	"listofdlc" "99895,99896"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Darkspore"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DarksporeBin\\Darkspore.exe"
+		}
+		"1"
+		{
+			"description" "View Support Information"
+			"executable" "Support\\EA Help\\Electronic_Arts_Technical_Support.htm"
+		}
+	}
+}
+"depots"
+{
+	"99891"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5463557743298256365"
+				"size" "5908306231"
+				"download" "0"
+			}
+		}
+	}
+	"80696"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7570888758835146774"
+				"size" "78677971"
+				"download" "0"
+			}
+		}
+	}
+	"80697"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7042752822954862761"
+				"size" "74605941"
+				"download" "0"
+			}
+		}
+	}
+	"80698"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "22181923537213019"
+				"size" "79429971"
+				"download" "0"
+			}
+		}
+	}
+	"80699"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6175634753968084050"
+				"size" "79069971"
+				"download" "0"
+			}
+		}
+	}
+	"80700"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1970592784118628707"
+				"size" "79285971"
+				"download" "0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"baselanguages" "english,french,german,russian,polish"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11641"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27429209"
+"_sha" "52a1f62d3ebef2eeacccfcfcf6de95fc3defe109"
+"_size" "4347"
