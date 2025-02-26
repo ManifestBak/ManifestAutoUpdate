@@ -1,0 +1,273 @@
+"appid" "1494920"
+"common"
+{
+	"name" "Petals of the Star Curtain"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "19110557cf351e46ddc5fd1ad9478c79b9791290"
+	"logo_small" "19110557cf351e46ddc5fd1ad9478c79b9791290_thumb"
+	"icon" "552d4ab57fd203d18b86c29546be79fc303a2acd"
+	"clienttga" "9ec344a27c07a75b03fa94e72345143d42177451"
+	"clienticon" "8f14fc203dea6cbd549491b7a0e12ae1e86a9b55"
+	"name_localized"
+	{
+		"tchinese" "星帷之瓣"
+	}
+	"releasestate" "released"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "54.54115421002837"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "54.54115421002837"
+			}
+		}
+	}
+	"store_asset_mtime" "1608816624"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "daihua.k"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "daihua.k"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "RMAsia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "散落之瓣"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "RMAsia"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "37"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1608883200"
+	"steam_release_date" "1608816876"
+	"community_hub_visible" "1"
+	"gameid" "1494920"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "21"
+		"2" "3871"
+		"3" "492"
+		"4" "1742"
+		"5" "4325"
+		"6" "6971"
+		"7" "1684"
+		"8" "113"
+		"9" "4182"
+		"10" "5577"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "daihua.k"
+	"publisher" "daihua.k"
+	"isfreeapp" "1"
+	"listofdlc" "1505890"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Starcurtain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "13"
+}
+"depots"
+{
+	"baselanguages" "english,tchinese"
+	"1494921"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5937132429931339222"
+				"size" "261512577"
+				"download" "239259408"
+			}
+		}
+	}
+	"1494922"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2526708466346837015"
+				"size" "261512577"
+				"download" "240471376"
+			}
+		}
+	}
+	"1505890"
+	{
+		"dlcappid" "1505890"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8073044351191864041"
+				"size" "3134510"
+				"download" "3111328"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8145077"
+			"timeupdated" "1643975825"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "*.rvdata2"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25600938"
+"_sha" "4d19e8273dfba7ce2cac2f96b4d1fd9cad458cb4"
+"_size" "4138"
