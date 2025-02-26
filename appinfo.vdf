@@ -1,0 +1,223 @@
+"appid" "2079120"
+"common"
+{
+	"name" "Warudo"
+	"type" "Application"
+	"icon" "a5b7b1bd638cf81799b5f86122831abbbfb5179a"
+	"clienticon" "bff4a0e5a64dc816eef9fc3c898918ce6bf9276f"
+	"clienttga" "4f2db7a4d870e7e8a015e49dac410f573af385ec"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2079120_eula_0"
+			"name" "Warudo EULA"
+			"url" "https://store.steampowered.com//eula/2079120_eula_0"
+			"version" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.54815568072421"
+			"height_pct" "71.4393645473433"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.54815568072421"
+				"height_pct" "71.4393645473433"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1689533056"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hakuya Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hakuya Labs"
+		}
+	}
+	"primary_genre" "51"
+	"genres"
+	{
+		"0" "51"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_30" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1689333150"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2079120"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "872"
+		"1" "493"
+		"2" "4085"
+		"3" "784"
+		"4" "492"
+		"5" "8013"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Hakuya Labs"
+	"publisher" "Hakuya Labs"
+	"homepage" "https://warudo.app"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Warudo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Warudo.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2079121"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2491374980139212563"
+				"size" "5505260194"
+				"download" "1939738800"
+			}
+			"beta"
+			{
+				"gid" "6954104057024378846"
+				"size" "5037736826"
+				"download" "1784389600"
+			}
+			"stable"
+			{
+				"gid" "2734311929505201976"
+				"size" "4862943373"
+				"download" "1679998560"
+			}
+		}
+	}
+	"workshopdepot" "2079120"
+	"baselanguages" "english,schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16723828"
+			"timeupdated" "1734020033"
+		}
+		"beta"
+		{
+			"buildid" "17294592"
+			"description" "Beta builds."
+			"timeupdated" "1739060340"
+		}
+		"stable"
+		{
+			"buildid" "16214902"
+			"description" "Stable branch."
+			"timeupdated" "1733093212"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "27383211"
+"_sha" "a5f4c2beb2ee2c0b686bca01fb519c91fe6113bd"
+"_size" "3510"
