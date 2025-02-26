@@ -1,0 +1,198 @@
+"appid" "2134540"
+"common"
+{
+	"name" "Milita Aventuro"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "43c8bb16db7438599db45f2c10df2cbbed8d13ec"
+	"linuxclienticon" "8427a2fd340d6a95933e71f1b1f5ef30f7e43207"
+	"clienticns" "8427a2fd340d6a95933e71f1b1f5ef30f7e43207"
+	"clienticon" "9f17b065fa129e4f6c4cf1e12655be37cd7a00d8"
+	"clienttga" "26f0914fedede245ccabdc3524a91f97275c886d"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.169491047229215"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "60.169491047229215"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1678087731"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dawncraft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dawncraft"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "37"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1664451840"
+	"community_hub_visible" "1"
+	"gameid" "2134540"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4182"
+		"2" "3871"
+		"3" "4434"
+		"4" "4474"
+		"5" "4085"
+		"6" "7208"
+		"7" "3854"
+		"8" "1742"
+		"9" "6691"
+		"10" "51306"
+		"11" "4168"
+		"12" "4754"
+		"13" "1678"
+		"14" "4598"
+		"15" "4845"
+		"16" "1651"
+		"17" "5923"
+		"18" "180368"
+		"19" "15172"
+	}
+	"review_score" "7"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Dawncraft"
+	"publisher" "Dawncraft"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"installdir" "Milita Aventuro"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"arguments" "--in-process-gpu"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"2134541"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8864473686952423239"
+				"size" "211560996"
+				"download" "90938064"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10689871"
+			"timeupdated" "1677905933"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25617962"
+"_sha" "bd9d00e36eef4f635bf5a764fcd3aca222b0f774"
+"_size" "3089"
