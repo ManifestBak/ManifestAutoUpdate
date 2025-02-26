@@ -1,0 +1,254 @@
+"appid" "2316120"
+"common"
+{
+	"name" "溯光行 Demo"
+	"type" "Demo"
+	"parent" "2179370"
+	"icon" "e7483aa18e76bde0ab8cdc3380a4bd0b5acc53e2"
+	"clienticon" "e5ced824a19de0faaf986bc567fde51d1225c541"
+	"clienttga" "2694ae366c4fc7761e7a484f31e7669cbb109456"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"restricted_countries" "DE"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "244aec988aaa75324ea22410bfa0f4c850e49178/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "65.60092376563573"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "21beb4b53d36a512b9cc2f3539374897a57b567a/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "21beb4b53d36a512b9cc2f3539374897a57b567a/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "ae41f397686ae8479d5cbfd9df33472eb68878e4/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "ae41f397686ae8479d5cbfd9df33472eb68878e4/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ae41f397686ae8479d5cbfd9df33472eb68878e4/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "65.60092376563573"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "6b643c42a9b50f816e7dd12a2d41d5537301a2d9/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "6b643c42a9b50f816e7dd12a2d41d5537301a2d9/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1737173304"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Xiaming Game"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mammorize"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Xiaming Game"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685032649"
+	"gameid" "2316120"
+	"exfgls" "9"
+}
+"extended"
+{
+	"demoofappid" "2179370"
+	"developer" "Xiaming Game"
+	"publisher" "Mammorize"
+}
+"config"
+{
+	"installdir" "溯光行 Demo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RetraceTheLight.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2316123"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3425307098926376495"
+				"size" "3198638758"
+				"download" "2911741408"
+			}
+		}
+	}
+	"2316121"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17482687"
+			"timeupdated" "1740397670"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RetraceTheLight/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "27632455"
+"_sha" "2ff3bb5d08be213f2e240b462310627cfd1f3541"
+"_size" "4163"
